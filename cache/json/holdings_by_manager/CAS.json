@@ -16,7 +16,7 @@
       "week_52_low": 118.5,
       "week_52_high": 364.0,
       "reporting_date": "",
-      "reporting_quarter": "Q3 2025",
+      "reporting_quarter": "Q4 2025",
       "market_cap": 0.0,
       "pe_ratio": 0.0,
       "dividend_yield": 0.0,
@@ -40,7 +40,7 @@
       "week_52_low": 30.59,
       "week_52_high": 51.15,
       "reporting_date": "",
-      "reporting_quarter": "Q3 2025",
+      "reporting_quarter": "Q4 2025",
       "market_cap": 0.0,
       "pe_ratio": 0.0,
       "dividend_yield": 0.0,
@@ -64,7 +64,7 @@
       "week_52_low": 126.46,
       "week_52_high": 232.45,
       "reporting_date": "",
-      "reporting_quarter": "Q3 2025",
+      "reporting_quarter": "Q4 2025",
       "market_cap": 0.0,
       "pe_ratio": 0.0,
       "dividend_yield": 0.0,
@@ -88,7 +88,7 @@
       "week_52_low": 1.22,
       "week_52_high": 9.1,
       "reporting_date": "",
-      "reporting_quarter": "Q3 2025",
+      "reporting_quarter": "Q4 2025",
       "market_cap": 0.0,
       "pe_ratio": 0.0,
       "dividend_yield": 0.0,
@@ -98,6 +98,6 @@
       "data_quality": "Low"
     }
   ],
-  "timestamp": "2025-09-01T06:06:04.906892",
-  "scraped_date": "2025-09-01"
+  "timestamp": "2025-10-01T06:06:06.166892",
+  "scraped_date": "2025-10-01"
 }
