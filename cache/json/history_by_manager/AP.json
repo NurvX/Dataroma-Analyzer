@@ -4,6 +4,61 @@
     {
       "symbol": "HLT",
       "manager_id": "AP",
+      "action": "Add 98.79%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 270639,
+      "portfolio_percentage": 1.32,
+      "company_name": "Hilton Worldwide Holdings"
+    },
+    {
+      "symbol": "AMZN",
+      "manager_id": "AP",
+      "action": "Add 20.63%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1073491,
+      "portfolio_percentage": 4.3,
+      "company_name": "Amazon.com Inc."
+    },
+    {
+      "symbol": "MCO",
+      "manager_id": "AP",
+      "action": "Add 0.14%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1349,
+      "portfolio_percentage": 0.01,
+      "company_name": "Moody's Corp."
+    },
+    {
+      "symbol": "V",
+      "manager_id": "AP",
+      "action": "Reduce 37.04%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 315000,
+      "portfolio_percentage": 2.04,
+      "company_name": "Visa Inc."
+    },
+    {
+      "symbol": "GOOGL",
+      "manager_id": "AP",
+      "action": "Reduce 69.74%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 2408938,
+      "portfolio_percentage": 7.74,
+      "company_name": "Alphabet Inc."
+    },
+    {
+      "symbol": "HLT",
+      "manager_id": "AP",
       "action": "Add 199.97%",
       "date": "Q1 2025",
       "percentage_change": 0.0,
@@ -1619,6 +1674,6 @@
       "company_name": "TransDigm Group Inc."
     }
   ],
-  "timestamp": "2025-10-01T06:06:07.162072",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.585878",
+  "scraped_date": "2025-10-02"
 }

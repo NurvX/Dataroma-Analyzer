@@ -2,6 +2,39 @@
   "manager_id": "TFP",
   "activities": [
     {
+      "symbol": "META",
+      "manager_id": "TFP",
+      "action": "Add 43.58%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 33450,
+      "portfolio_percentage": 3.65,
+      "company_name": "Meta Platforms Inc."
+    },
+    {
+      "symbol": "CCCS",
+      "manager_id": "TFP",
+      "action": "Add 30.68%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 741000,
+      "portfolio_percentage": 1.23,
+      "company_name": "CCC Intelligent Solutions Hldgs Inc."
+    },
+    {
+      "symbol": "TDG",
+      "manager_id": "TFP",
+      "action": "Reduce 19.91%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 18350,
+      "portfolio_percentage": 2.23,
+      "company_name": "TransDigm Group Inc."
+    },
+    {
       "symbol": "MSFT",
       "manager_id": "TFP",
       "action": "Add 44.74%",
@@ -1927,6 +1960,6 @@
       "company_name": "TransDigm Group Inc."
     }
   ],
-  "timestamp": "2025-10-01T06:06:07.196798",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.646620",
+  "scraped_date": "2025-10-02"
 }

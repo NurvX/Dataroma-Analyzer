@@ -6712,7 +6712,7 @@
       "company_name": "Badger Meter Inc."
     },
     {
-      "symbol": "AC",
+      "symbol": "ACGP",
       "manager_id": "MPGFX",
       "action": "Sell 100.00%",
       "date": "Q1 2020",
@@ -6976,7 +6976,7 @@
       "company_name": "Target Corp."
     },
     {
-      "symbol": "AC",
+      "symbol": "ACGP",
       "manager_id": "MPGFX",
       "action": "Reduce 17.70%",
       "date": "Q4 2019",
@@ -7317,7 +7317,7 @@
       "company_name": "Bio-Techne Corp."
     },
     {
-      "symbol": "AC",
+      "symbol": "ACGP",
       "manager_id": "MPGFX",
       "action": "Reduce 3.42%",
       "date": "Q3 2019",
@@ -8923,7 +8923,7 @@
       "company_name": "C.H. Robinson Worldwide"
     },
     {
-      "symbol": "AC",
+      "symbol": "ACGP",
       "manager_id": "MPGFX",
       "action": "Reduce 3.31%",
       "date": "Q3 2018",
@@ -9429,7 +9429,7 @@
       "company_name": "Target Corp."
     },
     {
-      "symbol": "AC",
+      "symbol": "ACGP",
       "manager_id": "MPGFX",
       "action": "Reduce 10.37%",
       "date": "Q2 2018",
@@ -9935,7 +9935,7 @@
       "company_name": "Honeywell Int'l Inc."
     },
     {
-      "symbol": "AC",
+      "symbol": "ACGP",
       "manager_id": "MPGFX",
       "action": "Reduce 14.01%",
       "date": "Q1 2018",
@@ -10221,7 +10221,7 @@
       "company_name": "Western Union Co."
     },
     {
-      "symbol": "AC",
+      "symbol": "ACGP",
       "manager_id": "MPGFX",
       "action": "Reduce 4.85%",
       "date": "Q4 2017",
@@ -10617,7 +10617,7 @@
       "company_name": "United Parcel Service"
     },
     {
-      "symbol": "AC",
+      "symbol": "ACGP",
       "manager_id": "MPGFX",
       "action": "Reduce 6.25%",
       "date": "Q3 2017",
@@ -11002,6 +11002,6 @@
       "company_name": "NVE Corp."
     }
   ],
-  "timestamp": "2025-10-01T06:06:06.865278",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.860418",
+  "scraped_date": "2025-10-02"
 }

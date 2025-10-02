@@ -2,6 +2,292 @@
   "manager_id": "SA",
   "activities": [
     {
+      "symbol": "FIVE",
+      "manager_id": "SA",
+      "action": "Add 310.36%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 244142,
+      "portfolio_percentage": 4.51,
+      "company_name": "Five Below Inc."
+    },
+    {
+      "symbol": "DINO",
+      "manager_id": "SA",
+      "action": "Add 16.59%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 49653,
+      "portfolio_percentage": 0.29,
+      "company_name": "HF Sinclair Corp."
+    },
+    {
+      "symbol": "OLN",
+      "manager_id": "SA",
+      "action": "Add 13.52%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 94970,
+      "portfolio_percentage": 0.27,
+      "company_name": "Olin Corp."
+    },
+    {
+      "symbol": "ALK",
+      "manager_id": "SA",
+      "action": "Add 7.88%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 27179,
+      "portfolio_percentage": 0.19,
+      "company_name": "Alaska Air Group"
+    },
+    {
+      "symbol": "GLDM",
+      "manager_id": "SA",
+      "action": "Add 4.82%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 782,
+      "portfolio_percentage": 0.01,
+      "company_name": "SPDR Gold Minishares Trust"
+    },
+    {
+      "symbol": "VLO",
+      "manager_id": "SA",
+      "action": "Add 4.31%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 8213,
+      "portfolio_percentage": 0.16,
+      "company_name": "Valero Energy"
+    },
+    {
+      "symbol": "EQNR",
+      "manager_id": "SA",
+      "action": "Add 4.09%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 20052,
+      "portfolio_percentage": 0.07,
+      "company_name": "Equinor ASA"
+    },
+    {
+      "symbol": "CVX",
+      "manager_id": "SA",
+      "action": "Add 3.67%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 226,
+      "portfolio_percentage": 0.0,
+      "company_name": "Chevron Corp."
+    },
+    {
+      "symbol": "DIS",
+      "manager_id": "SA",
+      "action": "Add 3.29%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 4596,
+      "portfolio_percentage": 0.08,
+      "company_name": "Walt Disney Co."
+    },
+    {
+      "symbol": "SBUX",
+      "manager_id": "SA",
+      "action": "Add 3.18%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 7379,
+      "portfolio_percentage": 0.1,
+      "company_name": "Starbucks Corp."
+    },
+    {
+      "symbol": "BRK.B",
+      "manager_id": "SA",
+      "action": "Add 3.06%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 7315,
+      "portfolio_percentage": 0.5,
+      "company_name": "Berkshire Hathaway CL B"
+    },
+    {
+      "symbol": "PARA-OLD",
+      "manager_id": "SA",
+      "action": "Add 3.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 49039,
+      "portfolio_percentage": 0.09,
+      "company_name": "Paramount Global CL B"
+    },
+    {
+      "symbol": "DLTR",
+      "manager_id": "SA",
+      "action": "Add 2.64%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 13010,
+      "portfolio_percentage": 0.18,
+      "company_name": "Dollar Tree Inc."
+    },
+    {
+      "symbol": "NEM",
+      "manager_id": "SA",
+      "action": "Add 2.35%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 15589,
+      "portfolio_percentage": 0.13,
+      "company_name": "Newmont Corp."
+    },
+    {
+      "symbol": "DG",
+      "manager_id": "SA",
+      "action": "Add 2.09%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 18940,
+      "portfolio_percentage": 0.3,
+      "company_name": "Dollar General"
+    },
+    {
+      "symbol": "XOM",
+      "manager_id": "SA",
+      "action": "Add 1.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 561,
+      "portfolio_percentage": 0.01,
+      "company_name": "Exxon Mobil Corp."
+    },
+    {
+      "symbol": "DECK",
+      "manager_id": "SA",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 210523,
+      "portfolio_percentage": 3.05,
+      "company_name": "Deckers Outdoor"
+    },
+    {
+      "symbol": "FLEX",
+      "manager_id": "SA",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 5090,
+      "portfolio_percentage": 0.04,
+      "company_name": "Flex Ltd."
+    },
+    {
+      "symbol": "TRV",
+      "manager_id": "SA",
+      "action": "Reduce 4.47%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 900,
+      "portfolio_percentage": 0.03,
+      "company_name": "Travelers Companies Inc."
+    },
+    {
+      "symbol": "GE",
+      "manager_id": "SA",
+      "action": "Reduce 4.98%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 490,
+      "portfolio_percentage": 0.02,
+      "company_name": "GE Aerospace"
+    },
+    {
+      "symbol": "GEV",
+      "manager_id": "SA",
+      "action": "Reduce 8.08%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 302,
+      "portfolio_percentage": 0.02,
+      "company_name": "Ge Vernova Inc"
+    },
+    {
+      "symbol": "COST",
+      "manager_id": "SA",
+      "action": "Reduce 11.24%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 477,
+      "portfolio_percentage": 0.07,
+      "company_name": "Costco Co."
+    },
+    {
+      "symbol": "SGOV",
+      "manager_id": "SA",
+      "action": "Reduce 23.32%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 2472,
+      "portfolio_percentage": 0.04,
+      "company_name": "Ishares 0 3 Month Treasury B"
+    },
+    {
+      "symbol": "KO",
+      "manager_id": "SA",
+      "action": "Reduce 28.99%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 6378,
+      "portfolio_percentage": 0.07,
+      "company_name": "Coca Cola Co."
+    },
+    {
+      "symbol": "KGC",
+      "manager_id": "SA",
+      "action": "Reduce 31.51%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1419922,
+      "portfolio_percentage": 3.12,
+      "company_name": "Kinross Gold Corp."
+    },
+    {
+      "symbol": "NKE",
+      "manager_id": "SA",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 36550,
+      "portfolio_percentage": 0.37,
+      "company_name": "NIKE Inc."
+    },
+    {
       "symbol": "DG",
       "manager_id": "SA",
       "action": "Add 48.35%",
@@ -13,7 +299,7 @@
       "company_name": "Dollar General"
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "SA",
       "action": "Add 38.35%",
       "date": "Q1 2025",
@@ -519,7 +805,7 @@
       "company_name": "Dollar General"
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "SA",
       "action": "Reduce 30.22%",
       "date": "Q4 2024",
@@ -673,7 +959,7 @@
       "company_name": "Starbucks Corp."
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "SA",
       "action": "Add 0.52%",
       "date": "Q3 2024",
@@ -937,7 +1223,7 @@
       "company_name": "Starbucks Corp."
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "SA",
       "action": "Add 13.83%",
       "date": "Q2 2024",
@@ -1245,7 +1531,7 @@
       "company_name": "Saia Inc."
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "SA",
       "action": "Add 65.96%",
       "date": "Q1 2024",
@@ -1839,7 +2125,7 @@
       "company_name": "SEACOR Marine Holdings Inc."
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "SA",
       "action": "Reduce 23.47%",
       "date": "Q4 2023",
@@ -1894,7 +2180,7 @@
       "company_name": "Alaska Air Group"
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "SA",
       "action": "Add 2.54%",
       "date": "Q3 2023",
@@ -2092,7 +2378,7 @@
       "company_name": "Dollar General"
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "SA",
       "action": "Add 15.02%",
       "date": "Q2 2023",
@@ -2488,7 +2774,7 @@
       "company_name": "Dollar Tree Inc."
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "SA",
       "action": "Add 4.10%",
       "date": "Q1 2023",
@@ -2950,7 +3236,7 @@
       "company_name": "Kinross Gold Corp."
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "SA",
       "action": "Reduce 7.63%",
       "date": "Q4 2022",
@@ -3016,7 +3302,7 @@
       "company_name": "Berkshire Hathaway CL A"
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "SA",
       "action": "Add 7.33%",
       "date": "Q3 2022",
@@ -3401,7 +3687,7 @@
       "company_name": "NIKE Inc."
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "SA",
       "action": "Add 5.46%",
       "date": "Q2 2022",
@@ -3610,7 +3896,7 @@
       "company_name": "Walt Disney Co."
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "SA",
       "action": "Add 21.04%",
       "date": "Q1 2022",
@@ -4028,7 +4314,7 @@
       "company_name": "SEACOR Marine Holdings Inc."
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "SA",
       "action": "Reduce 2.25%",
       "date": "Q4 2021",
@@ -4149,7 +4435,7 @@
       "company_name": "Alaska Air Group"
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "SA",
       "action": "Add 27.23%",
       "date": "Q3 2021",
@@ -4567,7 +4853,7 @@
       "company_name": "GE Aerospace"
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "SA",
       "action": "Buy",
       "date": "Q2 2021",
@@ -7130,6 +7416,6 @@
       "company_name": "Sanofi Aventis"
     }
   ],
-  "timestamp": "2025-10-01T06:06:07.018322",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.400720",
+  "scraped_date": "2025-10-02"
 }

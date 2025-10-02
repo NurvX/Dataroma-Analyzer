@@ -2,6 +2,72 @@
   "manager_id": "SAM",
   "activities": [
     {
+      "symbol": "LULU",
+      "manager_id": "SAM",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 50000,
+      "portfolio_percentage": 21.12,
+      "company_name": "Lululemon Athletica Inc."
+    },
+    {
+      "symbol": "BRKR",
+      "manager_id": "SAM",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 250000,
+      "portfolio_percentage": 18.31,
+      "company_name": "Bruker Corp."
+    },
+    {
+      "symbol": "REGN",
+      "manager_id": "SAM",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 15000,
+      "portfolio_percentage": 14.0,
+      "company_name": "Regeneron Pharmaceuticals"
+    },
+    {
+      "symbol": "MELI",
+      "manager_id": "SAM",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 3000,
+      "portfolio_percentage": 13.94,
+      "company_name": "Mercadolibre Inc."
+    },
+    {
+      "symbol": "UNH",
+      "manager_id": "SAM",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 20000,
+      "portfolio_percentage": 11.09,
+      "company_name": "United Health Group Inc."
+    },
+    {
+      "symbol": "EL",
+      "manager_id": "SAM",
+      "action": "Reduce 25.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 50000,
+      "portfolio_percentage": 7.18,
+      "company_name": "Estee Lauder Cos."
+    },
+    {
       "symbol": "EL",
       "manager_id": "SAM",
       "action": "Add 100.00%",
@@ -3181,7 +3247,7 @@
       "company_name": "SunCoke Energy Inc."
     },
     {
-      "symbol": "GOGL",
+      "symbol": "GOGL-OLD",
       "manager_id": "SAM",
       "action": "Sell 100.00%",
       "date": "Q3 2021",
@@ -3258,7 +3324,7 @@
       "company_name": "SunCoke Energy Inc."
     },
     {
-      "symbol": "GOGL",
+      "symbol": "GOGL-OLD",
       "manager_id": "SAM",
       "action": "Add 32.08%",
       "date": "Q2 2021",
@@ -3632,7 +3698,7 @@
       "company_name": "Genco Shipping & Trading Ltd"
     },
     {
-      "symbol": "GOGL",
+      "symbol": "GOGL-OLD",
       "manager_id": "SAM",
       "action": "Buy",
       "date": "Q1 2021",
@@ -5447,6 +5513,6 @@
       "company_name": "Mohawk Industries"
     }
   ],
-  "timestamp": "2025-10-01T06:06:07.024798",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.489696",
+  "scraped_date": "2025-10-02"
 }

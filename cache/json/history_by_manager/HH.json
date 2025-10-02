@@ -2,6 +2,105 @@
   "manager_id": "HH",
   "activities": [
     {
+      "symbol": "GOOG",
+      "manager_id": "HH",
+      "action": "Add 75.17%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 834800,
+      "portfolio_percentage": 1.28,
+      "company_name": "Alphabet Inc. CL C"
+    },
+    {
+      "symbol": "NVDA",
+      "manager_id": "HH",
+      "action": "Add 49.56%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 319700,
+      "portfolio_percentage": 0.44,
+      "company_name": "NVIDIA Corp."
+    },
+    {
+      "symbol": "PDD",
+      "manager_id": "HH",
+      "action": "Add 11.72%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 908794,
+      "portfolio_percentage": 0.82,
+      "company_name": "Pinduoduo Inc."
+    },
+    {
+      "symbol": "AAPL",
+      "manager_id": "HH",
+      "action": "Add 2.61%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 894426,
+      "portfolio_percentage": 1.59,
+      "company_name": "Apple Inc."
+    },
+    {
+      "symbol": "OXY",
+      "manager_id": "HH",
+      "action": "Reduce 1.95%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 270000,
+      "portfolio_percentage": 0.1,
+      "company_name": "Occidental Petroleum"
+    },
+    {
+      "symbol": "TSM",
+      "manager_id": "HH",
+      "action": "Reduce 4.34%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 11808,
+      "portfolio_percentage": 0.02,
+      "company_name": "Taiwan Semiconductor S.A."
+    },
+    {
+      "symbol": "BABA",
+      "manager_id": "HH",
+      "action": "Reduce 5.92%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 235900,
+      "portfolio_percentage": 0.23,
+      "company_name": "Alibaba Group Holdings"
+    },
+    {
+      "symbol": "MSFT",
+      "manager_id": "HH",
+      "action": "Reduce 6.68%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 20000,
+      "portfolio_percentage": 0.09,
+      "company_name": "Microsoft Corp."
+    },
+    {
+      "symbol": "MRNA",
+      "manager_id": "HH",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 83000,
+      "portfolio_percentage": 0.02,
+      "company_name": "Moderna Inc."
+    },
+    {
       "symbol": "PDD",
       "manager_id": "HH",
       "action": "Add 7.27%",
@@ -893,6 +992,6 @@
       "company_name": "Zoom Video Communications Inc."
     }
   ],
-  "timestamp": "2025-10-01T06:06:07.029471",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.584858",
+  "scraped_date": "2025-10-02"
 }

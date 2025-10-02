@@ -2,6 +2,215 @@
   "manager_id": "BAUPOST",
   "activities": [
     {
+      "symbol": "LBRDK",
+      "manager_id": "BAUPOST",
+      "action": "Add 337.03%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 575000,
+      "portfolio_percentage": 1.37,
+      "company_name": "Liberty Broadband Corp. CL C"
+    },
+    {
+      "symbol": "ELV",
+      "manager_id": "BAUPOST",
+      "action": "Add 150.41%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 370000,
+      "portfolio_percentage": 3.5,
+      "company_name": "Elevance Health Inc."
+    },
+    {
+      "symbol": "CRH",
+      "manager_id": "BAUPOST",
+      "action": "Add 41.98%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1131000,
+      "portfolio_percentage": 2.52,
+      "company_name": "CRH plc"
+    },
+    {
+      "symbol": "GOOG",
+      "manager_id": "BAUPOST",
+      "action": "Add 26.76%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 556000,
+      "portfolio_percentage": 2.4,
+      "company_name": "Alphabet Inc. CL C"
+    },
+    {
+      "symbol": "DG",
+      "manager_id": "BAUPOST",
+      "action": "Add 26.70%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 562000,
+      "portfolio_percentage": 1.56,
+      "company_name": "Dollar General"
+    },
+    {
+      "symbol": "WCC",
+      "manager_id": "BAUPOST",
+      "action": "Add 10.07%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 202000,
+      "portfolio_percentage": 0.91,
+      "company_name": "WESCO International Inc."
+    },
+    {
+      "symbol": "FIS",
+      "manager_id": "BAUPOST",
+      "action": "Add 8.50%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 296764,
+      "portfolio_percentage": 0.59,
+      "company_name": "Fidelity National Information Services"
+    },
+    {
+      "symbol": "QSR",
+      "manager_id": "BAUPOST",
+      "action": "Add 4.19%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 163000,
+      "portfolio_percentage": 0.26,
+      "company_name": "Restaurant Brands International"
+    },
+    {
+      "symbol": "HLF",
+      "manager_id": "BAUPOST",
+      "action": "Add 2.10%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 159318,
+      "portfolio_percentage": 0.03,
+      "company_name": "Herbalife Nutrition Ltd."
+    },
+    {
+      "symbol": "FI",
+      "manager_id": "BAUPOST",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 895000,
+      "portfolio_percentage": 3.75,
+      "company_name": "Fiserv Inc."
+    },
+    {
+      "symbol": "AMCR",
+      "manager_id": "BAUPOST",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 5500000,
+      "portfolio_percentage": 1.23,
+      "company_name": "Amcor plc"
+    },
+    {
+      "symbol": "PAGS",
+      "manager_id": "BAUPOST",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 2500000,
+      "portfolio_percentage": 0.59,
+      "company_name": "PagSeguro Digital Ltd."
+    },
+    {
+      "symbol": "VSAT",
+      "manager_id": "BAUPOST",
+      "action": "Reduce 9.81%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1000000,
+      "portfolio_percentage": 0.35,
+      "company_name": "Viasat Inc."
+    },
+    {
+      "symbol": "WTW",
+      "manager_id": "BAUPOST",
+      "action": "Reduce 13.86%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 211483,
+      "portfolio_percentage": 1.58,
+      "company_name": "Willis Towers Watson plc"
+    },
+    {
+      "symbol": "GDS",
+      "manager_id": "BAUPOST",
+      "action": "Reduce 23.53%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1000000,
+      "portfolio_percentage": 0.74,
+      "company_name": "GDS Holdings Ltd"
+    },
+    {
+      "symbol": "EXP",
+      "manager_id": "BAUPOST",
+      "action": "Reduce 25.66%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 233376,
+      "portfolio_percentage": 1.15,
+      "company_name": "Eagle Materials Inc."
+    },
+    {
+      "symbol": "SOLV",
+      "manager_id": "BAUPOST",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 1053240,
+      "portfolio_percentage": 2.3,
+      "company_name": "Solventum Corp"
+    },
+    {
+      "symbol": "CLVT",
+      "manager_id": "BAUPOST",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 10777863,
+      "portfolio_percentage": 1.22,
+      "company_name": "Clarivate Plc"
+    },
+    {
+      "symbol": "SGI",
+      "manager_id": "BAUPOST",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 703349,
+      "portfolio_percentage": 1.21,
+      "company_name": "Somnigroup International Inc."
+    },
+    {
       "symbol": "GOOG",
       "manager_id": "BAUPOST",
       "action": "Add 45.72%",
@@ -178,7 +387,7 @@
       "company_name": "Clarivate Plc"
     },
     {
-      "symbol": "SNRE",
+      "symbol": "SNREY",
       "manager_id": "BAUPOST",
       "action": "Sell 100.00%",
       "date": "Q1 2025",
@@ -288,7 +497,7 @@
       "company_name": "Ferguson Enterprises Inc."
     },
     {
-      "symbol": "SNRE",
+      "symbol": "SNREY",
       "manager_id": "BAUPOST",
       "action": "Buy",
       "date": "Q4 2024",
@@ -5139,7 +5348,7 @@
       "company_name": "Marathon Petroleum Corp."
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "BAUPOST",
       "action": "Sell 100.00%",
       "date": "Q1 2021",
@@ -5579,7 +5788,7 @@
       "company_name": "Vista Oil & Gas, S.A.B. de C.V."
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "BAUPOST",
       "action": "Reduce 75.05%",
       "date": "Q4 2020",
@@ -6140,7 +6349,7 @@
       "company_name": "Akebia Therapeutics Inc."
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "BAUPOST",
       "action": "Reduce 16.28%",
       "date": "Q2 2020",
@@ -6316,7 +6525,7 @@
       "company_name": "eBay Inc."
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "BAUPOST",
       "action": "Add 32.35%",
       "date": "Q1 2020",
@@ -6613,7 +6822,7 @@
       "company_name": "Liberty Global Ltd CL C"
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "BAUPOST",
       "action": "Buy",
       "date": "Q4 2019",
@@ -10791,217 +11000,8 @@
       "shares": 204426,
       "portfolio_percentage": 0.14,
       "company_name": "PayPal Holdings Inc."
-    },
-    {
-      "symbol": "EMC",
-      "manager_id": "BAUPOST",
-      "action": "Buy",
-      "date": "Q4 2015",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 29248619,
-      "portfolio_percentage": 13.79,
-      "company_name": "EMC Corp."
-    },
-    {
-      "symbol": "NG",
-      "manager_id": "BAUPOST",
-      "action": "Reduce 12.50%",
-      "date": "Q4 2015",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 2710851,
-      "portfolio_percentage": 0.21,
-      "company_name": "NovaGold Resources"
-    },
-    {
-      "symbol": "FTR",
-      "manager_id": "BAUPOST",
-      "action": "Reduce 19.15%",
-      "date": "Q4 2015",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 172318,
-      "portfolio_percentage": 0.22,
-      "company_name": "Frontier Communications Corp."
-    },
-    {
-      "symbol": "KOS",
-      "manager_id": "BAUPOST",
-      "action": "Reduce 23.02%",
-      "date": "Q4 2015",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 1381204,
-      "portfolio_percentage": 0.13,
-      "company_name": "Kosmos Energy Ltd."
-    },
-    {
-      "symbol": "AA",
-      "manager_id": "BAUPOST",
-      "action": "Sell 100.00%",
-      "date": "Q4 2015",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 52270000,
-      "portfolio_percentage": 8.5,
-      "company_name": "Alcoa Corp."
-    },
-    {
-      "symbol": "PXD-OLD",
-      "manager_id": "BAUPOST",
-      "action": "Sell 100.00%",
-      "date": "Q4 2015",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 4137000,
-      "portfolio_percentage": 8.47,
-      "company_name": "Pioneer Natural Resources"
-    },
-    {
-      "symbol": "EBAY",
-      "manager_id": "BAUPOST",
-      "action": "Sell 100.00%",
-      "date": "Q4 2015",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 9315000,
-      "portfolio_percentage": 3.83,
-      "company_name": "eBay Inc."
-    },
-    {
-      "symbol": "AER",
-      "manager_id": "BAUPOST",
-      "action": "Sell 100.00%",
-      "date": "Q4 2015",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 2450000,
-      "portfolio_percentage": 1.58,
-      "company_name": "AerCap Holdings N.V."
-    },
-    {
-      "symbol": "LOCK",
-      "manager_id": "BAUPOST",
-      "action": "Sell 100.00%",
-      "date": "Q4 2015",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 4460760,
-      "portfolio_percentage": 0.66,
-      "company_name": "LifeLock Inc."
-    },
-    {
-      "symbol": "PYX",
-      "manager_id": "BAUPOST",
-      "action": "Sell 100.00%",
-      "date": "Q4 2015",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 458364,
-      "portfolio_percentage": 0.16,
-      "company_name": "Pyxus International Inc."
-    },
-    {
-      "symbol": "ALDW",
-      "manager_id": "BAUPOST",
-      "action": "Sell 100.00%",
-      "date": "Q4 2015",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 363188,
-      "portfolio_percentage": 0.14,
-      "company_name": "Alon USA Partners LP"
-    },
-    {
-      "symbol": "AR",
-      "manager_id": "BAUPOST",
-      "action": "Add 100.67%",
-      "date": "Q3 2015",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 8076900,
-      "portfolio_percentage": 2.87,
-      "company_name": "Antero Resources"
-    },
-    {
-      "symbol": "AN-OLD",
-      "manager_id": "BAUPOST",
-      "action": "Add 61.42%",
-      "date": "Q3 2015",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 380495,
-      "portfolio_percentage": 0.04,
-      "company_name": "Sanchez Energy Corp."
-    },
-    {
-      "symbol": "LNG",
-      "manager_id": "BAUPOST",
-      "action": "Add 47.54%",
-      "date": "Q3 2015",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 7304500,
-      "portfolio_percentage": 5.94,
-      "company_name": "Cheniere Energy Inc."
-    },
-    {
-      "symbol": "BITI",
-      "manager_id": "BAUPOST",
-      "action": "Add 44.43%",
-      "date": "Q3 2015",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 77272,
-      "portfolio_percentage": 0.09,
-      "company_name": "Biotie Therapies Corp."
-    },
-    {
-      "symbol": "IMOS",
-      "manager_id": "BAUPOST",
-      "action": "Add 14.27%",
-      "date": "Q3 2015",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 468618,
-      "portfolio_percentage": 0.13,
-      "company_name": "ChipMOS TECH"
-    },
-    {
-      "symbol": "VRTV-OLD",
-      "manager_id": "BAUPOST",
-      "action": "Add 12.63%",
-      "date": "Q3 2015",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 313536,
-      "portfolio_percentage": 0.2,
-      "company_name": "Veritiv Corp."
-    },
-    {
-      "symbol": "ATRA",
-      "manager_id": "BAUPOST",
-      "action": "Add 11.44%",
-      "date": "Q3 2015",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 22000,
-      "portfolio_percentage": 0.29,
-      "company_name": "Atara Biotherapeutics Inc."
-    },
-    {
-      "symbol": "BXE",
-      "manager_id": "BAUPOST",
-      "action": "Add 9.84%",
-      "date": "Q3 2015",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 430000,
-      "portfolio_percentage": 0.05,
-      "company_name": "Bellatrix Exploration Ltd."
     }
   ],
-  "timestamp": "2025-10-01T06:06:07.164886",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.625916",
+  "scraped_date": "2025-10-02"
 }

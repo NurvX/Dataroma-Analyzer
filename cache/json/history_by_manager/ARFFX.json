@@ -2,6 +2,171 @@
   "manager_id": "ARFFX",
   "activities": [
     {
+      "symbol": "ZIMV",
+      "manager_id": "ARFFX",
+      "action": "Add 23.63%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 17871,
+      "portfolio_percentage": 0.26,
+      "company_name": "ZimVie Inc."
+    },
+    {
+      "symbol": "APA",
+      "manager_id": "ARFFX",
+      "action": "Add 18.63%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 21994,
+      "portfolio_percentage": 0.63,
+      "company_name": "APA Corp."
+    },
+    {
+      "symbol": "B",
+      "manager_id": "ARFFX",
+      "action": "Add 11.32%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 11412,
+      "portfolio_percentage": 0.37,
+      "company_name": "Barrick Mining Corp."
+    },
+    {
+      "symbol": "AMG",
+      "manager_id": "ARFFX",
+      "action": "Add 5.61%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 872,
+      "portfolio_percentage": 0.27,
+      "company_name": "Affiliated Managers Group"
+    },
+    {
+      "symbol": "MOS",
+      "manager_id": "ARFFX",
+      "action": "Add 5.01%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 3351,
+      "portfolio_percentage": 0.19,
+      "company_name": "Mosaic Co."
+    },
+    {
+      "symbol": "GNRC",
+      "manager_id": "ARFFX",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 16681,
+      "portfolio_percentage": 3.74,
+      "company_name": "Generac Holdings Inc."
+    },
+    {
+      "symbol": "REZI",
+      "manager_id": "ARFFX",
+      "action": "Reduce 3.27%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 5217,
+      "portfolio_percentage": 0.18,
+      "company_name": "Resideo Technologies Inc."
+    },
+    {
+      "symbol": "SNA",
+      "manager_id": "ARFFX",
+      "action": "Reduce 7.59%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 877,
+      "portfolio_percentage": 0.43,
+      "company_name": "Snap-On Inc."
+    },
+    {
+      "symbol": "LH",
+      "manager_id": "ARFFX",
+      "action": "Reduce 10.01%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1014,
+      "portfolio_percentage": 0.42,
+      "company_name": "Labcorp Holdings Inc."
+    },
+    {
+      "symbol": "SJM",
+      "manager_id": "ARFFX",
+      "action": "Reduce 12.10%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 3957,
+      "portfolio_percentage": 0.61,
+      "company_name": "J.M. Smucker Co"
+    },
+    {
+      "symbol": "BIO",
+      "manager_id": "ARFFX",
+      "action": "Reduce 14.54%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1181,
+      "portfolio_percentage": 0.45,
+      "company_name": "Bio-Rad Laboratories Inc."
+    },
+    {
+      "symbol": "ORCL",
+      "manager_id": "ARFFX",
+      "action": "Reduce 16.86%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 2995,
+      "portfolio_percentage": 1.02,
+      "company_name": "Oracle Corp."
+    },
+    {
+      "symbol": "GS",
+      "manager_id": "ARFFX",
+      "action": "Reduce 19.22%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 756,
+      "portfolio_percentage": 0.84,
+      "company_name": "Goldman Sachs Group"
+    },
+    {
+      "symbol": "MSGE",
+      "manager_id": "ARFFX",
+      "action": "Reduce 20.31%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 8613,
+      "portfolio_percentage": 0.54,
+      "company_name": "Madison Square Garden Entertainment Corp."
+    },
+    {
+      "symbol": "MSGS",
+      "manager_id": "ARFFX",
+      "action": "Reduce 36.58%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 3020,
+      "portfolio_percentage": 0.99,
+      "company_name": "Madison Square Garden Sports Corp."
+    },
+    {
       "symbol": "SLB",
       "manager_id": "ARFFX",
       "action": "Add 407.53%",
@@ -998,7 +1163,7 @@
       "date": "Q1 2024",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 24164,
+      "shares": 1209,
       "portfolio_percentage": 0.25,
       "company_name": "Leslie's Inc."
     },
@@ -1163,7 +1328,7 @@
       "date": "Q4 2023",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 181375,
+      "shares": 9069,
       "portfolio_percentage": 1.88,
       "company_name": "Leslie's Inc."
     },
@@ -1185,7 +1350,7 @@
       "date": "Q3 2023",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 104068,
+      "shares": 5203,
       "portfolio_percentage": 0.98,
       "company_name": "Leslie's Inc."
     },
@@ -1427,7 +1592,7 @@
       "date": "Q2 2023",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 101471,
+      "shares": 5073,
       "portfolio_percentage": 1.47,
       "company_name": "Leslie's Inc."
     },
@@ -1916,7 +2081,7 @@
       "company_name": "Stanley Black & Decker Inc."
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "ARFFX",
       "action": "Sell 100.00%",
       "date": "Q3 2022",
@@ -2224,7 +2389,7 @@
       "company_name": "Nielsen Holdings plc"
     },
     {
-      "symbol": "WBA",
+      "symbol": "WBA-OLD",
       "manager_id": "ARFFX",
       "action": "Sell 100.00%",
       "date": "Q1 2022",
@@ -2246,7 +2411,7 @@
       "company_name": "Progressive Corp."
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "ARFFX",
       "action": "Add 71.49%",
       "date": "Q4 2021",
@@ -2554,7 +2719,7 @@
       "company_name": "Progressive Corp."
     },
     {
-      "symbol": "WBA",
+      "symbol": "WBA-OLD",
       "manager_id": "ARFFX",
       "action": "Reduce 61.62%",
       "date": "Q4 2021",
@@ -2664,7 +2829,7 @@
       "company_name": "Lazard Inc."
     },
     {
-      "symbol": "WBA",
+      "symbol": "WBA-OLD",
       "manager_id": "ARFFX",
       "action": "Reduce 1.84%",
       "date": "Q3 2021",
@@ -2829,7 +2994,7 @@
       "company_name": "Oracle Corp."
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "ARFFX",
       "action": "Add 44.94%",
       "date": "Q2 2021",
@@ -2862,7 +3027,7 @@
       "company_name": "APA Corp."
     },
     {
-      "symbol": "WBA",
+      "symbol": "WBA-OLD",
       "manager_id": "ARFFX",
       "action": "Add 10.50%",
       "date": "Q2 2021",
@@ -3126,7 +3291,7 @@
       "company_name": "KKR & Co. L.P."
     },
     {
-      "symbol": "WBA",
+      "symbol": "WBA-OLD",
       "manager_id": "ARFFX",
       "action": "Add 440.21%",
       "date": "Q1 2021",
@@ -3247,7 +3412,7 @@
       "company_name": "Goldman Sachs Group"
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "ARFFX",
       "action": "Reduce 85.81%",
       "date": "Q1 2021",
@@ -3379,7 +3544,7 @@
       "company_name": "Northern Trust Corp."
     },
     {
-      "symbol": "WBA",
+      "symbol": "WBA-OLD",
       "manager_id": "ARFFX",
       "action": "Buy",
       "date": "Q4 2020",
@@ -3401,7 +3566,7 @@
       "company_name": "Snap-On Inc."
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "ARFFX",
       "action": "Reduce 7.90%",
       "date": "Q4 2020",
@@ -3643,7 +3808,7 @@
       "company_name": "Snap-On Inc."
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "ARFFX",
       "action": "Reduce 5.55%",
       "date": "Q3 2020",
@@ -3896,7 +4061,7 @@
       "company_name": "BorgWarner Inc."
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "ARFFX",
       "action": "Reduce 6.76%",
       "date": "Q2 2020",
@@ -4105,7 +4270,7 @@
       "company_name": "APA Corp."
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "ARFFX",
       "action": "Add 28.16%",
       "date": "Q1 2020",
@@ -4556,7 +4721,7 @@
       "company_name": "J.M. Smucker Co"
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "ARFFX",
       "action": "Buy",
       "date": "Q4 2019",
@@ -9330,7 +9495,7 @@
       "company_name": "Apollo Education Group Inc."
     },
     {
-      "symbol": "WBA",
+      "symbol": "WBA-OLD",
       "manager_id": "ARFFX",
       "action": "Sell 100.00%",
       "date": "Q4 2013",
@@ -9517,7 +9682,7 @@
       "company_name": "Johnson & Johnson"
     },
     {
-      "symbol": "WBA",
+      "symbol": "WBA-OLD",
       "manager_id": "ARFFX",
       "action": "Reduce 37.07%",
       "date": "Q3 2013",
@@ -10001,7 +10166,7 @@
       "company_name": "Zimmer Biomet Holdings"
     },
     {
-      "symbol": "WBA",
+      "symbol": "WBA-OLD",
       "manager_id": "ARFFX",
       "action": "Reduce 5.15%",
       "date": "Q4 2012",
@@ -10287,7 +10452,7 @@
       "company_name": "Morgan Stanley"
     },
     {
-      "symbol": "WBA",
+      "symbol": "WBA-OLD",
       "manager_id": "ARFFX",
       "action": "Reduce 21.74%",
       "date": "Q3 2012",
@@ -10342,7 +10507,7 @@
       "company_name": "Snap-On Inc."
     },
     {
-      "symbol": "WBA",
+      "symbol": "WBA-OLD",
       "manager_id": "ARFFX",
       "action": "Add 64.82%",
       "date": "Q2 2012",
@@ -10540,7 +10705,7 @@
       "company_name": "Apollo Education Group Inc."
     },
     {
-      "symbol": "WBA",
+      "symbol": "WBA-OLD",
       "manager_id": "ARFFX",
       "action": "Add 15.90%",
       "date": "Q1 2012",
@@ -10835,173 +11000,8 @@
       "shares": 2100,
       "portfolio_percentage": 0.23,
       "company_name": "Tyco International"
-    },
-    {
-      "symbol": "LMT",
-      "manager_id": "ARFFX",
-      "action": "Reduce 6.03%",
-      "date": "Q4 2011",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 1400,
-      "portfolio_percentage": 0.26,
-      "company_name": "Lockheed Martin Corp."
-    },
-    {
-      "symbol": "MSFT",
-      "manager_id": "ARFFX",
-      "action": "Reduce 6.71%",
-      "date": "Q4 2011",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 7300,
-      "portfolio_percentage": 0.44,
-      "company_name": "Microsoft Corp."
-    },
-    {
-      "symbol": "OMC",
-      "manager_id": "ARFFX",
-      "action": "Reduce 6.72%",
-      "date": "Q4 2011",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 3200,
-      "portfolio_percentage": 0.33,
-      "company_name": "Omnicom Group"
-    },
-    {
-      "symbol": "TGT",
-      "manager_id": "ARFFX",
-      "action": "Reduce 7.49%",
-      "date": "Q4 2011",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 3400,
-      "portfolio_percentage": 0.41,
-      "company_name": "Target Corp."
-    },
-    {
-      "symbol": "XOM",
-      "manager_id": "ARFFX",
-      "action": "Reduce 8.61%",
-      "date": "Q4 2011",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 2600,
-      "portfolio_percentage": 0.52,
-      "company_name": "Exxon Mobil Corp."
-    },
-    {
-      "symbol": "JPM",
-      "manager_id": "ARFFX",
-      "action": "Reduce 20.05%",
-      "date": "Q4 2011",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 8200,
-      "portfolio_percentage": 0.64,
-      "company_name": "JPMorgan Chase & Co."
-    },
-    {
-      "symbol": "CCL",
-      "manager_id": "ARFFX",
-      "action": "Reduce 25.04%",
-      "date": "Q4 2011",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 15000,
-      "portfolio_percentage": 1.15,
-      "company_name": "Carnival Corp."
-    },
-    {
-      "symbol": "WBA",
-      "manager_id": "ARFFX",
-      "action": "Reduce 25.14%",
-      "date": "Q4 2011",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 13100,
-      "portfolio_percentage": 1.01,
-      "company_name": "Walgreens Boots Alliance"
-    },
-    {
-      "symbol": "IBM",
-      "manager_id": "ARFFX",
-      "action": "Reduce 36.17%",
-      "date": "Q4 2011",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 5100,
-      "portfolio_percentage": 2.19,
-      "company_name": "International Business Machines"
-    },
-    {
-      "symbol": "BAX",
-      "manager_id": "ARFFX",
-      "action": "Reduce 36.75%",
-      "date": "Q4 2011",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 8600,
-      "portfolio_percentage": 0.99,
-      "company_name": "Baxter International Inc."
-    },
-    {
-      "symbol": "APOL",
-      "manager_id": "ARFFX",
-      "action": "Reduce 37.62%",
-      "date": "Q4 2011",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 11400,
-      "portfolio_percentage": 1.44,
-      "company_name": "Apollo Education Group Inc."
-    },
-    {
-      "symbol": "ABT",
-      "manager_id": "ARFFX",
-      "action": "Reduce 77.96%",
-      "date": "Q4 2011",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 29000,
-      "portfolio_percentage": 3.82,
-      "company_name": "Abbott Labs"
-    },
-    {
-      "symbol": "TGT",
-      "manager_id": "ARFFX",
-      "action": "Add 68.77%",
-      "date": "Q3 2011",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 18500,
-      "portfolio_percentage": 2.13,
-      "company_name": "Target Corp."
-    },
-    {
-      "symbol": "CCL",
-      "manager_id": "ARFFX",
-      "action": "Add 26.91%",
-      "date": "Q3 2011",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 12700,
-      "portfolio_percentage": 0.9,
-      "company_name": "Carnival Corp."
-    },
-    {
-      "symbol": "MS",
-      "manager_id": "ARFFX",
-      "action": "Add 21.87%",
-      "date": "Q3 2011",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 18800,
-      "portfolio_percentage": 0.6,
-      "company_name": "Morgan Stanley"
     }
   ],
-  "timestamp": "2025-10-01T06:06:06.923607",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.391460",
+  "scraped_date": "2025-10-02"
 }

@@ -2,6 +2,50 @@
   "manager_id": "PI",
   "activities": [
     {
+      "symbol": "VAL",
+      "manager_id": "PI",
+      "action": "Add 31.96%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 456213,
+      "portfolio_percentage": 7.07,
+      "company_name": "Valaris plc"
+    },
+    {
+      "symbol": "AMR",
+      "manager_id": "PI",
+      "action": "Add 11.02%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 45711,
+      "portfolio_percentage": 1.89,
+      "company_name": "Alpha Metallurgical Resources Inc."
+    },
+    {
+      "symbol": "HCC",
+      "manager_id": "PI",
+      "action": "Add 0.01%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 165,
+      "portfolio_percentage": 0.0,
+      "company_name": "Warrior Met Coal Inc."
+    },
+    {
+      "symbol": "AN",
+      "manager_id": "PI",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 61000,
+      "portfolio_percentage": 4.46,
+      "company_name": "AutoNation Inc."
+    },
+    {
       "symbol": "HCC",
       "manager_id": "PI",
       "action": "Add 5.57%",
@@ -668,7 +712,7 @@
       "date": "Q1 2020",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 4450134,
+      "shares": 445014,
       "portfolio_percentage": 19.07,
       "company_name": "GrafTech International Ltd."
     },
@@ -701,7 +745,7 @@
       "date": "Q4 2019",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 1096967,
+      "shares": 109697,
       "portfolio_percentage": 4.7,
       "company_name": "GrafTech International Ltd."
     },
@@ -712,7 +756,7 @@
       "date": "Q3 2019",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 1423563,
+      "shares": 142356,
       "portfolio_percentage": 6.97,
       "company_name": "GrafTech International Ltd."
     },
@@ -756,7 +800,7 @@
       "date": "Q2 2019",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 4123538,
+      "shares": 412353,
       "portfolio_percentage": 16.12,
       "company_name": "GrafTech International Ltd."
     },
@@ -3698,6 +3742,6 @@
       "company_name": "CryptoLogic Ltd."
     }
   ],
-  "timestamp": "2025-10-01T06:06:07.193563",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.696135",
+  "scraped_date": "2025-10-02"
 }

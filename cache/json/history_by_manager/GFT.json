@@ -2,6 +2,28 @@
   "manager_id": "GFT",
   "activities": [
     {
+      "symbol": "BRK.B",
+      "manager_id": "GFT",
+      "action": "Add 40.48%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 6951249,
+      "portfolio_percentage": 7.07,
+      "company_name": "Berkshire Hathaway CL B"
+    },
+    {
+      "symbol": "MSFT",
+      "manager_id": "GFT",
+      "action": "Reduce 7.96%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 2266040,
+      "portfolio_percentage": 2.36,
+      "company_name": "Microsoft Corp."
+    },
+    {
       "symbol": "WST",
       "manager_id": "GFT",
       "action": "Buy",
@@ -2653,7 +2675,7 @@
       "company_name": "Microsoft Corp."
     },
     {
-      "symbol": "WBA",
+      "symbol": "WBA-OLD",
       "manager_id": "GFT",
       "action": "Sell 100.00%",
       "date": "Q1 2019",
@@ -3071,7 +3093,7 @@
       "company_name": "United Parcel Service"
     },
     {
-      "symbol": "WBA",
+      "symbol": "WBA-OLD",
       "manager_id": "GFT",
       "action": "Buy",
       "date": "Q4 2014",
@@ -6888,6 +6910,6 @@
       "company_name": "Time Warner Cable Inc."
     }
   ],
-  "timestamp": "2025-10-01T06:06:07.012570",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.483870",
+  "scraped_date": "2025-10-02"
 }

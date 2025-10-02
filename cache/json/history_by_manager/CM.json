@@ -2,6 +2,17 @@
   "manager_id": "CM",
   "activities": [
     {
+      "symbol": "SDHC",
+      "manager_id": "CM",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 500000,
+      "portfolio_percentage": 1.26,
+      "company_name": "Smith Douglas Homes Corp"
+    },
+    {
       "symbol": "YNDX",
       "manager_id": "CM",
       "action": "Reduce 72.00%",
@@ -1421,6 +1432,6 @@
       "company_name": "Alibaba Group Holdings"
     }
   ],
-  "timestamp": "2025-10-01T06:06:06.953298",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.615312",
+  "scraped_date": "2025-10-02"
 }

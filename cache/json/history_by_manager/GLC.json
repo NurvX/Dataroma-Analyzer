@@ -2,6 +2,61 @@
   "manager_id": "GLC",
   "activities": [
     {
+      "symbol": "BUR",
+      "manager_id": "GLC",
+      "action": "Add 325.39%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 2571917,
+      "portfolio_percentage": 9.84,
+      "company_name": "Burford Capital Ltd"
+    },
+    {
+      "symbol": "BAM",
+      "manager_id": "GLC",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 952215,
+      "portfolio_percentage": 16.57,
+      "company_name": "Brookfield Asset Management"
+    },
+    {
+      "symbol": "TSLA",
+      "manager_id": "GLC",
+      "action": "Reduce 2.13%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1725,
+      "portfolio_percentage": 0.15,
+      "company_name": "Tesla Inc."
+    },
+    {
+      "symbol": "TRUP",
+      "manager_id": "GLC",
+      "action": "Reduce 15.83%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 143740,
+      "portfolio_percentage": 2.24,
+      "company_name": "Trupanion Inc."
+    },
+    {
+      "symbol": "BN",
+      "manager_id": "GLC",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 967425,
+      "portfolio_percentage": 17.52,
+      "company_name": "Brookfield Corp."
+    },
+    {
       "symbol": "MKL",
       "manager_id": "GLC",
       "action": "Add 3.38%",
@@ -2411,6 +2466,6 @@
       "company_name": "Stitch Fix Inc."
     }
   ],
-  "timestamp": "2025-10-01T06:06:07.225813",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.595308",
+  "scraped_date": "2025-10-02"
 }

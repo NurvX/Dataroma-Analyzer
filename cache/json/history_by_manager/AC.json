@@ -2,6 +2,182 @@
   "manager_id": "AC",
   "activities": [
     {
+      "symbol": "SOPH",
+      "manager_id": "AC",
+      "action": "Add 66.22%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1481636,
+      "portfolio_percentage": 0.04,
+      "company_name": "Sophia Genetics SA"
+    },
+    {
+      "symbol": "ABNB",
+      "manager_id": "AC",
+      "action": "Add 19.04%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 555510,
+      "portfolio_percentage": 0.72,
+      "company_name": "Airbnb Inc."
+    },
+    {
+      "symbol": "CCCS",
+      "manager_id": "AC",
+      "action": "Add 11.98%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1579744,
+      "portfolio_percentage": 0.15,
+      "company_name": "CCC Intelligent Solutions Hldgs Inc."
+    },
+    {
+      "symbol": "BN",
+      "manager_id": "AC",
+      "action": "Add 0.66%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 125269,
+      "portfolio_percentage": 0.08,
+      "company_name": "Brookfield Corp."
+    },
+    {
+      "symbol": "CPRT",
+      "manager_id": "AC",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 1200000,
+      "portfolio_percentage": 0.58,
+      "company_name": "Copart Inc."
+    },
+    {
+      "symbol": "FICO",
+      "manager_id": "AC",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 9148,
+      "portfolio_percentage": 0.16,
+      "company_name": "Fair Isaac Corp."
+    },
+    {
+      "symbol": "CSGP",
+      "manager_id": "AC",
+      "action": "Reduce 0.05%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 4360,
+      "portfolio_percentage": 0.0,
+      "company_name": "CoStar Group Inc."
+    },
+    {
+      "symbol": "ROP",
+      "manager_id": "AC",
+      "action": "Reduce 0.67%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 9720,
+      "portfolio_percentage": 0.05,
+      "company_name": "Roper Technologies Inc."
+    },
+    {
+      "symbol": "MA",
+      "manager_id": "AC",
+      "action": "Reduce 1.07%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 35790,
+      "portfolio_percentage": 0.2,
+      "company_name": "Mastercard Inc."
+    },
+    {
+      "symbol": "MCO",
+      "manager_id": "AC",
+      "action": "Reduce 5.34%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 130034,
+      "portfolio_percentage": 0.64,
+      "company_name": "Moody's Corp."
+    },
+    {
+      "symbol": "BRK.B",
+      "manager_id": "AC",
+      "action": "Reduce 7.84%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1190,
+      "portfolio_percentage": 0.01,
+      "company_name": "Berkshire Hathaway CL B"
+    },
+    {
+      "symbol": "VRSK",
+      "manager_id": "AC",
+      "action": "Reduce 14.79%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1500,
+      "portfolio_percentage": 0.01,
+      "company_name": "Verisk Analytics Inc."
+    },
+    {
+      "symbol": "KMX",
+      "manager_id": "AC",
+      "action": "Reduce 26.64%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 54675,
+      "portfolio_percentage": 0.04,
+      "company_name": "CarMax Inc."
+    },
+    {
+      "symbol": "ORLY",
+      "manager_id": "AC",
+      "action": "Reduce 27.38%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 3547936,
+      "portfolio_percentage": 3.13,
+      "company_name": "O'Reilly Automotive"
+    },
+    {
+      "symbol": "AMT",
+      "manager_id": "AC",
+      "action": "Reduce 64.65%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1673943,
+      "portfolio_percentage": 3.62,
+      "company_name": "American Tower Corp."
+    },
+    {
+      "symbol": "DBRG",
+      "manager_id": "AC",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 164740,
+      "portfolio_percentage": 0.01,
+      "company_name": "DigitalBridge Group Inc."
+    },
+    {
       "symbol": "CCCS",
       "manager_id": "AC",
       "action": "Add 23.49%",
@@ -5469,7 +5645,7 @@
       "company_name": "Bank of America WTS A"
     },
     {
-      "symbol": "COOP",
+      "symbol": "COOP-OLD",
       "manager_id": "AC",
       "action": "Sell 100.00%",
       "date": "Q3 2017",
@@ -6074,7 +6250,7 @@
       "company_name": "Lamar Advertising Co."
     },
     {
-      "symbol": "COOP",
+      "symbol": "COOP-OLD",
       "manager_id": "AC",
       "action": "Reduce 2.67%",
       "date": "Q4 2016",
@@ -6998,7 +7174,7 @@
       "company_name": "Moody's Corp."
     },
     {
-      "symbol": "COOP",
+      "symbol": "COOP-OLD",
       "manager_id": "AC",
       "action": "Buy",
       "date": "Q3 2015",
@@ -10824,184 +11000,8 @@
       "shares": 168000,
       "portfolio_percentage": 0.21,
       "company_name": "Under Armour Inc."
-    },
-    {
-      "symbol": "ESGR-OLD",
-      "manager_id": "AC",
-      "action": "Reduce 0.14%",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 672,
-      "portfolio_percentage": 0.01,
-      "company_name": "Enstar Group Ltd."
-    },
-    {
-      "symbol": "BRK.B",
-      "manager_id": "AC",
-      "action": "Reduce 0.40%",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 875,
-      "portfolio_percentage": 0.01,
-      "company_name": "Berkshire Hathaway CL B"
-    },
-    {
-      "symbol": "KMX",
-      "manager_id": "AC",
-      "action": "Reduce 0.66%",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 5328,
-      "portfolio_percentage": 0.02,
-      "company_name": "CarMax Inc."
-    },
-    {
-      "symbol": "BRK.A",
-      "manager_id": "AC",
-      "action": "Reduce 3.28%",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 2,
-      "portfolio_percentage": 0.03,
-      "company_name": "Berkshire Hathaway CL A"
-    },
-    {
-      "symbol": "LAMR",
-      "manager_id": "AC",
-      "action": "Reduce 16.73%",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 214447,
-      "portfolio_percentage": 0.73,
-      "company_name": "Lamar Advertising Co."
-    },
-    {
-      "symbol": "PENN",
-      "manager_id": "AC",
-      "action": "Reduce 36.91%",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 103153,
-      "portfolio_percentage": 0.46,
-      "company_name": "Penn National Gaming Inc."
-    },
-    {
-      "symbol": "BDX",
-      "manager_id": "AC",
-      "action": "Sell 100.00%",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 50000,
-      "portfolio_percentage": 0.59,
-      "company_name": "Becton Dickinson"
-    },
-    {
-      "symbol": "TECH",
-      "manager_id": "AC",
-      "action": "Sell 100.00%",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 200000,
-      "portfolio_percentage": 0.54,
-      "company_name": "Bio-Techne Corp."
-    },
-    {
-      "symbol": "PRMW-OLD",
-      "manager_id": "AC",
-      "action": "Add 535.33%",
-      "date": "Q4 2011",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 401500,
-      "portfolio_percentage": 0.19,
-      "company_name": "Primo Water Corp."
-    },
-    {
-      "symbol": "AMTD",
-      "manager_id": "AC",
-      "action": "Add 136.84%",
-      "date": "Q4 2011",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 260000,
-      "portfolio_percentage": 1.94,
-      "company_name": "AMTD IDEA Group"
-    },
-    {
-      "symbol": "HIG",
-      "manager_id": "AC",
-      "action": "Add 102.63%",
-      "date": "Q4 2011",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 307900,
-      "portfolio_percentage": 0.8,
-      "company_name": "Hartford Financial Svc.Gp."
-    },
-    {
-      "symbol": "ROST",
-      "manager_id": "AC",
-      "action": "Add 16.97%",
-      "date": "Q4 2011",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 435404,
-      "portfolio_percentage": 1.65,
-      "company_name": "Ross Stores Inc."
-    },
-    {
-      "symbol": "ESGR-OLD",
-      "manager_id": "AC",
-      "action": "Add 4.83%",
-      "date": "Q4 2011",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 22642,
-      "portfolio_percentage": 0.35,
-      "company_name": "Enstar Group Ltd."
-    },
-    {
-      "symbol": "TJX",
-      "manager_id": "AC",
-      "action": "Add 3.91%",
-      "date": "Q4 2011",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 40000,
-      "portfolio_percentage": 0.1,
-      "company_name": "TJX Companies Inc."
-    },
-    {
-      "symbol": "LPLA",
-      "manager_id": "AC",
-      "action": "Add 3.65%",
-      "date": "Q4 2011",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 10575,
-      "portfolio_percentage": 0.05,
-      "company_name": "LPL Financial Holdings Inc."
-    },
-    {
-      "symbol": "BRK.B",
-      "manager_id": "AC",
-      "action": "Add 3.57%",
-      "date": "Q4 2011",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 7535,
-      "portfolio_percentage": 0.09,
-      "company_name": "Berkshire Hathaway CL B"
     }
   ],
-  "timestamp": "2025-10-01T06:06:07.198561",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.451512",
+  "scraped_date": "2025-10-02"
 }

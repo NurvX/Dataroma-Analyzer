@@ -7955,7 +7955,7 @@
       "company_name": "Dana Inc."
     },
     {
-      "symbol": "FL",
+      "symbol": "FL-OLD",
       "manager_id": "FPPTX",
       "action": "Sell 100.00%",
       "date": "Q4 2017",
@@ -8043,7 +8043,7 @@
       "company_name": "SM Energy Co."
     },
     {
-      "symbol": "FL",
+      "symbol": "FL-OLD",
       "manager_id": "FPPTX",
       "action": "Add 4.15%",
       "date": "Q3 2017",
@@ -8230,7 +8230,7 @@
       "company_name": "Oshkosh Corp."
     },
     {
-      "symbol": "FL",
+      "symbol": "FL-OLD",
       "manager_id": "FPPTX",
       "action": "Add 131.19%",
       "date": "Q2 2017",
@@ -8604,7 +8604,7 @@
       "company_name": "InterDigital Inc."
     },
     {
-      "symbol": "FL",
+      "symbol": "FL-OLD",
       "manager_id": "FPPTX",
       "action": "Reduce 10.00%",
       "date": "Q1 2017",
@@ -9473,7 +9473,7 @@
       "company_name": "AGCO Corp."
     },
     {
-      "symbol": "FL",
+      "symbol": "FL-OLD",
       "manager_id": "FPPTX",
       "action": "Reduce 33.94%",
       "date": "Q1 2016",
@@ -9737,7 +9737,7 @@
       "company_name": "Avnet Inc."
     },
     {
-      "symbol": "FL",
+      "symbol": "FL-OLD",
       "manager_id": "FPPTX",
       "action": "Reduce 40.85%",
       "date": "Q4 2015",
@@ -9979,7 +9979,7 @@
       "company_name": "PROG Holdings Inc."
     },
     {
-      "symbol": "FL",
+      "symbol": "FL-OLD",
       "manager_id": "FPPTX",
       "action": "Reduce 13.04%",
       "date": "Q3 2015",
@@ -10166,7 +10166,7 @@
       "company_name": "InterDigital Inc."
     },
     {
-      "symbol": "FL",
+      "symbol": "FL-OLD",
       "manager_id": "FPPTX",
       "action": "Reduce 21.42%",
       "date": "Q2 2015",
@@ -10320,7 +10320,7 @@
       "company_name": "Avnet Inc."
     },
     {
-      "symbol": "FL",
+      "symbol": "FL-OLD",
       "manager_id": "FPPTX",
       "action": "Reduce 16.90%",
       "date": "Q1 2015",
@@ -10595,7 +10595,7 @@
       "company_name": "InterDigital Inc."
     },
     {
-      "symbol": "FL",
+      "symbol": "FL-OLD",
       "manager_id": "FPPTX",
       "action": "Reduce 24.99%",
       "date": "Q4 2014",
@@ -10859,7 +10859,7 @@
       "company_name": "Signet Jewelers Ltd."
     },
     {
-      "symbol": "FL",
+      "symbol": "FL-OLD",
       "manager_id": "FPPTX",
       "action": "Reduce 18.76%",
       "date": "Q3 2014",
@@ -11002,6 +11002,6 @@
       "company_name": "Rowan Cos."
     }
   ],
-  "timestamp": "2025-10-01T06:06:06.847215",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.842181",
+  "scraped_date": "2025-10-02"
 }

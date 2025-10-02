@@ -4,6 +4,182 @@
     {
       "symbol": "PVH",
       "manager_id": "LLPFX",
+      "action": "Add 84.43%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 437982,
+      "portfolio_percentage": 3.11,
+      "company_name": "PVH Corp."
+    },
+    {
+      "symbol": "KHC",
+      "manager_id": "LLPFX",
+      "action": "Add 45.85%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 792589,
+      "portfolio_percentage": 2.12,
+      "company_name": "Kraft Heinz Co."
+    },
+    {
+      "symbol": "REGN",
+      "manager_id": "LLPFX",
+      "action": "Add 40.34%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 32222,
+      "portfolio_percentage": 1.75,
+      "company_name": "Regeneron Pharmaceuticals"
+    },
+    {
+      "symbol": "IAC",
+      "manager_id": "LLPFX",
+      "action": "Add 19.90%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 324207,
+      "portfolio_percentage": 1.25,
+      "company_name": "IAC Inc."
+    },
+    {
+      "symbol": "PYPL",
+      "manager_id": "LLPFX",
+      "action": "Add 0.53%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 2485,
+      "portfolio_percentage": 0.02,
+      "company_name": "PayPal Holdings Inc."
+    },
+    {
+      "symbol": "FBIN",
+      "manager_id": "LLPFX",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 688909,
+      "portfolio_percentage": 3.67,
+      "company_name": "Fortune Brands Innovations Inc."
+    },
+    {
+      "symbol": "ANGI",
+      "manager_id": "LLPFX",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 1806694,
+      "portfolio_percentage": 2.85,
+      "company_name": "Angi Inc."
+    },
+    {
+      "symbol": "DIS",
+      "manager_id": "LLPFX",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 193673,
+      "portfolio_percentage": 2.48,
+      "company_name": "Walt Disney Co."
+    },
+    {
+      "symbol": "MAT",
+      "manager_id": "LLPFX",
+      "action": "Reduce 0.82%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 28509,
+      "portfolio_percentage": 0.06,
+      "company_name": "Mattel Inc."
+    },
+    {
+      "symbol": "CNX",
+      "manager_id": "LLPFX",
+      "action": "Reduce 7.42%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 170940,
+      "portfolio_percentage": 0.6,
+      "company_name": "CNX Resources Corp."
+    },
+    {
+      "symbol": "MGM",
+      "manager_id": "LLPFX",
+      "action": "Reduce 10.08%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 131365,
+      "portfolio_percentage": 0.47,
+      "company_name": "MGM Resorts International"
+    },
+    {
+      "symbol": "H",
+      "manager_id": "LLPFX",
+      "action": "Reduce 24.74%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 56309,
+      "portfolio_percentage": 0.81,
+      "company_name": "Hyatt Hotels Corp."
+    },
+    {
+      "symbol": "ACI",
+      "manager_id": "LLPFX",
+      "action": "Reduce 29.33%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1017780,
+      "portfolio_percentage": 2.26,
+      "company_name": "Albertsons Co Inc."
+    },
+    {
+      "symbol": "FIS",
+      "manager_id": "LLPFX",
+      "action": "Reduce 29.50%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 274340,
+      "portfolio_percentage": 2.31,
+      "company_name": "Fidelity National Information Services"
+    },
+    {
+      "symbol": "DINO",
+      "manager_id": "LLPFX",
+      "action": "Reduce 32.87%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 607964,
+      "portfolio_percentage": 2.58,
+      "company_name": "HF Sinclair Corp."
+    },
+    {
+      "symbol": "AMG",
+      "manager_id": "LLPFX",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 326197,
+      "portfolio_percentage": 5.91,
+      "company_name": "Affiliated Managers Group"
+    },
+    {
+      "symbol": "PVH",
+      "manager_id": "LLPFX",
       "action": "Add 18.59%",
       "date": "Q1 2025",
       "percentage_change": 0.0,
@@ -7471,7 +7647,7 @@
       "company_name": "eBay Inc."
     },
     {
-      "symbol": "WBA",
+      "symbol": "WBA-OLD",
       "manager_id": "LLPFX",
       "action": "Sell 100.00%",
       "date": "Q2 2009",
@@ -7592,7 +7768,7 @@
       "company_name": "Yum! Brands Inc."
     },
     {
-      "symbol": "WBA",
+      "symbol": "WBA-OLD",
       "manager_id": "LLPFX",
       "action": "Reduce 57.21%",
       "date": "Q1 2009",
@@ -7702,7 +7878,7 @@
       "company_name": "Walt Disney Co."
     },
     {
-      "symbol": "WBA",
+      "symbol": "WBA-OLD",
       "manager_id": "LLPFX",
       "action": "Reduce 15.55%",
       "date": "Q4 2008",
@@ -7801,7 +7977,7 @@
       "company_name": "Dell Inc."
     },
     {
-      "symbol": "WBA",
+      "symbol": "WBA-OLD",
       "manager_id": "LLPFX",
       "action": "Add 6.35%",
       "date": "Q3 2008",
@@ -8021,7 +8197,7 @@
       "company_name": "FedEx Corp."
     },
     {
-      "symbol": "WBA",
+      "symbol": "WBA-OLD",
       "manager_id": "LLPFX",
       "action": "Add 30.51%",
       "date": "Q1 2008",
@@ -8164,7 +8340,7 @@
       "company_name": "UBS AG"
     },
     {
-      "symbol": "WBA",
+      "symbol": "WBA-OLD",
       "manager_id": "LLPFX",
       "action": "Buy",
       "date": "Q4 2007",
@@ -8494,6 +8670,6 @@
       "company_name": "Comcast Corp."
     }
   ],
-  "timestamp": "2025-10-01T06:06:06.907772",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.356632",
+  "scraped_date": "2025-10-02"
 }

@@ -2,6 +2,50 @@
   "manager_id": "MP",
   "activities": [
     {
+      "symbol": "WHD",
+      "manager_id": "MP",
+      "action": "Add 50.63%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 120000,
+      "portfolio_percentage": 1.6,
+      "company_name": "Cactus Inc."
+    },
+    {
+      "symbol": "BBWI",
+      "manager_id": "MP",
+      "action": "Add 12.20%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 200000,
+      "portfolio_percentage": 1.82,
+      "company_name": "Bath & Body Works Inc."
+    },
+    {
+      "symbol": "LMB",
+      "manager_id": "MP",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 52239,
+      "portfolio_percentage": 2.23,
+      "company_name": "Limbach Holdings Inc."
+    },
+    {
+      "symbol": "PGR",
+      "manager_id": "MP",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 43323,
+      "portfolio_percentage": 4.11,
+      "company_name": "Progressive Corp."
+    },
+    {
       "symbol": "BELFB",
       "manager_id": "MP",
       "action": "Buy",
@@ -1366,6 +1410,6 @@
       "company_name": "Qurate Group Series A"
     }
   ],
-  "timestamp": "2025-10-01T06:06:07.163587",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.416092",
+  "scraped_date": "2025-10-02"
 }

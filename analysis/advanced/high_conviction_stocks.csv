@@ -1,388 +1,398 @@
 ticker,company_name,current_price,managers,total_value,avg_portfolio_pct,manager_count,max_portfolio_pct,conviction_score
-EL,Estee Lauder Cos.,89.68,Michael Burry,13200000,100.0,1,100.0,80.2
-JOE,St. Joe Co.,49.96,Bruce Berkowitz,948712000,78.07,1,78.07,62.66
-CVNA,Carvana Co.,343.0,"Robert Vinall
-Clifford Sosin",1360594000,54.51,2,77.19,50.81
-IEP,Icahn Enterprises,9.68,Carl Icahn,4084140000,54.55,1,54.55,43.84
-LOAR,Loar Holdings Inc,73.44,David Abrams,2644282000,46.92,1,46.92,37.74
-EQH,Equitable Holdings Inc.,52.99,Greg Alexander,260450000,39.48,1,39.48,31.78
-AAPL,Apple Inc.,214.15,"Duan Yongping
+JOE,St. Joe Co.,48.67,Bruce Berkowitz,963739000,78.54,1,78.54,63.03
+CVNA,Carvana Co.,397.0,"Clifford Sosin
+Robert Vinall",1830575000,56.32,2,80.82,52.81
+IEP,Icahn Enterprises,8.36,Carl Icahn,3980534000,50.47,1,50.47,40.58
+LOAR,Loar Holdings Inc,80.33,David Abrams,2761769000,45.17,1,45.17,36.34
+AAPL,Apple Inc.,257.59,"David Rolfe
 Warren Buffett
-Francis Chou
-David Rolfe
-Jensen Investment Management",74913868000,21.69,5,63.33,30.84
-BRK.A,Berkshire Hathaway CL A,723120.0,"Guy Spier - Aquamarine Capital
-Christopher Bloomstran
+Duan Yongping
+Jensen Investment Management",65161233000,24.18,4,62.47,31.63
+EQH,Equitable Holdings Inc.,50.39,Greg Alexander,280500000,36.51,1,36.51,29.41
+JHG,Janus Henderson Group,44.96,Nelson Peltz,1237745000,32.64,1,32.64,26.31
+GPI,Group 1 Automotive,447.44,Greg Alexander,248236000,32.31,1,32.31,26.05
+ORLA,Orla Mining Ltd,10.35,Prem Watsa,559636000,29.9,1,29.9,24.12
+GRBK,Green Brick Partners,76.2,David Einhorn,595309000,25.59,1,25.59,20.67
+BRK.A,Berkshire Hathaway CL A,745000.0,"Christopher Bloomstran
 Norbert Lou
+Josh Tarasoff
 Francis Chou
 Thomas Russo
-Josh Tarasoff
-Christopher Davis
-Thomas Gayner",3808873000,20.2,8,53.44,27.73
-GPI,Group 1 Automotive,417.35,Greg Alexander,217110000,32.91,1,32.91,26.53
-JHG,Janus Henderson Group,42.85,Nelson Peltz,1152021000,30.84,1,30.84,24.87
-ORLA,Orla Mining Ltd,11.81,Prem Watsa,527018000,28.57,1,28.57,23.06
-GRBK,Green Brick Partners,66.98,David Einhorn,552044000,27.96,1,27.96,22.57
-HCC,Warrior Met Coal Inc.,59.14,"Third Avenue Management
-Mohnish Pabrai",115138000,21.22,2,36.57,21.98
-SGOV,Ishares 0 3 Month Treasury B,100.63,Norbert Lou,58499000,27.0,1,27.0,21.8
-FICO,Fair Isaac Corp.,1531.26,"Valley Forge Capital Management
-Lindsell Train",1860245000,22.28,2,32.29,21.22
-VAL,Valaris plc,50.67,Mohnish Pabrai,56046000,23.87,1,23.87,19.3
-TDG,TransDigm Group Inc.,1597.75,"Bryan Lawrence
+Thomas Gayner
+Guy Spier - Aquamarine Capital",2319042000,17.22,7,34.28,20.29
+FICO,Fair Isaac Corp.,1777.12,"Valley Forge Capital Management
+Lindsell Train",1812488000,20.32,2,31.03,19.87
+CVI,CVR Energy Inc.,37.26,Carl Icahn,1890736000,23.97,1,23.97,19.38
+GTLS,Chart Industries Inc.,200.64,Alex Roepers,45229000,23.08,1,23.08,18.66
+HCC,Warrior Met Coal Inc.,64.75,"Third Avenue Management
+Mohnish Pabrai",111890000,18.22,2,30.37,18.62
+GE,GE Aerospace,299.06,"Nelson Peltz
+Chris Hohn
+AKO Capital",13797044000,19.39,3,27.36,18.5
+IBKR,Interactive Brokers Group Inc.,71.32,"Bryan Lawrence
+Robert Vinall",104207000,18.63,2,28.54,18.28
+VAL,Valaris plc,50.21,"Third Avenue Management
+Mohnish Pabrai",103999000,17.15,2,29.21,17.74
+TDG,TransDigm Group Inc.,1279.26,"Bryan Lawrence
 AltaRock Partners
-Triple Frond Partners",1512471000,20.0,3,27.26,18.78
-APTV,Aptiv PLC,71.91,Alex Roepers,40101000,22.4,1,22.4,18.12
-AMR,Alpha Metallurgical Resources Inc.,136.58,Mohnish Pabrai,51931000,22.11,1,22.11,17.89
-BABA,Alibaba Group Holdings,122.58,David Tepper,1220483000,21.92,1,21.92,17.74
-VFC,V.F. Corp.,13.43,Glenn Welling,85117000,21.7,1,21.7,17.56
-BAC,Bank of America Corp.,48.14,"Guy Spier - Aquamarine Capital
-Li Lu
-Warren Buffett",26969719000,16.01,3,26.12,16.44
-AXP,American Express,308.66,"Guy Spier - Aquamarine Capital
-Warren Buffett",40857845000,18.7,2,21.62,16.23
-MSFT,Microsoft Corp.,505.87,"Mairs & Power Growth Fund
-Stephen Mandel
-Bill & Melinda Gates Foundation Trust
+Triple Frond Partners",1573801000,17.46,3,27.21,17.49
+EL,Estee Lauder Cos.,89.18,Michael Burry,12120000,21.55,1,21.55,17.44
+MSFT,Microsoft Corp.,516.82,"Lee Ainslie
 David Rolfe
+Bill & Melinda Gates Foundation Trust
+Stephen Mandel
 Chase Coleman
+AltaRock Partners
 Chris Hohn
 Terry Smith
-AltaRock Partners
-AKO Capital
-Triple Frond Partners",28450860000,10.81,15,25.55,16.07
-BRK.B,Berkshire Hathaway CL B,482.63,"Guy Spier - Aquamarine Capital
+Triple Frond Partners
+Polen Capital Management",36528157000,11.96,16,27.27,17.36
+LULU,Lululemon Athletica Inc.,176.91,Michael Burry,11879000,21.12,1,21.12,17.1
+AXP,American Express,331.57,"Warren Buffett
+Guy Spier - Aquamarine Capital",48427766000,20.2,2,21.62,16.99
+UBER,Uber Technologies Inc.,95.91,Bill Ackman,2827098000,20.59,1,20.59,16.67
+BRK.B,Berkshire Hathaway CL B,496.82,"Christopher Bloomstran
 Li Lu
 Bill & Melinda Gates Foundation Trust
-Christopher Bloomstran
 Duan Yongping
 Thomas Russo
 Francois Rochon
-Thomas Gayner",13333132000,15.66,8,22.04,16.04
-GE,GE Aerospace,263.18,"Nelson Peltz
-Chris Hohn
-AKO Capital",10821595000,16.65,3,21.95,15.51
-CP,Canadian Pacific Kansas City,77.32,"Bill Ackman
-Chris Hohn
-Sarah Ketterer",6101275000,14.31,3,25.33,15.35
-UBER,Uber Technologies Inc.,89.94,Bill Ackman,2207743000,18.5,1,18.5,15.0
-IBKR,Interactive Brokers Group Inc.,63.32,"Robert Vinall
-Bryan Lawrence",89764000,15.6,2,22.48,14.94
-CHTR,Charter Communications,398.11,"Bryan Lawrence
-Tom Bancroft
-Triple Frond Partners",147000000,13.38,3,24.73,14.71
-WM,Waste Management Inc.,228.12,Bill & Melinda Gates Foundation Trust,7462573000,17.85,1,17.85,14.48
-CVI,CVR Energy Inc.,28.18,Carl Icahn,1329565000,17.76,1,17.76,14.41
-NE,Noble Corp.,28.57,Mohnish Pabrai,40971000,17.45,1,17.45,14.16
-LAD,Lithia Motors Inc.,319.38,"Bill Nygren
-Greg Alexander
-David Abrams",1248654000,13.6,3,22.25,14.07
-GM,General Motors,53.13,Greenhaven Associates,1164031000,17.32,1,17.32,14.06
-SOLV,Solventum Corp,74.4,Nelson Peltz,643513000,17.23,1,17.23,13.98
-WFRD,Weatherford International plc,58.38,Alex Roepers,30674000,17.14,1,17.14,13.91
-AMZN,Amazon.com Inc.,228.29,"Mairs & Power Growth Fund
-Stephen Mandel
+Thomas Gayner
+Guy Spier - Aquamarine Capital",15538966000,14.33,8,24.53,16.13
+CHTR,Charter Communications,273.39,"Tom Bancroft
+Triple Frond Partners",125820000,16.3,2,24.89,16.02
+AMZN,Amazon.com Inc.,222.02,"David Tepper
 Lee Ainslie
-David Tepper
-Daniel Loeb
-AltaRock Partners
-Samantha McLemore
-Triple Frond Partners
-Josh Tarasoff
-Polen Capital Management",7924484000,10.52,11,21.34,13.86
-CRM,Salesforce.com,267.22,ValueAct Capital,777844000,16.98,1,16.98,13.78
-BN,Brookfield Corp.,67.78,"Bill Ackman
-Chuck Akre
-Josh Tarasoff",3200475000,15.05,3,18.01,13.53
-BBWI,Bath & Body Works Inc.,33.01,Tom Bancroft,49696000,16.66,1,16.66,13.53
-PTLO,Portillo's Inc Cl A,11.48,Glenn Welling,65154000,16.61,1,16.61,13.49
-META,Meta Platforms Inc.,713.58,"Steven Romick
-Robert Vinall
-Stephen Mandel
-David Tepper
 ValueAct Capital
+Daniel Loeb
+Bill Ackman
+Stephen Mandel
+Chase Coleman
+AltaRock Partners
+Josh Tarasoff
+Triple Frond Partners",13001480000,10.62,14,25.14,15.65
+YETI,YETI Holdings Inc.,34.82,Glenn Welling,68163000,19.06,1,19.06,15.45
+AMR,Alpha Metallurgical Resources Inc.,167.35,Mohnish Pabrai,51778000,19.06,1,19.06,15.45
+EVH,Evolent Health Inc.,7.96,Glenn Welling,65921000,18.43,1,18.43,14.94
+SGOV,Ishares 0 3 Month Treasury B,100.39,Norbert Lou,56991000,18.39,1,18.39,14.91
+BRKR,Bruker Corp.,34.85,Michael Burry,10300000,18.31,1,18.31,14.85
+VFC,V.F. Corp.,15.47,Glenn Welling,63654000,17.8,1,17.8,14.44
+LAD,Lithia Motors Inc.,321.39,"Bill Nygren
+Greg Alexander
+David Abrams",1437011000,13.95,3,21.98,14.17
+CROX,Crocs Inc.,86.24,Norbert Lou,53791000,17.36,1,17.36,14.09
+GM,General Motors,59.55,Greenhaven Associates,1164031000,17.32,1,17.32,14.06
+TRMD,Torm Plc,21.28,Howard Marks,681588000,17.26,1,17.26,14.01
+SOLV,Solventum Corp,74.39,Nelson Peltz,641820000,16.93,1,16.93,13.74
+NE,Noble Corp.,28.71,Mohnish Pabrai,45898000,16.9,1,16.9,13.72
+META,Meta Platforms Inc.,725.2,"ValueAct Capital
 David Rolfe
+Stephen Mandel
 Chase Coleman
 Pat Dorsey
 Terry Smith
-Triple Frond Partners",10617180000,10.28,12,19.54,13.4
-TRMD,Torm Plc,18.71,Howard Marks,662770000,16.39,1,16.39,13.31
-C,Citigroup Inc.,95.99,"Greenhaven Associates
-Kahn Brothers Group
-Samantha McLemore",1538854000,12.73,3,20.48,13.11
-SPGI,S&P Global Inc.,525.66,"Valley Forge Capital Management
+Triple Frond Partners
+Francois Rochon
+Christopher Davis
+Wallace Weitz",12494415000,10.87,12,19.54,13.7
+GIL,Gildan Activewear Inc.,59.48,Bryan Lawrence,33566000,16.77,1,16.77,13.62
+BBWI,Bath & Body Works Inc.,25.78,Tom Bancroft,55098000,16.76,1,16.76,13.61
+C,Citigroup Inc.,97.38,"Kahn Brothers Group
+Samantha McLemore
+Greenhaven Associates",1566886000,13.6,3,20.48,13.55
+BN,Brookfield Corp.,68.45,"Chuck Akre
+Bill Ackman",3734484000,15.09,2,18.54,13.51
+WFRD,Weatherford International plc,66.35,Alex Roepers,32564000,16.62,1,16.62,13.5
+BAM,Brookfield Asset Management,56.77,Josh Tarasoff,58894000,16.57,1,16.57,13.46
+SPGI,S&P Global Inc.,475.88,"Valley Forge Capital Management
 Chris Hohn
-William Von Mueffling",7077391000,12.81,3,20.32,13.1
-GTLS,Chart Industries Inc.,171.63,"Alex Roepers
-Glenn Welling",82919000,15.08,2,16.57,12.91
-MA,Mastercard Inc.,562.09,"Guy Spier - Aquamarine Capital
+William Von Mueffling",7702824000,12.45,3,20.44,12.96
+PTLO,Portillo's Inc Cl A,6.53,Glenn Welling,56388000,15.77,1,15.77,12.82
+CP,Canadian Pacific Kansas City,75.46,"Chris Hohn
+Sarah Ketterer",5352729000,13.35,2,18.44,12.61
+WM,Waste Management Inc.,216.99,Bill & Melinda Gates Foundation Trust,7375863000,15.44,1,15.44,12.55
+MA,Mastercard Inc.,579.32,"Chuck Akre
 Valley Forge Capital Management
 AltaRock Partners
-Chuck Akre
+Polen Capital Management
 Thomas Russo
-Polen Capital Management",5698855000,11.76,6,18.54,12.64
-EXE,Expand Energy Corp.,98.7,Howard Marks,619202000,15.31,1,15.31,12.45
-EPD,Enterprise Products Partners LP,31.5,Bruce Berkowitz,186077000,15.31,1,15.31,12.45
-AZO,AutoZone Inc.,3771.19,Pat Dorsey,143143000,15.17,1,15.17,12.34
-WTW,Willis Towers Watson plc,310.45,Seth Klarman,515599000,14.81,1,14.81,12.05
-GOOG,Alphabet Inc. CL C,191.51,"Li Lu
-David Tepper
+Guy Spier - Aquamarine Capital",5679619000,11.62,6,18.43,12.54
+COOP-OLD,Mr. Cooper Group Inc.,210.79,Leon Cooperman,426830000,15.0,1,15.0,12.2
+EXE,Expand Energy Corp.,108.49,Howard Marks,591993000,15.0,1,15.0,12.2
+BAC,Bank of America Corp.,50.48,"Charles Bobrinskoy
+Li Lu
+Warren Buffett
+Guy Spier - Aquamarine Capital",29174440000,11.57,4,18.36,12.09
+RYCEF,Rolls Royce Holdings plc,16.01,Ruane Cunniff,556509000,14.76,1,14.76,12.01
+PDD,Pinduoduo Inc.,135.28,"Li Lu
+Norbert Lou
+Duan Yongping
+Robert Vinall",1467466000,11.58,4,17.93,11.97
+GOOG,Alphabet Inc. CL C,245.47,"Li Lu
 Bill Ackman
-Francis Chou
-Pat Dorsey
 Bryan Lawrence
+Pat Dorsey
 Seth Klarman
+Francis Chou
 Triple Frond Partners
-Thomas Russo",3039943000,10.07,9,17.31,12.03
-MKL,Markel Group Inc.,2023.73,Josh Tarasoff,41982000,14.5,1,14.5,11.8
-TKO,TKO Group Holdings Inc.,167.71,Lindsell Train,518695000,14.35,1,14.35,11.68
-GIL,Gildan Activewear Inc.,53.13,Bryan Lawrence,27049000,14.25,1,14.25,11.6
-PCG,PG&E Corp.,13.73,Daniel Loeb,877898000,13.97,1,13.97,11.38
-HGV,Hilton Grand Vacations Inc.,51.15,Clifford Sosin,213860000,13.89,1,13.89,11.31
-NCNO,nCino Inc.,30.99,Dennis Hong,100318000,13.78,1,13.78,11.22
-GOOGL,Alphabet Inc.,190.23,"Bill Nygren
+Thomas Russo",3138024000,10.56,8,16.17,11.73
+AER,AerCap Holdings N.V.,123.77,Pat Dorsey,159251000,14.28,1,14.28,11.62
+CRM,Salesforce.com,238.53,ValueAct Capital,790394000,14.12,1,14.12,11.5
+MELI,Mercadolibre Inc.,2238.22,Michael Burry,7841000,13.94,1,13.94,11.35
+EPD,Enterprise Products Partners LP,31.36,Bruce Berkowitz,169017000,13.77,1,13.77,11.22
+DHR,Danaher Corp.,210.67,"Pat Dorsey
+Wallace Weitz",238429000,11.55,2,16.42,11.1
+TKO,TKO Group Holdings Inc.,198.03,Lindsell Train,577448000,13.61,1,13.61,11.09
+PCOR,Procore Technologies Inc.,71.55,Dennis Hong,106846000,13.48,1,13.48,10.98
+MCO,Moody's Corp.,481.19,"Chuck Akre
+Valley Forge Capital Management
+AltaRock Partners
+Chris Hohn
+AKO Capital",9352825000,10.59,5,14.56,10.66
+GOOGL,Alphabet Inc.,244.84,"Bill Nygren
 Ruane Cunniff
 Li Lu
+David Rolfe
 Bill Ackman
-David Rolfe
 Chase Coleman
-AltaRock Partners
 Josh Tarasoff
-David Abrams",4211386000,8.0,9,17.78,11.13
-COOP,Mr. Cooper Group Inc.,169.29,Leon Cooperman,342128000,13.58,1,13.58,11.06
-PDD,Pinduoduo Inc.,118.46,"Robert Vinall
-David Tepper
-Norbert Lou
-Duan Yongping",1506289000,10.05,4,16.76,10.85
-NSIT,Insight Enterprises Inc.,146.17,ValueAct Capital,609220000,13.3,1,13.3,10.84
-PCOR,Procore Technologies Inc.,74.75,Dennis Hong,94893000,13.04,1,13.04,10.63
-YETI,YETI Holdings Inc.,39.7,Glenn Welling,51090000,13.03,1,13.03,10.62
-MCO,Moody's Corp.,507.88,"Valley Forge Capital Management
-Chris Hohn
-AltaRock Partners
-Triple Frond Partners
-Chuck Akre",8356919000,10.6,5,14.13,10.54
-ELV,Elevance Health Inc.,296.6,"Ruane Cunniff
-Glenn Greenberg",868414000,10.62,2,15.72,10.42
-MNDY,monday.com Ltd.,291.18,Dennis Hong,92087000,12.65,1,12.65,10.32
-DIS,Walt Disney Co.,122.94,"ValueAct Capital
-Kahn Brothers Group
-Lindsell Train",1104951000,10.93,3,14.15,10.31
-DHR,Danaher Corp.,197.89,"Pat Dorsey
-Wallace Weitz",197067000,10.79,2,15.02,10.3
-EVH,Evolent Health Inc.,10.21,Glenn Welling,49050000,12.51,1,12.51,10.21
-V,Visa Inc.,355.29,"ValueAct Capital
-Valley Forge Capital Management
+Terry Smith
+David Abrams
+Lindsell Train",5809468000,7.21,10,16.67,10.6
+CCL,Carnival Corp.,28.8,Sarah Ketterer,819081000,12.98,1,12.98,10.58
+BUR,Burford Capital Ltd,11.92,Josh Tarasoff,45724000,12.86,1,12.86,10.49
+DG,Dollar General,101.5,"Christopher Bloomstran
+Seth Klarman",410966000,11.16,2,14.91,10.45
+MKL,Markel Group Inc.,1921.61,Josh Tarasoff,44851000,12.62,1,12.62,10.3
+PYPL,PayPal Holdings Inc.,68.76,"Norbert Lou
 David Rolfe
+Lindsell Train",416532000,9.89,3,15.6,10.23
+BABA,Alibaba Group Holdings,189.28,David Tepper,801499000,12.43,1,12.43,10.14
+GXO,Gxo Logistics Inc.,53.66,Glenn Welling,43684000,12.22,1,12.22,9.98
+APTV,Aptiv PLC,87.48,Alex Roepers,23943000,12.22,1,12.22,9.98
+CACC,Credit Acceptance Corp.,481.01,Robert Vinall,65680000,12.16,1,12.16,9.93
+OSK,Oshkosh Corp.,129.88,Alex Roepers,23741000,12.11,1,12.11,9.89
+LEN,Lennar Corp.,128.13,"Glenn Greenberg
+Bryan Lawrence
+Greenhaven Associates",1301737000,9.2,3,15.62,9.89
+V,Visa Inc.,346.15,"ValueAct Capital
+Chuck Akre
+David Rolfe
+Valley Forge Capital Management
 Chris Hohn
 Terry Smith
-AltaRock Partners
+Polen Capital Management
 AKO Capital
-Chuck Akre
-Francois Rochon
-Polen Capital Management",12425438000,7.85,11,13.44,10.15
-OSK,Oshkosh Corp.,127.89,Alex Roepers,22193000,12.4,1,12.4,10.12
-EMN,Eastman Chemical,79.73,Alex Roepers,22167000,12.38,1,12.38,10.1
-AER,AerCap Holdings N.V.,113.0,Pat Dorsey,116325000,12.33,1,12.33,10.06
-RYCEF,Rolls Royce Holdings plc,6.31,Ruane Cunniff,405311000,12.26,1,12.26,10.01
-INTU,Intuit Inc.,776.0,"Stephen Mandel
-Dennis Hong
-Lindsell Train
-Jensen Investment Management",1928624000,9.96,4,14.08,10.01
-CACC,Credit Acceptance Corp.,533.48,Robert Vinall,65680000,12.16,1,12.16,9.93
-OXY,Occidental Petroleum,44.44,"Duan Yongping
-Warren Buffett
-Prem Watsa",14057374000,8.96,3,16.12,9.91
-LEN,Lennar Corp.,117.26,"Greenhaven Associates
+John Armitage
+Wallace Weitz",13359151000,7.68,10,13.35,9.85
+OKTA,Okta Inc.,94.84,Dennis Hong,95401000,12.04,1,12.04,9.83
+CSGP,CoStar Group Inc.,83.82,"Chuck Akre
+Dennis Hong",857489000,10.54,2,13.76,9.8
+INTU,Intuit Inc.,680.04,"Dennis Hong
+AKO Capital
+Jensen Investment Management
+Lindsell Train",1660983000,9.67,4,13.8,9.78
+CNI,Canadian Natl Railway Co.,94.29,Bill & Melinda Gates Foundation Trust,5704179000,11.94,1,11.94,9.75
+TRUP,Trupanion Inc.,43.4,Josh Tarasoff,42293000,11.9,1,11.9,9.72
+AZO,AutoZone Inc.,4280.0,Pat Dorsey,132404000,11.87,1,11.87,9.7
+UNH,United Health Group Inc.,353.0,"David Tepper
+Michael Burry",770566000,11.47,2,11.85,9.69
+DIS,Walt Disney Co.,112.51,"ValueAct Capital
+Kahn Brothers Group
+Lindsell Train",1186448000,11.0,3,11.95,9.68
+OXY,Occidental Petroleum,44.35,"Prem Watsa
+Francis Chou",267267000,10.38,2,13.58,9.67
+REGN,Regeneron Pharmaceuticals,599.59,"Mason Hawkins
+Michael Burry",66725000,10.04,2,14.0,9.62
+FRPT,Freshpet Inc.,53.42,Glenn Welling,42076000,11.77,1,11.77,9.62
+SNX,SYNNEX Corp.,163.28,Glenn Greenberg,511392000,11.72,1,11.72,9.58
+HGV,Hilton Grand Vacations Inc.,43.37,Clifford Sosin,235052000,11.45,1,11.45,9.36
+MNDY,monday.com Ltd.,181.62,Dennis Hong,88436000,11.16,1,11.16,9.13
+KO,Coca Cola Co.,65.96,Warren Buffett,28300000000,10.99,1,10.99,8.99
+FLUT,Flutter Entertainment Plc,251.06,"Tom Bancroft
+AKO Capital",877914000,9.98,2,10.7,8.6
+EWBC,East West Bancorp,105.54,Li Lu,280356000,10.43,1,10.43,8.54
+OMF,OneMain Holdings,56.45,Glenn Greenberg,448595000,10.28,1,10.28,8.42
+NCNO,nCino Inc.,26.18,Dennis Hong,80771000,10.19,1,10.19,8.35
+BAYRY,Bayer Ag Sponsored ADR,8.29,Kahn Brothers Group,50735000,10.19,1,10.19,8.35
+ASML,ASML Holding NV,1030.48,"Pat Dorsey
+Triple Frond Partners",167339000,9.86,2,10.06,8.35
+BB,BlackBerry Ltd.,4.76,Prem Watsa,186794000,9.98,1,9.98,8.18
+WCC,WESCO International Inc.,213.19,Seth Klarman,408848000,9.94,1,9.94,8.15
+QSR,Restaurant Brands International,67.43,"Bill Ackman
+Seth Klarman",1793176000,8.82,2,11.11,8.14
+WIX,Wix.com Ltd.,154.94,Robert Vinall,53559000,9.91,1,9.91,8.13
+GTX,Garrett Motion Inc.,14.0,Howard Marks,387765000,9.82,1,9.82,8.06
+WTW,Willis Towers Watson plc,347.23,Seth Klarman,402797000,9.79,1,9.79,8.03
+KKR,KKR & Co. L.P.,125.07,"Chuck Akre
+Stephen Mandel",1871643000,8.28,2,11.53,8.0
+VRT,Vertiv Holdings Co.,160.99,Leon Cooperman,277082000,9.74,1,9.74,7.99
+FOUR,Shift4 Payments Inc. CL A,78.75,Dennis Hong,77179000,9.74,1,9.74,7.99
+TOL,Toll Brothers,139.86,Greenhaven Associates,639347000,9.51,1,9.51,7.81
+COF,Capital One Financial,214.16,"Bill Nygren
+Daniel Loeb
 Glenn Greenberg
-Bryan Lawrence",1313345000,9.22,3,15.62,9.9
-WEN,Wendy's Co.,11.32,Nelson Peltz,445099000,11.91,1,11.91,9.73
-ORLY,O'Reilly Automotive,95.42,Chuck Akre,1237620000,11.9,1,11.9,9.72
-BRZE,Braze Inc A,28.45,Dennis Hong,85632000,11.77,1,11.77,9.62
-HHH,Howard Hughes Holdings Inc.,70.21,Bill Ackman,1396561000,11.71,1,11.71,9.57
-TRUP,Trupanion Inc.,50.61,Josh Tarasoff,33835000,11.69,1,11.69,9.55
-QSR,Restaurant Brands International,71.14,"Bill Ackman
-Seth Klarman",1791781000,10.14,2,12.85,9.33
-MDLZ,Mondelez International,70.17,Lindsell Train,408370000,11.3,1,11.3,9.24
-EWBC,East West Bancorp,106.38,Li Lu,249205000,11.26,1,11.26,9.21
-RBLX,Roblox Corp.,118.63,ValueAct Capital,510907000,11.15,1,11.15,9.12
-KO,Coca Cola Co.,69.16,Warren Buffett,28648000000,11.07,1,11.07,9.06
-CSGP,CoStar Group Inc.,91.0,"Dennis Hong
-Chuck Akre",828896000,9.8,2,12.5,9.05
-CNQ,Canadian Natural Resources,31.4,Yacktman Asset Management,839799000,11.04,1,11.04,9.03
-CNI,Canadian Natl Railway Co.,96.27,"Bill & Melinda Gates Foundation Trust
-Chris Hohn",7963039000,9.41,2,12.78,8.94
-CCL,Carnival Corp.,30.74,Sarah Ketterer,518816000,10.88,1,10.88,8.9
-DG,Dollar General,109.24,"Christopher Bloomstran
-Seth Klarman",264850000,9.09,2,12.86,8.8
-PEP,PepsiCo Inc.,145.66,Lindsell Train,367988000,10.18,1,10.18,8.34
-FOUR,Shift4 Payments Inc. CL A,106.7,Dennis Hong,73447000,10.09,1,10.09,8.27
-DPZ,Dominos Pizza Inc.,478.05,Tom Bancroft,29848000,10.01,1,10.01,8.21
-FLG,Flagstar Financial Inc.,12.44,Kahn Brothers Group,49001000,9.91,1,9.91,8.13
-KKR,KKR & Co. L.P.,148.26,Chuck Akre,1022867000,9.83,1,9.83,8.06
-SNX,SYNNEX Corp.,145.74,Glenn Greenberg,423789000,9.71,1,9.71,7.97
-ET,Energy Transfer LP,17.44,Leon Cooperman,241670000,9.59,1,9.59,7.87
-BB,BlackBerry Ltd.,4.1,Prem Watsa,175685000,9.52,1,9.52,7.82
-TOL,Toll Brothers,126.75,Greenhaven Associates,639347000,9.51,1,9.51,7.81
-IVZ,Invesco Ltd,21.44,Nelson Peltz,351541000,9.41,1,9.41,7.73
-COF,Capital One Financial,219.46,"Clifford Sosin
-Christopher Davis",1740779000,8.78,2,9.3,7.58
-KGC,Kinross Gold Corp.,16.17,Christopher Bloomstran,56829000,9.16,1,9.16,7.53
-GTX,Garrett Motion Inc.,11.79,Howard Marks,368973000,9.12,1,9.12,7.5
-GXO,Gxo Logistics Inc.,51.62,Glenn Welling,35641000,9.09,1,9.09,7.47
-CMG,Chipotle Mexican Grill Inc.,52.78,Bill Ackman,1081582000,9.07,1,9.07,7.46
-WCC,WESCO International Inc.,212.52,Seth Klarman,311470000,8.95,1,8.95,7.36
-MRK,Merck & Co.,83.98,Kahn Brothers Group,44187000,8.94,1,8.94,7.35
-DAR,Darling Ingredients Inc.,36.86,Alex Roepers,15887000,8.88,1,8.88,7.3
-PM,Philip Morris Intl.,164.67,"Terry Smith
-Thomas Russo",2511509000,8.37,2,8.93,7.26
-NVDA,NVIDIA Corp.,170.78,"Mairs & Power Growth Fund
-Lee Ainslie",841609000,7.75,2,9.96,7.26
-WIX,Wix.com Ltd.,154.57,"Robert Vinall
-Pat Dorsey",105740000,7.72,2,9.91,7.23
-PHM,PulteGroup Inc.,119.28,Greenhaven Associates,588512000,8.76,1,8.76,7.21
-CVS,CVS Health Corp.,61.85,"Richard Pzena
-Prem Watsa",215579000,7.6,2,9.96,7.19
-ALC,Alcon Inc.,92.22,AKO Capital,672562000,8.73,1,8.73,7.18
-SIRI,SiriusXM Holdings Inc,24.36,Francis Chou,15837000,8.71,1,8.71,7.17
-CNR,Core Natural Resources Inc.,81.71,David Einhorn,170286000,8.62,1,8.62,7.1
-STLA,Stellantis N.V.,10.34,Francis Chou,15654000,8.61,1,8.61,7.09
-LAMR,Lamar Advertising Co.,126.26,Tom Bancroft,25516000,8.56,1,8.56,7.05
-LNC,Lincoln National,35.26,Bill Miller,18646000,8.5,1,8.5,7.0
-LBTYK,Liberty Global Ltd CL C,10.49,Seth Klarman,295154000,8.48,1,8.48,6.98
-NRP,Natural Resource Partners,100.88,Bryan Lawrence,15993000,8.43,1,8.43,6.94
-TSM,Taiwan Semiconductor S.A.,240.33,"Stephen Mandel
-David Rolfe",687775000,7.46,2,9.29,6.91
-CDW,CDW Corp.,181.37,Tom Bancroft,24889000,8.35,1,8.35,6.88
-ABG,Asbury Automotive Group Inc.,238.52,David Abrams,465650000,8.26,1,8.26,6.81
-BHF,Brighthouse Financial Inc.,50.51,David Einhorn,162436000,8.23,1,8.23,6.78
-ACI,Albertsons Co Inc.,20.8,Mason Hawkins,76310000,8.23,1,8.23,6.78
-OMF,OneMain Holdings,59.0,Glenn Greenberg,358957000,8.22,1,8.22,6.78
-ROP,Roper Technologies Inc.,557.02,Chuck Akre,854412000,8.22,1,8.22,6.78
-PGR,Progressive Corp.,247.53,"Francois Rochon
-John Armitage",936193000,7.3,2,9.07,6.77
-SYK,Stryker Corp.,400.93,"Terry Smith
-Jensen Investment Management",2451881000,7.42,2,8.59,6.69
-IAC,IAC Inc.,41.14,Mason Hawkins,74855000,8.07,1,8.07,6.66
-RACE,Ferrari NV,517.56,Guy Spier - Aquamarine Capital,24966000,8.06,1,8.06,6.65
-BAYRY,Bayer Ag Sponsored ADR,8.05,Kahn Brothers Group,39574000,8.0,1,8.0,6.6
-MU,Micron Technology Inc.,109.83,Guy Spier - Aquamarine Capital,24650000,7.96,1,7.96,6.57
-CNSWF,Constellation Software Inc.,3091.0,Ruane Cunniff,263213000,7.96,1,7.96,6.57
-SE,Sea Ltd,158.57,Chase Coleman,2093234000,7.87,1,7.87,6.5
-BP,BP plc,32.71,Kahn Brothers Group,38858000,7.86,1,7.86,6.49
-FLUT,Flutter Entertainment Plc,305.48,"Tom Bancroft
-AKO Capital
-John Armitage",1081377000,6.98,3,7.91,6.46
-CNX,CNX Resources Corp.,33.13,Mason Hawkins,72481000,7.82,1,7.82,6.46
-FIS,Fidelity National Information Services,81.58,"Mason Hawkins
-Seth Klarman",330296000,7.49,2,7.49,6.39
-CVX,Chevron Corp.,153.12,Warren Buffett,19842358000,7.67,1,7.67,6.34
-SGU,Star Gas Partners LP,11.85,Bryan Lawrence,14488000,7.63,1,7.63,6.3
-PYPL,PayPal Holdings Inc.,76.66,"David Rolfe
+Clifford Sosin
+John Armitage
+Christopher Davis",3709866000,7.02,6,10.19,7.77
+PCG,PG&E Corp.,15.56,Daniel Loeb,712334000,9.45,1,9.45,7.76
+LRCX,Lam Research,146.68,Triple Frond Partners,53581000,9.39,1,9.39,7.71
+CNQ,Canadian Natural Resources,31.62,Yacktman Asset Management,694784000,9.33,1,9.33,7.66
+HHH,Howard Hughes Holdings Inc.,84.31,Bill Ackman,1272514000,9.27,1,9.27,7.62
+FLG,Flagstar Financial Inc.,11.68,Kahn Brothers Group,45804000,9.2,1,9.2,7.56
+WEN,Wendy's Co.,9.41,Nelson Peltz,347565000,9.17,1,9.17,7.54
+MDLZ,Mondelez International,61.88,Lindsell Train,385034000,9.07,1,9.07,7.46
+PM,Philip Morris Intl.,158.82,"Terry Smith
+Thomas Russo",2540262000,8.3,2,9.43,7.38
+BRZE,Braze Inc A,27.78,Dennis Hong,70801000,8.94,1,8.94,7.35
+NVDA,NVIDIA Corp.,189.14,"Lee Ainslie
+Daniel Loeb
+Chase Coleman
+Mairs & Power Growth Fund",3295054000,7.11,4,9.96,7.34
+DPZ,Dominos Pizza Inc.,432.2,Tom Bancroft,29273000,8.9,1,8.9,7.32
+RBLX,Roblox Corp.,132.87,ValueAct Capital,497809000,8.89,1,8.89,7.31
+ELV,Elevance Health Inc.,340.0,"Glenn Greenberg
+Seth Klarman",671210000,7.86,2,9.89,7.29
+SIRI,SiriusXM Holdings Inc,22.72,Francis Chou,16136000,8.83,1,8.83,7.26
+CMG,Chipotle Mexican Grill Inc.,40.32,Bill Ackman,1209537000,8.81,1,8.81,7.25
+PHM,PulteGroup Inc.,134.85,Greenhaven Associates,588512000,8.76,1,8.76,7.21
+CVS,CVS Health Corp.,77.69,"Prem Watsa
+Richard Pzena",218779000,7.62,2,9.99,7.2
+ALC,Alcon Inc.,75.21,AKO Capital,681452000,8.6,1,8.6,7.08
+CRH,CRH plc,121.22,Seth Klarman,351171000,8.54,1,8.54,7.03
+CDW,CDW Corp.,160.2,Tom Bancroft,27736000,8.44,1,8.44,6.95
+FLR,Fluor Corp.,43.68,David Einhorn,195830000,8.42,1,8.42,6.94
+DB,Deutsche Bank AG,35.32,"Sarah Ketterer
+Third Avenue Management",600600000,7.63,2,9.04,6.93
+LNC,Lincoln National,40.49,Bill Miller,19704000,8.36,1,8.36,6.89
+BKNG,Booking Holdings Inc.,5409.01,"David Rolfe
 Pat Dorsey
-Lindsell Train",362598000,6.8,3,7.53,6.26
-APO,Apollo Global Management,151.85,Leon Cooperman,189936000,7.54,1,7.54,6.23
-BKNG,Booking Holdings Inc.,5736.32,"David Rolfe
-Pat Dorsey",103883000,6.96,2,7.8,6.22
-OGN,Organon & Co.,10.1,Kahn Brothers Group,37126000,7.51,1,7.51,6.21
-FWONK,Liberty Media Corp Formula One Series C,104.6,Ruane Cunniff,246971000,7.47,1,7.47,6.18
-NBR,Nabors Industries Ltd.,34.66,Bill Miller,16215000,7.39,1,7.39,6.11
-BMY,Bristol-Myers Squibb,48.98,Kahn Brothers Group,36437000,7.37,1,7.37,6.1
-CFRHF,Compagnie Financiere Richemont SA,144.51,Thomas Russo,654958000,7.34,1,7.34,6.07
-MAT,Mattel Inc.,20.2,Mason Hawkins,67849000,7.32,1,7.32,6.06
-TSLA,Tesla Inc.,332.56,Josh Tarasoff,21008000,7.26,1,7.26,6.01
-MMC,Marsh & McLennan,209.8,"AKO Capital
-Jensen Investment Management",1159488000,6.91,2,7.1,5.98
-SWX,Southwest Gas Holdings Inc.,78.81,Carl Icahn,540841000,7.22,1,7.22,5.98
-BRCC,BRC Inc.,1.97,Glenn Welling,28289000,7.21,1,7.21,5.97
-KMX,CarMax Inc.,62.83,Tom Bancroft,21210000,7.11,1,7.11,5.89
-ASML,ASML Holding NV,716.93,Triple Frond Partners,52547000,7.1,1,7.1,5.88
-BFH,Bread Financial Holdings Inc.,64.2,Bill Miller,15516000,7.07,1,7.07,5.86
-DHI,D.R. Horton,148.17,Greenhaven Associates,474563000,7.06,1,7.06,5.85
-GTN,Gray Television Inc.,5.31,Bill Miller,15456000,7.04,1,7.04,5.83
-IQV,IQVIA Holdings Inc.,194.24,Bill Nygren,464797000,7.03,1,7.03,5.82
-TMO,Thermo Fisher Scientific,466.71,Lindsell Train,253174000,7.01,1,7.01,5.81
-NSRGY,Nestle,104.6,Thomas Russo,621562000,6.97,1,6.97,5.78
-FDX,FedEx Corp.,237.9,Mason Hawkins,64322000,6.94,1,6.94,5.75
-LRCX,Lam Research,97.1,Triple Frond Partners,51371000,6.94,1,6.94,5.75
-TDW,Tidewater Inc.,51.65,Third Avenue Management,34207000,6.86,1,6.86,5.69
-DB,Deutsche Bank AG,31.28,Third Avenue Management,34119000,6.84,1,6.84,5.67
-AVGO,Broadcom Inc.,283.69,William Von Mueffling,1055960000,6.84,1,6.84,5.67
-CRH,CRH plc,96.83,Seth Klarman,237026000,6.81,1,6.81,5.65
-CLF,Cleveland-Cliffs Inc.,11.27,Prem Watsa,122472000,6.64,1,6.64,5.51
-HKHHF,Heineken Holding NV,74.0,Thomas Russo,588228000,6.59,1,6.59,5.47
-KD,Kyndryl Holdings Inc,39.06,David Einhorn,129846000,6.58,1,6.58,5.46
-DINO,HF Sinclair Corp.,45.74,Mason Hawkins,60811000,6.56,1,6.56,5.45
-GWRE,Guidewire Software Inc.,223.73,Bryan Lawrence,12306000,6.48,1,6.48,5.38
-GSK,GSK plc,38.03,Kahn Brothers Group,31853000,6.44,1,6.44,5.35
-FCNCA,First Citizens Bancshares,2158.23,Bill Nygren,423932000,6.41,1,6.41,5.33
-QUAD,Quad/Graphics Inc.,5.76,Bill Miller,14030000,6.39,1,6.39,5.31
-SLM,SLM Corp.,33.02,Glenn Greenberg,277704000,6.36,1,6.36,5.29
-STR,Sitio Royalties Corp A,18.3,Howard Marks,257021000,6.35,1,6.35,5.28
-SNA,Snap-On Inc.,330.18,Charles Bobrinskoy,3895000,6.34,1,6.34,5.27
-EXXRF,Exor NV,0.0,Mason Hawkins,58633000,6.32,1,6.32,5.26
-EBAY,eBay Inc.,81.93,Lindsell Train,228252000,6.32,1,6.32,5.26
-SJM,J.M. Smucker Co,109.12,Charles Bobrinskoy,3873000,6.31,1,6.31,5.25
-DFS-OLD,Discover Financial Services,200.05,Glenn Greenberg,274636000,6.29,1,6.29,5.23
-SYF,Synchrony Financial,72.08,Francis Chou,11419000,6.28,1,6.28,5.22
-ADP,Automatic Data Processing Inc.,304.23,Terry Smith,1379132000,6.28,1,6.28,5.22
-KW,Kennedy-Wilson Holdings Inc.,7.66,Prem Watsa,115502000,6.26,1,6.26,5.21
-SGI,Somnigroup International Inc.,75.0,David Abrams,350013000,6.21,1,6.21,5.17
-AME,Ametek Inc.,181.28,Francois Rochon,168255000,6.2,1,6.2,5.16
-VRT,Vertiv Holdings Co.,130.19,Leon Cooperman,155792000,6.19,1,6.19,5.15
-SCHW,Charles Schwab Corp.,95.15,"Bill Nygren
-Ruane Cunniff",579122000,5.88,2,6.0,5.14
-BELFB,Bel Fuse Inc. CL B,107.07,Tom Bancroft,18415000,6.17,1,6.17,5.14
-ACN,Accenture,286.04,"AKO Capital
-Jensen Investment Management",959274000,5.67,2,6.33,5.13
-CPRT,Copart Inc.,46.83,David Rolfe,30486000,6.14,1,6.14,5.11
-BOKF,BOK Financial Corp.,107.25,Charles Bobrinskoy,3727000,6.07,1,6.07,5.06
-WAT,Waters Corp.,295.63,Terry Smith,1331716000,6.06,1,6.06,5.05
-FI,Fiserv Inc.,143.0,"Francois Rochon
-John Armitage",664948000,5.6,2,6.07,5.02
-DE,Deere & Co.,515.17,Bill Nygren,395521000,5.98,1,5.98,4.98
-DLTR,Dollar Tree Inc.,114.92,Christopher Bloomstran,37038000,5.97,1,5.97,4.98
-PSX,Phillips 66,127.85,Bill Nygren,393531000,5.95,1,5.95,4.96
-JD,JD.com Inc.,33.93,David Tepper,331016000,5.95,1,5.95,4.96
-UMGNF,Universal Music Grp NV,25.91,Ruane Cunniff,196274000,5.94,1,5.94,4.95
-HLT,Hilton Worldwide Holdings,266.85,"Bill Ackman
-Dennis Hong",723696000,5.67,2,5.72,4.95
-AMG,Affiliated Managers Group,210.22,Mason Hawkins,54811000,5.91,1,5.91,4.93
-KHC,Kraft Heinz Co.,28.94,"Mason Hawkins
-Prem Watsa",154788000,5.6,2,5.67,4.9
-JPM,JPMorgan Chase & Co.,296.76,Mairs & Power Growth Fund,313973000,5.85,1,5.85,4.88
-NFLX,Netflix Inc.,1176.78,Thomas Russo,520736000,5.84,1,5.84,4.87
-KDP,Keurig Dr Pepper Inc.,33.5,Bill Nygren,385317000,5.83,1,5.83,4.86
-LLYVK,Liberty Media Corp. Series C Live,84.29,ValueAct Capital,266011000,5.81,1,5.81,4.85
-EXP,Eagle Materials Inc.,221.47,Seth Klarman,201875000,5.8,1,5.8,4.84
-CAT,Caterpillar Inc.,427.59,Bill & Melinda Gates Foundation Trust,2425222000,5.8,1,5.8,4.84
-BIO,Bio-Rad Laboratories Inc.,257.07,Mason Hawkins,53502000,5.77,1,5.77,4.82
-HEI.A,HEICO Corp. CL A,252.66,Francois Rochon,156542000,5.77,1,5.77,4.82
-SBUX,Starbucks Corp.,95.92,Stephen Mandel,648168000,5.68,1,5.68,4.74
-ORCL,Oracle Corp.,241.9,Polen Capital Management,1762878000,5.54,1,5.54,4.63
-ICE,Intercontinental Exchange Inc.,181.0,"Ruane Cunniff
-AKO Capital",569216000,5.21,2,5.31,4.6
-REGN,Regeneron Pharmaceuticals,572.39,Mason Hawkins,50658000,5.46,1,5.46,4.57
-PRI,Primerica Inc.,267.54,Glenn Greenberg,237484000,5.44,1,5.44,4.55
-AMT,American Tower Corp.,230.18,Chuck Akre,563408000,5.42,1,5.42,4.54
-SPT,Sprout Social Inc. CL A,19.29,Pat Dorsey,50674000,5.37,1,5.37,4.5
-MPLX,MPLX LP,50.93,Glenn Greenberg,233566000,5.35,1,5.35,4.48
-RYAAY,Ryanair Holdings PLC,62.5,Glenn Greenberg,232056000,5.31,1,5.31,4.45
-CME,CME Group,276.48,John Armitage,459003000,5.3,1,5.3,4.44
-MHK,Mohawk Industries,116.65,Charles Bobrinskoy,3257000,5.3,1,5.3,4.44
-FNF,Fidelity National Financial Inc.,55.55,Glenn Greenberg,229990000,5.27,1,5.27,4.42
-NATL,NCR Atleos Corp.,27.54,Glenn Welling,20425000,5.21,1,5.21,4.37
-FERG,Ferguson Enterprises Inc.,227.72,Seth Klarman,181380000,5.21,1,5.21,4.37
-PENN,Penn National Gaming Inc.,18.61,David Einhorn,102238000,5.18,1,5.18,4.34
-PAYC,Paycom Software Inc.,236.44,Bill Nygren,340872000,5.16,1,5.16,4.33
-NEM,Newmont Corp.,61.42,Christopher Bloomstran,31988000,5.16,1,5.16,4.33
-ADI,Analog Devices,228.08,Steven Romick,326885000,5.15,1,5.15,4.32
-ABNB,Airbnb Inc.,139.83,Bill Nygren,337594000,5.11,1,5.11,4.29
-COP,ConocoPhillips,95.04,Bill Nygren,336055000,5.08,1,5.08,4.26
-QXO,Qxo Inc,22.13,Samantha McLemore,98637000,5.07,1,5.07,4.26
-CPNG,Coupang Inc.,30.54,David Abrams,285484000,5.07,1,5.07,4.26
-LPLA,LPL Financial Holdings Inc.,379.18,Stephen Mandel,577080000,5.06,1,5.06,4.25
-IDXX,IDEXX Laboratories,540.68,Terry Smith,1112167000,5.06,1,5.06,4.25
-UNH,United Health Group Inc.,292.51,Ruane Cunniff,166173000,5.03,1,5.03,4.22
-AU,AngloGold Ashanti Ltd.,51.08,Howard Marks,202855000,5.02,1,5.02,4.22
-CNH,CNH Industrial NV,13.38,David Einhorn,99179000,5.02,1,5.02,4.22
+AKO Capital",536931000,6.85,3,9.49,6.87
+ET,Energy Transfer LP,16.94,Leon Cooperman,237412000,8.34,1,8.34,6.87
+TDW,Tidewater Inc.,52.76,Third Avenue Management,40371000,8.33,1,8.33,6.86
+ORLY,O'Reilly Automotive,105.24,Chuck Akre,848188000,8.31,1,8.31,6.85
+TSM,Taiwan Semiconductor S.A.,288.49,"Lee Ainslie
+David Rolfe
+Stephen Mandel",1224030000,6.97,3,9.16,6.83
+LAMR,Lamar Advertising Co.,121.72,Tom Bancroft,27216000,8.28,1,8.28,6.82
+ABG,Asbury Automotive Group Inc.,251.24,David Abrams,502971000,8.23,1,8.23,6.78
+VST,Vistra Corp.,202.91,"David Tepper
+Stephen Mandel",1602754000,7.24,2,9.08,6.75
+TMO,Thermo Fisher Scientific,526.08,Lindsell Train,346511000,8.17,1,8.17,6.74
+AVGO,Broadcom Inc.,339.18,"Torray Funds
+William Von Mueffling",1551761000,7.34,2,8.73,6.69
+CNSWF,Constellation Software Inc.,2717.0,Ruane Cunniff,304755000,8.08,1,8.08,6.66
+RACE,Ferrari NV,503.4,Guy Spier - Aquamarine Capital,24966000,8.06,1,8.06,6.65
+ROP,Roper Technologies Inc.,498.01,Chuck Akre,815948000,7.99,1,7.99,6.59
+MU,Micron Technology Inc.,183.68,Guy Spier - Aquamarine Capital,24650000,7.96,1,7.96,6.57
+BFH,Bread Financial Holdings Inc.,55.05,Bill Miller,18700000,7.94,1,7.94,6.55
+SLM,SLM Corp.,27.34,Glenn Greenberg,345636000,7.92,1,7.92,6.54
+SYF,Synchrony Financial,70.36,Francis Chou,14396000,7.87,1,7.87,6.5
+SYK,Stryker Corp.,365.43,"Terry Smith
+Jensen Investment Management",2411217000,7.3,2,8.04,6.46
+MRK,Merck & Co.,89.06,Kahn Brothers Group,38825000,7.8,1,7.8,6.44
+GWRE,Guidewire Software Inc.,231.66,Bryan Lawrence,15465000,7.73,1,7.73,6.38
+NFLX,Netflix Inc.,1161.89,Thomas Russo,726256000,7.72,1,7.72,6.38
+FWONK,Liberty Media Corp Formula One Series C,103.87,Ruane Cunniff,286728000,7.6,1,7.6,6.28
+ASH,Ashland Global Holdings Inc.,48.66,Alex Roepers,14899000,7.6,1,7.6,6.28
+PEP,PepsiCo Inc.,142.02,Lindsell Train,320489000,7.55,1,7.55,6.24
+IAC,IAC Inc.,34.37,Mason Hawkins,72948000,7.54,1,7.54,6.23
+SE,Sea Ltd,183.61,Chase Coleman,2565651000,7.53,1,7.53,6.22
+UMGNF,Universal Music Grp NV,29.1,Ruane Cunniff,281593000,7.47,1,7.47,6.18
+CFRHF,Compagnie Financiere Richemont SA,189.16,Thomas Russo,699996000,7.44,1,7.44,6.15
+NBR,Nabors Industries Ltd.,40.88,Bill Miller,17487000,7.42,1,7.42,6.14
+CNX,CNX Resources Corp.,32.79,Mason Hawkins,71789000,7.42,1,7.42,6.14
+ORCL,Oracle Corp.,289.17,"Charles Bobrinskoy
+Polen Capital Management",2623117000,6.54,2,8.04,6.08
+NRP,Natural Resource Partners,107.0,Bryan Lawrence,14702000,7.35,1,7.35,6.08
+BELFB,Bel Fuse Inc. CL B,143.81,Tom Bancroft,24032000,7.31,1,7.31,6.05
+PGR,Progressive Corp.,243.15,John Armitage,703966000,7.22,1,7.22,5.98
+ENOV,Enovis Corp.,30.41,Pat Dorsey,80068000,7.18,1,7.18,5.94
+FIS,Fidelity National Information Services,66.54,"Mason Hawkins
+Seth Klarman",361887000,6.51,2,7.5,5.9
+RYAAY,Ryanair Holdings PLC,60.12,Glenn Greenberg,310212000,7.11,1,7.11,5.89
+SWX,Southwest Gas Holdings Inc.,77.93,Carl Icahn,560350000,7.11,1,7.11,5.89
+BLDR,Builders FirstSource Inc.,127.49,Alex Roepers,13886000,7.09,1,7.09,5.87
+TSLA,Tesla Inc.,442.58,Josh Tarasoff,25202000,7.09,1,7.09,5.87
+MAT,Mattel Inc.,17.21,Mason Hawkins,68300000,7.06,1,7.06,5.85
+DHI,D.R. Horton,171.64,Greenhaven Associates,474563000,7.06,1,7.06,5.85
+NSIT,Insight Enterprises Inc.,112.12,ValueAct Capital,395163000,7.06,1,7.06,5.85
+DLTR,Dollar Tree Inc.,90.16,Christopher Bloomstran,50153000,7.06,1,7.06,5.85
+GTN,Gray Television Inc.,5.71,Bill Miller,16525000,7.01,1,7.01,5.81
+KHC,Kraft Heinz Co.,25.99,"Mason Hawkins
+Prem Watsa",191158000,6.74,2,6.74,5.79
+FCNCA,First Citizens Bancshares,1737.32,Bill Nygren,478224000,6.89,1,6.89,5.71
+BP,BP plc,33.96,Kahn Brothers Group,33802000,6.79,1,6.79,5.63
+PVH,PVH Corp.,82.65,Mason Hawkins,65633000,6.79,1,6.79,5.63
+KGC,Kinross Gold Corp.,24.95,Christopher Bloomstran,48245000,6.79,1,6.79,5.63
+CVX,Chevron Corp.,153.56,Warren Buffett,17478456000,6.79,1,6.79,5.63
+OGN,Organon & Co.,11.04,Kahn Brothers Group,33785000,6.78,1,6.78,5.62
+EXXRF,Exor NV,97.0,Mason Hawkins,65399000,6.76,1,6.76,5.61
+APO,Apollo Global Management,127.83,Leon Cooperman,189680000,6.67,1,6.67,5.54
+HKHHF,Heineken Holding NV,67.39,Thomas Russo,625942000,6.65,1,6.65,5.52
+HEI.A,HEICO Corp. CL A,251.32,Francois Rochon,193931000,6.65,1,6.65,5.52
+SGI,Somnigroup International Inc.,83.93,David Abrams,397769000,6.51,1,6.51,5.41
+QUAD,Quad/Graphics Inc.,6.07,Bill Miller,15314000,6.5,1,6.5,5.4
+CNR,Core Natural Resources Inc.,85.8,David Einhorn,150334000,6.46,1,6.46,5.37
+SGU,Star Gas Partners LP,11.92,Bryan Lawrence,12861000,6.43,1,6.43,5.34
+FERG,Ferguson Enterprises Inc.,231.1,"Nelson Peltz
+Seth Klarman",483047000,6.12,2,6.24,5.33
+CPNG,Coupang Inc.,32.39,David Abrams,390018000,6.38,1,6.38,5.3
+BHF,Brighthouse Financial Inc.,52.27,David Einhorn,148411000,6.38,1,6.38,5.3
+QXO,Qxo Inc,19.99,Samantha McLemore,140919000,6.36,1,6.36,5.29
+NSRGY,Nestle,91.77,Thomas Russo,597393000,6.35,1,6.35,5.28
+SCHW,Charles Schwab Corp.,92.83,"Bill Nygren
+Ruane Cunniff
+Yacktman Asset Management",998052000,5.59,3,6.13,5.24
+MMC,Marsh & McLennan,200.34,Jensen Investment Management,529904000,6.21,1,6.21,5.17
+FDX,FedEx Corp.,242.14,Mason Hawkins,59976000,6.2,1,6.2,5.16
+LBTYK,Liberty Global Ltd CL C,11.85,Seth Klarman,254222000,6.18,1,6.18,5.14
+AME,Ametek Inc.,186.46,Francois Rochon,180298000,6.18,1,6.18,5.14
+ABNB,Airbnb Inc.,121.53,Bill Nygren,428371000,6.17,1,6.17,5.14
+IDXX,IDEXX Laboratories,632.45,Terry Smith,1415556000,6.15,1,6.15,5.12
+IVZ,Invesco Ltd,23.78,Nelson Peltz,230691000,6.08,1,6.08,5.06
+CLF,Cleveland-Cliffs Inc.,12.8,Prem Watsa,113234000,6.05,1,6.05,5.04
+IQV,IQVIA Holdings Inc.,203.64,Bill Nygren,419189000,6.04,1,6.04,5.03
+STR-OLD,Sitio Royalties Corp A,18.12,Howard Marks,237939000,6.03,1,6.03,5.02
+CAT,Caterpillar Inc.,490.75,Bill & Melinda Gates Foundation Trust,2854746000,5.97,1,5.97,4.98
+KD,Kyndryl Holdings Inc,30.42,David Einhorn,138942000,5.97,1,5.97,4.98
+FIVE,Five Below Inc.,156.74,Christopher Bloomstran,42346000,5.96,1,5.96,4.97
+HLT,Hilton Worldwide Holdings,259.19,Bill Ackman,807164000,5.88,1,5.88,4.9
+JPM,JPMorgan Chase & Co.,307.66,Mairs & Power Growth Fund,313973000,5.85,1,5.85,4.88
+ADP,Automatic Data Processing Inc.,289.25,Terry Smith,1345271000,5.84,1,5.84,4.87
+B,Barrick Mining Corp.,34.01,Sarah Ketterer,366675000,5.81,1,5.81,4.85
+LLYVK,Liberty Media Corp. Series C Live,92.14,ValueAct Capital,323982000,5.79,1,5.79,4.83
+EBAY,eBay Inc.,88.59,Lindsell Train,244575000,5.76,1,5.76,4.81
+PENN,Penn National Gaming Inc.,19.07,David Einhorn,133925000,5.76,1,5.76,4.81
+AU,AngloGold Ashanti Ltd.,72.72,Howard Marks,225468000,5.71,1,5.71,4.77
+KMX,CarMax Inc.,45.84,Tom Bancroft,18295000,5.57,1,5.57,4.66
+NEM,Newmont Corp.,86.39,Christopher Bloomstran,39509000,5.56,1,5.56,4.65
+AN,AutoNation Inc.,224.23,Glenn Greenberg,241262000,5.53,1,5.53,4.62
+ERFSF,Eurofins Scientific SE,73.09,Ruane Cunniff,208322000,5.52,1,5.52,4.62
+BIO,Bio-Rad Laboratories Inc.,295.93,Mason Hawkins,53010000,5.48,1,5.48,4.58
+PSX,Phillips 66,134.93,Bill Nygren,380209000,5.47,1,5.47,4.58
+WAT,Waters Corp.,321.43,Terry Smith,1259478000,5.47,1,5.47,4.58
+BOKF,BOK Financial Corp.,111.85,Charles Bobrinskoy,3494000,5.46,1,5.46,4.57
+TSCO,Tractor Supply,56.15,David Rolfe,28130000,5.46,1,5.46,4.57
+ACI,Albertsons Co Inc.,17.34,Mason Hawkins,52752000,5.45,1,5.45,4.56
+IDT,IDT Corp. CL B,49.75,Kahn Brothers Group,27093000,5.44,1,5.44,4.55
+CRS,Carpenter Technology,247.83,John Armitage,527628000,5.41,1,5.41,4.53
+MIR,Mirion Technologies Inc,22.61,Leon Cooperman,153401000,5.39,1,5.39,4.51
+REZI,Resideo Technologies Inc.,43.17,Charles Bobrinskoy,3400000,5.32,1,5.32,4.46
+ICE,Intercontinental Exchange Inc.,161.79,"Bill Nygren
+AKO Capital",752687000,5.06,2,5.07,4.45
+DINO,HF Sinclair Corp.,51.91,Mason Hawkins,51001000,5.27,1,5.27,4.42
+CCCS,CCC Intelligent Solutions Hldgs Inc.,9.2,Triple Frond Partners,29932000,5.24,1,5.24,4.39
+SHOP,Shopify Inc.,150.26,Polen Capital Management,1694510000,5.2,1,5.2,4.36
+SNA,Snap-On Inc.,349.51,Charles Bobrinskoy,3324000,5.2,1,5.2,4.36
+PRI,Primerica Inc.,279.16,Glenn Greenberg,225502000,5.17,1,5.17,4.34
+ADI,Analog Devices,242.61,Steven Romick,326885000,5.15,1,5.15,4.32
+MRP,Millrose Properties,33.1,Glenn Greenberg,224137000,5.14,1,5.14,4.31
+EMN,Eastman Chemical,64.36,Alex Roepers,10057000,5.13,1,5.13,4.3
+BMY,Bristol-Myers Squibb,45.89,Kahn Brothers Group,25491000,5.12,1,5.12,4.3
+GSK,GSK plc,43.8,Kahn Brothers Group,25339000,5.09,1,5.09,4.27
+LPLA,LPL Financial Holdings Inc.,313.5,Stephen Mandel,702037000,5.08,1,5.08,4.26
+AMG,Affiliated Managers Group,235.94,Charles Bobrinskoy,3228000,5.05,1,5.05,4.24
+MPLX,MPLX LP,49.53,Glenn Greenberg,220207000,5.05,1,5.05,4.24
+YNDX,Yandex N.V.,20.0,Greg Alexander,38731000,5.04,1,5.04,4.23
+MAR,Marriott Int'l.,265.87,Terry Smith,1157481000,5.03,1,5.03,4.22

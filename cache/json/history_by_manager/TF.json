@@ -2,6 +2,72 @@
   "manager_id": "TF",
   "activities": [
     {
+      "symbol": "FERG",
+      "manager_id": "TF",
+      "action": "Add 7.69%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 77592,
+      "portfolio_percentage": 0.45,
+      "company_name": "Ferguson Enterprises Inc."
+    },
+    {
+      "symbol": "WEN",
+      "manager_id": "TF",
+      "action": "Add 0.04%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 11111,
+      "portfolio_percentage": 0.0,
+      "company_name": "Wendy's Co."
+    },
+    {
+      "symbol": "IVZ",
+      "manager_id": "TF",
+      "action": "Reduce 36.87%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 8544987,
+      "portfolio_percentage": 3.55,
+      "company_name": "Invesco Ltd"
+    },
+    {
+      "symbol": "UHAL",
+      "manager_id": "TF",
+      "action": "Reduce 45.81%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 298665,
+      "portfolio_percentage": 0.47,
+      "company_name": "U-Haul Holding Co."
+    },
+    {
+      "symbol": "ALL",
+      "manager_id": "TF",
+      "action": "Reduce 68.53%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 217695,
+      "portfolio_percentage": 1.15,
+      "company_name": "Allstate Corp."
+    },
+    {
+      "symbol": "UHAL.B",
+      "manager_id": "TF",
+      "action": "Reduce 69.94%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 786669,
+      "portfolio_percentage": 1.12,
+      "company_name": "U Haul Holding Co Non Voting"
+    },
+    {
       "symbol": "ALL",
       "manager_id": "TF",
       "action": "Add 3.56%",
@@ -2895,6 +2961,6 @@
       "company_name": "Allegion Plc"
     }
   ],
-  "timestamp": "2025-10-01T06:06:06.941799",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.434114",
+  "scraped_date": "2025-10-02"
 }

@@ -2,6 +2,94 @@
   "manager_id": "WVALX",
   "activities": [
     {
+      "symbol": "TMO",
+      "manager_id": "WVALX",
+      "action": "Add 17.33%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 13000,
+      "portfolio_percentage": 0.64,
+      "company_name": "Thermo Fisher Scientific"
+    },
+    {
+      "symbol": "DHR",
+      "manager_id": "WVALX",
+      "action": "Add 3.70%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 10000,
+      "portfolio_percentage": 0.24,
+      "company_name": "Danaher Corp."
+    },
+    {
+      "symbol": "IEX",
+      "manager_id": "WVALX",
+      "action": "Add 2.50%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 5000,
+      "portfolio_percentage": 0.11,
+      "company_name": "IDEX Corp."
+    },
+    {
+      "symbol": "MA",
+      "manager_id": "WVALX",
+      "action": "Reduce 12.99%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 10000,
+      "portfolio_percentage": 0.68,
+      "company_name": "Mastercard Inc."
+    },
+    {
+      "symbol": "V",
+      "manager_id": "WVALX",
+      "action": "Reduce 13.79%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 20000,
+      "portfolio_percentage": 0.86,
+      "company_name": "Visa Inc."
+    },
+    {
+      "symbol": "CHTR",
+      "manager_id": "WVALX",
+      "action": "Reduce 23.33%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 21000,
+      "portfolio_percentage": 1.03,
+      "company_name": "Charter Communications"
+    },
+    {
+      "symbol": "KMX",
+      "manager_id": "WVALX",
+      "action": "Reduce 23.61%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 85000,
+      "portfolio_percentage": 0.69,
+      "company_name": "CarMax Inc."
+    },
+    {
+      "symbol": "ADBE",
+      "manager_id": "WVALX",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 72500,
+      "portfolio_percentage": 3.29,
+      "company_name": "Adobe Inc."
+    },
+    {
       "symbol": "ADBE",
       "manager_id": "WVALX",
       "action": "Add 81.25%",
@@ -10912,96 +11000,8 @@
       "shares": 150000,
       "portfolio_percentage": 0.21,
       "company_name": "USG Corp."
-    },
-    {
-      "symbol": "ELV",
-      "manager_id": "WVALX",
-      "action": "Reduce 22.33%",
-      "date": "Q2 2009",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 230000,
-      "portfolio_percentage": 1.6,
-      "company_name": "Elevance Health Inc."
-    },
-    {
-      "symbol": "UNH",
-      "manager_id": "WVALX",
-      "action": "Reduce 23.64%",
-      "date": "Q2 2009",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 260000,
-      "portfolio_percentage": 0.89,
-      "company_name": "United Health Group Inc."
-    },
-    {
-      "symbol": "LOW",
-      "manager_id": "WVALX",
-      "action": "Reduce 33.33%",
-      "date": "Q2 2009",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 400000,
-      "portfolio_percentage": 1.06,
-      "company_name": "Lowe's Cos."
-    },
-    {
-      "symbol": "LMDIA",
-      "manager_id": "WVALX",
-      "action": "Reduce 37.93%",
-      "date": "Q2 2009",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 550000,
-      "portfolio_percentage": 2.01,
-      "company_name": "Liberty Media Ent. OLD"
-    },
-    {
-      "symbol": "RTYFZ",
-      "manager_id": "WVALX",
-      "action": "Reduce 67.47%",
-      "date": "Q2 2009",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 910800,
-      "portfolio_percentage": 0.0,
-      "company_name": "Realty Finance Corp."
-    },
-    {
-      "symbol": "BBBYQ-OLD",
-      "manager_id": "WVALX",
-      "action": "Sell 100.00%",
-      "date": "Q2 2009",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 400000,
-      "portfolio_percentage": 1.5,
-      "company_name": "Bed Bath & Beyond"
-    },
-    {
-      "symbol": "NCT-OLD",
-      "manager_id": "WVALX",
-      "action": "Sell 100.00%",
-      "date": "Q2 2009",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 633334,
-      "portfolio_percentage": 0.19,
-      "company_name": "Newcastle Investment Corp."
-    },
-    {
-      "symbol": "COP",
-      "manager_id": "WVALX",
-      "action": "Add 124.72%",
-      "date": "Q1 2009",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 111000,
-      "portfolio_percentage": 0.66,
-      "company_name": "ConocoPhillips"
     }
   ],
-  "timestamp": "2025-10-01T06:06:07.319947",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.768604",
+  "scraped_date": "2025-10-02"
 }

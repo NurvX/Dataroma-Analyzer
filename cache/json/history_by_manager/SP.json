@@ -2,6 +2,116 @@
   "manager_id": "SP",
   "activities": [
     {
+      "symbol": "VERX",
+      "manager_id": "SP",
+      "action": "Add 45.35%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 222283,
+      "portfolio_percentage": 0.99,
+      "company_name": "Vertex Inc."
+    },
+    {
+      "symbol": "CSGP",
+      "manager_id": "SP",
+      "action": "Add 18.09%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 207758,
+      "portfolio_percentage": 2.11,
+      "company_name": "CoStar Group Inc."
+    },
+    {
+      "symbol": "PCOR",
+      "manager_id": "SP",
+      "action": "Add 8.65%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 124282,
+      "portfolio_percentage": 1.07,
+      "company_name": "Procore Technologies Inc."
+    },
+    {
+      "symbol": "BRZE",
+      "manager_id": "SP",
+      "action": "Add 6.16%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 146214,
+      "portfolio_percentage": 0.52,
+      "company_name": "Braze Inc A"
+    },
+    {
+      "symbol": "OKTA",
+      "manager_id": "SP",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 954293,
+      "portfolio_percentage": 12.04,
+      "company_name": "Okta Inc."
+    },
+    {
+      "symbol": "FOUR",
+      "manager_id": "SP",
+      "action": "Reduce 13.37%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 120152,
+      "portfolio_percentage": 1.5,
+      "company_name": "Shift4 Payments Inc. CL A"
+    },
+    {
+      "symbol": "INTU",
+      "manager_id": "SP",
+      "action": "Reduce 16.84%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 28113,
+      "portfolio_percentage": 2.79,
+      "company_name": "Intuit Inc."
+    },
+    {
+      "symbol": "NCNO",
+      "manager_id": "SP",
+      "action": "Reduce 20.92%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 764152,
+      "portfolio_percentage": 2.7,
+      "company_name": "nCino Inc."
+    },
+    {
+      "symbol": "MNDY",
+      "manager_id": "SP",
+      "action": "Reduce 25.74%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 97499,
+      "portfolio_percentage": 3.87,
+      "company_name": "monday.com Ltd."
+    },
+    {
+      "symbol": "HLT",
+      "manager_id": "SP",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 179612,
+      "portfolio_percentage": 5.62,
+      "company_name": "Hilton Worldwide Holdings"
+    },
+    {
       "symbol": "INTU",
       "manager_id": "SP",
       "action": "Add 94.73%",
@@ -1806,6 +1916,6 @@
       "company_name": "JD.com Inc."
     }
   ],
-  "timestamp": "2025-10-01T06:06:07.115573",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.554151",
+  "scraped_date": "2025-10-02"
 }

@@ -2,6 +2,501 @@
   "manager_id": "KB",
   "activities": [
     {
+      "symbol": "PEYUF",
+      "manager_id": "KB",
+      "action": "Add 63.11%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 12500,
+      "portfolio_percentage": 0.03,
+      "company_name": "Peyto Exploration & Development Corp."
+    },
+    {
+      "symbol": "TRMLF",
+      "manager_id": "KB",
+      "action": "Add 62.47%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 10750,
+      "portfolio_percentage": 0.1,
+      "company_name": "Tourmaline Oil Corp"
+    },
+    {
+      "symbol": "OGN",
+      "manager_id": "KB",
+      "action": "Add 39.98%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 996766,
+      "portfolio_percentage": 1.94,
+      "company_name": "Organon & Co."
+    },
+    {
+      "symbol": "XOM",
+      "manager_id": "KB",
+      "action": "Add 38.54%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 5325,
+      "portfolio_percentage": 0.11,
+      "company_name": "Exxon Mobil Corp."
+    },
+    {
+      "symbol": "DIS",
+      "manager_id": "KB",
+      "action": "Add 12.72%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 44275,
+      "portfolio_percentage": 1.1,
+      "company_name": "Walt Disney Co."
+    },
+    {
+      "symbol": "IDT",
+      "manager_id": "KB",
+      "action": "Add 8.49%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 31028,
+      "portfolio_percentage": 0.43,
+      "company_name": "IDT Corp. CL B"
+    },
+    {
+      "symbol": "AAPL",
+      "manager_id": "KB",
+      "action": "Add 7.16%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 200,
+      "portfolio_percentage": 0.01,
+      "company_name": "Apple Inc."
+    },
+    {
+      "symbol": "PG",
+      "manager_id": "KB",
+      "action": "Add 3.94%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 67,
+      "portfolio_percentage": 0.0,
+      "company_name": "Procter & Gamble"
+    },
+    {
+      "symbol": "MSFT",
+      "manager_id": "KB",
+      "action": "Add 3.59%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 66,
+      "portfolio_percentage": 0.01,
+      "company_name": "Microsoft Corp."
+    },
+    {
+      "symbol": "FLG",
+      "manager_id": "KB",
+      "action": "Add 2.47%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 104179,
+      "portfolio_percentage": 0.22,
+      "company_name": "Flagstar Financial Inc."
+    },
+    {
+      "symbol": "BAYRY",
+      "manager_id": "KB",
+      "action": "Add 2.36%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 155210,
+      "portfolio_percentage": 0.24,
+      "company_name": "Bayer Ag Sponsored ADR"
+    },
+    {
+      "symbol": "C",
+      "manager_id": "KB",
+      "action": "Add 1.13%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 9885,
+      "portfolio_percentage": 0.17,
+      "company_name": "Citigroup Inc."
+    },
+    {
+      "symbol": "GOOG",
+      "manager_id": "KB",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 71091,
+      "portfolio_percentage": 1.32,
+      "company_name": "Alphabet Inc. CL C"
+    },
+    {
+      "symbol": "CMCSA",
+      "manager_id": "KB",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 6380,
+      "portfolio_percentage": 0.05,
+      "company_name": "Comcast Corp."
+    },
+    {
+      "symbol": "PIFYF",
+      "manager_id": "KB",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 530000,
+      "portfolio_percentage": 0.05,
+      "company_name": "Pine Cliff Energy Ltd"
+    },
+    {
+      "symbol": "OBT",
+      "manager_id": "KB",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 8000,
+      "portfolio_percentage": 0.04,
+      "company_name": "Orange County Bancorp Inc"
+    },
+    {
+      "symbol": "MRK",
+      "manager_id": "KB",
+      "action": "Reduce 0.37%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1810,
+      "portfolio_percentage": 0.03,
+      "company_name": "Merck & Co."
+    },
+    {
+      "symbol": "PFE",
+      "manager_id": "KB",
+      "action": "Reduce 0.57%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 4200,
+      "portfolio_percentage": 0.02,
+      "company_name": "Pfizer Inc."
+    },
+    {
+      "symbol": "RFL",
+      "manager_id": "KB",
+      "action": "Reduce 0.78%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1260,
+      "portfolio_percentage": 0.0,
+      "company_name": "Rafael Holdings Inc."
+    },
+    {
+      "symbol": "ZDGE",
+      "manager_id": "KB",
+      "action": "Reduce 0.98%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 840,
+      "portfolio_percentage": 0.0,
+      "company_name": "Zedge Inc."
+    },
+    {
+      "symbol": "PTEN",
+      "manager_id": "KB",
+      "action": "Reduce 1.01%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 19600,
+      "portfolio_percentage": 0.02,
+      "company_name": "Patterson-UTI Energy Inc."
+    },
+    {
+      "symbol": "GNE",
+      "manager_id": "KB",
+      "action": "Reduce 1.78%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 3609,
+      "portfolio_percentage": 0.02,
+      "company_name": "Genie Energy Ltd."
+    },
+    {
+      "symbol": "BP",
+      "manager_id": "KB",
+      "action": "Reduce 1.79%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 20595,
+      "portfolio_percentage": 0.12,
+      "company_name": "BP plc"
+    },
+    {
+      "symbol": "VZ",
+      "manager_id": "KB",
+      "action": "Reduce 1.88%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 148,
+      "portfolio_percentage": 0.0,
+      "company_name": "Verizon Communications"
+    },
+    {
+      "symbol": "SEB",
+      "manager_id": "KB",
+      "action": "Reduce 2.29%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 202,
+      "portfolio_percentage": 0.12,
+      "company_name": "Seaboard Corp."
+    },
+    {
+      "symbol": "JPM",
+      "manager_id": "KB",
+      "action": "Reduce 3.14%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 90,
+      "portfolio_percentage": 0.01,
+      "company_name": "JPMorgan Chase & Co."
+    },
+    {
+      "symbol": "WBS",
+      "manager_id": "KB",
+      "action": "Reduce 6.71%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 2165,
+      "portfolio_percentage": 0.02,
+      "company_name": "Webster Financial Corp."
+    },
+    {
+      "symbol": "BMY",
+      "manager_id": "KB",
+      "action": "Reduce 7.82%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 46745,
+      "portfolio_percentage": 0.43,
+      "company_name": "Bristol-Myers Squibb"
+    },
+    {
+      "symbol": "NVS",
+      "manager_id": "KB",
+      "action": "Reduce 15.69%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 3438,
+      "portfolio_percentage": 0.08,
+      "company_name": "Novartis AG"
+    },
+    {
+      "symbol": "CSX",
+      "manager_id": "KB",
+      "action": "Reduce 16.42%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 8000,
+      "portfolio_percentage": 0.05,
+      "company_name": "CSX Corp."
+    },
+    {
+      "symbol": "PEG",
+      "manager_id": "KB",
+      "action": "Reduce 17.15%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 750,
+      "portfolio_percentage": 0.01,
+      "company_name": "Public Serv. Enterprise Inc."
+    },
+    {
+      "symbol": "GSK",
+      "manager_id": "KB",
+      "action": "Reduce 19.75%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 162355,
+      "portfolio_percentage": 1.25,
+      "company_name": "GSK plc"
+    },
+    {
+      "symbol": "BAC",
+      "manager_id": "KB",
+      "action": "Reduce 31.19%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 5388,
+      "portfolio_percentage": 0.05,
+      "company_name": "Bank of America Corp."
+    },
+    {
+      "symbol": "HLN",
+      "manager_id": "KB",
+      "action": "Reduce 35.74%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 65872,
+      "portfolio_percentage": 0.14,
+      "company_name": "Haleon Plc ADR"
+    },
+    {
+      "symbol": "TPHS",
+      "manager_id": "KB",
+      "action": "Reduce 71.77%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 424467,
+      "portfolio_percentage": 0.0,
+      "company_name": "Trinity Place Holdings"
+    },
+    {
+      "symbol": "AGO",
+      "manager_id": "KB",
+      "action": "Reduce 76.30%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 141645,
+      "portfolio_percentage": 2.48,
+      "company_name": "Assured Guaranty Ltd."
+    },
+    {
+      "symbol": "HOLX",
+      "manager_id": "KB",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 19757,
+      "portfolio_percentage": 0.25,
+      "company_name": "Hologic Inc."
+    },
+    {
+      "symbol": "COF",
+      "manager_id": "KB",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 1971,
+      "portfolio_percentage": 0.07,
+      "company_name": "Capital One Financial"
+    },
+    {
+      "symbol": "CI",
+      "manager_id": "KB",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 841,
+      "portfolio_percentage": 0.06,
+      "company_name": "Cigna Group"
+    },
+    {
+      "symbol": "LWAY",
+      "manager_id": "KB",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 10000,
+      "portfolio_percentage": 0.05,
+      "company_name": "Lifeway Foods Inc."
+    },
+    {
+      "symbol": "NTPIF",
+      "manager_id": "KB",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 36040,
+      "portfolio_percentage": 0.04,
+      "company_name": "Nam Tai Property Inc."
+    },
+    {
+      "symbol": "WEYS",
+      "manager_id": "KB",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 7197,
+      "portfolio_percentage": 0.04,
+      "company_name": "Weyco Group Inc."
+    },
+    {
+      "symbol": "GTX",
+      "manager_id": "KB",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 12318,
+      "portfolio_percentage": 0.02,
+      "company_name": "Garrett Motion Inc."
+    },
+    {
+      "symbol": "IDWM",
+      "manager_id": "KB",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 364,
+      "portfolio_percentage": 0.0,
+      "company_name": "IDW Media Holdings"
+    },
+    {
+      "symbol": "VRAYQ",
+      "manager_id": "KB",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 353744,
+      "portfolio_percentage": 0.0,
+      "company_name": "ViewRay Inc."
+    },
+    {
       "symbol": "OGN",
       "manager_id": "KB",
       "action": "Add 59.09%",
@@ -321,7 +816,7 @@
       "company_name": "Cigna Group"
     },
     {
-      "symbol": "IDWMD",
+      "symbol": "IDWM",
       "manager_id": "KB",
       "action": "Reduce 5.40%",
       "date": "Q1 2025",
@@ -871,7 +1366,7 @@
       "company_name": "Rafael Holdings Inc."
     },
     {
-      "symbol": "IDWMD",
+      "symbol": "IDWM",
       "manager_id": "KB",
       "action": "Reduce 39.46%",
       "date": "Q4 2024",
@@ -1157,7 +1652,7 @@
       "company_name": "Pfizer Inc."
     },
     {
-      "symbol": "IDWMD",
+      "symbol": "IDWM",
       "manager_id": "KB",
       "action": "Reduce 0.55%",
       "date": "Q3 2024",
@@ -1575,7 +2070,7 @@
       "company_name": "Verizon Communications"
     },
     {
-      "symbol": "IDWMD",
+      "symbol": "IDWM",
       "manager_id": "KB",
       "action": "Reduce 2.60%",
       "date": "Q2 2024",
@@ -2081,7 +2576,7 @@
       "company_name": "Genie Energy Ltd."
     },
     {
-      "symbol": "IDWMD",
+      "symbol": "IDWM",
       "manager_id": "KB",
       "action": "Reduce 0.74%",
       "date": "Q1 2024",
@@ -2532,7 +3027,7 @@
       "company_name": "GSK plc"
     },
     {
-      "symbol": "IDWMD",
+      "symbol": "IDWM",
       "manager_id": "KB",
       "action": "Reduce 1.81%",
       "date": "Q4 2023",
@@ -2906,7 +3401,7 @@
       "company_name": "Pfizer Inc."
     },
     {
-      "symbol": "IDWMD",
+      "symbol": "IDWM",
       "manager_id": "KB",
       "action": "Reduce 0.98%",
       "date": "Q3 2023",
@@ -3236,7 +3731,7 @@
       "company_name": "VOXX International Corp."
     },
     {
-      "symbol": "IDWMD",
+      "symbol": "IDWM",
       "manager_id": "KB",
       "action": "Reduce 2.02%",
       "date": "Q2 2023",
@@ -3632,7 +4127,7 @@
       "company_name": "Organon & Co."
     },
     {
-      "symbol": "IDWMD",
+      "symbol": "IDWM",
       "manager_id": "KB",
       "action": "Reduce 1.71%",
       "date": "Q1 2023",
@@ -3896,7 +4391,7 @@
       "company_name": "Webster Financial Corp."
     },
     {
-      "symbol": "IDWMD",
+      "symbol": "IDWM",
       "manager_id": "KB",
       "action": "Add 1.03%",
       "date": "Q4 2022",
@@ -4303,7 +4798,7 @@
       "company_name": "IDT Corp. CL B"
     },
     {
-      "symbol": "IDWMD",
+      "symbol": "IDWM",
       "manager_id": "KB",
       "action": "Reduce 0.09%",
       "date": "Q3 2022",
@@ -4699,7 +5194,7 @@
       "company_name": "Pfizer Inc."
     },
     {
-      "symbol": "IDWMD",
+      "symbol": "IDWM",
       "manager_id": "KB",
       "action": "Add 0.37%",
       "date": "Q2 2022",
@@ -4925,7 +5420,7 @@
       "date": "Q2 2022",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 4736,
+      "shares": 18944,
       "portfolio_percentage": 0.03,
       "company_name": "Northrim BanCorp Inc."
     },
@@ -5046,7 +5541,7 @@
       "date": "Q1 2022",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 4736,
+      "shares": 18944,
       "portfolio_percentage": 0.03,
       "company_name": "Northrim BanCorp Inc."
     },
@@ -5271,7 +5766,7 @@
       "company_name": "Berkshire Hathaway CL B"
     },
     {
-      "symbol": "IDWMD",
+      "symbol": "IDWM",
       "manager_id": "KB",
       "action": "Reduce 4.01%",
       "date": "Q1 2022",
@@ -5436,7 +5931,7 @@
       "company_name": "Nam Tai Property Inc."
     },
     {
-      "symbol": "IDWMD",
+      "symbol": "IDWM",
       "manager_id": "KB",
       "action": "Add 0.35%",
       "date": "Q4 2021",
@@ -5766,7 +6261,7 @@
       "company_name": "Rafael Holdings Inc."
     },
     {
-      "symbol": "IDWMD",
+      "symbol": "IDWM",
       "manager_id": "KB",
       "action": "Reduce 0.79%",
       "date": "Q3 2021",
@@ -6118,7 +6613,7 @@
       "company_name": "Organon & Co."
     },
     {
-      "symbol": "IDWMD",
+      "symbol": "IDWM",
       "manager_id": "KB",
       "action": "Reduce 0.05%",
       "date": "Q2 2021",
@@ -6481,7 +6976,7 @@
       "company_name": "Genie Energy Ltd."
     },
     {
-      "symbol": "IDWMD",
+      "symbol": "IDWM",
       "manager_id": "KB",
       "action": "Reduce 4.06%",
       "date": "Q1 2021",
@@ -6844,7 +7339,7 @@
       "company_name": "Rafael Holdings Inc."
     },
     {
-      "symbol": "IDWMD",
+      "symbol": "IDWM",
       "manager_id": "KB",
       "action": "Reduce 16.99%",
       "date": "Q4 2020",
@@ -6987,7 +7482,7 @@
       "company_name": "Berkshire Hathaway CL B"
     },
     {
-      "symbol": "IDWMD",
+      "symbol": "IDWM",
       "manager_id": "KB",
       "action": "Reduce 2.63%",
       "date": "Q3 2020",
@@ -7559,7 +8054,7 @@
       "company_name": "BlackBerry Ltd."
     },
     {
-      "symbol": "IDWMD",
+      "symbol": "IDWM",
       "manager_id": "KB",
       "action": "Reduce 1.98%",
       "date": "Q2 2020",
@@ -7812,7 +8307,7 @@
       "company_name": "JPMorgan Chase & Co."
     },
     {
-      "symbol": "IDWMD",
+      "symbol": "IDWM",
       "manager_id": "KB",
       "action": "Reduce 0.41%",
       "date": "Q1 2020",
@@ -8197,7 +8692,7 @@
       "company_name": "AT&T Inc."
     },
     {
-      "symbol": "IDWMD",
+      "symbol": "IDWM",
       "manager_id": "KB",
       "action": "Reduce 0.92%",
       "date": "Q4 2019",
@@ -8681,7 +9176,7 @@
       "company_name": "Assured Guaranty Ltd."
     },
     {
-      "symbol": "IDWMD",
+      "symbol": "IDWM",
       "manager_id": "KB",
       "action": "Add 0.36%",
       "date": "Q3 2019",
@@ -9000,7 +9495,7 @@
       "company_name": "IDT Corp. CL B"
     },
     {
-      "symbol": "IDWMD",
+      "symbol": "IDWM",
       "manager_id": "KB",
       "action": "Add 33.31%",
       "date": "Q2 2019",
@@ -9561,7 +10056,7 @@
       "company_name": "VOXX International Corp."
     },
     {
-      "symbol": "IDWMD",
+      "symbol": "IDWM",
       "manager_id": "KB",
       "action": "Reduce 2.45%",
       "date": "Q1 2019",
@@ -9792,7 +10287,7 @@
       "company_name": "AT&T Inc."
     },
     {
-      "symbol": "IDWMD",
+      "symbol": "IDWM",
       "manager_id": "KB",
       "action": "Reduce 0.25%",
       "date": "Q4 2018",
@@ -10089,7 +10584,7 @@
       "company_name": "Trinity Place Holdings"
     },
     {
-      "symbol": "IDWMD",
+      "symbol": "IDWM",
       "manager_id": "KB",
       "action": "Reduce 0.49%",
       "date": "Q3 2018",
@@ -10430,7 +10925,7 @@
       "company_name": "Rafael Holdings Inc."
     },
     {
-      "symbol": "IDWMD",
+      "symbol": "IDWM",
       "manager_id": "KB",
       "action": "Reduce 0.39%",
       "date": "Q2 2018",
@@ -10505,503 +11000,8 @@
       "shares": 8989,
       "portfolio_percentage": 0.1,
       "company_name": "Citigroup Inc."
-    },
-    {
-      "symbol": "BP",
-      "manager_id": "KB",
-      "action": "Reduce 1.14%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 16000,
-      "portfolio_percentage": 0.12,
-      "company_name": "BP plc"
-    },
-    {
-      "symbol": "STL",
-      "manager_id": "KB",
-      "action": "Reduce 2.41%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 21009,
-      "portfolio_percentage": 0.08,
-      "company_name": "Sterling Bancorp"
-    },
-    {
-      "symbol": "NAVI",
-      "manager_id": "KB",
-      "action": "Reduce 2.41%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 944,
-      "portfolio_percentage": 0.0,
-      "company_name": "Navient Corp."
-    },
-    {
-      "symbol": "HOLX",
-      "manager_id": "KB",
-      "action": "Reduce 7.14%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 46970,
-      "portfolio_percentage": 0.3,
-      "company_name": "Hologic Inc."
-    },
-    {
-      "symbol": "NYT",
-      "manager_id": "KB",
-      "action": "Reduce 20.40%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 460450,
-      "portfolio_percentage": 1.9,
-      "company_name": "New York Times CL A"
-    },
-    {
-      "symbol": "CVX",
-      "manager_id": "KB",
-      "action": "Add 24.70%",
-      "date": "Q1 2018",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 1000,
-      "portfolio_percentage": 0.02,
-      "company_name": "Chevron Corp."
-    },
-    {
-      "symbol": "AGO",
-      "manager_id": "KB",
-      "action": "Add 16.71%",
-      "date": "Q1 2018",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 177543,
-      "portfolio_percentage": 1.02,
-      "company_name": "Assured Guaranty Ltd."
-    },
-    {
-      "symbol": "FLG",
-      "manager_id": "KB",
-      "action": "Add 15.96%",
-      "date": "Q1 2018",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 101069,
-      "portfolio_percentage": 0.63,
-      "company_name": "Flagstar Financial Inc."
-    },
-    {
-      "symbol": "GSK",
-      "manager_id": "KB",
-      "action": "Add 8.03%",
-      "date": "Q1 2018",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 91479,
-      "portfolio_percentage": 0.57,
-      "company_name": "GSK plc"
-    },
-    {
-      "symbol": "T",
-      "manager_id": "KB",
-      "action": "Add 7.35%",
-      "date": "Q1 2018",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 774,
-      "portfolio_percentage": 0.0,
-      "company_name": "AT&T Inc."
-    },
-    {
-      "symbol": "BMY",
-      "manager_id": "KB",
-      "action": "Add 3.67%",
-      "date": "Q1 2018",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 700,
-      "portfolio_percentage": 0.01,
-      "company_name": "Bristol-Myers Squibb"
-    },
-    {
-      "symbol": "MBI",
-      "manager_id": "KB",
-      "action": "Add 0.78%",
-      "date": "Q1 2018",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 35932,
-      "portfolio_percentage": 0.05,
-      "company_name": "MBIA Inc."
-    },
-    {
-      "symbol": "RFL",
-      "manager_id": "KB",
-      "action": "Buy",
-      "date": "Q1 2018",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 320326,
-      "portfolio_percentage": 0.25,
-      "company_name": "Rafael Holdings Inc."
-    },
-    {
-      "symbol": "BP",
-      "manager_id": "KB",
-      "action": "Reduce 0.10%",
-      "date": "Q1 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 1450,
-      "portfolio_percentage": 0.01,
-      "company_name": "BP plc"
-    },
-    {
-      "symbol": "IDT",
-      "manager_id": "KB",
-      "action": "Reduce 0.25%",
-      "date": "Q1 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 1633,
-      "portfolio_percentage": 0.0,
-      "company_name": "IDT Corp. CL B"
-    },
-    {
-      "symbol": "ZDGE",
-      "manager_id": "KB",
-      "action": "Reduce 0.39%",
-      "date": "Q1 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 543,
-      "portfolio_percentage": 0.0,
-      "company_name": "Zedge Inc."
-    },
-    {
-      "symbol": "VOXX-OLD",
-      "manager_id": "KB",
-      "action": "Reduce 0.53%",
-      "date": "Q1 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 19500,
-      "portfolio_percentage": 0.02,
-      "company_name": "VOXX International Corp."
-    },
-    {
-      "symbol": "XOM",
-      "manager_id": "KB",
-      "action": "Reduce 0.59%",
-      "date": "Q1 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 100,
-      "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
-    },
-    {
-      "symbol": "SEB",
-      "manager_id": "KB",
-      "action": "Reduce 0.64%",
-      "date": "Q1 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 50,
-      "portfolio_percentage": 0.03,
-      "company_name": "Seaboard Corp."
-    },
-    {
-      "symbol": "PFE",
-      "manager_id": "KB",
-      "action": "Reduce 0.84%",
-      "date": "Q1 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 4662,
-      "portfolio_percentage": 0.03,
-      "company_name": "Pfizer Inc."
-    },
-    {
-      "symbol": "GNE",
-      "manager_id": "KB",
-      "action": "Reduce 1.47%",
-      "date": "Q1 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 5967,
-      "portfolio_percentage": 0.0,
-      "company_name": "Genie Energy Ltd."
-    },
-    {
-      "symbol": "MRK",
-      "manager_id": "KB",
-      "action": "Reduce 1.61%",
-      "date": "Q1 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 14822,
-      "portfolio_percentage": 0.13,
-      "company_name": "Merck & Co."
-    },
-    {
-      "symbol": "BB",
-      "manager_id": "KB",
-      "action": "Reduce 1.88%",
-      "date": "Q1 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 85400,
-      "portfolio_percentage": 0.16,
-      "company_name": "BlackBerry Ltd."
-    },
-    {
-      "symbol": "NTPIF",
-      "manager_id": "KB",
-      "action": "Reduce 1.89%",
-      "date": "Q1 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 35000,
-      "portfolio_percentage": 0.07,
-      "company_name": "Nam Tai Property Inc."
-    },
-    {
-      "symbol": "PTEN",
-      "manager_id": "KB",
-      "action": "Reduce 1.90%",
-      "date": "Q1 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 26400,
-      "portfolio_percentage": 0.07,
-      "company_name": "Patterson-UTI Energy Inc."
-    },
-    {
-      "symbol": "STL",
-      "manager_id": "KB",
-      "action": "Reduce 2.37%",
-      "date": "Q1 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 21114,
-      "portfolio_percentage": 0.08,
-      "company_name": "Sterling Bancorp"
-    },
-    {
-      "symbol": "C",
-      "manager_id": "KB",
-      "action": "Reduce 3.40%",
-      "date": "Q1 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 33416,
-      "portfolio_percentage": 0.36,
-      "company_name": "Citigroup Inc."
-    },
-    {
-      "symbol": "IDWMD",
-      "manager_id": "KB",
-      "action": "Reduce 4.03%",
-      "date": "Q1 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 32,
-      "portfolio_percentage": 0.02,
-      "company_name": "IDW Media Holdings"
-    },
-    {
-      "symbol": "HOLX",
-      "manager_id": "KB",
-      "action": "Reduce 4.87%",
-      "date": "Q1 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 33670,
-      "portfolio_percentage": 0.2,
-      "company_name": "Hologic Inc."
-    },
-    {
-      "symbol": "BAC",
-      "manager_id": "KB",
-      "action": "Reduce 5.42%",
-      "date": "Q1 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 1496,
-      "portfolio_percentage": 0.01,
-      "company_name": "Bank of America Corp."
-    },
-    {
-      "symbol": "CMCSA",
-      "manager_id": "KB",
-      "action": "Reduce 7.08%",
-      "date": "Q1 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 680,
-      "portfolio_percentage": 0.0,
-      "company_name": "Comcast Corp."
-    },
-    {
-      "symbol": "NVS",
-      "manager_id": "KB",
-      "action": "Reduce 17.29%",
-      "date": "Q1 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 4600,
-      "portfolio_percentage": 0.06,
-      "company_name": "Novartis AG"
-    },
-    {
-      "symbol": "NYT",
-      "manager_id": "KB",
-      "action": "Reduce 22.36%",
-      "date": "Q1 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 650084,
-      "portfolio_percentage": 2.5,
-      "company_name": "New York Times CL A"
-    },
-    {
-      "symbol": "NAVI",
-      "manager_id": "KB",
-      "action": "Reduce 26.57%",
-      "date": "Q1 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 14166,
-      "portfolio_percentage": 0.03,
-      "company_name": "Navient Corp."
-    },
-    {
-      "symbol": "STRP",
-      "manager_id": "KB",
-      "action": "Sell 100.00%",
-      "date": "Q1 2018",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 17950,
-      "portfolio_percentage": 0.51,
-      "company_name": "Straight Path Communications"
-    },
-    {
-      "symbol": "BAC",
-      "manager_id": "KB",
-      "action": "Add 36.14%",
-      "date": "Q4 2017",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 7333,
-      "portfolio_percentage": 0.03,
-      "company_name": "Bank of America Corp."
-    },
-    {
-      "symbol": "IDT",
-      "manager_id": "KB",
-      "action": "Add 18.51%",
-      "date": "Q4 2017",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 100333,
-      "portfolio_percentage": 0.17,
-      "company_name": "IDT Corp. CL B"
-    },
-    {
-      "symbol": "AGO",
-      "manager_id": "KB",
-      "action": "Add 17.95%",
-      "date": "Q4 2017",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 161714,
-      "portfolio_percentage": 0.86,
-      "company_name": "Assured Guaranty Ltd."
-    },
-    {
-      "symbol": "GSK",
-      "manager_id": "KB",
-      "action": "Add 11.56%",
-      "date": "Q4 2017",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 118028,
-      "portfolio_percentage": 0.66,
-      "company_name": "GSK plc"
-    },
-    {
-      "symbol": "PTEN",
-      "manager_id": "KB",
-      "action": "Add 8.17%",
-      "date": "Q4 2017",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 105121,
-      "portfolio_percentage": 0.38,
-      "company_name": "Patterson-UTI Energy Inc."
-    },
-    {
-      "symbol": "MBI",
-      "manager_id": "KB",
-      "action": "Add 5.85%",
-      "date": "Q4 2017",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 253534,
-      "portfolio_percentage": 0.29,
-      "company_name": "MBIA Inc."
-    },
-    {
-      "symbol": "NAVI",
-      "manager_id": "KB",
-      "action": "Add 2.56%",
-      "date": "Q4 2017",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 1333,
-      "portfolio_percentage": 0.0,
-      "company_name": "Navient Corp."
-    },
-    {
-      "symbol": "BB",
-      "manager_id": "KB",
-      "action": "Add 2.45%",
-      "date": "Q4 2017",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 108800,
-      "portfolio_percentage": 0.19,
-      "company_name": "BlackBerry Ltd."
-    },
-    {
-      "symbol": "NVS",
-      "manager_id": "KB",
-      "action": "Add 1.78%",
-      "date": "Q4 2017",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 466,
-      "portfolio_percentage": 0.01,
-      "company_name": "Novartis AG"
-    },
-    {
-      "symbol": "XOM",
-      "manager_id": "KB",
-      "action": "Add 1.49%",
-      "date": "Q4 2017",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 250,
-      "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
     }
   ],
-  "timestamp": "2025-10-01T06:06:07.106538",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.534107",
+  "scraped_date": "2025-10-02"
 }

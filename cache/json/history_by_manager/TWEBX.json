@@ -1652,7 +1652,7 @@
       "company_name": "Dali Foods Group Co. Ltd."
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "TWEBX",
       "action": "Sell 100.00%",
       "date": "Q3 2023",
@@ -2565,7 +2565,7 @@
       "company_name": "Nabtesco Corp."
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "TWEBX",
       "action": "Buy",
       "date": "Q2 2022",
@@ -10265,6 +10265,6 @@
       "company_name": "Commonwealth Telephone Enterprises Inc."
     }
   ],
-  "timestamp": "2025-10-01T06:06:06.820112",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.814341",
+  "scraped_date": "2025-10-02"
 }

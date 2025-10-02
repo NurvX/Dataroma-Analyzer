@@ -2,6 +2,347 @@
   "manager_id": "EC",
   "activities": [
     {
+      "symbol": "COF",
+      "manager_id": "EC",
+      "action": "Add 161.72%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1441983,
+      "portfolio_percentage": 3.15,
+      "company_name": "Capital One Financial"
+    },
+    {
+      "symbol": "V",
+      "manager_id": "EC",
+      "action": "Add 99.20%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 951330,
+      "portfolio_percentage": 3.47,
+      "company_name": "Visa Inc."
+    },
+    {
+      "symbol": "APH",
+      "manager_id": "EC",
+      "action": "Add 79.76%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1405850,
+      "portfolio_percentage": 1.42,
+      "company_name": "Amphenol Corp."
+    },
+    {
+      "symbol": "MSFT",
+      "manager_id": "EC",
+      "action": "Add 38.80%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 515533,
+      "portfolio_percentage": 2.63,
+      "company_name": "Microsoft Corp."
+    },
+    {
+      "symbol": "ARMK",
+      "manager_id": "EC",
+      "action": "Add 36.36%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 754419,
+      "portfolio_percentage": 0.33,
+      "company_name": "Aramark"
+    },
+    {
+      "symbol": "MA",
+      "manager_id": "EC",
+      "action": "Add 10.47%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 39825,
+      "portfolio_percentage": 0.23,
+      "company_name": "Mastercard Inc."
+    },
+    {
+      "symbol": "IBKR",
+      "manager_id": "EC",
+      "action": "Add 9.83%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 720968,
+      "portfolio_percentage": 0.41,
+      "company_name": "Interactive Brokers Group Inc."
+    },
+    {
+      "symbol": "CP",
+      "manager_id": "EC",
+      "action": "Add 9.40%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 391636,
+      "portfolio_percentage": 0.32,
+      "company_name": "Canadian Pacific Kansas City"
+    },
+    {
+      "symbol": "CRH",
+      "manager_id": "EC",
+      "action": "Add 8.02%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 339328,
+      "portfolio_percentage": 0.32,
+      "company_name": "CRH plc"
+    },
+    {
+      "symbol": "CRS",
+      "manager_id": "EC",
+      "action": "Add 4.90%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 89182,
+      "portfolio_percentage": 0.25,
+      "company_name": "Carpenter Technology"
+    },
+    {
+      "symbol": "FERG",
+      "manager_id": "EC",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 2233326,
+      "portfolio_percentage": 4.99,
+      "company_name": "Ferguson Enterprises Inc."
+    },
+    {
+      "symbol": "STX",
+      "manager_id": "EC",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 2051434,
+      "portfolio_percentage": 3.04,
+      "company_name": "Seagate Technology"
+    },
+    {
+      "symbol": "BSX",
+      "manager_id": "EC",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 1640956,
+      "portfolio_percentage": 1.81,
+      "company_name": "Boston Scientific"
+    },
+    {
+      "symbol": "BLDR",
+      "manager_id": "EC",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 262628,
+      "portfolio_percentage": 0.31,
+      "company_name": "Builders FirstSource Inc."
+    },
+    {
+      "symbol": "ACGL",
+      "manager_id": "EC",
+      "action": "Reduce 1.95%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 84251,
+      "portfolio_percentage": 0.08,
+      "company_name": "Arch Capital Group Ltd."
+    },
+    {
+      "symbol": "ICE",
+      "manager_id": "EC",
+      "action": "Reduce 1.95%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 21508,
+      "portfolio_percentage": 0.04,
+      "company_name": "Intercontinental Exchange Inc."
+    },
+    {
+      "symbol": "LPLA",
+      "manager_id": "EC",
+      "action": "Reduce 4.45%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 38749,
+      "portfolio_percentage": 0.15,
+      "company_name": "LPL Financial Holdings Inc."
+    },
+    {
+      "symbol": "PGR",
+      "manager_id": "EC",
+      "action": "Reduce 5.07%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 140871,
+      "portfolio_percentage": 0.39,
+      "company_name": "Progressive Corp."
+    },
+    {
+      "symbol": "CME",
+      "manager_id": "EC",
+      "action": "Reduce 11.98%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 207258,
+      "portfolio_percentage": 0.59,
+      "company_name": "CME Group"
+    },
+    {
+      "symbol": "GE",
+      "manager_id": "EC",
+      "action": "Reduce 15.73%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 235515,
+      "portfolio_percentage": 0.62,
+      "company_name": "GE Aerospace"
+    },
+    {
+      "symbol": "AMZN",
+      "manager_id": "EC",
+      "action": "Reduce 20.95%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 884482,
+      "portfolio_percentage": 1.99,
+      "company_name": "Amazon.com Inc."
+    },
+    {
+      "symbol": "META",
+      "manager_id": "EC",
+      "action": "Reduce 25.75%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 191160,
+      "portfolio_percentage": 1.45,
+      "company_name": "Meta Platforms Inc."
+    },
+    {
+      "symbol": "FCNCA",
+      "manager_id": "EC",
+      "action": "Reduce 28.66%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 35763,
+      "portfolio_percentage": 0.72,
+      "company_name": "First Citizens Bancshares"
+    },
+    {
+      "symbol": "FLUT",
+      "manager_id": "EC",
+      "action": "Reduce 33.91%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 743883,
+      "portfolio_percentage": 2.18,
+      "company_name": "Flutter Entertainment Plc"
+    },
+    {
+      "symbol": "GOOG",
+      "manager_id": "EC",
+      "action": "Reduce 42.04%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 700315,
+      "portfolio_percentage": 1.28,
+      "company_name": "Alphabet Inc. CL C"
+    },
+    {
+      "symbol": "FI",
+      "manager_id": "EC",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 2381496,
+      "portfolio_percentage": 6.07,
+      "company_name": "Fiserv Inc."
+    },
+    {
+      "symbol": "LLY",
+      "manager_id": "EC",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 492808,
+      "portfolio_percentage": 4.7,
+      "company_name": "Eli Lilly & Co."
+    },
+    {
+      "symbol": "IBN",
+      "manager_id": "EC",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 5031304,
+      "portfolio_percentage": 1.83,
+      "company_name": "ICICI Bank Ltd."
+    },
+    {
+      "symbol": "HHH",
+      "manager_id": "EC",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 1196288,
+      "portfolio_percentage": 1.02,
+      "company_name": "Howard Hughes Holdings Inc."
+    },
+    {
+      "symbol": "MLM",
+      "manager_id": "EC",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 165338,
+      "portfolio_percentage": 0.91,
+      "company_name": "Martin Marietta"
+    },
+    {
+      "symbol": "HDB",
+      "manager_id": "EC",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 2232986,
+      "portfolio_percentage": 0.86,
+      "company_name": "HDFC Bank Ltd."
+    },
+    {
       "symbol": "LPLA",
       "manager_id": "EC",
       "action": "Add 238.08%",
@@ -206,7 +547,7 @@
       "date": "Q1 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 24018,
+      "shares": 48036,
       "portfolio_percentage": 0.02,
       "company_name": "HDFC Bank Ltd."
     },
@@ -492,7 +833,7 @@
       "date": "Q4 2024",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 1140511,
+      "shares": 2281022,
       "portfolio_percentage": 0.84,
       "company_name": "HDFC Bank Ltd."
     },
@@ -1680,7 +2021,7 @@
       "date": "Q1 2024",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 2823924,
+      "shares": 5647848,
       "portfolio_percentage": 2.05,
       "company_name": "HDFC Bank Ltd."
     },
@@ -1823,7 +2164,7 @@
       "date": "Q4 2023",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 10073,
+      "shares": 20146,
       "portfolio_percentage": 0.01,
       "company_name": "HDFC Bank Ltd."
     },
@@ -2197,7 +2538,7 @@
       "date": "Q3 2023",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 1046101,
+      "shares": 2092202,
       "portfolio_percentage": 0.72,
       "company_name": "HDFC Bank Ltd."
     },
@@ -2307,7 +2648,7 @@
       "date": "Q2 2023",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 1512566,
+      "shares": 3025132,
       "portfolio_percentage": 1.09,
       "company_name": "HDFC Bank Ltd."
     },
@@ -2615,7 +2956,7 @@
       "date": "Q1 2023",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 2347386,
+      "shares": 4694772,
       "portfolio_percentage": 1.69,
       "company_name": "HDFC Bank Ltd."
     },
@@ -7466,7 +7807,7 @@
       "date": "Q1 2020",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 4312271,
+      "shares": 8624542,
       "portfolio_percentage": 1.96,
       "company_name": "HDFC Bank Ltd."
     },
@@ -7653,7 +7994,7 @@
       "date": "Q4 2019",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 4312271,
+      "shares": 8624542,
       "portfolio_percentage": 1.96,
       "company_name": "HDFC Bank Ltd."
     },
@@ -8802,6 +9143,6 @@
       "company_name": "TransUnion"
     }
   ],
-  "timestamp": "2025-10-01T06:06:07.294735",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.699432",
+  "scraped_date": "2025-10-02"
 }

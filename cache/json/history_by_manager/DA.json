@@ -2,6 +2,138 @@
   "manager_id": "DA",
   "activities": [
     {
+      "symbol": "ASML",
+      "manager_id": "DA",
+      "action": "Add 98.37%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 69418,
+      "portfolio_percentage": 4.99,
+      "company_name": "ASML Holding NV"
+    },
+    {
+      "symbol": "DHR",
+      "manager_id": "DA",
+      "action": "Add 34.09%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 235688,
+      "portfolio_percentage": 4.17,
+      "company_name": "Danaher Corp."
+    },
+    {
+      "symbol": "AER",
+      "manager_id": "DA",
+      "action": "Add 19.55%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 222576,
+      "portfolio_percentage": 2.34,
+      "company_name": "AerCap Holdings N.V."
+    },
+    {
+      "symbol": "BKNG",
+      "manager_id": "DA",
+      "action": "Add 14.53%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 2321,
+      "portfolio_percentage": 1.2,
+      "company_name": "Booking Holdings Inc."
+    },
+    {
+      "symbol": "GOOG",
+      "manager_id": "DA",
+      "action": "Add 3.64%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 23239,
+      "portfolio_percentage": 0.37,
+      "company_name": "Alphabet Inc. CL C"
+    },
+    {
+      "symbol": "SEMR",
+      "manager_id": "DA",
+      "action": "Add 1.23%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 27845,
+      "portfolio_percentage": 0.02,
+      "company_name": "SEMrush Holdings Inc."
+    },
+    {
+      "symbol": "ENOV",
+      "manager_id": "DA",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 2553180,
+      "portfolio_percentage": 7.18,
+      "company_name": "Enovis Corp."
+    },
+    {
+      "symbol": "META",
+      "manager_id": "DA",
+      "action": "Reduce 0.79%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1949,
+      "portfolio_percentage": 0.13,
+      "company_name": "Meta Platforms Inc."
+    },
+    {
+      "symbol": "AZO",
+      "manager_id": "DA",
+      "action": "Reduce 5.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1876,
+      "portfolio_percentage": 0.62,
+      "company_name": "AutoZone Inc."
+    },
+    {
+      "symbol": "WIX",
+      "manager_id": "DA",
+      "action": "Reduce 54.04%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 172605,
+      "portfolio_percentage": 2.46,
+      "company_name": "Wix.com Ltd."
+    },
+    {
+      "symbol": "PYPL",
+      "manager_id": "DA",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 858231,
+      "portfolio_percentage": 5.93,
+      "company_name": "PayPal Holdings Inc."
+    },
+    {
+      "symbol": "SPT",
+      "manager_id": "DA",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 2304414,
+      "portfolio_percentage": 5.37,
+      "company_name": "Sprout Social Inc. CL A"
+    },
+    {
       "symbol": "DHR",
       "manager_id": "DA",
       "action": "Add 75.11%",
@@ -3797,6 +3929,6 @@
       "company_name": "Roper Technologies Inc."
     }
   ],
-  "timestamp": "2025-10-01T06:06:07.129391",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.588580",
+  "scraped_date": "2025-10-02"
 }

@@ -2,6 +2,17 @@
   "manager_id": "VFC",
   "activities": [
     {
+      "symbol": "INTU",
+      "manager_id": "VFC",
+      "action": "Reduce 11.45%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 34048,
+      "portfolio_percentage": 0.59,
+      "company_name": "Intuit Inc."
+    },
+    {
       "symbol": "FICO",
       "manager_id": "VFC",
       "action": "Reduce 2.00%",
@@ -1146,6 +1157,6 @@
       "company_name": "S&P Global Inc."
     }
   ],
-  "timestamp": "2025-10-01T06:06:07.054858",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.532928",
+  "scraped_date": "2025-10-02"
 }

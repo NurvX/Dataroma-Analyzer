@@ -2,6 +2,105 @@
   "manager_id": "ENG",
   "activities": [
     {
+      "symbol": "YETI",
+      "manager_id": "ENG",
+      "action": "Add 40.10%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 619000,
+      "portfolio_percentage": 5.46,
+      "company_name": "YETI Holdings Inc."
+    },
+    {
+      "symbol": "EVH",
+      "manager_id": "ENG",
+      "action": "Add 13.03%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 675000,
+      "portfolio_percentage": 2.12,
+      "company_name": "Evolent Health Inc."
+    },
+    {
+      "symbol": "FRPT",
+      "manager_id": "ENG",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 619130,
+      "portfolio_percentage": 11.77,
+      "company_name": "Freshpet Inc."
+    },
+    {
+      "symbol": "VFC",
+      "manager_id": "ENG",
+      "action": "Reduce 1.22%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 67000,
+      "portfolio_percentage": 0.22,
+      "company_name": "V.F. Corp."
+    },
+    {
+      "symbol": "GXO",
+      "manager_id": "ENG",
+      "action": "Reduce 1.64%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 15000,
+      "portfolio_percentage": 0.2,
+      "company_name": "Gxo Logistics Inc."
+    },
+    {
+      "symbol": "PTLO",
+      "manager_id": "ENG",
+      "action": "Reduce 11.82%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 647860,
+      "portfolio_percentage": 2.11,
+      "company_name": "Portillo's Inc Cl A"
+    },
+    {
+      "symbol": "GTLS",
+      "manager_id": "ENG",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 368996,
+      "portfolio_percentage": 13.58,
+      "company_name": "Chart Industries Inc."
+    },
+    {
+      "symbol": "NATL",
+      "manager_id": "ENG",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 774261,
+      "portfolio_percentage": 5.21,
+      "company_name": "NCR Atleos Corp."
+    },
+    {
+      "symbol": "VYX",
+      "manager_id": "ENG",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 431679,
+      "portfolio_percentage": 1.07,
+      "company_name": "NCR Voyix Corp."
+    },
+    {
       "symbol": "GTLS",
       "manager_id": "ENG",
       "action": "Add 64.15%",
@@ -1839,6 +1938,6 @@
       "company_name": "Del Frisco's Restaurant Group"
     }
   ],
-  "timestamp": "2025-10-01T06:06:07.095810",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.543160",
+  "scraped_date": "2025-10-02"
 }

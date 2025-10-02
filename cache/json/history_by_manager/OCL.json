@@ -4,6 +4,50 @@
     {
       "symbol": "LEN",
       "manager_id": "OCL",
+      "action": "Add 13.46%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 14000,
+      "portfolio_percentage": 0.77,
+      "company_name": "Lennar Corp."
+    },
+    {
+      "symbol": "GIL",
+      "manager_id": "OCL",
+      "action": "Add 11.44%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 70000,
+      "portfolio_percentage": 1.72,
+      "company_name": "Gildan Activewear Inc."
+    },
+    {
+      "symbol": "CHTR",
+      "manager_id": "OCL",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 38239,
+      "portfolio_percentage": 7.43,
+      "company_name": "Charter Communications"
+    },
+    {
+      "symbol": "LGIH",
+      "manager_id": "OCL",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 49996,
+      "portfolio_percentage": 1.75,
+      "company_name": "LGI Homes Inc."
+    },
+    {
+      "symbol": "LEN",
+      "manager_id": "OCL",
       "action": "Buy",
       "date": "Q1 2025",
       "percentage_change": 0.0,
@@ -1190,6 +1234,6 @@
       "company_name": "Bread Financial Holdings Inc."
     }
   ],
-  "timestamp": "2025-10-01T06:06:07.132687",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.583614",
+  "scraped_date": "2025-10-02"
 }

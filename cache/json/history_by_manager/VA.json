@@ -2,6 +2,204 @@
   "manager_id": "VA",
   "activities": [
     {
+      "symbol": "AMZN",
+      "manager_id": "VA",
+      "action": "Add 587.71%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 3309400,
+      "portfolio_percentage": 12.96,
+      "company_name": "Amazon.com Inc."
+    },
+    {
+      "symbol": "RKT",
+      "manager_id": "VA",
+      "action": "Add 124.80%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 8397100,
+      "portfolio_percentage": 2.13,
+      "company_name": "Rocket Companies Inc."
+    },
+    {
+      "symbol": "LLYVA",
+      "manager_id": "VA",
+      "action": "Add 6.90%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 114500,
+      "portfolio_percentage": 0.16,
+      "company_name": "Liberty Media Corp. Series A Live"
+    },
+    {
+      "symbol": "LLYVK",
+      "manager_id": "VA",
+      "action": "Add 2.25%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 88000,
+      "portfolio_percentage": 0.13,
+      "company_name": "Liberty Media Corp. Series C Live"
+    },
+    {
+      "symbol": "SSD",
+      "manager_id": "VA",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 1406105,
+      "portfolio_percentage": 3.9,
+      "company_name": "Simpson Manufacturing"
+    },
+    {
+      "symbol": "MDB",
+      "manager_id": "VA",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 690500,
+      "portfolio_percentage": 2.59,
+      "company_name": "MongoDB Inc."
+    },
+    {
+      "symbol": "COOP-OLD",
+      "manager_id": "VA",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 904800,
+      "portfolio_percentage": 2.41,
+      "company_name": "Mr. Cooper Group Inc."
+    },
+    {
+      "symbol": "CBRE",
+      "manager_id": "VA",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 589391,
+      "portfolio_percentage": 1.47,
+      "company_name": "CBRE Group"
+    },
+    {
+      "symbol": "RDFN",
+      "manager_id": "VA",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 5805600,
+      "portfolio_percentage": 1.16,
+      "company_name": "Redfin Corp."
+    },
+    {
+      "symbol": "CCCS",
+      "manager_id": "VA",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 2881800,
+      "portfolio_percentage": 0.48,
+      "company_name": "CCC Intelligent Solutions Hldgs Inc."
+    },
+    {
+      "symbol": "V",
+      "manager_id": "VA",
+      "action": "Reduce 5.18%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 68000,
+      "portfolio_percentage": 0.43,
+      "company_name": "Visa Inc."
+    },
+    {
+      "symbol": "DIS",
+      "manager_id": "VA",
+      "action": "Reduce 22.52%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1478400,
+      "portfolio_percentage": 3.27,
+      "company_name": "Walt Disney Co."
+    },
+    {
+      "symbol": "NSIT",
+      "manager_id": "VA",
+      "action": "Reduce 29.54%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1200000,
+      "portfolio_percentage": 2.96,
+      "company_name": "Insight Enterprises Inc."
+    },
+    {
+      "symbol": "META",
+      "manager_id": "VA",
+      "action": "Reduce 38.58%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 391500,
+      "portfolio_percentage": 5.16,
+      "company_name": "Meta Platforms Inc."
+    },
+    {
+      "symbol": "RBLX",
+      "manager_id": "VA",
+      "action": "Reduce 46.01%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 4032900,
+      "portfolio_percentage": 7.58,
+      "company_name": "Roblox Corp."
+    },
+    {
+      "symbol": "EXPE",
+      "manager_id": "VA",
+      "action": "Reduce 75.08%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 838800,
+      "portfolio_percentage": 2.53,
+      "company_name": "Expedia Group Inc."
+    },
+    {
+      "symbol": "TOST",
+      "manager_id": "VA",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 2597200,
+      "portfolio_percentage": 1.88,
+      "company_name": "Toast Inc."
+    },
+    {
+      "symbol": "NU",
+      "manager_id": "VA",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 3416200,
+      "portfolio_percentage": 0.76,
+      "company_name": "Nu Holdings Ltd"
+    },
+    {
       "symbol": "META",
       "manager_id": "VA",
       "action": "Add 379.85%",
@@ -6393,6 +6591,6 @@
       "company_name": "New York Times CL A"
     }
   ],
-  "timestamp": "2025-10-01T06:06:07.049481",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.445967",
+  "scraped_date": "2025-10-02"
 }

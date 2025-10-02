@@ -2,6 +2,259 @@
   "manager_id": "GLRE",
   "activities": [
     {
+      "symbol": "ACHC",
+      "manager_id": "GLRE",
+      "action": "Add 615.71%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 744151,
+      "portfolio_percentage": 0.72,
+      "company_name": "Acadia Healthcare Co."
+    },
+    {
+      "symbol": "TEVA",
+      "manager_id": "GLRE",
+      "action": "Add 565.04%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 3210577,
+      "portfolio_percentage": 2.31,
+      "company_name": "Teva Pharmaceutical Industries Ltd."
+    },
+    {
+      "symbol": "GPK",
+      "manager_id": "GLRE",
+      "action": "Add 349.43%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 3658850,
+      "portfolio_percentage": 3.31,
+      "company_name": "Graphic Packaging Hldg Co."
+    },
+    {
+      "symbol": "WFRD",
+      "manager_id": "GLRE",
+      "action": "Add 110.41%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 504171,
+      "portfolio_percentage": 1.09,
+      "company_name": "Weatherford International plc"
+    },
+    {
+      "symbol": "CNC",
+      "manager_id": "GLRE",
+      "action": "Add 53.25%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 291600,
+      "portfolio_percentage": 0.68,
+      "company_name": "Centene Corp."
+    },
+    {
+      "symbol": "OIH",
+      "manager_id": "GLRE",
+      "action": "Add 28.96%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 3580,
+      "portfolio_percentage": 0.04,
+      "company_name": "Vaneck Oil Services ETF"
+    },
+    {
+      "symbol": "PENN",
+      "manager_id": "GLRE",
+      "action": "Add 19.56%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1226000,
+      "portfolio_percentage": 0.94,
+      "company_name": "Penn National Gaming Inc."
+    },
+    {
+      "symbol": "DHT",
+      "manager_id": "GLRE",
+      "action": "Add 15.28%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1010000,
+      "portfolio_percentage": 0.47,
+      "company_name": "DHT Holdings Inc."
+    },
+    {
+      "symbol": "FLR",
+      "manager_id": "GLRE",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 3819580,
+      "portfolio_percentage": 8.42,
+      "company_name": "Fluor Corp."
+    },
+    {
+      "symbol": "CI",
+      "manager_id": "GLRE",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 93750,
+      "portfolio_percentage": 1.33,
+      "company_name": "Cigna Group"
+    },
+    {
+      "symbol": "VSCO",
+      "manager_id": "GLRE",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 887750,
+      "portfolio_percentage": 0.71,
+      "company_name": "Victoria's Secret & Co."
+    },
+    {
+      "symbol": "SHC",
+      "manager_id": "GLRE",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 233690,
+      "portfolio_percentage": 0.11,
+      "company_name": "Sotera Health Co"
+    },
+    {
+      "symbol": "BHF",
+      "manager_id": "GLRE",
+      "action": "Reduce 1.46%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 41000,
+      "portfolio_percentage": 0.09,
+      "company_name": "Brighthouse Financial Inc."
+    },
+    {
+      "symbol": "CNR",
+      "manager_id": "GLRE",
+      "action": "Reduce 2.40%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 53000,
+      "portfolio_percentage": 0.16,
+      "company_name": "Core Natural Resources Inc."
+    },
+    {
+      "symbol": "CNH",
+      "manager_id": "GLRE",
+      "action": "Reduce 2.52%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 203930,
+      "portfolio_percentage": 0.11,
+      "company_name": "CNH Industrial NV"
+    },
+    {
+      "symbol": "GLD",
+      "manager_id": "GLRE",
+      "action": "Reduce 5.96%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 10740,
+      "portfolio_percentage": 0.14,
+      "company_name": "SPDR Gold Trust"
+    },
+    {
+      "symbol": "ROIV",
+      "manager_id": "GLRE",
+      "action": "Reduce 16.36%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 890110,
+      "portfolio_percentage": 0.43,
+      "company_name": "Roivant Sciences Ltd"
+    },
+    {
+      "symbol": "KD",
+      "manager_id": "GLRE",
+      "action": "Reduce 19.92%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 823910,
+      "portfolio_percentage": 1.49,
+      "company_name": "Kyndryl Holdings Inc"
+    },
+    {
+      "symbol": "SNX",
+      "manager_id": "GLRE",
+      "action": "Reduce 28.01%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 12945,
+      "portfolio_percentage": 0.07,
+      "company_name": "SYNNEX Corp."
+    },
+    {
+      "symbol": "PTON",
+      "manager_id": "GLRE",
+      "action": "Reduce 96.41%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 4823938,
+      "portfolio_percentage": 1.34,
+      "company_name": "Peloton Interactive Inc."
+    },
+    {
+      "symbol": "VTRS",
+      "manager_id": "GLRE",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 6000830,
+      "portfolio_percentage": 2.65,
+      "company_name": "Viatris Inc."
+    },
+    {
+      "symbol": "DLTR",
+      "manager_id": "GLRE",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 436360,
+      "portfolio_percentage": 1.66,
+      "company_name": "Dollar Tree Inc."
+    },
+    {
+      "symbol": "ALIT",
+      "manager_id": "GLRE",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 1000000,
+      "portfolio_percentage": 0.3,
+      "company_name": "Alight Inc."
+    },
+    {
       "symbol": "OIH",
       "manager_id": "GLRE",
       "action": "Add 120.32%",
@@ -640,7 +893,7 @@
       "company_name": "SPDR S&P  Aerospace & Def ETF"
     },
     {
-      "symbol": "DNMRQ",
+      "symbol": "DNMRQ-OLD",
       "manager_id": "GLRE",
       "action": "Sell 100.00%",
       "date": "Q4 2024",
@@ -882,7 +1135,7 @@
       "company_name": "Tenet Healthcare Corp."
     },
     {
-      "symbol": "DNMRQ",
+      "symbol": "DNMRQ-OLD",
       "manager_id": "GLRE",
       "action": "Reduce 59.87%",
       "date": "Q3 2024",
@@ -1773,7 +2026,7 @@
       "company_name": "Net Power Inc"
     },
     {
-      "symbol": "DNMRQ",
+      "symbol": "DNMRQ-OLD",
       "manager_id": "GLRE",
       "action": "Add 5.07%",
       "date": "Q4 2023",
@@ -2180,7 +2433,7 @@
       "company_name": "GoPro Inc."
     },
     {
-      "symbol": "DNMRQ",
+      "symbol": "DNMRQ-OLD",
       "manager_id": "GLRE",
       "action": "Add 2.07%",
       "date": "Q3 2023",
@@ -2752,7 +3005,7 @@
       "company_name": "LivaNova PLC"
     },
     {
-      "symbol": "DNMRQ",
+      "symbol": "DNMRQ-OLD",
       "manager_id": "GLRE",
       "action": "Add 13.33%",
       "date": "Q1 2023",
@@ -3170,7 +3423,7 @@
       "company_name": "Kyndryl Holdings Inc"
     },
     {
-      "symbol": "DNMRQ",
+      "symbol": "DNMRQ-OLD",
       "manager_id": "GLRE",
       "action": "Add 16.89%",
       "date": "Q4 2022",
@@ -3456,7 +3709,7 @@
       "company_name": "Concentrix Corp."
     },
     {
-      "symbol": "DNMRQ",
+      "symbol": "DNMRQ-OLD",
       "manager_id": "GLRE",
       "action": "Add 134.46%",
       "date": "Q3 2022",
@@ -4842,7 +5095,7 @@
       "company_name": "FREYR Battery"
     },
     {
-      "symbol": "DNMRQ",
+      "symbol": "DNMRQ-OLD",
       "manager_id": "GLRE",
       "action": "Reduce 65.18%",
       "date": "Q4 2021",
@@ -5106,7 +5359,7 @@
       "company_name": "Teck Resources"
     },
     {
-      "symbol": "DNMRQ",
+      "symbol": "DNMRQ-OLD",
       "manager_id": "GLRE",
       "action": "Add 11.86%",
       "date": "Q3 2021",
@@ -5975,7 +6228,7 @@
       "company_name": "Lion Electric Company WTS 050626"
     },
     {
-      "symbol": "DNMRQ",
+      "symbol": "DNMRQ-OLD",
       "manager_id": "GLRE",
       "action": "Reduce 2.06%",
       "date": "Q2 2021",
@@ -6272,7 +6525,7 @@
       "company_name": "Concentrix Corp."
     },
     {
-      "symbol": "DNMRQ",
+      "symbol": "DNMRQ-OLD",
       "manager_id": "GLRE",
       "action": "Add 24.75%",
       "date": "Q1 2021",
@@ -7042,7 +7295,7 @@
       "company_name": "CNX Resources Corp."
     },
     {
-      "symbol": "DNMRQ",
+      "symbol": "DNMRQ-OLD",
       "manager_id": "GLRE",
       "action": "Buy",
       "date": "Q4 2020",
@@ -10747,261 +11000,8 @@
       "shares": 433100,
       "portfolio_percentage": 0.32,
       "company_name": "Varex Imaging Corp."
-    },
-    {
-      "symbol": "HPE",
-      "manager_id": "GLRE",
-      "action": "Sell 100.00%",
-      "date": "Q4 2017",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 7805000,
-      "portfolio_percentage": 1.91,
-      "company_name": "Hewlett Packard Enterprise"
-    },
-    {
-      "symbol": "TSG",
-      "manager_id": "GLRE",
-      "action": "Sell 100.00%",
-      "date": "Q4 2017",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 3962684,
-      "portfolio_percentage": 1.35,
-      "company_name": "The Stars Group Inc."
-    },
-    {
-      "symbol": "MON-OLD",
-      "manager_id": "GLRE",
-      "action": "Sell 100.00%",
-      "date": "Q4 2017",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 384900,
-      "portfolio_percentage": 0.77,
-      "company_name": "Monsanto Co."
-    },
-    {
-      "symbol": "TGNA",
-      "manager_id": "GLRE",
-      "action": "Sell 100.00%",
-      "date": "Q4 2017",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 2400000,
-      "portfolio_percentage": 0.53,
-      "company_name": "TEGNA Inc."
-    },
-    {
-      "symbol": "RADCQ",
-      "manager_id": "GLRE",
-      "action": "Sell 100.00%",
-      "date": "Q4 2017",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 763915,
-      "portfolio_percentage": 0.5,
-      "company_name": "Rite Aid Corp."
-    },
-    {
-      "symbol": "UHAL",
-      "manager_id": "GLRE",
-      "action": "Sell 100.00%",
-      "date": "Q4 2017",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 50000,
-      "portfolio_percentage": 0.31,
-      "company_name": "U-Haul Holding Co."
-    },
-    {
-      "symbol": "CARS",
-      "manager_id": "GLRE",
-      "action": "Sell 100.00%",
-      "date": "Q4 2017",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 548399,
-      "portfolio_percentage": 0.24,
-      "company_name": "Cars.com Inc."
-    },
-    {
-      "symbol": "FRED",
-      "manager_id": "GLRE",
-      "action": "Sell 100.00%",
-      "date": "Q4 2017",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 1400903,
-      "portfolio_percentage": 0.15,
-      "company_name": "Fred's Inc."
-    },
-    {
-      "symbol": "DLTR",
-      "manager_id": "GLRE",
-      "action": "Sell 100.00%",
-      "date": "Q4 2017",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 87900,
-      "portfolio_percentage": 0.13,
-      "company_name": "Dollar Tree Inc."
-    },
-    {
-      "symbol": "TECD",
-      "manager_id": "GLRE",
-      "action": "Sell 100.00%",
-      "date": "Q4 2017",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 90000,
-      "portfolio_percentage": 0.13,
-      "company_name": "Tech Data Corp."
-    },
-    {
-      "symbol": "KR",
-      "manager_id": "GLRE",
-      "action": "Sell 100.00%",
-      "date": "Q4 2017",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 362300,
-      "portfolio_percentage": 0.12,
-      "company_name": "Kroger Co."
-    },
-    {
-      "symbol": "QHC",
-      "manager_id": "GLRE",
-      "action": "Sell 100.00%",
-      "date": "Q4 2017",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 205000,
-      "portfolio_percentage": 0.02,
-      "company_name": "Quorum Health Corp."
-    },
-    {
-      "symbol": "SGI",
-      "manager_id": "GLRE",
-      "action": "Add 900.00%",
-      "date": "Q3 2017",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 14400000,
-      "portfolio_percentage": 3.87,
-      "company_name": "Somnigroup International Inc."
-    },
-    {
-      "symbol": "ADNT",
-      "manager_id": "GLRE",
-      "action": "Add 294.16%",
-      "date": "Q3 2017",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 1291839,
-      "portfolio_percentage": 1.81,
-      "company_name": "Adient plc"
-    },
-    {
-      "symbol": "MU",
-      "manager_id": "GLRE",
-      "action": "Add 89.51%",
-      "date": "Q3 2017",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 2371900,
-      "portfolio_percentage": 1.55,
-      "company_name": "Micron Technology Inc."
-    },
-    {
-      "symbol": "HPE",
-      "manager_id": "GLRE",
-      "action": "Add 75.39%",
-      "date": "Q3 2017",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 3355000,
-      "portfolio_percentage": 0.82,
-      "company_name": "Hewlett Packard Enterprise"
-    },
-    {
-      "symbol": "DBI",
-      "manager_id": "GLRE",
-      "action": "Add 35.14%",
-      "date": "Q3 2017",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 792894,
-      "portfolio_percentage": 0.28,
-      "company_name": "Designer Brands Inc."
-    },
-    {
-      "symbol": "PRGO",
-      "manager_id": "GLRE",
-      "action": "Add 14.80%",
-      "date": "Q3 2017",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 374032,
-      "portfolio_percentage": 0.53,
-      "company_name": "Perrigo Co."
-    },
-    {
-      "symbol": "MYL-OLD",
-      "manager_id": "GLRE",
-      "action": "Add 0.40%",
-      "date": "Q3 2017",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 42600,
-      "portfolio_percentage": 0.02,
-      "company_name": "Mylan NV"
-    },
-    {
-      "symbol": "BHF",
-      "manager_id": "GLRE",
-      "action": "Buy",
-      "date": "Q3 2017",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 6792028,
-      "portfolio_percentage": 6.88,
-      "company_name": "Brighthouse Financial Inc."
-    },
-    {
-      "symbol": "XELA",
-      "manager_id": "GLRE",
-      "action": "Buy",
-      "date": "Q3 2017",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 419231,
-      "portfolio_percentage": 0.68,
-      "company_name": "Exela Technologies Inc."
-    },
-    {
-      "symbol": "VNTRF",
-      "manager_id": "GLRE",
-      "action": "Buy",
-      "date": "Q3 2017",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 1700000,
-      "portfolio_percentage": 0.64,
-      "company_name": "Venator Materials PLC"
-    },
-    {
-      "symbol": "DLTR",
-      "manager_id": "GLRE",
-      "action": "Buy",
-      "date": "Q3 2017",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 87900,
-      "portfolio_percentage": 0.13,
-      "company_name": "Dollar Tree Inc."
     }
   ],
-  "timestamp": "2025-10-01T06:06:07.066099",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.565213",
+  "scraped_date": "2025-10-02"
 }

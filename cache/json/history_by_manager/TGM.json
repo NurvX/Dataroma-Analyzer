@@ -2,6 +2,380 @@
   "manager_id": "TGM",
   "activities": [
     {
+      "symbol": "XYZ",
+      "manager_id": "TGM",
+      "action": "Add 109.27%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 2059573,
+      "portfolio_percentage": 0.41,
+      "company_name": "Block Inc."
+    },
+    {
+      "symbol": "RDDT",
+      "manager_id": "TGM",
+      "action": "Add 89.22%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 2899384,
+      "portfolio_percentage": 1.28,
+      "company_name": "Reddit Inc Cl A"
+    },
+    {
+      "symbol": "AMZN",
+      "manager_id": "TGM",
+      "action": "Add 62.19%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 4097053,
+      "portfolio_percentage": 2.64,
+      "company_name": "Amazon.com Inc."
+    },
+    {
+      "symbol": "CPAY",
+      "manager_id": "TGM",
+      "action": "Add 20.36%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 254069,
+      "portfolio_percentage": 0.25,
+      "company_name": "Corpay Inc."
+    },
+    {
+      "symbol": "APP",
+      "manager_id": "TGM",
+      "action": "Add 20.07%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 334749,
+      "portfolio_percentage": 0.34,
+      "company_name": "Applovin Corp."
+    },
+    {
+      "symbol": "Z",
+      "manager_id": "TGM",
+      "action": "Add 19.45%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1014087,
+      "portfolio_percentage": 0.21,
+      "company_name": "Zillow Group Inc."
+    },
+    {
+      "symbol": "AVGO",
+      "manager_id": "TGM",
+      "action": "Add 19.01%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 431714,
+      "portfolio_percentage": 0.35,
+      "company_name": "Broadcom Inc."
+    },
+    {
+      "symbol": "LRCX",
+      "manager_id": "TGM",
+      "action": "Add 18.89%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 835628,
+      "portfolio_percentage": 0.24,
+      "company_name": "Lam Research"
+    },
+    {
+      "symbol": "LLY",
+      "manager_id": "TGM",
+      "action": "Add 13.20%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 176200,
+      "portfolio_percentage": 0.4,
+      "company_name": "Eli Lilly & Co."
+    },
+    {
+      "symbol": "ZG",
+      "manager_id": "TGM",
+      "action": "Add 11.30%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 102000,
+      "portfolio_percentage": 0.02,
+      "company_name": "Zillow Group Inc. CL A"
+    },
+    {
+      "symbol": "TSM",
+      "manager_id": "TGM",
+      "action": "Add 7.94%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 336900,
+      "portfolio_percentage": 0.22,
+      "company_name": "Taiwan Semiconductor S.A."
+    },
+    {
+      "symbol": "NVDA",
+      "manager_id": "TGM",
+      "action": "Add 6.77%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 742202,
+      "portfolio_percentage": 0.34,
+      "company_name": "NVIDIA Corp."
+    },
+    {
+      "symbol": "MSFT",
+      "manager_id": "TGM",
+      "action": "Add 4.98%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 310503,
+      "portfolio_percentage": 0.45,
+      "company_name": "Microsoft Corp."
+    },
+    {
+      "symbol": "GEV",
+      "manager_id": "TGM",
+      "action": "Add 4.03%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 42500,
+      "portfolio_percentage": 0.07,
+      "company_name": "Ge Vernova Inc"
+    },
+    {
+      "symbol": "GOOGL",
+      "manager_id": "TGM",
+      "action": "Add 3.13%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 322602,
+      "portfolio_percentage": 0.17,
+      "company_name": "Alphabet Inc."
+    },
+    {
+      "symbol": "FLUT",
+      "manager_id": "TGM",
+      "action": "Add 2.25%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 76000,
+      "portfolio_percentage": 0.06,
+      "company_name": "Flutter Entertainment Plc"
+    },
+    {
+      "symbol": "CPNG",
+      "manager_id": "TGM",
+      "action": "Add 1.93%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 257260,
+      "portfolio_percentage": 0.02,
+      "company_name": "Coupang Inc."
+    },
+    {
+      "symbol": "META",
+      "manager_id": "TGM",
+      "action": "Add 0.92%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 68386,
+      "portfolio_percentage": 0.15,
+      "company_name": "Meta Platforms Inc."
+    },
+    {
+      "symbol": "ZS",
+      "manager_id": "TGM",
+      "action": "Add 0.25%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 4266,
+      "portfolio_percentage": 0.0,
+      "company_name": "Zscaler Inc."
+    },
+    {
+      "symbol": "CHYM",
+      "manager_id": "TGM",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 12470768,
+      "portfolio_percentage": 1.26,
+      "company_name": "Chime Financial Inc Cl A"
+    },
+    {
+      "symbol": "BULL",
+      "manager_id": "TGM",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 11724137,
+      "portfolio_percentage": 0.41,
+      "company_name": "Webull Corp"
+    },
+    {
+      "symbol": "HNGE",
+      "manager_id": "TGM",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 552008,
+      "portfolio_percentage": 0.08,
+      "company_name": "Hinge Health Inc A"
+    },
+    {
+      "symbol": "CRCL",
+      "manager_id": "TGM",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 125000,
+      "portfolio_percentage": 0.07,
+      "company_name": "Circle Internet Group Inc"
+    },
+    {
+      "symbol": "ETOR",
+      "manager_id": "TGM",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 80000,
+      "portfolio_percentage": 0.02,
+      "company_name": "Etoro Group Ltd A"
+    },
+    {
+      "symbol": "TFIN",
+      "manager_id": "TGM",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 43708,
+      "portfolio_percentage": 0.01,
+      "company_name": "Triumph Financial Inc."
+    },
+    {
+      "symbol": "MNTN",
+      "manager_id": "TGM",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 20000,
+      "portfolio_percentage": 0.0,
+      "company_name": "Mntn Inc A"
+    },
+    {
+      "symbol": "ZKH",
+      "manager_id": "TGM",
+      "action": "Reduce 2.42%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 198607,
+      "portfolio_percentage": 0.0,
+      "company_name": "Zkh Group Ltd"
+    },
+    {
+      "symbol": "RERE",
+      "manager_id": "TGM",
+      "action": "Reduce 14.37%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1650000,
+      "portfolio_percentage": 0.02,
+      "company_name": "AiHuiShou International Co. Ltd. ADS"
+    },
+    {
+      "symbol": "CRWD",
+      "manager_id": "TGM",
+      "action": "Reduce 44.44%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 400000,
+      "portfolio_percentage": 0.6,
+      "company_name": "CrowdStrike Holdings Inc."
+    },
+    {
+      "symbol": "WDAY",
+      "manager_id": "TGM",
+      "action": "Reduce 46.82%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 880237,
+      "portfolio_percentage": 0.62,
+      "company_name": "Workday Inc."
+    },
+    {
+      "symbol": "NOW",
+      "manager_id": "TGM",
+      "action": "Reduce 48.25%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 279655,
+      "portfolio_percentage": 0.84,
+      "company_name": "ServiceNow Inc."
+    },
+    {
+      "symbol": "DASH",
+      "manager_id": "TGM",
+      "action": "Reduce 98.85%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 2170676,
+      "portfolio_percentage": 1.71,
+      "company_name": "DoorDash Inc."
+    },
+    {
+      "symbol": "PDD",
+      "manager_id": "TGM",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 4415681,
+      "portfolio_percentage": 1.97,
+      "company_name": "Pinduoduo Inc."
+    },
+    {
+      "symbol": "TTAN",
+      "manager_id": "TGM",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 1301398,
+      "portfolio_percentage": 0.47,
+      "company_name": "Servicetitan Inc A"
+    },
+    {
       "symbol": "VEEV",
       "manager_id": "TGM",
       "action": "Add 540.34%",
@@ -3467,7 +3841,7 @@
       "company_name": "Zendesk Inc."
     },
     {
-      "symbol": "OLO",
+      "symbol": "OLO-OLD",
       "manager_id": "TGM",
       "action": "Sell 100.00%",
       "date": "Q4 2022",
@@ -3753,7 +4127,7 @@
       "company_name": "Microsoft Corp."
     },
     {
-      "symbol": "OLO",
+      "symbol": "OLO-OLD",
       "manager_id": "TGM",
       "action": "Add 13.48%",
       "date": "Q3 2022",
@@ -4193,7 +4567,7 @@
       "company_name": "Gitlab Inc CL A"
     },
     {
-      "symbol": "OLO",
+      "symbol": "OLO-OLD",
       "manager_id": "TGM",
       "action": "Add 24.50%",
       "date": "Q2 2022",
@@ -5128,7 +5502,7 @@
       "company_name": "Block Inc."
     },
     {
-      "symbol": "OLO",
+      "symbol": "OLO-OLD",
       "manager_id": "TGM",
       "action": "Add 67.91%",
       "date": "Q1 2022",
@@ -5953,7 +6327,7 @@
       "company_name": "Applovin Corp."
     },
     {
-      "symbol": "BIGC",
+      "symbol": "CMRC",
       "manager_id": "TGM",
       "action": "Sell 100.00%",
       "date": "Q1 2022",
@@ -5961,7 +6335,7 @@
       "action_type": "Sell",
       "shares": 1350000,
       "portfolio_percentage": 0.1,
-      "company_name": "BigCommerce Holdings"
+      "company_name": "Commerce.com Inc."
     },
     {
       "symbol": "MDB",
@@ -6283,7 +6657,7 @@
       "company_name": "nCino Inc."
     },
     {
-      "symbol": "NEUE",
+      "symbol": "NEUE-OLD",
       "manager_id": "TGM",
       "action": "Sell 100.00%",
       "date": "Q1 2022",
@@ -6745,7 +7119,7 @@
       "company_name": "Toast Inc."
     },
     {
-      "symbol": "OLO",
+      "symbol": "OLO-OLD",
       "manager_id": "TGM",
       "action": "Add 215.97%",
       "date": "Q4 2021",
@@ -7350,7 +7724,7 @@
       "company_name": "Oscar Health Inc."
     },
     {
-      "symbol": "NEUE",
+      "symbol": "NEUE-OLD",
       "manager_id": "TGM",
       "action": "Reduce 71.72%",
       "date": "Q4 2021",
@@ -8527,7 +8901,7 @@
       "company_name": "ironSource Ltd"
     },
     {
-      "symbol": "NEUE",
+      "symbol": "NEUE-OLD",
       "manager_id": "TGM",
       "action": "Buy",
       "date": "Q2 2021",
@@ -9341,7 +9715,7 @@
       "company_name": "Liberty Media Acquisition Corp. Units"
     },
     {
-      "symbol": "OLO",
+      "symbol": "OLO-OLD",
       "manager_id": "TGM",
       "action": "Buy",
       "date": "Q1 2021",
@@ -10298,7 +10672,7 @@
       "company_name": "Sumo Logic Inc."
     },
     {
-      "symbol": "BIGC",
+      "symbol": "CMRC",
       "manager_id": "TGM",
       "action": "Buy",
       "date": "Q3 2020",
@@ -10306,7 +10680,7 @@
       "action_type": "Buy",
       "shares": 1350000,
       "portfolio_percentage": 0.32,
-      "company_name": "BigCommerce Holdings"
+      "company_name": "Commerce.com Inc."
     },
     {
       "symbol": "JAMF",
@@ -10626,382 +11000,8 @@
       "shares": 1076428,
       "portfolio_percentage": 0.36,
       "company_name": "DATADOG Inc."
-    },
-    {
-      "symbol": "PTON",
-      "manager_id": "TGM",
-      "action": "Add 27.61%",
-      "date": "Q2 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 1146604,
-      "portfolio_percentage": 0.26,
-      "company_name": "Peloton Interactive Inc."
-    },
-    {
-      "symbol": "SPOT",
-      "manager_id": "TGM",
-      "action": "Add 16.33%",
-      "date": "Q2 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 447109,
-      "portfolio_percentage": 0.45,
-      "company_name": "Spotify Technology S.A."
-    },
-    {
-      "symbol": "AMZN",
-      "manager_id": "TGM",
-      "action": "Add 7.37%",
-      "date": "Q2 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 814200,
-      "portfolio_percentage": 0.44,
-      "company_name": "Amazon.com Inc."
-    },
-    {
-      "symbol": "PDD",
-      "manager_id": "TGM",
-      "action": "Add 2.75%",
-      "date": "Q2 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 162996,
-      "portfolio_percentage": 0.05,
-      "company_name": "Pinduoduo Inc."
-    },
-    {
-      "symbol": "MSFT",
-      "manager_id": "TGM",
-      "action": "Add 2.01%",
-      "date": "Q2 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 217367,
-      "portfolio_percentage": 0.17,
-      "company_name": "Microsoft Corp."
-    },
-    {
-      "symbol": "JD",
-      "manager_id": "TGM",
-      "action": "Add 1.97%",
-      "date": "Q2 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 1000000,
-      "portfolio_percentage": 0.23,
-      "company_name": "JD.com Inc."
-    },
-    {
-      "symbol": "ZI",
-      "manager_id": "TGM",
-      "action": "Buy",
-      "date": "Q2 2020",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 150000,
-      "portfolio_percentage": 0.03,
-      "company_name": "ZoomInfo Technologies Inc."
-    },
-    {
-      "symbol": "API",
-      "manager_id": "TGM",
-      "action": "Buy",
-      "date": "Q2 2020",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 70000,
-      "portfolio_percentage": 0.01,
-      "company_name": "Agora Inc."
-    },
-    {
-      "symbol": "DADA-OLD",
-      "manager_id": "TGM",
-      "action": "Buy",
-      "date": "Q2 2020",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 50000,
-      "portfolio_percentage": 0.0,
-      "company_name": "Dada Nexus Ltd"
-    },
-    {
-      "symbol": "KC",
-      "manager_id": "TGM",
-      "action": "Buy",
-      "date": "Q2 2020",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 10000,
-      "portfolio_percentage": 0.0,
-      "company_name": "Kingsoft Cloud Holdings"
-    },
-    {
-      "symbol": "STNE",
-      "manager_id": "TGM",
-      "action": "Reduce 0.39%",
-      "date": "Q2 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 3020,
-      "portfolio_percentage": 0.0,
-      "company_name": "StoneCo Ltd."
-    },
-    {
-      "symbol": "PYPL",
-      "manager_id": "TGM",
-      "action": "Reduce 5.13%",
-      "date": "Q2 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 119000,
-      "portfolio_percentage": 0.08,
-      "company_name": "PayPal Holdings Inc."
-    },
-    {
-      "symbol": "RDFN",
-      "manager_id": "TGM",
-      "action": "Reduce 11.45%",
-      "date": "Q2 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 5186,
-      "portfolio_percentage": 0.0,
-      "company_name": "Redfin Corp."
-    },
-    {
-      "symbol": "MA",
-      "manager_id": "TGM",
-      "action": "Reduce 14.69%",
-      "date": "Q2 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 107000,
-      "portfolio_percentage": 0.12,
-      "company_name": "Mastercard Inc."
-    },
-    {
-      "symbol": "MNTV-OLD",
-      "manager_id": "TGM",
-      "action": "Reduce 68.80%",
-      "date": "Q2 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 1581786,
-      "portfolio_percentage": 0.15,
-      "company_name": "Momentive Global Inc."
-    },
-    {
-      "symbol": "ATH",
-      "manager_id": "TGM",
-      "action": "Reduce 80.74%",
-      "date": "Q2 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 6026626,
-      "portfolio_percentage": 0.71,
-      "company_name": "Athene Holding Ltd."
-    },
-    {
-      "symbol": "IQ",
-      "manager_id": "TGM",
-      "action": "Sell 100.00%",
-      "date": "Q2 2020",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 1000000,
-      "portfolio_percentage": 0.11,
-      "company_name": "iQIYI Inc."
-    },
-    {
-      "symbol": "LVGO",
-      "manager_id": "TGM",
-      "action": "Sell 100.00%",
-      "date": "Q2 2020",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 250000,
-      "portfolio_percentage": 0.04,
-      "company_name": "Livongo Health Inc."
-    },
-    {
-      "symbol": "BILL",
-      "manager_id": "TGM",
-      "action": "Sell 100.00%",
-      "date": "Q2 2020",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 80000,
-      "portfolio_percentage": 0.02,
-      "company_name": "Bill.com Holdings"
-    },
-    {
-      "symbol": "JCP",
-      "manager_id": "TGM",
-      "action": "Sell 100.00%",
-      "date": "Q2 2020",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 850000,
-      "portfolio_percentage": 0.0,
-      "company_name": "Penney (J.C.)"
-    },
-    {
-      "symbol": "STG",
-      "manager_id": "TGM",
-      "action": "Sell 100.00%",
-      "date": "Q2 2020",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 24000,
-      "portfolio_percentage": 0.0,
-      "company_name": "Sunlands Technology Group"
-    },
-    {
-      "symbol": "WDAY",
-      "manager_id": "TGM",
-      "action": "Add 733.81%",
-      "date": "Q1 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 2040000,
-      "portfolio_percentage": 1.6,
-      "company_name": "Workday Inc."
-    },
-    {
-      "symbol": "DDOG",
-      "manager_id": "TGM",
-      "action": "Add 717.90%",
-      "date": "Q1 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 3230572,
-      "portfolio_percentage": 0.7,
-      "company_name": "DATADOG Inc."
-    },
-    {
-      "symbol": "PLAN-OLD",
-      "manager_id": "TGM",
-      "action": "Add 210.20%",
-      "date": "Q1 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 4608503,
-      "portfolio_percentage": 0.84,
-      "company_name": "ANAPLAN Inc."
-    },
-    {
-      "symbol": "CRM",
-      "manager_id": "TGM",
-      "action": "Add 53.19%",
-      "date": "Q1 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 393104,
-      "portfolio_percentage": 0.34,
-      "company_name": "Salesforce.com"
-    },
-    {
-      "symbol": "EDU",
-      "manager_id": "TGM",
-      "action": "Add 48.63%",
-      "date": "Q1 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 700659,
-      "portfolio_percentage": 0.46,
-      "company_name": "New Oriental Education & Technology"
-    },
-    {
-      "symbol": "BABA",
-      "manager_id": "TGM",
-      "action": "Add 27.76%",
-      "date": "Q1 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 976000,
-      "portfolio_percentage": 1.14,
-      "company_name": "Alibaba Group Holdings"
-    },
-    {
-      "symbol": "CVNA",
-      "manager_id": "TGM",
-      "action": "Add 22.39%",
-      "date": "Q1 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 1100000,
-      "portfolio_percentage": 0.36,
-      "company_name": "Carvana Co."
-    },
-    {
-      "symbol": "MA",
-      "manager_id": "TGM",
-      "action": "Add 16.37%",
-      "date": "Q1 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 102500,
-      "portfolio_percentage": 0.15,
-      "company_name": "Mastercard Inc."
-    },
-    {
-      "symbol": "ADBE",
-      "manager_id": "TGM",
-      "action": "Add 13.42%",
-      "date": "Q1 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 20000,
-      "portfolio_percentage": 0.04,
-      "company_name": "Adobe Inc."
-    },
-    {
-      "symbol": "META",
-      "manager_id": "TGM",
-      "action": "Add 5.18%",
-      "date": "Q1 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 431000,
-      "portfolio_percentage": 0.43,
-      "company_name": "Meta Platforms Inc."
-    },
-    {
-      "symbol": "RNG",
-      "manager_id": "TGM",
-      "action": "Add 0.88%",
-      "date": "Q1 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 29170,
-      "portfolio_percentage": 0.04,
-      "company_name": "RingCentral Inc."
-    },
-    {
-      "symbol": "ATH",
-      "manager_id": "TGM",
-      "action": "Buy",
-      "date": "Q1 2020",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 7464626,
-      "portfolio_percentage": 1.12,
-      "company_name": "Athene Holding Ltd."
-    },
-    {
-      "symbol": "PTON",
-      "manager_id": "TGM",
-      "action": "Buy",
-      "date": "Q1 2020",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 4153304,
-      "portfolio_percentage": 0.66,
-      "company_name": "Peloton Interactive Inc."
     }
   ],
-  "timestamp": "2025-10-01T06:06:07.097485",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.544988",
+  "scraped_date": "2025-10-02"
 }

@@ -2,6 +2,490 @@
   "manager_id": "oc",
   "activities": [
     {
+      "symbol": "ITUB",
+      "manager_id": "oc",
+      "action": "Add 58.54%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 4063482,
+      "portfolio_percentage": 0.7,
+      "company_name": "ita Unibanco Holding S.A."
+    },
+    {
+      "symbol": "BZ",
+      "manager_id": "oc",
+      "action": "Add 34.19%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 400311,
+      "portfolio_percentage": 0.18,
+      "company_name": "Kanzhun Ltd"
+    },
+    {
+      "symbol": "B",
+      "manager_id": "oc",
+      "action": "Add 25.47%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 641028,
+      "portfolio_percentage": 0.34,
+      "company_name": "Barrick Mining Corp."
+    },
+    {
+      "symbol": "BEKE",
+      "manager_id": "oc",
+      "action": "Add 20.58%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 258255,
+      "portfolio_percentage": 0.12,
+      "company_name": "KE Holdings Inc."
+    },
+    {
+      "symbol": "LBTYA",
+      "manager_id": "oc",
+      "action": "Add 13.99%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1008001,
+      "portfolio_percentage": 0.26,
+      "company_name": "Liberty Global Ltd CL A"
+    },
+    {
+      "symbol": "TX",
+      "manager_id": "oc",
+      "action": "Add 13.18%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 107100,
+      "portfolio_percentage": 0.08,
+      "company_name": "Ternium S.A."
+    },
+    {
+      "symbol": "GRAB",
+      "manager_id": "oc",
+      "action": "Add 12.59%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1293300,
+      "portfolio_percentage": 0.16,
+      "company_name": "Grab Holdings Ltd   Cl A"
+    },
+    {
+      "symbol": "EC",
+      "manager_id": "oc",
+      "action": "Add 12.26%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 387700,
+      "portfolio_percentage": 0.09,
+      "company_name": "Ecopetrol SA Sponsored ADR"
+    },
+    {
+      "symbol": "TAC",
+      "manager_id": "oc",
+      "action": "Add 8.95%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 500000,
+      "portfolio_percentage": 0.14,
+      "company_name": "TransAlta Corp."
+    },
+    {
+      "symbol": "STR-OLD",
+      "manager_id": "oc",
+      "action": "Add 0.08%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 10431,
+      "portfolio_percentage": 0.0,
+      "company_name": "Sitio Royalties Corp A"
+    },
+    {
+      "symbol": "NOK",
+      "manager_id": "oc",
+      "action": "Add 0.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 2,
+      "portfolio_percentage": 0.0,
+      "company_name": "Nokia Corp."
+    },
+    {
+      "symbol": "BLCO",
+      "manager_id": "oc",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 2521245,
+      "portfolio_percentage": 0.83,
+      "company_name": "Bausch + Lomb Corp"
+    },
+    {
+      "symbol": "YMM",
+      "manager_id": "oc",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 1842337,
+      "portfolio_percentage": 0.55,
+      "company_name": "Full Truck Alliance  Spn ADR"
+    },
+    {
+      "symbol": "LILAK",
+      "manager_id": "oc",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 2328516,
+      "portfolio_percentage": 0.37,
+      "company_name": "Liberty LiLAC Group C"
+    },
+    {
+      "symbol": "SE",
+      "manager_id": "oc",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 83513,
+      "portfolio_percentage": 0.34,
+      "company_name": "Sea Ltd"
+    },
+    {
+      "symbol": "YPF",
+      "manager_id": "oc",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 324330,
+      "portfolio_percentage": 0.26,
+      "company_name": "YPF S.A."
+    },
+    {
+      "symbol": "HDSN",
+      "manager_id": "oc",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 562662,
+      "portfolio_percentage": 0.12,
+      "company_name": "Hudson Technologies Inc."
+    },
+    {
+      "symbol": "JBS",
+      "manager_id": "oc",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 238610,
+      "portfolio_percentage": 0.09,
+      "company_name": "Jbs Nv A"
+    },
+    {
+      "symbol": "BTAI",
+      "manager_id": "oc",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 241188,
+      "portfolio_percentage": 0.01,
+      "company_name": "Bioxcel Therapeutics Inc"
+    },
+    {
+      "symbol": "TEO",
+      "manager_id": "oc",
+      "action": "Reduce 2.40%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 65000,
+      "portfolio_percentage": 0.01,
+      "company_name": "Telecom Argentina S.A."
+    },
+    {
+      "symbol": "HDB",
+      "manager_id": "oc",
+      "action": "Reduce 5.41%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 9708,
+      "portfolio_percentage": 0.01,
+      "company_name": "HDFC Bank Ltd."
+    },
+    {
+      "symbol": "VIST",
+      "manager_id": "oc",
+      "action": "Reduce 5.63%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 123000,
+      "portfolio_percentage": 0.15,
+      "company_name": "Vista Oil & Gas, S.A.B. de C.V."
+    },
+    {
+      "symbol": "FCX",
+      "manager_id": "oc",
+      "action": "Reduce 8.90%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 195033,
+      "portfolio_percentage": 0.21,
+      "company_name": "Freeport-McMoran Inc."
+    },
+    {
+      "symbol": "EXE",
+      "manager_id": "oc",
+      "action": "Reduce 8.99%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 500000,
+      "portfolio_percentage": 1.48,
+      "company_name": "Expand Energy Corp."
+    },
+    {
+      "symbol": "RWAY",
+      "manager_id": "oc",
+      "action": "Reduce 9.28%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1000000,
+      "portfolio_percentage": 0.27,
+      "company_name": "Runway Growth Finance Corp"
+    },
+    {
+      "symbol": "AU",
+      "manager_id": "oc",
+      "action": "Reduce 9.46%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 517114,
+      "portfolio_percentage": 0.6,
+      "company_name": "AngloGold Ashanti Ltd."
+    },
+    {
+      "symbol": "GTX",
+      "manager_id": "oc",
+      "action": "Reduce 16.31%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 7188000,
+      "portfolio_percentage": 1.91,
+      "company_name": "Garrett Motion Inc."
+    },
+    {
+      "symbol": "ALVO",
+      "manager_id": "oc",
+      "action": "Reduce 16.31%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 304807,
+      "portfolio_percentage": 0.07,
+      "company_name": "Alvotech SA"
+    },
+    {
+      "symbol": "CX",
+      "manager_id": "oc",
+      "action": "Reduce 23.45%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 4544697,
+      "portfolio_percentage": 0.8,
+      "company_name": "Cemex"
+    },
+    {
+      "symbol": "SBLK",
+      "manager_id": "oc",
+      "action": "Reduce 39.88%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 2143104,
+      "portfolio_percentage": 0.94,
+      "company_name": "Star Bulk Carriers Corp."
+    },
+    {
+      "symbol": "TLN",
+      "manager_id": "oc",
+      "action": "Reduce 59.41%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 190000,
+      "portfolio_percentage": 1.4,
+      "company_name": "Talen Energy Corp"
+    },
+    {
+      "symbol": "VALE",
+      "manager_id": "oc",
+      "action": "Reduce 66.19%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 3981076,
+      "portfolio_percentage": 0.98,
+      "company_name": "Vale SA"
+    },
+    {
+      "symbol": "TGS",
+      "manager_id": "oc",
+      "action": "Reduce 71.60%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 346976,
+      "portfolio_percentage": 0.23,
+      "company_name": "Transportadora de Gas Del Sur SA"
+    },
+    {
+      "symbol": "BMA",
+      "manager_id": "oc",
+      "action": "Reduce 76.74%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 199871,
+      "portfolio_percentage": 0.36,
+      "company_name": "Banco Macro S.A."
+    },
+    {
+      "symbol": "BAK",
+      "manager_id": "oc",
+      "action": "Reduce 80.67%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1891125,
+      "portfolio_percentage": 0.17,
+      "company_name": "Braskem S.A."
+    },
+    {
+      "symbol": "HTHT",
+      "manager_id": "oc",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 1229399,
+      "portfolio_percentage": 1.12,
+      "company_name": "H World Group Ltd ADR"
+    },
+    {
+      "symbol": "JD",
+      "manager_id": "oc",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 960796,
+      "portfolio_percentage": 0.98,
+      "company_name": "JD.com Inc."
+    },
+    {
+      "symbol": "PBR",
+      "manager_id": "oc",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 2659492,
+      "portfolio_percentage": 0.94,
+      "company_name": "Petroleo Brasileiro"
+    },
+    {
+      "symbol": "BILI",
+      "manager_id": "oc",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 1925797,
+      "portfolio_percentage": 0.91,
+      "company_name": "Bilibili Inc."
+    },
+    {
+      "symbol": "BIDU",
+      "manager_id": "oc",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 199684,
+      "portfolio_percentage": 0.45,
+      "company_name": "Baidu Inc."
+    },
+    {
+      "symbol": "KC",
+      "manager_id": "oc",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 1091853,
+      "portfolio_percentage": 0.39,
+      "company_name": "Kingsoft Cloud Holdings"
+    },
+    {
+      "symbol": "ONIT",
+      "manager_id": "oc",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 410429,
+      "portfolio_percentage": 0.33,
+      "company_name": "Onity Group Inc."
+    },
+    {
+      "symbol": "VCSA",
+      "manager_id": "oc",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 1375448,
+      "portfolio_percentage": 0.18,
+      "company_name": "Vacasa Inc  Cl A"
+    },
+    {
+      "symbol": "DQ",
+      "manager_id": "oc",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 344819,
+      "portfolio_percentage": 0.15,
+      "company_name": "Daqo New Energy Corp ADR"
+    },
+    {
       "symbol": "B",
       "manager_id": "oc",
       "action": "Add 147.93%",
@@ -343,7 +827,7 @@
       "company_name": "Infinera Corp."
     },
     {
-      "symbol": "SNRE",
+      "symbol": "SNREY",
       "manager_id": "oc",
       "action": "Sell 100.00%",
       "date": "Q1 2025",
@@ -459,7 +943,7 @@
       "date": "Q1 2025",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 75000,
+      "shares": 1875,
       "portfolio_percentage": 0.0,
       "company_name": "Ecd Automotive Design Inc"
     },
@@ -481,7 +965,7 @@
       "date": "Q4 2024",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 35657,
+      "shares": 71314,
       "portfolio_percentage": 0.05,
       "company_name": "HDFC Bank Ltd."
     },
@@ -508,7 +992,7 @@
       "company_name": "Expand Energy Corp."
     },
     {
-      "symbol": "SNRE",
+      "symbol": "SNREY",
       "manager_id": "oc",
       "action": "Buy",
       "date": "Q4 2024",
@@ -1009,7 +1493,7 @@
       "date": "Q3 2024",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 1562,
+      "shares": 3124,
       "portfolio_percentage": 0.0,
       "company_name": "HDFC Bank Ltd."
     },
@@ -1047,7 +1531,7 @@
       "company_name": "Freeport-McMoran Inc."
     },
     {
-      "symbol": "TPIC",
+      "symbol": "TPICQ",
       "manager_id": "oc",
       "action": "Add 0.20%",
       "date": "Q3 2024",
@@ -1350,7 +1834,7 @@
       "date": "Q2 2024",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 26272,
+      "shares": 52544,
       "portfolio_percentage": 0.03,
       "company_name": "HDFC Bank Ltd."
     },
@@ -2065,7 +2549,7 @@
       "date": "Q1 2024",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 26206,
+      "shares": 52412,
       "portfolio_percentage": 0.03,
       "company_name": "HDFC Bank Ltd."
     },
@@ -2444,7 +2928,7 @@
       "company_name": "Ai Transportation Acquisitio"
     },
     {
-      "symbol": "TPIC",
+      "symbol": "TPICQ",
       "manager_id": "oc",
       "action": "Add 556.54%",
       "date": "Q4 2023",
@@ -2681,7 +3165,7 @@
       "date": "Q4 2023",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 75000,
+      "shares": 1875,
       "portfolio_percentage": 0.0,
       "company_name": "Ecd Automotive Design Inc"
     },
@@ -3500,7 +3984,7 @@
       "company_name": "Duet Acquisition Corp Cl A"
     },
     {
-      "symbol": "EGRVF",
+      "symbol": "EGRVF-OLD",
       "manager_id": "oc",
       "action": "Sell 100.00%",
       "date": "Q3 2023",
@@ -3632,7 +4116,7 @@
       "company_name": "Keyarch Acquisition Corp"
     },
     {
-      "symbol": "DNQAF",
+      "symbol": "DNQAF-OLD",
       "manager_id": "oc",
       "action": "Sell 100.00%",
       "date": "Q3 2023",
@@ -3643,7 +4127,7 @@
       "company_name": "Denali Capital Acquisition A"
     },
     {
-      "symbol": "EMCG",
+      "symbol": "EMCG-OLD",
       "manager_id": "oc",
       "action": "Sell 100.00%",
       "date": "Q3 2023",
@@ -6591,7 +7075,7 @@
       "company_name": "Star Bulk Carriers Corp."
     },
     {
-      "symbol": "STR",
+      "symbol": "STR-OLD",
       "manager_id": "oc",
       "action": "Buy",
       "date": "Q4 2022",
@@ -6668,7 +7152,7 @@
       "company_name": "Alphatime Acquisition Corp"
     },
     {
-      "symbol": "EMCG",
+      "symbol": "EMCG-OLD",
       "manager_id": "oc",
       "action": "Buy",
       "date": "Q4 2022",
@@ -6965,7 +7449,7 @@
       "company_name": "Civitas Resources Inc."
     },
     {
-      "symbol": "STR-OLD",
+      "symbol": "STR-OLD3",
       "manager_id": "oc",
       "action": "Sell 100.00%",
       "date": "Q4 2022",
@@ -6998,7 +7482,7 @@
       "company_name": "Liberty Global Ltd CL C"
     },
     {
-      "symbol": "COOP",
+      "symbol": "COOP-OLD",
       "manager_id": "oc",
       "action": "Sell 100.00%",
       "date": "Q4 2022",
@@ -7229,7 +7713,7 @@
       "company_name": "Crypto 1 Acquisition Cor Cla"
     },
     {
-      "symbol": "EMCGU",
+      "symbol": "EMCGU-OLD",
       "manager_id": "oc",
       "action": "Sell 100.00%",
       "date": "Q4 2022",
@@ -7735,7 +8219,7 @@
       "company_name": "Freeport-McMoran Inc."
     },
     {
-      "symbol": "STR-OLD",
+      "symbol": "STR-OLD3",
       "manager_id": "oc",
       "action": "Buy",
       "date": "Q3 2022",
@@ -7779,7 +8263,7 @@
       "company_name": "Monterey Capital Acquisiti A"
     },
     {
-      "symbol": "TPIC",
+      "symbol": "TPICQ",
       "manager_id": "oc",
       "action": "Buy",
       "date": "Q3 2022",
@@ -7834,7 +8318,7 @@
       "company_name": "Global Star Acquisition Inc"
     },
     {
-      "symbol": "EMCGU",
+      "symbol": "EMCGU-OLD",
       "manager_id": "oc",
       "action": "Buy",
       "date": "Q3 2022",
@@ -8186,7 +8670,7 @@
       "company_name": "Petroleo Brasileiro"
     },
     {
-      "symbol": "COOP",
+      "symbol": "COOP-OLD",
       "manager_id": "oc",
       "action": "Reduce 39.93%",
       "date": "Q3 2022",
@@ -9011,7 +9495,7 @@
       "company_name": "Blackstone Strategic Credit"
     },
     {
-      "symbol": "EGRVF",
+      "symbol": "EGRVF-OLD",
       "manager_id": "oc",
       "action": "Buy",
       "date": "Q2 2022",
@@ -9154,7 +9638,7 @@
       "company_name": "Apollo Senior Floating Rate"
     },
     {
-      "symbol": "DNQAF",
+      "symbol": "DNQAF-OLD",
       "manager_id": "oc",
       "action": "Buy",
       "date": "Q2 2022",
@@ -10516,492 +11000,8 @@
       "shares": 350000,
       "portfolio_percentage": 0.04,
       "company_name": "Spree Acquisition Corp 1 Ltd"
-    },
-    {
-      "symbol": "TGR-OLD",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 300000,
-      "portfolio_percentage": 0.04,
-      "company_name": "Kimbell Tiger Acquisition A"
-    },
-    {
-      "symbol": "ACAB-OLD",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 250000,
-      "portfolio_percentage": 0.03,
-      "company_name": "Atlantic Coast Acquisition A"
-    },
-    {
-      "symbol": "AIB-OLD",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 200000,
-      "portfolio_percentage": 0.03,
-      "company_name": "Aib Acquisition Corp A"
-    },
-    {
-      "symbol": "BCSA-OLD",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 200000,
-      "portfolio_percentage": 0.03,
-      "company_name": "Blockchain Coinvestors  Cl A"
-    },
-    {
-      "symbol": "BPAC-OLD",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 200000,
-      "portfolio_percentage": 0.03,
-      "company_name": "Bullpen Parlay Acquisition A"
-    },
-    {
-      "symbol": "BYN-OLD",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 200000,
-      "portfolio_percentage": 0.03,
-      "company_name": "Banyan Acquisition Corp A"
-    },
-    {
-      "symbol": "DAOO-OLD",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 200000,
-      "portfolio_percentage": 0.03,
-      "company_name": "Crypto 1 Acquisition Cor Cla"
-    },
-    {
-      "symbol": "GGAA-OLD",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 201400,
-      "portfolio_percentage": 0.03,
-      "company_name": "Genesis Growth Tech Acquis A"
-    },
-    {
-      "symbol": "GMFI-OLD",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 200000,
-      "portfolio_percentage": 0.03,
-      "company_name": "Aetherium Acquisition Corp A"
-    },
-    {
-      "symbol": "HCMA-OLD",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 200000,
-      "portfolio_percentage": 0.03,
-      "company_name": "Hcm Acquisition Corp A"
-    },
-    {
-      "symbol": "ITAQ-OLD",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 200000,
-      "portfolio_percentage": 0.03,
-      "company_name": "Industrial Tech Acquisitio A"
-    },
-    {
-      "symbol": "LSPR-OLD",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 200000,
-      "portfolio_percentage": 0.03,
-      "company_name": "Larkspur Health Acquisitio A"
-    },
-    {
-      "symbol": "MNTN-OLD",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 200000,
-      "portfolio_percentage": 0.03,
-      "company_name": "Everest Consolidator Acquisi"
-    },
-    {
-      "symbol": "NETC-OLD",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 200000,
-      "portfolio_percentage": 0.03,
-      "company_name": "Nabors Energy Transition   A"
-    },
-    {
-      "symbol": "NUBIU-OLD",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 255000,
-      "portfolio_percentage": 0.03,
-      "company_name": "Nubia Brand International Co"
-    },
-    {
-      "symbol": "PPYA",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 250000,
-      "portfolio_percentage": 0.03,
-      "company_name": "Papaya Growth Opportuni Cl A"
-    },
-    {
-      "symbol": "KACL-OLD",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 150000,
-      "portfolio_percentage": 0.02,
-      "company_name": "Kairous Acquisition Corp Ltd"
-    },
-    {
-      "symbol": "KNSW-OLD",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 150000,
-      "portfolio_percentage": 0.02,
-      "company_name": "Knightswan Acquisition Cor A"
-    },
-    {
-      "symbol": "LBBBU-OLD",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 175000,
-      "portfolio_percentage": 0.02,
-      "company_name": "Lakeshore Acquisition Ii Cor"
-    },
-    {
-      "symbol": "OLIT-OLD",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 140000,
-      "portfolio_percentage": 0.02,
-      "company_name": "Omnilit Acquisition Corp A"
-    },
-    {
-      "symbol": "RNER-OLD",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 150000,
-      "portfolio_percentage": 0.02,
-      "company_name": "Mount Rainier Acquisition Co"
-    },
-    {
-      "symbol": "SUAC-OLD",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 175000,
-      "portfolio_percentage": 0.02,
-      "company_name": "Shoulderup Technology Acqu A"
-    },
-    {
-      "symbol": "AFAC-OLD",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 50000,
-      "portfolio_percentage": 0.01,
-      "company_name": "Arena Fortify Acquisition A"
-    },
-    {
-      "symbol": "ALOR-OLD",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 75000,
-      "portfolio_percentage": 0.01,
-      "company_name": "Alsp Orchid Acquisition Cl A"
-    },
-    {
-      "symbol": "BIOS-OLD",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 100000,
-      "portfolio_percentage": 0.01,
-      "company_name": "Bioplus Acquisition Corp A"
-    },
-    {
-      "symbol": "CPAQU-OLD",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 100000,
-      "portfolio_percentage": 0.01,
-      "company_name": "Counter Press Acquisition Co"
-    },
-    {
-      "symbol": "GVCI-OLD",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 50000,
-      "portfolio_percentage": 0.01,
-      "company_name": "Green Visor Financial Tech A"
-    },
-    {
-      "symbol": "HMA-OLD",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 100000,
-      "portfolio_percentage": 0.01,
-      "company_name": "Heartland Media Acquisitio A"
-    },
-    {
-      "symbol": "IOAC-OLD",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 100000,
-      "portfolio_percentage": 0.01,
-      "company_name": "Innovative International Acquisition Corp."
-    },
-    {
-      "symbol": "IRRX",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 100000,
-      "portfolio_percentage": 0.01,
-      "company_name": "Integrated Rail And  Class A"
-    },
-    {
-      "symbol": "LFAC-OLD",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 50000,
-      "portfolio_percentage": 0.01,
-      "company_name": "Lf Capital Acquisition  Cla"
-    },
-    {
-      "symbol": "LGVC-OLD",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 50000,
-      "portfolio_percentage": 0.01,
-      "company_name": "Lamf Global Ventures Corp I"
-    },
-    {
-      "symbol": "LIVB-OLD",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 60000,
-      "portfolio_percentage": 0.01,
-      "company_name": "Liv Capital Acquisition Co A"
-    },
-    {
-      "symbol": "MTVC-OLD",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 100000,
-      "portfolio_percentage": 0.01,
-      "company_name": "Motive Capital Corp Ii Cl A"
-    },
-    {
-      "symbol": "PACI-OLD",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 75000,
-      "portfolio_percentage": 0.01,
-      "company_name": "Proof Acquisition Corp I A"
-    },
-    {
-      "symbol": "PLAOU-OLD",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 50000,
-      "portfolio_percentage": 0.01,
-      "company_name": "Patria Latin American Opport"
-    },
-    {
-      "symbol": "TLGY-OLD",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 100000,
-      "portfolio_percentage": 0.01,
-      "company_name": "Tlgy Acquisition Corp   A"
-    },
-    {
-      "symbol": "VHNA-OLD",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 50000,
-      "portfolio_percentage": 0.01,
-      "company_name": "Vahanna Tech Edge Acquisi A"
-    },
-    {
-      "symbol": "WEL-OLD",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 100000,
-      "portfolio_percentage": 0.01,
-      "company_name": "Integrated Wellness Acq   A"
-    },
-    {
-      "symbol": "WNNR-OLD",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 100000,
-      "portfolio_percentage": 0.01,
-      "company_name": "Andretti Acquisition Corp A"
-    },
-    {
-      "symbol": "ACAXR-OLD",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 735000,
-      "portfolio_percentage": 0.0,
-      "company_name": "Alset Capital Acquisitio Rts"
-    },
-    {
-      "symbol": "ALSAR-OLD",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 400000,
-      "portfolio_percentage": 0.0,
-      "company_name": "Alpha Star Acq Corp   Rights"
-    },
-    {
-      "symbol": "ASCAR",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 145000,
-      "portfolio_percentage": 0.0,
-      "company_name": "A Spac I Acquisition Co Rts"
-    },
-    {
-      "symbol": "BWAQR-OLD",
-      "manager_id": "oc",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 550000,
-      "portfolio_percentage": 0.0,
-      "company_name": "Blue World Acquisition   Rts"
     }
   ],
-  "timestamp": "2025-10-01T06:06:06.954656",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.616723",
+  "scraped_date": "2025-10-02"
 }

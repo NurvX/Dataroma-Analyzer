@@ -2,6 +2,204 @@
   "manager_id": "BRK",
   "activities": [
     {
+      "symbol": "LEN",
+      "manager_id": "BRK",
+      "action": "Add 265.24%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 5119021,
+      "portfolio_percentage": 0.22,
+      "company_name": "Lennar Corp."
+    },
+    {
+      "symbol": "POOL",
+      "manager_id": "BRK",
+      "action": "Add 136.26%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1994885,
+      "portfolio_percentage": 0.22,
+      "company_name": "Pool Corp."
+    },
+    {
+      "symbol": "LEN.B",
+      "manager_id": "BRK",
+      "action": "Add 18.43%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 28156,
+      "portfolio_percentage": 0.0,
+      "company_name": "Lennar Corp. CL B"
+    },
+    {
+      "symbol": "NUE",
+      "manager_id": "BRK",
+      "action": "Add 14.90%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 857602,
+      "portfolio_percentage": 0.04,
+      "company_name": "Nucor Corp."
+    },
+    {
+      "symbol": "STZ",
+      "manager_id": "BRK",
+      "action": "Add 11.58%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1391000,
+      "portfolio_percentage": 0.09,
+      "company_name": "Constellation Brands"
+    },
+    {
+      "symbol": "HEI.A",
+      "manager_id": "BRK",
+      "action": "Add 11.40%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 132524,
+      "portfolio_percentage": 0.01,
+      "company_name": "HEICO Corp. CL A"
+    },
+    {
+      "symbol": "CVX",
+      "manager_id": "BRK",
+      "action": "Add 2.91%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 3454258,
+      "portfolio_percentage": 0.19,
+      "company_name": "Chevron Corp."
+    },
+    {
+      "symbol": "DPZ",
+      "manager_id": "BRK",
+      "action": "Add 0.51%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 13255,
+      "portfolio_percentage": 0.0,
+      "company_name": "Dominos Pizza Inc."
+    },
+    {
+      "symbol": "UNH",
+      "manager_id": "BRK",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 5039564,
+      "portfolio_percentage": 0.61,
+      "company_name": "United Health Group Inc."
+    },
+    {
+      "symbol": "LAMR",
+      "manager_id": "BRK",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 1169507,
+      "portfolio_percentage": 0.06,
+      "company_name": "Lamar Advertising Co."
+    },
+    {
+      "symbol": "ALLE",
+      "manager_id": "BRK",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 780133,
+      "portfolio_percentage": 0.04,
+      "company_name": "Allegion Plc"
+    },
+    {
+      "symbol": "DHI",
+      "manager_id": "BRK",
+      "action": "Reduce 1.79%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 27021,
+      "portfolio_percentage": 0.0,
+      "company_name": "D.R. Horton"
+    },
+    {
+      "symbol": "DVA",
+      "manager_id": "BRK",
+      "action": "Reduce 3.83%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1345938,
+      "portfolio_percentage": 0.07,
+      "company_name": "DaVita HealthCare Partners"
+    },
+    {
+      "symbol": "BAC",
+      "manager_id": "BRK",
+      "action": "Reduce 4.17%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 26306156,
+      "portfolio_percentage": 0.48,
+      "company_name": "Bank of America Corp."
+    },
+    {
+      "symbol": "AAPL",
+      "manager_id": "BRK",
+      "action": "Reduce 6.67%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 20000000,
+      "portfolio_percentage": 1.59,
+      "company_name": "Apple Inc."
+    },
+    {
+      "symbol": "FWONK",
+      "manager_id": "BRK",
+      "action": "Reduce 14.05%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 493445,
+      "portfolio_percentage": 0.02,
+      "company_name": "Liberty Media Corp Formula One Series C"
+    },
+    {
+      "symbol": "CHTR",
+      "manager_id": "BRK",
+      "action": "Reduce 46.54%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 923377,
+      "portfolio_percentage": 0.15,
+      "company_name": "Charter Communications"
+    },
+    {
+      "symbol": "TMUS",
+      "manager_id": "BRK",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 3883145,
+      "portfolio_percentage": 0.4,
+      "company_name": "T-Mobile US Inc."
+    },
+    {
       "symbol": "POOL",
       "manager_id": "BRK",
       "action": "Add 144.53%",
@@ -79,6 +277,50 @@
       "company_name": "Verisign Inc."
     },
     {
+      "symbol": "LEN.B",
+      "manager_id": "BRK",
+      "action": "Add 0.13%",
+      "date": "Q1 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 202,
+      "portfolio_percentage": 0.0,
+      "company_name": "Lennar Corp. CL B"
+    },
+    {
+      "symbol": "NUE",
+      "manager_id": "BRK",
+      "action": "Buy",
+      "date": "Q1 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 5756510,
+      "portfolio_percentage": 0.27,
+      "company_name": "Nucor Corp."
+    },
+    {
+      "symbol": "LEN",
+      "manager_id": "BRK",
+      "action": "Buy",
+      "date": "Q1 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 1929972,
+      "portfolio_percentage": 0.09,
+      "company_name": "Lennar Corp."
+    },
+    {
+      "symbol": "DHI",
+      "manager_id": "BRK",
+      "action": "Buy",
+      "date": "Q1 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 1512371,
+      "portfolio_percentage": 0.07,
+      "company_name": "D.R. Horton"
+    },
+    {
       "symbol": "CHTR",
       "manager_id": "BRK",
       "action": "Reduce 0.38%",
@@ -119,7 +361,7 @@
       "percentage_change": 0.0,
       "action_type": "Reduce",
       "shares": 48660056,
-      "portfolio_percentage": 0.79,
+      "portfolio_percentage": 0.78,
       "company_name": "Bank of America Corp."
     },
     {
@@ -673,7 +915,7 @@
       "company_name": "Snowflake Inc."
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "BRK",
       "action": "Sell 100.00%",
       "date": "Q2 2024",
@@ -772,7 +1014,7 @@
       "company_name": "Apple Inc."
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "BRK",
       "action": "Reduce 88.11%",
       "date": "Q1 2024",
@@ -849,7 +1091,7 @@
       "company_name": "Apple Inc."
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "BRK",
       "action": "Reduce 32.44%",
       "date": "Q4 2023",
@@ -1322,7 +1564,7 @@
       "company_name": "Citigroup Inc."
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "BRK",
       "action": "Add 0.10%",
       "date": "Q1 2023",
@@ -1509,7 +1751,7 @@
       "company_name": "Louisiana-Pacific Corp."
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "BRK",
       "action": "Add 2.65%",
       "date": "Q4 2022",
@@ -1630,7 +1872,7 @@
       "company_name": "Occidental Petroleum"
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "BRK",
       "action": "Add 16.32%",
       "date": "Q3 2022",
@@ -1806,7 +2048,7 @@
       "company_name": "Celanese Corp."
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "BRK",
       "action": "Add 13.74%",
       "date": "Q2 2022",
@@ -2048,7 +2290,7 @@
       "company_name": "Citigroup Inc."
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "BRK",
       "action": "Buy",
       "date": "Q1 2022",
@@ -10758,250 +11000,8 @@
       "shares": 1761900,
       "portfolio_percentage": 0.06,
       "company_name": "NRG Energy Inc."
-    },
-    {
-      "symbol": "COP",
-      "manager_id": "BRK",
-      "action": "Add 40.66%",
-      "date": "Q3 2008",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 24267800,
-      "portfolio_percentage": 2.54,
-      "company_name": "ConocoPhillips"
-    },
-    {
-      "symbol": "USB",
-      "manager_id": "BRK",
-      "action": "Add 6.27%",
-      "date": "Q3 2008",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 4306100,
-      "portfolio_percentage": 0.22,
-      "company_name": "U.S. Bancorp"
-    },
-    {
-      "symbol": "CDCO",
-      "manager_id": "BRK",
-      "action": "Add 0.03%",
-      "date": "Q3 2008",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 511,
-      "portfolio_percentage": 0.0,
-      "company_name": "Comdisco Holding Co."
-    },
-    {
-      "symbol": "ETN",
-      "manager_id": "BRK",
-      "action": "Buy",
-      "date": "Q3 2008",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 5817400,
-      "portfolio_percentage": 0.23,
-      "company_name": "Eaton Corp."
-    },
-    {
-      "symbol": "WFC",
-      "manager_id": "BRK",
-      "action": "Reduce 0.09%",
-      "date": "Q3 2008",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 247200,
-      "portfolio_percentage": 0.01,
-      "company_name": "Wells Fargo"
-    },
-    {
-      "symbol": "UNH",
-      "manager_id": "BRK",
-      "action": "Reduce 0.31%",
-      "date": "Q3 2008",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 20100,
-      "portfolio_percentage": 0.0,
-      "company_name": "United Health Group Inc."
-    },
-    {
-      "symbol": "ELV",
-      "manager_id": "BRK",
-      "action": "Reduce 0.47%",
-      "date": "Q3 2008",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 22700,
-      "portfolio_percentage": 0.0,
-      "company_name": "Elevance Health Inc."
-    },
-    {
-      "symbol": "LOW",
-      "manager_id": "BRK",
-      "action": "Reduce 7.14%",
-      "date": "Q3 2008",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 500000,
-      "portfolio_percentage": 0.02,
-      "company_name": "Lowe's Cos."
-    },
-    {
-      "symbol": "HD",
-      "manager_id": "BRK",
-      "action": "Reduce 11.50%",
-      "date": "Q3 2008",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 481000,
-      "portfolio_percentage": 0.02,
-      "company_name": "Home Depot"
-    },
-    {
-      "symbol": "KMX",
-      "manager_id": "BRK",
-      "action": "Reduce 13.41%",
-      "date": "Q3 2008",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 2855900,
-      "portfolio_percentage": 0.06,
-      "company_name": "CarMax Inc."
-    },
-    {
-      "symbol": "BAC",
-      "manager_id": "BRK",
-      "action": "Reduce 45.05%",
-      "date": "Q3 2008",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 4100000,
-      "portfolio_percentage": 0.21,
-      "company_name": "Bank of America Corp."
-    },
-    {
-      "symbol": "COP",
-      "manager_id": "BRK",
-      "action": "Add 240.90%",
-      "date": "Q2 2008",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 42179300,
-      "portfolio_percentage": 6.27,
-      "company_name": "ConocoPhillips"
-    },
-    {
-      "symbol": "IR",
-      "manager_id": "BRK",
-      "action": "Add 234.10%",
-      "date": "Q2 2008",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 2192563,
-      "portfolio_percentage": 0.13,
-      "company_name": "Ingersoll Rand Inc."
-    },
-    {
-      "symbol": "SNY",
-      "manager_id": "BRK",
-      "action": "Add 8.84%",
-      "date": "Q2 2008",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 317200,
-      "portfolio_percentage": 0.02,
-      "company_name": "Sanofi Aventis"
-    },
-    {
-      "symbol": "NRG",
-      "manager_id": "BRK",
-      "action": "Buy",
-      "date": "Q2 2008",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 3238100,
-      "portfolio_percentage": 0.22,
-      "company_name": "NRG Energy Inc."
-    },
-    {
-      "symbol": "BUD",
-      "manager_id": "BRK",
-      "action": "Reduce 61.07%",
-      "date": "Q2 2008",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 21718200,
-      "portfolio_percentage": 2.12,
-      "company_name": "Anheuser-Busch InBev"
-    },
-    {
-      "symbol": "IR",
-      "manager_id": "BRK",
-      "action": "Add 47.13%",
-      "date": "Q1 2008",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 300000,
-      "portfolio_percentage": 0.02,
-      "company_name": "Ingersoll Rand Inc."
-    },
-    {
-      "symbol": "ELV",
-      "manager_id": "BRK",
-      "action": "Add 6.67%",
-      "date": "Q1 2008",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 300000,
-      "portfolio_percentage": 0.02,
-      "company_name": "Elevance Health Inc."
-    },
-    {
-      "symbol": "UNH",
-      "manager_id": "BRK",
-      "action": "Add 6.67%",
-      "date": "Q1 2008",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 400000,
-      "portfolio_percentage": 0.02,
-      "company_name": "United Health Group Inc."
-    },
-    {
-      "symbol": "BNI",
-      "manager_id": "BRK",
-      "action": "Add 4.86%",
-      "date": "Q1 2008",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 2956600,
-      "portfolio_percentage": 0.41,
-      "company_name": "Burlington Northern Santa Fe"
-    },
-    {
-      "symbol": "MDLZ",
-      "manager_id": "BRK",
-      "action": "Add 4.44%",
-      "date": "Q1 2008",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 5878700,
-      "portfolio_percentage": 0.27,
-      "company_name": "Mondelez International"
-    },
-    {
-      "symbol": "USB",
-      "manager_id": "BRK",
-      "action": "Add 1.55%",
-      "date": "Q1 2008",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 1049100,
-      "portfolio_percentage": 0.05,
-      "company_name": "U.S. Bancorp"
     }
   ],
-  "timestamp": "2025-10-01T06:06:07.057039",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.523833",
+  "scraped_date": "2025-10-02"
 }

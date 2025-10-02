@@ -2,6 +2,72 @@
   "manager_id": "ic",
   "activities": [
     {
+      "symbol": "CTRI",
+      "manager_id": "ic",
+      "action": "Add 157.55%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 3917382,
+      "portfolio_percentage": 1.11,
+      "company_name": "Centuri Holdings Inc"
+    },
+    {
+      "symbol": "IEP",
+      "manager_id": "ic",
+      "action": "Add 9.76%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 43995449,
+      "portfolio_percentage": 4.49,
+      "company_name": "Icahn Enterprises"
+    },
+    {
+      "symbol": "CVI",
+      "manager_id": "ic",
+      "action": "Add 2.75%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1884201,
+      "portfolio_percentage": 0.64,
+      "company_name": "CVR Energy Inc."
+    },
+    {
+      "symbol": "UAN",
+      "manager_id": "ic",
+      "action": "Add 1.59%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 65119,
+      "portfolio_percentage": 0.07,
+      "company_name": "CVR Partners LP"
+    },
+    {
+      "symbol": "DAN",
+      "manager_id": "ic",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 14286505,
+      "portfolio_percentage": 2.54,
+      "company_name": "Dana Inc."
+    },
+    {
+      "symbol": "ILMN",
+      "manager_id": "ic",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 220000,
+      "portfolio_percentage": 0.23,
+      "company_name": "Illumina Inc."
+    },
+    {
       "symbol": "ILMN",
       "manager_id": "ic",
       "action": "Add 450.00%",
@@ -3346,6 +3412,6 @@
       "company_name": "WebMD Health Corp."
     }
   ],
-  "timestamp": "2025-10-01T06:06:06.991388",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.494428",
+  "scraped_date": "2025-10-02"
 }

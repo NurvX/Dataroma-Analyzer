@@ -2,6 +2,28 @@
   "manager_id": "HC",
   "activities": [
     {
+      "symbol": "PDD",
+      "manager_id": "HC",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 4608000,
+      "portfolio_percentage": 17.93,
+      "company_name": "Pinduoduo Inc."
+    },
+    {
+      "symbol": "BAC",
+      "manager_id": "HC",
+      "action": "Reduce 24.66%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 3415246,
+      "portfolio_percentage": 6.01,
+      "company_name": "Bank of America Corp."
+    },
+    {
       "symbol": "GOOG",
       "manager_id": "HC",
       "action": "Reduce 19.47%",
@@ -343,6 +365,6 @@
       "company_name": "Alibaba Group Holdings"
     }
   ],
-  "timestamp": "2025-10-01T06:06:06.990943",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.460630",
+  "scraped_date": "2025-10-02"
 }

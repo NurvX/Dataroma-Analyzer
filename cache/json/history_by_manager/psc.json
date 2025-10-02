@@ -2,6 +2,72 @@
   "manager_id": "psc",
   "activities": [
     {
+      "symbol": "GOOGL",
+      "manager_id": "psc",
+      "action": "Add 20.84%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 925000,
+      "portfolio_percentage": 1.19,
+      "company_name": "Alphabet Inc."
+    },
+    {
+      "symbol": "HTZ",
+      "manager_id": "psc",
+      "action": "Add 1.61%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 241127,
+      "portfolio_percentage": 0.01,
+      "company_name": "Hertz Global Hldgs Inc."
+    },
+    {
+      "symbol": "HLT",
+      "manager_id": "psc",
+      "action": "Add 0.99%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 29808,
+      "portfolio_percentage": 0.06,
+      "company_name": "Hilton Worldwide Holdings"
+    },
+    {
+      "symbol": "BN",
+      "manager_id": "psc",
+      "action": "Add 0.38%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 155740,
+      "portfolio_percentage": 0.07,
+      "company_name": "Brookfield Corp."
+    },
+    {
+      "symbol": "AMZN",
+      "manager_id": "psc",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 5823316,
+      "portfolio_percentage": 9.31,
+      "company_name": "Amazon.com Inc."
+    },
+    {
+      "symbol": "CP",
+      "manager_id": "psc",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 14799796,
+      "portfolio_percentage": 8.71,
+      "company_name": "Canadian Pacific Kansas City"
+    },
+    {
       "symbol": "HTZ",
       "manager_id": "psc",
       "action": "Add 17.98%",
@@ -4281,6 +4347,6 @@
       "company_name": "Staples Inc."
     }
   ],
-  "timestamp": "2025-10-01T06:06:07.045783",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.480086",
+  "scraped_date": "2025-10-02"
 }

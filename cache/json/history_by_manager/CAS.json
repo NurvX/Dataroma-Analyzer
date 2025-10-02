@@ -2,6 +2,39 @@
   "manager_id": "CAS",
   "activities": [
     {
+      "symbol": "HGV",
+      "manager_id": "CAS",
+      "action": "Reduce 0.99%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 56838,
+      "portfolio_percentage": 0.11,
+      "company_name": "Hilton Grand Vacations Inc."
+    },
+    {
+      "symbol": "COF",
+      "manager_id": "CAS",
+      "action": "Reduce 1.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 7114,
+      "portfolio_percentage": 0.07,
+      "company_name": "Capital One Financial"
+    },
+    {
+      "symbol": "CVNA",
+      "manager_id": "CAS",
+      "action": "Reduce 13.42%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 762761,
+      "portfolio_percentage": 12.52,
+      "company_name": "Carvana Co."
+    },
+    {
       "symbol": "CVNA",
       "manager_id": "CAS",
       "action": "Reduce 10.86%",
@@ -1113,6 +1146,6 @@
       "company_name": "United Rentals"
     }
   ],
-  "timestamp": "2025-10-01T06:06:07.055937",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.587438",
+  "scraped_date": "2025-10-02"
 }

@@ -8318,7 +8318,7 @@
       "company_name": "Cushman & Wakefield Plc"
     },
     {
-      "symbol": "WBA",
+      "symbol": "WBA-OLD",
       "manager_id": "OFALX",
       "action": "Sell 100.00%",
       "date": "Q2 2023",
@@ -8725,7 +8725,7 @@
       "company_name": "Comcast Corp."
     },
     {
-      "symbol": "WBA",
+      "symbol": "WBA-OLD",
       "manager_id": "OFALX",
       "action": "Add 1.17%",
       "date": "Q1 2023",
@@ -9693,7 +9693,7 @@
       "company_name": "International Flavors & Fragrances Inc."
     },
     {
-      "symbol": "WBA",
+      "symbol": "WBA-OLD",
       "manager_id": "OFALX",
       "action": "Reduce 0.79%",
       "date": "Q4 2022",
@@ -10342,7 +10342,7 @@
       "company_name": "Baxter International Inc."
     },
     {
-      "symbol": "WBA",
+      "symbol": "WBA-OLD",
       "manager_id": "OFALX",
       "action": "Add 19.28%",
       "date": "Q3 2022",
@@ -11002,6 +11002,6 @@
       "company_name": "Fortive Corp."
     }
   ],
-  "timestamp": "2025-10-01T06:06:06.811053",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.805032",
+  "scraped_date": "2025-10-02"
 }

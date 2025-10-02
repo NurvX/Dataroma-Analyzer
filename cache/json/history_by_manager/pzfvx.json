@@ -2081,7 +2081,7 @@
       "company_name": "Booking Holdings Inc."
     },
     {
-      "symbol": "SKX",
+      "symbol": "SKX-OLD",
       "manager_id": "pzfvx",
       "action": "Sell 100.00%",
       "date": "Q4 2023",
@@ -2279,7 +2279,7 @@
       "company_name": "GE Aerospace"
     },
     {
-      "symbol": "SKX",
+      "symbol": "SKX-OLD",
       "manager_id": "pzfvx",
       "action": "Reduce 46.86%",
       "date": "Q3 2023",
@@ -2444,7 +2444,7 @@
       "company_name": "Booking Holdings Inc."
     },
     {
-      "symbol": "SKX",
+      "symbol": "SKX-OLD",
       "manager_id": "pzfvx",
       "action": "Reduce 32.50%",
       "date": "Q2 2023",
@@ -2785,7 +2785,7 @@
       "company_name": "Axis Capital Holdings Ltd."
     },
     {
-      "symbol": "SKX",
+      "symbol": "SKX-OLD",
       "manager_id": "pzfvx",
       "action": "Reduce 31.34%",
       "date": "Q1 2023",
@@ -3016,7 +3016,7 @@
       "company_name": "Edison Int'l"
     },
     {
-      "symbol": "SKX",
+      "symbol": "SKX-OLD",
       "manager_id": "pzfvx",
       "action": "Reduce 21.28%",
       "date": "Q4 2022",
@@ -3621,7 +3621,7 @@
       "company_name": "Cognizant Technology Solutions"
     },
     {
-      "symbol": "SKX",
+      "symbol": "SKX-OLD",
       "manager_id": "pzfvx",
       "action": "Add 8.74%",
       "date": "Q2 2022",
@@ -4017,7 +4017,7 @@
       "company_name": "Booking Holdings Inc."
     },
     {
-      "symbol": "SKX",
+      "symbol": "SKX-OLD",
       "manager_id": "pzfvx",
       "action": "Add 3.03%",
       "date": "Q1 2022",
@@ -4281,7 +4281,7 @@
       "company_name": "NRG Energy Inc."
     },
     {
-      "symbol": "SKX",
+      "symbol": "SKX-OLD",
       "manager_id": "pzfvx",
       "action": "Add 14.23%",
       "date": "Q4 2021",
@@ -4666,7 +4666,7 @@
       "company_name": "Mohawk Industries"
     },
     {
-      "symbol": "SKX",
+      "symbol": "SKX-OLD",
       "manager_id": "pzfvx",
       "action": "Add 9.37%",
       "date": "Q3 2021",
@@ -4776,7 +4776,7 @@
       "company_name": "Exxon Mobil Corp."
     },
     {
-      "symbol": "SKX",
+      "symbol": "SKX-OLD",
       "manager_id": "pzfvx",
       "action": "Add 95.15%",
       "date": "Q2 2021",
@@ -5293,7 +5293,7 @@
       "company_name": "Cenovus Energy Inc."
     },
     {
-      "symbol": "SKX",
+      "symbol": "SKX-OLD",
       "manager_id": "pzfvx",
       "action": "Buy",
       "date": "Q1 2021",
@@ -11002,6 +11002,6 @@
       "company_name": "Bank of America Corp."
     }
   ],
-  "timestamp": "2025-10-01T06:06:06.829157",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.823680",
+  "scraped_date": "2025-10-02"
 }

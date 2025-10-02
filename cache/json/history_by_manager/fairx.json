@@ -2,6 +2,50 @@
   "manager_id": "fairx",
   "activities": [
     {
+      "symbol": "OZK",
+      "manager_id": "fairx",
+      "action": "Add 45.15%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 285150,
+      "portfolio_percentage": 1.09,
+      "company_name": "Bank OZK"
+    },
+    {
+      "symbol": "OXY",
+      "manager_id": "fairx",
+      "action": "Add 27.26%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 14800,
+      "portfolio_percentage": 0.05,
+      "company_name": "Occidental Petroleum"
+    },
+    {
+      "symbol": "JOE",
+      "manager_id": "fairx",
+      "action": "Reduce 0.01%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 2700,
+      "portfolio_percentage": 0.01,
+      "company_name": "St. Joe Co."
+    },
+    {
+      "symbol": "BRK.B",
+      "manager_id": "fairx",
+      "action": "Reduce 0.25%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 120,
+      "portfolio_percentage": 0.0,
+      "company_name": "Berkshire Hathaway CL B"
+    },
+    {
       "symbol": "OXY",
       "manager_id": "fairx",
       "action": "Add 503.33%",
@@ -618,7 +662,7 @@
       "company_name": "Intel Corp."
     },
     {
-      "symbol": "WBA",
+      "symbol": "WBA-OLD",
       "manager_id": "fairx",
       "action": "Sell 100.00%",
       "date": "Q2 2023",
@@ -849,7 +893,7 @@
       "company_name": "Enterprise Products Partners LP"
     },
     {
-      "symbol": "WBA",
+      "symbol": "WBA-OLD",
       "manager_id": "fairx",
       "action": "Add 7.25%",
       "date": "Q3 2022",
@@ -1080,7 +1124,7 @@
       "company_name": "Citigroup Inc."
     },
     {
-      "symbol": "WBA",
+      "symbol": "WBA-OLD",
       "manager_id": "fairx",
       "action": "Add 187.50%",
       "date": "Q1 2022",
@@ -1344,7 +1388,7 @@
       "company_name": "Citigroup Inc."
     },
     {
-      "symbol": "WBA",
+      "symbol": "WBA-OLD",
       "manager_id": "fairx",
       "action": "Buy",
       "date": "Q4 2021",
@@ -9000,6 +9044,6 @@
       "company_name": "Duke Energy"
     }
   ],
-  "timestamp": "2025-10-01T06:06:07.038214",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.426506",
+  "scraped_date": "2025-10-02"
 }

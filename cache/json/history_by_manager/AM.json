@@ -2,6 +2,424 @@
   "manager_id": "AM",
   "activities": [
     {
+      "symbol": "UNH",
+      "manager_id": "AM",
+      "action": "Add 1300.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 2275000,
+      "portfolio_percentage": 11.0,
+      "company_name": "United Health Group Inc."
+    },
+    {
+      "symbol": "XYZ",
+      "manager_id": "AM",
+      "action": "Add 755.73%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 566800,
+      "portfolio_percentage": 0.6,
+      "company_name": "Block Inc."
+    },
+    {
+      "symbol": "NVDA",
+      "manager_id": "AM",
+      "action": "Add 483.33%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1450000,
+      "portfolio_percentage": 3.55,
+      "company_name": "NVIDIA Corp."
+    },
+    {
+      "symbol": "TSM",
+      "manager_id": "AM",
+      "action": "Add 279.63%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 755000,
+      "portfolio_percentage": 2.65,
+      "company_name": "Taiwan Semiconductor S.A."
+    },
+    {
+      "symbol": "MU",
+      "manager_id": "AM",
+      "action": "Add 106.25%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 425000,
+      "portfolio_percentage": 0.81,
+      "company_name": "Micron Technology Inc."
+    },
+    {
+      "symbol": "LHX",
+      "manager_id": "AM",
+      "action": "Add 16.67%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 50000,
+      "portfolio_percentage": 0.19,
+      "company_name": "L3Harris Technologies Inc."
+    },
+    {
+      "symbol": "AMZN",
+      "manager_id": "AM",
+      "action": "Add 7.57%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 190000,
+      "portfolio_percentage": 0.65,
+      "company_name": "Amazon.com Inc."
+    },
+    {
+      "symbol": "DB",
+      "manager_id": "AM",
+      "action": "Add 6.67%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 250000,
+      "portfolio_percentage": 0.11,
+      "company_name": "Deutsche Bank AG"
+    },
+    {
+      "symbol": "GLW",
+      "manager_id": "AM",
+      "action": "Add 0.37%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 6371,
+      "portfolio_percentage": 0.01,
+      "company_name": "Corning Inc."
+    },
+    {
+      "symbol": "INTC",
+      "manager_id": "AM",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 8000000,
+      "portfolio_percentage": 2.78,
+      "company_name": "Intel Corp."
+    },
+    {
+      "symbol": "RTX",
+      "manager_id": "AM",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 585000,
+      "portfolio_percentage": 1.32,
+      "company_name": "RTX Corp."
+    },
+    {
+      "symbol": "IQV",
+      "manager_id": "AM",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 300000,
+      "portfolio_percentage": 0.73,
+      "company_name": "IQVIA Holdings Inc."
+    },
+    {
+      "symbol": "UAL",
+      "manager_id": "AM",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 550000,
+      "portfolio_percentage": 0.68,
+      "company_name": "United Airlines Holdings Inc."
+    },
+    {
+      "symbol": "DAL",
+      "manager_id": "AM",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 550000,
+      "portfolio_percentage": 0.42,
+      "company_name": "Delta Air Lines Inc."
+    },
+    {
+      "symbol": "WHR",
+      "manager_id": "AM",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 266092,
+      "portfolio_percentage": 0.42,
+      "company_name": "Whirlpool Corp."
+    },
+    {
+      "symbol": "GT",
+      "manager_id": "AM",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 861782,
+      "portfolio_percentage": 0.14,
+      "company_name": "Goodyear Tire & Rubber"
+    },
+    {
+      "symbol": "MHK",
+      "manager_id": "AM",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 65000,
+      "portfolio_percentage": 0.11,
+      "company_name": "Mohawk Industries"
+    },
+    {
+      "symbol": "MSFT",
+      "manager_id": "AM",
+      "action": "Reduce 1.96%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 10000,
+      "portfolio_percentage": 0.08,
+      "company_name": "Microsoft Corp."
+    },
+    {
+      "symbol": "NRG",
+      "manager_id": "AM",
+      "action": "Reduce 3.41%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 70000,
+      "portfolio_percentage": 0.17,
+      "company_name": "NRG Energy Inc."
+    },
+    {
+      "symbol": "CZR",
+      "manager_id": "AM",
+      "action": "Reduce 4.55%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 100000,
+      "portfolio_percentage": 0.04,
+      "company_name": "Caesars Entertainment"
+    },
+    {
+      "symbol": "LYFT",
+      "manager_id": "AM",
+      "action": "Reduce 11.11%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1000000,
+      "portfolio_percentage": 0.25,
+      "company_name": "Lyft Inc."
+    },
+    {
+      "symbol": "JD",
+      "manager_id": "AM",
+      "action": "Reduce 13.04%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1050000,
+      "portfolio_percentage": 0.53,
+      "company_name": "JD.com Inc."
+    },
+    {
+      "symbol": "UBER",
+      "manager_id": "AM",
+      "action": "Reduce 14.06%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 450000,
+      "portfolio_percentage": 0.65,
+      "company_name": "Uber Technologies Inc."
+    },
+    {
+      "symbol": "BIDU",
+      "manager_id": "AM",
+      "action": "Reduce 19.35%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 150000,
+      "portfolio_percentage": 0.2,
+      "company_name": "Baidu Inc."
+    },
+    {
+      "symbol": "LRCX",
+      "manager_id": "AM",
+      "action": "Reduce 20.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 100000,
+      "portfolio_percentage": 0.15,
+      "company_name": "Lam Research"
+    },
+    {
+      "symbol": "BEKE",
+      "manager_id": "AM",
+      "action": "Reduce 21.05%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 400000,
+      "portfolio_percentage": 0.11,
+      "company_name": "KE Holdings Inc."
+    },
+    {
+      "symbol": "VST",
+      "manager_id": "AM",
+      "action": "Reduce 21.74%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 500000,
+      "portfolio_percentage": 1.5,
+      "company_name": "Vistra Corp."
+    },
+    {
+      "symbol": "BABA",
+      "manager_id": "AM",
+      "action": "Reduce 23.43%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 2162729,
+      "portfolio_percentage": 3.8,
+      "company_name": "Alibaba Group Holdings"
+    },
+    {
+      "symbol": "GOOG",
+      "manager_id": "AM",
+      "action": "Reduce 25.37%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 510000,
+      "portfolio_percentage": 1.4,
+      "company_name": "Alphabet Inc. CL C"
+    },
+    {
+      "symbol": "META",
+      "manager_id": "AM",
+      "action": "Reduce 27.27%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 150000,
+      "portfolio_percentage": 1.72,
+      "company_name": "Meta Platforms Inc."
+    },
+    {
+      "symbol": "PDD",
+      "manager_id": "AM",
+      "action": "Reduce 54.23%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 2370000,
+      "portfolio_percentage": 3.85,
+      "company_name": "Pinduoduo Inc."
+    },
+    {
+      "symbol": "ORCL",
+      "manager_id": "AM",
+      "action": "Reduce 78.57%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 550000,
+      "portfolio_percentage": 1.87,
+      "company_name": "Oracle Corp."
+    },
+    {
+      "symbol": "FXI",
+      "manager_id": "AM",
+      "action": "Reduce 82.14%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 4600000,
+      "portfolio_percentage": 2.62,
+      "company_name": "Ishares China Large Cap ETF"
+    },
+    {
+      "symbol": "WYNN",
+      "manager_id": "AM",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 320000,
+      "portfolio_percentage": 0.48,
+      "company_name": "Wynn Resorts Ltd."
+    },
+    {
+      "symbol": "LVS",
+      "manager_id": "AM",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 590000,
+      "portfolio_percentage": 0.41,
+      "company_name": "Las Vegas Sands Corp."
+    },
+    {
+      "symbol": "AVGO",
+      "manager_id": "AM",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 130000,
+      "portfolio_percentage": 0.39,
+      "company_name": "Broadcom Inc."
+    },
+    {
+      "symbol": "CHKEZ",
+      "manager_id": "AM",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 117321,
+      "portfolio_percentage": 0.22,
+      "company_name": "Chesapeake Energy Corp. CL B WTS"
+    },
+    {
+      "symbol": "CHKEL",
+      "manager_id": "AM",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 65398,
+      "portfolio_percentage": 0.12,
+      "company_name": "Chesapeake Energy Corp. WTS"
+    },
+    {
       "symbol": "UBER",
       "manager_id": "AM",
       "action": "Add 113.33%",
@@ -4600,7 +5018,7 @@
       "company_name": "Gap Inc."
     },
     {
-      "symbol": "FL",
+      "symbol": "FL-OLD",
       "manager_id": "AM",
       "action": "Sell 100.00%",
       "date": "Q1 2022",
@@ -4710,7 +5128,7 @@
       "company_name": "Gap Inc."
     },
     {
-      "symbol": "FL",
+      "symbol": "FL-OLD",
       "manager_id": "AM",
       "action": "Buy",
       "date": "Q4 2021",
@@ -4974,7 +5392,7 @@
       "company_name": "Mastercard Inc."
     },
     {
-      "symbol": "ETWO",
+      "symbol": "ETWO-OLD",
       "manager_id": "AM",
       "action": "Sell 100.00%",
       "date": "Q4 2021",
@@ -5491,7 +5909,7 @@
       "company_name": "Emerson Electric"
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "AM",
       "action": "Sell 100.00%",
       "date": "Q3 2021",
@@ -6019,7 +6437,7 @@
       "company_name": "Energy Transfer LP"
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "AM",
       "action": "Reduce 57.18%",
       "date": "Q2 2021",
@@ -6294,7 +6712,7 @@
       "company_name": "Expand Energy Corp."
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "AM",
       "action": "Buy",
       "date": "Q1 2021",
@@ -6371,7 +6789,7 @@
       "company_name": "iQIYI Inc."
     },
     {
-      "symbol": "ETWO",
+      "symbol": "ETWO-OLD",
       "manager_id": "AM",
       "action": "Buy",
       "date": "Q1 2021",
@@ -8846,7 +9264,7 @@
       "company_name": "Boeing Co."
     },
     {
-      "symbol": "COOP",
+      "symbol": "COOP-OLD",
       "manager_id": "AM",
       "action": "Sell 100.00%",
       "date": "Q4 2019",
@@ -9022,7 +9440,7 @@
       "company_name": "United Health Group Inc."
     },
     {
-      "symbol": "COOP",
+      "symbol": "COOP-OLD",
       "manager_id": "AM",
       "action": "Reduce 49.42%",
       "date": "Q3 2019",
@@ -9242,7 +9660,7 @@
       "company_name": "Cheniere Energy Inc."
     },
     {
-      "symbol": "COOP",
+      "symbol": "COOP-OLD",
       "manager_id": "AM",
       "action": "Reduce 50.57%",
       "date": "Q2 2019",
@@ -9473,7 +9891,7 @@
       "company_name": "T-Mobile US Inc."
     },
     {
-      "symbol": "COOP",
+      "symbol": "COOP-OLD",
       "manager_id": "AM",
       "action": "Reduce 36.43%",
       "date": "Q1 2019",
@@ -9682,7 +10100,7 @@
       "company_name": "TerraForm Power Inc."
     },
     {
-      "symbol": "COOP",
+      "symbol": "COOP-OLD",
       "manager_id": "AM",
       "action": "Reduce 21.50%",
       "date": "Q4 2018",
@@ -10001,7 +10419,7 @@
       "company_name": "Venator Materials PLC"
     },
     {
-      "symbol": "COOP",
+      "symbol": "COOP-OLD",
       "manager_id": "AM",
       "action": "Add 4530.07%",
       "date": "Q3 2018",
@@ -10582,426 +11000,8 @@
       "shares": 150700,
       "portfolio_percentage": 0.07,
       "company_name": "Knight-Swift Transportation"
-    },
-    {
-      "symbol": "MU",
-      "manager_id": "AM",
-      "action": "Add 14.47%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 5122800,
-      "portfolio_percentage": 3.11,
-      "company_name": "Micron Technology Inc."
-    },
-    {
-      "symbol": "PAH",
-      "manager_id": "AM",
-      "action": "Add 14.24%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 540746,
-      "portfolio_percentage": 0.07,
-      "company_name": "Platform Specialty Products Corp."
-    },
-    {
-      "symbol": "WFC",
-      "manager_id": "AM",
-      "action": "Add 10.85%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 318646,
-      "portfolio_percentage": 0.2,
-      "company_name": "Wells Fargo"
-    },
-    {
-      "symbol": "PCG",
-      "manager_id": "AM",
-      "action": "Add 8.73%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 143967,
-      "portfolio_percentage": 0.07,
-      "company_name": "PG&E Corp."
-    },
-    {
-      "symbol": "KMT",
-      "manager_id": "AM",
-      "action": "Add 6.87%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 129750,
-      "portfolio_percentage": 0.05,
-      "company_name": "Kennametal Inc."
-    },
-    {
-      "symbol": "LRCX",
-      "manager_id": "AM",
-      "action": "Add 6.52%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 844140,
-      "portfolio_percentage": 0.17,
-      "company_name": "Lam Research"
-    },
-    {
-      "symbol": "SUM-OLD",
-      "manager_id": "AM",
-      "action": "Add 4.94%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 121508,
-      "portfolio_percentage": 0.04,
-      "company_name": "Summit Materials Inc."
-    },
-    {
-      "symbol": "KEY",
-      "manager_id": "AM",
-      "action": "Buy",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 5351561,
-      "portfolio_percentage": 1.21,
-      "company_name": "KeyCorp"
-    },
-    {
-      "symbol": "GEN",
-      "manager_id": "AM",
-      "action": "Buy",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 3800000,
-      "portfolio_percentage": 0.91,
-      "company_name": "Gen Digital Inc."
-    },
-    {
-      "symbol": "CFG",
-      "manager_id": "AM",
-      "action": "Buy",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 1257694,
-      "portfolio_percentage": 0.57,
-      "company_name": "Citizens Financial Group Inc."
-    },
-    {
-      "symbol": "VST",
-      "manager_id": "AM",
-      "action": "Buy",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 1870951,
-      "portfolio_percentage": 0.51,
-      "company_name": "Vistra Corp."
-    },
-    {
-      "symbol": "EDU",
-      "manager_id": "AM",
-      "action": "Buy",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 360189,
-      "portfolio_percentage": 0.39,
-      "company_name": "New Oriental Education & Technology"
-    },
-    {
-      "symbol": "NXPI",
-      "manager_id": "AM",
-      "action": "Buy",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 219272,
-      "portfolio_percentage": 0.28,
-      "company_name": "NXP Semiconductors NV"
-    },
-    {
-      "symbol": "UAL",
-      "manager_id": "AM",
-      "action": "Reduce 0.00%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 13,
-      "portfolio_percentage": 0.0,
-      "company_name": "United Airlines Holdings Inc."
-    },
-    {
-      "symbol": "OC",
-      "manager_id": "AM",
-      "action": "Reduce 0.53%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 7540,
-      "portfolio_percentage": 0.01,
-      "company_name": "Owens Corning"
-    },
-    {
-      "symbol": "UBS",
-      "manager_id": "AM",
-      "action": "Reduce 1.82%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 126919,
-      "portfolio_percentage": 0.02,
-      "company_name": "UBS AG"
-    },
-    {
-      "symbol": "VNTRF",
-      "manager_id": "AM",
-      "action": "Reduce 2.00%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 35787,
-      "portfolio_percentage": 0.01,
-      "company_name": "Venator Materials PLC"
-    },
-    {
-      "symbol": "TMO",
-      "manager_id": "AM",
-      "action": "Reduce 2.01%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 12000,
-      "portfolio_percentage": 0.03,
-      "company_name": "Thermo Fisher Scientific"
-    },
-    {
-      "symbol": "TMUS",
-      "manager_id": "AM",
-      "action": "Reduce 3.61%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 150000,
-      "portfolio_percentage": 0.1,
-      "company_name": "T-Mobile US Inc."
-    },
-    {
-      "symbol": "AGN",
-      "manager_id": "AM",
-      "action": "Reduce 8.38%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 310000,
-      "portfolio_percentage": 0.6,
-      "company_name": "Allergan Plc"
-    },
-    {
-      "symbol": "AY-OLD",
-      "manager_id": "AM",
-      "action": "Reduce 9.67%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 370536,
-      "portfolio_percentage": 0.09,
-      "company_name": "Atlantica Yield plc"
-    },
-    {
-      "symbol": "SYK",
-      "manager_id": "AM",
-      "action": "Reduce 14.82%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 55000,
-      "portfolio_percentage": 0.11,
-      "company_name": "Stryker Corp."
-    },
-    {
-      "symbol": "CNC",
-      "manager_id": "AM",
-      "action": "Reduce 16.16%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 197801,
-      "portfolio_percentage": 0.28,
-      "company_name": "Centene Corp."
-    },
-    {
-      "symbol": "HUN",
-      "manager_id": "AM",
-      "action": "Reduce 16.80%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 627589,
-      "portfolio_percentage": 0.21,
-      "company_name": "Huntsman Corp."
-    },
-    {
-      "symbol": "TERP",
-      "manager_id": "AM",
-      "action": "Reduce 17.51%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 722645,
-      "portfolio_percentage": 0.1,
-      "company_name": "TerraForm Power Inc."
-    },
-    {
-      "symbol": "META",
-      "manager_id": "AM",
-      "action": "Reduce 18.28%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 1135000,
-      "portfolio_percentage": 2.55,
-      "company_name": "Meta Platforms Inc."
-    },
-    {
-      "symbol": "GOOG",
-      "manager_id": "AM",
-      "action": "Reduce 18.44%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 1496940,
-      "portfolio_percentage": 0.97,
-      "company_name": "Alphabet Inc. CL C"
-    },
-    {
-      "symbol": "AABA",
-      "manager_id": "AM",
-      "action": "Reduce 20.05%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 1608300,
-      "portfolio_percentage": 1.36,
-      "company_name": "Altaba Inc."
-    },
-    {
-      "symbol": "WPZ",
-      "manager_id": "AM",
-      "action": "Reduce 22.16%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 603629,
-      "portfolio_percentage": 0.28,
-      "company_name": "Williams Partners LP"
-    },
-    {
-      "symbol": "XPO",
-      "manager_id": "AM",
-      "action": "Reduce 22.88%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 488025,
-      "portfolio_percentage": 0.57,
-      "company_name": "XPO Logistics"
-    },
-    {
-      "symbol": "DG",
-      "manager_id": "AM",
-      "action": "Reduce 24.37%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 296057,
-      "portfolio_percentage": 0.34,
-      "company_name": "Dollar General"
-    },
-    {
-      "symbol": "UNH",
-      "manager_id": "AM",
-      "action": "Reduce 25.08%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 177199,
-      "portfolio_percentage": 0.5,
-      "company_name": "United Health Group Inc."
-    },
-    {
-      "symbol": "BAC",
-      "manager_id": "AM",
-      "action": "Reduce 33.94%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 3721818,
-      "portfolio_percentage": 1.21,
-      "company_name": "Bank of America Corp."
-    },
-    {
-      "symbol": "BABA",
-      "manager_id": "AM",
-      "action": "Reduce 34.78%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 1409642,
-      "portfolio_percentage": 3.02,
-      "company_name": "Alibaba Group Holdings"
-    },
-    {
-      "symbol": "BSX",
-      "manager_id": "AM",
-      "action": "Reduce 35.35%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 1382600,
-      "portfolio_percentage": 0.53,
-      "company_name": "Boston Scientific"
-    },
-    {
-      "symbol": "ALLY",
-      "manager_id": "AM",
-      "action": "Reduce 39.38%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 3130152,
-      "portfolio_percentage": 0.95,
-      "company_name": "Ally Financial Inc."
-    },
-    {
-      "symbol": "COOP",
-      "manager_id": "AM",
-      "action": "Reduce 58.60%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 159883,
-      "portfolio_percentage": 0.03,
-      "company_name": "Mr. Cooper Group Inc."
-    },
-    {
-      "symbol": "NRG",
-      "manager_id": "AM",
-      "action": "Reduce 61.80%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 4162161,
-      "portfolio_percentage": 1.47,
-      "company_name": "NRG Energy Inc."
     }
   ],
-  "timestamp": "2025-10-01T06:06:06.994347",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.406956",
+  "scraped_date": "2025-10-02"
 }

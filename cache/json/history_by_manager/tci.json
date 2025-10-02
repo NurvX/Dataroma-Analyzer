@@ -2,6 +2,116 @@
   "manager_id": "tci",
   "activities": [
     {
+      "symbol": "V",
+      "manager_id": "tci",
+      "action": "Add 14.61%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 2429996,
+      "portfolio_percentage": 1.7,
+      "company_name": "Visa Inc."
+    },
+    {
+      "symbol": "SPGI",
+      "manager_id": "tci",
+      "action": "Add 7.05%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 730354,
+      "portfolio_percentage": 0.76,
+      "company_name": "S&P Global Inc."
+    },
+    {
+      "symbol": "MSFT",
+      "manager_id": "tci",
+      "action": "Add 1.53%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 265350,
+      "portfolio_percentage": 0.26,
+      "company_name": "Microsoft Corp."
+    },
+    {
+      "symbol": "FER",
+      "manager_id": "tci",
+      "action": "Add 0.71%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 137238,
+      "portfolio_percentage": 0.01,
+      "company_name": "Ferrovial Se"
+    },
+    {
+      "symbol": "MCO",
+      "manager_id": "tci",
+      "action": "Add 0.64%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 83872,
+      "portfolio_percentage": 0.08,
+      "company_name": "Moody's Corp."
+    },
+    {
+      "symbol": "GE",
+      "manager_id": "tci",
+      "action": "Reduce 0.13%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 60516,
+      "portfolio_percentage": 0.03,
+      "company_name": "GE Aerospace"
+    },
+    {
+      "symbol": "CP",
+      "manager_id": "tci",
+      "action": "Reduce 3.80%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 2086400,
+      "portfolio_percentage": 0.33,
+      "company_name": "Canadian Pacific Kansas City"
+    },
+    {
+      "symbol": "GOOG",
+      "manager_id": "tci",
+      "action": "Reduce 6.42%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 889500,
+      "portfolio_percentage": 0.31,
+      "company_name": "Alphabet Inc. CL C"
+    },
+    {
+      "symbol": "CNI",
+      "manager_id": "tci",
+      "action": "Reduce 14.54%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 3910012,
+      "portfolio_percentage": 0.8,
+      "company_name": "Canadian Natl Railway Co."
+    },
+    {
+      "symbol": "GOOGL",
+      "manager_id": "tci",
+      "action": "Reduce 22.77%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 930000,
+      "portfolio_percentage": 0.32,
+      "company_name": "Alphabet Inc."
+    },
+    {
       "symbol": "MSFT",
       "manager_id": "tci",
       "action": "Add 23.63%",
@@ -3621,6 +3731,6 @@
       "company_name": "American Express"
     }
   ],
-  "timestamp": "2025-10-01T06:06:07.126256",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.592039",
+  "scraped_date": "2025-10-02"
 }

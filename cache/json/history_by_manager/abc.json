@@ -2,6 +2,39 @@
   "manager_id": "abc",
   "activities": [
     {
+      "symbol": "CRCL",
+      "manager_id": "abc",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 275000,
+      "portfolio_percentage": 0.82,
+      "company_name": "Circle Internet Group Inc"
+    },
+    {
+      "symbol": "LOAR",
+      "manager_id": "abc",
+      "action": "Reduce 14.37%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 5377677,
+      "portfolio_percentage": 7.58,
+      "company_name": "Loar Holdings Inc"
+    },
+    {
+      "symbol": "CTLP",
+      "manager_id": "abc",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 7180000,
+      "portfolio_percentage": 1.0,
+      "company_name": "Cantaloupe Inc."
+    },
+    {
       "symbol": "SGI",
       "manager_id": "abc",
       "action": "Add 62.37%",
@@ -4039,6 +4072,6 @@
       "company_name": "Silgan Holdings Inc."
     }
   ],
-  "timestamp": "2025-10-01T06:06:07.255071",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.716137",
+  "scraped_date": "2025-10-02"
 }

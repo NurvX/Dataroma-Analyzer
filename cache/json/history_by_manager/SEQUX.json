@@ -2,6 +2,94 @@
   "manager_id": "SEQUX",
   "activities": [
     {
+      "symbol": "ICLR",
+      "manager_id": "SEQUX",
+      "action": "Add 27.45%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 135813,
+      "portfolio_percentage": 0.52,
+      "company_name": "ICON plc"
+    },
+    {
+      "symbol": "UMGNF",
+      "manager_id": "SEQUX",
+      "action": "Add 21.87%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1561265,
+      "portfolio_percentage": 1.34,
+      "company_name": "Universal Music Grp NV"
+    },
+    {
+      "symbol": "AMTM",
+      "manager_id": "SEQUX",
+      "action": "Add 2.29%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 22720,
+      "portfolio_percentage": 0.01,
+      "company_name": "Amentum Holdings Inc."
+    },
+    {
+      "symbol": "META",
+      "manager_id": "SEQUX",
+      "action": "Reduce 1.42%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 2837,
+      "portfolio_percentage": 0.06,
+      "company_name": "Meta Platforms Inc."
+    },
+    {
+      "symbol": "J",
+      "manager_id": "SEQUX",
+      "action": "Reduce 3.11%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 11607,
+      "portfolio_percentage": 0.04,
+      "company_name": "Jacobs Solutions Inc."
+    },
+    {
+      "symbol": "UNH",
+      "manager_id": "SEQUX",
+      "action": "Reduce 12.55%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 39832,
+      "portfolio_percentage": 0.33,
+      "company_name": "United Health Group Inc."
+    },
+    {
+      "symbol": "CACC",
+      "manager_id": "SEQUX",
+      "action": "Reduce 16.41%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 43201,
+      "portfolio_percentage": 0.58,
+      "company_name": "Credit Acceptance Corp."
+    },
+    {
+      "symbol": "LBRDK",
+      "manager_id": "SEQUX",
+      "action": "Reduce 33.35%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 292069,
+      "portfolio_percentage": 0.76,
+      "company_name": "Liberty Broadband Corp. CL C"
+    },
+    {
       "symbol": "ASHTF",
       "manager_id": "SEQUX",
       "action": "Add 46.56%",
@@ -9088,7 +9176,7 @@
       "company_name": "Canadian Natural Resources"
     },
     {
-      "symbol": "WBA",
+      "symbol": "WBA-OLD",
       "manager_id": "SEQUX",
       "action": "Sell 100.00%",
       "date": "Q3 2010",
@@ -9594,7 +9682,7 @@
       "company_name": "Target Corp."
     },
     {
-      "symbol": "WBA",
+      "symbol": "WBA-OLD",
       "manager_id": "SEQUX",
       "action": "Reduce 0.27%",
       "date": "Q3 2009",
@@ -10595,7 +10683,7 @@
       "company_name": "TJX Companies Inc."
     },
     {
-      "symbol": "WBA",
+      "symbol": "WBA-OLD",
       "manager_id": "SEQUX",
       "action": "Reduce 0.05%",
       "date": "Q4 2007",
@@ -10826,6 +10914,6 @@
       "company_name": "Tiffany & Co."
     }
   ],
-  "timestamp": "2025-10-01T06:06:06.914794",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.363979",
+  "scraped_date": "2025-10-02"
 }

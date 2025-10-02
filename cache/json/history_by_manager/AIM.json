@@ -2,6 +2,116 @@
   "manager_id": "AIM",
   "activities": [
     {
+      "symbol": "ASH",
+      "manager_id": "AIM",
+      "action": "Add 137.06%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 171320,
+      "portfolio_percentage": 4.39,
+      "company_name": "Ashland Global Holdings Inc."
+    },
+    {
+      "symbol": "GTLS",
+      "manager_id": "AIM",
+      "action": "Add 33.74%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 69300,
+      "portfolio_percentage": 5.82,
+      "company_name": "Chart Industries Inc."
+    },
+    {
+      "symbol": "WFRD",
+      "manager_id": "AIM",
+      "action": "Add 13.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 74465,
+      "portfolio_percentage": 1.91,
+      "company_name": "Weatherford International plc"
+    },
+    {
+      "symbol": "BLDR",
+      "manager_id": "AIM",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 119000,
+      "portfolio_percentage": 7.09,
+      "company_name": "Builders FirstSource Inc."
+    },
+    {
+      "symbol": "GT",
+      "manager_id": "AIM",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 915000,
+      "portfolio_percentage": 4.84,
+      "company_name": "Goodyear Tire & Rubber"
+    },
+    {
+      "symbol": "PVH",
+      "manager_id": "AIM",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 130000,
+      "portfolio_percentage": 4.55,
+      "company_name": "PVH Corp."
+    },
+    {
+      "symbol": "OSK",
+      "manager_id": "AIM",
+      "action": "Reduce 11.36%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 26800,
+      "portfolio_percentage": 1.55,
+      "company_name": "Oshkosh Corp."
+    },
+    {
+      "symbol": "EMN",
+      "manager_id": "AIM",
+      "action": "Reduce 46.46%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 116873,
+      "portfolio_percentage": 4.45,
+      "company_name": "Eastman Chemical"
+    },
+    {
+      "symbol": "APTV",
+      "manager_id": "AIM",
+      "action": "Reduce 47.92%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 323000,
+      "portfolio_percentage": 11.25,
+      "company_name": "Aptiv PLC"
+    },
+    {
+      "symbol": "DAR",
+      "manager_id": "AIM",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 508550,
+      "portfolio_percentage": 8.88,
+      "company_name": "Darling Ingredients Inc."
+    },
+    {
       "symbol": "WFRD",
       "manager_id": "AIM",
       "action": "Add 30.75%",
@@ -3621,7 +3731,7 @@
       "company_name": "American Axle & Manufacturing Holdings"
     },
     {
-      "symbol": "TGI",
+      "symbol": "TGI-OLD",
       "manager_id": "AIM",
       "action": "Sell 100.00%",
       "date": "Q1 2019",
@@ -4919,7 +5029,7 @@
       "company_name": "Huntsman Corp."
     },
     {
-      "symbol": "TGI",
+      "symbol": "TGI-OLD",
       "manager_id": "AIM",
       "action": "Reduce 23.07%",
       "date": "Q3 2017",
@@ -5216,7 +5326,7 @@
       "company_name": "Babcock & Wilcox Enterprises"
     },
     {
-      "symbol": "TGI",
+      "symbol": "TGI-OLD",
       "manager_id": "AIM",
       "action": "Reduce 86.39%",
       "date": "Q2 2017",
@@ -5502,7 +5612,7 @@
       "company_name": "ODP Corp."
     },
     {
-      "symbol": "TGI",
+      "symbol": "TGI-OLD",
       "manager_id": "AIM",
       "action": "Reduce 28.95%",
       "date": "Q1 2017",
@@ -5744,7 +5854,7 @@
       "company_name": "Goodyear Tire & Rubber"
     },
     {
-      "symbol": "TGI",
+      "symbol": "TGI-OLD",
       "manager_id": "AIM",
       "action": "Reduce 21.95%",
       "date": "Q4 2016",
@@ -5854,7 +5964,7 @@
       "company_name": "Verifone Systems Inc."
     },
     {
-      "symbol": "TGI",
+      "symbol": "TGI-OLD",
       "manager_id": "AIM",
       "action": "Add 7.44%",
       "date": "Q3 2016",
@@ -6217,7 +6327,7 @@
       "company_name": "O-I Glass Inc."
     },
     {
-      "symbol": "TGI",
+      "symbol": "TGI-OLD",
       "manager_id": "AIM",
       "action": "Reduce 26.23%",
       "date": "Q2 2016",
@@ -6316,7 +6426,7 @@
       "company_name": "KLX Inc."
     },
     {
-      "symbol": "TGI",
+      "symbol": "TGI-OLD",
       "manager_id": "AIM",
       "action": "Add 31.79%",
       "date": "Q1 2016",
@@ -6657,7 +6767,7 @@
       "company_name": "Goodyear Tire & Rubber"
     },
     {
-      "symbol": "TGI",
+      "symbol": "TGI-OLD",
       "manager_id": "AIM",
       "action": "Reduce 20.85%",
       "date": "Q4 2015",
@@ -6921,7 +7031,7 @@
       "company_name": "WESCO International Inc."
     },
     {
-      "symbol": "TGI",
+      "symbol": "TGI-OLD",
       "manager_id": "AIM",
       "action": "Reduce 11.34%",
       "date": "Q3 2015",
@@ -7130,7 +7240,7 @@
       "company_name": "Terex Corp."
     },
     {
-      "symbol": "TGI",
+      "symbol": "TGI-OLD",
       "manager_id": "AIM",
       "action": "Reduce 10.01%",
       "date": "Q2 2015",
@@ -7229,7 +7339,7 @@
       "company_name": "FMC Corp."
     },
     {
-      "symbol": "TGI",
+      "symbol": "TGI-OLD",
       "manager_id": "AIM",
       "action": "Add 25.09%",
       "date": "Q1 2015",
@@ -7570,7 +7680,7 @@
       "company_name": "Lear Corp."
     },
     {
-      "symbol": "TGI",
+      "symbol": "TGI-OLD",
       "manager_id": "AIM",
       "action": "Reduce 0.89%",
       "date": "Q4 2014",
@@ -7757,7 +7867,7 @@
       "company_name": "Oil States International Inc."
     },
     {
-      "symbol": "TGI",
+      "symbol": "TGI-OLD",
       "manager_id": "AIM",
       "action": "Add 8.31%",
       "date": "Q3 2014",
@@ -7878,7 +7988,7 @@
       "company_name": "General Cable Corp."
     },
     {
-      "symbol": "TGI",
+      "symbol": "TGI-OLD",
       "manager_id": "AIM",
       "action": "Add 60.55%",
       "date": "Q2 2014",
@@ -8032,7 +8142,7 @@
       "company_name": "Baker Hughes OLD"
     },
     {
-      "symbol": "TGI",
+      "symbol": "TGI-OLD",
       "manager_id": "AIM",
       "action": "Add 964.66%",
       "date": "Q1 2014",
@@ -8252,7 +8362,7 @@
       "company_name": "Cameron International Corp."
     },
     {
-      "symbol": "TGI",
+      "symbol": "TGI-OLD",
       "manager_id": "AIM",
       "action": "Add 46.26%",
       "date": "Q4 2013",
@@ -8505,7 +8615,7 @@
       "company_name": "Mosaic Co."
     },
     {
-      "symbol": "TGI",
+      "symbol": "TGI-OLD",
       "manager_id": "AIM",
       "action": "Buy",
       "date": "Q3 2013",
@@ -9572,6 +9682,6 @@
       "company_name": "GEO Group Inc."
     }
   ],
-  "timestamp": "2025-10-01T06:06:07.030381",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.515715",
+  "scraped_date": "2025-10-02"
 }

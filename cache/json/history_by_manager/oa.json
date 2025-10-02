@@ -2,6 +2,314 @@
   "manager_id": "oa",
   "activities": [
     {
+      "symbol": "SUN",
+      "manager_id": "oa",
+      "action": "Add 415.79%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1185000,
+      "portfolio_percentage": 2.23,
+      "company_name": "Sunoco Inc."
+    },
+    {
+      "symbol": "OMF",
+      "manager_id": "oa",
+      "action": "Add 28.12%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 250000,
+      "portfolio_percentage": 0.5,
+      "company_name": "OneMain Holdings"
+    },
+    {
+      "symbol": "MSI",
+      "manager_id": "oa",
+      "action": "Add 22.73%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 25000,
+      "portfolio_percentage": 0.37,
+      "company_name": "Motorola Solutions Inc."
+    },
+    {
+      "symbol": "FIHL",
+      "manager_id": "oa",
+      "action": "Add 20.97%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1006278,
+      "portfolio_percentage": 0.59,
+      "company_name": "Fidelis Insurance Holdings L"
+    },
+    {
+      "symbol": "GCI",
+      "manager_id": "oa",
+      "action": "Add 14.65%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 746858,
+      "portfolio_percentage": 0.09,
+      "company_name": "Gannett Co."
+    },
+    {
+      "symbol": "STKL",
+      "manager_id": "oa",
+      "action": "Add 6.72%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 409720,
+      "portfolio_percentage": 0.08,
+      "company_name": "SunOpta Inc."
+    },
+    {
+      "symbol": "EPD",
+      "manager_id": "oa",
+      "action": "Add 6.39%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 76100,
+      "portfolio_percentage": 0.08,
+      "company_name": "Enterprise Products Partners LP"
+    },
+    {
+      "symbol": "FOA",
+      "manager_id": "oa",
+      "action": "Add 6.09%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 73225,
+      "portfolio_percentage": 0.06,
+      "company_name": "Finance Of America Companies Inc."
+    },
+    {
+      "symbol": "KBR",
+      "manager_id": "oa",
+      "action": "Add 4.17%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 70000,
+      "portfolio_percentage": 0.12,
+      "company_name": "KBR Inc."
+    },
+    {
+      "symbol": "FI",
+      "manager_id": "oa",
+      "action": "Add 2.63%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 10000,
+      "portfolio_percentage": 0.06,
+      "company_name": "Fiserv Inc."
+    },
+    {
+      "symbol": "DMAC",
+      "manager_id": "oa",
+      "action": "Add 1.54%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 25000,
+      "portfolio_percentage": 0.0,
+      "company_name": "DiaMedica Therapeutics Inc."
+    },
+    {
+      "symbol": "MIR",
+      "manager_id": "oa",
+      "action": "Add 1.42%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 100000,
+      "portfolio_percentage": 0.08,
+      "company_name": "Mirion Technologies Inc"
+    },
+    {
+      "symbol": "RRX",
+      "manager_id": "oa",
+      "action": "Add 1.38%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 10000,
+      "portfolio_percentage": 0.05,
+      "company_name": "Regal Rexnord Corp."
+    },
+    {
+      "symbol": "ELV",
+      "manager_id": "oa",
+      "action": "Add 0.90%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 2500,
+      "portfolio_percentage": 0.03,
+      "company_name": "Elevance Health Inc."
+    },
+    {
+      "symbol": "ET",
+      "manager_id": "oa",
+      "action": "Add 0.73%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 95000,
+      "portfolio_percentage": 0.06,
+      "company_name": "Energy Transfer LP"
+    },
+    {
+      "symbol": "ASH",
+      "manager_id": "oa",
+      "action": "Add 0.35%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 5849,
+      "portfolio_percentage": 0.01,
+      "company_name": "Ashland Global Holdings Inc."
+    },
+    {
+      "symbol": "AESI",
+      "manager_id": "oa",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 5162095,
+      "portfolio_percentage": 2.43,
+      "company_name": "Atlas Energy Solutions Inc"
+    },
+    {
+      "symbol": "GEHC",
+      "manager_id": "oa",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 400000,
+      "portfolio_percentage": 1.04,
+      "company_name": "GE HealthCare Technologies Inc."
+    },
+    {
+      "symbol": "AVBP",
+      "manager_id": "oa",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 421278,
+      "portfolio_percentage": 0.32,
+      "company_name": "Arrivent Biopharma Inc"
+    },
+    {
+      "symbol": "APO",
+      "manager_id": "oa",
+      "action": "Reduce 3.60%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 50000,
+      "portfolio_percentage": 0.25,
+      "company_name": "Apollo Global Management"
+    },
+    {
+      "symbol": "MP",
+      "manager_id": "oa",
+      "action": "Reduce 10.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 360000,
+      "portfolio_percentage": 0.42,
+      "company_name": "MP Materials Corp."
+    },
+    {
+      "symbol": "ABR",
+      "manager_id": "oa",
+      "action": "Reduce 10.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 200000,
+      "portfolio_percentage": 0.08,
+      "company_name": "Arbor Realty Trust Inc."
+    },
+    {
+      "symbol": "CI",
+      "manager_id": "oa",
+      "action": "Reduce 11.91%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 28655,
+      "portfolio_percentage": 0.33,
+      "company_name": "Cigna Group"
+    },
+    {
+      "symbol": "GOOGL",
+      "manager_id": "oa",
+      "action": "Reduce 88.46%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 575000,
+      "portfolio_percentage": 3.53,
+      "company_name": "Alphabet Inc."
+    },
+    {
+      "symbol": "LVS",
+      "manager_id": "oa",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 1500000,
+      "portfolio_percentage": 2.3,
+      "company_name": "Las Vegas Sands Corp."
+    },
+    {
+      "symbol": "MSFT",
+      "manager_id": "oa",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 105705,
+      "portfolio_percentage": 1.58,
+      "company_name": "Microsoft Corp."
+    },
+    {
+      "symbol": "MSGS",
+      "manager_id": "oa",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 20000,
+      "portfolio_percentage": 0.15,
+      "company_name": "Madison Square Garden Sports Corp."
+    },
+    {
+      "symbol": "BBDC",
+      "manager_id": "oa",
+      "action": "Sell 100.00%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 2643,
+      "portfolio_percentage": 0.0,
+      "company_name": "Barings BDC Inc."
+    },
+    {
       "symbol": "OMF",
       "manager_id": "oa",
       "action": "Add 187.70%",
@@ -794,7 +1102,7 @@
       "company_name": "KBR Inc."
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "oa",
       "action": "Sell 100.00%",
       "date": "Q3 2024",
@@ -1058,7 +1366,7 @@
       "company_name": "Gannett Co."
     },
     {
-      "symbol": "PARA",
+      "symbol": "PARA-OLD",
       "manager_id": "oa",
       "action": "Buy",
       "date": "Q2 2024",
@@ -1102,7 +1410,7 @@
       "company_name": "Apollo Global Management"
     },
     {
-      "symbol": "COOP",
+      "symbol": "COOP-OLD",
       "manager_id": "oa",
       "action": "Reduce 6.33%",
       "date": "Q2 2024",
@@ -2103,7 +2411,7 @@
       "company_name": "Vertiv Holdings Co."
     },
     {
-      "symbol": "COOP",
+      "symbol": "COOP-OLD",
       "manager_id": "oa",
       "action": "Reduce 5.71%",
       "date": "Q2 2023",
@@ -2631,7 +2939,7 @@
       "company_name": "Ishares 7 10 Year Treasury B"
     },
     {
-      "symbol": "SMTSF",
+      "symbol": "SMTSF-OLD",
       "manager_id": "oa",
       "action": "Sell 100.00%",
       "date": "Q1 2023",
@@ -2708,7 +3016,7 @@
       "company_name": "Gannett Co."
     },
     {
-      "symbol": "SMTSF",
+      "symbol": "SMTSF-OLD",
       "manager_id": "oa",
       "action": "Add 8.21%",
       "date": "Q4 2022",
@@ -3038,7 +3346,7 @@
       "company_name": "SunOpta Inc."
     },
     {
-      "symbol": "SMTSF",
+      "symbol": "SMTSF-OLD",
       "manager_id": "oa",
       "action": "Add 0.53%",
       "date": "Q3 2022",
@@ -3357,7 +3665,7 @@
       "company_name": "Vertiv Holdings Co."
     },
     {
-      "symbol": "SMTSF",
+      "symbol": "SMTSF-OLD",
       "manager_id": "oa",
       "action": "Add 8.72%",
       "date": "Q2 2022",
@@ -3786,7 +4094,7 @@
       "company_name": "First Eagle Alternative Capital BDC Inc."
     },
     {
-      "symbol": "SMTSF",
+      "symbol": "SMTSF-OLD",
       "manager_id": "oa",
       "action": "Buy",
       "date": "Q1 2022",
@@ -3907,7 +4215,7 @@
       "company_name": "Vanguard S&P 500 ETF"
     },
     {
-      "symbol": "COOP",
+      "symbol": "COOP-OLD",
       "manager_id": "oa",
       "action": "Reduce 23.77%",
       "date": "Q1 2022",
@@ -3995,7 +4303,7 @@
       "company_name": "First Eagle Alternative Capital BDC"
     },
     {
-      "symbol": "STR",
+      "symbol": "STR-OLD",
       "manager_id": "oa",
       "action": "Sell 100.00%",
       "date": "Q1 2022",
@@ -4710,7 +5018,7 @@
       "company_name": "Aspen Group Inc."
     },
     {
-      "symbol": "STR",
+      "symbol": "STR-OLD",
       "manager_id": "oa",
       "action": "Add 6.75%",
       "date": "Q3 2021",
@@ -5139,7 +5447,7 @@
       "company_name": "Arbor Realty Trust Inc."
     },
     {
-      "symbol": "STR",
+      "symbol": "STR-OLD",
       "manager_id": "oa",
       "action": "Add 9.29%",
       "date": "Q2 2021",
@@ -5612,7 +5920,7 @@
       "company_name": "Athene Holding Ltd."
     },
     {
-      "symbol": "STR",
+      "symbol": "STR-OLD",
       "manager_id": "oa",
       "action": "Add 29.91%",
       "date": "Q1 2021",
@@ -5942,7 +6250,7 @@
       "company_name": "New Senior Investment Group"
     },
     {
-      "symbol": "COOP",
+      "symbol": "COOP-OLD",
       "manager_id": "oa",
       "action": "Reduce 15.00%",
       "date": "Q1 2021",
@@ -6063,7 +6371,7 @@
       "company_name": "Nabors Industries Ltd."
     },
     {
-      "symbol": "AC",
+      "symbol": "ACGP",
       "manager_id": "oa",
       "action": "Sell 100.00%",
       "date": "Q1 2021",
@@ -6118,7 +6426,7 @@
       "company_name": "Energy Transfer LP"
     },
     {
-      "symbol": "STR",
+      "symbol": "STR-OLD",
       "manager_id": "oa",
       "action": "Add 22.10%",
       "date": "Q4 2020",
@@ -6151,7 +6459,7 @@
       "company_name": "Athene Holding Ltd."
     },
     {
-      "symbol": "COOP",
+      "symbol": "COOP-OLD",
       "manager_id": "oa",
       "action": "Add 7.48%",
       "date": "Q4 2020",
@@ -6404,7 +6712,7 @@
       "company_name": "Aspen Group Inc."
     },
     {
-      "symbol": "STR",
+      "symbol": "STR-OLD",
       "manager_id": "oa",
       "action": "Add 35.09%",
       "date": "Q3 2020",
@@ -6437,7 +6745,7 @@
       "company_name": "SunOpta Inc."
     },
     {
-      "symbol": "COOP",
+      "symbol": "COOP-OLD",
       "manager_id": "oa",
       "action": "Add 12.06%",
       "date": "Q3 2020",
@@ -6822,7 +7130,7 @@
       "company_name": "AMC Networks Inc."
     },
     {
-      "symbol": "COOP",
+      "symbol": "COOP-OLD",
       "manager_id": "oa",
       "action": "Add 4.32%",
       "date": "Q2 2020",
@@ -7042,7 +7350,7 @@
       "company_name": "RTI Surgical Holdings Inc."
     },
     {
-      "symbol": "COOP",
+      "symbol": "COOP-OLD",
       "manager_id": "oa",
       "action": "Add 105.93%",
       "date": "Q1 2020",
@@ -7108,7 +7416,7 @@
       "company_name": "SunOpta Inc."
     },
     {
-      "symbol": "STR",
+      "symbol": "STR-OLD",
       "manager_id": "oa",
       "action": "Add 16.67%",
       "date": "Q1 2020",
@@ -7537,7 +7845,7 @@
       "company_name": "Diamondback Energy Inc."
     },
     {
-      "symbol": "COOP",
+      "symbol": "COOP-OLD",
       "manager_id": "oa",
       "action": "Add 92.51%",
       "date": "Q4 2019",
@@ -7823,7 +8131,7 @@
       "company_name": "Chimera Investment Corp."
     },
     {
-      "symbol": "STR",
+      "symbol": "STR-OLD",
       "manager_id": "oa",
       "action": "Reduce 25.00%",
       "date": "Q4 2019",
@@ -7944,7 +8252,7 @@
       "company_name": "VICI Properties Inc."
     },
     {
-      "symbol": "STR",
+      "symbol": "STR-OLD",
       "manager_id": "oa",
       "action": "Add 98.51%",
       "date": "Q3 2019",
@@ -8021,7 +8329,7 @@
       "company_name": "Nabors Industries Ltd."
     },
     {
-      "symbol": "COOP",
+      "symbol": "COOP-OLD",
       "manager_id": "oa",
       "action": "Add 12.76%",
       "date": "Q3 2019",
@@ -8428,7 +8736,7 @@
       "company_name": "WPX Energy"
     },
     {
-      "symbol": "COOP",
+      "symbol": "COOP-OLD",
       "manager_id": "oa",
       "action": "Add 14.10%",
       "date": "Q2 2019",
@@ -8593,7 +8901,7 @@
       "company_name": "CrowdStrike Holdings Inc."
     },
     {
-      "symbol": "STR",
+      "symbol": "STR-OLD",
       "manager_id": "oa",
       "action": "Buy",
       "date": "Q2 2019",
@@ -9121,7 +9429,7 @@
       "company_name": "Two Harbors Investment Corp."
     },
     {
-      "symbol": "AC",
+      "symbol": "ACGP",
       "manager_id": "oa",
       "action": "Buy",
       "date": "Q1 2019",
@@ -9220,7 +9528,7 @@
       "company_name": "CVS Health Corp."
     },
     {
-      "symbol": "COOP",
+      "symbol": "COOP-OLD",
       "manager_id": "oa",
       "action": "Reduce 53.10%",
       "date": "Q1 2019",
@@ -9253,7 +9561,7 @@
       "company_name": "CIGNA Corp."
     },
     {
-      "symbol": "COOP",
+      "symbol": "COOP-OLD",
       "manager_id": "oa",
       "action": "Add 118.10%",
       "date": "Q4 2018",
@@ -9825,7 +10133,7 @@
       "company_name": "CIGNA Corp."
     },
     {
-      "symbol": "COOP",
+      "symbol": "COOP-OLD",
       "manager_id": "oa",
       "action": "Buy",
       "date": "Q3 2018",
@@ -10353,7 +10661,7 @@
       "company_name": "Taylor Morrison Home Corp."
     },
     {
-      "symbol": "SAGE",
+      "symbol": "SAGE-OLD",
       "manager_id": "oa",
       "action": "Sell 100.00%",
       "date": "Q3 2018",
@@ -10650,7 +10958,7 @@
       "company_name": "Micron Technology Inc."
     },
     {
-      "symbol": "SAGE",
+      "symbol": "SAGE-OLD",
       "manager_id": "oa",
       "action": "Add 60.17%",
       "date": "Q2 2018",
@@ -10692,316 +11000,8 @@
       "shares": 51800,
       "portfolio_percentage": 0.54,
       "company_name": "Humana Inc."
-    },
-    {
-      "symbol": "C",
-      "manager_id": "oa",
-      "action": "Add 37.81%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 258600,
-      "portfolio_percentage": 0.6,
-      "company_name": "Citigroup Inc."
-    },
-    {
-      "symbol": "CBAY-OLD",
-      "manager_id": "oa",
-      "action": "Add 34.71%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 97200,
-      "portfolio_percentage": 0.05,
-      "company_name": "CymaBay Therapeutics Inc."
-    },
-    {
-      "symbol": "TRN",
-      "manager_id": "oa",
-      "action": "Add 31.94%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 458069,
-      "portfolio_percentage": 0.55,
-      "company_name": "Trinity Industries"
-    },
-    {
-      "symbol": "CDEV",
-      "manager_id": "oa",
-      "action": "Add 28.48%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 133000,
-      "portfolio_percentage": 0.08,
-      "company_name": "Centennial Resource Dev. Inc."
-    },
-    {
-      "symbol": "KEA",
-      "manager_id": "oa",
-      "action": "Add 27.83%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 825908,
-      "portfolio_percentage": 0.39,
-      "company_name": "Keane Group Inc"
-    },
-    {
-      "symbol": "TMO",
-      "manager_id": "oa",
-      "action": "Add 24.59%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 51000,
-      "portfolio_percentage": 0.37,
-      "company_name": "Thermo Fisher Scientific"
-    },
-    {
-      "symbol": "ASH",
-      "manager_id": "oa",
-      "action": "Add 19.89%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 200858,
-      "portfolio_percentage": 0.55,
-      "company_name": "Ashland Global Holdings Inc."
-    },
-    {
-      "symbol": "TCRD",
-      "manager_id": "oa",
-      "action": "Add 18.80%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 28200,
-      "portfolio_percentage": 0.01,
-      "company_name": "THL Credit, Inc."
-    },
-    {
-      "symbol": "NBR",
-      "manager_id": "oa",
-      "action": "Add 17.39%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 1450506,
-      "portfolio_percentage": 0.32,
-      "company_name": "Nabors Industries Ltd."
-    },
-    {
-      "symbol": "HRG",
-      "manager_id": "oa",
-      "action": "Add 9.74%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 199995,
-      "portfolio_percentage": 0.09,
-      "company_name": "HRG Group Inc."
-    },
-    {
-      "symbol": "PE",
-      "manager_id": "oa",
-      "action": "Add 8.15%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 178600,
-      "portfolio_percentage": 0.19,
-      "company_name": "Parsley Energy Inc."
-    },
-    {
-      "symbol": "BC",
-      "manager_id": "oa",
-      "action": "Add 2.84%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 7000,
-      "portfolio_percentage": 0.02,
-      "company_name": "Brunswick Corp."
-    },
-    {
-      "symbol": "NRG",
-      "manager_id": "oa",
-      "action": "Buy",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 1267782,
-      "portfolio_percentage": 1.35,
-      "company_name": "NRG Energy Inc."
-    },
-    {
-      "symbol": "IQV",
-      "manager_id": "oa",
-      "action": "Buy",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 381800,
-      "portfolio_percentage": 1.33,
-      "company_name": "IQVIA Holdings Inc."
-    },
-    {
-      "symbol": "LEN",
-      "manager_id": "oa",
-      "action": "Buy",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 625000,
-      "portfolio_percentage": 1.14,
-      "company_name": "Lennar Corp."
-    },
-    {
-      "symbol": "MPC",
-      "manager_id": "oa",
-      "action": "Buy",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 426300,
-      "portfolio_percentage": 1.04,
-      "company_name": "Marathon Petroleum Corp."
-    },
-    {
-      "symbol": "CVS",
-      "manager_id": "oa",
-      "action": "Buy",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 406600,
-      "portfolio_percentage": 0.91,
-      "company_name": "CVS Health Corp."
-    },
-    {
-      "symbol": "KKR",
-      "manager_id": "oa",
-      "action": "Buy",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 992555,
-      "portfolio_percentage": 0.86,
-      "company_name": "KKR & Co. L.P."
-    },
-    {
-      "symbol": "TPGE",
-      "manager_id": "oa",
-      "action": "Buy",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 1500000,
-      "portfolio_percentage": 0.57,
-      "company_name": "TPG Pace Energy Holdings Corp."
-    },
-    {
-      "symbol": "WRD",
-      "manager_id": "oa",
-      "action": "Buy",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 400000,
-      "portfolio_percentage": 0.35,
-      "company_name": "WildHorse Resource Dev. Corp."
-    },
-    {
-      "symbol": "DAY",
-      "manager_id": "oa",
-      "action": "Buy",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 292971,
-      "portfolio_percentage": 0.34,
-      "company_name": "Dayforce Inc."
-    },
-    {
-      "symbol": "IMMU",
-      "manager_id": "oa",
-      "action": "Buy",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 400000,
-      "portfolio_percentage": 0.33,
-      "company_name": "Immunomedics Inc."
-    },
-    {
-      "symbol": "PAGS",
-      "manager_id": "oa",
-      "action": "Buy",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 300000,
-      "portfolio_percentage": 0.29,
-      "company_name": "PagSeguro Digital Ltd."
-    },
-    {
-      "symbol": "CZR",
-      "manager_id": "oa",
-      "action": "Buy",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 525000,
-      "portfolio_percentage": 0.2,
-      "company_name": "Caesars Entertainment"
-    },
-    {
-      "symbol": "TSG",
-      "manager_id": "oa",
-      "action": "Buy",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 150000,
-      "portfolio_percentage": 0.19,
-      "company_name": "The Stars Group Inc."
-    },
-    {
-      "symbol": "DCPH-OLD",
-      "manager_id": "oa",
-      "action": "Buy",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 119900,
-      "portfolio_percentage": 0.16,
-      "company_name": "Deciphera Pharmaceuticals Inc."
-    },
-    {
-      "symbol": "MDGL",
-      "manager_id": "oa",
-      "action": "Buy",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 15000,
-      "portfolio_percentage": 0.15,
-      "company_name": "Madrigal Pharmaceuticals Inc."
-    },
-    {
-      "symbol": "CHRA",
-      "manager_id": "oa",
-      "action": "Buy",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 225000,
-      "portfolio_percentage": 0.09,
-      "company_name": "Charah Solutions Inc."
     }
   ],
-  "timestamp": "2025-10-01T06:06:06.944243",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.574438",
+  "scraped_date": "2025-10-02"
 }

@@ -4,6 +4,61 @@
     {
       "symbol": "PDD",
       "manager_id": "PC",
+      "action": "Add 35.29%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 108253,
+      "portfolio_percentage": 3.66,
+      "company_name": "Pinduoduo Inc."
+    },
+    {
+      "symbol": "CROX",
+      "manager_id": "PC",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 531108,
+      "portfolio_percentage": 17.36,
+      "company_name": "Crocs Inc."
+    },
+    {
+      "symbol": "PYPL",
+      "manager_id": "PC",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 650447,
+      "portfolio_percentage": 15.6,
+      "company_name": "PayPal Holdings Inc."
+    },
+    {
+      "symbol": "SGOV",
+      "manager_id": "PC",
+      "action": "Reduce 2.60%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 15100,
+      "portfolio_percentage": 0.49,
+      "company_name": "Ishares 0 3 Month Treasury B"
+    },
+    {
+      "symbol": "SWBI",
+      "manager_id": "PC",
+      "action": "Reduce 70.73%",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 459023,
+      "portfolio_percentage": 1.28,
+      "company_name": "Smith & Wesson Brands"
+    },
+    {
+      "symbol": "PDD",
+      "manager_id": "PC",
       "action": "Add 135.96%",
       "date": "Q1 2025",
       "percentage_change": 0.0,
@@ -299,6 +354,6 @@
       "company_name": "Baidu Inc."
     }
   ],
-  "timestamp": "2025-10-01T06:06:07.024404",
-  "scraped_date": "2025-10-01"
+  "timestamp": "2025-10-02T23:25:51.461165",
+  "scraped_date": "2025-10-02"
 }

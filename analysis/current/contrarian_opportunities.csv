@@ -1,348 +1,501 @@
 ticker,company_name,total_value,avg_portfolio_pct,action_breakdown,active_managers,periods,buy_count,sell_count,current_holders,contrarian_score,contrarian_signal,buying_managers,selling_managers
-MSFT,Microsoft Corp.,32941361000.0,5.35,"{'Reduce': np.int64(17), 'Add': np.int64(12), 'Buy': np.int64(2)}",29.0,"Q1 2025, Q2 2025",14.0,17.0,36.0,89.9,Net Selling,"Robert Olstein
-Stephen Mandel
-Duan Yongping
+MSFT,Microsoft Corp.,41002078000.0,6.49,"{'Reduce': np.int64(33), 'Add': np.int64(21), 'Hold': np.int64(2), 'Buy': np.int64(2)}",33.0,"Q2 2025, Q1 2025",23.0,33.0,34.0,184.8,Net Selling,"Lee Ainslie
 David Rolfe
-Chase Coleman
-Chris Hohn
-AltaRock Partners
-AKO Capital
-Triple Frond Partners
-First Eagle Investment Management
-Christopher Davis
-Thomas Gayner
-Wallace Weitz
-David Katz","Dodge & Cox
-Hillman Value Fund
-Lee Ainslie
-David Tepper
 Daniel Loeb
-Viking Global Investors
-Terry Smith
-Thomas Russo
-Francois Rochon
-Polen Capital Management
-Jensen Investment Management
-William Von Mueffling
-Torray Funds
-John Armitage
-Yacktman Asset Management"
-GOOGL,Alphabet Inc.,10335870000.0,3.83,"{'Reduce': np.int64(18), 'Add': np.int64(7), 'Buy': np.int64(2), 'Hold': np.int64(1)}",25.0,"Q2 2025, Q1 2025",9.0,18.0,31.0,67.5,Net Selling,"Robert Vinall
-Bill Nygren
-Bill Ackman
-David Rolfe
-Lindsell Train
-Samantha McLemore
-Christopher Davis
-Thomas Gayner
-David Katz","Tweedy Browne Co.
-Dodge & Cox
-Steven Romick
-Hillman Value Fund
-Chris Hohn
-Terry Smith
-AltaRock Partners
-Thomas Russo
-Francois Rochon
-Josh Tarasoff
-Polen Capital Management
-First Eagle Investment Management
-Jensen Investment Management
-William Von Mueffling
-Torray Funds"
-META,Meta Platforms Inc.,16983280000.0,6.26,"{'Reduce': np.int64(14), 'Add': np.int64(9), 'Buy': np.int64(4), 'Hold': np.int64(1)}",25.0,"Q2 2025, Q1 2025",13.0,14.0,26.0,67.5,Net Selling,"Robert Olstein
-Dodge & Cox
-Mairs & Power Growth Fund
-Lee Ainslie
-David Tepper
-ValueAct Capital
-Viking Global Investors
-Pat Dorsey
-Sarah Ketterer
-Triple Frond Partners
-Francois Rochon
-First Eagle Investment Management
-Thomas Gayner","Robert Olstein
-Dodge & Cox
-Steven Romick
-Robert Vinall
 Stephen Mandel
-David Rolfe
-Terry Smith
-Samantha McLemore
-Christopher Davis
-David Abrams
-John Armitage
-Wallace Weitz
-David Katz"
-GOOG,Alphabet Inc. CL C,10497346000.0,4.93,"{'Reduce': np.int64(21), 'Add': np.int64(6), 'Hold': np.int64(1)}",24.0,"Q2 2025, Q1 2025",6.0,21.0,27.0,64.8,Net Selling,"Robert Olstein
-David Tepper
-Sarah Ketterer
-Seth Klarman
-First Eagle Investment Management
-John Armitage","Robert Olstein
-Dodge & Cox
-Steven Romick
-Mairs & Power Growth Fund
-Li Lu
+Kahn Brothers Group
+Chase Coleman
 Duan Yongping
-Bill Ackman
+AltaRock Partners
 Chris Hohn
-Pat Dorsey
 Triple Frond Partners
+AKO Capital
+Francois Rochon
+John Armitage
+Christopher Davis
+First Eagle Investment Management
+Wallace Weitz
+Thomas Gayner
+David Katz
+Robert Olstein","David Tepper
+Lee Ainslie
+Viking Global Investors
+David Rolfe
+Daniel Loeb
+Bill & Melinda Gates Foundation Trust
+Glenn Greenberg
+Stephen Mandel
+Duan Yongping
+Terry Smith
+Polen Capital Management
 Thomas Russo
 Francois Rochon
-Polen Capital Management
+John Armitage
+Jensen Investment Management
 Christopher Davis
-Torray Funds
+First Eagle Investment Management
 Yacktman Asset Management
-Wallace Weitz
-David Katz"
-AMZN,Amazon.com Inc.,15717206000.0,6.24,"{'Reduce': np.int64(14), 'Add': np.int64(7), 'Hold': np.int64(2)}",22.0,"Q2 2025, Q1 2025",7.0,14.0,24.0,46.2,Net Selling,"Stephen Mandel
+Torray Funds
+William Von Mueffling
+David Katz
+Dodge & Cox
+Hillman Value Fund"
+GOOGL,Alphabet Inc.,11192165000.0,3.5,"{'Reduce': np.int64(28), 'Add': np.int64(17), 'Buy': np.int64(4), 'Hold': np.int64(1)}",29.0,"Q2 2025, Q1 2025",21.0,28.0,33.0,142.1,Net Selling,"Bill Nygren
 Lee Ainslie
-ValueAct Capital
-Viking Global Investors
+David Rolfe
+Bill Ackman
 Chase Coleman
-AKO Capital
-John Armitage","Dodge & Cox
+Polen Capital Management
+Thomas Russo
+Francois Rochon
+Samantha McLemore
+Lindsell Train
+Christopher Davis
+Harry Burn
+Thomas Gayner
+David Katz
+Robert Vinall","Bill Nygren
+David Rolfe
+Leon Cooperman
+AltaRock Partners
+Chris Hohn
+Josh Tarasoff
+Terry Smith
+Polen Capital Management
+Thomas Russo
+Jensen Investment Management
+Christopher Davis
+First Eagle Investment Management
+Torray Funds
+William Von Mueffling
+Tweedy Browne Co.
+Dodge & Cox
 Steven Romick
+Hillman Value Fund"
+META,Meta Platforms Inc.,19204042000.0,6.12,"{'Reduce': np.int64(28), 'Add': np.int64(13), 'Buy': np.int64(7), 'Hold': np.int64(2)}",29.0,"Q2 2025, Q1 2025",20.0,28.0,28.0,139.2,Net Selling,"David Tepper
+Lee Ainslie
+Viking Global Investors
+ValueAct Capital
+Daniel Loeb
+Glenn Greenberg
+Chase Coleman
+Pat Dorsey
+Sarah Ketterer
+Triple Frond Partners
+Francois Rochon
+Jensen Investment Management
+First Eagle Investment Management
+Thomas Gayner
+Robert Olstein
+Dodge & Cox
+Mairs & Power Growth Fund","Ruane Cunniff
 David Tepper
+Viking Global Investors
+ValueAct Capital
+David Rolfe
+Stephen Mandel
+Pat Dorsey
+Terry Smith
+Sarah Ketterer
+Samantha McLemore
+John Armitage
+David Abrams
+Christopher Davis
+First Eagle Investment Management
+Wallace Weitz
+David Katz
+Robert Olstein
+Dodge & Cox
+Steven Romick
+Robert Vinall"
+GOOG,Alphabet Inc. CL C,11405374000.0,4.76,"{'Reduce': np.int64(28), 'Add': np.int64(14), 'Buy': np.int64(1), 'Hold': np.int64(1)}",25.0,"Q2 2025, Q1 2025",15.0,28.0,28.0,107.5,Net Selling,"David Tepper
+Kahn Brothers Group
+Duan Yongping
+Pat Dorsey
+Seth Klarman
+Sarah Ketterer
+Francois Rochon
+John Armitage
+Christopher Davis
+First Eagle Investment Management
+David Katz
+Robert Olstein","David Tepper
+Li Lu
+Bill Ackman
+Duan Yongping
+Pat Dorsey
+Chris Hohn
+Triple Frond Partners
+Polen Capital Management
+Thomas Russo
+Francois Rochon
+John Armitage
+Christopher Davis
+Yacktman Asset Management
+Torray Funds
+Wallace Weitz
+David Katz
+Robert Olstein
+Dodge & Cox
+Steven Romick
+Mairs & Power Growth Fund"
+AMZN,Amazon.com Inc.,20226817000.0,6.86,"{'Reduce': np.int64(19), 'Add': np.int64(17), 'Hold': np.int64(2), 'Buy': np.int64(2)}",24.0,"Q1 2025, Q2 2025",19.0,19.0,26.0,91.2,Mixed Signal,"David Tepper
+Lee Ainslie
+Viking Global Investors
+ValueAct Capital
+Daniel Loeb
+Bill Ackman
+Stephen Mandel
+Chase Coleman
+AltaRock Partners
+AKO Capital
+Francois Rochon
+John Armitage
+David Katz","David Tepper
 Daniel Loeb
 AltaRock Partners
-Samantha McLemore
-Triple Frond Partners
 Josh Tarasoff
+Triple Frond Partners
 Polen Capital Management
+Samantha McLemore
+John Armitage
 Christopher Davis
 Torray Funds
 Wallace Weitz
-David Katz"
-V,Visa Inc.,17687967000.0,4.44,"{'Reduce': np.int64(15), 'Add': np.int64(3), 'Hold': np.int64(2), 'Buy': np.int64(1)}",20.0,"Q2 2025, Q1 2025",4.0,15.0,24.0,38.0,Net Selling,"Glenn Greenberg
-ValueAct Capital
+David Katz
+Dodge & Cox
+Steven Romick"
+V,Visa Inc.,18479164000.0,4.17,"{'Reduce': np.int64(27), 'Add': np.int64(7), 'Hold': np.int64(2), 'Buy': np.int64(1)}",22.0,"Q1 2025, Q2 2025",8.0,27.0,24.0,77.0,Net Selling,"ValueAct Capital
+Glenn Greenberg
+Chris Hohn
 AKO Capital
-John Armitage","Robert Olstein
-Mairs & Power Growth Fund
-Viking Global Investors
+Francois Rochon
+John Armitage
+David Katz","Viking Global Investors
+ValueAct Capital
+Chuck Akre
 David Rolfe
+AltaRock Partners
 Chris Hohn
 Terry Smith
-AltaRock Partners
-Chuck Akre
+Polen Capital Management
+AKO Capital
 Thomas Russo
 Francois Rochon
-Polen Capital Management
-William Von Mueffling
+Lindsell Train
 Torray Funds
-Wallace Weitz"
-BRK.B,Berkshire Hathaway CL B,14133112000.0,7.36,"{'Reduce': np.int64(13), 'Add': np.int64(2), 'Buy': np.int64(1), 'Hold': np.int64(1)}",16.0,"Q2 2025, Q1 2025",3.0,13.0,20.0,25.6,Net Selling,"Tweedy Browne Co.
-Christopher Bloomstran
-First Eagle Investment Management","Robert Olstein
+Wallace Weitz
+William Von Mueffling
+Robert Olstein
+Mairs & Power Growth Fund"
+UNH,United Health Group Inc.,5758115000.0,2.42,"{'Reduce': np.int64(13), 'Add': np.int64(12), 'Buy': np.int64(6), 'Hold': np.int64(4)}",22.0,"Q2 2025, Q1 2025",18.0,13.0,19.0,68.2,Net Buying,"David Tepper
+Lee Ainslie
+Viking Global Investors
+Michael Burry
+Glenn Greenberg
+Stephen Mandel
+Warren Buffett
+Samantha McLemore
+Christopher Davis
+Yacktman Asset Management
+Torray Funds
+Thomas Gayner
+Robert Olstein
+Dodge & Cox
+Mairs & Power Growth Fund","Ruane Cunniff
+David Rolfe
+Polen Capital Management
+Jensen Investment Management
+Christopher Davis
+First Eagle Investment Management
+Torray Funds
+Thomas Gayner
+David Katz
+Robert Olstein"
+TSM,Taiwan Semiconductor S.A.,7931092000.0,2.79,"{'Reduce': np.int64(13), 'Add': np.int64(11), 'Buy': np.int64(6)}",19.0,"Q2 2025, Q1 2025",17.0,13.0,20.0,57.0,Net Buying,"David Tepper
+Lee Ainslie
+Viking Global Investors
+Stephen Mandel
+Chase Coleman
+Duan Yongping
+Christopher Davis
+First Eagle Investment Management
+Torray Funds
+Dodge & Cox
+Mairs & Power Growth Fund
+Hillman Value Fund","Viking Global Investors
+David Rolfe
+Daniel Loeb
+Stephen Mandel
+Duan Yongping
+Prem Watsa
+Sarah Ketterer
+Francois Rochon
+Jensen Investment Management
+William Von Mueffling"
+BRK.B,Berkshire Hathaway CL B,16171379000.0,6.66,"{'Reduce': np.int64(20), 'Add': np.int64(6), 'Buy': np.int64(1), 'Hold': np.int64(1)}",17.0,"Q2 2025, Q1 2025",7.0,20.0,20.0,45.9,Net Selling,"Christopher Bloomstran
+Bill & Melinda Gates Foundation Trust
+Francois Rochon
+First Eagle Investment Management
+Tweedy Browne Co.","Bruce Berkowitz
+Chuck Akre
 Bill & Melinda Gates Foundation Trust
 Duan Yongping
-Chuck Akre
 Thomas Russo
 Francois Rochon
 Christopher Davis
-Torray Funds
-Harry Burn
 Yacktman Asset Management
+Harry Burn
+Torray Funds
 Wallace Weitz
-David Katz"
-COF,Capital One Financial,7571111000.0,3.01,"{'Reduce': np.int64(12), 'Buy': np.int64(3), 'Add': np.int64(2)}",15.0,"Q2 2025, Q1 2025",5.0,12.0,18.0,25.5,Net Selling,"Glenn Greenberg
-Lee Ainslie
-Daniel Loeb
+David Katz
+Robert Olstein"
+COF,Capital One Financial,9651523000.0,4.09,"{'Reduce': np.int64(17), 'Add': np.int64(8), 'Buy': np.int64(3), 'Hold': np.int64(1)}",16.0,"Q1 2025, Q2 2025",11.0,17.0,17.0,44.8,Net Selling,"Lee Ainslie
 Viking Global Investors
-Kahn Brothers Group","Richard Pzena
-Dodge & Cox
-Bill Nygren
+Daniel Loeb
+Glenn Greenberg
+Kahn Brothers Group
+John Armitage
+David Katz","Bill Nygren
 Stephen Mandel
-Clifford Sosin
 Warren Buffett
+Clifford Sosin
 Francois Rochon
+John Armitage
 Christopher Davis
 Harry Burn
-John Armitage"
-UNH,United Health Group Inc.,4729650000.0,1.69,"{'Reduce': np.int64(8), 'Add': np.int64(7), 'Buy': np.int64(1), 'Hold': np.int64(1)}",15.0,"Q2 2025, Q1 2025",8.0,8.0,17.0,24.0,Mixed Signal,"Robert Olstein
-Dodge & Cox
-Mairs & Power Growth Fund
-Lee Ainslie
-David Tepper
-Viking Global Investors
-Thomas Gayner","Robert Olstein
-David Rolfe
-Polen Capital Management
-First Eagle Investment Management
-Christopher Davis
-Jensen Investment Management
-Torray Funds
-David Katz"
-TSM,Taiwan Semiconductor S.A.,6088504000.0,2.66,"{'Add': np.int64(7), 'Buy': np.int64(4), 'Reduce': np.int64(4)}",14.0,"Q2 2025, Q1 2025",11.0,4.0,18.0,21.0,Net Buying,"Dodge & Cox
-Mairs & Power Growth Fund
-Hillman Value Fund
-Stephen Mandel
-Lee Ainslie
-David Tepper
-Duan Yongping
-Viking Global Investors
-Chase Coleman
-First Eagle Investment Management","David Rolfe
-Sarah Ketterer
-Francois Rochon
-William Von Mueffling"
-DIS,Walt Disney Co.,2107473000.0,3.68,"{'Reduce': np.int64(10), 'Add': np.int64(4)}",12.0,"Q2 2025, Q1 2025",4.0,10.0,14.0,16.8,Net Selling,"Robert Olstein
-Sarah Ketterer
-First Eagle Investment Management
-Harry Burn","Robert Olstein
-Hillman Value Fund
+Richard Pzena
+Dodge & Cox"
+DIS,Walt Disney Co.,3292326000.0,3.51,"{'Reduce': np.int64(17), 'Add': np.int64(7), 'Buy': np.int64(3)}",16.0,"Q2 2025, Q1 2025",10.0,17.0,17.0,43.2,Net Selling,"Mason Hawkins
 Christopher Bloomstran
-Duan Yongping
+Lee Ainslie
+Viking Global Investors
 Kahn Brothers Group
-Lindsell Train
-Thomas Russo
+Sarah Ketterer
 Francois Rochon
-Yacktman Asset Management"
-AAPL,Apple Inc.,76018955000.0,6.87,"{'Reduce': np.int64(9), 'Add': np.int64(4)}",12.0,"Q2 2025, Q1 2025",4.0,9.0,18.0,15.6,Net Selling,"Robert Olstein
-David Rolfe
-Sarah Ketterer","Mairs & Power Growth Fund
-Li Lu
+First Eagle Investment Management
+Harry Burn
+Robert Olstein","Christopher Bloomstran
+ValueAct Capital
+Kahn Brothers Group
 Duan Yongping
+Sarah Ketterer
 Thomas Russo
 Francois Rochon
+Lindsell Train
+First Eagle Investment Management
+Yacktman Asset Management
+Harry Burn
+Robert Olstein
+Hillman Value Fund"
+AAPL,Apple Inc.,65659701000.0,5.69,"{'Reduce': np.int64(16), 'Add': np.int64(8), 'Buy': np.int64(2)}",16.0,"Q2 2025, Q1 2025",10.0,16.0,20.0,41.6,Net Selling,"Lee Ainslie
+David Rolfe
+Kahn Brothers Group
+Duan Yongping
+Sarah Ketterer
+Francois Rochon
+Christopher Davis
+David Katz
+Robert Olstein","Li Lu
+David Rolfe
+Warren Buffett
+Duan Yongping
+Sarah Ketterer
 Polen Capital Management
+Thomas Russo
+Francois Rochon
 Jensen Investment Management
 Torray Funds
-David Katz"
-BAC,Bank of America Corp.,29175493000.0,4.5,"{'Reduce': np.int64(11), 'Buy': np.int64(1), 'Add': np.int64(1)}",11.0,"Q2 2025, Q1 2025",2.0,11.0,15.0,14.3,Net Selling,"Lee Ainslie
-Viking Global Investors","Richard Pzena
-Dodge & Cox
-Charles Bobrinskoy
+David Katz
+Mairs & Power Growth Fund"
+NVDA,NVIDIA Corp.,4701087000.0,3.13,"{'Add': np.int64(12), 'Buy': np.int64(6), 'Reduce': np.int64(5), 'Hold': np.int64(1)}",14.0,"Q2 2025, Q1 2025",18.0,5.0,14.0,32.2,Net Buying,"David Tepper
+Lee Ainslie
+Viking Global Investors
+Daniel Loeb
+Chase Coleman
+Duan Yongping
+Sarah Ketterer
+Polen Capital Management
+Samantha McLemore
+Jensen Investment Management
+Christopher Davis
+Torray Funds
+David Katz","David Tepper
+Viking Global Investors
+Sarah Ketterer
+David Katz
+Mairs & Power Growth Fund"
+BAC,Bank of America Corp.,31624157000.0,4.02,"{'Reduce': np.int64(17), 'Add': np.int64(4), 'Buy': np.int64(2)}",13.0,"Q1 2025, Q2 2025",6.0,17.0,16.0,29.9,Net Selling,"Lee Ainslie
+Viking Global Investors
+Glenn Greenberg
+Francois Rochon
+Harry Burn
+David Katz","Charles Bobrinskoy
+Lee Ainslie
+Viking Global Investors
 Li Lu
 Warren Buffett
 Kahn Brothers Group
 Francois Rochon
 Christopher Davis
-David Katz"
-SCHW,Charles Schwab Corp.,7962711000.0,3.15,"{'Reduce': np.int64(6), 'Add': np.int64(4), 'Hold': np.int64(2), 'Buy': np.int64(1)}",11.0,"Q2 2025, Q1 2025",5.0,6.0,11.0,12.1,Net Selling,"Bill Nygren
-Lee Ainslie
-Viking Global Investors
-Francois Rochon
-Thomas Gayner","Dodge & Cox
-Mairs & Power Growth Fund
-John Rogers
-Christopher Davis
-Yacktman Asset Management"
-NVDA,NVIDIA Corp.,3068572000.0,2.95,"{'Add': np.int64(6), 'Reduce': np.int64(2), 'Buy': np.int64(2), 'Hold': np.int64(1)}",11.0,Q1 2025,8.0,2.0,10.0,11.0,Net Buying,"Lee Ainslie
-Daniel Loeb
-Duan Yongping
-Viking Global Investors
-Chase Coleman
-Sarah Ketterer
-Samantha McLemore
-David Katz","Mairs & Power Growth Fund
-David Tepper"
-ORCL,Oracle Corp.,3852881000.0,1.69,"{'Reduce': np.int64(7), 'Add': np.int64(3), 'Hold': np.int64(1)}",11.0,Q1 2025,3.0,7.0,12.0,11.0,Net Selling,"Sarah Ketterer
+David Katz
+Richard Pzena
+Dodge & Cox"
+ORCL,Oracle Corp.,5463780000.0,2.12,"{'Reduce': np.int64(17), 'Add': np.int64(3), 'Hold': np.int64(1)}",12.0,"Q2 2025, Q1 2025",3.0,17.0,12.0,24.0,Net Selling,"Sarah Ketterer
 Polen Capital Management
 First Eagle Investment Management","Charles Bobrinskoy
 David Tepper
-Christopher Davis
-Jensen Investment Management
-William Von Mueffling
-Yacktman Asset Management
-Wallace Weitz"
-JPM,JPMorgan Chase & Co.,1393870000.0,1.58,"{'Reduce': np.int64(9), 'Hold': np.int64(1), 'Add': np.int64(1)}",10.0,"Q1 2025, Q2 2025",1.0,9.0,12.0,10.0,Net Selling,Francois Rochon,"Mairs & Power Growth Fund
-Viking Global Investors
-Kahn Brothers Group
-Samantha McLemore
-Thomas Russo
-Christopher Davis
-Torray Funds
-David Katz"
-MA,Mastercard Inc.,8674426000.0,5.3,"{'Reduce': np.int64(7), 'Hold': np.int64(1), 'Add': np.int64(1), 'Buy': np.int64(1)}",10.0,Q1 2025,2.0,7.0,16.0,9.0,Net Selling,"Francois Rochon
-Torray Funds","Terry Smith
-Chuck Akre
-Thomas Russo
+Sarah Ketterer
 Polen Capital Management
 Jensen Investment Management
-John Armitage
-Wallace Weitz"
-SBUX,Starbucks Corp.,1326755000.0,1.99,"{'Reduce': np.int64(6), 'Add': np.int64(2), 'Hold': np.int64(1), 'Buy': np.int64(1)}",10.0,Q1 2025,3.0,6.0,8.0,9.0,Net Selling,"Stephen Mandel
-Polen Capital Management
-Thomas Gayner","Lee Ainslie
-Christopher Bloomstran
-Francois Rochon
-First Eagle Investment Management
-Jensen Investment Management
-David Katz"
-INTU,Intuit Inc.,3613651000.0,5.23,"{'Reduce': np.int64(6), 'Add': np.int64(2), 'Buy': np.int64(1)}",9.0,Q1 2025,3.0,6.0,10.0,8.1,Net Selling,"Stephen Mandel
-Dennis Hong
-Terry Smith","Valley Forge Capital Management
-Viking Global Investors
 Lindsell Train
+Christopher Davis
+First Eagle Investment Management
+Yacktman Asset Management
+Wallace Weitz
+William Von Mueffling"
+MA,Mastercard Inc.,8697123000.0,5.56,"{'Reduce': np.int64(13), 'Add': np.int64(4), 'Hold': np.int64(2), 'Buy': np.int64(1)}",11.0,"Q2 2025, Q1 2025",5.0,13.0,15.0,19.8,Net Selling,"Francois Rochon
+John Armitage
+Yacktman Asset Management
+Torray Funds","Chuck Akre
+Terry Smith
+Polen Capital Management
+Thomas Russo
+John Armitage
+Jensen Investment Management
+Wallace Weitz"
+SCHW,Charles Schwab Corp.,8039752000.0,3.43,"{'Reduce': np.int64(11), 'Add': np.int64(5), 'Hold': np.int64(3), 'Buy': np.int64(1)}",11.0,"Q2 2025, Q1 2025",6.0,11.0,10.0,18.7,Net Selling,"Bill Nygren
+Lee Ainslie
+Viking Global Investors
+Francois Rochon
+Thomas Gayner","Bill Nygren
+John Rogers
+Viking Global Investors
+Christopher Davis
+Yacktman Asset Management
+Dodge & Cox
+Mairs & Power Growth Fund"
+INTU,Intuit Inc.,2770788000.0,4.9,"{'Reduce': np.int64(11), 'Add': np.int64(4), 'Buy': np.int64(2), 'Hold': np.int64(1)}",10.0,"Q2 2025, Q1 2025",6.0,11.0,10.0,17.0,Net Selling,"Lee Ainslie
+Stephen Mandel
+Dennis Hong
+Terry Smith
+AKO Capital","Viking Global Investors
+Stephen Mandel
+Valley Forge Capital Management
+Dennis Hong
 AKO Capital
 Jensen Investment Management
+Lindsell Train
 David Katz"
-CRM,Salesforce.com,2039636000.0,3.71,"{'Reduce': np.int64(4), 'Add': np.int64(3), 'Hold': np.int64(3), 'Buy': np.int64(1)}",10.0,"Q1 2025, Q2 2025",4.0,4.0,8.0,8.0,Mixed Signal,"Mairs & Power Growth Fund
-Stephen Mandel
-AKO Capital
-First Eagle Investment Management","Hillman Value Fund
-Polen Capital Management
-Wallace Weitz"
-C,Citigroup Inc.,2046277000.0,6.88,"{'Reduce': np.int64(8), 'Add': np.int64(2), 'Hold': np.int64(1)}",8.0,"Q2 2025, Q1 2025",2.0,8.0,8.0,8.0,Net Selling,"Sarah Ketterer
-Harry Burn","Richard Pzena
-Steven Romick
-Greenhaven Associates
+JPM,JPMorgan Chase & Co.,1992744000.0,1.67,"{'Reduce': np.int64(14), 'Add': np.int64(3), 'Hold': np.int64(1)}",10.0,"Q2 2025, Q1 2025",3.0,14.0,12.0,17.0,Net Selling,"Viking Global Investors
+Francois Rochon","Viking Global Investors
 Kahn Brothers Group
-Samantha McLemore"
-BRK.A,Berkshire Hathaway CL A,4568812000.0,11.87,"{'Reduce': np.int64(8), 'Add': np.int64(1)}",8.0,"Q2 2025, Q1 2025",1.0,8.0,14.0,7.2,Net Selling,Francois Rochon,"Tweedy Browne Co.
-Christopher Bloomstran
-Norbert Lou
 Thomas Russo
-Josh Tarasoff
-First Eagle Investment Management
-Christopher Davis"
-CMCSA,Comcast Corp.,4436833000.0,1.81,"{'Add': np.int64(5), 'Reduce': np.int64(4), 'Hold': np.int64(1)}",8.0,"Q1 2025, Q2 2025",5.0,4.0,10.0,7.2,Net Buying,"Robert Olstein
-Dodge & Cox
-First Eagle Investment Management
-David Katz","Hillman Value Fund
-Thomas Russo
-Yacktman Asset Management"
-NKE,NIKE Inc.,930886000.0,1.09,"{'Add': np.int64(5), 'Reduce': np.int64(3), 'Hold': np.int64(1), 'Buy': np.int64(1)}",8.0,"Q2 2025, Q1 2025",6.0,3.0,9.0,7.2,Net Buying,"Robert Olstein
-Hillman Value Fund
-Christopher Bloomstran
-Viking Global Investors
-Thomas Gayner","Hillman Value Fund
-Polen Capital Management
-Jensen Investment Management"
-PEP,PepsiCo Inc.,895551000.0,2.15,"{'Reduce': np.int64(4), 'Add': np.int64(3), 'Buy': np.int64(1), 'Hold': np.int64(1)}",8.0,"Q2 2025, Q1 2025",4.0,4.0,9.0,6.4,Mixed Signal,"Robert Olstein
-Yacktman Asset Management
-David Katz","Lindsell Train
-Thomas Russo
-First Eagle Investment Management
-Jensen Investment Management"
-LPLA,LPL Financial Holdings Inc.,2193300000.0,2.53,"{'Reduce': np.int64(5), 'Add': np.int64(2), 'Buy': np.int64(1)}",8.0,"Q2 2025, Q1 2025",3.0,5.0,8.0,6.4,Net Selling,"Dodge & Cox
-John Armitage
-Thomas Gayner","Steven Romick
-Meridian Contrarian Fund
-Stephen Mandel
-Lee Ainslie
-Daniel Loeb"
-TXN,Texas Instruments,1960884000.0,1.9,"{'Add': np.int64(7), 'Hold': np.int64(1), 'Reduce': np.int64(1)}",8.0,"Q2 2025, Q1 2025",7.0,1.0,8.0,6.4,Net Buying,"Robert Olstein
-Terry Smith
-First Eagle Investment Management
+Samantha McLemore
 Christopher Davis
 Torray Funds
-David Katz",Jensen Investment Management
-FLUT,Flutter Entertainment Plc,3670864000.0,4.17,"{'Add': np.int64(4), 'Reduce': np.int64(3), 'Buy': np.int64(1)}",8.0,Q1 2025,5.0,3.0,9.0,6.4,Net Buying,"Stephen Mandel
-Daniel Loeb
-Viking Global Investors
-AKO Capital
-John Armitage","Lee Ainslie
-Tom Bancroft
-William Von Mueffling"
-UBER,Uber Technologies Inc.,3232580000.0,4.27,"{'Add': np.int64(4), 'Reduce': np.int64(3), 'Buy': np.int64(1)}",8.0,"Q2 2025, Q1 2025",5.0,3.0,7.0,6.4,Net Buying,"David Tepper
-Bill Ackman
-Thomas Russo
-William Von Mueffling
-Thomas Gayner","Steven Romick
+David Katz
+Mairs & Power Growth Fund"
+FI,Fiserv Inc.,4005930000.0,2.25,"{'Reduce': np.int64(6), 'Hold': np.int64(4), 'Add': np.int64(4), 'Buy': np.int64(3)}",12.0,"Q1 2025, Q2 2025",7.0,6.0,9.0,15.6,Net Buying,"John Rogers
+Leon Cooperman
+Seth Klarman
+Francois Rochon
+John Armitage
+David Katz
+Robert Olstein","Francois Rochon
+Torray Funds
+Dodge & Cox
+Mairs & Power Growth Fund"
+SBUX,Starbucks Corp.,1562148000.0,2.37,"{'Reduce': np.int64(8), 'Add': np.int64(6), 'Hold': np.int64(3), 'Buy': np.int64(1)}",10.0,"Q2 2025, Q1 2025",7.0,8.0,6.0,15.0,Net Selling,"Christopher Bloomstran
+Stephen Mandel
+Polen Capital Management
+Francois Rochon
+Thomas Gayner
+David Katz","Christopher Bloomstran
 Lee Ainslie
-Chase Coleman"
+Stephen Mandel
+Francois Rochon
+Jensen Investment Management
+First Eagle Investment Management
+David Katz"
+FLUT,Flutter Entertainment Plc,4503876000.0,4.66,"{'Add': np.int64(8), 'Reduce': np.int64(7), 'Buy': np.int64(1)}",9.0,"Q1 2025, Q2 2025",9.0,7.0,9.0,14.4,Net Buying,"Lee Ainslie
+Viking Global Investors
+Daniel Loeb
+Stephen Mandel
+Chase Coleman
+AKO Capital
+John Armitage","Tom Bancroft
+Lee Ainslie
+Viking Global Investors
+Stephen Mandel
+John Armitage
+William Von Mueffling"
+TMO,Thermo Fisher Scientific,1668297000.0,2.38,"{'Add': np.int64(7), 'Reduce': np.int64(6), 'Hold': np.int64(2), 'Buy': np.int64(1)}",10.0,"Q1 2025, Q2 2025",8.0,6.0,8.0,14.0,Net Buying,"AKO Capital
+Lindsell Train
+Wallace Weitz
+Thomas Gayner
+David Katz
+Robert Olstein","Polen Capital Management
+AKO Capital
+William Von Mueffling
+David Katz"
+TXN,Texas Instruments,2070652000.0,1.68,"{'Add': np.int64(10), 'Reduce': np.int64(4), 'Buy': np.int64(1), 'Hold': np.int64(1)}",9.0,"Q1 2025, Q2 2025",11.0,4.0,9.0,13.5,Net Buying,"Glenn Greenberg
+Terry Smith
+Christopher Davis
+First Eagle Investment Management
+Torray Funds
+David Katz
+Robert Olstein","Terry Smith
+Jensen Investment Management
+Christopher Davis"
+CRM,Salesforce.com,2627923000.0,3.45,"{'Add': np.int64(6), 'Reduce': np.int64(5), 'Hold': np.int64(3), 'Buy': np.int64(2)}",10.0,"Q2 2025, Q1 2025",8.0,5.0,9.0,13.0,Net Buying,"Bill Nygren
+Stephen Mandel
+AKO Capital
+First Eagle Investment Management
+Mairs & Power Growth Fund","Polen Capital Management
+Wallace Weitz
+Hillman Value Fund"
+PYPL,PayPal Holdings Inc.,575924000.0,5.04,"{'Add': np.int64(8), 'Reduce': np.int64(5), 'Hold': np.int64(2), 'Buy': np.int64(1)}",9.0,"Q2 2025, Q1 2025",9.0,5.0,8.0,12.6,Net Buying,"Mason Hawkins
+Lee Ainslie
+Norbert Lou
+David Rolfe
+Lindsell Train
+Harry Burn
+David Katz","David Rolfe
+Pat Dorsey
+Polen Capital Management
+Lindsell Train"
+BKNG,Booking Holdings Inc.,3116292000.0,3.66,"{'Reduce': np.int64(9), 'Buy': np.int64(3), 'Add': np.int64(2), 'Hold': np.int64(1)}",9.0,"Q2 2025, Q1 2025",5.0,9.0,8.0,12.6,Net Selling,"Stephen Mandel
+Pat Dorsey
+Sarah Ketterer
+Francois Rochon","David Rolfe
+AKO Capital
+Francois Rochon
+Yacktman Asset Management
+Dodge & Cox"
+UBER,Uber Technologies Inc.,4112955000.0,3.71,"{'Add': np.int64(7), 'Reduce': np.int64(5), 'Buy': np.int64(2)}",9.0,"Q2 2025, Q1 2025",9.0,5.0,9.0,12.6,Net Buying,"David Tepper
+Lee Ainslie
+Bill Ackman
+Polen Capital Management
+Thomas Russo
+Thomas Gayner
+William Von Mueffling","David Tepper
+Lee Ainslie
+Chase Coleman
+William Von Mueffling
+Steven Romick"
+NKE,NIKE Inc.,980802000.0,1.04,"{'Add': np.int64(7), 'Reduce': np.int64(6), 'Hold': np.int64(2), 'Buy': np.int64(1)}",9.0,"Q2 2025, Q1 2025",8.0,6.0,8.0,12.6,Net Buying,"Christopher Bloomstran
+Viking Global Investors
+Thomas Gayner
+Robert Olstein
+Hillman Value Fund","Terry Smith
+Polen Capital Management
+Jensen Investment Management
+Hillman Value Fund"
+PDD,Pinduoduo Inc.,1683517000.0,8.26,"{'Reduce': np.int64(6), 'Add': np.int64(5), 'Hold': np.int64(4), 'Buy': np.int64(1)}",10.0,"Q2 2025, Q1 2025",6.0,6.0,6.0,12.0,Mixed Signal,"Li Lu
+Norbert Lou
+Chase Coleman
+Duan Yongping","David Tepper
+Sarah Ketterer
+Polen Capital Management
+Robert Vinall"
