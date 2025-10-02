@@ -70,6 +70,12 @@ class DataromaScraper:
             logging.info("Using cached data (still valid)")
             return self._load_all_from_cache()
 
+        # Disable HTTP cache if force refresh requested
+        if force_refresh:
+            logging.info("Force refresh enabled - disabling HTTP cache")
+            original_use_cache = self.use_cache
+            self.use_cache = False
+
         logging.info("Starting full scrape")
 
         # Get managers
@@ -124,6 +130,10 @@ class DataromaScraper:
             len(all_activities),
             self.progress.get_duration(),
         )
+
+        # Restore cache setting if it was modified
+        if force_refresh:
+            self.use_cache = original_use_cache
 
         return {
             "managers": managers,
@@ -319,8 +329,12 @@ def main() -> None:
         format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
     )
 
-    # Check if --skip-enrichment flag is passed
+    # Check for command line flags
     skip_enrichment = "--skip-enrichment" in sys.argv
+    force_refresh = "--force-refresh" in sys.argv
+
+    if force_refresh:
+        logging.info("Force refresh enabled - will ignore cache and fetch fresh data")
 
     # Use context manager for proper cleanup
     with DataromaScraper() as scraper:
@@ -362,7 +376,7 @@ def main() -> None:
             print(f"- Holdings: {len(all_holdings)}")
             print(f"- Activities: {len(all_activities)}")
         else:
-            result = scraper.scrape_all()
+            result = scraper.scrape_all(force_refresh=force_refresh)
 
             print("\nScraping Results:")
             print(f"- Managers: {len(result['managers'])}")

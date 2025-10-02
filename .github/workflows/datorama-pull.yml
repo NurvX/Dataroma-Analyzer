@@ -44,8 +44,8 @@ jobs:
     - name: Run enhanced data scraper
       id: scrape
       run: |
-        echo "Starting enhanced Dataroma scraper with Yahoo Finance integration..."
-        python3 dataroma_scrape.py
+        echo "Starting enhanced Dataroma scraper with fresh data fetch..."
+        python3 dataroma_scrape.py --force-refresh
 
     - name: Generate comprehensive analysis
       if: always()
