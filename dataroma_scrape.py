@@ -70,11 +70,12 @@ class DataromaScraper:
             logging.info("Using cached data (still valid)")
             return self._load_all_from_cache()
 
-        # Disable HTTP cache if force refresh requested
+        # Store force_refresh flag for HTTP client
         if force_refresh:
-            logging.info("Force refresh enabled - disabling HTTP cache")
-            original_use_cache = self.use_cache
-            self.use_cache = False
+            logging.info("Force refresh enabled - will fetch and update all HTML cache")
+            self.force_refresh = True
+        else:
+            self.force_refresh = False
 
         logging.info("Starting full scrape")
 
@@ -131,10 +132,6 @@ class DataromaScraper:
             self.progress.get_duration(),
         )
 
-        # Restore cache setting if it was modified
-        if force_refresh:
-            self.use_cache = original_use_cache
-
         return {
             "managers": managers,
             "holdings": all_holdings,
@@ -150,7 +147,8 @@ class DataromaScraper:
         """
         url = f"{self.base_url}home.php"
         cache_key = "general/managers_page.html"
-        html = self.http_client.get(url, use_cache=self.use_cache, cache_key=cache_key)
+        force_refresh = getattr(self, 'force_refresh', False)
+        html = self.http_client.get(url, use_cache=self.use_cache, cache_key=cache_key, force_refresh=force_refresh)
 
         if not html:
             logging.error("Failed to fetch managers page")
@@ -172,7 +170,8 @@ class DataromaScraper:
         """
         url = f"{self.base_url}holdings.php?m={manager.id}"
         cache_key = f"managers/{manager.id}/holdings.html"
-        html = self.http_client.get(url, use_cache=self.use_cache, cache_key=cache_key)
+        force_refresh = getattr(self, 'force_refresh', False)
+        html = self.http_client.get(url, use_cache=self.use_cache, cache_key=cache_key, force_refresh=force_refresh)
 
         if not html:
             logging.warning("Failed to fetch holdings for %s", manager.name)
@@ -201,7 +200,8 @@ class DataromaScraper:
         # Fetch first page
         url = f"{self.base_url}m_activity.php?m={manager.id}&typ=a"
         cache_key = f"managers/{manager.id}/activity_page1.html"
-        html = self.http_client.get(url, use_cache=self.use_cache, cache_key=cache_key)
+        force_refresh = getattr(self, 'force_refresh', False)
+        html = self.http_client.get(url, use_cache=self.use_cache, cache_key=cache_key, force_refresh=force_refresh)
 
         if not html:
             logging.warning("Failed to fetch activities for %s", manager.name)
@@ -239,7 +239,7 @@ class DataromaScraper:
             )
             cache_key = f"managers/{manager.id}/activity_page{page_num}.html"
             html = self.http_client.get(
-                page_url, use_cache=self.use_cache, cache_key=cache_key
+                page_url, use_cache=self.use_cache, cache_key=cache_key, force_refresh=force_refresh
             )
 
             if html:

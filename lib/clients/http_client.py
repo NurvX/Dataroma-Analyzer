@@ -286,6 +286,7 @@ class CachedHTTPClient(HTTPClient):
         headers: Optional[Dict[str, str]] = None,
         use_cache: bool = True,
         cache_key: Optional[str] = None,
+        force_refresh: bool = False,
     ) -> Optional[str]:
         """Get with caching support.
 
@@ -295,11 +296,12 @@ class CachedHTTPClient(HTTPClient):
             headers: Additional headers
             use_cache: Whether to use cache
             cache_key: Optional specific cache key/path
+            force_refresh: Force fresh fetch even if cache is valid (but still write cache)
 
         Returns:
             Response text or None if failed
         """
-        if use_cache:
+        if use_cache and not force_refresh:
             cache_path = self._get_cache_path(url, cache_key)
 
             # Check cache
