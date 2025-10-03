@@ -1,142 +1,142 @@
 ticker,ticker,current_price,buy_count,buying_managers,shares_bought,periods,activities,52_week_low,52_week_high,value,portfolio_percent,52_week_position_pct,near_52w_low,value_opportunity_score,opportunity_type
-KO,Coca Cola Co.,65.96,1,Christopher Bloomstran,273,Q4 2024,Add 1.24%,59.29,73.29,28469042000,2.23,47.64285714285708,True,28476.27771428572,Value Buying
-BRK.B,Berkshire Hathaway CL B,496.82,13,"Christopher Bloomstran
+KO,Coca Cola Co.,66.1,1,Christopher Bloomstran,273,Q4 2024,Add 1.24%,59.29,73.29,28469042000,2.23,48.64285714285708,True,28476.17771428572,Value Buying
+BRK.B,Berkshire Hathaway CL B,495.92,13,"Christopher Bloomstran
 Bill & Melinda Gates Foundation Trust
 Francois Rochon
 First Eagle Investment Management
 Harry Burn
 David Katz
 Robert Olstein
-Tweedy Browne Co.",7048847,"Q2 2025, Q1 2025, Q4 2024",Add 3.06%; Add 0.54%; Add 0.10%; Add 40.48%; Add 1.68%,437.9,542.07,16171379000,6.66,56.56139003551884,True,16201.72286099645,Strong Accumulation
-KHC,Kraft Heinz Co.,25.99,7,"Mason Hawkins
+Tweedy Browne Co.",7048847,"Q2 2025, Q1 2025, Q4 2024",Add 3.06%; Add 0.54%; Add 0.10%; Add 40.48%; Add 1.68%,437.9,542.07,16171379000,6.66,55.69741768263415,True,16201.809258231737,Strong Accumulation
+KHC,Kraft Heinz Co.,26.07,7,"Mason Hawkins
 Prem Watsa
-Mairs & Power Growth Fund",7850389,"Q2 2025, Q4 2024, Q1 2025",Add 45.85%; Buy; Add 45.40%; Add 1.36%; Add 341.87%,25.07,34.37,8824666000,2.98,9.892473118279552,True,8847.676752688172,Strong Accumulation
-CB,Chubb Limited,281.89,3,"Viking Global Investors
-Robert Olstein",1966065,"Q1 2025, Q2 2025",Buy; Add 88.89%,249.66,304.83,8147682000,1.87,58.41943085009969,True,8157.84005691499,Value Buying
-CNI,Canadian Natl Railway Co.,94.29,4,"AKO Capital
-First Eagle Investment Management",9231,"Q1 2025, Q4 2024",Add 73.52%; Add 10.91%; Add 0.86%; Add 3.18%,90.25,114.28,8100573000,5.56,16.81231793591347,True,8116.891768206409,Value Buying
-SPGI,S&P Global Inc.,475.88,6,"Lee Ainslie
+Mairs & Power Growth Fund",7850389,"Q2 2025, Q4 2024, Q1 2025",Add 45.85%; Buy; Add 45.40%; Add 1.36%; Add 341.87%,25.07,34.37,8824666000,2.98,10.752688172043014,True,8847.590731182794,Strong Accumulation
+CB,Chubb Limited,281.37,3,"Viking Global Investors
+Robert Olstein",1966065,"Q1 2025, Q2 2025",Buy; Add 88.89%,249.66,304.83,8147682000,1.87,57.47688961392063,True,8157.934311038608,Value Buying
+CNI,Canadian Natl Railway Co.,94.47,4,"AKO Capital
+First Eagle Investment Management",9231,"Q1 2025, Q4 2024",Add 73.52%; Add 10.91%; Add 0.86%; Add 3.18%,90.25,113.66,8100573000,5.56,18.02648440837249,True,8116.770351559163,Value Buying
+SPGI,S&P Global Inc.,476.63,6,"Lee Ainslie
 David Rolfe
 Glenn Greenberg
 Valley Forge Capital Management
 Chris Hohn
-William Von Mueffling",801205,"Q1 2025, Q4 2024, Q2 2025",Add 114.31%; Add 45.94%; Buy; Add 2.88%; Add 7.05%,425.6,578.04,7807301000,5.28,32.98346890579899,True,7826.002653109421,Strong Accumulation
-CP,Canadian Pacific Kansas City,75.46,11,"Lee Ainslie
+William Von Mueffling",801205,"Q1 2025, Q4 2024, Q2 2025",Add 114.31%; Add 45.94%; Buy; Add 2.88%; Add 7.05%,425.6,578.04,7807301000,5.28,33.47546575701915,True,7825.953453424298,Strong Accumulation
+CP,Canadian Pacific Kansas City,75.86,11,"Lee Ainslie
 Sarah Ketterer
 Triple Frond Partners
 John Armitage
 Lindsell Train
 First Eagle Investment Management
-William Von Mueffling",9591890,"Q1 2025, Q4 2024, Q2 2025",Add 125.29%; Add 11.53%; Add 76.50%; Add 28.48%; Add 9.40%,66.2,84.03,6050125000,5.4,51.9349411104879,True,6076.931505888952,Strong Accumulation
-DVA,DaVita HealthCare Partners,132.07,1,Lee Ainslie,1811,Q1 2025,Add 123.87%,126.07,179.6,4814783000,0.94,11.208668036614982,True,4825.662133196339,Value Buying
-CMCSA,Comcast Corp.,30.59,11,"Viking Global Investors
+William Von Mueffling",9591890,"Q1 2025, Q4 2024, Q2 2025",Add 125.29%; Add 11.53%; Add 76.50%; Add 28.48%; Add 9.40%,66.2,83.47,6050125000,5.4,55.93514765489287,True,6076.531485234511,Strong Accumulation
+DVA,DaVita HealthCare Partners,132.1,1,Lee Ainslie,1811,Q1 2025,Add 123.87%,126.07,179.6,4814783000,0.94,11.26471137679806,True,4825.656528862321,Value Buying
+CMCSA,Comcast Corp.,30.4,11,"Viking Global Investors
 Kahn Brothers Group
 First Eagle Investment Management
 David Katz
 Robert Olstein
-Dodge & Cox",48493530,"Q4 2024, Q2 2025, Q1 2025",Add 540.83%; Buy; Add 1.39%; Add 3.85%; Add 7.13%,30.46,43.66,4406261000,1.62,0.9848484848484776,True,4438.162515151515,Strong Accumulation
-CHTR,Charter Communications,273.39,4,"Tom Bancroft
+Dodge & Cox",48493530,"Q4 2024, Q2 2025, Q1 2025",Add 540.83%; Buy; Add 1.39%; Add 3.85%; Add 7.13%,30.38,43.66,4406261000,1.62,0.150602409638551,True,4438.245939759036,Strong Accumulation
+CHTR,Charter Communications,269.61,4,"Tom Bancroft
 Lee Ainslie
 Viking Global Investors
-First Eagle Investment Management",689380,"Q4 2024, Q2 2025, Q1 2025",Add 4.05%; Buy; Add 120.62%,251.8,437.06,4256410000,4.31,11.653891827701596,True,4273.24461081723,Value Buying
-FI,Fiserv Inc.,126.32,9,"John Rogers
+First Eagle Investment Management",689380,"Q4 2024, Q2 2025, Q1 2025",Add 4.05%; Buy; Add 120.62%,251.8,437.06,4256410000,4.31,9.613516139479652,True,4273.448648386052,Deep Value
+FI,Fiserv Inc.,125.76,9,"John Rogers
 Leon Cooperman
 Seth Klarman
 Francois Rochon
 John Armitage
 David Katz
-Robert Olstein",1231909,"Q2 2025, Q4 2024, Q1 2025",Buy; Add 2.63%; Add 3.01%; Add 25.73%; Add 2.45%,124.89,238.59,4005930000,2.25,1.257695690413362,True,4033.8042304309583,Strong Accumulation
-BRK.A,Berkshire Hathaway CL A,745000.0,2,Francois Rochon,4,"Q1 2025, Q4 2024",Add 37.50%; Add 14.29%,657497.5,812855.0,3597356000,9.19,56.32331879696828,True,3605.723668120304,Value Buying
-AON,Aon Plc,360.1,10,"Viking Global Investors
+Robert Olstein",1231909,"Q2 2025, Q4 2024, Q1 2025",Buy; Add 2.63%; Add 3.01%; Add 25.73%; Add 2.45%,124.89,238.59,4005930000,2.25,0.7651715039577877,True,4033.853482849604,Strong Accumulation
+BRK.A,Berkshire Hathaway CL A,744627.72,2,Francois Rochon,4,"Q1 2025, Q4 2024",Add 37.50%; Add 14.29%,657497.5,812855.0,3597356000,9.19,56.08369084208999,True,3605.747630915792,Value Buying
+AON,Aon Plc,360.73,10,"Viking Global Investors
 Polen Capital Management
 Jensen Investment Management
 Yacktman Asset Management
 Thomas Gayner
 William Von Mueffling
-David Katz",2465370,"Q4 2024, Q1 2025, Q2 2025",Add 27.94%; Add 318.13%; Add 10.99%; Add 0.80%; Add 10.67%,322.37,411.24,3142660000,1.44,42.45527174524588,True,3168.414472825475,Strong Accumulation
-SNY,Sanofi Aventis,50.04,4,"Sarah Ketterer
-First Eagle Investment Management",395403,"Q2 2025, Q1 2025, Q4 2024",Add 21.11%; Add 0.41%; Add 38.79%; Add 16.19%,43.86,57.56,2721221000,1.03,45.10948905109488,True,2734.7100510948903,Value Buying
-CRM,Salesforce.com,238.53,9,"Bill Nygren
+David Katz",2465370,"Q4 2024, Q1 2025, Q2 2025",Add 27.94%; Add 318.13%; Add 10.99%; Add 0.80%; Add 10.67%,322.37,411.24,3142660000,1.44,43.164172386632174,True,3168.3435827613366,Strong Accumulation
+SNY,Sanofi Aventis,50.14,4,"Sarah Ketterer
+First Eagle Investment Management",395403,"Q2 2025, Q1 2025, Q4 2024",Add 21.11%; Add 0.41%; Add 38.79%; Add 16.19%,43.86,57.56,2721221000,1.03,45.83941605839416,True,2734.6370583941607,Value Buying
+CRM,Salesforce.com,238.88,9,"Bill Nygren
 Viking Global Investors
 Stephen Mandel
 AKO Capital
 First Eagle Investment Management
-Mairs & Power Growth Fund",3267741,"Q2 2025, Q4 2024, Q1 2025",Buy; Add 122.53%; Add 7.59%; Add 10.64%; Add 30.38%,226.09,366.78,2627923000,3.45,8.842135190845122,True,2655.0387864809154,Strong Accumulation
-ZTS,Zoetis Inc.,147.05,8,"David Rolfe
+Mairs & Power Growth Fund",3267741,"Q2 2025, Q4 2024, Q1 2025",Buy; Add 122.53%; Add 7.59%; Add 10.64%; Add 30.38%,226.09,366.78,2627923000,3.45,9.090909090909086,True,2655.013909090909,Strong Accumulation
+ZTS,Zoetis Inc.,146.49,8,"David Rolfe
 Terry Smith
 Polen Capital Management
 AKO Capital
-William Von Mueffling",5249781,"Q2 2025, Q1 2025, Q4 2024",Buy; Add 13.29%; Add 1020.18%; Add 17.55%; Add 17.54%,138.77,194.19,2459546000,2.77,14.940454709491163,True,2484.051954529051,Strong Accumulation
-FIS,Fidelity National Information Services,66.54,6,"Seth Klarman
+William Von Mueffling",5249781,"Q2 2025, Q1 2025, Q4 2024",Buy; Add 13.29%; Add 1020.18%; Add 17.55%; Add 17.54%,138.77,194.19,2459546000,2.77,13.929989173583548,True,2484.1530010826414,Strong Accumulation
+FIS,Fidelity National Information Services,66.45,6,"Seth Klarman
 Harry Burn
 Robert Olstein
-Dodge & Cox",5122995,"Q2 2025, Q1 2025",Add 8.50%; Buy; Add 37.08%; Add 50.00%; Add 1.74%,63.0,90.1,2405594000,3.83,13.0627306273063,True,2426.2877269372693,Strong Accumulation
-APD,Air Products & Chemicals,271.79,5,"Viking Global Investors
+Dodge & Cox",5122995,"Q2 2025, Q1 2025",Add 8.50%; Buy; Add 37.08%; Add 50.00%; Add 1.74%,63.0,90.1,2405594000,3.83,12.730627306273076,True,2426.3209372693727,Strong Accumulation
+APD,Air Products & Chemicals,270.6,5,"Viking Global Investors
 Jensen Investment Management
 Thomas Gayner
-Dodge & Cox",3643664,"Q2 2025, Q4 2024, Q1 2025",Buy; Add 10.71%; Add 0.78%; Add 24.04%; Add 33.93%,240.56,334.71,2271639000,0.86,33.17047265002658,True,2288.321952734997,Strong Accumulation
-STZ,Constellation Brands,140.39,4,"Warren Buffett
-Hillman Value Fund",13422600,"Q2 2025, Q1 2025, Q4 2024",Add 11.58%; Add 113.52%; Buy,131.2,251.89,2182580000,1.59,7.614549672715219,True,2199.8185450327283,Deep Value
-IFF,International Flavors & Fragrances Inc.,61.68,8,"Sarah Ketterer
+Dodge & Cox",3643664,"Q2 2025, Q4 2024, Q1 2025",Buy; Add 10.71%; Add 0.78%; Add 24.04%; Add 33.93%,240.56,334.71,2271639000,0.86,31.906532129580484,True,2288.4483467870423,Strong Accumulation
+STZ,Constellation Brands,140.51,4,"Warren Buffett
+Hillman Value Fund",13422600,"Q2 2025, Q1 2025, Q4 2024",Add 11.58%; Add 113.52%; Buy,131.2,249.47,2182580000,1.59,7.871818719878246,True,2199.792818128012,Deep Value
+IFF,International Flavors & Fragrances Inc.,61.51,8,"Sarah Ketterer
 First Eagle Investment Management
 Robert Olstein
-Dodge & Cox",8468978,"Q2 2025, Q1 2025, Q4 2024",Buy; Add 122.11%; Add 37191.66%; Add 14.86%; Add 0.96%,59.73,104.48,2120528000,1.87,4.357541899441347,True,2146.092245810056,Strong Accumulation
-FTV,Fortive Corp.,49.88,6,"Viking Global Investors
+Dodge & Cox",8468978,"Q2 2025, Q1 2025, Q4 2024",Buy; Add 122.11%; Add 37191.66%; Add 14.86%; Add 0.96%,59.73,104.48,2120528000,1.87,3.977653631284918,True,2146.130234636871,Strong Accumulation
+FTV,Fortive Corp.,49.78,6,"Viking Global Investors
 Daniel Loeb
 Robert Olstein
-Dodge & Cox",27604334,"Q2 2025, Q4 2024, Q1 2025",Add 22.88%; Add 11.83%; Buy; Add 2.52%; Add 43.42%,46.15,63.62,2006902000,1.25,21.350887235260476,True,2026.766911276474,Strong Accumulation
-ICE,Intercontinental Exchange Inc.,161.79,6,"Bill Nygren
+Dodge & Cox",27604334,"Q2 2025, Q4 2024, Q1 2025",Add 22.88%; Add 11.83%; Buy; Add 2.52%; Add 43.42%,46.15,63.62,2006902000,1.25,20.77847738981112,True,2026.824152261019,Strong Accumulation
+ICE,Intercontinental Exchange Inc.,160.98,6,"Bill Nygren
 Viking Global Investors
 John Armitage
-William Von Mueffling",4703682,"Q4 2024, Q1 2025",Add 19.79%; Add 15.64%; Buy; Add 50.20%; Add 0.53%,141.12,188.82,1927231000,3.28,43.33333333333332,True,1944.8976666666667,Strong Accumulation
-ADBE,Adobe Inc.,350.1,9,"Polen Capital Management
+William Von Mueffling",4703682,"Q4 2024, Q1 2025",Add 19.79%; Add 15.64%; Buy; Add 50.20%; Add 0.53%,141.12,188.82,1927231000,3.28,41.63522012578614,True,1945.0674779874212,Strong Accumulation
+ADBE,Adobe Inc.,351.48,9,"Polen Capital Management
 Torray Funds
 Wallace Weitz
 Thomas Gayner
 William Von Mueffling
-Robert Olstein",935763,"Q2 2025, Q1 2025, Q4 2024",Add 19.09%; Add 28.57%; Add 1.60%; Add 81.25%; Buy,330.04,557.9,1667117000,1.3,8.80365136487317,True,1694.2366348635126,Strong Accumulation
-ADP,Automatic Data Processing Inc.,289.25,1,David Katz,1090,Q4 2024,Buy,269.86,326.59,1664564000,3.11,34.179446500969505,True,1673.1460553499032,Value Buying
-CMG,Chipotle Mexican Grill Inc.,40.32,3,"Lee Ainslie
-Viking Global Investors",6126986,"Q2 2025, Q4 2024, Q1 2025",Buy,38.3,66.74,1533376000,3.27,7.102672292545723,True,1548.6657327707453,Deep Value
-ZBH,Zimmer Biomet Holdings,99.19,9,"Sarah Ketterer
+Robert Olstein",935763,"Q2 2025, Q1 2025, Q4 2024",Add 19.09%; Add 28.57%; Add 1.60%; Add 81.25%; Buy,330.04,557.9,1667117000,1.3,9.40928640393224,True,1694.1760713596068,Strong Accumulation
+ADP,Automatic Data Processing Inc.,289.87,1,David Katz,1090,Q4 2024,Buy,269.86,326.59,1664564000,3.11,35.2723426758329,True,1673.0367657324168,Value Buying
+CMG,Chipotle Mexican Grill Inc.,40.27,3,"Lee Ainslie
+Viking Global Investors",6126986,"Q2 2025, Q4 2024, Q1 2025",Buy,38.3,66.74,1533376000,3.27,6.926863572433215,True,1548.6833136427567,Deep Value
+ZBH,Zimmer Biomet Holdings,99.17,9,"Sarah Ketterer
 First Eagle Investment Management
 Harry Burn
 David Katz
-Dodge & Cox",4750503,"Q1 2025, Q2 2025, Q4 2024",Add 4.62%; Add 11.81%; Add 16.13%; Add 3.56%; Buy,88.77,113.87,1492425000,1.63,41.513944223107565,True,1516.2736055776893,Strong Accumulation
-SHW,Sherwin-Williams,342.78,7,"Lee Ainslie
+Dodge & Cox",4750503,"Q1 2025, Q2 2025, Q4 2024",Add 4.62%; Add 11.81%; Add 16.13%; Add 3.56%; Buy,88.77,113.87,1492425000,1.63,41.43426294820718,True,1516.2815737051792,Strong Accumulation
+SHW,Sherwin-Williams,343.9,7,"Lee Ainslie
 Viking Global Investors
 Chase Coleman
-Jensen Investment Management",2065327,"Q2 2025, Q4 2024, Q1 2025",Buy; Add 4.63%; Add 101.37%; Add 57.31%; Add 19.90%,307.5,397.81,1418273000,1.37,39.06544125788946,True,1438.366455874211,Strong Accumulation
-TMUS,T-Mobile US Inc.,230.39,2,Viking Global Investors,2234912,"Q2 2025, Q1 2025",Add 81.71%; Add 156.53%,202.51,274.51,1412156000,1.32,38.72222222222221,True,1422.2837777777777,Value Buying
-REGN,Regeneron Pharmaceuticals,599.59,5,"Mason Hawkins
+Jensen Investment Management",2065327,"Q2 2025, Q4 2024, Q1 2025",Buy; Add 4.63%; Add 101.37%; Add 57.31%; Add 19.90%,307.5,397.81,1418273000,1.37,40.30561399623516,True,1438.2424386003763,Strong Accumulation
+TMUS,T-Mobile US Inc.,230.14,2,Viking Global Investors,2234912,"Q2 2025, Q1 2025",Add 81.71%; Add 156.53%,203.29,274.51,1412156000,1.32,37.70008424599831,True,1422.3859915754,Value Buying
+REGN,Regeneron Pharmaceuticals,600.0,5,"Mason Hawkins
 Viking Global Investors
 Michael Burry
-Dodge & Cox",1162534,"Q2 2025, Q1 2025",Add 40.34%; Buy; Add 60.35%,475.76,1041.49,1374755000,7.09,21.88853339932477,False,1392.5661466600675,Strong Accumulation
-CTSH,Cognizant Technology Solutions,66.86,2,Sarah Ketterer,363055,"Q2 2025, Q1 2025",Add 28.71%; Add 12.17%,64.98,89.77,1377393000,1.81,7.58370310609115,True,1390.634629689391,Deep Value
-ACN,Accenture,244.8,3,"Sarah Ketterer
+Dodge & Cox",1162534,"Q2 2025, Q1 2025",Add 40.34%; Buy; Add 60.35%,475.76,1034.38,1374755000,7.09,22.240521284594177,False,1392.5309478715408,Strong Accumulation
+CTSH,Cognizant Technology Solutions,67.0,2,Sarah Ketterer,363055,"Q2 2025, Q1 2025",Add 28.71%; Add 12.17%,64.98,89.77,1377393000,1.81,8.148446954417091,True,1390.5781553045583,Deep Value
+ACN,Accenture,244.34,3,"Sarah Ketterer
 AKO Capital
-David Katz",139537,Q4 2024,Buy; Add 11.59%; Add 105.59%,229.4,394.41,1350793000,2.17,9.332767711047818,True,1365.859723228895,Deep Value
-PG,Procter & Gamble,151.86,4,"Kahn Brothers Group
+David Katz",139537,Q4 2024,Buy; Add 11.59%; Add 105.59%,229.4,394.41,1350793000,2.17,9.05399672747106,True,1365.8876003272528,Deep Value
+PG,Procter & Gamble,152.05,4,"Kahn Brothers Group
 AKO Capital
-David Katz",114776,"Q2 2025, Q4 2024, Q1 2025",Add 3.94%; Add 10.81%; Add 14.19%; Add 0.09%,149.91,177.66,1280466000,1.71,7.0270270270270885,True,1297.7632972972972,Deep Value
-SBAC,SBA Communications Corp.,191.54,4,"Torray Funds
-Dodge & Cox",4400054,"Q4 2024, Q2 2025, Q1 2025",Add 0.69%; Add 1.55%; Add 8.90%; Add 388.94%,186.81,247.78,1269459000,0.7,7.757913728062965,True,1286.6832086271938,Deep Value
-AMT,American Tower Corp.,191.29,6,"Viking Global Investors
+David Katz",114776,"Q2 2025, Q4 2024, Q1 2025",Add 3.94%; Add 10.81%; Add 14.19%; Add 0.09%,149.91,177.66,1280466000,1.71,7.711711711711764,True,1297.6948288288288,Deep Value
+SBAC,SBA Communications Corp.,191.7,4,"Torray Funds
+Dodge & Cox",4400054,"Q4 2024, Q2 2025, Q1 2025",Add 0.69%; Add 1.55%; Add 8.90%; Add 388.94%,186.81,247.78,1269459000,0.7,8.020337871084116,True,1286.6569662128916,Deep Value
+AMT,American Tower Corp.,191.17,6,"Viking Global Investors
 Christopher Davis
 Torray Funds
-William Von Mueffling",2889064,"Q2 2025, Q4 2024",Add 233.47%; Buy; Add 3.05%; Add 17.90%; Add 16.01%,168.28,232.28,1247167000,1.26,35.953124999999986,True,1265.5716874999998,Strong Accumulation
-DPZ,Dominos Pizza Inc.,432.2,5,"Lee Ainslie
+William Von Mueffling",2889064,"Q2 2025, Q4 2024",Add 233.47%; Buy; Add 3.05%; Add 17.90%; Add 16.01%,168.28,232.28,1247167000,1.26,35.76562499999998,True,1265.5904375,Strong Accumulation
+DPZ,Dominos Pizza Inc.,431.24,5,"Lee Ainslie
 Warren Buffett
-Thomas Gayner",1382961,"Q1 2025, Q2 2025, Q4 2024",Buy; Add 0.51%; Add 10.02%; Add 86.49%; Add 22.22%,392.06,495.24,1224838000,2.37,38.90288815661948,True,1240.947711184338,Strong Accumulation
-BMRN,BioMarin Pharmaceutical Inc.,55.39,4,"Viking Global Investors
-Dodge & Cox",3390918,"Q2 2025, Q1 2025, Q4 2024",Add 13.78%; Add 2.75%; Add 7.76%; Add 9.60%,52.48,73.51,1212541000,1.22,13.837375178316702,True,1229.1572624821683,Value Buying
-BAX,Baxter International Inc.,23.28,6,"Harry Burn
+Thomas Gayner",1382961,"Q1 2025, Q2 2025, Q4 2024",Buy; Add 0.51%; Add 10.02%; Add 86.49%; Add 22.22%,392.06,495.24,1224838000,2.37,37.972475285908125,True,1241.0407524714092,Strong Accumulation
+BMRN,BioMarin Pharmaceutical Inc.,55.57,4,"Viking Global Investors
+Dodge & Cox",3390918,"Q2 2025, Q1 2025, Q4 2024",Add 13.78%; Add 2.75%; Add 7.76%; Add 9.60%,52.48,73.51,1212541000,1.22,14.693295292439382,True,1229.071670470756,Value Buying
+BAX,Baxter International Inc.,23.23,6,"Harry Burn
 Robert Olstein
 Richard Pzena
-Dodge & Cox",8142462,"Q1 2025, Q4 2024",Add 13.74%; Buy; Add 18.84%; Add 2.44%; Add 2.81%,21.18,37.43,1194448000,2.58,12.923076923076932,True,1215.1556923076923,Strong Accumulation
-WDAY,Workday Inc.,233.4,2,Daniel Loeb,800000,"Q2 2025, Q4 2024",Buy,205.33,294.0,1169263000,1.43,31.65670463516409,True,1180.0973295364836,Value Buying
-MCD,McDonald's Corp.,300.96,6,"Viking Global Investors
+Dodge & Cox",8142462,"Q1 2025, Q4 2024",Add 13.74%; Buy; Add 18.84%; Add 2.44%; Add 2.81%,21.18,37.43,1194448000,2.58,12.61538461538462,True,1215.1864615384616,Strong Accumulation
+WDAY,Workday Inc.,232.1,2,Daniel Loeb,800000,"Q2 2025, Q4 2024",Buy,205.33,294.0,1169263000,1.43,30.19059433855869,True,1180.243940566144,Value Buying
+MCD,McDonald's Corp.,299.88,6,"Viking Global Investors
 Bill & Melinda Gates Foundation Trust
-David Katz",3460342,"Q2 2025, Q1 2025, Q4 2024",Add 171.67%; Buy; Add 0.37%; Add 0.28%,271.85,322.65,1157325000,0.92,57.30314960629917,True,1173.5946850393702,Strong Accumulation
-MMC,Marsh & McLennan,200.34,5,"AKO Capital
-Thomas Gayner",174746,"Q1 2025, Q4 2024, Q2 2025",Add 2.86%; Add 4.54%; Add 0.71%; Add 1.09%; Add 1.80%,195.01,246.94,1098579000,3.68,10.263816676295036,True,1117.5526183323705,Strong Accumulation
+David Katz",3460342,"Q2 2025, Q1 2025, Q4 2024",Add 171.67%; Buy; Add 0.37%; Add 0.28%,271.85,322.65,1157325000,0.92,55.177165354330704,True,1173.807283464567,Strong Accumulation
+MMC,Marsh & McLennan,199.57,5,"AKO Capital
+Thomas Gayner",174746,"Q1 2025, Q4 2024, Q2 2025",Add 2.86%; Add 4.54%; Add 0.71%; Add 1.09%; Add 1.80%,194.14,245.83,1098579000,3.68,10.504933255948934,True,1117.528506674405,Strong Accumulation
