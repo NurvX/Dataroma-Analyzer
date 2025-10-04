@@ -1,136 +1,136 @@
 ticker,company_name,current_price,managers,total_value,avg_portfolio_pct,index,manager_count,total_shares,max_portfolio_pct,buy_count,last_buy_period,price_opportunity_score,price_category
-ET,Energy Transfer LP,16.94,"David Tepper
+ET,Energy Transfer LP,16.8,"David Tepper
 Bruce Berkowitz
 Leon Cooperman
 Samantha McLemore
 David Abrams",516722000,3.03,108,5,28500968,8.34,4.0,Q4 2024,17.032,Affordable
-WBD,Warner Bros. Discovery Inc.,19.19,"Bill Nygren
+WBD,Warner Bros. Discovery Inc.,18.99,"Bill Nygren
 Lee Ainslie
 Yacktman Asset Management
 Harry Burn
-Hillman Value Fund",536542000,2.46,313,5,46818665,3.89,5.0,Q4 2024,17.464,Affordable
-CCCS,CCC Intelligent Solutions Hldgs Inc.,9.2,"ValueAct Capital
+Hillman Value Fund",536542000,2.46,311,5,46818665,3.89,5.0,Q4 2024,17.464,Affordable
+CCCS,CCC Intelligent Solutions Hldgs Inc.,9.38,"ValueAct Capital
 Chuck Akre
 Triple Frond Partners
 Polen Capital Management
 Torray Funds",197762000,1.45,64,5,20991262,5.24,8.0,Q4 2024,19.454,Affordable
-GPK,Graphic Packaging Hldg Co.,19.35,"David Einhorn
+GPK,Graphic Packaging Hldg Co.,19.37,"David Einhorn
 Sarah Ketterer
 Thomas Gayner
 FPA Queens Road Small Cap Value Fund",124174000,1.3,127,4,5893428,4.26,4.0,Q4 2024,13.3,Affordable
-ANGI,Angi Inc.,15.76,"Mason Hawkins
+ANGI,Angi Inc.,16.32,"Mason Hawkins
 Samantha McLemore
 Christopher Davis
 FPA Queens Road Small Cap Value Fund",60790000,0.96,25,4,3983647,2.85,4.0,Q2 2025,12.96,Affordable
-NOV,Nov Inc.,13.24,"First Eagle Investment Management
+NOV,Nov Inc.,13.7,"First Eagle Investment Management
 Robert Olstein
 Richard Pzena
 Greenhaven Associates",540668000,0.95,205,4,43496979,1.84,5.0,Q4 2024,13.95,Affordable
-VFC,V.F. Corp.,15.47,"Meridian Contrarian Fund
+VFC,V.F. Corp.,15.19,"Meridian Contrarian Fund
 Glenn Welling
-Dodge & Cox",390284000,6.34,306,3,33215643,17.8,3.0,Q4 2024,15.343333333333334,Affordable
-MAT,Mattel Inc.,17.21,"Mason Hawkins
+Dodge & Cox",390284000,6.34,304,3,33215643,17.8,3.0,Q4 2024,15.343333333333334,Affordable
+MAT,Mattel Inc.,18.06,"Mason Hawkins
 John Rogers
 Samantha McLemore",129158000,4.06,188,3,6549604,7.06,1.0,Q4 2024,11.056666666666668,Affordable
-CNH,CNH Industrial NV,10.8,"Mason Hawkins
+CNH,CNH Industrial NV,10.91,"Mason Hawkins
 David Einhorn
 Tweedy Browne Co.",153339000,3.63,77,3,11831704,4.43,2.0,Q4 2024,11.626666666666669,Affordable
-PCG,PG&E Corp.,15.56,"Daniel Loeb
+PCG,PG&E Corp.,15.9,"Daniel Loeb
 Sarah Ketterer
-Steven Romick",760542000,3.4,232,3,54558225,9.45,3.0,Q2 2025,12.403333333333332,Affordable
-GTX,Garrett Motion Inc.,14.0,"Lee Ainslie
+Steven Romick",760542000,3.4,231,3,54558225,9.45,3.0,Q2 2025,12.403333333333332,Affordable
+GTX,Garrett Motion Inc.,13.47,"Lee Ainslie
 Prem Watsa
 Howard Marks",391649000,3.33,135,3,37264892,9.82,2.0,Q4 2024,11.333333333333334,Affordable
-KVUE,Kenvue Inc,15.75,"Lee Ainslie
+KVUE,Kenvue Inc,15.81,"Lee Ainslie
 Daniel Loeb
 Yacktman Asset Management",567627000,2.67,173,3,27120227,3.34,3.0,Q2 2025,11.67,Affordable
-ACI,Albertsons Co Inc.,17.34,"Mason Hawkins
+ACI,Albertsons Co Inc.,17.38,"Mason Hawkins
 Lee Ainslie
 Harry Burn",119679000,2.57,5,3,5563862,5.45,3.0,Q4 2024,11.566666666666666,Affordable
-MANU,Manchester United plc,15.38,"John Rogers
+MANU,Manchester United plc,15.33,"John Rogers
 Leon Cooperman
 Lindsell Train",152858000,1.93,187,3,8582715,2.02,2.0,Q4 2024,9.926666666666666,Affordable
-LBTYA,Liberty Global Ltd CL A,11.72,"David Einhorn
+LBTYA,Liberty Global Ltd CL A,11.76,"David Einhorn
 Howard Marks
 Seth Klarman",185279000,1.86,176,3,18509455,2.25,3.0,Q4 2024,10.856666666666666,Affordable
-STLA,Stellantis N.V.,10.47,"Bill Miller
+STLA,Stellantis N.V.,10.73,"Bill Miller
 Francis Chou
-Greenhaven Associates",11214000,1.82,287,3,1118000,3.8,3.0,Q2 2025,10.823333333333334,Affordable
+Greenhaven Associates",11214000,1.82,285,3,1118000,3.8,3.0,Q2 2025,10.823333333333334,Affordable
 NU,Nu Holdings Ltd,15.31,"Lee Ainslie
 Chase Coleman
 Polen Capital Management",483729000,1.71,207,3,35257209,4.58,7.0,Q4 2024,14.706666666666669,Affordable
-GT,Goodyear Tire & Rubber,7.53,"David Tepper
+GT,Goodyear Tire & Rubber,7.72,"David Tepper
 Alex Roepers
 First Eagle Investment Management",26478000,1.67,133,3,2553237,4.84,5.0,Q4 2024,12.666666666666666,Affordable
-RKT,Rocket Companies Inc.,18.33,"ValueAct Capital
+RKT,Rocket Companies Inc.,17.8,"ValueAct Capital
 Daniel Loeb
-Christopher Davis",326257000,1.65,261,3,23008287,3.83,7.0,Q4 2024,14.653333333333332,Affordable
+Christopher Davis",326257000,1.65,259,3,23008287,3.83,7.0,Q4 2024,14.653333333333332,Affordable
 PARA-OLD,Paramount Global CL B,11.04,"John Rogers
 Christopher Bloomstran
-David Katz",32037000,1.43,228,3,2483469,3.05,4.0,Q2 2025,11.426666666666666,Affordable
-VSH,Vishay Intertechnology,15.85,"First Eagle Investment Management
+David Katz",32037000,1.43,227,3,2483469,3.05,4.0,Q2 2025,11.426666666666666,Affordable
+VSH,Vishay Intertechnology,16.15,"First Eagle Investment Management
 Robert Olstein
-FPA Queens Road Small Cap Value Fund",41598000,1.13,309,3,2619506,3.04,6.0,Q4 2024,13.133333333333333,Affordable
-DEI,Douglas Emmett Inc.,15.6,"Christopher Davis
+FPA Queens Road Small Cap Value Fund",41598000,1.13,307,3,2619506,3.04,6.0,Q4 2024,13.133333333333333,Affordable
+DEI,Douglas Emmett Inc.,15.48,"Christopher Davis
 First Eagle Investment Management
 Steven Romick",262119000,0.46,93,3,17428116,0.98,2.0,Q2 2025,8.463333333333333,Affordable
-BEKE,KE Holdings Inc.,18.86,"David Tepper
+BEKE,KE Holdings Inc.,18.7,"David Tepper
 Howard Marks
 Christopher Davis",86320000,0.42,46,3,4865851,0.68,3.0,Q4 2024,9.423333333333334,Affordable
-PAGS,PagSeguro Digital Ltd.,9.57,"Lee Ainslie
+PAGS,PagSeguro Digital Ltd.,9.35,"Lee Ainslie
 Seth Klarman
-Sarah Ketterer",51313000,0.34,226,3,5322954,0.59,3.0,Q2 2025,9.34,Affordable
-PTON,Peloton Interactive Inc.,8.78,"David Einhorn
+Sarah Ketterer",51313000,0.34,225,3,5322954,0.59,3.0,Q2 2025,9.34,Affordable
+PTON,Peloton Interactive Inc.,8.58,"David Einhorn
 Polen Capital Management
-Samantha McLemore",21401000,0.3,247,3,3083652,0.84,2.0,Q4 2024,8.296666666666667,Affordable
-BKD,Brookdale Senior Living Inc.,8.37,"Lee Ainslie
+Samantha McLemore",21401000,0.3,246,3,3083652,0.84,2.0,Q4 2024,8.296666666666667,Affordable
+BKD,Brookdale Senior Living Inc.,8.06,"Lee Ainslie
 Polen Capital Management
 First Eagle Investment Management",14813000,0.01,49,3,2128246,0.03,5.0,Q4 2024,11.013333333333334,Affordable
-ORLA,Orla Mining Ltd,10.35,"Prem Watsa
+ORLA,Orla Mining Ltd,10.26,"Prem Watsa
 First Eagle Investment Management",628522000,15.02,222,2,63669935,29.9,0.0,,19.02,Affordable
-EVH,Evolent Health Inc.,7.96,"Lee Ainslie
+EVH,Evolent Health Inc.,8.23,"Lee Ainslie
 Glenn Welling",81601000,9.33,109,2,7246992,18.43,3.0,Q4 2024,16.335,Affordable
-BB,BlackBerry Ltd.,4.76,"Meridian Contrarian Fund
+BB,BlackBerry Ltd.,4.5,"Meridian Contrarian Fund
 Prem Watsa",192962000,5.58,45,2,42131533,9.98,1.0,Q4 2024,10.575,Affordable
-PENN,Penn National Gaming Inc.,19.07,"David Einhorn
-Prem Watsa",134906000,2.9,234,2,7549340,5.76,4.0,Q4 2024,10.905,Affordable
-GCI,Gannett Co.,4.17,"Bill Miller
+PENN,Penn National Gaming Inc.,19.0,"David Einhorn
+Prem Watsa",134906000,2.9,233,2,7549340,5.76,4.0,Q4 2024,10.905,Affordable
+GCI,Gannett Co.,4.16,"Bill Miller
 Leon Cooperman",32681000,2.86,123,2,9128568,4.99,6.0,Q4 2024,12.865,Affordable
-VTRS,Viatris Inc.,10.1,"Bill Miller
-Christopher Davis",598261000,2.76,310,2,66994520,3.17,3.0,Q2 2025,9.76,Affordable
-STKL,SunOpta Inc.,5.83,"Leon Cooperman
-Howard Marks",157928000,2.18,286,2,27233177,3.04,5.0,Q4 2024,11.185,Affordable
-CLB,Core Laboratories Inc.,12.08,"John Rogers
+VTRS,Viatris Inc.,10.19,"Bill Miller
+Christopher Davis",598261000,2.76,308,2,66994520,3.17,3.0,Q2 2025,9.76,Affordable
+STKL,SunOpta Inc.,6.04,"Leon Cooperman
+Howard Marks",157928000,2.18,284,2,27233177,3.04,5.0,Q4 2024,11.185,Affordable
+CLB,Core Laboratories Inc.,12.14,"John Rogers
 Charles Bobrinskoy",16930000,1.85,73,2,1469592,1.88,1.0,Q1 2025,6.85,Affordable
-ROIV,Roivant Sciences Ltd,15.98,"Viking Global Investors
-David Einhorn",437151000,1.66,264,2,38788836,2.21,1.0,Q1 2025,6.665,Affordable
-BHC,Bausch Health,6.55,"Carl Icahn
+ROIV,Roivant Sciences Ltd,16.17,"Viking Global Investors
+David Einhorn",437151000,1.66,262,2,38788836,2.21,1.0,Q1 2025,6.665,Affordable
+BHC,Bausch Health,6.68,"Carl Icahn
 Howard Marks",239701000,1.57,48,2,35991118,2.93,0.0,,5.57,Affordable
-PLAY,Dave & Buster's Ent. Inc.,18.08,"Lee Ainslie
-Samantha McLemore",67698000,1.48,242,2,2250595,2.9,3.0,Q4 2024,8.475,Affordable
-GRAB,Grab Holdings Ltd   Cl A,6.02,"Chase Coleman
+PLAY,Dave & Buster's Ent. Inc.,18.83,"Lee Ainslie
+Samantha McLemore",67698000,1.48,241,2,2250595,2.9,3.0,Q4 2024,8.475,Affordable
+GRAB,Grab Holdings Ltd   Cl A,6.16,"Chase Coleman
 Howard Marks",525601000,1.42,130,2,104493083,1.47,2.0,Q2 2025,7.42,Affordable
-HNST,The Honest Company inc.,3.65,"Meridian Contrarian Fund
+HNST,The Honest Company inc.,3.67,"Meridian Contrarian Fund
 Polen Capital Management",15232000,1.38,148,2,2992594,2.75,3.0,Q2 2025,8.375,Affordable
-AVTR,Avantor arinc.,13.75,"Robert Olstein
+AVTR,Avantor arinc.,14.29,"Robert Olstein
 Dodge & Cox",1016912000,1.32,40,2,75550715,1.71,6.0,Q4 2024,11.315,Affordable
-UAA,Under Armour Inc.,5.09,"Lee Ainslie
-Prem Watsa",45016000,1.16,300,2,6600198,2.3,1.0,Q1 2025,6.165,Affordable
-ADT,ADT Inc.,8.73,"John Rogers
+UAA,Under Armour Inc.,5.05,"Lee Ainslie
+Prem Watsa",45016000,1.16,298,2,6600198,2.3,1.0,Q1 2025,6.165,Affordable
+ADT,ADT Inc.,8.8,"John Rogers
 Polen Capital Management",17416000,1.0,9,2,2056216,2.0,1.0,Q2 2025,6.0,Affordable
-BLCO,Bausch + Lomb Corp,14.77,"Carl Icahn
+BLCO,Bausch + Lomb Corp,15.2,"Carl Icahn
 Howard Marks",78336000,0.7,50,2,6021245,0.83,1.0,Q2 2025,5.705,Affordable
-SD,SandRidge Energy Inc.,11.37,"Carl Icahn
-Third Avenue Management",55718000,0.7,270,2,5149530,0.74,1.0,Q4 2024,5.7,Affordable
-LXU,LSB Industries Inc.,8.1,"Third Avenue Management
+SD,SandRidge Energy Inc.,11.89,"Carl Icahn
+Third Avenue Management",55718000,0.7,268,2,5149530,0.74,1.0,Q4 2024,5.7,Affordable
+LXU,LSB Industries Inc.,8.99,"Third Avenue Management
 First Eagle Investment Management",19930000,0.65,184,2,2555048,1.27,2.0,Q4 2024,6.65,Affordable
 YMM,Full Truck Alliance  Spn ADR,13.38,"Howard Marks
-Christopher Davis",159178000,0.64,320,2,13478262,0.73,4.0,Q4 2024,8.64,Affordable
-KRNT,Kornit Digital Ltd,13.45,"Meridian Contrarian Fund
+Christopher Davis",159178000,0.64,318,2,13478262,0.73,4.0,Q4 2024,8.64,Affordable
+KRNT,Kornit Digital Ltd,13.63,"Meridian Contrarian Fund
 Polen Capital Management",7029000,0.6,172,2,353065,1.2,1.0,Q2 2025,5.6,Affordable
-ADPT,Adaptive Biotechnologies Corp.,14.21,"Viking Global Investors
+ADPT,Adaptive Biotechnologies Corp.,14.38,"Viking Global Investors
 Polen Capital Management",351084000,0.51,8,2,30135965,1.01,1.0,Q2 2025,5.51,Affordable
-ORIC,ORIC Pharmaceuticals Inc.,11.5,"Meridian Contrarian Fund
+ORIC,ORIC Pharmaceuticals Inc.,11.57,"Meridian Contrarian Fund
 Viking Global Investors",70469000,0.45,221,2,6942700,0.71,2.0,Q4 2024,6.45,Affordable
-AM,Antero Midstream Corp.,19.27,"Glenn Greenberg
+AM,Antero Midstream Corp.,19.09,"Glenn Greenberg
 Kahn Brothers Group",36320000,0.44,21,2,1916632,0.82,1.0,Q4 2024,5.445,Affordable

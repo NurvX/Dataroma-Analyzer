@@ -369,18 +369,6 @@ First Eagle Investment Management
 Yacktman Asset Management
 Wallace Weitz
 William Von Mueffling"
-MA,Mastercard Inc.,8697123000.0,5.56,"Add: 4, Buy: 1, Reduce: 13, Sell: 2",11.0,"Q2 2025, Q1 2025",5.0,15.0,15.0,22.0,Net Selling,"Francois Rochon
-John Armitage
-Yacktman Asset Management
-Torray Funds","Chuck Akre
-Terry Smith
-Polen Capital Management
-Thomas Russo
-John Armitage
-Jensen Investment Management
-Torray Funds
-Wallace Weitz
-Robert Olstein"
 SCHW,Charles Schwab Corp.,8039752000.0,3.43,"Add: 5, Buy: 1, Reduce: 11, Sell: 3",11.0,"Q2 2025, Q1 2025",6.0,14.0,10.0,22.0,Net Selling,"Bill Nygren
 Lee Ainslie
 Viking Global Investors
@@ -394,6 +382,18 @@ First Eagle Investment Management
 Yacktman Asset Management
 Dodge & Cox
 Mairs & Power Growth Fund"
+MA,Mastercard Inc.,8697123000.0,5.56,"Add: 4, Buy: 1, Reduce: 13, Sell: 2",11.0,"Q2 2025, Q1 2025",5.0,15.0,15.0,22.0,Net Selling,"Francois Rochon
+John Armitage
+Yacktman Asset Management
+Torray Funds","Chuck Akre
+Terry Smith
+Polen Capital Management
+Thomas Russo
+John Armitage
+Jensen Investment Management
+Torray Funds
+Wallace Weitz
+Robert Olstein"
 FI,Fiserv Inc.,4005930000.0,2.25,"Add: 4, Buy: 3, Reduce: 6, Sell: 4",12.0,"Q1 2025, Q2 2025",7.0,10.0,9.0,20.4,Net Selling,"John Rogers
 Leon Cooperman
 Seth Klarman
@@ -421,6 +421,16 @@ Francois Rochon
 Jensen Investment Management
 First Eagle Investment Management
 David Katz"
+JPM,JPMorgan Chase & Co.,1992744000.0,1.67,"Add: 3, Reduce: 14, Sell: 1",10.0,"Q2 2025, Q1 2025",3.0,15.0,12.0,18.0,Net Selling,"Viking Global Investors
+Francois Rochon","Viking Global Investors
+Kahn Brothers Group
+Thomas Russo
+Samantha McLemore
+Christopher Davis
+Torray Funds
+David Katz
+Richard Pzena
+Mairs & Power Growth Fund"
 INTU,Intuit Inc.,2770788000.0,4.9,"Add: 4, Buy: 2, Reduce: 11, Sell: 1",10.0,"Q2 2025, Q1 2025",6.0,12.0,10.0,18.0,Net Selling,"Lee Ainslie
 Stephen Mandel
 Dennis Hong
@@ -433,16 +443,6 @@ AKO Capital
 Jensen Investment Management
 Lindsell Train
 David Katz"
-JPM,JPMorgan Chase & Co.,1992744000.0,1.67,"Add: 3, Reduce: 14, Sell: 1",10.0,"Q2 2025, Q1 2025",3.0,15.0,12.0,18.0,Net Selling,"Viking Global Investors
-Francois Rochon","Viking Global Investors
-Kahn Brothers Group
-Thomas Russo
-Samantha McLemore
-Christopher Davis
-Torray Funds
-David Katz
-Richard Pzena
-Mairs & Power Growth Fund"
 CRM,Salesforce.com,2627923000.0,3.45,"Add: 6, Buy: 2, Reduce: 5, Sell: 3",10.0,"Q2 2025, Q1 2025",8.0,8.0,9.0,16.0,Mixed Signal,"Bill Nygren
 Stephen Mandel
 AKO Capital
@@ -453,6 +453,16 @@ Viking Global Investors
 Polen Capital Management
 Wallace Weitz
 Hillman Value Fund"
+PDD,Pinduoduo Inc.,1683517000.0,8.26,"Add: 5, Buy: 1, Reduce: 6, Sell: 4",10.0,"Q2 2025, Q1 2025",6.0,10.0,6.0,16.0,Net Selling,"Li Lu
+Norbert Lou
+Chase Coleman
+Duan Yongping","David Tepper
+Michael Burry
+Chase Coleman
+Howard Marks
+Sarah Ketterer
+Polen Capital Management
+Robert Vinall"
 TMO,Thermo Fisher Scientific,1668297000.0,2.38,"Add: 7, Buy: 1, Reduce: 6, Sell: 2",10.0,"Q1 2025, Q2 2025",8.0,8.0,8.0,16.0,Mixed Signal,"AKO Capital
 Lindsell Train
 Wallace Weitz
@@ -464,26 +474,6 @@ AKO Capital
 Torray Funds
 William Von Mueffling
 David Katz"
-PDD,Pinduoduo Inc.,1683517000.0,8.26,"Add: 5, Buy: 1, Reduce: 6, Sell: 4",10.0,"Q2 2025, Q1 2025",6.0,10.0,6.0,16.0,Net Selling,"Li Lu
-Norbert Lou
-Chase Coleman
-Duan Yongping","David Tepper
-Michael Burry
-Chase Coleman
-Howard Marks
-Sarah Ketterer
-Polen Capital Management
-Robert Vinall"
-NKE,NIKE Inc.,980802000.0,1.04,"Add: 7, Buy: 1, Reduce: 6, Sell: 2",9.0,"Q2 2025, Q1 2025",8.0,8.0,8.0,14.4,Mixed Signal,"Christopher Bloomstran
-Viking Global Investors
-Thomas Gayner
-Robert Olstein
-Hillman Value Fund","Christopher Bloomstran
-Bill Ackman
-Terry Smith
-Polen Capital Management
-Jensen Investment Management
-Hillman Value Fund"
 TXN,Texas Instruments,2070652000.0,1.68,"Add: 10, Buy: 1, Reduce: 4, Sell: 1",9.0,"Q1 2025, Q2 2025",11.0,5.0,9.0,14.4,Net Buying,"Glenn Greenberg
 Terry Smith
 Christopher Davis
@@ -494,6 +484,27 @@ Robert Olstein","Lee Ainslie
 Terry Smith
 Jensen Investment Management
 Christopher Davis"
+PYPL,PayPal Holdings Inc.,575924000.0,5.04,"Add: 8, Buy: 1, Reduce: 5, Sell: 2",9.0,"Q2 2025, Q1 2025",9.0,7.0,8.0,14.4,Net Buying,"Mason Hawkins
+Lee Ainslie
+Norbert Lou
+David Rolfe
+Lindsell Train
+Harry Burn
+David Katz","Lee Ainslie
+David Rolfe
+Pat Dorsey
+Polen Capital Management
+Lindsell Train"
+NKE,NIKE Inc.,980802000.0,1.04,"Add: 7, Buy: 1, Reduce: 6, Sell: 2",9.0,"Q2 2025, Q1 2025",8.0,8.0,8.0,14.4,Mixed Signal,"Christopher Bloomstran
+Viking Global Investors
+Thomas Gayner
+Robert Olstein
+Hillman Value Fund","Christopher Bloomstran
+Bill Ackman
+Terry Smith
+Polen Capital Management
+Jensen Investment Management
+Hillman Value Fund"
 FLUT,Flutter Entertainment Plc,4503876000.0,4.66,"Add: 8, Buy: 1, Reduce: 7",9.0,"Q1 2025, Q2 2025",9.0,7.0,9.0,14.4,Net Buying,"Lee Ainslie
 Viking Global Investors
 Daniel Loeb
@@ -506,17 +517,6 @@ Viking Global Investors
 Stephen Mandel
 John Armitage
 William Von Mueffling"
-PYPL,PayPal Holdings Inc.,575924000.0,5.04,"Add: 8, Buy: 1, Reduce: 5, Sell: 2",9.0,"Q2 2025, Q1 2025",9.0,7.0,8.0,14.4,Net Buying,"Mason Hawkins
-Lee Ainslie
-Norbert Lou
-David Rolfe
-Lindsell Train
-Harry Burn
-David Katz","Lee Ainslie
-David Rolfe
-Pat Dorsey
-Polen Capital Management
-Lindsell Train"
 BKNG,Booking Holdings Inc.,3116292000.0,3.66,"Add: 2, Buy: 3, Reduce: 9, Sell: 1",9.0,"Q2 2025, Q1 2025",5.0,10.0,8.0,13.5,Net Selling,"Stephen Mandel
 Pat Dorsey
 Sarah Ketterer

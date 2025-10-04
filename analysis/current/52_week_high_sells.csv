@@ -1,5 +1,5 @@
 ticker,ticker,current_price,sell_count,selling_managers,shares_sold,periods,activities,52_week_low,52_week_high,value,portfolio_percent,52_week_position_pct,near_52w_high,profit_taking_score,selling_type
-AAPL,Apple Inc.,257.59,26,"Viking Global Investors
+AAPL,Apple Inc.,258.02,26,"Viking Global Investors
 Li Lu
 David Rolfe
 Daniel Loeb
@@ -8,16 +8,16 @@ Duan Yongping
 Terry Smith
 Sarah Ketterer
 Polen Capital Management
-Thomas Russo",54617703,"Q4 2024, Q1 2025, Q2 2025",Sell 100.00%; Reduce 65.19%; Reduce 1.96%; Reduce 4.61%; Reduce 6.67%,168.8,259.18,65659701000,5.69,98.24076123036066,True,65721.52507612304,Heavy Distribution
-AXP,American Express,331.57,14,"Christopher Bloomstran
+Thomas Russo",54617703,"Q4 2024, Q1 2025, Q2 2025",Sell 100.00%; Reduce 65.19%; Reduce 1.96%; Reduce 4.61%; Reduce 6.67%,168.8,259.24,65659701000,5.69,98.65103936311364,True,65721.56610393632,Heavy Distribution
+AXP,American Express,330.24,14,"Christopher Bloomstran
 Thomas Russo
 Lindsell Train
 Christopher Davis
 First Eagle Investment Management
 Torray Funds
 David Katz
-Robert Olstein",453915,"Q4 2024, Q2 2025, Q1 2025",Reduce 0.49%; Reduce 0.18%; Reduce 7.82%; Reduce 3.42%; Reduce 12.07%,219.87,349.19,49313198000,4.65,86.37488400866069,True,49349.83548840087,Heavy Distribution
-MSFT,Microsoft Corp.,516.82,50,"David Tepper
+Robert Olstein",453915,"Q4 2024, Q2 2025, Q1 2025",Reduce 0.49%; Reduce 0.18%; Reduce 7.82%; Reduce 3.42%; Reduce 12.07%,219.87,349.19,49313198000,4.65,85.34642746674915,True,49349.73264274667,Heavy Distribution
+MSFT,Microsoft Corp.,517.35,50,"David Tepper
 Lee Ainslie
 Viking Global Investors
 David Rolfe
@@ -26,8 +26,8 @@ Bill & Melinda Gates Foundation Trust
 Glenn Greenberg
 Stephen Mandel
 Leon Cooperman
-Duan Yongping",12622137,"Q2 2025, Q1 2025, Q4 2024",Reduce 1.96%; Reduce 47.42%; Reduce 33.28%; Sell 100.00%; Reduce 71.39%,343.59,554.54,41002078000,6.49,82.11898554159758,True,41110.28989855416,Heavy Distribution
-BAC,Bank of America Corp.,50.48,22,"Charles Bobrinskoy
+Duan Yongping",12622137,"Q2 2025, Q1 2025, Q4 2024",Reduce 1.96%; Reduce 47.42%; Reduce 33.28%; Sell 100.00%; Reduce 71.39%,343.59,554.54,41002078000,6.49,82.37022991230151,True,41110.31502299123,Heavy Distribution
+BAC,Bank of America Corp.,50.64,22,"Charles Bobrinskoy
 Lee Ainslie
 Viking Global Investors
 Li Lu
@@ -36,21 +36,21 @@ Warren Buffett
 Kahn Brothers Group
 Francois Rochon
 Christopher Davis
-David Katz",228253092,"Q1 2025, Q4 2024, Q2 2025",Reduce 10.13%; Reduce 5.62%; Reduce 12.28%; Reduce 2.96%; Reduce 24.66%,32.69,52.88,31624157000,4.02,88.11292719167902,True,31676.968292719168,Heavy Distribution
-KO,Coca Cola Co.,65.96,11,"Christopher Bloomstran
+David Katz",228253092,"Q1 2025, Q4 2024, Q2 2025",Reduce 10.13%; Reduce 5.62%; Reduce 12.28%; Reduce 2.96%; Reduce 24.66%,32.69,52.88,31624157000,4.02,88.90539871223378,True,31677.047539871222,Heavy Distribution
+KO,Coca Cola Co.,66.65,11,"Christopher Bloomstran
 Thomas Russo
 Jensen Investment Management
 Lindsell Train
-Yacktman Asset Management",107976,"Q2 2025, Q1 2025, Q4 2024",Reduce 28.99%; Reduce 1.23%; Reduce 3.30%; Reduce 2.92%; Reduce 0.20%,59.29,73.29,28469042000,2.23,47.64285714285708,True,28495.806285714287,Heavy Distribution
-MCO,Moody's Corp.,481.19,13,"Lee Ainslie
+Yacktman Asset Management",107976,"Q2 2025, Q1 2025, Q4 2024",Reduce 28.99%; Reduce 1.23%; Reduce 3.30%; Reduce 2.92%; Reduce 0.20%,59.29,73.29,28469042000,2.23,52.57142857142859,True,28496.299142857144,Heavy Distribution
+MCO,Moody's Corp.,485.04,13,"Lee Ainslie
 Chuck Akre
 AltaRock Partners
 Chris Hohn
 Triple Frond Partners
 AKO Capital
 William Von Mueffling
-Robert Olstein",1348703,"Q4 2024, Q2 2025, Q1 2025",Reduce 84.92%; Reduce 5.34%; Reduce 20.90%; Reduce 8.44%; Reduce 10.85%,377.3,528.95,22108649000,5.45,68.5064292779426,True,22141.4996429278,Heavy Distribution
-AMZN,Amazon.com Inc.,222.02,37,"Christopher Bloomstran
+Robert Olstein",1348703,"Q4 2024, Q2 2025, Q1 2025",Reduce 84.92%; Reduce 5.34%; Reduce 20.90%; Reduce 8.44%; Reduce 10.85%,377.3,528.95,22108649000,5.45,71.04516979887899,True,22141.75351697989,Heavy Distribution
+AMZN,Amazon.com Inc.,219.51,37,"Christopher Bloomstran
 David Tepper
 Viking Global Investors
 Daniel Loeb
@@ -59,8 +59,8 @@ AltaRock Partners
 Josh Tarasoff
 Triple Frond Partners
 Polen Capital Management
-AKO Capital",20512036,"Q1 2025, Q4 2024, Q2 2025",Sell 100.00%; Reduce 24.53%; Reduce 3.46%; Reduce 18.75%; Reduce 35.53%,161.38,242.52,20226817000,6.86,74.73502588119301,True,20308.29050258812,Heavy Distribution
-META,Meta Platforms Inc.,725.2,44,"Ruane Cunniff
+AKO Capital",20512036,"Q1 2025, Q4 2024, Q2 2025",Sell 100.00%; Reduce 24.53%; Reduce 3.46%; Reduce 18.75%; Reduce 35.53%,161.38,242.52,20226817000,6.86,71.64160709884149,True,20307.98116070988,Heavy Distribution
+META,Meta Platforms Inc.,710.56,44,"Ruane Cunniff
 David Tepper
 Lee Ainslie
 Viking Global Investors
@@ -69,8 +69,8 @@ David Rolfe
 Daniel Loeb
 Stephen Mandel
 Pat Dorsey
-Terry Smith",6347482,"Q2 2025, Q4 2024, Q1 2025",Reduce 1.42%; Reduce 10.76%; Reduce 27.27%; Reduce 21.60%; Sell 100.00%,479.11,795.71,19204042000,6.12,77.72899557801642,True,19299.8148995578,Heavy Distribution
-V,Visa Inc.,346.15,40,"Lee Ainslie
+Terry Smith",6347482,"Q2 2025, Q4 2024, Q1 2025",Reduce 1.42%; Reduce 10.76%; Reduce 27.27%; Reduce 21.60%; Sell 100.00%,479.11,795.71,19204042000,6.12,73.10486418193301,True,19299.3524864182,Heavy Distribution
+V,Visa Inc.,349.84,40,"Lee Ainslie
 Viking Global Investors
 ValueAct Capital
 Chuck Akre
@@ -79,10 +79,10 @@ AltaRock Partners
 Chris Hohn
 Terry Smith
 Triple Frond Partners
-Polen Capital Management",7878678,"Q1 2025, Q4 2024, Q2 2025",Sell 100.00%; Reduce 13.26%; Reduce 23.73%; Reduce 39.20%; Reduce 0.30%,271.33,374.85,18479164000,4.17,72.27588871715606,True,18566.39158887172,Heavy Distribution
-CVX,Chevron Corp.,153.56,3,"Charles Bobrinskoy
-Thomas Russo",2859,"Q1 2025, Q2 2025",Reduce 5.70%; Reduce 36.68%; Reduce 5.55%,129.01,165.09,17500674000,2.26,68.04323725055433,True,17513.478323725056,Profit Taking
-BRK.B,Berkshire Hathaway CL B,496.82,29,"Ruane Cunniff
+Polen Capital Management",7878678,"Q1 2025, Q4 2024, Q2 2025",Sell 100.00%; Reduce 13.26%; Reduce 23.73%; Reduce 39.20%; Reduce 0.30%,271.33,374.85,18479164000,4.17,75.84041731066456,True,18566.748041731065,Heavy Distribution
+CVX,Chevron Corp.,153.55,3,"Charles Bobrinskoy
+Thomas Russo",2859,"Q1 2025, Q2 2025",Reduce 5.70%; Reduce 36.68%; Reduce 5.55%,129.01,165.09,17500674000,2.26,68.01552106430158,True,17513.47555210643,Profit Taking
+BRK.B,Berkshire Hathaway CL B,498.75,29,"Ruane Cunniff
 Bruce Berkowitz
 Chuck Akre
 Bill & Melinda Gates Foundation Trust
@@ -91,13 +91,13 @@ Thomas Russo
 Francois Rochon
 Christopher Davis
 Yacktman Asset Management
-Harry Burn",6184509,"Q4 2024, Q2 2025, Q1 2025",Reduce 47.55%; Reduce 0.25%; Reduce 2.71%; Reduce 7.84%; Reduce 0.65%,437.9,542.07,16171379000,6.66,56.56139003551884,True,16235.035139003552,Heavy Distribution
-GE,GE Aerospace,299.06,10,"Christopher Bloomstran
+Harry Burn",6184509,"Q4 2024, Q2 2025, Q1 2025",Reduce 47.55%; Reduce 0.25%; Reduce 2.71%; Reduce 7.84%; Reduce 0.65%,437.9,542.07,16171379000,6.66,58.41413074781605,True,16235.220413074783,Heavy Distribution
+GE,GE Aerospace,297.0,10,"Christopher Bloomstran
 Chris Hohn
 AKO Capital
 John Armitage
-Dodge & Cox",8105975,"Q2 2025, Q4 2024, Q1 2025",Reduce 4.98%; Reduce 0.13%; Reduce 4.53%; Reduce 16.35%; Reduce 8.42%,158.62,306.88,15829985000,10.57,94.72548226089305,True,15859.45754822609,Heavy Distribution
-GOOG,Alphabet Inc. CL C,245.47,46,"David Tepper
+Dodge & Cox",8105975,"Q2 2025, Q4 2024, Q1 2025",Reduce 4.98%; Reduce 0.13%; Reduce 4.53%; Reduce 16.35%; Reduce 8.42%,158.62,306.88,15829985000,10.57,93.33603129637125,True,15859.318603129635,Heavy Distribution
+GOOG,Alphabet Inc. CL C,246.45,46,"David Tepper
 Li Lu
 Bill Ackman
 Bryan Lawrence
@@ -106,8 +106,8 @@ Pat Dorsey
 Chris Hohn
 Seth Klarman
 Triple Frond Partners
-Polen Capital Management",29270967,"Q2 2025, Q4 2024, Q1 2025",Reduce 25.37%; Reduce 0.00%; Reduce 19.47%; Reduce 16.21%; Reduce 0.60%,142.36,256.7,11405374000,4.76,90.17841525275496,True,11506.391841525276,Heavy Distribution
-GOOGL,Alphabet Inc.,244.84,44,"Bill Nygren
+Polen Capital Management",29270967,"Q2 2025, Q4 2024, Q1 2025",Reduce 25.37%; Reduce 0.00%; Reduce 19.47%; Reduce 16.21%; Reduce 0.60%,142.36,256.7,11405374000,4.76,91.03550813363653,True,11506.477550813364,Heavy Distribution
+GOOGL,Alphabet Inc.,245.35,44,"Bill Nygren
 Ruane Cunniff
 Viking Global Investors
 David Rolfe
@@ -116,8 +116,8 @@ AltaRock Partners
 Chris Hohn
 Josh Tarasoff
 Terry Smith
-Prem Watsa",14781394,"Q2 2025, Q4 2024, Q1 2025",Reduce 29.96%; Reduce 8.14%; Reduce 13.04%; Sell 100.00%; Reduce 18.81%,140.23,256.0,11192165000,3.5,90.360196942213,True,11289.201019694225,Heavy Distribution
-COF,Capital One Financial,214.16,26,"Bill Nygren
+Prem Watsa",14781394,"Q2 2025, Q4 2024, Q1 2025",Reduce 29.96%; Reduce 8.14%; Reduce 13.04%; Sell 100.00%; Reduce 18.81%,140.23,256.0,11192165000,3.5,90.80072557657424,True,11289.245072557658,Heavy Distribution
+COF,Capital One Financial,214.4,26,"Bill Nygren
 Ruane Cunniff
 Stephen Mandel
 Warren Buffett
@@ -126,8 +126,8 @@ Clifford Sosin
 Francois Rochon
 John Armitage
 Christopher Davis
-Harry Burn",8494710,"Q1 2025, Q4 2024, Q2 2025",Reduce 4.92%; Reduce 12.15%; Reduce 19.87%; Reduce 3.01%; Reduce 1.84%,141.57,231.82,9651523000,4.09,80.43213296398892,True,9711.5662132964,Heavy Distribution
-MA,Mastercard Inc.,579.32,24,"Chuck Akre
+Harry Burn",8494710,"Q1 2025, Q4 2024, Q2 2025",Reduce 4.92%; Reduce 12.15%; Reduce 19.87%; Reduce 3.01%; Reduce 1.84%,142.38,231.82,9651523000,4.09,80.5232558139535,True,9711.575325581394,Heavy Distribution
+MA,Mastercard Inc.,580.45,24,"Chuck Akre
 AltaRock Partners
 Terry Smith
 Polen Capital Management
@@ -136,12 +136,12 @@ John Armitage
 Jensen Investment Management
 Torray Funds
 Wallace Weitz
-Robert Olstein",2487226,"Q2 2025, Q1 2025, Q4 2024",Reduce 1.07%; Reduce 10.06%; Reduce 5.53%; Reduce 5.45%; Reduce 44.06%,464.22,601.77,8697123000,5.56,83.67866230461655,True,8753.49086623046,Heavy Distribution
-CB,Chubb Limited,281.89,7,"Viking Global Investors
+Robert Olstein",2487226,"Q2 2025, Q1 2025, Q4 2024",Reduce 1.07%; Reduce 10.06%; Reduce 5.53%; Reduce 5.45%; Reduce 44.06%,464.22,601.77,8697123000,5.56,84.50018175209019,True,8753.573018175208,Heavy Distribution
+CB,Chubb Limited,283.96,7,"Viking Global Investors
 John Armitage
 Christopher Davis
-Torray Funds",2257839,"Q2 2025, Q4 2024, Q1 2025",Sell 100.00%; Reduce 1.34%; Reduce 0.79%; Reduce 7.07%; Reduce 10.61%,249.66,304.83,8147682000,1.87,58.41943085009969,True,8167.52394308501,Heavy Distribution
-SCHW,Charles Schwab Corp.,92.83,20,"Bill Nygren
+Torray Funds",2257839,"Q2 2025, Q4 2024, Q1 2025",Sell 100.00%; Reduce 1.34%; Reduce 0.79%; Reduce 7.07%; Reduce 10.61%,249.66,304.83,8147682000,1.87,62.171470001812565,True,8167.899147000181,Heavy Distribution
+SCHW,Charles Schwab Corp.,94.08,20,"Bill Nygren
 Ruane Cunniff
 John Rogers
 Lee Ainslie
@@ -150,8 +150,8 @@ Christopher Davis
 First Eagle Investment Management
 Yacktman Asset Management
 Dodge & Cox
-Mairs & Power Growth Fund",12280729,"Q2 2025, Q4 2024, Q1 2025",Reduce 21.06%; Reduce 7.56%; Reduce 9.22%; Reduce 28.73%; Reduce 6.66%,61.62,99.42,8039752000,3.43,82.56613756613756,True,8088.008613756614,Heavy Distribution
-TSM,Taiwan Semiconductor S.A.,288.49,17,"Ruane Cunniff
+Mairs & Power Growth Fund",12280729,"Q2 2025, Q4 2024, Q1 2025",Reduce 21.06%; Reduce 7.56%; Reduce 9.22%; Reduce 28.73%; Reduce 6.66%,63.26,99.42,8039752000,3.43,85.23230088495575,True,8088.275230088496,Heavy Distribution
+TSM,Taiwan Semiconductor S.A.,292.19,17,"Ruane Cunniff
 David Tepper
 Viking Global Investors
 David Rolfe
@@ -160,64 +160,46 @@ Stephen Mandel
 Duan Yongping
 Prem Watsa
 Sarah Ketterer
-Francois Rochon",2663967,"Q4 2024, Q2 2025, Q1 2025",Reduce 37.79%; Reduce 37.50%; Reduce 11.45%; Reduce 16.60%; Reduce 0.01%,133.34,295.9,7931092000,2.79,95.44168307086616,True,7974.636168307086,Heavy Distribution
-WM,Waste Management Inc.,216.99,3,Jensen Investment Management,327782,"Q2 2025, Q1 2025, Q4 2024",Reduce 7.89%; Reduce 13.96%; Reduce 1.36%,197.52,240.84,7644504000,9.3,44.94459833795014,True,7654.998459833795,Profit Taking
-CP,Canadian Pacific Kansas City,75.46,9,"Lee Ainslie
+Francois Rochon",2663967,"Q4 2024, Q2 2025, Q1 2025",Reduce 37.79%; Reduce 37.50%; Reduce 11.45%; Reduce 16.60%; Reduce 0.01%,133.34,296.72,7931092000,2.79,97.22732280572896,True,7974.814732280573,Heavy Distribution
+WM,Waste Management Inc.,219.76,3,Jensen Investment Management,327782,"Q2 2025, Q1 2025, Q4 2024",Reduce 7.89%; Reduce 13.96%; Reduce 1.36%,197.52,240.84,7644504000,9.3,51.33887349953829,True,7655.637887349953,Profit Taking
+CP,Canadian Pacific Kansas City,77.59,9,"Lee Ainslie
 Bill Ackman
 Chris Hohn
 Sarah Ketterer
 Triple Frond Partners
 John Armitage
-William Von Mueffling",23708169,"Q4 2024, Q2 2025, Q1 2025",Reduce 74.91%; Sell 100.00%; Reduce 0.52%; Reduce 3.80%; Reduce 14.69%,66.2,84.03,6050125000,5.4,51.9349411104879,True,6073.3184941110485,Heavy Distribution
-ORCL,Oracle Corp.,289.17,25,"Charles Bobrinskoy
-David Tepper
-Lee Ainslie
-Sarah Ketterer
-Polen Capital Management
-Jensen Investment Management
-Lindsell Train
-Christopher Davis
-First Eagle Investment Management
-Yacktman Asset Management",4587447,"Q2 2025, Q1 2025, Q4 2024",Reduce 16.86%; Reduce 9.29%; Reduce 25.27%; Reduce 78.57%; Reduce 50.00%,118.18,345.72,5463780000,2.12,75.14722686121121,False,5521.294722686121,Heavy Distribution
-PM,Philip Morris Intl.,158.82,16,"Lee Ainslie
-Viking Global Investors
-Stephen Mandel
-Terry Smith
-Thomas Russo
-First Eagle Investment Management
-Yacktman Asset Management
-David Katz",16004170,"Q2 2025, Q1 2025, Q4 2024",Reduce 3.46%; Reduce 27.59%; Reduce 36.84%; Reduce 43.79%; Reduce 8.34%,114.24,185.29,5262725000,3.23,62.74454609429979,True,5300.99945460943,Heavy Distribution
-BN,Brookfield Corp.,68.45,6,"Daniel Loeb
+William Von Mueffling",23708169,"Q4 2024, Q2 2025, Q1 2025",Reduce 74.91%; Sell 100.00%; Reduce 0.52%; Reduce 3.80%; Reduce 14.69%,66.2,83.47,6050125000,5.4,65.95251881876088,True,6074.720251881876,Heavy Distribution
+BN,Brookfield Corp.,68.71,6,"Daniel Loeb
 Josh Tarasoff
-Third Avenue Management",1862660,"Q1 2025, Q2 2025, Q4 2024",Reduce 15.03%; Sell 100.00%; Reduce 2.76%; Reduce 3.98%; Reduce 3.38%,43.49,74.2,4933780000,7.65,81.27645718007163,True,4953.907645718007,Heavy Distribution
-NVDA,NVIDIA Corp.,189.14,12,"David Tepper
+Third Avenue Management",1862660,"Q1 2025, Q2 2025, Q4 2024",Reduce 15.03%; Sell 100.00%; Reduce 2.76%; Reduce 3.98%; Reduce 3.38%,43.49,74.2,4933780000,7.65,82.12308694236403,True,4953.992308694236,Heavy Distribution
+NVDA,NVIDIA Corp.,187.62,12,"David Tepper
 Lee Ainslie
 Viking Global Investors
 Sarah Ketterer
 Samantha McLemore
 Torray Funds
 David Katz
-Mairs & Power Growth Fund",3871727,"Q1 2025, Q4 2024, Q2 2025",Reduce 55.88%; Reduce 10.72%; Reduce 43.73%; Reduce 10.30%; Reduce 11.95%,86.61,190.24,4701087000,3.13,98.93853131332624,True,4734.980853131333,Heavy Distribution
-CVS,CVS Health Corp.,77.69,11,"Daniel Loeb
+Mairs & Power Growth Fund",3871727,"Q1 2025, Q4 2024, Q2 2025",Reduce 55.88%; Reduce 10.72%; Reduce 43.73%; Reduce 10.30%; Reduce 11.95%,86.61,191.05,4701087000,3.13,96.71581769436996,True,4734.758581769437,Heavy Distribution
+CVS,CVS Health Corp.,77.49,11,"Daniel Loeb
 Samantha McLemore
 Harry Burn
 David Katz
 Robert Olstein
 Richard Pzena
-Hillman Value Fund",3333885,"Q4 2024, Q2 2025, Q1 2025",Sell 100.00%; Reduce 6.31%; Reduce 13.77%; Reduce 30.00%; Reduce 10.57%,42.12,77.69,4439047000,3.78,100.0,True,4471.047,Heavy Distribution
-RTX,RTX Corp.,166.92,12,"Mason Hawkins
+Hillman Value Fund",3333885,"Q4 2024, Q2 2025, Q1 2025",Sell 100.00%; Reduce 6.31%; Reduce 13.77%; Reduce 30.00%; Reduce 10.57%,42.12,79.2,4439047000,3.78,95.38834951456307,True,4470.585834951456,Heavy Distribution
+RTX,RTX Corp.,166.58,12,"Mason Hawkins
 Jensen Investment Management
 Torray Funds
 David Katz
 Robert Olstein
-Dodge & Cox",2710722,"Q1 2025, Q2 2025, Q4 2024",Sell 100.00%; Reduce 0.51%; Reduce 0.45%; Reduce 0.69%; Reduce 19.73%,111.21,168.28,4262964000,1.03,97.61696162607322,True,4296.725696162607,Heavy Distribution
-UBER,Uber Technologies Inc.,95.91,7,"David Tepper
+Dodge & Cox",2710722,"Q1 2025, Q2 2025, Q4 2024",Sell 100.00%; Reduce 0.51%; Reduce 0.45%; Reduce 0.69%; Reduce 19.73%,111.21,168.28,4262964000,1.03,97.02120203259156,True,4296.666120203259,Heavy Distribution
+UBER,Uber Technologies Inc.,96.6,7,"David Tepper
 Lee Ainslie
 Chase Coleman
 John Armitage
 William Von Mueffling
-Steven Romick",6749504,"Q2 2025, Q1 2025, Q4 2024",Reduce 14.06%; Reduce 82.47%; Reduce 94.18%; Sell 100.00%; Reduce 2.83%,59.33,101.99,4112955000,3.71,85.74777308954525,True,4135.529777308954,Heavy Distribution
-WFC,Wells Fargo,80.6,33,"Bill Nygren
+Steven Romick",6749504,"Q2 2025, Q1 2025, Q4 2024",Reduce 14.06%; Reduce 82.47%; Reduce 94.18%; Sell 100.00%; Reduce 2.83%,59.33,101.99,4112955000,3.71,87.3652133145804,True,4135.691521331458,Heavy Distribution
+WFC,Wells Fargo,80.67,33,"Bill Nygren
 Lee Ainslie
 Thomas Russo
 Christopher Davis
@@ -226,17 +208,17 @@ Harry Burn
 David Katz
 Robert Olstein
 Tweedy Browne Co.
-Richard Pzena",42536042,"Q4 2024, Q1 2025, Q2 2025",Sell 100.00%; Reduce 63.68%; Reduce 67.50%; Reduce 51.89%; Reduce 3.45%,53.22,86.66,3986500000,1.87,81.877990430622,True,4060.687799043062,Heavy Distribution
-BK,Bank of New York Mellon Corp.,106.56,14,"Christopher Davis
+Richard Pzena",42536042,"Q4 2024, Q1 2025, Q2 2025",Sell 100.00%; Reduce 63.68%; Reduce 67.50%; Reduce 51.89%; Reduce 3.45%,54.76,86.66,3986500000,1.87,81.22257053291537,True,4060.6222570532914,Heavy Distribution
+BK,Bank of New York Mellon Corp.,106.6,14,"Christopher Davis
 First Eagle Investment Management
 Yacktman Asset Management
 David Katz
-Dodge & Cox",12619979,"Q2 2025, Q1 2025, Q4 2024",Reduce 0.64%; Reduce 10.59%; Reduce 60.18%; Reduce 9.94%; Reduce 0.62%,68.8,110.87,3970329000,1.49,89.75516995483717,True,4007.304516995484,Heavy Distribution
-VRSN,Verisign Inc.,275.27,2,Terry Smith,353866,"Q2 2025, Q1 2025",Reduce 52.52%; Reduce 8.72%,174.64,309.71,3916276000,0.92,74.50211001702822,True,3927.726211001703,Profit Taking
-KR,Kroger Co.,66.33,6,"Lee Ainslie
+Dodge & Cox",12619979,"Q2 2025, Q1 2025, Q4 2024",Reduce 0.64%; Reduce 10.59%; Reduce 60.18%; Reduce 9.94%; Reduce 0.62%,69.47,110.87,3970329000,1.49,89.68599033816422,True,4007.297599033816,Heavy Distribution
+VRSN,Verisign Inc.,272.98,2,Terry Smith,353866,"Q2 2025, Q1 2025",Reduce 52.52%; Reduce 8.72%,174.64,309.71,3916276000,0.92,72.80669282594214,True,3927.556669282594,Profit Taking
+KR,Kroger Co.,66.3,6,"Lee Ainslie
 Jensen Investment Management
-Harry Burn",642538,"Q4 2024, Q2 2025, Q1 2025",Sell 100.00%; Reduce 4.86%; Reduce 30.08%; Reduce 25.78%; Reduce 9.34%,53.78,74.52,3657226000,0.91,60.51108968177436,True,3675.277108968177,Heavy Distribution
-BRK.A,Berkshire Hathaway CL A,745000.0,19,"Christopher Bloomstran
+Harry Burn",642538,"Q4 2024, Q2 2025, Q1 2025",Sell 100.00%; Reduce 4.86%; Reduce 30.08%; Reduce 25.78%; Reduce 9.34%,53.78,74.52,3657226000,0.91,60.36644165863066,True,3675.262644165863,Heavy Distribution
+BRK.A,Berkshire Hathaway CL A,750583.17,19,"Christopher Bloomstran
 Norbert Lou
 Josh Tarasoff
 Francis Chou
@@ -244,8 +226,8 @@ Thomas Russo
 Christopher Davis
 First Eagle Investment Management
 Yacktman Asset Management
-Tweedy Browne Co.",1495,"Q1 2025, Q4 2024, Q2 2025",Reduce 3.33%; Reduce 5.51%; Reduce 58.45%; Reduce 4.29%; Reduce 1.41%,657497.5,812855.0,3597356000,9.19,56.32331879696828,True,3640.988331879697,Heavy Distribution
-DIS,Walt Disney Co.,112.51,27,"Christopher Bloomstran
+Tweedy Browne Co.",1495,"Q1 2025, Q4 2024, Q2 2025",Reduce 3.33%; Reduce 5.51%; Reduce 58.45%; Reduce 4.29%; Reduce 1.41%,657497.5,812855.0,3597356000,9.19,59.91707513316064,True,3641.347707513317,Heavy Distribution
+DIS,Walt Disney Co.,112.47,27,"Christopher Bloomstran
 ValueAct Capital
 Kahn Brothers Group
 Duan Yongping
@@ -254,33 +236,38 @@ Thomas Russo
 Francois Rochon
 Lindsell Train
 First Eagle Investment Management
-Yacktman Asset Management",5381049,"Q1 2025, Q2 2025, Q4 2024",Reduce 0.19%; Reduce 22.52%; Reduce 12.04%; Reduce 1.37%; Reduce 12.93%,79.76,124.69,3292326000,3.51,72.89116403294014,True,3353.615116403294,Heavy Distribution
-SE,Sea Ltd,183.61,6,"Viking Global Investors
+Yacktman Asset Management",5381049,"Q1 2025, Q2 2025, Q4 2024",Reduce 0.19%; Reduce 22.52%; Reduce 12.04%; Reduce 1.37%; Reduce 12.93%,79.76,124.69,3292326000,3.51,72.80213665702203,True,3353.6062136657024,Heavy Distribution
+SE,Sea Ltd,184.91,6,"Viking Global Investors
 Dennis Hong
-Christopher Davis",1767011,"Q2 2025, Q1 2025, Q4 2024",Reduce 14.98%; Sell 100.00%; Reduce 66.55%; Reduce 12.89%; Reduce 19.34%,92.5,199.3,3323947000,1.55,85.30898876404494,True,3344.4778988764047,Heavy Distribution
-LLY,Eli Lilly & Co.,819.88,6,"Viking Global Investors
+Christopher Davis",1767011,"Q2 2025, Q1 2025, Q4 2024",Reduce 14.98%; Sell 100.00%; Reduce 66.55%; Reduce 12.89%; Reduce 19.34%,92.5,199.3,3323947000,1.55,86.5262172284644,True,3344.5996217228467,Heavy Distribution
+LLY,Eli Lilly & Co.,839.87,6,"Viking Global Investors
 Stephen Mandel
 Polen Capital Management
 John Armitage
-David Katz",1444382,"Q4 2024, Q2 2025, Q1 2025",Sell 100.00%; Reduce 29.51%; Reduce 0.95%; Reduce 4.41%,622.41,931.66,3184196000,1.68,63.854486661277285,True,3202.5814486661275,Heavy Distribution
-AON,Aon Plc,360.1,10,"Viking Global Investors
+David Katz",1444382,"Q4 2024, Q2 2025, Q1 2025",Sell 100.00%; Reduce 29.51%; Reduce 0.95%; Reduce 4.41%,622.41,931.66,3184196000,1.68,70.31851253031529,True,3203.2278512530315,Heavy Distribution
+AON,Aon Plc,363.81,10,"Viking Global Investors
 Polen Capital Management
 Wallace Weitz
 William Von Mueffling
 David Katz
-Steven Romick",1220401,"Q1 2025, Q2 2025, Q4 2024",Sell 100.00%; Reduce 8.71%; Reduce 7.95%; Reduce 30.61%; Reduce 2.82%,322.37,411.24,3142660000,1.44,42.45527174524588,True,3166.9055271745247,Heavy Distribution
-MET,MetLife Inc.,81.56,8,"Viking Global Investors
+Steven Romick",1220401,"Q1 2025, Q2 2025, Q4 2024",Sell 100.00%; Reduce 8.71%; Reduce 7.95%; Reduce 30.61%; Reduce 2.82%,322.37,411.24,3142660000,1.44,46.62990885563182,True,3167.322990885563,Heavy Distribution
+MET,MetLife Inc.,82.37,8,"Viking Global Investors
 Richard Pzena
-Dodge & Cox",7268650,"Q2 2025, Q1 2025, Q4 2024",Sell 100.00%; Reduce 98.60%; Reduce 10.26%; Reduce 6.92%; Reduce 43.64%,64.24,87.17,3138329000,2.97,75.53423462712604,True,3161.8824234627127,Heavy Distribution
-BKNG,Booking Holdings Inc.,5409.01,16,"David Rolfe
+Dodge & Cox",7268650,"Q2 2025, Q1 2025, Q4 2024",Sell 100.00%; Reduce 98.60%; Reduce 10.26%; Reduce 6.92%; Reduce 43.64%,64.24,87.17,3138329000,2.97,79.06672481465331,True,3162.2356724814654,Heavy Distribution
+BKNG,Booking Holdings Inc.,5418.05,16,"David Rolfe
 Stephen Mandel
 AKO Capital
 Francois Rochon
 John Armitage
 Yacktman Asset Management
-Dodge & Cox",220135,"Q2 2025, Q1 2025, Q4 2024",Reduce 2.68%; Reduce 0.09%; Reduce 4.45%; Sell 100.00%; Reduce 4.09%,4032.06,5829.38,3116292000,3.66,76.61128791756616,True,3155.9531287917566,Heavy Distribution
-CVNA,Carvana Co.,397.0,8,"Viking Global Investors
+Dodge & Cox",220135,"Q2 2025, Q1 2025, Q4 2024",Reduce 2.68%; Reduce 0.09%; Reduce 4.45%; Sell 100.00%; Reduce 4.09%,4082.14,5829.38,3116292000,3.66,76.45829994734554,True,3155.9378299947343,Heavy Distribution
+CVNA,Carvana Co.,375.72,8,"Viking Global Investors
 Stephen Mandel
 Clifford Sosin
 Samantha McLemore
-Robert Vinall",3854789,"Q2 2025, Q1 2025, Q4 2024",Reduce 57.79%; Reduce 23.72%; Reduce 13.42%; Reduce 10.86%; Reduce 1.17%,148.25,413.34,2792583000,23.6,93.8360556792033,True,2817.9666055679204,Heavy Distribution
+Robert Vinall",3854789,"Q2 2025, Q1 2025, Q4 2024",Reduce 57.79%; Reduce 23.72%; Reduce 13.42%; Reduce 10.86%; Reduce 1.17%,148.25,413.34,2792583000,23.6,85.80859330793318,True,2817.163859330793,Heavy Distribution
+DE,Deere & Co.,462.88,7,"Bill Nygren
+First Eagle Investment Management
+Robert Olstein",549404,"Q2 2025, Q1 2025, Q4 2024",Reduce 37.62%; Reduce 19.20%; Reduce 3.31%; Reduce 0.20%; Reduce 33.33%,381.67,530.24,2789378000,2.18,54.661102510601054,True,2808.84411025106,Heavy Distribution
+SNY,Sanofi Aventis,50.9,4,"First Eagle Investment Management
+Dodge & Cox",3105953,"Q2 2025, Q1 2025, Q4 2024",Reduce 6.95%; Reduce 1.59%; Reduce 2.32%; Reduce 1.47%,43.86,57.56,2721221000,1.03,51.38686131386859,True,2734.3596861313868,Profit Taking

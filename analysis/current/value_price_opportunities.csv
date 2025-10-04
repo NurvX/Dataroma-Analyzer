@@ -1,5 +1,5 @@
 ticker,company_name,current_price,managers,total_value,avg_portfolio_pct,manager_count,avg_reported_price,max_portfolio_pct,price_change_pct,52_week_low,discount_to_52w_low_pct,recent_buy_count,value_opportunity_score,value_type
-MSFT,Microsoft Corp.,516.82,"David Tepper
+MSFT,Microsoft Corp.,517.35,"David Tepper
 Lee Ainslie
 David Rolfe
 Daniel Loeb
@@ -8,8 +8,8 @@ Glenn Greenberg
 Stephen Mandel
 Kahn Brothers Group
 Chase Coleman
-Duan Yongping",41002078000,6.49,34,492.75558823529417,27.27,4.883640559184274,343.59,50.41764894205305,34.0,73.724852847015,Active Accumulation
-GOOGL,Alphabet Inc.,244.84,"Bill Nygren
+Duan Yongping",41002078000,6.49,34,492.75558823529417,27.27,4.991198953782713,343.59,50.57190255828169,34.0,73.71714016620356,Active Accumulation
+GOOGL,Alphabet Inc.,245.35,"Bill Nygren
 Ruane Cunniff
 Lee Ainslie
 Li Lu
@@ -18,8 +18,8 @@ Bill Ackman
 Glenn Greenberg
 Chase Coleman
 Leon Cooperman
-AltaRock Partners",11192165000,3.5,33,176.7990909090909,16.67,38.48487497364756,140.23,74.59887327961208,27.0,63.020056336019394,Active Accumulation
-META,Meta Platforms Inc.,725.2,"Ruane Cunniff
+AltaRock Partners",11192165000,3.5,33,176.7990909090909,16.67,38.77333799536198,140.23,74.96256150609713,27.0,63.001871924695145,Active Accumulation
+META,Meta Platforms Inc.,710.56,"Ruane Cunniff
 David Tepper
 Viking Global Investors
 ValueAct Capital
@@ -28,8 +28,8 @@ Daniel Loeb
 Glenn Greenberg
 Stephen Mandel
 Chase Coleman
-Pat Dorsey",19204042000,6.12,28,735.2885714285715,19.54,-1.372056063508591,479.11,51.36398739329173,24.0,57.76603327160856,Active Accumulation
-AMZN,Amazon.com Inc.,222.02,"David Tepper
+Pat Dorsey",19204042000,6.12,28,735.2885714285715,19.54,-3.3631110817521708,479.11,48.30832167978125,24.0,58.3170275609328,Active Accumulation
+AMZN,Amazon.com Inc.,219.51,"David Tepper
 Lee Ainslie
 Viking Global Investors
 ValueAct Capital
@@ -38,8 +38,8 @@ Bill Ackman
 Glenn Greenberg
 Stephen Mandel
 Warren Buffett
-Chase Coleman",20226817000,6.86,26,215.835,25.14,2.8656149373363924,161.38,37.57590779526584,22.0,54.55081999485209,Active Accumulation
-GOOG,Alphabet Inc. CL C,245.47,"David Tepper
+Chase Coleman",20226817000,6.86,26,215.835,25.14,1.7026895545208067,161.38,36.02057256165572,22.0,54.6285867565326,Active Accumulation
+GOOG,Alphabet Inc. CL C,246.45,"David Tepper
 Li Lu
 Bill Ackman
 Glenn Greenberg
@@ -48,8 +48,8 @@ Bryan Lawrence
 Duan Yongping
 Pat Dorsey
 Chris Hohn
-Seth Klarman",11405374000,4.76,28,171.23035714285714,16.17,43.356589389815305,142.36,72.42905310480471,18.0,49.75658305904548,Active Accumulation
-UNH,United Health Group Inc.,353.0,"Ruane Cunniff
+Seth Klarman",11405374000,4.76,28,171.23035714285714,16.17,43.928917811219215,142.36,73.11744872155097,18.0,49.72216327820816,Active Accumulation
+UNH,United Health Group Inc.,360.2,"Ruane Cunniff
 David Tepper
 Lee Ainslie
 Michael Burry
@@ -58,9 +58,9 @@ Stephen Mandel
 Warren Buffett
 Chase Coleman
 Polen Capital Management
-Samantha McLemore",5758115000,2.42,19,311.9773684210527,11.85,13.149233159625256,233.13,51.41766396431176,23.0,45.6383273281002,Value Opportunity
-JOE,St. Joe Co.,48.67,Bruce Berkowitz,963739000,78.54,1,47.7,78.54,2.033542976939201,39.95,21.827284105131408,0.0,44.17863579474344,Value Opportunity
-TSM,Taiwan Semiconductor S.A.,288.49,"Ruane Cunniff
+Samantha McLemore",5758115000,2.42,19,311.9773684210527,11.85,15.45709287279608,233.13,54.50606957491529,23.0,45.48390704757003,Value Opportunity
+JOE,St. Joe Co.,49.26,Bruce Berkowitz,963739000,78.54,1,47.7,78.54,3.2704402515723165,39.95,23.30413016270337,0.0,44.10479349186483,Value Opportunity
+TSM,Taiwan Semiconductor S.A.,292.19,"Ruane Cunniff
 David Tepper
 Lee Ainslie
 Viking Global Investors
@@ -69,8 +69,8 @@ Daniel Loeb
 Stephen Mandel
 Chase Coleman
 Duan Yongping
-Prem Watsa",7931092000,2.79,20,217.60100000000003,9.16,32.57751572832844,133.34,116.3566821658917,23.0,43.57866589170541,Value Opportunity
-V,Visa Inc.,346.15,"Viking Global Investors
+Prem Watsa",7931092000,2.79,20,217.60100000000003,9.16,34.277875561233614,133.34,119.13154342282886,23.0,43.43992282885856,Value Opportunity
+V,Visa Inc.,349.84,"Viking Global Investors
 ValueAct Capital
 Chuck Akre
 David Rolfe
@@ -79,8 +79,8 @@ Warren Buffett
 Valley Forge Capital Management
 AltaRock Partners
 Chris Hohn
-Terry Smith",18479164000,4.17,24,354.4808333333333,13.35,-2.350150572315863,271.33,27.575277337559427,12.0,42.1756412475852,Active Accumulation
-BRK.B,Berkshire Hathaway CL B,496.82,"Ruane Cunniff
+Terry Smith",18479164000,4.17,24,354.4808333333333,13.35,-1.3091916112060715,271.33,28.93524490472856,12.0,41.899451077004784,Active Accumulation
+BRK.B,Berkshire Hathaway CL B,498.75,"Ruane Cunniff
 Christopher Bloomstran
 Bruce Berkowitz
 Chuck Akre
@@ -89,8 +89,8 @@ Bill & Melinda Gates Foundation Trust
 Duan Yongping
 Thomas Russo
 Francois Rochon
-Christopher Davis",16171379000,6.66,20,485.774,24.53,2.273896915026328,437.9,13.455126741265133,13.0,40.65524366293674,Active Accumulation
-AAPL,Apple Inc.,257.59,"Christopher Bloomstran
+Christopher Davis",16171379000,6.66,20,485.774,24.53,2.6712010111698032,437.9,13.89586663621832,13.0,40.63320666818909,Active Accumulation
+AAPL,Apple Inc.,258.02,"Christopher Bloomstran
 Lee Ainslie
 Bruce Berkowitz
 Li Lu
@@ -99,8 +99,8 @@ Warren Buffett
 Kahn Brothers Group
 Duan Yongping
 Sarah Ketterer
-Francis Chou",65659701000,5.69,20,205.152,62.47,25.56055997504289,168.8,52.60071090047391,15.0,40.2142144549763,Active Accumulation
-COF,Capital One Financial,214.16,"Bill Nygren
+Francis Chou",65659701000,5.69,20,205.152,62.47,25.77016066136328,168.8,52.8554502369668,15.0,40.20147748815166,Active Accumulation
+COF,Capital One Financial,214.4,"Bill Nygren
 Ruane Cunniff
 Lee Ainslie
 Viking Global Investors
@@ -109,8 +109,8 @@ Glenn Greenberg
 Stephen Mandel
 Warren Buffett
 Clifford Sosin
-Francois Rochon",9651523000,4.09,17,212.76,10.19,0.6580184245158892,141.57,51.274987638624005,15.0,36.482132971009975,Active Accumulation
-DIS,Walt Disney Co.,112.51,"Mason Hawkins
+Francois Rochon",9651523000,4.09,17,212.76,10.19,0.7708215830043311,142.38,50.58294704312404,15.0,36.516735000784976,Active Accumulation
+DIS,Walt Disney Co.,112.47,"Mason Hawkins
 Christopher Bloomstran
 Lee Ainslie
 Viking Global Investors
@@ -119,8 +119,8 @@ Kahn Brothers Group
 Duan Yongping
 Sarah Ketterer
 Thomas Russo
-Francois Rochon",3292326000,3.51,17,124.00117647058823,11.95,-9.266989876756384,79.76,41.06068204613841,12.0,35.55301093186789,Active Accumulation
-NVDA,NVIDIA Corp.,189.14,"David Tepper
+Francois Rochon",3292326000,3.51,17,124.00117647058823,11.95,-9.299247635221676,79.76,41.01053159478435,12.0,35.56197000612865,Active Accumulation
+NVDA,NVIDIA Corp.,187.62,"David Tepper
 Lee Ainslie
 Viking Global Investors
 Daniel Loeb
@@ -129,18 +129,9 @@ Duan Yongping
 Sarah Ketterer
 Polen Capital Management
 Samantha McLemore
-Jensen Investment Management",4701087000,3.13,14,157.98357142857142,9.96,19.721309177717387,86.61,118.3812492783743,19.0,33.644151821795575,Active Accumulation
+Jensen Investment Management",4701087000,3.13,14,157.98357142857142,9.96,18.759183821102564,86.61,116.6262556286803,19.0,33.73190150428027,Active Accumulation
 IEP,Icahn Enterprises,8.36,Carl Icahn,3980534000,50.47,1,8.04,50.47,3.9800995024875663,6.53,28.024502297090336,2.0,31.833774885145484,Value Opportunity
-FLUT,Flutter Entertainment Plc,251.06,"Tom Bancroft
-Lee Ainslie
-Viking Global Investors
-Daniel Loeb
-Stephen Mandel
-Chase Coleman
-AKO Capital
-John Armitage
-William Von Mueffling",4503876000,4.66,9,285.68111111111114,10.7,-12.118796015759614,196.88,27.519301097114997,14.0,31.37834970385173,Active Accumulation
-BAC,Bank of America Corp.,50.48,"Charles Bobrinskoy
+BAC,Bank of America Corp.,50.64,"Charles Bobrinskoy
 Lee Ainslie
 Viking Global Investors
 Li Lu
@@ -149,8 +140,17 @@ Warren Buffett
 Kahn Brothers Group
 Francis Chou
 Francois Rochon
-Christopher Davis",31624157000,4.02,16,47.315625,18.36,6.687801334125883,32.69,54.42031202202509,11.0,31.289609398898747,Active Accumulation
-CMCSA,Comcast Corp.,30.59,"Glenn Greenberg
+Christopher Davis",31624157000,4.02,16,47.315625,18.36,7.025956013473358,32.69,54.90975833588254,11.0,31.26513708320587,Active Accumulation
+FLUT,Flutter Entertainment Plc,256.3,"Tom Bancroft
+Lee Ainslie
+Viking Global Investors
+Daniel Loeb
+Stephen Mandel
+Chase Coleman
+AKO Capital
+John Armitage
+William Von Mueffling",4503876000,4.66,9,285.68111111111114,10.7,-10.28458304325336,196.88,30.180820804551008,14.0,30.87843112397868,Active Accumulation
+CMCSA,Comcast Corp.,30.9,"Glenn Greenberg
 Kahn Brothers Group
 Thomas Russo
 First Eagle Investment Management
@@ -159,8 +159,8 @@ Thomas Gayner
 David Katz
 Robert Olstein
 Dodge & Cox
-Steven Romick",4406261000,1.62,11,35.695454545454545,3.98,-14.302814211129505,30.46,0.4267892317793795,11.0,30.648314289727843,Near 52W Low
-TXN,Texas Instruments,182.26,"Glenn Greenberg
+Steven Romick",4406261000,1.62,11,35.695454545454545,3.98,-13.43435629695658,30.38,1.7116524028966411,11.0,30.4103795483374,Near 52W Low
+TXN,Texas Instruments,180.32,"Glenn Greenberg
 Terry Smith
 Jensen Investment Management
 Christopher Davis
@@ -168,8 +168,8 @@ First Eagle Investment Management
 Torray Funds
 Thomas Gayner
 David Katz
-Robert Olstein",2070652000,1.68,9,207.6544444444445,3.97,-12.2291841681426,137.77,32.292952021485064,14.0,29.672300343665377,Price Discount
-FI,Fiserv Inc.,126.32,"John Rogers
+Robert Olstein",2070652000,1.68,9,207.6544444444445,3.97,-13.163428559198254,137.77,30.88480801335558,14.0,29.92955642228298,Price Discount
+FI,Fiserv Inc.,127.56,"John Rogers
 Leon Cooperman
 Seth Klarman
 Francois Rochon
@@ -177,8 +177,9 @@ Torray Funds
 David Katz
 Robert Olstein
 Dodge & Cox
-Mairs & Power Growth Fund",4005930000,2.25,9,172.40555555555557,3.83,-26.730899365191902,124.89,1.1450076066938846,9.0,29.41615171492591,Near 52W Low
-EFX,Equifax Inc.,232.65,"Bill Nygren
+Mairs & Power Growth Fund",4005930000,2.25,9,172.40555555555557,3.83,-26.01166500177231,124.89,2.137881335575308,9.0,29.22266115579792,Near 52W Low
+LOAR,Loar Holdings Inc,78.76,David Abrams,2761769000,45.17,1,86.17,45.17,-8.599280492050594,62.11,26.80727741104493,0.0,28.964492227857875,Value Opportunity
+EFX,Equifax Inc.,236.67,"Bill Nygren
 Lee Ainslie
 Valley Forge Capital Management
 AKO Capital
@@ -187,8 +188,8 @@ Lindsell Train
 Wallace Weitz
 Thomas Gayner
 William Von Mueffling
-Robert Olstein",1363140000,1.94,10,259.379,4.46,-10.304997706059476,199.2,16.792168674698804,12.0,29.19239110747696,Near 52W Low
-INTU,Intuit Inc.,680.04,"Lee Ainslie
+Robert Olstein",1363140000,1.94,10,259.379,4.46,-8.755142089375019,199.2,18.810240963855424,12.0,28.781516369682237,Near 52W Low
+INTU,Intuit Inc.,679.94,"Lee Ainslie
 Stephen Mandel
 Valley Forge Capital Management
 Dennis Hong
@@ -197,9 +198,18 @@ AKO Capital
 Jensen Investment Management
 Lindsell Train
 Thomas Gayner
-David Katz",2770788000,4.9,10,787.511,13.8,-13.64692048745986,531.0,28.06779661016948,10.0,28.776494266983494,Active Accumulation
-LOAR,Loar Holdings Inc,80.33,David Abrams,2761769000,45.17,1,86.17,45.17,-6.777300684693052,62.11,29.33505071647078,0.0,28.473707601115077,Value Opportunity
-CHTR,Charter Communications,273.39,"Bill Nygren
+David Katz",2770788000,4.9,10,787.511,13.8,-13.659618722786083,531.0,28.04896421845575,10.0,28.779975533634428,Active Accumulation
+MA,Mastercard Inc.,580.45,"Chuck Akre
+Glenn Greenberg
+Warren Buffett
+Valley Forge Capital Management
+AltaRock Partners
+Terry Smith
+Polen Capital Management
+Thomas Russo
+Francois Rochon
+John Armitage",8697123000,5.56,15,561.9193333333334,18.43,3.2977449906807488,464.22,25.037697643358754,6.0,27.52578178449873,Active Accumulation
+CHTR,Charter Communications,280.01,"Bill Nygren
 Ruane Cunniff
 Tom Bancroft
 Lee Ainslie
@@ -208,8 +218,8 @@ Triple Frond Partners
 First Eagle Investment Management
 Wallace Weitz
 Richard Pzena
-Dodge & Cox",4256410000,4.31,11,396.5736363636364,24.89,-31.061983215314832,251.8,8.574265289912619,4.0,27.938228833112788,Active Accumulation
-MCO,Moody's Corp.,481.19,"Chuck Akre
+Dodge & Cox",4256410000,4.31,11,396.5736363636364,24.89,-29.39268415128683,251.8,11.203335980937243,4.0,27.472915485755955,Active Accumulation
+MCO,Moody's Corp.,485.04,"Chuck Akre
 Glenn Greenberg
 Warren Buffett
 Valley Forge Capital Management
@@ -218,18 +228,16 @@ Chris Hohn
 Francis Chou
 Triple Frond Partners
 AKO Capital
-Yacktman Asset Management",22108649000,5.45,13,488.69,14.56,-1.5347152591622386,377.3,27.535117943281207,8.0,27.65441792389916,Active Accumulation
-MA,Mastercard Inc.,579.32,"Chuck Akre
-Glenn Greenberg
-Warren Buffett
-Valley Forge Capital Management
-AltaRock Partners
-Terry Smith
+Yacktman Asset Management",22108649000,5.45,13,488.69,14.56,-0.7468947594589455,377.3,28.555526106546512,8.0,27.445833415795235,Active Accumulation
+CSGP,CoStar Group Inc.,84.8,"Viking Global Investors
+Chuck Akre
+Daniel Loeb
+Chase Coleman
+Dennis Hong
 Polen Capital Management
-Thomas Russo
-Francois Rochon
-John Armitage",8697123000,5.56,15,561.9193333333334,18.43,3.0966485106403168,464.22,24.79427857481367,6.0,27.537952737925984,Active Accumulation
-CRM,Salesforce.com,238.53,"Bill Nygren
+Wallace Weitz
+Thomas Gayner",2220358000,4.01,8,80.39750000000001,13.76,5.475916539693385,68.26,24.23088192206269,13.0,26.793455903896863,Active Accumulation
+CRM,Salesforce.com,240.36,"Bill Nygren
 ValueAct Capital
 Stephen Mandel
 Polen Capital Management
@@ -237,16 +245,8 @@ AKO Capital
 First Eagle Investment Management
 Wallace Weitz
 Mairs & Power Growth Fund
-Hillman Value Fund",2627923000,3.45,9,272.6844444444444,14.12,-12.525263226521483,226.09,5.502233623778141,9.0,26.956607630782056,Active Accumulation
-CSGP,CoStar Group Inc.,83.82,"Viking Global Investors
-Chuck Akre
-Daniel Loeb
-Chase Coleman
-Dennis Hong
-Polen Capital Management
-Wallace Weitz
-Thomas Gayner",2220358000,4.01,8,80.39750000000001,13.76,4.256973164588432,68.26,22.795194843246392,13.0,26.86524025783768,Active Accumulation
-UBER,Uber Technologies Inc.,95.91,"David Tepper
+Hillman Value Fund",2627923000,3.45,9,272.6844444444444,14.12,-11.854157838119749,226.09,6.311645804768016,9.0,26.781915944052216,Active Accumulation
+UBER,Uber Technologies Inc.,96.6,"David Tepper
 Lee Ainslie
 Bill Ackman
 Chase Coleman
@@ -254,46 +254,40 @@ Polen Capital Management
 Thomas Russo
 Thomas Gayner
 William Von Mueffling
-Steven Romick",4112955000,3.71,9,93.29777777777775,20.59,2.799876143292691,59.33,61.65514916568347,14.0,26.771131430604715,Active Accumulation
-PYPL,PayPal Holdings Inc.,68.76,"Mason Hawkins
-Norbert Lou
-David Rolfe
-Francis Chou
-Polen Capital Management
-Lindsell Train
-Harry Burn
-David Katz",575924000,5.04,8,73.52499999999999,15.6,-6.480788847330822,55.85,23.115487914055517,10.0,25.65850837376339,Active Accumulation
-FERG,Ferguson Enterprises Inc.,231.1,"Nelson Peltz
-Seth Klarman
-Francois Rochon
-John Armitage
-First Eagle Investment Management
-Thomas Gayner
-William Von Mueffling
-Steven Romick",1742737000,2.9,8,217.75,6.24,6.1308840413318,144.9,59.48930296756383,14.0,25.476784851621808,Value Opportunity
-LPLA,LPL Financial Holdings Inc.,313.5,"Meridian Contrarian Fund
+Steven Romick",4112955000,3.71,9,93.29777777777775,20.59,3.539443597560981,59.33,62.81813585032866,14.0,26.712982096372457,Active Accumulation
+LPLA,LPL Financial Holdings Inc.,314.73,"Meridian Contrarian Fund
 Lee Ainslie
 Daniel Loeb
 Stephen Mandel
 John Armitage
 Thomas Gayner
 Dodge & Cox
-Steven Romick",2335112000,2.31,8,374.96875,5.08,-16.393032752729393,221.96,41.24166516489457,10.0,25.372148292301148,Price Discount
-LLY,Eli Lilly & Co.,819.88,"Lee Ainslie
+Steven Romick",2335112000,2.31,8,374.96875,5.08,-16.06500541711809,235.75,33.5015906680806,10.0,25.693546550019587,Price Discount
+PYPL,PayPal Holdings Inc.,69.25,"Mason Hawkins
+Norbert Lou
+David Rolfe
+Francis Chou
+Polen Capital Management
+Lindsell Train
+Harry Burn
+David Katz",575924000,5.04,8,73.52499999999999,15.6,-5.814348860931645,55.85,23.99283795881826,10.0,25.481352874245417,Active Accumulation
+FERG,Ferguson Enterprises Inc.,231.63,"Nelson Peltz
+Seth Klarman
+Francois Rochon
+John Armitage
+First Eagle Investment Management
+Thomas Gayner
+William Von Mueffling
+Steven Romick",1742737000,2.9,8,217.75,6.24,6.374282433983924,144.9,59.85507246376811,14.0,25.458496376811595,Value Opportunity
+LLY,Eli Lilly & Co.,839.87,"Lee Ainslie
 Viking Global Investors
 Chase Coleman
 Polen Capital Management
 Jensen Investment Management
 Torray Funds
 David Katz
-Mairs & Power Growth Fund",3184196000,1.68,8,779.70125,4.16,5.153095496512291,622.41,31.72667534261982,13.0,25.254291232869008,Value Opportunity
-CP,Canadian Pacific Kansas City,75.46,"Lee Ainslie
-Chris Hohn
-Sarah Ketterer
-John Armitage
-Lindsell Train
-William Von Mueffling",6050125000,5.4,6,79.26833333333333,18.44,-4.80435651058641,66.2,13.98791540785497,11.0,24.958975531724533,Active Accumulation
-BRK.A,Berkshire Hathaway CL A,745000.0,"Christopher Bloomstran
+Mairs & Power Growth Fund",3184196000,1.68,8,779.70125,4.16,7.716897978552689,622.41,34.938384666056145,13.0,25.09370576669719,Value Opportunity
+BRK.A,Berkshire Hathaway CL A,750583.17,"Christopher Bloomstran
 Bruce Berkowitz
 Norbert Lou
 Josh Tarasoff
@@ -302,16 +296,36 @@ Francis Chou
 Thomas Russo
 Francois Rochon
 Christopher Davis
-First Eagle Investment Management",3597356000,9.19,14,728755.8949999999,34.28,2.229018675725443,657497.5,13.308415621352172,2.0,24.92815064750382,Near 52W Low
-ICLR,ICON plc,191.2,"Bill Nygren
+First Eagle Investment Management",3597356000,9.19,14,728755.8949999999,34.28,2.995142152503637,657497.5,14.157570180875217,2.0,24.885692919527667,Near 52W Low
+ICLR,ICON plc,193.89,"Bill Nygren
 Ruane Cunniff
 Glenn Greenberg
 Seth Klarman
 Polen Capital Management
 William Von Mueffling
 Steven Romick
-Greenhaven Associates",485362000,0.92,8,145.44625,2.43,31.45749718538635,125.1,52.83772981614708,14.0,24.816238509192644,Value Opportunity
-DHR,Danaher Corp.,210.67,"Lee Ainslie
+Greenhaven Associates",485362000,0.92,8,145.44625,2.43,33.306977663569874,125.1,54.98800959232614,14.0,24.708724520383694,Value Opportunity
+SBUX,Starbucks Corp.,86.42,"Christopher Bloomstran
+Stephen Mandel
+Polen Capital Management
+Francois Rochon
+Thomas Gayner
+David Katz",1562148000,2.37,6,91.63,3.69,-5.685910727927528,74.48,16.03114930182599,12.0,24.52145801382754,Near 52W Low
+ADBE,Adobe Inc.,346.74,"Polen Capital Management
+Jensen Investment Management
+Lindsell Train
+Torray Funds
+Thomas Gayner
+William Von Mueffling
+Robert Olstein
+Hillman Value Fund",1667117000,1.3,8,386.875,3.99,-10.374151857835216,330.04,5.05999272815416,9.0,24.471205735159337,Near 52W Low
+PDD,Pinduoduo Inc.,134.25,"David Tepper
+Li Lu
+Norbert Lou
+Duan Yongping
+Polen Capital Management
+Robert Vinall",1683517000,8.26,6,104.66166666666668,17.93,28.27045877987801,87.11,54.1154861669154,12.0,24.425892358320898,Active Accumulation
+DHR,Danaher Corp.,214.99,"Lee Ainslie
 Viking Global Investors
 Chuck Akre
 Daniel Loeb
@@ -319,24 +333,14 @@ Bill & Melinda Gates Foundation Trust
 Pat Dorsey
 Torray Funds
 Wallace Weitz
-David Katz",1410161000,3.43,9,197.53777777777776,16.42,6.647954821581246,170.43,23.610866631461587,10.0,24.53334555731581,Active Accumulation
-SBUX,Starbucks Corp.,86.92,"Christopher Bloomstran
-Stephen Mandel
-Polen Capital Management
+David Katz",1410161000,3.43,9,197.53777777777776,16.42,8.834878279260238,170.43,26.14563163762249,10.0,24.406607307007764,Active Accumulation
+SCHW,Charles Schwab Corp.,94.08,"Bill Nygren
+Ruane Cunniff
+John Rogers
+Viking Global Investors
 Francois Rochon
+Christopher Davis
+Yacktman Asset Management
 Thomas Gayner
-David Katz",1562148000,2.37,6,91.63,3.69,-5.14023791334715,74.48,16.702470461868955,12.0,24.378757392909318,Near 52W Low
-PDD,Pinduoduo Inc.,135.28,"David Tepper
-Li Lu
-Norbert Lou
-Duan Yongping
-Polen Capital Management
-Robert Vinall",1683517000,8.26,6,104.66166666666668,17.93,29.25458222526553,87.11,55.29789920789806,12.0,24.366771706271763,Active Accumulation
-TMO,Thermo Fisher Scientific,526.08,"Polen Capital Management
-AKO Capital
-Lindsell Train
-Wallace Weitz
-Thomas Gayner
-William Von Mueffling
-David Katz
-Robert Olstein",1668297000,2.38,8,405.4625,8.17,29.74812713876131,385.11,36.60512580821064,12.0,24.360368709589466,Value Opportunity
+Dodge & Cox
+Greenhaven Associates",8039752000,3.43,10,91.241,6.13,3.1115397683059136,63.26,48.719570028454,10.0,24.2795214985773,Active Accumulation
