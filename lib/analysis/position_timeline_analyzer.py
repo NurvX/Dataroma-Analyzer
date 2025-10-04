@@ -174,10 +174,12 @@ class PositionTimelineAnalyzer(MultiAnalyzer):
 
     def analyze_accumulation_distribution_phases(self) -> pd.DataFrame:
         """
-        Identify current phase (accumulating vs distributing) for each manager-stock position.
+        Identify current phase (accumulating vs distributing) aggregated by STOCK across all managers.
+
+        Shows which stocks are seeing net accumulation vs distribution across the manager universe.
 
         Returns:
-            DataFrame showing which positions are being built up vs reduced
+            DataFrame showing which stocks are being built up vs reduced
         """
         if self.data.history_df is None or self.data.history_df.empty:
             return pd.DataFrame()
@@ -187,70 +189,70 @@ class PositionTimelineAnalyzer(MultiAnalyzer):
         # Get recent 4 quarters to determine current trend
         recent_quarters = self.get_recent_quarters(4)
 
-        phase_analysis = []
+        # Get recent activities for ALL stocks
+        recent_activities = self.data.history_df[
+            self.data.history_df['period'].isin(recent_quarters)
+        ]
 
-        # Get current holdings
-        if self.data.holdings_df is not None and not self.data.holdings_df.empty:
-            for _, holding in self.data.holdings_df.iterrows():
-                ticker = holding['ticker']
-                manager = holding['manager_id']
-
-                # Get recent activities
-                recent_activities = self.data.history_df[
-                    (self.data.history_df['ticker'] == ticker) &
-                    (self.data.history_df['manager_id'] == manager) &
-                    (self.data.history_df['period'].isin(recent_quarters))
-                ]
-
-                if recent_activities.empty:
-                    continue
-
-                # Count action types
-                action_counts = recent_activities['action_type'].value_counts().to_dict()
-                buy_add = action_counts.get('Buy', 0) + action_counts.get('Add', 0)
-                sell_reduce = action_counts.get('Sell', 0) + action_counts.get('Reduce', 0)
-
-                # Determine phase
-                if buy_add > sell_reduce:
-                    phase = 'Accumulating'
-                    conviction = 'Building'
-                elif sell_reduce > buy_add:
-                    phase = 'Distributing'
-                    conviction = 'Reducing'
-                else:
-                    phase = 'Mixed'
-                    conviction = 'Uncertain'
-
-                # Get most recent action
-                most_recent = recent_activities.sort_values('period', ascending=False).iloc[0]
-
-                phase_analysis.append({
-                    'ticker': ticker,
-                    'company_name': holding.get('stock', ''),
-                    'manager_id': manager,
-                    'manager_name': self.data.manager_names.get(manager, manager),
-                    'current_shares': holding.get('shares', 0),
-                    'current_value': holding.get('value', 0),
-                    'portfolio_percent': holding.get('portfolio_percent', 0),
-                    'recent_quarters': len(recent_activities),
-                    'buy_add_actions': buy_add,
-                    'sell_reduce_actions': sell_reduce,
-                    'net_activity': buy_add - sell_reduce,
-                    'phase': phase,
-                    'conviction_trend': conviction,
-                    'last_action': most_recent.get('action', ''),
-                    'last_quarter': most_recent.get('period', '')
-                })
-
-        if not phase_analysis:
+        if recent_activities.empty:
             return pd.DataFrame()
 
-        phase_df = pd.DataFrame(phase_analysis)
+        # Aggregate by STOCK across all managers
+        stock_activity = recent_activities.groupby('ticker').agg({
+            'action_type': lambda x: x.value_counts().to_dict(),
+            'manager_id': 'nunique',
+            'period': 'nunique'
+        }).reset_index()
 
-        # Sort by phase and net activity
-        phase_df = phase_df.sort_values(['phase', 'net_activity'], ascending=[True, False])
+        stock_activity.columns = ['ticker', 'action_breakdown', 'unique_managers', 'quarters_active']
 
-        return self.format_output(phase_df).head(200)
+        # Extract buy/sell counts
+        stock_activity['buy_add_actions'] = stock_activity['action_breakdown'].apply(
+            lambda x: x.get('Buy', 0) + x.get('Add', 0)
+        )
+        stock_activity['sell_reduce_actions'] = stock_activity['action_breakdown'].apply(
+            lambda x: x.get('Sell', 0) + x.get('Reduce', 0)
+        )
+        stock_activity['net_activity'] = stock_activity['buy_add_actions'] - stock_activity['sell_reduce_actions']
+
+        # Determine phase based on net activity
+        stock_activity['phase'] = 'Mixed'
+        stock_activity.loc[stock_activity['net_activity'] > 0, 'phase'] = 'Accumulating'
+        stock_activity.loc[stock_activity['net_activity'] < 0, 'phase'] = 'Distributing'
+
+        # Add current holdings information
+        if self.data.holdings_df is not None and not self.data.holdings_df.empty:
+            current_holdings = self.data.holdings_df.groupby('ticker').agg({
+                'value': 'sum',
+                'shares': 'sum',
+                'manager_id': 'count',
+                'stock': 'first'
+            }).reset_index()
+            current_holdings.columns = ['ticker', 'current_value', 'current_shares',
+                                       'current_holders', 'company_name']
+
+            stock_activity = stock_activity.merge(current_holdings, on='ticker', how='left')
+            stock_activity['current_value'] = stock_activity['current_value'].fillna(0)
+            stock_activity['current_shares'] = stock_activity['current_shares'].fillna(0)
+            stock_activity['current_holders'] = stock_activity['current_holders'].fillna(0)
+        else:
+            stock_activity['current_value'] = 0
+            stock_activity['current_shares'] = 0
+            stock_activity['current_holders'] = 0
+            stock_activity['company_name'] = ''
+
+        # Filter for stocks with at least 2 managers active
+        significant_stocks = stock_activity[stock_activity['unique_managers'] >= 2].copy()
+
+        if significant_stocks.empty:
+            return pd.DataFrame()
+
+        # Sort by absolute net activity (most active first)
+        significant_stocks['abs_net_activity'] = significant_stocks['net_activity'].abs()
+        significant_stocks = significant_stocks.sort_values('abs_net_activity', ascending=False)
+
+        # Return top 100 most active (mix of accumulating and distributing)
+        return self.format_output(significant_stocks.drop(columns=['abs_net_activity'])).head(100)
 
     def analyze_position_flip_points(self) -> pd.DataFrame:
         """

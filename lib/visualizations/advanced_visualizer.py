@@ -598,9 +598,9 @@ class AdvancedVisualizer:
             return None
 
     def create_accumulation_distribution_chart(self, df: pd.DataFrame) -> str:
-        """Create accumulation vs distribution phase visualization."""
+        """Create accumulation vs distribution phase visualization for STOCKS (aggregated across managers)."""
         try:
-            fig, axes = plt.subplots(2, 2, figsize=(16, 12))
+            fig, axes = plt.subplots(2, 2, figsize=(18, 14))
             axes = axes.flatten()
 
             # Chart 1: Phase Distribution Pie Chart
@@ -609,79 +609,116 @@ class AdvancedVisualizer:
             pie_colors = [colors.get(phase, '#95a5a6') for phase in phase_counts.index]
 
             axes[0].pie(phase_counts.values, labels=phase_counts.index, autopct='%1.1f%%',
-                       colors=pie_colors, startangle=90)
-            axes[0].set_title('Current Position Phases\n(Last 4 Quarters)',
+                       colors=pie_colors, startangle=90, textprops={'fontsize': 11, 'fontweight': 'bold'})
+            axes[0].set_title('Stock Activity Phases\n(Last 4 Quarters - Across All Managers)',
                             fontsize=13, fontweight='bold')
 
-            # Chart 2: Top Accumulating Positions
-            accumulating = df[df['phase'] == 'Accumulating'].nlargest(15, 'net_activity')
+            # Chart 2: Top 20 Stocks Being Accumulated
+            accumulating = df[df['phase'] == 'Accumulating'].nlargest(20, 'net_activity')
             if not accumulating.empty:
-                manager_names = [self._get_manager_name(row) for _, row in accumulating.iterrows()]
-                labels = [f"{row['ticker']}\n({name[:20]})"
-                         for (_, row), name in zip(accumulating.iterrows(), manager_names)]
+                # Create labels with company names (or ticker if no name)
+                labels = []
+                for _, row in accumulating.iterrows():
+                    company = row.get('company_name', '')
+                    ticker = row['ticker']
+                    if company and str(company) != 'nan':
+                        label = f"{ticker}\n({str(company)[:25]})"
+                    else:
+                        label = ticker
+                    labels.append(label)
 
                 bars = axes[1].barh(range(len(accumulating)), accumulating['net_activity'],
-                                   color='#2ecc71', alpha=0.7)
+                                   color='#2ecc71', alpha=0.7, edgecolor='darkgreen', linewidth=1)
                 axes[1].set_yticks(range(len(accumulating)))
-                axes[1].set_yticklabels(labels, fontsize=8)
-                axes[1].set_xlabel('Net Buy Actions (Last 4 Quarters)', fontweight='bold')
-                axes[1].set_title('Top 15 Positions Being Accumulated',
+                axes[1].set_yticklabels(labels, fontsize=9)
+                axes[1].set_xlabel('Net Buying Actions (Last 4 Quarters)', fontweight='bold', fontsize=11)
+                axes[1].set_title('Top 20 Stocks Being Accumulated\n(Across All Managers)',
                                 fontsize=12, fontweight='bold')
                 axes[1].invert_yaxis()
                 axes[1].grid(True, alpha=0.3, axis='x')
 
-                # Add value labels
-                for i, (val, row) in enumerate(zip(accumulating['net_activity'], accumulating.iterrows())):
-                    axes[1].text(val + 0.1, i, f"+{val}",
+                # Add value labels with manager count
+                for i, (_, row) in enumerate(accumulating.iterrows()):
+                    val = row['net_activity']
+                    mgrs = row.get('unique_managers', 0)
+                    axes[1].text(val + 0.5, i, f"+{val} ({mgrs}M)",
                                va='center', ha='left', fontsize=8, fontweight='bold')
 
-            # Chart 3: Top Distributing Positions
-            distributing = df[df['phase'] == 'Distributing'].nsmallest(15, 'net_activity')
+            else:
+                axes[1].text(0.5, 0.5, 'No accumulating stocks found',
+                           ha='center', va='center', fontsize=12, transform=axes[1].transAxes)
+
+            # Chart 3: Top 20 Stocks Being Distributed
+            distributing = df[df['phase'] == 'Distributing'].nsmallest(20, 'net_activity')
             if not distributing.empty:
-                manager_names = [self._get_manager_name(row) for _, row in distributing.iterrows()]
-                labels = [f"{row['ticker']}\n({name[:20]})"
-                         for (_, row), name in zip(distributing.iterrows(), manager_names)]
+                # Create labels with company names
+                labels = []
+                for _, row in distributing.iterrows():
+                    company = row.get('company_name', '')
+                    ticker = row['ticker']
+                    if company and str(company) != 'nan':
+                        label = f"{ticker}\n({str(company)[:25]})"
+                    else:
+                        label = ticker
+                    labels.append(label)
 
                 bars = axes[2].barh(range(len(distributing)), distributing['net_activity'],
-                                   color='#e74c3c', alpha=0.7)
+                                   color='#e74c3c', alpha=0.7, edgecolor='darkred', linewidth=1)
                 axes[2].set_yticks(range(len(distributing)))
-                axes[2].set_yticklabels(labels, fontsize=8)
-                axes[2].set_xlabel('Net Sell Actions (Last 4 Quarters)', fontweight='bold')
-                axes[2].set_title('Top 15 Positions Being Distributed',
+                axes[2].set_yticklabels(labels, fontsize=9)
+                axes[2].set_xlabel('Net Selling Actions (Last 4 Quarters)', fontweight='bold', fontsize=11)
+                axes[2].set_title('Top 20 Stocks Being Distributed\n(Across All Managers)',
                                 fontsize=12, fontweight='bold')
                 axes[2].invert_yaxis()
                 axes[2].grid(True, alpha=0.3, axis='x')
 
-                # Add value labels
-                for i, (val, row) in enumerate(zip(distributing['net_activity'], distributing.iterrows())):
-                    axes[2].text(val - 0.1, i, f"{val}",
+                # Add value labels with manager count
+                for i, (_, row) in enumerate(distributing.iterrows()):
+                    val = row['net_activity']
+                    mgrs = row.get('unique_managers', 0)
+                    axes[2].text(val - 0.5, i, f"{val} ({mgrs}M)",
                                va='center', ha='right', fontsize=8, fontweight='bold')
+            else:
+                axes[2].text(0.5, 0.5, 'No distributing stocks found',
+                           ha='center', va='center', fontsize=12, transform=axes[2].transAxes)
 
-            # Chart 4: Buy/Sell Activity Scatter
-            axes[3].scatter(df['buy_add_actions'], df['sell_reduce_actions'],
-                          s=100, alpha=0.6, c=[colors.get(p, '#95a5a6') for p in df['phase']],
+            # Chart 4: Buy/Sell Activity Scatter - show stocks with most activity
+            top_activity = df.nlargest(50, 'unique_managers')
+
+            scatter_colors = [colors.get(p, '#95a5a6') for p in top_activity['phase']]
+            axes[3].scatter(top_activity['buy_add_actions'], top_activity['sell_reduce_actions'],
+                          s=top_activity.get('unique_managers', 1) * 20,  # Size by manager count
+                          alpha=0.6, c=scatter_colors,
                           edgecolors='black', linewidth=0.5)
 
             # Add diagonal line (equal buy/sell)
-            max_val = max(df['buy_add_actions'].max(), df['sell_reduce_actions'].max())
-            axes[3].plot([0, max_val], [0, max_val], 'k--', alpha=0.3, label='Equal Buy/Sell')
+            max_val = max(top_activity['buy_add_actions'].max(), top_activity['sell_reduce_actions'].max())
+            axes[3].plot([0, max_val], [0, max_val], 'k--', alpha=0.3, label='Equal Buy/Sell', linewidth=2)
 
-            axes[3].set_xlabel('Buy + Add Actions', fontweight='bold')
-            axes[3].set_ylabel('Sell + Reduce Actions', fontweight='bold')
-            axes[3].set_title('Position Activity Pattern\n(Recent 4 Quarters)',
+            axes[3].set_xlabel('Total Buy + Add Actions', fontweight='bold', fontsize=11)
+            axes[3].set_ylabel('Total Sell + Reduce Actions', fontweight='bold', fontsize=11)
+            axes[3].set_title('Stock Activity Pattern\n(Top 50 by Manager Count - Size = # Managers)',
                             fontsize=12, fontweight='bold')
-            axes[3].legend(loc='upper left')
+
+            # Add legend for colors
+            from matplotlib.patches import Patch
+            legend_elements = [
+                Patch(facecolor='#2ecc71', label='Accumulating'),
+                Patch(facecolor='#e74c3c', label='Distributing'),
+                Patch(facecolor='#f39c12', label='Mixed')
+            ]
+            axes[3].legend(handles=legend_elements, loc='upper left')
             axes[3].grid(True, alpha=0.3)
 
-            # Add annotations for key positions
-            for _, row in df.nlargest(5, 'current_value').iterrows():
+            # Add annotations for most active stocks
+            for _, row in top_activity.nlargest(10, 'unique_managers').iterrows():
                 if pd.notna(row['buy_add_actions']) and pd.notna(row['sell_reduce_actions']):
                     axes[3].annotate(row['ticker'],
                                    (row['buy_add_actions'], row['sell_reduce_actions']),
-                                   fontsize=7, alpha=0.7, xytext=(3, 3),
-                                   textcoords='offset points')
+                                   fontsize=8, alpha=0.8, fontweight='bold',
+                                   xytext=(5, 5), textcoords='offset points')
 
-            plt.suptitle('Accumulation vs Distribution Analysis\nCurrent Position Phases',
+            plt.suptitle('Accumulation vs Distribution Analysis\nTop Stocks by Institutional Activity',
                         fontsize=16, fontweight='bold')
             plt.tight_layout()
 

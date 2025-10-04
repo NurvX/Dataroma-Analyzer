@@ -73,19 +73,19 @@ META,Meta Platforms Inc.,RVC,Robert Vinall,19.54,105538000,['Reduce'],Reduce 4.4
 ASML,ASML Holding NV,TFP,Triple Frond Partners,9.66,55153000,['Buy'],Buy,Q1 2025,New High Conviction,19.32
 AMR,Alpha Metallurgical Resources Inc.,PI,Mohnish Pabrai,19.06,51778000,"['Add', 'Reduce', 'Add']",Add 11.02%; Reduce 14.91%; Add 1.57%,"Q2 2025, Q1 2025, Q4 2024",Reduced,19.06
 BKNG,Booking Holdings Inc.,DA,Pat Dorsey,9.49,105885000,"['Add', 'Buy']",Add 14.53%; Buy,"Q2 2025, Q1 2025",New High Conviction,18.98
-LRCX,Lam Research,TFP,Triple Frond Partners,9.39,53581000,"['Add', 'Buy']",Add 38.07%; Buy,"Q1 2025, Q4 2024",New High Conviction,18.78
 AXP,American Express,BRK,Warren Buffett,18.78,48360780000,,,,Maintained,18.78
+LRCX,Lam Research,TFP,Triple Frond Partners,9.39,53581000,"['Add', 'Buy']",Add 38.07%; Buy,"Q1 2025, Q4 2024",New High Conviction,18.78
 AMZN,Amazon.com Inc.,psc,Bill Ackman,9.31,1277577000,['Buy'],Buy,Q2 2025,New High Conviction,18.62
 CP,Canadian Pacific Kansas City,CAU,Sarah Ketterer,18.44,1163876000,"['Reduce', 'Add', 'Add']",Reduce 14.69%; Add 11.53%; Add 76.50%,"Q2 2025, Q1 2025, Q4 2024",Reduced,18.44
-MA,Mastercard Inc.,VFC,Valley Forge Capital Management,18.43,834353000,,,,Maintained,18.43
 EVH,Evolent Health Inc.,ENG,Glenn Welling,18.43,65921000,"['Add', 'Reduce', 'Add']",Add 13.03%; Reduce 4.17%; Add 35.48%,"Q2 2025, Q1 2025, Q4 2024",Reduced,18.43
+MA,Mastercard Inc.,VFC,Valley Forge Capital Management,18.43,834353000,,,,Maintained,18.43
 SGOV,Ishares 0 3 Month Treasury B,PC,Norbert Lou,18.39,56991000,['Reduce'],Reduce 2.60%,Q2 2025,Reduced,18.39
 BAC,Bank of America Corp.,HC,Li Lu,18.36,493613000,"['Reduce', 'Reduce']",Reduce 24.66%; Reduce 23.42%,"Q2 2025, Q1 2025",Reduced,18.36
 BRKR,Bruker Corp.,SAM,Michael Burry,18.31,10300000,"['Buy', 'Sell', 'Buy']",Buy; Sell 100.00%; Buy,"Q2 2025, Q1 2025, Q4 2024",Partial Exit,18.31
 MA,Mastercard Inc.,AC,Chuck Akre,18.14,1851753000,"['Reduce', 'Reduce', 'Reduce']",Reduce 1.07%; Reduce 10.06%; Reduce 5.53%,"Q2 2025, Q1 2025, Q4 2024",Reduced,18.14
 DB,Deutsche Bank AG,CAU,Sarah Ketterer,9.04,570417000,"['Add', 'Buy']",Add 1176.19%; Buy,"Q2 2025, Q1 2025",New High Conviction,18.08
-BRZE,Braze Inc A,SP,Dennis Hong,8.94,70801000,"['Add', 'Add', 'Buy']",Add 6.16%; Add 58.18%; Buy,"Q2 2025, Q1 2025, Q4 2024",New High Conviction,17.88
 COF,Capital One Financial,CCM,Glenn Greenberg,8.94,389987000,"['Add', 'Add', 'Buy']",Add 190.24%; Add 42003.53%; Buy,"Q2 2025, Q1 2025, Q4 2024",New High Conviction,17.88
+BRZE,Braze Inc A,SP,Dennis Hong,8.94,70801000,"['Add', 'Add', 'Buy']",Add 6.16%; Add 58.18%; Buy,"Q2 2025, Q1 2025, Q4 2024",New High Conviction,17.88
 VFC,V.F. Corp.,ENG,Glenn Welling,17.8,63654000,"['Reduce', 'Add']",Reduce 1.22%; Add 2.68%,"Q2 2025, Q1 2025",Reduced,17.8
 UNH,United Health Group Inc.,AM,David Tepper,11.85,764327000,"['Add', 'Add']",Add 1300.00%; Add 0.29%,"Q2 2025, Q1 2025",Increased,17.775
 BN,Brookfield Corp.,AC,Chuck Akre,11.64,1188713000,"['Add', 'Add', 'Add']",Add 0.66%; Add 0.66%; Add 0.16%,"Q2 2025, Q1 2025, Q4 2024",Increased,17.46
@@ -97,5 +97,5 @@ GIL,Gildan Activewear Inc.,OCL,Bryan Lawrence,16.77,33566000,"['Add', 'Reduce']"
 BBWI,Bath & Body Works Inc.,MP,Tom Bancroft,16.76,55098000,"['Add', 'Reduce', 'Reduce']",Add 12.20%; Reduce 27.56%; Reduce 1.75%,"Q2 2025, Q1 2025, Q4 2024",Reduced,16.76
 GOOGL,Alphabet Inc.,HC,Li Lu,16.67,448206000,,,,Maintained,16.67
 TMO,Thermo Fisher Scientific,LT,Lindsell Train,8.17,346511000,"['Add', 'Add', 'Buy']",Add 67.97%; Add 24.94%; Buy,"Q2 2025, Q1 2025, Q4 2024",New High Conviction,16.34
-META,Meta Platforms Inc.,DA,Pat Dorsey,16.22,180912000,"['Reduce', 'Add', 'Reduce']",Reduce 0.79%; Add 18.64%; Reduce 10.50%,"Q2 2025, Q1 2025, Q4 2024",Reduced,16.22
 BRK.B,Berkshire Hathaway CL B,HC,Li Lu,16.22,436100000,,,,Maintained,16.22
+META,Meta Platforms Inc.,DA,Pat Dorsey,16.22,180912000,"['Reduce', 'Add', 'Reduce']",Reduce 0.79%; Add 18.64%; Reduce 10.50%,"Q2 2025, Q1 2025, Q4 2024",Reduced,16.22

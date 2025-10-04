@@ -1,6 +1,6 @@
 # 📊 Dataroma Investment Analysis
 
-*Generated: 2025-10-04 00:33:40*
+*Generated: 2025-10-05 00:24:19*
 
 ## 🎯 Overview
 
@@ -98,6 +98,9 @@ Deep insights into manager strategies, performance patterns, and decision-making
 #### 5 Year Performance
 ![5 Year Performance](advanced/visuals/5_year_performance.png)
 
+#### Accumulation Distribution Advanced
+![Accumulation Distribution Advanced](advanced/visuals/accumulation_distribution_advanced.png)
+
 #### Comprehensive Performance
 ![Comprehensive Performance](advanced/visuals/comprehensive_performance.png)
 
@@ -125,7 +128,7 @@ Deep insights into manager strategies, performance patterns, and decision-making
 | Report | Description | Key Insight |
 | ------ | ----------- | ----------- |
 | [position_building_timeline.csv](advanced/position_building_timeline.csv) | 📈 Position buildup/reduction over time (45173 items) | Quarter-by-quarter view of how managers accumulate & distribute positions |
-| [accumulation_vs_distribution.csv](advanced/accumulation_vs_distribution.csv) | 🔄 Current phase tracking (200 items) | Identifies which positions are being built vs reduced RIGHT NOW |
+| [accumulation_vs_distribution.csv](advanced/accumulation_vs_distribution.csv) | 🔄 Current phase tracking (100 items) | Identifies which positions are being built vs reduced RIGHT NOW |
 | [position_flip_points.csv](advanced/position_flip_points.csv) | 🔀 Accumulation→Distribution transitions (100 items) | Pinpoints when managers switched from building to reducing |
 | [action_sequence_patterns.csv](advanced/action_sequence_patterns.csv) | Trading pattern analysis (30 items) | Institutional buy/sell sequence patterns |
 | [catalyst_timing_masters.csv](advanced/catalyst_timing_masters.csv) | Market timing excellence (30 items) | Managers with exceptional timing skills |
