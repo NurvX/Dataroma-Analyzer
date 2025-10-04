@@ -1,0 +1,201 @@
+ticker,company_name,manager,manager,current_shares,current_value,portfolio_percent,recent_quarters,buy_add_actions,sell_reduce_actions,net_activity,phase,conviction_trend,last_action,last_quarter
+NVST,Envista Holdings Corp.,MVALX,Meridian Contrarian Fund,663643,12968000,2.46,4,4,0,4,Accumulating,Building,Add 125.82%,Q4 2024
+CEVA,CEVA Inc.,MVALX,Meridian Contrarian Fund,395000,8682000,1.65,4,4,0,4,Accumulating,Building,Add 199.62%,Q4 2024
+BIO,Bio-Rad Laboratories Inc.,CAAPX,John Rogers,93205,22492000,2.68,4,4,0,4,Accumulating,Building,Add 14.05%,Q4 2024
+AMG,Affiliated Managers Group,ARFFX,Charles Bobrinskoy,16405,3228000,5.05,4,4,0,4,Accumulating,Building,Add 3.81%,Q4 2024
+BRK.B,Berkshire Hathaway CL B,SA,Christopher Bloomstran,246664,119822000,16.86,4,4,0,4,Accumulating,Building,Add 0.10%,Q4 2024
+FIVE,Five Below Inc.,SA,Christopher Bloomstran,322806,42346000,5.96,4,4,0,4,Accumulating,Building,Add 2.99%,Q4 2024
+NEM,Newmont Corp.,SA,Christopher Bloomstran,678145,39509000,5.56,4,4,0,4,Accumulating,Building,Add 0.85%,Q4 2024
+VLO,Valero Energy,SA,Christopher Bloomstran,198707,26710000,3.76,4,4,0,4,Accumulating,Building,Add 61.49%,Q4 2024
+OLN,Olin Corp.,SA,Christopher Bloomstran,797436,16020000,2.25,4,4,0,4,Accumulating,Building,Add 11.01%,Q4 2024
+EQNR,Equinor ASA,SA,Christopher Bloomstran,510218,12827000,1.8,4,4,0,4,Accumulating,Building,Add 2.28%,Q4 2024
+GLDM,SPDR Gold Minishares Trust,SA,Christopher Bloomstran,17001,1114000,0.16,4,4,0,4,Accumulating,Building,Add 15.29%,Q4 2024
+AMZN,Amazon.com Inc.,mc,Lee Ainslie,2060443,452041000,6.94,4,4,0,4,Accumulating,Building,Add 15.29%,Q4 2024
+TSM,Taiwan Semiconductor S.A.,mc,Lee Ainslie,1760017,398626000,6.12,4,4,0,4,Accumulating,Building,Add 100.89%,Q4 2024
+NU,Nu Holdings Ltd,mc,Lee Ainslie,21737851,298243000,4.58,4,4,0,4,Accumulating,Building,Add 1.45%,Q4 2024
+SWX,Southwest Gas Holdings Inc.,mc,Lee Ainslie,1993671,148309000,2.28,4,4,0,4,Accumulating,Building,Add 2.52%,Q4 2024
+PCVX,Vaxcyte Inc.,mc,Lee Ainslie,1310605,42608000,0.65,4,4,0,4,Accumulating,Building,Add 23.11%,Q4 2024
+RCKT,Rocket Pharmaceuticals Inc.,mc,Lee Ainslie,8363813,20491000,0.31,4,4,0,4,Accumulating,Building,Add 26.23%,Q4 2024
+HCA,HCA Healthcare Inc.,vg,Viking Global Investors,1872133,717214000,2.07,4,4,0,4,Accumulating,Building,Add 59.05%,Q4 2024
+BMRN,BioMarin Pharmaceutical Inc.,vg,Viking Global Investors,12288611,675505000,1.95,4,4,0,4,Accumulating,Building,Add 7.76%,Q4 2024
+CSX,CSX Corp.,vg,Viking Global Investors,18871882,615790000,1.78,4,4,0,4,Accumulating,Building,Add 56.90%,Q4 2024
+BSX,Boston Scientific,vg,Viking Global Investors,3045764,327146000,0.95,4,4,0,4,Accumulating,Building,Add 124.58%,Q4 2024
+LLYVK,Liberty Media Corp. Series C Live,VA,ValueAct Capital,3991888,323982000,5.79,4,4,0,4,Accumulating,Building,Add 136.92%,Q4 2024
+LLYVA,Liberty Media Corp. Series A Live,VA,ValueAct Capital,1773148,140930000,2.52,4,4,0,4,Accumulating,Building,Add 88.81%,Q4 2024
+BN,Brookfield Corp.,AC,Chuck Akre,19219290,1188713000,11.64,4,4,0,4,Accumulating,Building,Add 0.16%,Q4 2024
+FLUT,Flutter Entertainment Plc,tp,Daniel Loeb,1070000,305763000,4.06,4,4,0,4,Accumulating,Building,Add 70.59%,Q4 2024
+BN,Brookfield Corp.,psc,Bill Ackman,41160397,2545771000,18.54,4,4,0,4,Accumulating,Building,Add 6.59%,Q4 2024
+WFRD,Weatherford International plc,AIM,Alex Roepers,647274,32564000,16.62,4,4,0,4,Accumulating,Building,Add 55.85%,Q4 2024
+DPZ,Dominos Pizza Inc.,BRK,Warren Buffett,2633868,1186821000,0.46,4,4,0,4,Accumulating,Building,Add 86.49%,Q4 2024
+POOL,Pool Corp.,BRK,Warren Buffett,3458885,1008196000,0.39,4,4,0,4,Accumulating,Building,Add 48.17%,Q4 2024
+LLY,Eli Lilly & Co.,TGM,Chase Coleman,1511160,1177995000,3.46,4,4,0,4,Accumulating,Building,Add 35.08%,Q4 2024
+CPNG,Coupang Inc.,TGM,Chase Coleman,13585579,407024000,1.19,4,4,0,4,Accumulating,Building,Add 307.21%,Q4 2024
+LNC,Lincoln National,LMM,Bill Miller,569480,19704000,8.36,4,4,0,4,Accumulating,Building,Add 28.83%,Q4 2024
+BFH,Bread Financial Holdings Inc.,LMM,Bill Miller,327385,18700000,7.94,4,4,0,4,Accumulating,Building,Add 17.61%,Q4 2024
+NBR,Nabors Industries Ltd.,LMM,Bill Miller,624100,17487000,7.42,4,4,0,4,Accumulating,Building,Add 99.48%,Q4 2024
+GTN,Gray Television Inc.,LMM,Bill Miller,3647805,16525000,7.01,4,4,0,4,Accumulating,Building,Add 132.11%,Q4 2024
+QUAD,Quad/Graphics Inc.,LMM,Bill Miller,2710380,15314000,6.5,4,4,0,4,Accumulating,Building,Add 33.67%,Q4 2024
+CNDT,Conduent Inc.,LMM,Bill Miller,2755225,7274000,3.09,4,4,0,4,Accumulating,Building,Add 71.96%,Q4 2024
+AXL,American Axle & Manufacturing Holdings,LMM,Bill Miller,1439920,5875000,2.49,4,4,0,4,Accumulating,Building,Add 126.67%,Q4 2024
+FOSL,Fossil Inc.,LMM,Bill Miller,3469727,5135000,2.18,4,4,0,4,Accumulating,Building,Add 92.85%,Q4 2024
+PENN,Penn National Gaming Inc.,GLRE,David Einhorn,7494440,133925000,5.76,4,4,0,4,Accumulating,Building,Add 2.27%,Q4 2024
+DHT,DHT Holdings Inc.,GLRE,David Einhorn,7620934,82382000,3.54,4,4,0,4,Accumulating,Building,Add 20.78%,Q4 2024
+FIHL,Fidelis Insurance Holdings L,oa,Leon Cooperman,5806056,96264000,3.38,4,4,0,4,Accumulating,Building,Add 7.47%,Q4 2024
+ASH,Ashland Global Holdings Inc.,oa,Leon Cooperman,1700000,85476000,3.0,4,4,0,4,Accumulating,Building,Add 33.35%,Q4 2024
+STKL,SunOpta Inc.,oa,Leon Cooperman,6507051,37741000,1.33,4,4,0,4,Accumulating,Building,Add 1.87%,Q4 2024
+FOA,Finance Of America Companies Inc.,oa,Leon Cooperman,1275412,29743000,1.05,4,4,0,4,Accumulating,Building,Add 3.00%,Q4 2024
+GCI,Gannett Co.,oa,Leon Cooperman,5844058,20922000,0.74,4,4,0,4,Accumulating,Building,Add 2.65%,Q4 2024
+PDD,Pinduoduo Inc.,HH,Duan Yongping,8662694,906638000,7.86,4,4,0,4,Accumulating,Building,Add 84.99%,Q4 2024
+MSFT,Microsoft Corp.,tci,Chris Hohn,17565231,8737122000,17.23,4,4,0,4,Accumulating,Building,Add 16.71%,Q4 2024
+KHC,Kraft Heinz Co.,FFH,Prem Watsa,4884000,126056000,6.74,4,4,0,4,Accumulating,Building,Add 341.87%,Q4 2024
+WCC,WESCO International Inc.,BAUPOST,Seth Klarman,2207601,408848000,9.94,4,4,0,4,Accumulating,Building,Add 14.12%,Q4 2024
+QSR,Restaurant Brands International,BAUPOST,Seth Klarman,4049562,268445000,6.52,4,4,0,4,Accumulating,Building,Add 10155.53%,Q4 2024
+GOOG,Alphabet Inc. CL C,CAU,Sarah Ketterer,721546,127995000,2.03,4,4,0,4,Accumulating,Building,Add 6.21%,Q4 2024
+AZN,AstraZeneca PLC,CAU,Sarah Ketterer,953448,66627000,1.06,4,4,0,4,Accumulating,Building,Add 69.62%,Q4 2024
+JD,JD.com Inc.,CAU,Sarah Ketterer,1854381,60527000,0.96,4,4,0,4,Accumulating,Building,Add 2.72%,Q4 2024
+SNY,Sanofi Aventis,CAU,Sarah Ketterer,839639,40563000,0.64,4,4,0,4,Accumulating,Building,Add 38.79%,Q4 2024
+SHG,Shinhan Financial Group Company,CAU,Sarah Ketterer,550138,24855000,0.39,4,4,0,4,Accumulating,Building,Add 6.81%,Q4 2024
+ZIM,Zim Integrated Shipping Serv,CAU,Sarah Ketterer,711364,11446000,0.18,4,4,0,4,Accumulating,Building,Add 509.30%,Q4 2024
+ADI,Analog Devices,AKO,AKO Capital,1267990,301807000,3.81,4,4,0,4,Accumulating,Building,Add 3.82%,Q4 2024
+CPRT,Copart Inc.,AKO,AKO Capital,5340975,262082000,3.31,4,4,0,4,Accumulating,Building,Add 21.12%,Q4 2024
+UBER,Uber Technologies Inc.,GR,Thomas Russo,4896722,456864000,4.86,4,4,0,4,Accumulating,Building,Add 9.31%,Q4 2024
+XOM,Exxon Mobil Corp.,GR,Thomas Russo,190301,20514000,0.22,4,4,0,4,Accumulating,Building,Add 0.38%,Q4 2024
+UNP,Union Pacific,GR,Thomas Russo,24715,5686000,0.06,4,4,0,4,Accumulating,Building,Add 0.48%,Q4 2024
+SWZ,Swiss Helvetia Fund Inc.,GR,Thomas Russo,434237,2753000,0.03,4,4,0,4,Accumulating,Building,Add 1.92%,Q4 2024
+META,Meta Platforms Inc.,GC,Francois Rochon,318902,235378000,8.07,4,4,0,4,Accumulating,Building,Add 1.66%,Q4 2024
+HEI.A,HEICO Corp. CL A,GC,Francois Rochon,749492,193931000,6.65,4,4,0,4,Accumulating,Building,Add 1.18%,Q4 2024
+AME,Ametek Inc.,GC,Francois Rochon,996344,180298000,6.18,4,4,0,4,Accumulating,Building,Add 1.59%,Q4 2024
+SCHW,Charles Schwab Corp.,GC,Francois Rochon,1567495,143018000,4.9,4,4,0,4,Accumulating,Building,Add 1.30%,Q4 2024
+IBP,Installed Building Products,GC,Francois Rochon,514459,92767000,3.18,4,4,0,4,Accumulating,Building,Add 3.62%,Q4 2024
+MKL,Markel Group Inc.,GC,Francois Rochon,43696,87277000,2.99,4,4,0,4,Accumulating,Building,Add 1.52%,Q4 2024
+KNSL,Kinsale Capital Group Inc.,GC,Francois Rochon,179153,86692000,2.97,4,4,0,4,Accumulating,Building,Add 5.15%,Q4 2024
+MEDP,Medpace Holdings Inc.,GC,Francois Rochon,261755,82154000,2.82,4,4,0,4,Accumulating,Building,Add 3.18%,Q4 2024
+GOOGL,Alphabet Inc.,GC,Francois Rochon,379617,66900000,2.29,4,4,0,4,Accumulating,Building,Add 2.92%,Q4 2024
+MA,Mastercard Inc.,GC,Francois Rochon,27841,15645000,0.54,4,4,0,4,Accumulating,Building,Add 2.85%,Q4 2024
+CACC,Credit Acceptance Corp.,GC,Francois Rochon,30501,15538000,0.53,4,4,0,4,Accumulating,Building,Add 1.03%,Q4 2024
+JPM,JPMorgan Chase & Co.,GC,Francois Rochon,50950,14771000,0.51,4,4,0,4,Accumulating,Building,Add 1.24%,Q4 2024
+ALGN,Align Technology Inc.,GC,Francois Rochon,46358,8777000,0.3,4,4,0,4,Accumulating,Building,Add 30.35%,Q4 2024
+RPRX,Royalty Pharma plc,PTNT,Samantha McLemore,2987988,107657000,4.86,4,4,0,4,Accumulating,Building,Add 40.85%,Q4 2024
+IAC,IAC Inc.,PTNT,Samantha McLemore,1739006,64934000,2.93,4,4,0,4,Accumulating,Building,Add 0.22%,Q4 2024
+SDRL,Seadrill Ltd,PTNT,Samantha McLemore,2229549,58526000,2.64,4,4,0,4,Accumulating,Building,Add 63.49%,Q4 2024
+KOS,Kosmos Energy Ltd.,PTNT,Samantha McLemore,19339717,33264000,1.5,4,4,0,4,Accumulating,Building,Add 81.65%,Q4 2024
+HCC,Warrior Met Coal Inc.,PI,Mohnish Pabrai,1799745,82482000,30.37,4,4,0,4,Accumulating,Building,Add 144.08%,Q4 2024
+CPB,Campbell's Co.,JIM,Jensen Investment Management,133568,4094000,0.05,4,4,0,4,Accumulating,Building,Add 3.52%,Q4 2024
+MGM,MGM Resorts International,DAV,Christopher Davis,23821109,819208000,4.38,4,4,0,4,Accumulating,Building,Add 4.63%,Q4 2024
+CVS,CVS Health Corp.,DAV,Christopher Davis,11586790,799257000,4.27,4,4,0,4,Accumulating,Building,Add 2998.12%,Q4 2024
+TCOM,Trip.com Group Ltd,DAV,Christopher Davis,4949468,290237000,1.55,4,4,0,4,Accumulating,Building,Add 0.01%,Q4 2024
+WCC,WESCO International Inc.,DAV,Christopher Davis,290746,53846000,0.29,4,4,0,4,Accumulating,Building,Add 0.38%,Q4 2024
+ARE,Alexandria RE Equities Inc.,DAV,Christopher Davis,156187,11344000,0.06,4,4,0,4,Accumulating,Building,Add 5.73%,Q4 2024
+EGP,EastGroup Properties SBI,DAV,Christopher Davis,46130,7709000,0.04,4,4,0,4,Accumulating,Building,Add 12.05%,Q4 2024
+PRGO,Perrigo Co.,SSHFX,Harry Burn,3287671,87847000,2.99,4,4,0,4,Accumulating,Building,Add 0.37%,Q4 2024
+PSX,Phillips 66,T,Torray Funds,202754,24189000,3.51,4,4,0,4,Accumulating,Building,Add 6.47%,Q4 2024
+CNA,CNA Financial Corp.,T,Torray Funds,422918,19678000,2.86,4,4,0,4,Accumulating,Building,Add 27.38%,Q4 2024
+ENTG,Entegris Inc.,T,Torray Funds,20992,1693000,0.25,4,4,0,4,Accumulating,Building,Add 0.85%,Q4 2024
+IEX,IDEX Corp.,WVALX,Wallace Weitz,205000,35992000,4.34,4,4,0,4,Accumulating,Building,Add 33.63%,Q4 2024
+DE,Deere & Co.,MKL,Thomas Gayner,877900,446403000,3.77,4,4,0,4,Accumulating,Building,Add 0.67%,Q4 2024
+MSFT,Microsoft Corp.,MKL,Thomas Gayner,527480,262373000,2.22,4,4,0,4,Accumulating,Building,Add 0.87%,Q4 2024
+META,Meta Platforms Inc.,MKL,Thomas Gayner,280281,206872000,1.75,4,4,0,4,Accumulating,Building,Add 1.14%,Q4 2024
+LPLA,LPL Financial Holdings Inc.,MKL,Thomas Gayner,544604,204210000,1.73,4,4,0,4,Accumulating,Building,Add 2.31%,Q4 2024
+MMC,Marsh & McLennan,MKL,Thomas Gayner,748750,163707000,1.38,4,4,0,4,Accumulating,Building,Add 1.80%,Q4 2024
+LOW,Lowe's Cos.,MKL,Thomas Gayner,717230,159132000,1.35,4,4,0,4,Accumulating,Building,Add 1.59%,Q4 2024
+CAT,Caterpillar Inc.,MKL,Thomas Gayner,328650,127585000,1.08,4,4,0,4,Accumulating,Building,Add 1.90%,Q4 2024
+FNV,Franco Nevada Corp.,MKL,Thomas Gayner,569500,93352000,0.79,4,4,0,4,Accumulating,Building,Add 39.87%,Q4 2024
+LIN,Linde plc,MKL,Thomas Gayner,186600,87549000,0.74,4,4,0,4,Accumulating,Building,Add 8.39%,Q4 2024
+NVR,NVR Inc.,MKL,Thomas Gayner,11897,87867000,0.74,4,4,0,4,Accumulating,Building,Add 0.94%,Q4 2024
+ODFL,Old Dominion Freight Line,MKL,Thomas Gayner,342450,55580000,0.47,4,4,0,4,Accumulating,Building,Add 1.93%,Q4 2024
+THG,Hanover Insurance Group,MKL,Thomas Gayner,281000,47733000,0.4,4,4,0,4,Accumulating,Building,Add 5.12%,Q4 2024
+AON,Aon Plc,MKL,Thomas Gayner,129800,46307000,0.39,4,4,0,4,Accumulating,Building,Add 5.04%,Q4 2024
+YUM,Yum! Brands Inc.,MKL,Thomas Gayner,226451,33556000,0.28,4,4,0,4,Accumulating,Building,Add 31.31%,Q4 2024
+NKE,NIKE Inc.,MKL,Thomas Gayner,447400,31783000,0.27,4,4,0,4,Accumulating,Building,Add 0.82%,Q4 2024
+FERG,Ferguson Enterprises Inc.,MKL,Thomas Gayner,134500,29287000,0.25,4,4,0,4,Accumulating,Building,Add 25.44%,Q4 2024
+ABNB,Airbnb Inc.,MKL,Thomas Gayner,212003,28056000,0.24,4,4,0,4,Accumulating,Building,Add 502.14%,Q4 2024
+HCA,HCA Healthcare Inc.,MKL,Thomas Gayner,68963,26420000,0.22,4,4,0,4,Accumulating,Building,Add 11.09%,Q4 2024
+TMO,Thermo Fisher Scientific,MKL,Thomas Gayner,49550,20091000,0.17,4,4,0,4,Accumulating,Building,Add 16.10%,Q4 2024
+LAMR,Lamar Advertising Co.,MKL,Thomas Gayner,158000,19175000,0.16,4,4,0,4,Accumulating,Building,Add 11.71%,Q4 2024
+MAR,Marriott Int'l.,MKL,Thomas Gayner,60250,16461000,0.14,4,4,0,4,Accumulating,Building,Add 30.56%,Q4 2024
+UBER,Uber Technologies Inc.,MKL,Thomas Gayner,123500,11523000,0.1,4,4,0,4,Accumulating,Building,Add 23.86%,Q4 2024
+ADBE,Adobe Inc.,cc,William Von Mueffling,856629,331413000,1.92,4,4,0,4,Accumulating,Building,Add 18.33%,Q4 2024
+QCOM,QUALCOMM Inc.,MAVFX,David Katz,207733,33083000,3.35,4,4,0,4,Accumulating,Building,Add 3.93%,Q4 2024
+MDT,Medtronic plc,MAVFX,David Katz,369181,32181000,3.26,4,4,0,4,Accumulating,Building,Add 5.06%,Q4 2024
+PEP,PepsiCo Inc.,MAVFX,David Katz,220465,29110000,2.95,4,4,0,4,Accumulating,Building,Add 104.71%,Q4 2024
+AMGN,Amgen,MAVFX,David Katz,101598,28367000,2.87,4,4,0,4,Accumulating,Building,Add 96.05%,Q4 2024
+UNP,Union Pacific,MAVFX,David Katz,69866,16075000,1.63,4,4,0,4,Accumulating,Building,Add 1.21%,Q4 2024
+VOO,Vanguard S&P 500 ETF,MAVFX,David Katz,24444,13885000,1.4,4,4,0,4,Accumulating,Building,Add 4.10%,Q4 2024
+VYM,Vanguard High Dvd Yield ETF,MAVFX,David Katz,86061,11473000,1.16,4,4,0,4,Accumulating,Building,Add 5.29%,Q4 2024
+TSN,Tyson Foods,MAVFX,David Katz,199766,11175000,1.13,4,4,0,4,Accumulating,Building,Add 0.09%,Q4 2024
+GD,General Dynamics,MAVFX,David Katz,36088,10525000,1.06,4,4,0,4,Accumulating,Building,Add 0.48%,Q4 2024
+IWF,iShares Russell 1000 Growth ETF,MAVFX,David Katz,22995,9763000,0.99,4,4,0,4,Accumulating,Building,Add 3.58%,Q4 2024
+IJR,Ishares Core S&P  Small Cap E,MAVFX,David Katz,54818,5991000,0.61,4,4,0,4,Accumulating,Building,Add 17.20%,Q4 2024
+IWR,Ishares Russell Mid Cap ETF,MAVFX,David Katz,57927,5328000,0.54,4,4,0,4,Accumulating,Building,Add 8.94%,Q4 2024
+TCHP,T Rowe Price Blue Chip Growth ETF,MAVFX,David Katz,64641,2931000,0.3,4,4,0,4,Accumulating,Building,Add 1.85%,Q4 2024
+VTV,Vanguard Value ETF,MAVFX,David Katz,14272,2522000,0.26,4,4,0,4,Accumulating,Building,Add 41.50%,Q4 2024
+IWM,iShares Russell 2000 ETF,MAVFX,David Katz,10847,2341000,0.24,4,4,0,4,Accumulating,Building,Add 0.20%,Q4 2024
+QQQ,Invesco Qqq Trust Series 1,MAVFX,David Katz,1371,757000,0.08,4,4,0,4,Accumulating,Building,Add 2.00%,Q4 2024
+VO,Vanguard Mid Cap ETF,MAVFX,David Katz,2760,773000,0.08,4,4,0,4,Accumulating,Building,Add 34.68%,Q4 2024
+XOM,Exxon Mobil Corp.,MAVFX,David Katz,4855,523000,0.05,4,4,0,4,Accumulating,Building,Add 0.20%,Q4 2024
+MCD,McDonald's Corp.,MAVFX,David Katz,1084,317000,0.03,4,4,0,4,Accumulating,Building,Add 0.28%,Q4 2024
+OMC,Omnicom Group,OFALX,Robert Olstein,110000,7913000,1.48,4,4,0,4,Accumulating,Building,Add 5.62%,Q4 2024
+TGT,Target Corp.,OFALX,Robert Olstein,79000,7793000,1.46,4,4,0,4,Accumulating,Building,Add 48.00%,Q4 2024
+EMN,Eastman Chemical,OFALX,Robert Olstein,74000,5525000,1.04,4,4,0,4,Accumulating,Building,Add 16.14%,Q4 2024
+CMCSA,Comcast Corp.,DODGX,Dodge & Cox,74585994,2661974000,2.43,4,4,0,4,Accumulating,Building,Add 8.37%,Q4 2024
+HUM,Humana Inc.,DODGX,Dodge & Cox,7551500,1846191000,1.69,4,4,0,4,Accumulating,Building,Add 106.34%,Q4 2024
+ASHTF,Ashtead Group plc,DODGX,Dodge & Cox,26496300,1698122000,1.55,4,4,0,4,Accumulating,Building,Add 12.08%,Q4 2024
+SUI,Sun Communities Inc.,DODGX,Dodge & Cox,10679800,1350888000,1.23,4,4,0,4,Accumulating,Building,Add 65.24%,Q4 2024
+SBAC,SBA Communications Corp.,DODGX,Dodge & Cox,5398400,1267760000,1.16,4,4,0,4,Accumulating,Building,Add 388.94%,Q4 2024
+LFUS,Littelfuse Inc.,FPPTX,FPA Queens Road Small Cap Value Fund,93761,21258000,2.44,4,4,0,4,Accumulating,Building,Add 36.52%,Q4 2024
+LEN,Lennar Corp.,GA,Greenhaven Associates,9493585,1050085000,15.62,4,4,0,4,Accumulating,Building,Add 0.85%,Q4 2024
+DHI,D.R. Horton,GA,Greenhaven Associates,3681063,474563000,7.06,4,4,0,4,Accumulating,Building,Add 0.00%,Q4 2024
+OSK,Oshkosh Corp.,GA,Greenhaven Associates,2554406,290027000,4.31,4,4,0,4,Accumulating,Building,Add 0.62%,Q4 2024
+NOV,Nov Inc.,GA,Greenhaven Associates,4982516,61933000,0.92,4,4,0,4,Accumulating,Building,Add 61.69%,Q4 2024
+ABNB,Airbnb Inc.,oaklx,Bill Nygren,3236900,428371000,6.17,3,3,0,3,Accumulating,Building,Buy,Q4 2024
+IQV,IQVIA Holdings Inc.,oaklx,Bill Nygren,2660000,419189000,6.04,3,3,0,3,Accumulating,Building,Add 37.00%,Q4 2024
+PSX,Phillips 66,oaklx,Bill Nygren,3187000,380209000,5.47,3,3,0,3,Accumulating,Building,Add 34.92%,Q4 2024
+UMGNF,Universal Music Grp NV,SEQUX,Ruane Cunniff,8699174,281593000,7.47,3,3,0,3,Accumulating,Building,Add 14.19%,Q4 2024
+CNM,Core & Main Inc Class A,MVALX,Meridian Contrarian Fund,179000,10803000,2.05,3,3,0,3,Accumulating,Building,Add 141.43%,Q4 2024
+RRX,Regal Rexnord Corp.,MVALX,Meridian Contrarian Fund,69600,10089000,1.91,3,3,0,3,Accumulating,Building,Add 23.42%,Q4 2024
+QDEL,QuidelOrtho Corp.,MVALX,Meridian Contrarian Fund,218000,6283000,1.19,3,3,0,3,Accumulating,Building,Add 6.35%,Q4 2024
+NXE,Nexgen Energy Ltd,MVALX,Meridian Contrarian Fund,536655,3724000,0.71,3,3,0,3,Accumulating,Building,Buy,Q4 2024
+MSGE,Madison Square Garden Entertainment Corp.,CAAPX,John Rogers,650180,25988000,3.09,3,3,0,3,Accumulating,Building,Add 17.32%,Q4 2024
+SPHR,Sphere Entertainment Co.,CAAPX,John Rogers,590167,24669000,2.94,3,3,0,3,Accumulating,Building,Add 27.29%,Q4 2024
+GNTX,Gentex Corp.,CAAPX,John Rogers,848245,18653000,2.22,3,3,0,3,Accumulating,Building,Add 16.76%,Q3 2024
+APA,APA Corp.,ARFFX,Charles Bobrinskoy,140070,2562000,4.01,3,3,0,3,Accumulating,Building,Add 2.18%,Q4 2024
+GLW,Corning Inc.,AM,David Tepper,1750000,92033000,1.43,3,3,0,3,Accumulating,Building,Buy,Q4 2024
+ACHC,Acadia Healthcare Co.,mc,Lee Ainslie,2553237,57933000,0.89,3,3,0,3,Accumulating,Building,Buy,Q4 2024
+VRDN,Viridian Therapeutics Inc.,mc,Lee Ainslie,2257010,31553000,0.48,3,3,0,3,Accumulating,Building,Add 2.84%,Q4 2024
+NAMS,Newamsterdam Pharma Co Nv,mc,Lee Ainslie,1531874,27742000,0.43,3,3,0,3,Accumulating,Building,Buy,Q4 2024
+CAKE,Cheesecake Factory,mc,Lee Ainslie,60891,3815000,0.06,3,3,0,3,Accumulating,Building,Buy,Q4 2024
+KTB,Kontoor Brands Inc.,mc,Lee Ainslie,52947,3493000,0.05,3,3,0,3,Accumulating,Building,Buy,Q4 2024
+EPD,Enterprise Products Partners LP,fairx,Bruce Berkowitz,5450400,169017000,13.77,3,3,0,3,Accumulating,Building,Add 0.05%,Q4 2024
+OXY,Occidental Petroleum,fairx,Bruce Berkowitz,69100,2903000,0.24,3,3,0,3,Accumulating,Building,Buy,Q4 2024
+GM,General Motors,vg,Viking Global Investors,13018874,640659000,1.85,3,3,0,3,Accumulating,Building,Buy,Q4 2024
+ROST,Ross Stores Inc.,vg,Viking Global Investors,4747639,605704000,1.75,3,3,0,3,Accumulating,Building,Buy,Q4 2024
+QCOM,QUALCOMM Inc.,vg,Viking Global Investors,3152866,502125000,1.45,3,3,0,3,Accumulating,Building,Buy,Q4 2024
+AMZN,Amazon.com Inc.,VA,ValueAct Capital,3872500,849588000,15.17,3,3,0,3,Accumulating,Building,Buy,Q4 2024
+ABNB,Airbnb Inc.,AC,Chuck Akre,3473243,459649000,4.5,3,3,0,3,Accumulating,Building,Add 183.09%,Q3 2024
+CCCS,CCC Intelligent Solutions Hldgs Inc.,AC,Chuck Akre,14770128,138987000,1.36,3,3,0,3,Accumulating,Building,Add 36.67%,Q3 2024
+PDD,Pinduoduo Inc.,PC,Norbert Lou,415004,43434000,14.02,3,3,0,3,Accumulating,Building,Buy,Q4 2024
+COF,Capital One Financial,tp,Daniel Loeb,1804204,383862000,5.09,3,3,0,3,Accumulating,Building,Buy,Q4 2024
+PRMB,Primo Brands Corp,tp,Daniel Loeb,5775000,171056000,2.27,3,3,0,3,Accumulating,Building,Buy,Q4 2024
+HTZ,Hertz Global Hldgs Inc.,psc,Bill Ackman,15241127,104097000,0.76,3,3,0,3,Accumulating,Building,Buy,Q4 2024
+IEP,Icahn Enterprises,ic,Carl Icahn,494783619,3980534000,50.47,3,3,0,3,Accumulating,Building,Add 4.06%,Q4 2024
+UAN,CVR Partners LP,ic,Carl Icahn,4164274,369954000,4.69,3,3,0,3,Accumulating,Building,Add 4.48%,Q4 2024
+COF,Capital One Financial,CCM,Glenn Greenberg,1832991,389987000,8.94,3,3,0,3,Accumulating,Building,Buy,Q4 2024
+STZ,Constellation Brands,BRK,Warren Buffett,13400000,2179912000,0.85,3,3,0,3,Accumulating,Building,Buy,Q4 2024
+HEI.A,HEICO Corp. CL A,BRK,Warren Buffett,1294612,334981000,0.13,3,3,0,3,Accumulating,Building,Add 0.52%,Q3 2024
+AMZN,Amazon.com Inc.,TGM,Chase Coleman,10685541,2344301000,6.88,3,3,0,3,Accumulating,Building,Add 1.49%,Q3 2024
+TSM,Taiwan Semiconductor S.A.,TGM,Chase Coleman,4578374,1036956000,3.04,3,3,0,3,Accumulating,Building,Add 18.37%,Q3 2024
+RDDT,Reddit Inc Cl A,TGM,Chase Coleman,6148984,925853000,2.72,3,3,0,3,Accumulating,Building,Add 306.20%,Q4 2024
+AVGO,Broadcom Inc.,TGM,Chase Coleman,2703214,745141000,2.19,3,3,0,3,Accumulating,Building,Add 1.23%,Q3 2024
+ZS,Zscaler Inc.,TGM,Chase Coleman,1683266,528445000,1.55,3,3,0,3,Accumulating,Building,Buy,Q4 2024
+LRCX,Lam Research,TGM,Chase Coleman,5260328,512040000,1.5,3,3,0,3,Accumulating,Building,Add 12.06%,Q4 2024
+SHW,Sherwin-Williams,TGM,Chase Coleman,1204175,413466000,1.21,3,3,0,3,Accumulating,Building,Add 90.28%,Q4 2024
+CSGP,CoStar Group Inc.,SP,Dennis Hong,1356060,109027000,13.76,3,3,0,3,Accumulating,Building,Buy,Q4 2024
+BRZE,Braze Inc A,SP,Dennis Hong,2519600,70801000,8.94,3,3,0,3,Accumulating,Building,Buy,Q4 2024
+TEVA,Teva Pharmaceutical Industries Ltd.,GLRE,David Einhorn,3778777,63333000,2.72,3,3,0,3,Accumulating,Building,Add 44.24%,Q4 2024
+CPRI,Capri Holdings Ltd,GLRE,David Einhorn,3479107,61581000,2.65,3,3,0,3,Accumulating,Building,Add 93.60%,Q4 2024
+SDRL,Seadrill Ltd,GLRE,David Einhorn,1588828,41706000,1.79,3,3,0,3,Accumulating,Building,Add 27.70%,Q4 2024
+ET,Energy Transfer LP,oa,Leon Cooperman,13095000,237412000,8.34,3,3,0,3,Accumulating,Building,Add 3.15%,Q3 2024
+ELV,Elevance Health Inc.,oa,Leon Cooperman,280900,109259000,3.84,3,3,0,3,Accumulating,Building,Add 62.81%,Q4 2024
+MANU,Manchester United plc,oa,Leon Cooperman,2839737,50576000,1.78,3,3,0,3,Accumulating,Building,Add 3.15%,Q4 2024
+DMAC,DiaMedica Therapeutics Inc.,oa,Leon Cooperman,1650000,6435000,0.23,3,3,0,3,Accumulating,Building,Add 7.49%,Q4 2024
+HLT,Hilton Worldwide Holdings,AP,AltaRock Partners,544596,145048000,2.65,3,3,0,3,Accumulating,Building,Buy,Q4 2024

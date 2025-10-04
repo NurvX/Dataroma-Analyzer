@@ -1,6 +1,6 @@
 # 📊 Dataroma Investment Analysis
 
-*Generated: 2025-10-03 00:06:02*
+*Generated: 2025-10-04 01:59:22*
 
 ## 🎯 Overview
 
@@ -124,6 +124,9 @@ Deep insights into manager strategies, performance patterns, and decision-making
 
 | Report | Description | Key Insight |
 | ------ | ----------- | ----------- |
+| [position_building_timeline.csv](advanced/position_building_timeline.csv) | 📈 Position buildup/reduction over time (45173 items) | Quarter-by-quarter view of how managers accumulate & distribute positions |
+| [accumulation_vs_distribution.csv](advanced/accumulation_vs_distribution.csv) | 🔄 Current phase tracking (200 items) | Identifies which positions are being built vs reduced RIGHT NOW |
+| [position_flip_points.csv](advanced/position_flip_points.csv) | 🔀 Accumulation→Distribution transitions (100 items) | Pinpoints when managers switched from building to reducing |
 | [action_sequence_patterns.csv](advanced/action_sequence_patterns.csv) | Trading pattern analysis (30 items) | Institutional buy/sell sequence patterns |
 | [catalyst_timing_masters.csv](advanced/catalyst_timing_masters.csv) | Market timing excellence (30 items) | Managers with exceptional timing skills |
 | [crisis_alpha_generators.csv](advanced/crisis_alpha_generators.csv) | Crisis period outperformers (30 items) | Managers who buy during crashes |

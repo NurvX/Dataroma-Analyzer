@@ -1,0 +1,501 @@
+ticker,company_name,unique_sellers,selling_managers,action_breakdown,periods,shares_sold,remaining_holders,remaining_value,exit_rate_pct,total_sells,exit_status
+MSFT,Microsoft Corp.,41,"Charles Bobrinskoy
+David Tepper
+Lee Ainslie
+Viking Global Investors
+ValueAct Capital
+David Rolfe
+Daniel Loeb
+Bill & Melinda Gates Foundation Trust
+Glenn Greenberg
+Stephen Mandel","Reduce: 314, Sell: 18","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2019, Q4 2018, Q4 2017, Q4 2016, Q4 2015, Q4 2014, Q4 2013, Q4 2011, Q4 2010, Q4 2009, Q4 2008, Q3 2024, Q3 2023, Q3 2022, Q3 2021, Q3 2020, Q3 2019, Q3 2018, Q3 2017, Q3 2016, Q3 2015, Q3 2014, Q3 2012, Q3 2011, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q2 2020, Q2 2019, Q2 2018, Q2 2017, Q2 2016, Q2 2015, Q2 2013, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2021, Q1 2020, Q1 2019, Q1 2018, Q1 2017, Q1 2016, Q1 2012, Q1 2009",151532231.11238575,34.0,41002078000.0,54.66666666666666,332,Partial Exit
+META,Meta Platforms Inc.,40,"Bill Nygren
+Ruane Cunniff
+Christopher Bloomstran
+David Tepper
+Lee Ainslie
+Viking Global Investors
+ValueAct Capital
+Li Lu
+David Rolfe
+Daniel Loeb","Reduce: 271, Sell: 32","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2019, Q4 2018, Q3 2024, Q3 2023, Q3 2022, Q3 2021, Q3 2020, Q3 2019, Q3 2018, Q3 2017, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q2 2020, Q2 2019, Q2 2018, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2021, Q1 2020, Q1 2019",84557001.50388426,28.0,19204042000.0,58.82352941176471,303,Partial Exit
+GOOGL,Alphabet Inc.,39,"Bill Nygren
+Ruane Cunniff
+Christopher Bloomstran
+Viking Global Investors
+David Rolfe
+Daniel Loeb
+Bill Ackman
+Bill & Melinda Gates Foundation Trust
+Michael Burry
+Glenn Greenberg","Reduce: 276, Sell: 28","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2019, Q4 2018, Q4 2017, Q4 2016, Q4 2015, Q4 2013, Q4 2012, Q4 2011, Q3 2024, Q3 2023, Q3 2022, Q3 2021, Q3 2020, Q3 2019, Q3 2018, Q3 2017, Q3 2015, Q3 2014, Q3 2013, Q3 2012, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q2 2020, Q2 2019, Q2 2018, Q2 2014, Q2 2013, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2021, Q1 2020, Q1 2019, Q1 2018, Q1 2014, Q1 2013",257101507.52403,33.0,11192165000.0,54.16666666666666,304,Partial Exit
+GOOG,Alphabet Inc. CL C,36,"Bill Nygren
+Mason Hawkins
+Ruane Cunniff
+David Tepper
+Li Lu
+David Rolfe
+Bill Ackman
+Bill & Melinda Gates Foundation Trust
+Michael Burry
+Glenn Greenberg","Reduce: 318, Sell: 15","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2019, Q4 2018, Q4 2017, Q4 2016, Q4 2015, Q3 2024, Q3 2023, Q3 2022, Q3 2021, Q3 2020, Q3 2019, Q3 2018, Q3 2017, Q3 2015, Q3 2014, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q2 2020, Q2 2019, Q2 2018, Q2 2017, Q2 2016, Q2 2014, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2021, Q1 2020, Q1 2019, Q1 2018, Q1 2017, Q1 2016",237677901.3658445,28.0,11405374000.0,56.25,333,Partial Exit
+AMZN,Amazon.com Inc.,35,"Bill Nygren
+Ruane Cunniff
+Christopher Bloomstran
+David Tepper
+Viking Global Investors
+David Rolfe
+Daniel Loeb
+Bill & Melinda Gates Foundation Trust
+Michael Burry
+Glenn Greenberg","Reduce: 179, Sell: 24","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2019, Q4 2018, Q4 2015, Q3 2024, Q3 2023, Q3 2022, Q3 2021, Q3 2020, Q3 2018, Q3 2015, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q2 2020, Q2 2019, Q2 2018, Q2 2017, Q2 2015, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2021, Q1 2020, Q1 2019, Q1 2018, Q1 2015",169145707.90558168,26.0,20226817000.0,57.377049180327866,203,Partial Exit
+V,Visa Inc.,31,"David Tepper
+Lee Ainslie
+Viking Global Investors
+ValueAct Capital
+Chuck Akre
+David Rolfe
+Daniel Loeb
+Bill Ackman
+Bill & Melinda Gates Foundation Trust
+Glenn Greenberg","Reduce: 213, Sell: 12","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2019, Q4 2018, Q4 2017, Q3 2024, Q3 2023, Q3 2022, Q3 2021, Q3 2020, Q3 2019, Q3 2018, Q3 2017, Q3 2012, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q2 2020, Q2 2019, Q2 2018, Q2 2017, Q2 2012, Q2 2009, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2021, Q1 2020, Q1 2019, Q1 2018, Q1 2015, Q1 2012, Q1 2009",84782175.49936324,24.0,18479164000.0,56.36363636363636,225,Partial Exit
+WFC,Wells Fargo,30,"Bill Nygren
+Ruane Cunniff
+Meridian Contrarian Fund
+David Tepper
+Lee Ainslie
+Michael Burry
+Glenn Greenberg
+Warren Buffett
+Bill Miller
+Leon Cooperman","Reduce: 189, Sell: 27","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2019, Q4 2018, Q4 2017, Q4 2016, Q4 2014, Q4 2013, Q4 2012, Q4 2011, Q4 2010, Q4 2009, Q4 2008, Q3 2024, Q3 2023, Q3 2022, Q3 2021, Q3 2020, Q3 2019, Q3 2018, Q3 2017, Q3 2014, Q3 2013, Q3 2012, Q3 2009, Q3 2008, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q2 2020, Q2 2018, Q2 2017, Q2 2015, Q2 2014, Q2 2013, Q2 2012, Q2 2009, Q2 2008, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2021, Q1 2020, Q1 2019, Q1 2018, Q1 2017, Q1 2015, Q1 2013, Q1 2012",4291317380.558717,14.0,3986500000.0,68.18181818181817,216,Partial Exit
+DIS,Walt Disney Co.,30,"Mason Hawkins
+Ruane Cunniff
+Charles Bobrinskoy
+Christopher Bloomstran
+David Tepper
+Nelson Peltz
+ValueAct Capital
+Chuck Akre
+David Rolfe
+Daniel Loeb","Reduce: 117, Sell: 22","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2019, Q4 2018, Q4 2014, Q4 2011, Q4 2010, Q4 2008, Q3 2024, Q3 2023, Q3 2022, Q3 2021, Q3 2020, Q3 2019, Q3 2018, Q3 2014, Q3 2012, Q3 2008, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q2 2020, Q2 2019, Q2 2013, Q2 2012, Q2 2010, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2021, Q1 2019, Q1 2017, Q1 2013, Q1 2012, Q1 2011",360127197.1634152,17.0,3292326000.0,63.82978723404256,139,Partial Exit
+BAC,Bank of America Corp.,29,"Bill Nygren
+Charles Bobrinskoy
+David Tepper
+Lee Ainslie
+Bruce Berkowitz
+Viking Global Investors
+Chuck Akre
+Li Lu
+Glenn Greenberg
+Warren Buffett","Reduce: 145, Sell: 20","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2019, Q4 2018, Q4 2017, Q4 2016, Q4 2015, Q4 2014, Q4 2013, Q4 2011, Q4 2010, Q3 2024, Q3 2023, Q3 2022, Q3 2021, Q3 2020, Q3 2019, Q3 2018, Q3 2017, Q3 2016, Q3 2015, Q3 2014, Q3 2013, Q3 2011, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q2 2020, Q2 2019, Q2 2018, Q2 2016, Q2 2008, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2021, Q1 2020, Q1 2019, Q1 2018, Q1 2017, Q1 2016, Q1 2015, Q1 2014, Q1 2012, Q1 2010",930123036.234788,16.0,31624157000.0,64.44444444444444,165,Partial Exit
+AAPL,Apple Inc.,28,"Christopher Bloomstran
+David Tepper
+Bruce Berkowitz
+Viking Global Investors
+Chuck Akre
+Li Lu
+David Rolfe
+Daniel Loeb
+Bill & Melinda Gates Foundation Trust
+Carl Icahn","Reduce: 121, Sell: 14","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2019, Q4 2018, Q4 2017, Q4 2015, Q4 2014, Q4 2011, Q3 2024, Q3 2023, Q3 2022, Q3 2021, Q3 2020, Q3 2019, Q3 2018, Q3 2017, Q3 2015, Q3 2013, Q3 2011, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q2 2020, Q2 2019, Q2 2018, Q2 2017, Q2 2012, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2021, Q1 2020, Q1 2019, Q1 2018, Q1 2016, Q1 2012, Q1 2011",1509971278.463977,20.0,65659701000.0,58.333333333333336,135,Partial Exit
+UNH,United Health Group Inc.,26,"Ruane Cunniff
+David Tepper
+Bruce Berkowitz
+Viking Global Investors
+David Rolfe
+Daniel Loeb
+Bill & Melinda Gates Foundation Trust
+Glenn Greenberg
+Stephen Mandel
+Warren Buffett","Reduce: 151, Sell: 19","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2019, Q4 2018, Q4 2009, Q4 2008, Q3 2024, Q3 2023, Q3 2022, Q3 2021, Q3 2020, Q3 2019, Q3 2018, Q3 2010, Q3 2009, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q2 2020, Q2 2019, Q2 2018, Q2 2009, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2021, Q1 2020, Q1 2019, Q1 2010, Q1 2009",277920303.3886366,19.0,5758115000.0,57.77777777777777,170,Partial Exit
+BRK.B,Berkshire Hathaway CL B,26,"Mason Hawkins
+Ruane Cunniff
+Charles Bobrinskoy
+Christopher Bloomstran
+Bruce Berkowitz
+Chuck Akre
+David Rolfe
+Bill Ackman
+Bill & Melinda Gates Foundation Trust
+Glenn Greenberg","Reduce: 294, Sell: 17","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2019, Q4 2018, Q4 2017, Q4 2016, Q4 2015, Q4 2014, Q4 2013, Q4 2012, Q4 2011, Q4 2010, Q4 2009, Q4 2008, Q3 2024, Q3 2023, Q3 2022, Q3 2021, Q3 2020, Q3 2019, Q3 2018, Q3 2017, Q3 2016, Q3 2015, Q3 2014, Q3 2013, Q3 2012, Q3 2011, Q3 2010, Q3 2008, Q3 2007, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q2 2020, Q2 2019, Q2 2018, Q2 2017, Q2 2016, Q2 2015, Q2 2014, Q2 2013, Q2 2012, Q2 2011, Q2 2010, Q2 2009, Q2 2008, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2021, Q1 2020, Q1 2019, Q1 2018, Q1 2017, Q1 2016, Q1 2015, Q1 2014, Q1 2013, Q1 2012, Q1 2011, Q1 2010, Q1 2009, Q1 2008, Q1 2007",111968009.6361036,20.0,16171379000.0,56.52173913043478,311,Partial Exit
+BABA,Alibaba Group Holdings,25,"David Tepper
+Bruce Berkowitz
+Viking Global Investors
+Li Lu
+Daniel Loeb
+Bill & Melinda Gates Foundation Trust
+Michael Burry
+Stephen Mandel
+Chase Coleman
+Bill Miller","Reduce: 68, Sell: 30","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2019, Q4 2018, Q3 2024, Q3 2023, Q3 2022, Q3 2021, Q3 2020, Q3 2019, Q3 2018, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q2 2020, Q2 2019, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2021, Q1 2020, Q1 2019, Q1 2018",14103321295.891909,6.0,1434010000.0,80.64516129032258,98,Heavy Exit
+C,Citigroup Inc.,25,"Bill Nygren
+Charles Bobrinskoy
+Bruce Berkowitz
+ValueAct Capital
+Bill Ackman
+Michael Burry
+Glenn Greenberg
+Warren Buffett
+Kahn Brothers Group
+Bill Miller","Reduce: 124, Sell: 22","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2019, Q4 2018, Q4 2017, Q4 2016, Q4 2015, Q4 2014, Q4 2011, Q4 2010, Q3 2024, Q3 2022, Q3 2021, Q3 2020, Q3 2019, Q3 2018, Q3 2017, Q3 2016, Q3 2012, Q3 2011, Q3 2010, Q3 2008, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q2 2020, Q2 2019, Q2 2018, Q2 2017, Q2 2016, Q2 2015, Q2 2012, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2021, Q1 2020, Q1 2019, Q1 2018, Q1 2015, Q1 2014, Q1 2013, Q1 2012, Q1 2009",844997317.8336185,8.0,2109670000.0,75.75757575757575,146,Partial Exit
+AXP,American Express,24,"Bill Nygren
+Christopher Bloomstran
+Bruce Berkowitz
+ValueAct Capital
+David Einhorn
+Chris Hohn
+Prem Watsa
+AKO Capital
+Thomas Russo
+John Armitage","Reduce: 88, Sell: 17","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2019, Q4 2018, Q4 2017, Q4 2015, Q4 2011, Q4 2009, Q4 2008, Q3 2024, Q3 2023, Q3 2022, Q3 2021, Q3 2020, Q3 2019, Q3 2018, Q3 2017, Q3 2014, Q3 2013, Q3 2009, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q2 2020, Q2 2019, Q2 2012, Q2 2011, Q2 2009, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2021, Q1 2020, Q1 2018, Q1 2016, Q1 2012, Q1 2009",122312780.07342204,10.0,49313198000.0,70.58823529411765,105,Partial Exit
+CMCSA,Comcast Corp.,24,"Bill Nygren
+Mason Hawkins
+Bruce Berkowitz
+Nelson Peltz
+Viking Global Investors
+ValueAct Capital
+Daniel Loeb
+Bill & Melinda Gates Foundation Trust
+Glenn Greenberg
+Kahn Brothers Group","Reduce: 100, Sell: 18","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2019, Q4 2018, Q4 2017, Q4 2012, Q4 2011, Q4 2008, Q3 2024, Q3 2023, Q3 2022, Q3 2021, Q3 2020, Q3 2019, Q3 2018, Q3 2012, Q3 2010, Q3 2008, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q2 2020, Q2 2019, Q2 2018, Q2 2014, Q2 2012, Q2 2008, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2021, Q1 2020, Q1 2019, Q1 2018, Q1 2016, Q1 2014, Q1 2013, Q1 2008, Q1 2007",441255381.84974766,11.0,4406261000.0,68.57142857142857,118,Partial Exit
+MA,Mastercard Inc.,24,"Bill Nygren
+Ruane Cunniff
+David Tepper
+Viking Global Investors
+Chuck Akre
+Bill Ackman
+Glenn Greenberg
+Stephen Mandel
+Warren Buffett
+Valley Forge Capital Management","Reduce: 196, Sell: 19","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2019, Q4 2018, Q4 2017, Q4 2016, Q4 2014, Q4 2013, Q4 2012, Q4 2011, Q4 2008, Q4 2007, Q3 2024, Q3 2023, Q3 2022, Q3 2021, Q3 2020, Q3 2019, Q3 2018, Q3 2017, Q3 2016, Q3 2015, Q3 2014, Q3 2011, Q3 2009, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q2 2020, Q2 2019, Q2 2018, Q2 2017, Q2 2016, Q2 2015, Q2 2014, Q2 2012, Q2 2011, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2021, Q1 2020, Q1 2019, Q1 2018, Q1 2016, Q1 2015, Q1 2014, Q1 2012, Q1 2008",36901076.52034108,15.0,8697123000.0,61.53846153846154,215,Partial Exit
+JPM,JPMorgan Chase & Co.,23,"Bill Nygren
+Charles Bobrinskoy
+Viking Global Investors
+Bill & Melinda Gates Foundation Trust
+Glenn Greenberg
+Warren Buffett
+Kahn Brothers Group
+Bill Miller
+Leon Cooperman
+Francis Chou","Reduce: 166, Sell: 12","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2019, Q4 2017, Q4 2016, Q4 2015, Q4 2013, Q4 2008, Q3 2024, Q3 2023, Q3 2022, Q3 2021, Q3 2020, Q3 2019, Q3 2017, Q3 2016, Q3 2015, Q3 2012, Q3 2010, Q3 2009, Q3 2008, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q2 2020, Q2 2019, Q2 2018, Q2 2017, Q2 2016, Q2 2015, Q2 2013, Q2 2009, Q2 2008, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2021, Q1 2020, Q1 2018, Q1 2017, Q1 2016, Q1 2012, Q1 2011, Q1 2008",4975548665.649321,12.0,1992744000.0,65.71428571428571,178,Partial Exit
+ORCL,Oracle Corp.,23,"Bill Nygren
+Charles Bobrinskoy
+David Tepper
+Lee Ainslie
+Bill & Melinda Gates Foundation Trust
+Michael Burry
+Glenn Greenberg
+Warren Buffett
+Sarah Ketterer
+Polen Capital Management","Reduce: 113, Sell: 13","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2019, Q4 2018, Q4 2015, Q4 2014, Q3 2024, Q3 2023, Q3 2022, Q3 2021, Q3 2020, Q3 2019, Q3 2018, Q3 2016, Q3 2015, Q3 2014, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q2 2020, Q2 2018, Q2 2017, Q2 2016, Q2 2015, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2020, Q1 2019, Q1 2018, Q1 2017, Q1 2016, Q1 2015",84308669.96318084,12.0,5463780000.0,65.71428571428571,126,Partial Exit
+ADBE,Adobe Inc.,21,"David Tepper
+Viking Global Investors
+ValueAct Capital
+Chuck Akre
+Daniel Loeb
+Bill & Melinda Gates Foundation Trust
+Glenn Greenberg
+Stephen Mandel
+Valley Forge Capital Management
+Chase Coleman","Reduce: 74, Sell: 20","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2019, Q4 2018, Q4 2014, Q4 2013, Q4 2012, Q3 2024, Q3 2023, Q3 2022, Q3 2021, Q3 2020, Q3 2019, Q3 2018, Q3 2015, Q3 2014, Q3 2009, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q2 2020, Q2 2019, Q2 2018, Q2 2016, Q2 2015, Q2 2014, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2021, Q1 2020, Q1 2019, Q1 2018, Q1 2016, Q1 2013",35020768997.8681,8.0,1667117000.0,72.41379310344827,94,Partial Exit
+BKNG,Booking Holdings Inc.,21,"Bill Nygren
+Ruane Cunniff
+ValueAct Capital
+David Rolfe
+Bill & Melinda Gates Foundation Trust
+Michael Burry
+Stephen Mandel
+Prem Watsa
+Sarah Ketterer
+AKO Capital","Reduce: 96, Sell: 23","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2019, Q4 2018, Q4 2017, Q3 2024, Q3 2023, Q3 2022, Q3 2021, Q3 2020, Q3 2019, Q3 2018, Q3 2017, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q2 2020, Q2 2019, Q2 2018, Q2 2017, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2021, Q1 2020, Q1 2019, Q1 2018",7880319.183265367,8.0,3116292000.0,72.41379310344827,119,Partial Exit
+PYPL,PayPal Holdings Inc.,20,"Mason Hawkins
+David Tepper
+Lee Ainslie
+Viking Global Investors
+David Rolfe
+Carl Icahn
+Stephen Mandel
+Chase Coleman
+David Einhorn
+Leon Cooperman","Reduce: 96, Sell: 18","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2019, Q4 2018, Q4 2017, Q4 2016, Q3 2024, Q3 2023, Q3 2022, Q3 2021, Q3 2020, Q3 2019, Q3 2018, Q3 2017, Q3 2016, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q2 2020, Q2 2019, Q2 2018, Q2 2017, Q2 2016, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2021, Q1 2020, Q1 2019, Q1 2018, Q1 2017, Q1 2016",8741351048.109072,8.0,575924000.0,71.42857142857143,114,Partial Exit
+CHTR,Charter Communications,20,"Bill Nygren
+Ruane Cunniff
+Tom Bancroft
+Viking Global Investors
+Daniel Loeb
+Michael Burry
+Stephen Mandel
+Warren Buffett
+Bryan Lawrence
+AltaRock Partners","Reduce: 100, Sell: 13","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2019, Q4 2018, Q4 2017, Q3 2024, Q3 2023, Q3 2022, Q3 2021, Q3 2020, Q3 2019, Q3 2018, Q3 2017, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q2 2020, Q2 2019, Q2 2018, Q2 2016, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2021, Q1 2020, Q1 2019, Q1 2018, Q1 2015",86842477.83500269,11.0,4256410000.0,64.51612903225806,113,Partial Exit
+GS,Goldman Sachs Group,19,"Ruane Cunniff
+John Rogers
+Charles Bobrinskoy
+Bruce Berkowitz
+Daniel Loeb
+Bill & Melinda Gates Foundation Trust
+Warren Buffett
+David Einhorn
+Francis Chou
+Mohnish Pabrai","Reduce: 123, Sell: 15","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2019, Q4 2017, Q4 2016, Q4 2015, Q4 2013, Q4 2012, Q4 2011, Q4 2010, Q4 2008, Q3 2024, Q3 2023, Q3 2022, Q3 2021, Q3 2020, Q3 2019, Q3 2018, Q3 2016, Q3 2015, Q3 2014, Q3 2012, Q3 2011, Q3 2010, Q3 2009, Q3 2008, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q2 2020, Q2 2018, Q2 2016, Q2 2015, Q2 2014, Q2 2013, Q2 2012, Q2 2007, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2021, Q1 2020, Q1 2017, Q1 2015, Q1 2013, Q1 2012, Q1 2009",157360493.6722973,8.0,2018758000.0,70.37037037037037,138,Partial Exit
+SCHW,Charles Schwab Corp.,19,"Bill Nygren
+Ruane Cunniff
+John Rogers
+Lee Ainslie
+Viking Global Investors
+David Rolfe
+Glenn Greenberg
+Triple Frond Partners
+Francois Rochon
+John Armitage","Reduce: 123, Sell: 10","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2019, Q4 2018, Q4 2017, Q4 2016, Q4 2013, Q3 2024, Q3 2023, Q3 2022, Q3 2021, Q3 2020, Q3 2019, Q3 2018, Q3 2017, Q3 2016, Q3 2014, Q3 2013, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q2 2020, Q2 2019, Q2 2018, Q2 2017, Q2 2016, Q2 2015, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2021, Q1 2020, Q1 2019, Q1 2018, Q1 2017, Q1 2016, Q1 2014",66565345.72517159,10.0,8039752000.0,65.51724137931035,133,Partial Exit
+MHK,Mohawk Industries,18,"Ruane Cunniff
+Charles Bobrinskoy
+David Tepper
+Lee Ainslie
+Bruce Berkowitz
+Michael Burry
+Stephen Mandel
+Alex Roepers
+Prem Watsa
+Third Avenue Management","Reduce: 37, Sell: 17","Q4 2024, Q4 2021, Q4 2020, Q4 2019, Q4 2018, Q4 2016, Q4 2013, Q4 2012, Q4 2010, Q4 2008, Q4 2007, Q3 2024, Q3 2023, Q3 2021, Q3 2020, Q3 2019, Q3 2018, Q3 2015, Q3 2014, Q3 2013, Q3 2009, Q2 2024, Q2 2023, Q2 2021, Q2 2020, Q2 2019, Q2 2014, Q2 2013, Q2 2009, Q1 2024, Q1 2022, Q1 2021, Q1 2020, Q1 2019, Q1 2018, Q1 2013",12481077.977471571,4.0,88924000.0,81.81818181818183,54,Heavy Exit
+GE,GE Aerospace,18,"Bill Nygren
+Mason Hawkins
+Christopher Bloomstran
+Bruce Berkowitz
+Nelson Peltz
+Viking Global Investors
+Stephen Mandel
+Warren Buffett
+Chris Hohn
+Prem Watsa","Reduce: 85, Sell: 15","Q4 2024, Q4 2023, Q4 2022, Q4 2020, Q4 2019, Q4 2018, Q4 2017, Q4 2016, Q4 2015, Q4 2013, Q4 2008, Q3 2024, Q3 2023, Q3 2022, Q3 2021, Q3 2020, Q3 2019, Q3 2017, Q3 2016, Q3 2012, Q3 2010, Q3 2008, Q2 2025, Q2 2024, Q2 2023, Q2 2021, Q2 2020, Q2 2019, Q2 2018, Q2 2017, Q2 2016, Q2 2012, Q2 2009, Q2 2007, Q1 2025, Q1 2024, Q1 2023, Q1 2021, Q1 2020, Q1 2019, Q1 2018, Q1 2016, Q1 2012, Q1 2011",39374785.59867463,6.0,15829985000.0,75.0,100,Partial Exit
+CVS,CVS Health Corp.,18,"Charles Bobrinskoy
+Bruce Berkowitz
+Daniel Loeb
+Bill & Melinda Gates Foundation Trust
+Michael Burry
+Warren Buffett
+Leon Cooperman
+Prem Watsa
+Samantha McLemore
+Christopher Davis","Reduce: 41, Sell: 16","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2017, Q4 2014, Q4 2012, Q3 2024, Q3 2023, Q3 2022, Q3 2018, Q3 2015, Q3 2014, Q3 2012, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q2 2019, Q2 2015, Q2 2013, Q2 2012, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2019, Q1 2015, Q1 2013, Q1 2012",16522511.203383874,8.0,4439047000.0,69.23076923076923,57,Partial Exit
+TMO,Thermo Fisher Scientific,18,"John Rogers
+David Tepper
+Viking Global Investors
+Daniel Loeb
+Bill & Melinda Gates Foundation Trust
+Stephen Mandel
+Leon Cooperman
+Chris Hohn
+Prem Watsa
+Polen Capital Management","Reduce: 84, Sell: 14","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2019, Q4 2018, Q4 2017, Q4 2016, Q3 2024, Q3 2023, Q3 2022, Q3 2021, Q3 2020, Q3 2019, Q3 2018, Q3 2017, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q2 2020, Q2 2019, Q2 2018, Q2 2017, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2021, Q1 2020, Q1 2019, Q1 2018, Q1 2017",18434619.88486892,8.0,1668297000.0,69.23076923076923,98,Partial Exit
+TSM,Taiwan Semiconductor S.A.,18,"Ruane Cunniff
+David Tepper
+Viking Global Investors
+David Rolfe
+Daniel Loeb
+Stephen Mandel
+Warren Buffett
+Chase Coleman
+Duan Yongping
+Terry Smith","Reduce: 84, Sell: 8","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2019, Q3 2024, Q3 2023, Q3 2022, Q3 2021, Q3 2020, Q3 2019, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q2 2019, Q2 2018, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2021, Q1 2020, Q1 2019",357629623.45896673,20.0,7931092000.0,47.368421052631575,92,Light Selling
+CRM,Salesforce.com,17,"Bill Nygren
+David Tepper
+Lee Ainslie
+Viking Global Investors
+ValueAct Capital
+Chuck Akre
+Daniel Loeb
+Stephen Mandel
+Chase Coleman
+Josh Tarasoff","Reduce: 50, Sell: 20","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2019, Q3 2024, Q3 2023, Q3 2022, Q3 2020, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2021, Q1 2020, Q1 2018",1292972258.215273,9.0,2627923000.0,65.38461538461539,70,Partial Exit
+FI,Fiserv Inc.,17,"Bill Nygren
+Mason Hawkins
+ValueAct Capital
+Glenn Greenberg
+Warren Buffett
+Bill Miller
+Leon Cooperman
+Seth Klarman
+Sarah Ketterer
+Francois Rochon","Reduce: 90, Sell: 13","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2019, Q4 2018, Q4 2017, Q4 2012, Q4 2011, Q4 2010, Q3 2024, Q3 2023, Q3 2022, Q3 2020, Q3 2019, Q3 2017, Q3 2013, Q3 2012, Q3 2010, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2020, Q2 2019, Q2 2013, Q2 2011, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2020, Q1 2018, Q1 2012, Q1 2011",55765279.759681806,9.0,4005930000.0,65.38461538461539,103,Partial Exit
+COF,Capital One Financial,17,"Bill Nygren
+Ruane Cunniff
+Michael Burry
+Stephen Mandel
+Warren Buffett
+Kahn Brothers Group
+Bill Miller
+Clifford Sosin
+Greg Alexander
+Francois Rochon","Reduce: 105, Sell: 6","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2019, Q4 2018, Q4 2017, Q4 2016, Q4 2009, Q3 2024, Q3 2023, Q3 2022, Q3 2021, Q3 2020, Q3 2019, Q3 2017, Q3 2009, Q3 2008, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q2 2020, Q2 2019, Q2 2016, Q2 2014, Q2 2011, Q2 2009, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2021, Q1 2020, Q1 2016, Q1 2011",18898754.859045766,17.0,9651523000.0,50.0,111,Partial Exit
+KKR,KKR & Co. L.P.,16,"Bill Nygren
+John Rogers
+Charles Bobrinskoy
+Lee Ainslie
+Viking Global Investors
+ValueAct Capital
+Chuck Akre
+Stephen Mandel
+Chase Coleman
+Leon Cooperman","Reduce: 86, Sell: 14","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2019, Q4 2018, Q4 2017, Q4 2012, Q3 2024, Q3 2023, Q3 2022, Q3 2021, Q3 2020, Q3 2019, Q3 2018, Q3 2017, Q3 2013, Q2 2024, Q2 2023, Q2 2021, Q2 2020, Q2 2019, Q2 2018, Q2 2013, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2021, Q1 2020, Q1 2018, Q1 2017, Q1 2013",55544312.05539536,5.0,2089612000.0,76.19047619047619,100,Partial Exit
+JNJ,Johnson & Johnson,16,"Ruane Cunniff
+Charles Bobrinskoy
+David Rolfe
+Bill & Melinda Gates Foundation Trust
+Warren Buffett
+Terry Smith
+Prem Watsa
+Jensen Investment Management
+Lindsell Train
+Yacktman Asset Management","Reduce: 106, Sell: 8","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2018, Q4 2017, Q4 2016, Q4 2015, Q4 2013, Q4 2012, Q4 2011, Q4 2009, Q4 2008, Q3 2024, Q3 2023, Q3 2022, Q3 2021, Q3 2020, Q3 2019, Q3 2018, Q3 2017, Q3 2015, Q3 2014, Q3 2013, Q3 2012, Q3 2011, Q3 2010, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q2 2020, Q2 2018, Q2 2016, Q2 2013, Q2 2012, Q2 2011, Q2 2009, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2021, Q1 2020, Q1 2018, Q1 2016, Q1 2010",584615508.943631,10.0,458736000.0,61.53846153846154,114,Partial Exit
+BRK.A,Berkshire Hathaway CL A,16,"Mason Hawkins
+Ruane Cunniff
+Christopher Bloomstran
+Bruce Berkowitz
+Chuck Akre
+Norbert Lou
+Josh Tarasoff
+Prem Watsa
+Francis Chou
+Thomas Russo","Reduce: 108, Sell: 7","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2019, Q4 2018, Q4 2017, Q4 2016, Q4 2015, Q4 2014, Q4 2012, Q4 2010, Q4 2009, Q4 2008, Q4 2007, Q3 2024, Q3 2023, Q3 2022, Q3 2018, Q3 2016, Q3 2014, Q3 2009, Q3 2008, Q3 2007, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q2 2020, Q2 2019, Q2 2018, Q2 2016, Q2 2015, Q2 2014, Q2 2012, Q2 2010, Q2 2009, Q2 2008, Q2 2007, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2021, Q1 2020, Q1 2018, Q1 2017, Q1 2016, Q1 2015, Q1 2014, Q1 2013, Q1 2012, Q1 2010, Q1 2009, Q1 2008, Q1 2007",17911.8991728995,14.0,3597356000.0,53.333333333333336,115,Partial Exit
+INTC,Intel Corp.,15,"Bill Nygren
+Christopher Bloomstran
+David Tepper
+Bruce Berkowitz
+Daniel Loeb
+Warren Buffett
+David Einhorn
+Prem Watsa
+Seth Klarman
+Christopher Davis","Reduce: 42, Sell: 19","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2018, Q4 2013, Q3 2024, Q3 2023, Q3 2022, Q3 2021, Q3 2017, Q3 2016, Q3 2014, Q3 2009, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q2 2019, Q2 2017, Q2 2016, Q2 2013, Q2 2012, Q2 2008, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2020, Q1 2019, Q1 2017, Q1 2012, Q1 2009, Q1 2008",709191572.6288375,1.0,179200000.0,93.75,61,Heavy Exit
+NFLX,Netflix Inc.,15,"Bill Nygren
+Ruane Cunniff
+David Tepper
+Lee Ainslie
+Viking Global Investors
+Bill Ackman
+Carl Icahn
+Stephen Mandel
+Chase Coleman
+Josh Tarasoff","Reduce: 59, Sell: 17","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2013, Q3 2024, Q3 2023, Q3 2022, Q3 2021, Q3 2020, Q3 2014, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q2 2020, Q2 2015, Q2 2014, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2021, Q1 2020, Q1 2014",52586691.53597786,2.0,1817961000.0,88.23529411764706,76,Heavy Exit
+MU,Micron Technology Inc.,15,"Ruane Cunniff
+Meridian Contrarian Fund
+David Tepper
+Lee Ainslie
+Viking Global Investors
+Li Lu
+Daniel Loeb
+Alex Roepers
+David Einhorn
+Leon Cooperman","Reduce: 46, Sell: 16","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2018, Q4 2017, Q3 2024, Q3 2023, Q3 2022, Q3 2021, Q3 2018, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q2 2019, Q2 2018, Q2 2017, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2021, Q1 2020, Q1 2018, Q1 2016",516298944.9007045,3.0,261528000.0,83.33333333333334,62,Heavy Exit
+EBAY,eBay Inc.,15,"Bill Nygren
+Mason Hawkins
+Lee Ainslie
+Carl Icahn
+Bill Miller
+Pat Dorsey
+Seth Klarman
+AKO Capital
+John Armitage
+Lindsell Train","Reduce: 61, Sell: 15","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2014, Q4 2010, Q3 2024, Q3 2023, Q3 2022, Q3 2021, Q3 2020, Q3 2019, Q3 2015, Q3 2012, Q3 2009, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q2 2019, Q2 2018, Q2 2015, Q2 2012, Q2 2011, Q2 2009, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2021, Q1 2020, Q1 2019, Q1 2011",119531484.35699084,4.0,403163000.0,78.94736842105263,76,Partial Exit
+BMY,Bristol-Myers Squibb,15,"Bill Nygren
+Bruce Berkowitz
+David Rolfe
+Michael Burry
+Warren Buffett
+Kahn Brothers Group
+Prem Watsa
+Seth Klarman
+Sarah Ketterer
+Harry Burn","Reduce: 65, Sell: 12","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2019, Q4 2017, Q4 2011, Q4 2008, Q3 2024, Q3 2023, Q3 2022, Q3 2021, Q3 2020, Q3 2019, Q3 2011, Q3 2010, Q3 2009, Q3 2008, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q2 2020, Q2 2013, Q2 2012, Q2 2011, Q2 2010, Q2 2008, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2021, Q1 2020, Q1 2009, Q1 2008",103398851.9160021,7.0,330575000.0,68.18181818181817,77,Partial Exit
+GM,General Motors,15,"Mason Hawkins
+David Tepper
+Lee Ainslie
+Bill Ackman
+Warren Buffett
+Bill Miller
+David Einhorn
+Leon Cooperman
+Samantha McLemore
+Mohnish Pabrai","Reduce: 51, Sell: 14","Q4 2024, Q4 2023, Q4 2022, Q4 2020, Q4 2019, Q4 2018, Q4 2017, Q4 2012, Q3 2024, Q3 2023, Q3 2022, Q3 2021, Q3 2019, Q3 2018, Q3 2008, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q2 2019, Q2 2018, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2021, Q1 2020, Q1 2019, Q1 2018, Q1 2015, Q1 2014, Q1 2013, Q1 2011",111881651.33957082,7.0,1954060000.0,68.18181818181817,65,Partial Exit
+ELV,Elevance Health Inc.,14,"Ruane Cunniff
+Bruce Berkowitz
+Viking Global Investors
+Bill & Melinda Gates Foundation Trust
+Glenn Greenberg
+Warren Buffett
+Chris Hohn
+John Armitage
+First Eagle Investment Management
+Yacktman Asset Management","Reduce: 52, Sell: 11","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2019, Q4 2009, Q3 2024, Q3 2023, Q3 2022, Q3 2021, Q3 2020, Q3 2010, Q3 2009, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q2 2020, Q2 2019, Q2 2010, Q2 2009, Q1 2025, Q1 2024, Q1 2022, Q1 2020, Q1 2010, Q1 2009",32731605.928279325,6.0,2320927000.0,70.0,63,Partial Exit
+SBUX,Starbucks Corp.,14,"Christopher Bloomstran
+Lee Ainslie
+Viking Global Investors
+David Rolfe
+Bill Ackman
+Stephen Mandel
+Terry Smith
+Thomas Russo
+Francois Rochon
+Jensen Investment Management","Reduce: 63, Sell: 10","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2019, Q4 2018, Q4 2011, Q4 2010, Q3 2024, Q3 2023, Q3 2022, Q3 2021, Q3 2020, Q3 2019, Q3 2011, Q3 2010, Q3 2009, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q2 2020, Q2 2019, Q2 2017, Q2 2010, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2021, Q1 2020, Q1 2019, Q1 2018, Q1 2011, Q1 2010",163750404.7221464,6.0,1562148000.0,70.0,73,Partial Exit
+USB,U.S. Bancorp,14,"Meridian Contrarian Fund
+Bruce Berkowitz
+Viking Global Investors
+David Rolfe
+Glenn Greenberg
+Warren Buffett
+Prem Watsa
+Christopher Davis
+First Eagle Investment Management
+Yacktman Asset Management","Reduce: 74, Sell: 9","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2019, Q4 2018, Q4 2017, Q4 2014, Q4 2012, Q4 2008, Q3 2024, Q3 2023, Q3 2022, Q3 2021, Q3 2019, Q3 2017, Q3 2013, Q3 2012, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q2 2020, Q2 2018, Q2 2017, Q2 2013, Q2 2012, Q2 2011, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2021, Q1 2019, Q1 2018, Q1 2013, Q1 2012, Q1 2011",3252626093.79487,7.0,2405074000.0,66.66666666666666,83,Partial Exit
+WTW,Willis Towers Watson plc,14,"Mason Hawkins
+John Rogers
+Viking Global Investors
+ValueAct Capital
+Bill & Melinda Gates Foundation Trust
+Seth Klarman
+Sarah Ketterer
+Polen Capital Management
+David Abrams
+First Eagle Investment Management","Reduce: 55, Sell: 8","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2019, Q4 2018, Q4 2017, Q3 2024, Q3 2023, Q3 2022, Q3 2021, Q3 2020, Q3 2019, Q3 2018, Q3 2017, Q3 2012, Q2 2025, Q2 2024, Q2 2022, Q2 2021, Q2 2020, Q2 2019, Q2 2017, Q2 2013, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2021, Q1 2020, Q1 2019, Q1 2016, Q1 2012",30135648.19310978,7.0,2122464000.0,66.66666666666666,63,Partial Exit
+KMX,CarMax Inc.,14,"Ruane Cunniff
+John Rogers
+David Tepper
+Tom Bancroft
+Lee Ainslie
+Chuck Akre
+Daniel Loeb
+Warren Buffett
+Bryan Lawrence
+Greg Alexander","Reduce: 78, Sell: 9","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2019, Q4 2018, Q4 2017, Q4 2012, Q4 2009, Q4 2008, Q3 2024, Q3 2023, Q3 2022, Q3 2021, Q3 2020, Q3 2019, Q3 2018, Q3 2017, Q3 2012, Q3 2010, Q2 2025, Q2 2024, Q2 2023, Q2 2021, Q2 2020, Q2 2019, Q2 2009, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2021, Q1 2020, Q1 2019, Q1 2010, Q1 2009",27681501.31827165,8.0,293236000.0,63.63636363636363,87,Partial Exit
+NVDA,NVIDIA Corp.,14,"Meridian Contrarian Fund
+David Tepper
+Lee Ainslie
+Viking Global Investors
+David Rolfe
+Daniel Loeb
+Bill & Melinda Gates Foundation Trust
+Stephen Mandel
+Chase Coleman
+Sarah Ketterer","Reduce: 38, Sell: 8","Q4 2024, Q4 2023, Q4 2021, Q4 2020, Q4 2018, Q3 2024, Q3 2023, Q3 2021, Q3 2020, Q2 2025, Q2 2024, Q2 2023, Q2 2021, Q2 2020, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2020",141602316.26583025,14.0,4701087000.0,50.0,46,Partial Exit
+AIG,American International Group,13,"Bill Nygren
+Meridian Contrarian Fund
+Bruce Berkowitz
+Viking Global Investors
+Daniel Loeb
+Bill Ackman
+Bill & Melinda Gates Foundation Trust
+Carl Icahn
+David Abrams
+Harry Burn","Reduce: 66, Sell: 13","Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2019, Q4 2018, Q4 2016, Q4 2015, Q4 2014, Q4 2013, Q4 2012, Q4 2011, Q4 2008, Q3 2024, Q3 2022, Q3 2021, Q3 2020, Q3 2019, Q3 2018, Q3 2017, Q3 2016, Q3 2015, Q3 2014, Q3 2013, Q3 2012, Q3 2011, Q3 2008, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q2 2020, Q2 2019, Q2 2018, Q2 2017, Q2 2016, Q2 2015, Q2 2014, Q2 2012, Q2 2008, Q1 2024, Q1 2023, Q1 2022, Q1 2021, Q1 2020, Q1 2019, Q1 2018, Q1 2016, Q1 2015, Q1 2012",546527230.909801,2.0,155614000.0,86.66666666666667,79,Heavy Exit
+JD,JD.com Inc.,13,"David Tepper
+Daniel Loeb
+Michael Burry
+Chase Coleman
+Dennis Hong
+Bill Miller
+Greg Alexander
+Howard Marks
+Sarah Ketterer
+John Armitage","Reduce: 45, Sell: 13","Q4 2024, Q4 2023, Q4 2022, Q4 2021, Q4 2020, Q4 2019, Q3 2024, Q3 2023, Q3 2022, Q3 2021, Q3 2020, Q2 2025, Q2 2024, Q2 2023, Q2 2022, Q2 2021, Q2 2020, Q2 2019, Q1 2025, Q1 2024, Q1 2023, Q1 2022, Q1 2021, Q1 2020, Q1 2019",80416846.02959456,5.0,337213000.0,72.22222222222221,58,Partial Exit
