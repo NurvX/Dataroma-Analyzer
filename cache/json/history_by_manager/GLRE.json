@@ -5700,7 +5700,7 @@
       "company_name": "Ginkgo Bioworks Holdings Inc."
     },
     {
-      "symbol": "CCCS",
+      "symbol": "CCC",
       "manager_id": "GLRE",
       "action": "Sell 100.00%",
       "date": "Q3 2021",
@@ -6624,7 +6624,7 @@
       "company_name": "Joby Aviation Inc."
     },
     {
-      "symbol": "CCCS",
+      "symbol": "CCC",
       "manager_id": "GLRE",
       "action": "Buy",
       "date": "Q1 2021",
@@ -11002,6 +11002,6 @@
       "company_name": "Varex Imaging Corp."
     }
   ],
-  "timestamp": "2025-10-04T00:30:01.509397",
-  "scraped_date": "2025-10-04"
+  "timestamp": "2025-11-01T06:13:02.816241",
+  "scraped_date": "2025-11-01"
 }

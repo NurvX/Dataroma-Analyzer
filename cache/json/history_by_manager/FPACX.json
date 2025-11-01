@@ -4,6 +4,281 @@
     {
       "symbol": "FBIN",
       "manager_id": "FPACX",
+      "action": "Add 42.73%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 548411,
+      "portfolio_percentage": 0.47,
+      "company_name": "Fortune Brands Innovations Inc."
+    },
+    {
+      "symbol": "IFF",
+      "manager_id": "FPACX",
+      "action": "Add 15.46%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 401294,
+      "portfolio_percentage": 0.39,
+      "company_name": "International Flavors & Fragrances Inc."
+    },
+    {
+      "symbol": "HKHHF",
+      "manager_id": "FPACX",
+      "action": "Add 9.83%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 276491,
+      "portfolio_percentage": 0.3,
+      "company_name": "Heineken Holding NV"
+    },
+    {
+      "symbol": "271560.KS",
+      "manager_id": "FPACX",
+      "action": "Add 9.09%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 44070,
+      "portfolio_percentage": 0.05,
+      "company_name": "ORION Corp."
+    },
+    {
+      "symbol": "MCDIF",
+      "manager_id": "FPACX",
+      "action": "Add 0.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 2,
+      "portfolio_percentage": 0.0,
+      "company_name": "McDermott International Inc."
+    },
+    {
+      "symbol": "6465.T",
+      "manager_id": "FPACX",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 793020,
+      "portfolio_percentage": 0.47,
+      "company_name": "Hoshizaki Corp."
+    },
+    {
+      "symbol": "SSDOY",
+      "manager_id": "FPACX",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 886100,
+      "portfolio_percentage": 0.24,
+      "company_name": "Shiseido Co. Ltd."
+    },
+    {
+      "symbol": "GOOGL",
+      "manager_id": "FPACX",
+      "action": "Reduce 0.29%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 5123,
+      "portfolio_percentage": 0.02,
+      "company_name": "Alphabet Inc."
+    },
+    {
+      "symbol": "AMZN",
+      "manager_id": "FPACX",
+      "action": "Reduce 1.08%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 9934,
+      "portfolio_percentage": 0.03,
+      "company_name": "Amazon.com Inc."
+    },
+    {
+      "symbol": "ADI",
+      "manager_id": "FPACX",
+      "action": "Reduce 2.75%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 37811,
+      "portfolio_percentage": 0.15,
+      "company_name": "Analog Devices"
+    },
+    {
+      "symbol": "AVGO",
+      "manager_id": "FPACX",
+      "action": "Reduce 3.79%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 2975,
+      "portfolio_percentage": 0.02,
+      "company_name": "Broadcom Inc."
+    },
+    {
+      "symbol": "GOOG",
+      "manager_id": "FPACX",
+      "action": "Reduce 5.68%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 53895,
+      "portfolio_percentage": 0.21,
+      "company_name": "Alphabet Inc. CL C"
+    },
+    {
+      "symbol": "META",
+      "manager_id": "FPACX",
+      "action": "Reduce 7.56%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 37647,
+      "portfolio_percentage": 0.44,
+      "company_name": "Meta Platforms Inc."
+    },
+    {
+      "symbol": "UBER",
+      "manager_id": "FPACX",
+      "action": "Reduce 9.47%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 63025,
+      "portfolio_percentage": 0.1,
+      "company_name": "Uber Technologies Inc."
+    },
+    {
+      "symbol": "NATL",
+      "manager_id": "FPACX",
+      "action": "Reduce 10.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 184530,
+      "portfolio_percentage": 0.12,
+      "company_name": "NCR Atleos Corp."
+    },
+    {
+      "symbol": "SAFRF",
+      "manager_id": "FPACX",
+      "action": "Reduce 17.81%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 118069,
+      "portfolio_percentage": 0.66,
+      "company_name": "Safran SA"
+    },
+    {
+      "symbol": "TEL",
+      "manager_id": "FPACX",
+      "action": "Reduce 18.97%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 330530,
+      "portfolio_percentage": 1.16,
+      "company_name": "TE Connectivity plc"
+    },
+    {
+      "symbol": "HWM",
+      "manager_id": "FPACX",
+      "action": "Reduce 23.89%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 65240,
+      "portfolio_percentage": 0.2,
+      "company_name": "Howmet Aerospace Inc."
+    },
+    {
+      "symbol": "FERG",
+      "manager_id": "FPACX",
+      "action": "Reduce 26.26%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 207481,
+      "portfolio_percentage": 0.74,
+      "company_name": "Ferguson Enterprises Inc."
+    },
+    {
+      "symbol": "C",
+      "manager_id": "FPACX",
+      "action": "Reduce 28.21%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 934630,
+      "portfolio_percentage": 1.51,
+      "company_name": "Citigroup Inc."
+    },
+    {
+      "symbol": "WFC",
+      "manager_id": "FPACX",
+      "action": "Reduce 37.03%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 480386,
+      "portfolio_percentage": 0.64,
+      "company_name": "Wells Fargo"
+    },
+    {
+      "symbol": "NEXOF",
+      "manager_id": "FPACX",
+      "action": "Reduce 46.70%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1360300,
+      "portfolio_percentage": 0.47,
+      "company_name": "NEXON Co. Ltd."
+    },
+    {
+      "symbol": "HCMLF",
+      "manager_id": "FPACX",
+      "action": "Reduce 56.44%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1071138,
+      "portfolio_percentage": 1.44,
+      "company_name": "Holcim Ltd."
+    },
+    {
+      "symbol": "NTDOF",
+      "manager_id": "FPACX",
+      "action": "Reduce 63.29%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 878700,
+      "portfolio_percentage": 1.21,
+      "company_name": "Nintendo Co. Ltd"
+    },
+    {
+      "symbol": "SATS",
+      "manager_id": "FPACX",
+      "action": "Reduce 68.71%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 845531,
+      "portfolio_percentage": 1.03,
+      "company_name": "EchoStar Corp."
+    },
+    {
+      "symbol": "FBIN",
+      "manager_id": "FPACX",
       "action": "Add 148.28%",
       "date": "Q2 2025",
       "percentage_change": 0.0,
@@ -442,7 +717,7 @@
       "company_name": "Jefferies Financial Group Inc."
     },
     {
-      "symbol": "SAFRY",
+      "symbol": "SAFRF",
       "manager_id": "FPACX",
       "action": "Reduce 8.49%",
       "date": "Q1 2025",
@@ -607,7 +882,7 @@
       "company_name": "McDermott International Inc."
     },
     {
-      "symbol": "MTAL",
+      "symbol": "MTAL-OLD",
       "manager_id": "FPACX",
       "action": "Sell 100.00%",
       "date": "Q1 2025",
@@ -1069,7 +1344,7 @@
       "company_name": "Just Eat Takeaway.com NV"
     },
     {
-      "symbol": "MTAL",
+      "symbol": "MTAL-OLD",
       "manager_id": "FPACX",
       "action": "Buy",
       "date": "Q3 2024",
@@ -1454,7 +1729,7 @@
       "company_name": "Alphabet Inc. CL C"
     },
     {
-      "symbol": "SAFRY",
+      "symbol": "SAFRF",
       "manager_id": "FPACX",
       "action": "Reduce 2.87%",
       "date": "Q2 2024",
@@ -1696,7 +1971,7 @@
       "company_name": "Holcim Ltd."
     },
     {
-      "symbol": "SAFRY",
+      "symbol": "SAFRF",
       "manager_id": "FPACX",
       "action": "Reduce 6.29%",
       "date": "Q1 2024",
@@ -1993,7 +2268,7 @@
       "company_name": "Amazon.com Inc."
     },
     {
-      "symbol": "SAFRY",
+      "symbol": "SAFRF",
       "manager_id": "FPACX",
       "action": "Reduce 9.07%",
       "date": "Q4 2023",
@@ -2131,7 +2406,7 @@
       "date": "Q4 2023",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 567954,
+      "shares": 2839770,
       "portfolio_percentage": 1.57,
       "company_name": "Naspers Ltd"
     },
@@ -2235,7 +2510,7 @@
       "company_name": "Analog Devices"
     },
     {
-      "symbol": "SAFRY",
+      "symbol": "SAFRF",
       "manager_id": "FPACX",
       "action": "Reduce 6.78%",
       "date": "Q3 2023",
@@ -2923,7 +3198,7 @@
       "date": "Q4 2022",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 567954,
+      "shares": 2839770,
       "portfolio_percentage": 1.71,
       "company_name": "Naspers Ltd"
     },
@@ -3500,7 +3775,7 @@
       "company_name": "Holcim Ltd."
     },
     {
-      "symbol": "SAFRY",
+      "symbol": "SAFRF",
       "manager_id": "FPACX",
       "action": "Buy",
       "date": "Q2 2022",
@@ -3759,7 +4034,7 @@
       "date": "Q2 2022",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 344435,
+      "shares": 1722175,
       "portfolio_percentage": 0.58,
       "company_name": "Naspers Ltd"
     },
@@ -3957,7 +4232,7 @@
       "date": "Q1 2022",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 1537,
+      "shares": 7685,
       "portfolio_percentage": 0.0,
       "company_name": "Naspers Ltd"
     },
@@ -5046,7 +5321,7 @@
       "date": "Q3 2021",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 615085,
+      "shares": 3075425,
       "portfolio_percentage": 1.42,
       "company_name": "Naspers Ltd"
     },
@@ -5717,7 +5992,7 @@
       "date": "Q1 2021",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 38650,
+      "shares": 193250,
       "portfolio_percentage": 0.13,
       "company_name": "Naspers Ltd"
     },
@@ -6102,7 +6377,7 @@
       "date": "Q4 2020",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 21466,
+      "shares": 107330,
       "portfolio_percentage": 0.06,
       "company_name": "Naspers Ltd"
     },
@@ -6553,7 +6828,7 @@
       "date": "Q3 2020",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 129162,
+      "shares": 645810,
       "portfolio_percentage": 0.34,
       "company_name": "Naspers Ltd"
     },
@@ -6993,7 +7268,7 @@
       "date": "Q2 2020",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 274020,
+      "shares": 1370100,
       "portfolio_percentage": 0.72,
       "company_name": "Naspers Ltd"
     },
@@ -8863,7 +9138,7 @@
       "date": "Q1 2019",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 19303,
+      "shares": 96515,
       "portfolio_percentage": 0.04,
       "company_name": "Naspers Ltd"
     },
@@ -9578,7 +9853,7 @@
       "date": "Q4 2018",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 1144522,
+      "shares": 5722610,
       "portfolio_percentage": 2.41,
       "company_name": "Naspers Ltd"
     },
@@ -9798,7 +10073,7 @@
       "date": "Q3 2018",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 330427,
+      "shares": 1652135,
       "portfolio_percentage": 0.59,
       "company_name": "Naspers Ltd"
     },
@@ -10725,283 +11000,8 @@
       "shares": 2157651,
       "portfolio_percentage": 0.56,
       "company_name": "Axalta Coating Systems Ltd."
-    },
-    {
-      "symbol": "LNTA.IL",
-      "manager_id": "FPACX",
-      "action": "Reduce 1.82%",
-      "date": "Q3 2017",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 148570,
-      "portfolio_percentage": 0.01,
-      "company_name": "Lenta Ltd."
-    },
-    {
-      "symbol": "CIT",
-      "manager_id": "FPACX",
-      "action": "Reduce 1.97%",
-      "date": "Q3 2017",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 178685,
-      "portfolio_percentage": 0.08,
-      "company_name": "CIT Group"
-    },
-    {
-      "symbol": "JEF",
-      "manager_id": "FPACX",
-      "action": "Reduce 4.11%",
-      "date": "Q3 2017",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 661120,
-      "portfolio_percentage": 0.15,
-      "company_name": "Jefferies Financial Group Inc."
-    },
-    {
-      "symbol": "RTX",
-      "manager_id": "FPACX",
-      "action": "Reduce 5.34%",
-      "date": "Q3 2017",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 231940,
-      "portfolio_percentage": 0.24,
-      "company_name": "RTX Corp."
-    },
-    {
-      "symbol": "AON",
-      "manager_id": "FPACX",
-      "action": "Reduce 6.88%",
-      "date": "Q3 2017",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 256960,
-      "portfolio_percentage": 0.33,
-      "company_name": "Aon Plc"
-    },
-    {
-      "symbol": "TMO",
-      "manager_id": "FPACX",
-      "action": "Reduce 8.11%",
-      "date": "Q3 2017",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 91990,
-      "portfolio_percentage": 0.16,
-      "company_name": "Thermo Fisher Scientific"
-    },
-    {
-      "symbol": "NPSNY",
-      "manager_id": "FPACX",
-      "action": "Reduce 11.06%",
-      "date": "Q3 2017",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 362880,
-      "portfolio_percentage": 0.7,
-      "company_name": "Naspers Ltd"
-    },
-    {
-      "symbol": "C",
-      "manager_id": "FPACX",
-      "action": "Reduce 25.95%",
-      "date": "Q3 2017",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 2155730,
-      "portfolio_percentage": 1.39,
-      "company_name": "Citigroup Inc."
-    },
-    {
-      "symbol": "GE",
-      "manager_id": "FPACX",
-      "action": "Reduce 35.63%",
-      "date": "Q3 2017",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 529381,
-      "portfolio_percentage": 0.91,
-      "company_name": "GE Aerospace"
-    },
-    {
-      "symbol": "AA",
-      "manager_id": "FPACX",
-      "action": "Reduce 57.74%",
-      "date": "Q3 2017",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 2232470,
-      "portfolio_percentage": 0.93,
-      "company_name": "Alcoa Corp."
-    },
-    {
-      "symbol": "GE",
-      "manager_id": "FPACX",
-      "action": "Add 87.19%",
-      "date": "Q2 2017",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 691950,
-      "portfolio_percentage": 1.36,
-      "company_name": "GE Aerospace"
-    },
-    {
-      "symbol": "QCOM",
-      "manager_id": "FPACX",
-      "action": "Add 10.35%",
-      "date": "Q2 2017",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 219440,
-      "portfolio_percentage": 0.11,
-      "company_name": "QUALCOMM Inc."
-    },
-    {
-      "symbol": "CSCO",
-      "manager_id": "FPACX",
-      "action": "Add 8.14%",
-      "date": "Q2 2017",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 833100,
-      "portfolio_percentage": 0.24,
-      "company_name": "Cisco Systems"
-    },
-    {
-      "symbol": "MEGGF",
-      "manager_id": "FPACX",
-      "action": "Add 3.37%",
-      "date": "Q2 2017",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 1268931,
-      "portfolio_percentage": 0.07,
-      "company_name": "Meggitt PLC"
-    },
-    {
-      "symbol": "AABA",
-      "manager_id": "FPACX",
-      "action": "Buy",
-      "date": "Q2 2017",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 4847270,
-      "portfolio_percentage": 2.4,
-      "company_name": "Altaba Inc."
-    },
-    {
-      "symbol": "MYL-OLD",
-      "manager_id": "FPACX",
-      "action": "Buy",
-      "date": "Q2 2017",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 6341690,
-      "portfolio_percentage": 2.24,
-      "company_name": "Mylan NV"
-    },
-    {
-      "symbol": "MSFT",
-      "manager_id": "FPACX",
-      "action": "Reduce 3.01%",
-      "date": "Q2 2017",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 178020,
-      "portfolio_percentage": 0.11,
-      "company_name": "Microsoft Corp."
-    },
-    {
-      "symbol": "ORCL",
-      "manager_id": "FPACX",
-      "action": "Reduce 3.97%",
-      "date": "Q2 2017",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 633720,
-      "portfolio_percentage": 0.29,
-      "company_name": "Oracle Corp."
-    },
-    {
-      "symbol": "AON",
-      "manager_id": "FPACX",
-      "action": "Reduce 6.73%",
-      "date": "Q2 2017",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 269600,
-      "portfolio_percentage": 0.33,
-      "company_name": "Aon Plc"
-    },
-    {
-      "symbol": "RTX",
-      "manager_id": "FPACX",
-      "action": "Reduce 7.72%",
-      "date": "Q2 2017",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 363400,
-      "portfolio_percentage": 0.4,
-      "company_name": "RTX Corp."
-    },
-    {
-      "symbol": "CIT",
-      "manager_id": "FPACX",
-      "action": "Reduce 17.72%",
-      "date": "Q2 2017",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 1958055,
-      "portfolio_percentage": 0.87,
-      "company_name": "CIT Group"
-    },
-    {
-      "symbol": "JDSHF",
-      "manager_id": "FPACX",
-      "action": "Reduce 21.59%",
-      "date": "Q2 2017",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 569220,
-      "portfolio_percentage": 0.21,
-      "company_name": "Jardine Strategic Holdings"
-    },
-    {
-      "symbol": "YHOO",
-      "manager_id": "FPACX",
-      "action": "Sell 100.00%",
-      "date": "Q2 2017",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 4847270,
-      "portfolio_percentage": 2.19,
-      "company_name": "Yahoo Inc."
-    },
-    {
-      "symbol": "QCOM",
-      "manager_id": "FPACX",
-      "action": "Add 16.81%",
-      "date": "Q1 2017",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 305250,
-      "portfolio_percentage": 0.17,
-      "company_name": "QUALCOMM Inc."
-    },
-    {
-      "symbol": "WPP",
-      "manager_id": "FPACX",
-      "action": "Add 1.02%",
-      "date": "Q1 2017",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 106058,
-      "portfolio_percentage": 0.02,
-      "company_name": "WPP Group plc"
     }
   ],
-  "timestamp": "2025-10-04T00:30:01.779866",
-  "scraped_date": "2025-10-04"
+  "timestamp": "2025-11-01T06:13:02.576159",
+  "scraped_date": "2025-11-01"
 }

@@ -2,7 +2,7 @@
   "manager_id": "ARFFX",
   "activities": [
     {
-      "symbol": "ZIMV",
+      "symbol": "ZIMV-OLD",
       "manager_id": "ARFFX",
       "action": "Add 23.63%",
       "date": "Q2 2025",
@@ -178,7 +178,7 @@
       "company_name": "Schlumberger Ltd."
     },
     {
-      "symbol": "ZIMV",
+      "symbol": "ZIMV-OLD",
       "manager_id": "ARFFX",
       "action": "Add 152.44%",
       "date": "Q1 2025",
@@ -739,7 +739,7 @@
       "company_name": "Goldman Sachs Group"
     },
     {
-      "symbol": "ZIMV",
+      "symbol": "ZIMV-OLD",
       "manager_id": "ARFFX",
       "action": "Reduce 23.92%",
       "date": "Q3 2024",
@@ -1058,7 +1058,7 @@
       "company_name": "Generac Holdings Inc."
     },
     {
-      "symbol": "ZIMV",
+      "symbol": "ZIMV-OLD",
       "manager_id": "ARFFX",
       "action": "Reduce 27.35%",
       "date": "Q2 2024",
@@ -1135,7 +1135,7 @@
       "company_name": "KKR & Co. L.P."
     },
     {
-      "symbol": "ZIMV",
+      "symbol": "ZIMV-OLD",
       "manager_id": "ARFFX",
       "action": "Reduce 42.62%",
       "date": "Q1 2024",
@@ -1311,7 +1311,7 @@
       "company_name": "Generac Holdings Inc."
     },
     {
-      "symbol": "ZIMV",
+      "symbol": "ZIMV-OLD",
       "manager_id": "ARFFX",
       "action": "Reduce 42.82%",
       "date": "Q4 2023",
@@ -1696,7 +1696,7 @@
       "company_name": "Zebra Technologies Corp."
     },
     {
-      "symbol": "ZIMV",
+      "symbol": "ZIMV-OLD",
       "manager_id": "ARFFX",
       "action": "Add 26.29%",
       "date": "Q1 2023",
@@ -1872,7 +1872,7 @@
       "company_name": "Bank of America Corp."
     },
     {
-      "symbol": "ZIMV",
+      "symbol": "ZIMV-OLD",
       "manager_id": "ARFFX",
       "action": "Add 17.42%",
       "date": "Q4 2022",
@@ -1971,7 +1971,7 @@
       "company_name": "Barrick Mining Corp."
     },
     {
-      "symbol": "ZIMV",
+      "symbol": "ZIMV-OLD",
       "manager_id": "ARFFX",
       "action": "Add 7.97%",
       "date": "Q3 2022",
@@ -2114,7 +2114,7 @@
       "company_name": "Northern Trust Corp."
     },
     {
-      "symbol": "ZIMV",
+      "symbol": "ZIMV-OLD",
       "manager_id": "ARFFX",
       "action": "Add 23.93%",
       "date": "Q2 2022",
@@ -2301,7 +2301,7 @@
       "company_name": "Western Union Co."
     },
     {
-      "symbol": "ZIMV",
+      "symbol": "ZIMV-OLD",
       "manager_id": "ARFFX",
       "action": "Buy",
       "date": "Q1 2022",
@@ -11002,6 +11002,6 @@
       "company_name": "Tyco International"
     }
   ],
-  "timestamp": "2025-10-04T00:30:01.345312",
-  "scraped_date": "2025-10-04"
+  "timestamp": "2025-11-01T06:13:02.638594",
+  "scraped_date": "2025-11-01"
 }

@@ -877,7 +877,7 @@
       "date": "Q1 2024",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 50000,
+      "shares": 75000,
       "portfolio_percentage": 0.14,
       "company_name": "Brookfield Corp."
     },
@@ -1592,7 +1592,7 @@
       "date": "Q2 2023",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 343,
+      "shares": 515,
       "portfolio_percentage": 0.0,
       "company_name": "Brookfield Wealth Solutions Ltd"
     },
@@ -3440,7 +3440,7 @@
       "date": "Q2 2021",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 343,
+      "shares": 514,
       "portfolio_percentage": 0.0,
       "company_name": "Brookfield Wealth Solutions Ltd"
     },
@@ -3638,7 +3638,7 @@
       "date": "Q1 2021",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 15000,
+      "shares": 22500,
       "portfolio_percentage": 0.02,
       "company_name": "Brookfield Corp."
     },
@@ -4133,7 +4133,7 @@
       "date": "Q4 2020",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 35000,
+      "shares": 52500,
       "portfolio_percentage": 0.06,
       "company_name": "Brookfield Corp."
     },
@@ -11002,6 +11002,6 @@
       "company_name": "Old Republic International"
     }
   ],
-  "timestamp": "2025-10-04T00:30:01.547832",
-  "scraped_date": "2025-10-04"
+  "timestamp": "2025-11-01T06:13:02.857543",
+  "scraped_date": "2025-11-01"
 }

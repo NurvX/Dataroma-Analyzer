@@ -3407,7 +3407,7 @@
       "date": "Q4 2019",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 571639,
+      "shares": 2858195,
       "portfolio_percentage": 2.38,
       "company_name": "Naspers Ltd"
     },
@@ -3748,7 +3748,7 @@
       "date": "Q4 2018",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 5914,
+      "shares": 29570,
       "portfolio_percentage": 0.04,
       "company_name": "Naspers Ltd"
     },
@@ -4056,7 +4056,7 @@
       "date": "Q3 2018",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 13814,
+      "shares": 69070,
       "portfolio_percentage": 0.08,
       "company_name": "Naspers Ltd"
     },
@@ -4265,7 +4265,7 @@
       "date": "Q2 2018",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 30435,
+      "shares": 152175,
       "portfolio_percentage": 0.19,
       "company_name": "Naspers Ltd"
     },
@@ -4342,7 +4342,7 @@
       "date": "Q1 2018",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 560932,
+      "shares": 2804660,
       "portfolio_percentage": 3.52,
       "company_name": "Naspers Ltd"
     },
@@ -10914,6 +10914,6 @@
       "company_name": "Tiffany & Co."
     }
   ],
-  "timestamp": "2025-10-04T00:30:01.319423",
-  "scraped_date": "2025-10-04"
+  "timestamp": "2025-11-01T06:13:02.611034",
+  "scraped_date": "2025-11-01"
 }

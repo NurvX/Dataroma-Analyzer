@@ -9132,7 +9132,7 @@
       "company_name": "TJX Companies Inc."
     },
     {
-      "symbol": "TRML",
+      "symbol": "TRML-OLD",
       "manager_id": "vg",
       "action": "Sell 100.00%",
       "date": "Q2 2023",
@@ -9886,7 +9886,7 @@
       "date": "Q1 2023",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 7262078,
+      "shares": 10893117,
       "portfolio_percentage": 1.15,
       "company_name": "Brookfield Corp."
     },
@@ -10656,7 +10656,7 @@
       "date": "Q4 2022",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 7494949,
+      "shares": 11242424,
       "portfolio_percentage": 1.19,
       "company_name": "Brookfield Corp."
     },
@@ -11002,6 +11002,6 @@
       "company_name": "Las Vegas Sands Corp."
     }
   ],
-  "timestamp": "2025-10-04T00:30:01.388316",
-  "scraped_date": "2025-10-04"
+  "timestamp": "2025-11-01T06:13:02.686902",
+  "scraped_date": "2025-11-01"
 }

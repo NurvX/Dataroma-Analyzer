@@ -1443,7 +1443,7 @@
       "company_name": "TriMas Corp."
     },
     {
-      "symbol": "ZIMV",
+      "symbol": "ZIMV-OLD",
       "manager_id": "FE",
       "action": "Add 2.97%",
       "date": "Q2 2025",
@@ -1597,7 +1597,7 @@
       "company_name": "SM Energy Co."
     },
     {
-      "symbol": "PHLT",
+      "symbol": "PHLT-OLD",
       "manager_id": "FE",
       "action": "Add 0.90%",
       "date": "Q2 2025",
@@ -2180,7 +2180,7 @@
       "company_name": "InfuSystem Holdings Inc."
     },
     {
-      "symbol": "PBPB",
+      "symbol": "PBPB-OLD",
       "manager_id": "FE",
       "action": "Reduce 1.10%",
       "date": "Q2 2025",
@@ -5018,7 +5018,7 @@
       "company_name": "Walker & Dunlop Inc."
     },
     {
-      "symbol": "ZIMV",
+      "symbol": "ZIMV-OLD",
       "manager_id": "FE",
       "action": "Add 55.79%",
       "date": "Q1 2025",
@@ -6943,7 +6943,7 @@
       "company_name": "Nov Inc."
     },
     {
-      "symbol": "PHLT",
+      "symbol": "PHLT-OLD",
       "manager_id": "FE",
       "action": "Add 0.26%",
       "date": "Q1 2025",
@@ -8219,7 +8219,7 @@
       "company_name": "IDACORP Inc. Hldg. Co."
     },
     {
-      "symbol": "PBPB",
+      "symbol": "PBPB-OLD",
       "manager_id": "FE",
       "action": "Reduce 13.85%",
       "date": "Q1 2025",
@@ -9770,7 +9770,7 @@
       "company_name": "Clarus Corp."
     },
     {
-      "symbol": "ZIMV",
+      "symbol": "ZIMV-OLD",
       "manager_id": "FE",
       "action": "Add 33.60%",
       "date": "Q4 2024",
@@ -10166,7 +10166,7 @@
       "company_name": "Century Communities Inc."
     },
     {
-      "symbol": "PHLT",
+      "symbol": "PHLT-OLD",
       "manager_id": "FE",
       "action": "Add 15.10%",
       "date": "Q4 2024",
@@ -10760,7 +10760,7 @@
       "company_name": "Ducommun Inc."
     },
     {
-      "symbol": "PBPB",
+      "symbol": "PBPB-OLD",
       "manager_id": "FE",
       "action": "Add 4.41%",
       "date": "Q4 2024",
@@ -11002,6 +11002,6 @@
       "company_name": "Kratos Defense & Security Sol."
     }
   ],
-  "timestamp": "2025-10-04T00:30:01.666865",
-  "scraped_date": "2025-10-04"
+  "timestamp": "2025-11-01T06:13:02.979246",
+  "scraped_date": "2025-11-01"
 }

@@ -3770,7 +3770,7 @@
       "date": "Q4 2023",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 14671,
+      "shares": 22007,
       "portfolio_percentage": 0.02,
       "company_name": "Brookfield Corp."
     },
@@ -4276,7 +4276,7 @@
       "date": "Q3 2023",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 1552,
+      "shares": 2328,
       "portfolio_percentage": 0.0,
       "company_name": "Brookfield Corp."
     },
@@ -5134,7 +5134,7 @@
       "date": "Q1 2023",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 427,
+      "shares": 641,
       "portfolio_percentage": 0.0,
       "company_name": "Brookfield Corp."
     },
@@ -6344,7 +6344,7 @@
       "date": "Q3 2022",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 339,
+      "shares": 509,
       "portfolio_percentage": 0.0,
       "company_name": "Brookfield Corp."
     },
@@ -9798,7 +9798,7 @@
       "date": "Q3 2020",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 413,
+      "shares": 619,
       "portfolio_percentage": 0.0,
       "company_name": "Brookfield Corp."
     },
@@ -10678,7 +10678,7 @@
       "date": "Q2 2020",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 875,
+      "shares": 1313,
       "portfolio_percentage": 0.0,
       "company_name": "Brookfield Corp."
     },
@@ -11002,6 +11002,6 @@
       "company_name": "Bank OZK"
     }
   ],
-  "timestamp": "2025-10-04T00:30:01.619378",
-  "scraped_date": "2025-10-04"
+  "timestamp": "2025-11-01T06:13:02.933837",
+  "scraped_date": "2025-11-01"
 }

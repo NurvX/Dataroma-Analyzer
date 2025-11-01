@@ -415,7 +415,7 @@
       "date": "Q2 2023",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 772579,
+      "shares": 1158869,
       "portfolio_percentage": 20.76,
       "company_name": "Brookfield Corp."
     },
@@ -437,7 +437,7 @@
       "date": "Q1 2023",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 60260,
+      "shares": 90390,
       "portfolio_percentage": 1.62,
       "company_name": "Brookfield Corp."
     },
@@ -470,7 +470,7 @@
       "date": "Q4 2022",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 532016,
+      "shares": 798024,
       "portfolio_percentage": 13.88,
       "company_name": "Brookfield Corp."
     },
@@ -503,7 +503,7 @@
       "date": "Q3 2022",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 180303,
+      "shares": 270454,
       "portfolio_percentage": 7.46,
       "company_name": "Brookfield Corp."
     },
@@ -3742,6 +3742,6 @@
       "company_name": "CryptoLogic Ltd."
     }
   ],
-  "timestamp": "2025-10-04T00:30:01.633021",
-  "scraped_date": "2025-10-04"
+  "timestamp": "2025-11-01T06:13:02.943107",
+  "scraped_date": "2025-11-01"
 }

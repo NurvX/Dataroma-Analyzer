@@ -13,7 +13,7 @@
       "company_name": "Meta Platforms Inc."
     },
     {
-      "symbol": "CCCS",
+      "symbol": "CCC",
       "manager_id": "TFP",
       "action": "Add 30.68%",
       "date": "Q2 2025",
@@ -90,7 +90,7 @@
       "company_name": "Meta Platforms Inc."
     },
     {
-      "symbol": "CCCS",
+      "symbol": "CCC",
       "manager_id": "TFP",
       "action": "Buy",
       "date": "Q1 2025",
@@ -1960,6 +1960,6 @@
       "company_name": "TransDigm Group Inc."
     }
   ],
-  "timestamp": "2025-10-04T00:30:01.586125",
-  "scraped_date": "2025-10-04"
+  "timestamp": "2025-11-01T06:13:02.898285",
+  "scraped_date": "2025-11-01"
 }

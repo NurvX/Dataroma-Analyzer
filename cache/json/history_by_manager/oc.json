@@ -4017,7 +4017,7 @@
       "company_name": "Alpha Star Acquisition Corp"
     },
     {
-      "symbol": "CSLMF",
+      "symbol": "CSLMF-OLD",
       "manager_id": "oc",
       "action": "Sell 100.00%",
       "date": "Q3 2023",
@@ -4897,7 +4897,7 @@
       "company_name": "Avalon Acquisition Inc A"
     },
     {
-      "symbol": "GLLI",
+      "symbol": "GLLI-OLD",
       "manager_id": "oc",
       "action": "Sell 100.00%",
       "date": "Q2 2023",
@@ -10804,7 +10804,7 @@
       "company_name": "Alpha Star Acquisition Corp"
     },
     {
-      "symbol": "CSLMF",
+      "symbol": "CSLMF-OLD",
       "manager_id": "oc",
       "action": "Buy",
       "date": "Q1 2022",
@@ -11002,6 +11002,6 @@
       "company_name": "Spree Acquisition Corp 1 Ltd"
     }
   ],
-  "timestamp": "2025-10-04T00:30:01.557822",
-  "scraped_date": "2025-10-04"
+  "timestamp": "2025-11-01T06:13:02.868235",
+  "scraped_date": "2025-11-01"
 }

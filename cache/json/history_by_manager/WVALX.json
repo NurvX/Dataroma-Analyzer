@@ -2,6 +2,116 @@
   "manager_id": "WVALX",
   "activities": [
     {
+      "symbol": "MSFT",
+      "manager_id": "WVALX",
+      "action": "Add 33.76%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 26500,
+      "portfolio_percentage": 1.68,
+      "company_name": "Microsoft Corp."
+    },
+    {
+      "symbol": "IT",
+      "manager_id": "WVALX",
+      "action": "Add 14.96%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 9500,
+      "portfolio_percentage": 0.31,
+      "company_name": "Gartner Inc."
+    },
+    {
+      "symbol": "MELI",
+      "manager_id": "WVALX",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 3700,
+      "portfolio_percentage": 1.06,
+      "company_name": "Mercadolibre Inc."
+    },
+    {
+      "symbol": "CHTR",
+      "manager_id": "WVALX",
+      "action": "Reduce 2.96%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 2045,
+      "portfolio_percentage": 0.07,
+      "company_name": "Charter Communications"
+    },
+    {
+      "symbol": "MA",
+      "manager_id": "WVALX",
+      "action": "Reduce 4.48%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 3000,
+      "portfolio_percentage": 0.21,
+      "company_name": "Mastercard Inc."
+    },
+    {
+      "symbol": "IDXX",
+      "manager_id": "WVALX",
+      "action": "Reduce 7.78%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 3500,
+      "portfolio_percentage": 0.27,
+      "company_name": "IDEXX Laboratories"
+    },
+    {
+      "symbol": "V",
+      "manager_id": "WVALX",
+      "action": "Reduce 8.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 10000,
+      "portfolio_percentage": 0.42,
+      "company_name": "Visa Inc."
+    },
+    {
+      "symbol": "META",
+      "manager_id": "WVALX",
+      "action": "Reduce 8.33%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 5000,
+      "portfolio_percentage": 0.45,
+      "company_name": "Meta Platforms Inc."
+    },
+    {
+      "symbol": "GPN",
+      "manager_id": "WVALX",
+      "action": "Reduce 12.50%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 50000,
+      "portfolio_percentage": 0.51,
+      "company_name": "Global Payments Inc."
+    },
+    {
+      "symbol": "ORCL",
+      "manager_id": "WVALX",
+      "action": "Reduce 53.33%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 80000,
+      "portfolio_percentage": 2.75,
+      "company_name": "Oracle Corp."
+    },
+    {
       "symbol": "TMO",
       "manager_id": "WVALX",
       "action": "Add 17.33%",
@@ -10890,118 +11000,8 @@
       "shares": 125000,
       "portfolio_percentage": 1.21,
       "company_name": "Apollo Education Group Inc."
-    },
-    {
-      "symbol": "POT",
-      "manager_id": "WVALX",
-      "action": "Buy",
-      "date": "Q2 2009",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 75000,
-      "portfolio_percentage": 0.32,
-      "company_name": "Potash Corp. of Saskatchewan Inc."
-    },
-    {
-      "symbol": "EOG",
-      "manager_id": "WVALX",
-      "action": "Buy",
-      "date": "Q2 2009",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 3600,
-      "portfolio_percentage": 0.02,
-      "company_name": "EOG Resources"
-    },
-    {
-      "symbol": "TDS.S",
-      "manager_id": "WVALX",
-      "action": "Reduce 2.15%",
-      "date": "Q2 2009",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 30095,
-      "portfolio_percentage": 0.11,
-      "company_name": "Telephone & Data Systems Special"
-    },
-    {
-      "symbol": "CMCSK-OLD",
-      "manager_id": "WVALX",
-      "action": "Reduce 4.44%",
-      "date": "Q2 2009",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 100000,
-      "portfolio_percentage": 0.19,
-      "company_name": "Comcast Corp. CL A Spl"
-    },
-    {
-      "symbol": "BRK.B",
-      "manager_id": "WVALX",
-      "action": "Reduce 4.99%",
-      "date": "Q2 2009",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 90000,
-      "portfolio_percentage": 0.71,
-      "company_name": "Berkshire Hathaway CL B"
-    },
-    {
-      "symbol": "OCR",
-      "manager_id": "WVALX",
-      "action": "Reduce 5.98%",
-      "date": "Q2 2009",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 70000,
-      "portfolio_percentage": 0.25,
-      "company_name": "Omnicare Inc."
-    },
-    {
-      "symbol": "AXP",
-      "manager_id": "WVALX",
-      "action": "Reduce 6.90%",
-      "date": "Q2 2009",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 100000,
-      "portfolio_percentage": 0.32,
-      "company_name": "American Express"
-    },
-    {
-      "symbol": "CMLS",
-      "manager_id": "WVALX",
-      "action": "Reduce 7.14%",
-      "date": "Q2 2009",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 10000,
-      "portfolio_percentage": 0.01,
-      "company_name": "Cumulus Media Inc."
-    },
-    {
-      "symbol": "RWT",
-      "manager_id": "WVALX",
-      "action": "Reduce 13.24%",
-      "date": "Q2 2009",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 417200,
-      "portfolio_percentage": 0.84,
-      "company_name": "Redwood Trust Inc."
-    },
-    {
-      "symbol": "USG",
-      "manager_id": "WVALX",
-      "action": "Reduce 15.00%",
-      "date": "Q2 2009",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 150000,
-      "portfolio_percentage": 0.21,
-      "company_name": "USG Corp."
     }
   ],
-  "timestamp": "2025-10-04T00:30:01.701479",
-  "scraped_date": "2025-10-04"
+  "timestamp": "2025-11-01T06:13:02.477532",
+  "scraped_date": "2025-11-01"
 }

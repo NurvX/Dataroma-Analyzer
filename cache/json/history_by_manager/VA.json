@@ -101,7 +101,7 @@
       "company_name": "Redfin Corp."
     },
     {
-      "symbol": "CCCS",
+      "symbol": "CCC",
       "manager_id": "VA",
       "action": "Buy",
       "date": "Q2 2025",
@@ -6591,6 +6591,6 @@
       "company_name": "New York Times CL A"
     }
   ],
-  "timestamp": "2025-10-04T00:30:01.396916",
-  "scraped_date": "2025-10-04"
+  "timestamp": "2025-11-01T06:13:02.696256",
+  "scraped_date": "2025-11-01"
 }

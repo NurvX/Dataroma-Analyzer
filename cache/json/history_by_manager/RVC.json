@@ -2,6 +2,105 @@
   "manager_id": "RVC",
   "activities": [
     {
+      "symbol": "CACC",
+      "manager_id": "RVC",
+      "action": "Add 1.16%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1502,
+      "portfolio_percentage": 0.13,
+      "company_name": "Credit Acceptance Corp."
+    },
+    {
+      "symbol": "CRM",
+      "manager_id": "RVC",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 10980,
+      "portfolio_percentage": 0.48,
+      "company_name": "Salesforce.com"
+    },
+    {
+      "symbol": "META",
+      "manager_id": "RVC",
+      "action": "Reduce 2.29%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 3276,
+      "portfolio_percentage": 0.44,
+      "company_name": "Meta Platforms Inc."
+    },
+    {
+      "symbol": "IBKR",
+      "manager_id": "RVC",
+      "action": "Reduce 5.96%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 50653,
+      "portfolio_percentage": 0.64,
+      "company_name": "Interactive Brokers Group Inc."
+    },
+    {
+      "symbol": "WIX",
+      "manager_id": "RVC",
+      "action": "Reduce 6.81%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 23004,
+      "portfolio_percentage": 0.75,
+      "company_name": "Wix.com Ltd."
+    },
+    {
+      "symbol": "HTHT",
+      "manager_id": "RVC",
+      "action": "Reduce 8.53%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 56236,
+      "portfolio_percentage": 0.4,
+      "company_name": "H World Group Ltd ADR"
+    },
+    {
+      "symbol": "YUMC",
+      "manager_id": "RVC",
+      "action": "Reduce 9.74%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 47944,
+      "portfolio_percentage": 0.38,
+      "company_name": "Yum China Holdings Inc."
+    },
+    {
+      "symbol": "PDD",
+      "manager_id": "RVC",
+      "action": "Reduce 10.23%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 34337,
+      "portfolio_percentage": 0.83,
+      "company_name": "Pinduoduo Inc."
+    },
+    {
+      "symbol": "CVNA",
+      "manager_id": "RVC",
+      "action": "Reduce 12.76%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 65097,
+      "portfolio_percentage": 4.5,
+      "company_name": "Carvana Co."
+    },
+    {
       "symbol": "GOOGL",
       "manager_id": "RVC",
       "action": "Buy",
@@ -1355,6 +1454,6 @@
       "company_name": "Shake Shack Inc."
     }
   ],
-  "timestamp": "2025-10-04T00:30:01.797180",
-  "scraped_date": "2025-10-04"
+  "timestamp": "2025-11-01T06:13:02.519347",
+  "scraped_date": "2025-11-01"
 }

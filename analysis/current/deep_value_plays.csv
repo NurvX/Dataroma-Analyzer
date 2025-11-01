@@ -1,73 +1,84 @@
 ticker,company_name,current_price,managers,total_value,avg_portfolio_pct,index,manager_count,avg_reported_price,max_portfolio_pct,price_change_pct,52_week_low,52_week_high,52_week_position_pct,near_52w_low,value_score,value_type
-IEP,Icahn Enterprises,8.36,Carl Icahn,3980534000,50.47,769,1,8.04,50.47,3.9800995024875663,6.53,12.82,29.09379968203497,False,13.7,Value Play
-LOAR,Loar Holdings Inc,78.76,David Abrams,2761769000,45.17,918,1,86.17,45.17,-8.599280492050594,62.11,99.67,44.32907348242813,False,12.8,Value Play
-PTLO,Portillo's Inc Cl A,6.75,Glenn Welling,56388000,15.77,1198,1,11.67,15.77,-42.15938303341903,6.0,15.78,7.668711656441718,True,12.1,Deep Discount
-MNDY,monday.com Ltd.,183.57,"Dennis Hong
-Polen Capital Management",119121000,5.62,988,2,314.48,11.16,-41.62744848639024,166.22,342.64,9.83448588595397,True,10.0,Deep Discount
-EVH,Evolent Health Inc.,8.23,"Lee Ainslie
-Glenn Welling",81601000,9.33,545,2,11.26,18.43,-26.909413854351683,7.06,27.42,5.746561886051084,False,9.5,Deep Discount
-BBWI,Bath & Body Works Inc.,25.88,Tom Bancroft,55098000,16.76,205,1,29.96,16.76,-13.618157543391192,24.6,41.27,7.678464307138556,True,9.4,Deep Discount
-FRPT,Freshpet Inc.,53.5,Glenn Welling,42076000,11.77,618,1,67.96,11.77,-21.277221895232483,48.41,164.07,4.400830019021272,True,9.4,Deep Discount
-LULU,Lululemon Athletica Inc.,175.59,"Lee Ainslie
-Michael Burry
-Francois Rochon",100042000,7.71,934,3,237.58,21.12,-26.09226365855712,159.25,423.32,6.18775324724505,True,9.1,Deep Discount
-CHTR,Charter Communications,280.01,"Bill Nygren
+PTLO,Portillo's Inc Cl A,5.35,Glenn Welling,56388000,15.77,1196,1,11.67,15.77,-54.15595544130248,5.11,15.78,2.2492970946579134,True,13.1,Deep Discount
+LOAR,Loar Holdings Inc,79.13,David Abrams,2761769000,45.17,913,1,86.17,45.17,-8.169896715794367,62.11,99.67,45.31416400425984,False,12.7,Value Play
+FI,Fiserv Inc.,66.69,"Torray Funds
+Robert Olstein
+Dodge & Cox
+Mairs & Power Growth Fund
+David Katz
+Hillman Value Fund
+John Rogers
+Leon Cooperman
+Seth Klarman
+Francois Rochon",3910113000,2.27,579,10,146.323,3.83,-54.42274967025007,64.52,238.59,1.2466249210087903,True,11.4,Deep Discount
+EVH,Evolent Health Inc.,6.67,"Lee Ainslie
+Glenn Welling",81601000,9.33,542,2,11.26,18.43,-40.76376554174068,6.53,25.22,0.7490636704119834,True,11.1,Deep Discount
+GPI,Group 1 Automotive,397.54,Greg Alexander,248236000,32.31,673,1,436.71,32.31,-8.969338920565125,355.11,488.45,31.820908954552284,True,10.9,52-Week Low Value
+CMG,Chipotle Mexican Grill Inc.,31.69,"Lee Ainslie
+Viking Global Investors
+Bill Ackman",1533376000,3.27,357,3,56.15,8.81,-43.56188780053428,31.01,66.74,1.9031626084522808,True,10.2,Deep Discount
+FRPT,Freshpet Inc.,49.21,Glenn Welling,42076000,11.77,616,1,67.96,11.77,-27.589758681577397,46.76,164.07,2.088483505242522,True,10.1,Deep Discount
+BBWI,Bath & Body Works Inc.,24.48,Tom Bancroft,55098000,16.76,202,1,29.96,16.76,-18.29105473965287,23.49,41.27,5.568053993250854,True,10.0,Deep Discount
+CHTR,Charter Communications,233.84,"Wallace Weitz
+Dodge & Cox
+Steven Romick
+Bill Nygren
 Ruane Cunniff
 Tom Bancroft
 Lee Ainslie
 Warren Buffett
 Triple Frond Partners
-First Eagle Investment Management
+First Eagle Investment Management",3314560000,4.2,338,10,355.239,24.89,-34.173894195175635,215.93,437.06,8.099308099308097,True,9.9,Deep Discount
+BUR,Burford Capital Ltd,9.95,Josh Tarasoff,45724000,12.86,272,1,13.6,12.86,-26.83823529411765,9.31,15.55,10.256410256410236,True,9.8,Deep Discount
+FOUR,Shift4 Payments Inc. CL A,69.1,Dennis Hong,77179000,9.74,609,1,99.11,9.74,-30.279487438199983,66.11,127.5,4.870500081446481,True,9.8,Deep Discount
+LBRDK,Liberty Broadband Corp. CL C,53.82,"Bill Nygren
+Ruane Cunniff
+Seth Klarman",249918000,1.67,887,3,98.38,1.78,-45.29375889408416,49.59,97.16,8.892158923691397,True,9.7,Deep Discount
+LULU,Lululemon Athletica Inc.,170.54,"Lee Ainslie
+Michael Burry
+Francois Rochon",100042000,7.71,929,3,237.58,21.12,-28.217863456519915,159.25,423.32,4.275381527625248,True,9.4,Deep Discount
+WEN,Wendy's Co.,8.54,Nelson Peltz,347565000,9.17,1548,1,11.42,9.17,-25.218914185639235,8.39,19.49,1.3513513513513389,True,9.4,Deep Discount
+OGN,Organon & Co.,6.75,Kahn Brothers Group,33785000,6.78,1093,1,9.68,6.78,-30.26859504132231,6.18,18.19,4.746044962531226,True,9.2,Deep Discount
+VERX,Vertex Inc.,22.9,Dennis Hong,25174000,3.18,1493,1,35.33,3.18,-35.182564392867256,22.43,60.71,1.2277951933124316,True,9.2,Deep Discount
+KVUE,Kenvue Inc,14.37,"Lee Ainslie
+Daniel Loeb
+Yacktman Asset Management",567627000,2.67,877,3,20.93,3.34,-31.34257047300526,14.02,24.72,3.2710280373831746,True,8.8,Deep Discount
+MNDY,monday.com Ltd.,205.24,"Dennis Hong
+Polen Capital Management",119121000,5.62,983,2,314.48,11.16,-34.73670821673874,166.22,342.64,22.11767373313684,False,8.7,Deep Discount
+KMX,CarMax Inc.,41.91,"Thomas Gayner
 Wallace Weitz
-Richard Pzena
-Dodge & Cox",4256410000,4.31,339,11,396.5736363636364,24.89,-29.39268415128683,251.8,437.06,15.22724819173053,True,9.1,Deep Discount
-KMX,CarMax Inc.,46.42,"John Rogers
+Steven Romick
+Hillman Value Fund
+John Rogers
 Tom Bancroft
 Chuck Akre
-Francois Rochon
-Wallace Weitz
-Thomas Gayner
-Steven Romick
-Hillman Value Fund",293236000,2.3,862,8,67.21,5.57,-30.93289689034369,42.75,91.25,7.567010309278355,True,9.0,Deep Discount
-FI,Fiserv Inc.,127.56,"John Rogers
-Leon Cooperman
-Seth Klarman
-Francois Rochon
-Torray Funds
-David Katz
+Francois Rochon",249091000,2.07,859,8,56.03874999999999,5.57,-25.21246458923512,41.13,91.25,1.5562649640861812,True,8.7,Deep Discount
+GT,Goodyear Tire & Rubber,6.89,"David Tepper
+Alex Roepers
+First Eagle Investment Management",26478000,1.67,688,3,10.37,4.84,-33.55834136933461,6.51,12.03,6.884057971014491,True,8.6,Deep Discount
+TRUP,Trupanion Inc.,39.99,Josh Tarasoff,42293000,11.9,1433,1,55.35,11.9,-27.75067750677507,31.0,57.89,33.43250278914095,False,8.6,Deep Discount
+NSIT,Insight Enterprises Inc.,100.0,"ValueAct Capital
+Polen Capital Management",396530000,3.53,1052,2,138.10000000000002,7.06,-27.588703837798707,97.3,181.92,3.1907350508154138,True,8.5,Deep Discount
+ROP,Roper Technologies Inc.,446.15,Chuck Akre,815948000,7.99,1255,1,566.84,7.99,-21.291722531931416,435.42,592.47,6.832219038522738,True,8.5,Deep Discount
+BAX,Baxter International Inc.,18.47,"Richard Pzena
 Robert Olstein
 Dodge & Cox
-Mairs & Power Growth Fund",4005930000,2.25,581,9,172.40555555555557,3.83,-26.01166500177231,124.89,238.59,2.3482849604221654,True,8.8,Deep Discount
-BRKR,Bruker Corp.,36.98,Michael Burry,10300000,18.31,259,1,41.2,18.31,-10.242718446601955,28.49,67.1,21.989121989121983,False,8.7,Deep Discount
-FOUR,Shift4 Payments Inc. CL A,76.86,Dennis Hong,77179000,9.74,611,1,99.11,9.74,-22.449803248915345,68.09,127.5,14.761824608651736,True,8.6,Deep Discount
-VERX,Vertex Inc.,25.06,Dennis Hong,25174000,3.18,1497,1,35.33,3.18,-29.06878007359185,23.13,60.71,5.13571048430016,True,8.4,Deep Discount
-WEN,Wendy's Co.,9.55,Nelson Peltz,347565000,9.17,1552,1,11.42,9.17,-16.374781085814355,9.01,19.49,5.1526717557252,True,8.3,Deep Discount
-LBRDK,Liberty Broadband Corp. CL C,64.53,"Bill Nygren
-Ruane Cunniff
-Seth Klarman",249918000,1.67,891,3,98.38,1.78,-34.40739987802399,57.75,97.16,17.203755392032484,True,8.2,Deep Discount
-KVUE,Kenvue Inc,15.81,"Lee Ainslie
-Daniel Loeb
-Yacktman Asset Management",567627000,2.67,881,3,20.93,3.34,-24.46249402771141,15.47,24.72,3.675675675675675,True,8.1,Deep Discount
-ATZ.TO,Aritzia Inc.,0.0,Meridian Contrarian Fund,11142000,2.11,163,1,51.77,2.11,-100.0,0.0,0.0,50.0,False,8.0,Deep Discount
-CROX,Crocs Inc.,84.89,"Norbert Lou
-Samantha McLemore",104773000,9.83,405,2,101.28,17.36,-16.182859399684045,73.76,144.23,15.793954874414643,False,8.0,Deep Discount
-PRMB,Primo Brands Corp,22.1,"Lee Ainslie
+Hillman Value Fund
+Harry Burn",1003812000,2.55,196,5,24.272,4.69,-23.90408701384311,18.42,37.27,0.2652519893899053,True,8.4,Deep Discount
+CVNA,Carvana Co.,306.54,"Robert Vinall
 Viking Global Investors
-Daniel Loeb",823703000,1.69,1191,3,29.62,2.27,-25.38825118163403,21.56,35.59,3.8488952245189054,True,8.0,Deep Discount
-AMRZ.SW,AMRIZE Ltd.,0.0,Steven Romick,121176000,1.91,113,1,49.88,1.91,-100.0,0.0,0.0,50.0,False,8.0,Deep Discount
-KDP,Keurig Dr Pepper Inc.,25.84,Bill Nygren,310685000,4.47,848,1,33.06,4.47,-21.839080459770123,25.27,36.17,5.22935779816514,True,7.9,Deep Discount
-AN3.F,Alten SA,0.0,Tweedy Browne Co.,6399000,1.57,120,1,87.39,1.57,-100.0,0.0,0.0,50.0,False,7.9,Deep Discount
-KEMIRA.HE,Kemira Oyj,0.0,Tweedy Browne Co.,6373000,1.56,849,1,23.09,1.56,-100.0,0.0,0.0,50.0,False,7.9,Deep Discount
-CMG,Chipotle Mexican Grill Inc.,41.76,"Lee Ainslie
+Stephen Mandel
+Clifford Sosin
+Polen Capital Management",2788583000,23.39,427,5,345.02,80.82,-11.152976639035408,148.25,413.34,59.71179599381343,False,8.3,Deep Discount
+PGR,Progressive Corp.,206.0,"Thomas Gayner
+Lee Ainslie
+Glenn Greenberg
+Francois Rochon
+John Armitage",1031197000,2.71,1155,5,262.894,7.22,-21.64142201799965,205.55,292.65,0.5166475315728919,True,8.2,Deep Discount
+ATZ.TO,Aritzia Inc.,0.0,Meridian Contrarian Fund,11142000,2.11,161,1,51.77,2.11,-100.0,0.0,0.0,50.0,False,8.0,Deep Discount
+WM,Waste Management Inc.,199.77,"Bill & Melinda Gates Foundation Trust
+Jensen Investment Management",7644504000,9.3,1561,2,228.82,15.44,-12.69556856918101,197.02,240.84,6.275673208580558,True,8.0,Deep Discount
+PRMB,Primo Brands Corp,21.97,"Lee Ainslie
 Viking Global Investors
-Bill Ackman",1533376000,3.27,358,3,56.15,8.81,-25.627782724844167,38.3,66.74,12.16596343178622,True,7.9,Deep Discount
-VIST,"Vista Oil & Gas, S.A.B. de C.V.",34.53,Howard Marks,98563000,2.5,1506,1,47.81,2.5,-27.776615770759257,31.63,61.67,9.6537949400799,True,7.9,Deep Discount
-GT,Goodyear Tire & Rubber,7.72,"David Tepper
-Alex Roepers
-First Eagle Investment Management",26478000,1.67,691,3,10.37,4.84,-25.554484088717448,7.41,12.03,6.709956709956702,True,7.9,Deep Discount
-NSIT,Insight Enterprises Inc.,111.47,"ValueAct Capital
-Polen Capital Management",396530000,3.53,1057,2,138.10000000000002,7.06,-19.28312816799422,110.54,225.38,0.809822361546493,True,7.8,Deep Discount
-CNSWF,Constellation Software Inc.,2797.16,"Ruane Cunniff
-Torray Funds
-Wallace Weitz",341064000,4.23,371,3,3667.85,8.08,-23.738429870360022,2585.32,3996.32,15.01346562721472,True,7.8,Deep Discount
-TLPFF,Teleperformance SE,73.17,Tweedy Browne Co.,7560000,1.85,1418,1,96.63,1.85,-24.27817447997516,72.01,110.17,3.039832285115295,True,7.7,Deep Discount
+Daniel Loeb",823703000,1.69,1188,3,29.62,2.27,-25.82714382174207,21.37,35.59,4.219409282700407,True,8.0,Deep Discount
+AMRZ.SW,AMRIZE Ltd.,0.0,Steven Romick,117149000,1.87,112,1,48.22,1.87,-100.0,0.0,0.0,50.0,False,8.0,Deep Discount

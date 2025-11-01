@@ -2,6 +2,171 @@
   "manager_id": "TWEBX",
   "activities": [
     {
+      "symbol": "145720.KS",
+      "manager_id": "TWEBX",
+      "action": "Add 145.03%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 16439,
+      "portfolio_percentage": 0.15,
+      "company_name": "Dentium Co."
+    },
+    {
+      "symbol": "AZE.BR",
+      "manager_id": "TWEBX",
+      "action": "Add 127.53%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 262855,
+      "portfolio_percentage": 0.85,
+      "company_name": "Azelis Group NV"
+    },
+    {
+      "symbol": "JSG.L",
+      "manager_id": "TWEBX",
+      "action": "Add 78.13%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 992025,
+      "portfolio_percentage": 0.47,
+      "company_name": "Johnson Service Group Plc"
+    },
+    {
+      "symbol": "BREE.L",
+      "manager_id": "TWEBX",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 881088,
+      "portfolio_percentage": 1.01,
+      "company_name": "Breedon Group plc"
+    },
+    {
+      "symbol": "SDXOF",
+      "manager_id": "TWEBX",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 40076,
+      "portfolio_percentage": 0.6,
+      "company_name": "Sodexo SA"
+    },
+    {
+      "symbol": "BKGFF",
+      "manager_id": "TWEBX",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 44185,
+      "portfolio_percentage": 0.54,
+      "company_name": "Berkeley Group Holdings plc"
+    },
+    {
+      "symbol": "WFC",
+      "manager_id": "TWEBX",
+      "action": "Reduce 6.40%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 11771,
+      "portfolio_percentage": 0.23,
+      "company_name": "Wells Fargo"
+    },
+    {
+      "symbol": "AZO",
+      "manager_id": "TWEBX",
+      "action": "Reduce 11.92%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 180,
+      "portfolio_percentage": 0.18,
+      "company_name": "AutoZone Inc."
+    },
+    {
+      "symbol": "GOOGL",
+      "manager_id": "TWEBX",
+      "action": "Reduce 25.21%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 11172,
+      "portfolio_percentage": 0.64,
+      "company_name": "Alphabet Inc."
+    },
+    {
+      "symbol": "BAESF",
+      "manager_id": "TWEBX",
+      "action": "Reduce 28.86%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 112485,
+      "portfolio_percentage": 0.74,
+      "company_name": "BAE Systems plc"
+    },
+    {
+      "symbol": "BNTGY",
+      "manager_id": "TWEBX",
+      "action": "Reduce 40.29%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 22110,
+      "portfolio_percentage": 0.31,
+      "company_name": "Brenntag SE"
+    },
+    {
+      "symbol": "RNMBF",
+      "manager_id": "TWEBX",
+      "action": "Reduce 55.07%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 2185,
+      "portfolio_percentage": 1.21,
+      "company_name": "Rheinmetall AG"
+    },
+    {
+      "symbol": "0116.HK",
+      "manager_id": "TWEBX",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 1046000,
+      "portfolio_percentage": 0.28,
+      "company_name": "Chow Sang Sang Hldgs Int. Ltd"
+    },
+    {
+      "symbol": "0590.HK",
+      "manager_id": "TWEBX",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 214000,
+      "portfolio_percentage": 0.13,
+      "company_name": "Luk Fook Holdings"
+    },
+    {
+      "symbol": "383800.KS",
+      "manager_id": "TWEBX",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 61295,
+      "portfolio_percentage": 0.11,
+      "company_name": "LX Holdings Corp."
+    },
+    {
       "symbol": "ARKAY",
       "manager_id": "TWEBX",
       "action": "Add 25.73%",
@@ -112,7 +277,7 @@
       "company_name": "Nestle"
     },
     {
-      "symbol": "SAFRY",
+      "symbol": "SAFRF",
       "manager_id": "TWEBX",
       "action": "Reduce 6.58%",
       "date": "Q2 2025",
@@ -431,7 +596,7 @@
       "company_name": "Alphabet Inc."
     },
     {
-      "symbol": "SAFRY",
+      "symbol": "SAFRF",
       "manager_id": "TWEBX",
       "action": "Reduce 33.84%",
       "date": "Q1 2025",
@@ -1234,7 +1399,7 @@
       "company_name": "Berkshire Hathaway CL A"
     },
     {
-      "symbol": "SAFRY",
+      "symbol": "SAFRF",
       "manager_id": "TWEBX",
       "action": "Reduce 10.99%",
       "date": "Q4 2023",
@@ -1520,7 +1685,7 @@
       "company_name": "Wells Fargo"
     },
     {
-      "symbol": "SAFRY",
+      "symbol": "SAFRF",
       "manager_id": "TWEBX",
       "action": "Reduce 23.11%",
       "date": "Q3 2023",
@@ -1806,7 +1971,7 @@
       "company_name": "Johnson Electric Holdings Ltd"
     },
     {
-      "symbol": "SAFRY",
+      "symbol": "SAFRF",
       "manager_id": "TWEBX",
       "action": "Reduce 10.48%",
       "date": "Q2 2023",
@@ -2488,7 +2653,7 @@
       "company_name": "JD.com Inc."
     },
     {
-      "symbol": "SAFRY",
+      "symbol": "SAFRF",
       "manager_id": "TWEBX",
       "action": "Add 79.85%",
       "date": "Q2 2022",
@@ -4578,7 +4743,7 @@
       "company_name": "Krones AG"
     },
     {
-      "symbol": "SAFRY",
+      "symbol": "SAFRF",
       "manager_id": "TWEBX",
       "action": "Buy",
       "date": "Q1 2020",
@@ -10265,6 +10430,6 @@
       "company_name": "Commonwealth Telephone Enterprises Inc."
     }
   ],
-  "timestamp": "2025-10-04T00:30:01.744600",
-  "scraped_date": "2025-10-04"
+  "timestamp": "2025-11-01T06:13:02.530567",
+  "scraped_date": "2025-11-01"
 }

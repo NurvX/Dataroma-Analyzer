@@ -5167,7 +5167,7 @@
       "date": "Q4 2011",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 56123550,
+      "shares": 84185325,
       "portfolio_percentage": 7.52,
       "company_name": "Brookfield Corp."
     },
@@ -5299,7 +5299,7 @@
       "date": "Q3 2011",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 5751450,
+      "shares": 8627175,
       "portfolio_percentage": 0.77,
       "company_name": "Brookfield Corp."
     },
@@ -5552,7 +5552,7 @@
       "date": "Q1 2011",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 61875000,
+      "shares": 92812500,
       "portfolio_percentage": 6.81,
       "company_name": "Brookfield Corp."
     },
@@ -9044,6 +9044,6 @@
       "company_name": "Duke Energy"
     }
   ],
-  "timestamp": "2025-10-04T00:30:01.378620",
-  "scraped_date": "2025-10-04"
+  "timestamp": "2025-11-01T06:13:02.675136",
+  "scraped_date": "2025-11-01"
 }

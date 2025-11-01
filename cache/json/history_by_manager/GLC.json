@@ -52,7 +52,7 @@
       "date": "Q2 2025",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 967425,
+      "shares": 1451138,
       "portfolio_percentage": 17.52,
       "company_name": "Brookfield Corp."
     },
@@ -74,7 +74,7 @@
       "date": "Q1 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 27470,
+      "shares": 41205,
       "portfolio_percentage": 0.5,
       "company_name": "Brookfield Corp."
     },
@@ -195,7 +195,7 @@
       "date": "Q4 2024",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 41220,
+      "shares": 61830,
       "portfolio_percentage": 0.71,
       "company_name": "Brookfield Corp."
     },
@@ -316,7 +316,7 @@
       "date": "Q3 2024",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 511020,
+      "shares": 766530,
       "portfolio_percentage": 8.24,
       "company_name": "Brookfield Corp."
     },
@@ -437,7 +437,7 @@
       "date": "Q1 2024",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 68085,
+      "shares": 102128,
       "portfolio_percentage": 0.81,
       "company_name": "Brookfield Corp."
     },
@@ -459,7 +459,7 @@
       "date": "Q4 2023",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 55211,
+      "shares": 82816,
       "portfolio_percentage": 0.69,
       "company_name": "Brookfield Corp."
     },
@@ -591,7 +591,7 @@
       "date": "Q3 2023",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 250779,
+      "shares": 376168,
       "portfolio_percentage": 2.81,
       "company_name": "Brookfield Corp."
     },
@@ -646,7 +646,7 @@
       "date": "Q2 2023",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 365630,
+      "shares": 548445,
       "portfolio_percentage": 4.49,
       "company_name": "Brookfield Corp."
     },
@@ -844,7 +844,7 @@
       "date": "Q4 2022",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 65310,
+      "shares": 97965,
       "portfolio_percentage": 0.98,
       "company_name": "Brookfield Corp."
     },
@@ -1053,7 +1053,7 @@
       "date": "Q3 2022",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 5525,
+      "shares": 8287,
       "portfolio_percentage": 0.08,
       "company_name": "Brookfield Corp."
     },
@@ -1130,7 +1130,7 @@
       "date": "Q2 2022",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 71623,
+      "shares": 107435,
       "portfolio_percentage": 1.27,
       "company_name": "Brookfield Corp."
     },
@@ -1262,7 +1262,7 @@
       "date": "Q1 2022",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 30012,
+      "shares": 45018,
       "portfolio_percentage": 0.47,
       "company_name": "Brookfield Corp."
     },
@@ -1361,7 +1361,7 @@
       "date": "Q4 2021",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 43440,
+      "shares": 65160,
       "portfolio_percentage": 0.85,
       "company_name": "Brookfield Corp."
     },
@@ -1438,7 +1438,7 @@
       "date": "Q3 2021",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 91855,
+      "shares": 137782,
       "portfolio_percentage": 1.61,
       "company_name": "Brookfield Corp."
     },
@@ -1482,7 +1482,7 @@
       "date": "Q3 2021",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 5371,
+      "shares": 8057,
       "portfolio_percentage": 0.08,
       "company_name": "Brookfield Wealth Solutions Ltd"
     },
@@ -1559,7 +1559,7 @@
       "date": "Q2 2021",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 5371,
+      "shares": 8056,
       "portfolio_percentage": 0.08,
       "company_name": "Brookfield Wealth Solutions Ltd"
     },
@@ -1603,7 +1603,7 @@
       "date": "Q2 2021",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 207625,
+      "shares": 311438,
       "portfolio_percentage": 3.18,
       "company_name": "Brookfield Corp."
     },
@@ -1647,7 +1647,7 @@
       "date": "Q1 2021",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 26545,
+      "shares": 39818,
       "portfolio_percentage": 0.5,
       "company_name": "Brookfield Corp."
     },
@@ -1702,7 +1702,7 @@
       "date": "Q4 2020",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 78573,
+      "shares": 117859,
       "portfolio_percentage": 1.21,
       "company_name": "Brookfield Corp."
     },
@@ -1812,7 +1812,7 @@
       "date": "Q3 2020",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 162801,
+      "shares": 244201,
       "portfolio_percentage": 2.07,
       "company_name": "Brookfield Corp."
     },
@@ -1944,7 +1944,7 @@
       "date": "Q2 2020",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 108016,
+      "shares": 162024,
       "portfolio_percentage": 1.7,
       "company_name": "Brookfield Corp."
     },
@@ -2010,7 +2010,7 @@
       "date": "Q1 2020",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 158430,
+      "shares": 237645,
       "portfolio_percentage": 3.07,
       "company_name": "Brookfield Corp."
     },
@@ -2142,7 +2142,7 @@
       "date": "Q4 2019",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 48982,
+      "shares": 73473,
       "portfolio_percentage": 0.97,
       "company_name": "Brookfield Corp."
     },
@@ -2296,7 +2296,7 @@
       "date": "Q2 2019",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 57780,
+      "shares": 86670,
       "portfolio_percentage": 1.01,
       "company_name": "Brookfield Corp."
     },
@@ -2384,7 +2384,7 @@
       "date": "Q1 2019",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 203100,
+      "shares": 304650,
       "portfolio_percentage": 3.76,
       "company_name": "Brookfield Corp."
     },
@@ -2466,6 +2466,6 @@
       "company_name": "Stitch Fix Inc."
     }
   ],
-  "timestamp": "2025-10-04T00:30:01.537523",
-  "scraped_date": "2025-10-04"
+  "timestamp": "2025-11-01T06:13:02.846739",
+  "scraped_date": "2025-11-01"
 }

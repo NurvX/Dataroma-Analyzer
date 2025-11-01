@@ -1608,7 +1608,7 @@
       "company_name": "LPL Financial Holdings Inc."
     },
     {
-      "symbol": "VRNA",
+      "symbol": "VRNA-OLD",
       "manager_id": "mc",
       "action": "Reduce 70.74%",
       "date": "Q2 2025",
@@ -4270,7 +4270,7 @@
       "company_name": "Atkore International Group Inc."
     },
     {
-      "symbol": "AVDX",
+      "symbol": "AVDX-OLD",
       "manager_id": "mc",
       "action": "Buy",
       "date": "Q1 2025",
@@ -4776,7 +4776,7 @@
       "company_name": "BJ's Restaurants Inc."
     },
     {
-      "symbol": "VRNA",
+      "symbol": "VRNA-OLD",
       "manager_id": "mc",
       "action": "Reduce 42.99%",
       "date": "Q1 2025",
@@ -7251,7 +7251,7 @@
       "company_name": "Darden Restaurants"
     },
     {
-      "symbol": "VRNA",
+      "symbol": "VRNA-OLD",
       "manager_id": "mc",
       "action": "Reduce 25.79%",
       "date": "Q4 2024",
@@ -9352,7 +9352,7 @@
       "company_name": "Vaxcyte Inc."
     },
     {
-      "symbol": "VRNA",
+      "symbol": "VRNA-OLD",
       "manager_id": "mc",
       "action": "Add 36.32%",
       "date": "Q3 2024",
@@ -11002,6 +11002,6 @@
       "company_name": "TripAdvisor Inc."
     }
   ],
-  "timestamp": "2025-10-04T00:30:01.369973",
-  "scraped_date": "2025-10-04"
+  "timestamp": "2025-11-01T06:13:02.664590",
+  "scraped_date": "2025-11-01"
 }

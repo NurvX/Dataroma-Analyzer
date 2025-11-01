@@ -2532,7 +2532,7 @@
       "company_name": "Houlihan Lokey Inc."
     },
     {
-      "symbol": "CCCS",
+      "symbol": "CCC",
       "manager_id": "pcm",
       "action": "Reduce 92.38%",
       "date": "Q2 2025",
@@ -3962,7 +3962,7 @@
       "company_name": "Goosehead Insurance Inc."
     },
     {
-      "symbol": "CCCS",
+      "symbol": "CCC",
       "manager_id": "pcm",
       "action": "Reduce 28.55%",
       "date": "Q1 2025",
@@ -4908,7 +4908,7 @@
       "company_name": "AAON Inc."
     },
     {
-      "symbol": "CCCS",
+      "symbol": "CCC",
       "manager_id": "pcm",
       "action": "Reduce 4.26%",
       "date": "Q4 2024",
@@ -6481,7 +6481,7 @@
       "company_name": "YETI Holdings Inc."
     },
     {
-      "symbol": "CCCS",
+      "symbol": "CCC",
       "manager_id": "pcm",
       "action": "Reduce 6.79%",
       "date": "Q3 2024",
@@ -7295,7 +7295,7 @@
       "company_name": "iShares Russell 2000 ETF"
     },
     {
-      "symbol": "CCCS",
+      "symbol": "CCC",
       "manager_id": "pcm",
       "action": "Add 51.23%",
       "date": "Q2 2024",
@@ -9022,7 +9022,7 @@
       "company_name": "Firstservice Corp"
     },
     {
-      "symbol": "CCCS",
+      "symbol": "CCC",
       "manager_id": "pcm",
       "action": "Reduce 2.18%",
       "date": "Q1 2024",
@@ -10573,7 +10573,7 @@
       "company_name": "Doximity Inc."
     },
     {
-      "symbol": "CCCS",
+      "symbol": "CCC",
       "manager_id": "pcm",
       "action": "Reduce 21.08%",
       "date": "Q4 2023",
@@ -11002,6 +11002,6 @@
       "company_name": "Revolve Group Inc."
     }
   ],
-  "timestamp": "2025-10-04T00:30:01.587895",
-  "scraped_date": "2025-10-04"
+  "timestamp": "2025-11-01T06:13:02.900082",
+  "scraped_date": "2025-11-01"
 }

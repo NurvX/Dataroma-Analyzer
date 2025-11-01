@@ -3781,7 +3781,7 @@
       "date": "Q3 2017",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 780681,
+      "shares": 1171022,
       "portfolio_percentage": 9.58,
       "company_name": "Brookfield Corp."
     },
@@ -3913,7 +3913,7 @@
       "date": "Q1 2017",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 6558,
+      "shares": 9837,
       "portfolio_percentage": 0.09,
       "company_name": "Brookfield Corp."
     },
@@ -3929,6 +3929,6 @@
       "company_name": "Roper Technologies Inc."
     }
   ],
-  "timestamp": "2025-10-04T00:30:01.531299",
-  "scraped_date": "2025-10-04"
+  "timestamp": "2025-11-01T06:13:02.840059",
+  "scraped_date": "2025-11-01"
 }

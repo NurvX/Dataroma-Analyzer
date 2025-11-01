@@ -140,7 +140,7 @@
       "date": "Q2 2025",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 435000,
+      "shares": 652500,
       "portfolio_percentage": 0.36,
       "company_name": "Brookfield Corp."
     },
@@ -789,7 +789,7 @@
       "date": "Q1 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 750000,
+      "shares": 1125000,
       "portfolio_percentage": 0.63,
       "company_name": "Brookfield Corp."
     },
@@ -1053,7 +1053,7 @@
       "date": "Q4 2024",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 265000,
+      "shares": 397500,
       "portfolio_percentage": 0.21,
       "company_name": "Brookfield Corp."
     },
@@ -1394,7 +1394,7 @@
       "date": "Q3 2024",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 4725000,
+      "shares": 7087500,
       "portfolio_percentage": 3.41,
       "company_name": "Brookfield Corp."
     },
@@ -11002,6 +11002,6 @@
       "company_name": "Alibaba Group Holdings"
     }
   ],
-  "timestamp": "2025-10-04T00:30:01.420123",
-  "scraped_date": "2025-10-04"
+  "timestamp": "2025-11-01T06:13:02.721221",
+  "scraped_date": "2025-11-01"
 }

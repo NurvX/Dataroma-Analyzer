@@ -1,218 +1,221 @@
 ticker,company_name,current_price,managers,total_value,avg_portfolio_pct,index,manager_count,total_shares,max_portfolio_pct,buy_count,last_buy_period,price_opportunity_score,price_category
-CMCSA,Comcast Corp.,30.9,"Glenn Greenberg
-Kahn Brothers Group
-Thomas Russo
-First Eagle Investment Management
-Yacktman Asset Management
-Thomas Gayner
-David Katz
+CMCSA,Comcast Corp.,27.84,"Thomas Gayner
 Robert Olstein
 Dodge & Cox
-Steven Romick",4406261000,1.62,146,11,123459254,3.98,11.0,Q4 2024,34.61818181818182,Mid-Price
-KMX,CarMax Inc.,46.42,"John Rogers
+David Katz
+Steven Romick
+Hillman Value Fund
+Glenn Greenberg
+Kahn Brothers Group
+Thomas Russo
+First Eagle Investment Management",4075500000,1.47,154,11,124309118,3.55,10.0,Q3 2025,33.46818181818182,Mid-Price
+KMX,CarMax Inc.,41.91,"Thomas Gayner
+Wallace Weitz
+Steven Romick
+Hillman Value Fund
+John Rogers
 Tom Bancroft
 Chuck Akre
-Francois Rochon
-Wallace Weitz
-Thomas Gayner
-Steven Romick
-Hillman Value Fund",293236000,2.3,365,8,4362972,5.57,3.0,Q4 2024,21.3025,Mid-Price
-OXY,Occidental Petroleum,44.85,"Bruce Berkowitz
+Francois Rochon",249091000,2.07,376,8,4362972,5.57,2.0,Q2 2025,20.0675,Mid-Price
+OXY,Occidental Petroleum,41.2,"Dodge & Cox
+Bruce Berkowitz
 Li Lu
 Warren Buffett
 Duan Yongping
 Prem Watsa
-Francis Chou
-Dodge & Cox",14329278000,4.95,485,7,341093489,13.58,11.0,Q4 2024,29.95142857142857,Mid-Price
-KHC,Kraft Heinz Co.,26.06,"Mason Hawkins
+Francis Chou",14615890000,4.98,497,7,341093489,13.58,8.0,Q2 2025,26.97714285714286,Mid-Price
+KHC,Kraft Heinz Co.,24.73,"Mairs & Power Growth Fund
+Hillman Value Fund
+Mason Hawkins
 Bill & Melinda Gates Foundation Trust
 Warren Buffett
 Prem Watsa
-First Eagle Investment Management
-Mairs & Power Growth Fund
-Hillman Value Fund",8824666000,2.98,361,7,341778286,6.74,7.0,Q4 2024,23.984285714285715,Mid-Price
-USB,U.S. Bancorp,48.07,"Viking Global Investors
+First Eagle Investment Management",8811634000,2.94,371,7,341259686,6.74,4.0,Q2 2025,20.935714285714287,Mid-Price
+USB,U.S. Bancorp,46.68,"Robert Olstein
+David Katz
+Hillman Value Fund
+Viking Global Investors
 Glenn Greenberg
 Christopher Davis
-First Eagle Investment Management
-David Katz
-Robert Olstein
-Hillman Value Fund",2405074000,2.29,651,7,53150770,4.68,9.0,Q2 2025,25.285714285714285,Mid-Price
-BMY,Bristol-Myers Squibb,45.45,"Kahn Brothers Group
-Bill Miller
-Jensen Investment Management
-David Katz
-Richard Pzena
-Dodge & Cox
-Hillman Value Fund",330575000,1.81,99,7,7141392,5.12,4.0,Q4 2024,19.81142857142857,Mid-Price
-PFE,Pfizer Inc.,27.37,"Kahn Brothers Group
-Prem Watsa
-Sarah Ketterer
+First Eagle Investment Management",2406903000,2.27,662,7,53128048,4.68,10.0,Q3 2025,26.27142857142857,Mid-Price
+BN,Brookfield Corp.,46.05,"Thomas Gayner
+Chuck Akre
+Daniel Loeb
+Bill Ackman
+Stephen Mandel
+Third Avenue Management",4992436000,7.7,104,6,119655091,18.54,6.0,Q2 2025,25.701666666666664,Mid-Price
+PFE,Pfizer Inc.,24.65,"Richard Pzena
 Torray Funds
-Richard Pzena
-Hillman Value Fund",114985000,2.11,502,6,4743878,3.56,5.0,Q4 2024,19.111666666666665,Mid-Price
-CPRT,Copart Inc.,45.11,"Chuck Akre
+Hillman Value Fund
+Kahn Brothers Group
+Prem Watsa
+Sarah Ketterer",118870000,2.23,515,6,4828285,3.56,5.0,Q3 2025,19.226666666666667,Mid-Price
+BMY,Bristol-Myers Squibb,46.07,"Richard Pzena
+Dodge & Cox
+Hillman Value Fund
+Kahn Brothers Group
+Bill Miller
+Jensen Investment Management",288777000,2.12,103,6,6384963,5.12,2.0,Q2 2025,16.125,Mid-Price
+CPRT,Copart Inc.,43.01,"Torray Funds
+Chuck Akre
 David Rolfe
 AKO Capital
 Francois Rochon
-Jensen Investment Management
-Torray Funds",612138000,2.05,164,6,12507367,4.26,8.0,Q4 2024,22.046666666666667,Mid-Price
-ET,Energy Transfer LP,16.8,"David Tepper
+Jensen Investment Management",611534000,2.03,172,6,12506940,4.26,6.0,Q2 2025,20.026666666666667,Mid-Price
+ET,Energy Transfer LP,16.83,"Samantha McLemore
+David Tepper
 Bruce Berkowitz
 Leon Cooperman
-Samantha McLemore
-David Abrams",516722000,3.03,228,5,28500968,8.34,4.0,Q4 2024,17.032,Mid-Price
-B,Barrick Mining Corp.,33.95,"Charles Bobrinskoy
+David Abrams",526698000,3.04,238,5,29312750,8.34,4.0,Q3 2025,17.036,Mid-Price
+B,Barrick Mining Corp.,32.8,"Charles Bobrinskoy
 Howard Marks
 Sarah Ketterer
 First Eagle Investment Management
-Harry Burn",1320952000,2.99,72,5,63488044,5.81,8.0,Q4 2024,20.994,Mid-Price
-BAX,Baxter International Inc.,23.86,"Harry Burn
+Harry Burn",1320952000,2.99,76,5,63488044,5.81,6.0,Q2 2025,18.994,Mid-Price
+BAX,Baxter International Inc.,18.47,"Richard Pzena
 Robert Olstein
-Richard Pzena
 Dodge & Cox
-Hillman Value Fund",1194448000,2.58,78,5,39446785,4.91,6.0,Q4 2024,18.584,Mid-Price
-WBD,Warner Bros. Discovery Inc.,18.99,"Bill Nygren
+Hillman Value Fund
+Harry Burn",1003812000,2.55,82,5,43154242,4.69,6.0,Q3 2025,18.552,Mid-Price
+WBD,Warner Bros. Discovery Inc.,22.45,"Hillman Value Fund
+Bill Nygren
 Lee Ainslie
 Yacktman Asset Management
-Harry Burn
-Hillman Value Fund",536542000,2.46,678,5,46818665,3.89,5.0,Q4 2024,17.464,Mid-Price
-CPNG,Coupang Inc.,32.36,"Lee Ainslie
+Harry Burn",536035000,2.44,688,5,46680152,3.89,4.0,Q2 2025,16.438,Mid-Price
+CPNG,Coupang Inc.,31.97,"Lee Ainslie
 Bill & Melinda Gates Foundation Trust
 Chase Coleman
 David Abrams
-Christopher Davis",1309532000,2.01,162,5,43709363,6.38,4.0,Q4 2024,16.008,Mid-Price
-ALLY,Ally Financial Inc.,39.63,"Bill Nygren
+Christopher Davis",1309532000,2.01,170,5,43709363,6.38,2.0,Q2 2025,14.008,Mid-Price
+ALLY,Ally Financial Inc.,38.97,"Bill Nygren
 Lee Ainslie
 Warren Buffett
 Sarah Ketterer
-Francis Chou",1398389000,1.8,27,5,35902187,4.8,5.0,Q4 2024,16.804000000000002,Mid-Price
-VZ,Verizon Communications,43.67,"Kahn Brothers Group
+Francis Chou",1398389000,1.8,30,5,35902187,4.8,3.0,Q1 2025,14.804,Mid-Price
+VZ,Verizon Communications,39.74,"Mairs & Power Growth Fund
+Hillman Value Fund
+Kahn Brothers Group
 Bill Miller
-Yacktman Asset Management
-Mairs & Power Growth Fund
-Hillman Value Fund",118954000,1.68,676,5,2749115,3.64,2.0,Q4 2024,13.676,Mid-Price
-CCCS,CCC Intelligent Solutions Hldgs Inc.,9.38,"ValueAct Capital
+Yacktman Asset Management",120350000,1.69,686,5,2742315,3.64,1.0,Q1 2025,12.686,Mid-Price
+CCC,CCC Intelligent Solutions Hldgs Inc.,8.82,"Torray Funds
+ValueAct Capital
 Chuck Akre
 Triple Frond Partners
-Polen Capital Management
-Torray Funds",197762000,1.45,125,5,20991262,5.24,8.0,Q4 2024,19.454,Mid-Price
-JD,JD.com Inc.,35.4,"David Tepper
+Polen Capital Management",197956000,1.46,131,5,21017276,5.24,8.0,Q3 2025,19.458,Mid-Price
+JD,JD.com Inc.,33.04,"Samantha McLemore
+David Tepper
 Chase Coleman
 Sarah Ketterer
-Samantha McLemore
-Christopher Davis",337213000,1.15,349,5,10331304,3.54,7.0,Q4 2024,18.15,Mid-Price
-DB,Deutsche Bank AG,35.64,"David Tepper
+Christopher Davis",340942000,1.15,359,5,10385114,3.54,5.0,Q3 2025,16.154,Mid-Price
+NVO,Novo Nordisk A S,49.46,"Thomas Gayner
+Chase Coleman
+Sarah Ketterer
+Polen Capital Management
+Francois Rochon",256635000,0.36,468,5,4182602,1.07,3.0,Q3 2025,13.358,Mid-Price
+DB,Deutsche Bank AG,35.77,"David Tepper
 Kahn Brothers Group
 Sarah Ketterer
-Third Avenue Management",718013000,4.28,189,4,24346701,9.04,5.0,Q2 2025,17.285,Mid-Price
-EPD,Enterprise Products Partners LP,31.66,"Bruce Berkowitz
+Third Avenue Management",718013000,4.28,198,4,24346701,9.04,5.0,Q2 2025,17.285,Mid-Price
+EPD,Enterprise Products Partners LP,30.79,"Tweedy Browne Co.
+Bruce Berkowitz
 Leon Cooperman
-First Eagle Investment Management
-Tweedy Browne Co.",269094000,4.02,224,4,8677650,13.77,4.0,Q4 2024,16.0225,Mid-Price
-IAC,IAC Inc.,34.59,"Mason Hawkins
-Samantha McLemore
-Christopher Davis
-FPA Queens Road Small Cap Value Fund",238213000,3.17,322,4,6379583,7.54,9.0,Q4 2024,20.1675,Mid-Price
-MIR,Mirion Technologies Inc,22.79,"Meridian Contrarian Fund
+First Eagle Investment Management",269122000,4.01,233,4,8677650,13.77,3.0,Q2 2025,15.015,Mid-Price
+IAC,IAC Inc.,32.22,"Samantha McLemore
+FPA Queens Road Small Cap Value Fund
+Mason Hawkins
+Christopher Davis",243779000,3.08,334,4,6748822,7.54,7.0,Q3 2025,18.08,Mid-Price
+GSK,GSK plc,46.86,"Dodge & Cox
+Hillman Value Fund
+Kahn Brothers Group
+Sarah Ketterer",2591937000,2.74,301,4,60249025,5.09,2.0,Q1 2025,12.735,Mid-Price
+UHAL.B,U Haul Holding Co Non Voting,48.49,"Nelson Peltz
+Third Avenue Management
+David Abrams
+Yacktman Asset Management",534755000,2.66,655,4,9835475,4.37,1.0,Q2 2025,11.6625,Mid-Price
+MIR,Mirion Technologies Inc,29.37,"Meridian Contrarian Fund
 Lee Ainslie
 Leon Cooperman
-Polen Capital Management",286849000,2.64,415,4,13323268,5.39,5.0,Q4 2024,15.635,Mid-Price
-GSK,GSK plc,43.35,"Kahn Brothers Group
-Sarah Ketterer
-Dodge & Cox
-Hillman Value Fund",2313951000,2.62,291,4,60259125,5.09,4.0,Q4 2024,14.6175,Mid-Price
-SLB,Schlumberger Ltd.,34.26,"John Rogers
+Polen Capital Management",286849000,2.64,427,4,13323268,5.39,4.0,Q2 2025,14.635,Mid-Price
+SLB,Schlumberger Ltd.,36.06,"Robert Olstein
+John Rogers
 Charles Bobrinskoy
-First Eagle Investment Management
-Robert Olstein",958555000,2.0,584,4,28359657,2.43,7.0,Q4 2024,17.005,Mid-Price
-TEVA,Teva Pharmaceutical Industries Ltd.,20.01,"Lee Ainslie
+First Eagle Investment Management",958700000,2.02,597,4,28359657,2.43,5.0,Q2 2025,15.015,Mid-Price
+TEVA,Teva Pharmaceutical Industries Ltd.,20.48,"Lee Ainslie
 Viking Global Investors
 David Einhorn
-Harry Burn",430470000,1.94,619,4,25684312,3.34,9.0,Q4 2024,18.94,Mid-Price
-CSX,CSX Corp.,36.01,"Viking Global Investors
+Harry Burn",430470000,1.94,630,4,25684312,3.34,8.0,Q2 2025,17.939999999999998,Mid-Price
+CSX,CSX Corp.,36.02,"Thomas Gayner
+Viking Global Investors
 Kahn Brothers Group
-Harry Burn
-Thomas Gayner",720621000,1.38,172,4,22084606,3.46,6.0,Q4 2024,15.3825,Mid-Price
-GPK,Graphic Packaging Hldg Co.,19.37,"David Einhorn
-Sarah Ketterer
-Thomas Gayner
-FPA Queens Road Small Cap Value Fund",124174000,1.3,285,4,5893428,4.26,4.0,Q4 2024,13.3,Mid-Price
-ANGI,Angi Inc.,16.32,"Mason Hawkins
-Samantha McLemore
-Christopher Davis
-FPA Queens Road Small Cap Value Fund",60790000,0.96,38,4,3983647,2.85,4.0,Q2 2025,12.96,Mid-Price
-NOV,Nov Inc.,13.7,"First Eagle Investment Management
+Harry Burn",728620000,1.4,181,4,22304606,3.46,5.0,Q3 2025,14.3975,Mid-Price
+NOV,Nov Inc.,14.6,"Richard Pzena
 Robert Olstein
-Richard Pzena
-Greenhaven Associates",540668000,0.95,449,4,43496979,1.84,5.0,Q4 2024,13.95,Mid-Price
-BF.B,Brown-Forman Corp.,27.97,"Thomas Russo
-Lindsell Train
-Thomas Gayner
-Hillman Value Fund",80514000,0.87,87,4,2991972,2.1,2.0,Q4 2024,10.87,Mid-Price
-LEVI,Levi Strauss & Co.,24.45,"Lee Ainslie
+First Eagle Investment Management
+Greenhaven Associates",541560000,1.0,460,4,43505979,2.02,5.0,Q3 2025,14.0025,Mid-Price
+BF.B,Brown-Forman Corp.,27.23,"Thomas Gayner
+Hillman Value Fund
 Thomas Russo
-Jensen Investment Management
-FPA Queens Road Small Cap Value Fund",21532000,0.48,383,4,1164533,1.87,6.0,Q4 2024,14.4825,Mid-Price
-RAL,Ralliant Corp.,44.3,"Viking Global Investors
-Daniel Loeb
-Robert Olstein
-Dodge & Cox",596941000,0.34,534,4,12310631,0.74,4.0,Q2 2025,12.3425,Mid-Price
-WRBY,Warby Parker Inc.,26.22,"Lee Ainslie
+Lindsell Train",80610000,0.94,91,4,2991972,2.4,1.0,Q2 2025,9.9425,Mid-Price
+RAL,Ralliant Corp.,43.92,"Robert Olstein
+Dodge & Cox
+Viking Global Investors
+Daniel Loeb",569339000,0.57,548,4,12428464,1.2,5.0,Q3 2025,13.57,Mid-Price
+LEVI,Levi Strauss & Co.,20.28,"FPA Queens Road Small Cap Value Fund
+Lee Ainslie
+Thomas Russo
+Jensen Investment Management",25759000,0.55,395,4,1164533,2.13,3.0,Q2 2025,11.5475,Mid-Price
+WRBY,Warby Parker Inc.,19.59,"Lee Ainslie
 Polen Capital Management
 Thomas Russo
-First Eagle Investment Management",19824000,0.02,684,4,903976,0.06,6.0,Q4 2024,14.025,Mid-Price
-YETI,YETI Holdings Inc.,35.06,"Lee Ainslie
-Glenn Welling
-Thomas Russo",72736000,6.38,691,3,2307615,19.06,6.0,Q4 2024,18.376666666666665,Mid-Price
-VFC,V.F. Corp.,15.19,"Meridian Contrarian Fund
-Glenn Welling
-Dodge & Cox",390284000,6.34,658,3,33215643,17.8,3.0,Q4 2024,15.343333333333334,Mid-Price
-NE,Noble Corp.,29.9,"Samantha McLemore
-Mohnish Pabrai
-First Eagle Investment Management",387979000,6.14,438,3,14613130,16.9,5.0,Q4 2024,17.136666666666667,Mid-Price
-CCL,Carnival Corp.,28.57,"Lee Ainslie
-Viking Global Investors
-Sarah Ketterer",1341667000,5.46,126,3,47712211,12.98,6.0,Q4 2024,17.456666666666667,Mid-Price
-MAT,Mattel Inc.,18.06,"Mason Hawkins
-John Rogers
-Samantha McLemore",129158000,4.06,405,3,6549604,7.06,1.0,Q4 2024,11.056666666666668,Mid-Price
-CNH,CNH Industrial NV,10.91,"Mason Hawkins
-David Einhorn
-Tweedy Browne Co.",153339000,3.63,152,3,11831704,4.43,2.0,Q4 2024,11.626666666666669,Mid-Price
-PCG,PG&E Corp.,15.9,"Daniel Loeb
-Sarah Ketterer
-Steven Romick",760542000,3.4,494,3,54558225,9.45,3.0,Q2 2025,12.403333333333332,Mid-Price
-GTX,Garrett Motion Inc.,13.47,"Lee Ainslie
-Prem Watsa
-Howard Marks",391649000,3.33,296,3,37264892,9.82,2.0,Q4 2024,11.333333333333334,Mid-Price
-CMG,Chipotle Mexican Grill Inc.,41.76,"Lee Ainslie
-Viking Global Investors
-Bill Ackman",1533376000,3.27,147,3,27308570,8.81,3.0,Q4 2024,12.266666666666667,Mid-Price
-MRP,Millrose Properties,32.18,"Glenn Greenberg
-Third Avenue Management
-Greenhaven Associates",450455000,2.93,422,3,15799903,5.14,3.0,Q1 2025,11.93,Mid-Price
-RPRX,Royalty Pharma plc,36.07,"Viking Global Investors
-Samantha McLemore
-Torray Funds",226060000,2.91,555,3,6274224,4.86,5.0,Q4 2024,13.91,Mid-Price
-MGM,MGM Resorts International,33.93,"Mason Hawkins
-Christopher Davis
-Thomas Gayner",862501000,2.86,413,3,25080000,4.38,6.0,Q4 2024,14.856666666666667,Mid-Price
-KVUE,Kenvue Inc,15.81,"Lee Ainslie
-Daniel Loeb
-Yacktman Asset Management",567627000,2.67,374,3,27120227,3.34,3.0,Q2 2025,11.67,Mid-Price
-ACI,Albertsons Co Inc.,17.38,"Mason Hawkins
+First Eagle Investment Management",19824000,0.02,694,4,903976,0.06,5.0,Q2 2025,13.025,Mid-Price
+EQH,Equitable Holdings Inc.,49.4,"Richard Pzena
 Lee Ainslie
-Harry Burn",119679000,2.57,9,3,5563862,5.45,3.0,Q4 2024,11.566666666666666,Mid-Price
-NVST,Envista Holdings Corp.,20.85,"Meridian Contrarian Fund
-John Rogers
-Tweedy Browne Co.",43560000,2.34,457,3,2229237,2.78,4.0,Q4 2024,12.34,Mid-Price
-APA,APA Corp.,24.54,"Bill Nygren
-Charles Bobrinskoy
-Samantha McLemore",153287000,2.07,42,3,8380870,4.01,3.0,Q4 2024,11.07,Mid-Price
-MANU,Manchester United plc,15.33,"John Rogers
-Leon Cooperman
-Lindsell Train",152858000,1.93,404,3,8582715,2.02,2.0,Q4 2024,9.926666666666666,Mid-Price
-LBTYA,Liberty Global Ltd CL A,11.76,"David Einhorn
-Howard Marks
-Seth Klarman",185279000,1.86,379,3,18509455,2.25,3.0,Q4 2024,10.856666666666666,Mid-Price
+Greg Alexander",289805000,12.65,234,3,5181752,36.51,2.0,Q1 2025,20.653333333333336,Mid-Price
+YETI,YETI Holdings Inc.,33.99,"Lee Ainslie
+Glenn Welling
+Thomas Russo",72736000,6.38,701,3,2307615,19.06,5.0,Q2 2025,17.376666666666665,Mid-Price
+VFC,V.F. Corp.,14.04,"Dodge & Cox
+Meridian Contrarian Fund
+Glenn Welling",463647000,6.36,669,3,33215643,17.8,2.0,Q2 2025,14.363333333333332,Mid-Price
+NE,Noble Corp.,29.35,"Samantha McLemore
+Mohnish Pabrai
+First Eagle Investment Management",399481000,6.26,449,3,14975914,16.9,4.0,Q3 2025,16.256666666666664,Mid-Price
+CCL,Carnival Corp.,28.83,"Lee Ainslie
+Viking Global Investors
+Sarah Ketterer",1341667000,5.46,132,3,47712211,12.98,5.0,Q2 2025,16.456666666666667,Mid-Price
+MAT,Mattel Inc.,18.38,"Samantha McLemore
+Mason Hawkins
+John Rogers",135611000,4.09,417,3,7184468,7.06,1.0,Q3 2025,11.093333333333334,Mid-Price
+CNH,CNH Industrial NV,10.49,"Tweedy Browne Co.
+Mason Hawkins
+David Einhorn",151966000,3.5,160,3,11831704,4.43,0.0,,9.496666666666666,Mid-Price
+PCG,PG&E Corp.,15.96,"Steven Romick
+Daniel Loeb
+Sarah Ketterer",761363000,3.41,507,3,54558225,9.45,3.0,Q2 2025,12.406666666666666,Mid-Price
+GTX,Garrett Motion Inc.,16.94,"Lee Ainslie
+Prem Watsa
+Howard Marks",391649000,3.33,306,3,37264892,9.82,1.0,Q1 2025,10.333333333333334,Mid-Price
+CMG,Chipotle Mexican Grill Inc.,31.69,"Lee Ainslie
+Viking Global Investors
+Bill Ackman",1533376000,3.27,155,3,27308570,8.81,2.0,Q2 2025,11.266666666666667,Mid-Price
+MRP,Millrose Properties,32.21,"Glenn Greenberg
+Third Avenue Management
+Greenhaven Associates",450455000,2.93,433,3,15799903,5.14,3.0,Q1 2025,11.93,Mid-Price
+MGM,MGM Resorts International,32.03,"Thomas Gayner
+Mason Hawkins
+Christopher Davis",862525000,2.85,425,3,25080000,4.38,4.0,Q2 2025,12.853333333333332,Mid-Price
+RPRX,Royalty Pharma plc,37.54,"Samantha McLemore
+Torray Funds
+Viking Global Investors",228382000,2.72,569,3,6418193,4.4,5.0,Q3 2025,13.716666666666669,Mid-Price
+KVUE,Kenvue Inc,14.37,"Lee Ainslie
+Daniel Loeb
+Yacktman Asset Management",567627000,2.67,385,3,27120227,3.34,3.0,Q2 2025,11.67,Mid-Price
+ACI,Albertsons Co Inc.,17.69,"Mason Hawkins
+Lee Ainslie
+Harry Burn",119679000,2.57,10,3,5563862,5.45,2.0,Q2 2025,10.566666666666666,Mid-Price
+NVST,Envista Holdings Corp.,20.35,"Tweedy Browne Co.
+Meridian Contrarian Fund
+John Rogers",43869000,2.34,469,3,2229237,2.78,2.0,Q2 2025,10.343333333333334,Mid-Price
+APA,APA Corp.,22.65,"Samantha McLemore
+Bill Nygren
+Charles Bobrinskoy",153586000,2.07,45,3,8380870,4.01,1.0,Q2 2025,9.073333333333334,Mid-Price

@@ -85,7 +85,7 @@
       "date": "Q2 2025",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 5621385,
+      "shares": 8432077,
       "portfolio_percentage": 2.52,
       "company_name": "Brookfield Corp."
     },
@@ -1322,7 +1322,7 @@
       "company_name": "McKesson Corp."
     },
     {
-      "symbol": "AVDX",
+      "symbol": "AVDX-OLD",
       "manager_id": "LPC",
       "action": "Sell 100.00%",
       "date": "Q3 2024",
@@ -1476,7 +1476,7 @@
       "company_name": "Ares Management LP"
     },
     {
-      "symbol": "AVDX",
+      "symbol": "AVDX-OLD",
       "manager_id": "LPC",
       "action": "Reduce 0.05%",
       "date": "Q2 2024",
@@ -4490,7 +4490,7 @@
       "company_name": "Sweetgreen Inc   Class A"
     },
     {
-      "symbol": "AVDX",
+      "symbol": "AVDX-OLD",
       "manager_id": "LPC",
       "action": "Buy",
       "date": "Q4 2021",
@@ -11002,6 +11002,6 @@
       "company_name": "Booking Holdings Inc."
     }
   ],
-  "timestamp": "2025-10-04T00:30:01.453824",
-  "scraped_date": "2025-10-04"
+  "timestamp": "2025-11-01T06:13:02.757209",
+  "scraped_date": "2025-11-01"
 }

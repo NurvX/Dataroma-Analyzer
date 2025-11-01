@@ -5359,7 +5359,7 @@
       "company_name": "Nextdoor Holdings Inc."
     },
     {
-      "symbol": "AVDX",
+      "symbol": "AVDX-OLD",
       "manager_id": "TGM",
       "action": "Sell 100.00%",
       "date": "Q2 2022",
@@ -6008,7 +6008,7 @@
       "company_name": "Coinbase Global Inc."
     },
     {
-      "symbol": "AVDX",
+      "symbol": "AVDX-OLD",
       "manager_id": "TGM",
       "action": "Reduce 72.09%",
       "date": "Q1 2022",
@@ -7515,7 +7515,7 @@
       "company_name": "Nextdoor Holdings Inc."
     },
     {
-      "symbol": "AVDX",
+      "symbol": "AVDX-OLD",
       "manager_id": "TGM",
       "action": "Buy",
       "date": "Q4 2021",
@@ -11002,6 +11002,6 @@
       "company_name": "DATADOG Inc."
     }
   ],
-  "timestamp": "2025-10-04T00:30:01.490316",
-  "scraped_date": "2025-10-04"
+  "timestamp": "2025-11-01T06:13:02.795999",
+  "scraped_date": "2025-11-01"
 }

@@ -1,101 +1,101 @@
 ticker,company_name,action_breakdown,unique_managers,quarters_active,buy_add_actions,sell_reduce_actions,net_activity,phase,current_value,current_shares,current_holders
-WFC,Wells Fargo,"{'Reduce': 36, 'Add': 4, 'Sell': 3, 'Buy': 2}",15,4,6,39,-33,Distributing,3986500000.0,49756610.0,14.0
-META,Meta Platforms Inc.,"{'Reduce': 55, 'Add': 20, 'Buy': 8, 'Sell': 5}",31,4,28,60,-32,Distributing,19204042000.0,26032223.0,28.0
-GOOG,Alphabet Inc. CL C,"{'Reduce': 55, 'Add': 25, 'Buy': 1, 'Sell': 1}",26,4,26,56,-30,Distributing,11405374000.0,64650497.0,28.0
-V,Visa Inc.,"{'Reduce': 46, 'Add': 17, 'Buy': 4, 'Sell': 2}",23,4,21,48,-27,Distributing,18479164000.0,52049770.0,24.0
-GOOGL,Alphabet Inc.,"{'Reduce': 55, 'Add': 28, 'Buy': 5, 'Sell': 4}",34,4,33,59,-26,Distributing,11192165000.0,63487347.0,33.0
-ORCL,Oracle Corp.,"{'Reduce': 29, 'Add': 6, 'Sell': 2, 'Buy': 2}",13,4,8,31,-23,Distributing,5463780000.0,24990982.0,12.0
-GS,Goldman Sachs Group,"{'Reduce': 22, 'Sell': 2, 'Buy': 1, 'Add': 1}",8,4,2,24,-22,Distributing,2018758000.0,2852361.0,8.0
-BRK.B,Berkshire Hathaway CL B,"{'Reduce': 37, 'Add': 15, 'Buy': 1, 'Sell': 1}",18,4,16,38,-22,Distributing,16171379000.0,33290195.0,20.0
-CHTR,Charter Communications,"{'Reduce': 21, 'Sell': 4, 'Add': 2, 'Buy': 2}",13,4,4,25,-21,Distributing,4256410000.0,10464576.0,11.0
-MSFT,Microsoft Corp.,"{'Reduce': 62, 'Add': 40, 'Buy': 4, 'Sell': 3}",35,4,44,65,-21,Distributing,41002078000.0,82584978.0,34.0
-BRK.A,Berkshire Hathaway CL A,"{'Reduce': 23, 'Add': 3}",10,4,3,23,-20,Distributing,3597356000.0,4936.0,14.0
-MA,Mastercard Inc.,"{'Reduce': 27, 'Add': 9, 'Sell': 3, 'Buy': 2}",14,4,11,30,-19,Distributing,8697123000.0,15476958.0,15.0
-JPM,JPMorgan Chase & Co.,"{'Reduce': 26, 'Add': 8, 'Sell': 1}",11,4,8,27,-19,Distributing,1992744000.0,6873664.0,12.0
-BK,Bank of New York Mellon Corp.,"{'Reduce': 18, 'Sell': 1}",6,4,0,19,-19,Distributing,3970329000.0,43577315.0,6.0
-AMZN,Amazon.com Inc.,"{'Reduce': 46, 'Add': 26, 'Buy': 4, 'Sell': 2}",25,4,30,48,-18,Distributing,20226817000.0,92401559.0,26.0
-WCC,WESCO International Inc.,"{'Add': 19, 'Reduce': 2, 'Sell': 1, 'Buy': 1}",7,4,20,3,17,Accumulating,494271000.0,2668848.0,6.0
-BAC,Bank of America Corp.,"{'Reduce': 28, 'Add': 10, 'Buy': 3, 'Sell': 1}",14,4,13,29,-16,Distributing,31624157000.0,668304302.0,16.0
-AXP,American Express,"{'Reduce': 17, 'Add': 2, 'Sell': 1}",8,4,2,18,-16,Distributing,49313198000.0,154596522.0,10.0
-PM,Philip Morris Intl.,"{'Reduce': 20, 'Add': 3, 'Buy': 1}",8,4,4,20,-16,Distributing,5262725000.0,28895427.0,9.0
-CBRE,CBRE Group,"{'Reduce': 18, 'Add': 3, 'Sell': 1, 'Buy': 1}",7,4,4,19,-15,Distributing,1087786000.0,7763251.0,6.0
-PEP,PepsiCo Inc.,"{'Reduce': 20, 'Add': 6, 'Sell': 1, 'Buy': 1}",9,4,7,21,-14,Distributing,659699000.0,4996199.0,8.0
-AAPL,Apple Inc.,"{'Reduce': 32, 'Add': 17, 'Buy': 5, 'Sell': 4}",21,4,22,36,-14,Distributing,65659701000.0,320027261.0,20.0
-PG,Procter & Gamble,"{'Reduce': 18, 'Add': 5, 'Sell': 1}",7,4,5,19,-14,Distributing,1280466000.0,8037063.0,6.0
-BKNG,Booking Holdings Inc.,"{'Reduce': 19, 'Add': 4, 'Buy': 3, 'Sell': 2}",9,4,7,21,-14,Distributing,3116292000.0,538596.0,8.0
-CSCO,Cisco Systems,"{'Reduce': 13, 'Sell': 3, 'Add': 2, 'Buy': 1}",7,4,3,16,-13,Distributing,69023000.0,994864.0,4.0
-COF,Capital One Financial,"{'Reduce': 30, 'Add': 10, 'Buy': 8, 'Sell': 1}",17,4,18,31,-13,Distributing,9651523000.0,45363430.0,17.0
-ACN,Accenture,"{'Reduce': 14, 'Sell': 2, 'Add': 2, 'Buy': 1}",7,4,3,16,-13,Distributing,1350793000.0,4519363.0,5.0
-TEL,TE Connectivity plc,"{'Reduce': 14, 'Add': 1}",5,4,1,14,-13,Distributing,1731603000.0,10266214.0,5.0
-KO,Coca Cola Co.,"{'Reduce': 14, 'Add': 1}",5,4,1,14,-13,Distributing,28469042000.0,402389292.0,6.0
-SCHW,Charles Schwab Corp.,"{'Reduce': 23, 'Add': 12, 'Sell': 3, 'Buy': 2}",12,4,14,26,-12,Distributing,8039752000.0,88116535.0,10.0
-ADP,Automatic Data Processing Inc.,"{'Reduce': 12, 'Sell': 1, 'Buy': 1}",4,4,1,13,-12,Distributing,1664564000.0,5397420.0,3.0
-KMX,CarMax Inc.,"{'Reduce': 14, 'Add': 3, 'Sell': 2, 'Buy': 1}",8,4,4,16,-12,Distributing,293236000.0,4362972.0,8.0
-FI,Fiserv Inc.,"{'Reduce': 18, 'Add': 10, 'Sell': 7, 'Buy': 3}",15,4,13,25,-12,Distributing,4005930000.0,23234907.0,9.0
-VRSK,Verisk Analytics Inc.,"{'Reduce': 15, 'Add': 3}",6,4,3,15,-12,Distributing,201596000.0,647176.0,6.0
-C,Citigroup Inc.,"{'Reduce': 19, 'Add': 7, 'Sell': 1, 'Buy': 1}",8,4,8,20,-12,Distributing,2109670000.0,24784655.0,8.0
-JNJ,Johnson & Johnson,"{'Reduce': 15, 'Add': 5, 'Sell': 1}",9,4,5,16,-11,Distributing,458736000.0,3003239.0,10.0
-UNH,United Health Group Inc.,"{'Reduce': 32, 'Add': 19, 'Buy': 8, 'Sell': 6}",23,4,27,38,-11,Distributing,5758115000.0,18457277.0,19.0
-FLUT,Flutter Entertainment Plc,"{'Add': 15, 'Reduce': 9, 'Buy': 6, 'Sell': 1}",10,4,21,10,11,Accumulating,4503876000.0,15768473.0,9.0
-SAP,SAP SE,"{'Reduce': 12, 'Add': 1}",4,4,1,12,-11,Distributing,372047000.0,1223461.0,4.0
-BIO,Bio-Rad Laboratories Inc.,"{'Add': 11, 'Reduce': 1, 'Buy': 1}",5,4,12,1,11,Accumulating,743514000.0,3081030.0,5.0
-CSGP,CoStar Group Inc.,"{'Add': 9, 'Buy': 6, 'Reduce': 3, 'Sell': 1}",7,4,15,4,11,Accumulating,2220358000.0,27616397.0,8.0
-RTX,RTX Corp.,"{'Reduce': 11, 'Sell': 3, 'Buy': 3}",7,4,3,14,-11,Distributing,4262964000.0,29194375.0,6.0
-SDRL,Seadrill Ltd,"{'Add': 10, 'Buy': 2, 'Sell': 1}",5,4,12,1,11,Accumulating,100232000.0,3818377.0,2.0
-NVDA,NVIDIA Corp.,"{'Add': 18, 'Reduce': 13, 'Buy': 6, 'Sell': 1}",14,4,24,14,10,Accumulating,4701087000.0,29755594.0,14.0
-NFLX,Netflix Inc.,"{'Reduce': 11, 'Add': 4, 'Sell': 3}",5,4,4,14,-10,Distributing,1817961000.0,1357568.0,2.0
-OXY,Occidental Petroleum,"{'Add': 10, 'Buy': 3, 'Reduce': 2, 'Sell': 1}",6,4,13,3,10,Accumulating,14329278000.0,341093489.0,7.0
-JLL,Jones Lang Lasalle Inc.,"{'Reduce': 11, 'Add': 2, 'Sell': 1}",5,4,2,12,-10,Distributing,77167000.0,301694.0,4.0
-LLY,Eli Lilly & Co.,"{'Add': 11, 'Buy': 6, 'Reduce': 4, 'Sell': 3}",10,4,17,7,10,Accumulating,3184196000.0,4084763.0,8.0
-CTSH,Cognizant Technology Solutions,"{'Reduce': 13, 'Add': 3}",5,4,3,13,-10,Distributing,1377393000.0,17652108.0,5.0
-INTU,Intuit Inc.,"{'Reduce': 20, 'Add': 9, 'Buy': 2, 'Sell': 1}",10,4,11,21,-10,Distributing,2770788000.0,3517883.0,10.0
-GE,GE Aerospace,"{'Reduce': 13, 'Add': 3}",5,4,3,13,-10,Distributing,15829985000.0,61501941.0,6.0
-UL,Unilever PLC,"{'Reduce': 9, 'Sell': 2, 'Add': 2}",4,4,2,11,-9,Distributing,53499000.0,874595.0,2.0
-DG,Dollar General,"{'Add': 12, 'Reduce': 5, 'Buy': 3, 'Sell': 1}",7,4,15,6,9,Accumulating,1224023000.0,10701397.0,6.0
-APO,Apollo Global Management,"{'Reduce': 8, 'Sell': 4, 'Buy': 2, 'Add': 1}",6,4,3,12,-9,Distributing,1395148000.0,9833996.0,4.0
-BMY,Bristol-Myers Squibb,"{'Reduce': 14, 'Add': 6, 'Sell': 2, 'Buy': 1}",8,4,7,16,-9,Distributing,330575000.0,7141392.0,7.0
-ICLR,ICON plc,"{'Buy': 8, 'Add': 6, 'Reduce': 4, 'Sell': 1}",10,4,14,5,9,Accumulating,485362000.0,3336971.0,8.0
-CL,Colgate-Palmolive,{'Reduce': 9},5,4,0,9,-9,Distributing,798894000.0,8788704.0,5.0
-PFE,Pfizer Inc.,"{'Reduce': 14, 'Add': 6, 'Sell': 2, 'Buy': 1}",8,4,7,16,-9,Distributing,114985000.0,4743878.0,6.0
-DIS,Walt Disney Co.,"{'Reduce': 28, 'Add': 18, 'Buy': 3, 'Sell': 2}",18,4,21,30,-9,Distributing,3292326000.0,26548874.0,17.0
-LEN,Lennar Corp.,"{'Add': 11, 'Buy': 4, 'Reduce': 4, 'Sell': 2}",7,4,15,6,9,Accumulating,2360561000.0,21341299.0,5.0
-EXPE,Expedia Group Inc.,"{'Reduce': 9, 'Buy': 1}",3,4,1,9,-8,Distributing,91636000.0,543252.0,3.0
-UNP,Union Pacific,"{'Add': 11, 'Reduce': 2, 'Sell': 1}",5,4,11,3,8,Accumulating,44885000.0,195081.0,5.0
-SYK,Stryker Corp.,{'Reduce': 8},2,4,0,8,-8,Distributing,2411217000.0,6094628.0,2.0
-MCO,Moody's Corp.,"{'Reduce': 18, 'Add': 9, 'Buy': 2, 'Sell': 1}",11,4,11,19,-8,Distributing,22108649000.0,44104334.0,13.0
-DGX,Quest Diagnostics,"{'Reduce': 10, 'Add': 3, 'Sell': 1}",4,4,3,11,-8,Distributing,250479000.0,1394420.0,2.0
-EBAY,eBay Inc.,"{'Reduce': 11, 'Add': 3, 'Buy': 1, 'Sell': 1}",4,4,4,12,-8,Distributing,403163000.0,5414501.0,4.0
-AMT,American Tower Corp.,"{'Reduce': 13, 'Add': 5, 'Buy': 1, 'Sell': 1}",6,4,6,14,-8,Distributing,1247167000.0,5642780.0,5.0
-BABA,Alibaba Group Holdings,"{'Reduce': 12, 'Add': 9, 'Sell': 5}",10,4,9,17,-8,Distributing,1434010000.0,12644480.0,6.0
-BF.B,Brown-Forman Corp.,"{'Reduce': 10, 'Add': 2, 'Sell': 1, 'Buy': 1}",4,4,3,11,-8,Distributing,80514000.0,2991972.0,4.0
-WAT,Waters Corp.,"{'Reduce': 10, 'Add': 2}",3,4,2,10,-8,Distributing,1549628000.0,4439689.0,3.0
-WFRD,Weatherford International plc,"{'Add': 7, 'Reduce': 1, 'Buy': 1}",3,4,8,1,7,Accumulating,80903000.0,1608084.0,2.0
-VST,Vistra Corp.,"{'Reduce': 11, 'Add': 3, 'Buy': 3, 'Sell': 2}",6,4,6,13,-7,Distributing,1845017000.0,9519719.0,3.0
-FICO,Fair Isaac Corp.,"{'Reduce': 10, 'Add': 2, 'Buy': 1}",5,4,3,10,-7,Distributing,2110612000.0,1154627.0,5.0
-XOM,Exxon Mobil Corp.,"{'Add': 12, 'Reduce': 6, 'Buy': 1}",7,4,13,6,7,Accumulating,871321000.0,8082750.0,7.0
-WTW,Willis Towers Watson plc,"{'Reduce': 12, 'Add': 4, 'Buy': 2, 'Sell': 1}",6,4,6,13,-7,Distributing,2122464000.0,6924842.0,7.0
-AEP,American Electric Power,{'Reduce': 7},2,4,0,7,-7,Distributing,757049000.0,7296157.0,3.0
-ORLY,O'Reilly Automotive,"{'Reduce': 10, 'Add': 2, 'Buy': 1}",4,4,3,10,-7,Distributing,878306000.0,9721769.0,4.0
-OSK,Oshkosh Corp.,"{'Add': 7, 'Reduce': 1, 'Buy': 1}",3,4,8,1,7,Accumulating,340523000.0,2999146.0,3.0
-PYPL,PayPal Holdings Inc.,"{'Reduce': 17, 'Add': 10, 'Sell': 2, 'Buy': 2}",9,4,12,19,-7,Distributing,575924000.0,7788797.0,8.0
-PGR,Progressive Corp.,"{'Reduce': 10, 'Add': 4, 'Sell': 2, 'Buy': 1}",5,4,5,12,-7,Distributing,1046204000.0,3920422.0,5.0
-PNC,PNC Financial Services,"{'Reduce': 11, 'Add': 3, 'Buy': 1}",5,4,4,11,-7,Distributing,573004000.0,3073733.0,5.0
+WFC,Wells Fargo,"{'Reduce': 36, 'Sell': 3, 'Buy': 2}",15,4,2,39,-37,Distributing,3330707000.0,40155308.0,14.0
+GOOG,Alphabet Inc. CL C,"{'Reduce': 50, 'Add': 17, 'Buy': 1, 'Sell': 1}",26,4,18,51,-33,Distributing,12138990000.0,64455337.0,28.0
+V,Visa Inc.,"{'Reduce': 41, 'Add': 12, 'Sell': 2, 'Buy': 1}",22,4,13,43,-30,Distributing,18419690000.0,52017795.0,24.0
+META,Meta Platforms Inc.,"{'Reduce': 48, 'Add': 19, 'Buy': 7, 'Sell': 2}",29,4,26,50,-24,Distributing,19066487000.0,25866133.0,28.0
+MSFT,Microsoft Corp.,"{'Reduce': 54, 'Add': 32, 'Buy': 4, 'Sell': 3}",36,4,36,57,-21,Distributing,41053753000.0,82348877.0,34.0
+ORCL,Oracle Corp.,"{'Reduce': 25, 'Add': 5, 'Sell': 2, 'Buy': 1}",13,4,6,27,-21,Distributing,5502120000.0,24901667.0,12.0
+GOOGL,Alphabet Inc.,"{'Reduce': 46, 'Add': 25, 'Buy': 4, 'Sell': 3}",32,4,29,49,-20,Distributing,12259576000.0,63405708.0,32.0
+AMZN,Amazon.com Inc.,"{'Reduce': 40, 'Add': 19, 'Buy': 4, 'Sell': 2}",25,4,23,42,-19,Distributing,20158065000.0,92074872.0,27.0
+JPM,JPMorgan Chase & Co.,"{'Reduce': 23, 'Add': 5, 'Sell': 1}",10,4,5,24,-19,Distributing,1986771000.0,6728715.0,12.0
+MA,Mastercard Inc.,"{'Reduce': 23, 'Add': 5, 'Sell': 2, 'Buy': 1}",12,4,6,25,-19,Distributing,8697754000.0,15473958.0,15.0
+GS,Goldman Sachs Group,"{'Reduce': 18, 'Sell': 2, 'Add': 1, 'Buy': 1}",8,4,2,20,-18,Distributing,1592944000.0,2003760.0,8.0
+BRK.A,Berkshire Hathaway CL A,"{'Reduce': 19, 'Add': 2}",10,3,2,19,-17,Distributing,3626770000.0,4936.0,14.0
+DIS,Walt Disney Co.,"{'Reduce': 28, 'Add': 9, 'Buy': 3, 'Sell': 1}",17,4,12,29,-17,Distributing,3271204000.0,26544574.0,17.0
+C,Citigroup Inc.,"{'Reduce': 20, 'Add': 4, 'Sell': 1, 'Buy': 1}",8,4,5,21,-16,Distributing,2086695000.0,23751459.0,8.0
+BK,Bank of New York Mellon Corp.,{'Reduce': 16},5,4,0,16,-16,Distributing,4276415000.0,41703244.0,6.0
+BRK.B,Berkshire Hathaway CL B,"{'Reduce': 29, 'Add': 14, 'Buy': 1, 'Sell': 1}",18,4,15,30,-15,Distributing,16197558000.0,33280955.0,20.0
+CHTR,Charter Communications,"{'Reduce': 16, 'Sell': 4, 'Add': 3, 'Buy': 2}",13,4,5,20,-15,Distributing,3314560000.0,10907995.0,10.0
+COF,Capital One Financial,"{'Reduce': 28, 'Add': 8, 'Buy': 7, 'Sell': 1}",17,4,15,29,-14,Distributing,9557910000.0,44931148.0,17.0
+AXP,American Express,"{'Reduce': 14, 'Sell': 1, 'Add': 1}",8,4,1,15,-14,Distributing,49323102000.0,154596374.0,10.0
+AAPL,Apple Inc.,"{'Reduce': 25, 'Add': 13, 'Sell': 4, 'Buy': 2}",20,4,15,29,-14,Distributing,65766458000.0,320015063.0,20.0
+TEL,TE Connectivity plc,"{'Reduce': 15, 'Add': 1}",5,4,1,15,-14,Distributing,2093392000.0,9564653.0,5.0
+CBRE,CBRE Group,"{'Reduce': 15, 'Add': 2, 'Sell': 1, 'Buy': 1}",7,4,3,16,-13,Distributing,1157531000.0,7705259.0,6.0
+PM,Philip Morris Intl.,"{'Reduce': 16, 'Add': 3, 'Sell': 1, 'Buy': 1}",8,4,4,17,-13,Distributing,5260219000.0,28894198.0,8.0
+BMY,Bristol-Myers Squibb,"{'Reduce': 14, 'Sell': 3, 'Add': 3, 'Buy': 1}",8,4,4,17,-13,Distributing,288777000.0,6384963.0,6.0
+BAC,Bank of America Corp.,"{'Reduce': 24, 'Add': 9, 'Buy': 2}",13,4,11,24,-13,Distributing,31590990000.0,666523617.0,16.0
+CSCO,Cisco Systems,"{'Reduce': 13, 'Add': 2, 'Sell': 2, 'Buy': 1}",6,4,3,15,-12,Distributing,66187000.0,961950.0,4.0
+RTX,RTX Corp.,"{'Reduce': 11, 'Sell': 3, 'Buy': 2}",7,4,2,14,-12,Distributing,4669535000.0,27982875.0,6.0
+JNJ,Johnson & Johnson,"{'Reduce': 14, 'Add': 3, 'Sell': 1}",9,4,3,15,-12,Distributing,493436000.0,2990255.0,10.0
+SCHW,Charles Schwab Corp.,"{'Reduce': 18, 'Add': 9, 'Sell': 3, 'Buy': 1}",12,4,10,21,-11,Distributing,8231571000.0,87498435.0,10.0
+PG,Procter & Gamble,"{'Reduce': 14, 'Add': 4, 'Sell': 1}",7,4,4,15,-11,Distributing,1280421000.0,8036857.0,6.0
+BKNG,Booking Holdings Inc.,"{'Reduce': 15, 'Buy': 3, 'Add': 3, 'Sell': 2}",9,4,6,17,-11,Distributing,2840240000.0,513696.0,8.0
+VRSK,Verisk Analytics Inc.,"{'Reduce': 12, 'Add': 2}",6,4,2,12,-10,Distributing,191036000.0,646697.0,6.0
+WCC,WESCO International Inc.,"{'Add': 13, 'Reduce': 3, 'Buy': 1, 'Sell': 1}",7,4,14,4,10,Accumulating,490254000.0,2644148.0,6.0
+SDRL,Seadrill Ltd,"{'Add': 9, 'Buy': 2, 'Sell': 1}",5,4,11,1,10,Accumulating,109072000.0,3818764.0,2.0
+PEP,PepsiCo Inc.,"{'Reduce': 16, 'Add': 5, 'Buy': 2, 'Sell': 1}",10,4,7,17,-10,Distributing,676516000.0,5095334.0,9.0
+KO,Coca Cola Co.,"{'Reduce': 11, 'Add': 1}",5,3,1,11,-10,Distributing,28469042000.0,402389292.0,6.0
+SAP,SAP SE,{'Reduce': 10},4,3,0,10,-10,Distributing,372047000.0,1223461.0,4.0
+KMX,CarMax Inc.,"{'Reduce': 11, 'Sell': 2, 'Add': 2, 'Buy': 1}",8,3,3,13,-10,Distributing,249091000.0,4362972.0,8.0
+CTSH,Cognizant Technology Solutions,"{'Reduce': 11, 'Add': 2}",5,3,2,11,-9,Distributing,1235611000.0,17652108.0,5.0
+ADP,Automatic Data Processing Inc.,"{'Reduce': 9, 'Sell': 1, 'Buy': 1}",4,3,1,10,-9,Distributing,1664564000.0,5397420.0,3.0
+BIO,Bio-Rad Laboratories Inc.,"{'Add': 10, 'Reduce': 1}",5,3,10,1,9,Accumulating,753043000.0,3081030.0,5.0
+ICLR,ICON plc,"{'Buy': 8, 'Add': 6, 'Reduce': 3, 'Sell': 2}",10,4,14,5,9,Accumulating,434846000.0,2871774.0,7.0
+ACN,Accenture,"{'Reduce': 11, 'Add': 3, 'Sell': 2, 'Buy': 1}",7,4,4,13,-9,Distributing,1340079000.0,4527913.0,5.0
+OXY,Occidental Petroleum,"{'Add': 9, 'Reduce': 2, 'Buy': 2, 'Sell': 1}",6,3,11,3,8,Accumulating,14615890000.0,341093489.0,7.0
+LLY,Eli Lilly & Co.,"{'Add': 9, 'Buy': 5, 'Reduce': 3, 'Sell': 3}",9,4,14,6,8,Accumulating,3181665000.0,4084766.0,8.0
+PFE,Pfizer Inc.,"{'Reduce': 12, 'Add': 5, 'Sell': 2, 'Buy': 1}",8,4,6,14,-8,Distributing,118870000.0,4828285.0,6.0
+CSGP,CoStar Group Inc.,"{'Add': 8, 'Buy': 5, 'Reduce': 3, 'Sell': 2}",8,4,13,5,8,Accumulating,2220689000.0,27597797.0,7.0
+JLL,Jones Lang Lasalle Inc.,"{'Reduce': 9, 'Add': 2, 'Sell': 1}",5,4,2,10,-8,Distributing,75821000.0,293194.0,4.0
+IFF,International Flavors & Fragrances Inc.,"{'Add': 10, 'Reduce': 2, 'Sell': 1, 'Buy': 1}",7,4,11,3,8,Accumulating,1994225000.0,30490087.0,7.0
+CL,Colgate-Palmolive,"{'Reduce': 7, 'Sell': 1}",5,4,0,8,-8,Distributing,798677000.0,8786321.0,4.0
+SSNC,SS&C Technologies Holdings Inc.,"{'Reduce': 10, 'Add': 2}",3,4,2,10,-8,Distributing,395549000.0,4456388.0,3.0
+SUI,Sun Communities Inc.,"{'Add': 8, 'Buy': 2, 'Reduce': 1, 'Sell': 1}",4,4,10,2,8,Accumulating,25660000.0,11151168.0,4.0
+GE,GE Aerospace,"{'Reduce': 11, 'Add': 3}",5,4,3,11,-8,Distributing,15451334000.0,59286441.0,6.0
+IBKR,Interactive Brokers Group Inc.,"{'Reduce': 10, 'Add': 2}",4,4,2,10,-8,Distributing,1429952000.0,22550877.0,4.0
+BF.B,Brown-Forman Corp.,"{'Reduce': 8, 'Buy': 1, 'Sell': 1, 'Add': 1}",4,3,2,9,-7,Distributing,80610000.0,2991972.0,4.0
+MEDP,Medpace Holdings Inc.,"{'Add': 6, 'Buy': 3, 'Sell': 1, 'Reduce': 1}",5,4,9,2,7,Accumulating,149337000.0,443900.0,4.0
+EXPE,Expedia Group Inc.,"{'Reduce': 8, 'Buy': 1}",3,4,1,8,-7,Distributing,101647000.0,534874.0,3.0
+EW,Edwards Lifesciences Corp.,"{'Reduce': 5, 'Sell': 2}",4,3,0,7,-7,Distributing,14492000.0,181028.0,2.0
+WTW,Willis Towers Watson plc,"{'Reduce': 11, 'Buy': 3, 'Add': 3, 'Sell': 2}",8,4,6,13,-7,Distributing,2600106000.0,8304672.0,7.0
+EBAY,eBay Inc.,"{'Reduce': 9, 'Add': 2, 'Buy': 1, 'Sell': 1}",4,4,3,10,-7,Distributing,402335000.0,5398501.0,4.0
+LOW,Lowe's Cos.,"{'Add': 7, 'Buy': 2, 'Reduce': 1, 'Sell': 1}",3,4,9,2,7,Accumulating,204944000.0,819235.0,3.0
+FOXA,Fox Corporation,{'Reduce': 7},2,4,0,7,-7,Distributing,764959000.0,12312838.0,2.0
+DGX,Quest Diagnostics,"{'Reduce': 8, 'Add': 2, 'Sell': 1}",4,3,2,9,-7,Distributing,250917000.0,1394420.0,2.0
+HCA,HCA Healthcare Inc.,"{'Add': 9, 'Reduce': 2, 'Sell': 1, 'Buy': 1}",5,4,10,3,7,Accumulating,2363569000.0,6161126.0,4.0
+GLD,SPDR Gold Trust,"{'Reduce': 9, 'Add': 2}",4,4,2,9,-7,Distributing,799707000.0,2639115.0,4.0
+ICE,Intercontinental Exchange Inc.,"{'Reduce': 12, 'Add': 5, 'Sell': 2, 'Buy': 2}",9,4,7,14,-7,Distributing,1870884000.0,10468364.0,7.0
+FERG,Ferguson Enterprises Inc.,"{'Add': 10, 'Reduce': 6, 'Buy': 5, 'Sell': 2}",10,4,15,8,7,Accumulating,1713998000.0,7786736.0,8.0
+NFLX,Netflix Inc.,"{'Reduce': 7, 'Sell': 3, 'Add': 3}",5,3,3,10,-7,Distributing,1817961000.0,1357568.0,2.0
 PRMB,Primo Brands Corp,"{'Add': 4, 'Buy': 3}",3,3,7,0,7,Accumulating,823703000.0,27808985.0,3.0
-NXPI,NXP Semiconductors NV,"{'Reduce': 7, 'Sell': 1, 'Add': 1}",3,4,1,8,-7,Distributing,108375000.0,496018.0,2.0
-SSNC,SS&C Technologies Holdings Inc.,"{'Reduce': 9, 'Add': 2}",3,4,2,9,-7,Distributing,375262000.0,4532153.0,3.0
-SEB,Seaboard Corp.,"{'Reduce': 6, 'Sell': 1}",3,4,0,7,-7,Distributing,27576000.0,9638.0,2.0
-SLB,Schlumberger Ltd.,"{'Add': 7, 'Buy': 2, 'Reduce': 1, 'Sell': 1}",5,4,9,2,7,Accumulating,958555000.0,28359657.0,4.0
-NTRS,Northern Trust Corp.,"{'Reduce': 6, 'Sell': 1}",2,4,0,7,-7,Distributing,23646000.0,186495.0,2.0
-TMUS,T-Mobile US Inc.,"{'Reduce': 8, 'Add': 2, 'Sell': 1}",3,4,2,9,-7,Distributing,1412156000.0,5926953.0,2.0
-EGP,EastGroup Properties SBI,"{'Add': 6, 'Buy': 1}",2,4,7,0,7,Accumulating,7709000.0,46130.0,1.0
-INTC,Intel Corp.,"{'Reduce': 5, 'Sell': 4, 'Buy': 1, 'Add': 1}",4,4,2,9,-7,Distributing,179200000.0,8000000.0,1.0
-HCA,HCA Healthcare Inc.,"{'Add': 10, 'Reduce': 3, 'Sell': 1, 'Buy': 1}",5,4,11,4,7,Accumulating,2357933000.0,6154876.0,4.0
-FOXA,Fox Corporation,{'Reduce': 7},2,4,0,7,-7,Distributing,715184000.0,12762038.0,2.0
-GEV,Ge Vernova Inc,"{'Reduce': 6, 'Sell': 3, 'Add': 1, 'Buy': 1}",5,4,2,9,-7,Distributing,582716000.0,1101230.0,2.0
-GLD,SPDR Gold Trust,"{'Reduce': 9, 'Add': 2}",4,4,2,9,-7,Distributing,799625000.0,2639022.0,4.0
-FOX,Fox Corporation CL B,{'Reduce': 7},2,4,0,7,-7,Distributing,594275000.0,11510267.0,2.0
-J,Jacobs Solutions Inc.,"{'Reduce': 6, 'Sell': 2, 'Buy': 1}",4,4,1,8,-7,Distributing,213721000.0,1625872.0,2.0
-UBER,Uber Technologies Inc.,"{'Add': 15, 'Reduce': 8, 'Buy': 3, 'Sell': 3}",12,4,18,11,7,Accumulating,4112955000.0,44083113.0,9.0
-KOS,Kosmos Energy Ltd.,{'Add': 7},2,4,7,0,7,Accumulating,33264000.0,19339717.0,1.0
-MAT,Mattel Inc.,"{'Reduce': 8, 'Add': 1}",3,4,1,8,-7,Distributing,129158000.0,6549604.0,3.0
-LVS,Las Vegas Sands Corp.,"{'Reduce': 6, 'Sell': 4, 'Buy': 2, 'Add': 1}",4,4,3,10,-7,Distributing,569000.0,13066.0,1.0
+LEN,Lennar Corp.,"{'Add': 9, 'Buy': 3, 'Reduce': 3, 'Sell': 2}",7,3,12,5,7,Accumulating,2360561000.0,21341299.0,5.0
+PGR,Progressive Corp.,"{'Reduce': 8, 'Sell': 2, 'Add': 2, 'Buy': 1}",5,3,3,10,-7,Distributing,1031197000.0,3920422.0,5.0
+LVS,Las Vegas Sands Corp.,"{'Reduce': 5, 'Sell': 3, 'Buy': 1}",4,3,1,8,-7,Distributing,569000.0,13066.0,1.0
+EGP,EastGroup Properties SBI,{'Add': 6},2,3,6,0,6,Accumulating,7709000.0,46130.0,1.0
+FI,Fiserv Inc.,"{'Reduce': 14, 'Add': 9, 'Sell': 5, 'Buy': 4}",14,4,13,19,-6,Distributing,3910113000.0,29642324.0,10.0
+SYK,Stryker Corp.,{'Reduce': 6},2,3,0,6,-6,Distributing,2411217000.0,6094628.0,2.0
+BABA,Alibaba Group Holdings,"{'Reduce': 9, 'Add': 6, 'Sell': 3}",8,4,6,12,-6,Distributing,1468029000.0,12635047.0,6.0
+AXS,Axis Capital Holdings Ltd.,"{'Reduce': 7, 'Add': 1}",3,3,1,7,-6,Distributing,98976000.0,953343.0,3.0
+AZO,AutoZone Inc.,"{'Reduce': 7, 'Buy': 1, 'Sell': 1, 'Add': 1}",3,4,2,8,-6,Distributing,139866000.0,37470.0,3.0
+INTC,Intel Corp.,"{'Sell': 4, 'Reduce': 3, 'Buy': 1}",4,3,1,7,-6,Distributing,179200000.0,8000000.0,1.0
+CVS,CVS Health Corp.,"{'Reduce': 14, 'Add': 9, 'Sell': 2, 'Buy': 1}",10,4,10,16,-6,Distributing,4755035000.0,64289662.0,8.0
+INTU,Intuit Inc.,"{'Reduce': 15, 'Add': 9, 'Sell': 2, 'Buy': 2}",11,4,11,17,-6,Distributing,2768600000.0,3515164.0,9.0
+TGT,Target Corp.,"{'Add': 6, 'Sell': 1, 'Buy': 1}",3,4,7,1,6,Accumulating,35227000.0,392721.0,3.0
+GCI,Gannett Co.,{'Add': 6},2,3,6,0,6,Accumulating,32681000.0,9128568.0,2.0
+UL,Unilever PLC,"{'Reduce': 6, 'Sell': 2, 'Add': 2}",4,3,2,8,-6,Distributing,53499000.0,874595.0,2.0
+FOX,Fox Corporation CL B,{'Reduce': 6},2,3,0,6,-6,Distributing,624182000.0,11510267.0,2.0
+FTV,Fortive Corp.,"{'Add': 6, 'Buy': 2, 'Reduce': 2}",4,4,8,2,6,Accumulating,2242998000.0,44690550.0,4.0
+TMUS,T-Mobile US Inc.,"{'Reduce': 7, 'Add': 2, 'Sell': 1}",3,4,2,8,-6,Distributing,1347911000.0,5644153.0,2.0
+UBS,UBS AG,"{'Reduce': 8, 'Add': 2, 'Sell': 1, 'Buy': 1}",4,4,3,9,-6,Distributing,161079000.0,4379408.0,3.0
+AMGN,Amgen,"{'Add': 7, 'Reduce': 1}",2,4,7,1,6,Accumulating,50446000.0,178761.0,2.0
+AMT,American Tower Corp.,"{'Reduce': 11, 'Add': 5, 'Sell': 1, 'Buy': 1}",6,4,6,12,-6,Distributing,1190218000.0,5621061.0,5.0
+UBER,Uber Technologies Inc.,"{'Add': 11, 'Reduce': 8, 'Buy': 4, 'Sell': 1}",11,4,15,9,6,Accumulating,4131794000.0,43991920.0,10.0
+BLDR,Builders FirstSource Inc.,"{'Buy': 4, 'Add': 2}",4,2,6,0,6,Accumulating,267944000.0,2296206.0,4.0
+MCO,Moody's Corp.,"{'Reduce': 13, 'Add': 8, 'Sell': 1}",10,4,8,14,-6,Distributing,22089050000.0,44099450.0,13.0
+LGIH,,"{'Reduce': 4, 'Sell': 3, 'Add': 1}",3,3,1,7,-6,Distributing,0.0,0.0,0.0
+BF.A,Brown-Forman Corp. CL A,{'Reduce': 6},2,3,0,6,-6,Distributing,147962000.0,5403489.0,3.0
+RRX,Regal Rexnord Corp.,"{'Add': 7, 'Reduce': 1}",3,3,7,1,6,Accumulating,613977000.0,4235494.0,3.0
+SEB,Seaboard Corp.,"{'Reduce': 5, 'Sell': 1}",3,3,0,6,-6,Distributing,27576000.0,9638.0,2.0
+COST,Costco Co.,"{'Reduce': 9, 'Add': 4, 'Sell': 1}",5,4,4,10,-6,Distributing,45895000.0,48983.0,6.0
+CCC,CCC Intelligent Solutions Hldgs Inc.,"{'Add': 7, 'Reduce': 3, 'Buy': 2}",5,4,9,3,6,Accumulating,197956000.0,21017276.0,5.0
+OSK,Oshkosh Corp.,"{'Add': 6, 'Reduce': 1, 'Buy': 1}",3,3,7,1,6,Accumulating,344331000.0,2999146.0,3.0
