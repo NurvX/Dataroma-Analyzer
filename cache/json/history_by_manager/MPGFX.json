@@ -607,7 +607,7 @@
       "company_name": "Abbott Labs"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "MPGFX",
       "action": "Reduce 11.69%",
       "date": "Q1 2025",
@@ -2422,7 +2422,7 @@
       "company_name": "Tennant Co."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "MPGFX",
       "action": "Reduce 4.07%",
       "date": "Q2 2023",
@@ -3511,7 +3511,7 @@
       "company_name": "nVent Electric plc"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "MPGFX",
       "action": "Reduce 4.54%",
       "date": "Q3 2022",
@@ -4270,7 +4270,7 @@
       "company_name": "Digi International"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "MPGFX",
       "action": "Reduce 6.90%",
       "date": "Q1 2022",
@@ -4996,7 +4996,7 @@
       "company_name": "Microsoft Corp."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "MPGFX",
       "action": "Add 3.57%",
       "date": "Q2 2021",
@@ -5315,7 +5315,7 @@
       "company_name": "Activision Blizzard Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "MPGFX",
       "action": "Add 5.66%",
       "date": "Q1 2021",
@@ -5876,7 +5876,7 @@
       "company_name": "Visa Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "MPGFX",
       "action": "Add 6.53%",
       "date": "Q3 2020",
@@ -6283,7 +6283,7 @@
       "company_name": "Littelfuse Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "MPGFX",
       "action": "Add 2.05%",
       "date": "Q2 2020",
@@ -6745,7 +6745,7 @@
       "company_name": "Toro Co."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "MPGFX",
       "action": "Reduce 2.99%",
       "date": "Q1 2020",
@@ -7218,7 +7218,7 @@
       "company_name": "Associated Capital Group Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "MPGFX",
       "action": "Reduce 19.92%",
       "date": "Q4 2019",
@@ -7636,7 +7636,7 @@
       "company_name": "Generac Holdings Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "MPGFX",
       "action": "Reduce 8.73%",
       "date": "Q3 2019",
@@ -8791,7 +8791,7 @@
       "company_name": "QUALCOMM Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "MPGFX",
       "action": "Reduce 1.79%",
       "date": "Q4 2018",
@@ -9990,7 +9990,7 @@
       "company_name": "C.H. Robinson Worldwide"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "MPGFX",
       "action": "Reduce 2.10%",
       "date": "Q1 2018",
@@ -10364,7 +10364,7 @@
       "company_name": "Badger Meter Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "MPGFX",
       "action": "Reduce 0.69%",
       "date": "Q4 2017",
@@ -10859,7 +10859,7 @@
       "company_name": "Associated Capital Group Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "MPGFX",
       "action": "Reduce 7.69%",
       "date": "Q3 2017",
@@ -11002,6 +11002,6 @@
       "company_name": "Tennant Co."
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.548331",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.764650",
+  "scraped_date": "2025-12-01"
 }

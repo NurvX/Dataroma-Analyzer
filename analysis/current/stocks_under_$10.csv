@@ -1,81 +1,79 @@
 ticker,company_name,current_price,managers,total_value,avg_portfolio_pct,index,manager_count,total_shares,max_portfolio_pct,buy_count,last_buy_period,price_opportunity_score,price_category
-CCC,CCC Intelligent Solutions Hldgs Inc.,8.82,"Torray Funds
-ValueAct Capital
-Chuck Akre
-Triple Frond Partners
-Polen Capital Management",197956000,1.46,35,5,21017276,5.24,8.0,Q3 2025,19.458,Low Price
-GT,Goodyear Tire & Rubber,6.89,"David Tepper
-Alex Roepers
-First Eagle Investment Management",26478000,1.67,64,3,2553237,4.84,3.0,Q2 2025,10.666666666666666,Low Price
-PAGS,PagSeguro Digital Ltd.,9.59,"Lee Ainslie
-Seth Klarman
-Sarah Ketterer",51313000,0.34,113,3,5322954,0.59,3.0,Q2 2025,9.34,Low Price
-PTON,Peloton Interactive Inc.,7.26,"Samantha McLemore
+ADT,ADT Inc.,8.25,"John Rogers
+Lee Ainslie
+Sarah Ketterer
+Polen Capital Management",18119000,0.46,5,4,2080162,1.85,4.0,Q3 2025,12.465,Low Price
+CNH,CNH Industrial NV,9.43,"Mason Hawkins
 David Einhorn
-Polen Capital Management",25537000,0.32,124,3,2927524,0.91,1.0,Q2 2025,7.32,Low Price
-BKD,Brookdale Senior Living Inc.,9.27,"Lee Ainslie
+Tweedy Browne Co.",107020000,2.64,39,3,9863554,3.74,0.0,,8.643333333333333,Low Price
+CCC,CCC Intelligent Solutions Hldgs Inc.,7.45,"Triple Frond Partners
+Chuck Akre
+Torray Funds",183134000,1.78,34,3,20102478,3.64,10.0,Q3 2025,17.776666666666667,Low Price
+PTON,Peloton Interactive Inc.,6.79,"David Einhorn
 Polen Capital Management
-First Eagle Investment Management",14813000,0.01,26,3,2128246,0.03,3.0,Q2 2025,9.013333333333334,Low Price
-EVH,Evolent Health Inc.,6.67,"Lee Ainslie
-Glenn Welling",81601000,9.33,51,2,7246992,18.43,2.0,Q2 2025,15.335,Low Price
-BB,BlackBerry Ltd.,4.88,"Meridian Contrarian Fund
-Prem Watsa",192962000,5.58,23,2,42131533,9.98,0.0,,9.575,Low Price
-GCI,Gannett Co.,5.3,"Bill Miller
-Leon Cooperman",32681000,2.86,59,2,9128568,4.99,4.0,Q2 2025,10.865,Low Price
-STKL,SunOpta Inc.,5.22,"Leon Cooperman
-Howard Marks",157928000,2.18,145,2,27233177,3.04,4.0,Q2 2025,10.185,Low Price
-BHC,Bausch Health,7.02,"Carl Icahn
-Howard Marks",239701000,1.57,25,2,35991118,2.93,0.0,,5.57,Low Price
-GRAB,Grab Holdings Ltd   Cl A,6.01,"Chase Coleman
-Howard Marks",525601000,1.42,62,2,104493083,1.47,2.0,Q2 2025,7.42,Low Price
-HNST,The Honest Company inc.,3.41,"Meridian Contrarian Fund
-Polen Capital Management",15232000,1.38,73,2,2992594,2.75,3.0,Q2 2025,8.375,Low Price
-UAA,Under Armour Inc.,4.61,"Lee Ainslie
-Prem Watsa",45016000,1.16,152,2,6600198,2.3,1.0,Q1 2025,6.165,Low Price
-ADT,ADT Inc.,8.84,"John Rogers
-Polen Capital Management",17416000,1.0,2,2,2056216,2.0,1.0,Q2 2025,6.0,Low Price
-LXU,LSB Industries Inc.,8.43,"Third Avenue Management
-First Eagle Investment Management",19930000,0.65,94,2,2555048,1.27,1.0,Q1 2025,5.65,Low Price
-SG,Sweetgreen Inc   Class A,6.29,"Meridian Contrarian Fund
-Lee Ainslie",7714000,0.35,138,2,518394,0.63,3.0,Q2 2025,7.35,Low Price
-LILAK,Liberty LiLAC Group C,7.91,"Warren Buffett
-Howard Marks",22470000,0.18,91,2,3612536,0.37,1.0,Q2 2025,5.185,Low Price
-SABR,Sabre Corp.,2.05,"Daniel Loeb
-Terry Smith",70307000,0.16,135,2,22249095,0.3,1.0,Q2 2025,5.165,Low Price
-MX,MagnaChip Semiconductor Corp.,3.1,"Prem Watsa
-Howard Marks",11838000,0.16,100,2,2974858,0.29,0.0,,4.16,Low Price
-HLN,Haleon Plc ADR,9.27,"Kahn Brothers Group
-First Eagle Investment Management",30097000,0.16,71,2,2902344,0.25,2.0,Q2 2025,6.155,Low Price
-HTZWW,Hertz Global Hldgs Inc. WTS,2.85,"Daniel Loeb
-Francis Chou",14495000,0.1,76,2,3971000,0.19,0.0,,4.095,Low Price
-NUVB,Nuvation Bio Inc.,5.22,"David Einhorn
-David Abrams",7500000,0.06,106,2,3846508,0.12,0.0,,4.06,Low Price
-BTG,B2Gold Corp.,4.39,"Sarah Ketterer
-First Eagle Investment Management",46821000,0.05,32,2,12950981,0.09,2.0,Q2 2025,6.05,Low Price
-IEP,Icahn Enterprises,8.06,Carl Icahn,3980534000,50.47,77,1,494783619,50.47,1.0,Q2 2025,53.47,Low Price
-PTLO,Portillo's Inc Cl A,5.35,Glenn Welling,56388000,15.77,123,1,4831911,15.77,2.0,Q2 2025,19.77,Low Price
-BUR,Burford Capital Ltd,9.95,Josh Tarasoff,45724000,12.86,33,1,3362322,12.86,1.0,Q2 2025,15.86,Low Price
-BAYRY,Bayer Ag Sponsored ADR,7.7,Kahn Brothers Group,50735000,10.19,22,1,6728903,10.19,2.0,Q2 2025,14.19,Low Price
-WEN,Wendy's Co.,8.54,Nelson Peltz,347565000,9.17,155,1,30434794,9.17,1.0,Q2 2025,12.17,Low Price
-GTN,Gray Television Inc.,4.57,Bill Miller,16525000,7.01,65,1,3647805,7.01,2.0,Q2 2025,11.01,Low Price
-OGN,Organon & Co.,6.75,Kahn Brothers Group,33785000,6.78,109,1,3490150,6.78,3.0,Q2 2025,11.78,Low Price
-QUAD,Quad/Graphics Inc.,5.51,Bill Miller,15314000,6.5,125,1,2710380,6.5,2.0,Q2 2025,10.5,Low Price
-BRCC,BRC Inc.,1.27,Glenn Welling,17732000,4.96,29,1,13535560,4.96,0.0,,6.96,Low Price
-KW,Kennedy-Wilson Holdings Inc.,7.56,Prem Watsa,90456000,4.83,88,1,13322009,4.83,0.0,,6.83,Low Price
-FPH,Five Point Holdings LLC,5.85,Third Avenue Management,22693000,4.68,57,1,4125911,4.68,0.0,,6.68,Low Price
-BLND,Blend Labs Inc.,3.31,Dennis Hong,29406000,3.71,28,1,8911039,3.71,1.0,Q1 2025,6.71,Low Price
-PGEN,Precigen Inc.,4.14,Samantha McLemore,87056000,3.48,118,1,26460848,3.48,1.0,Q3 2025,6.48,Low Price
-SVV,Savers Value Village Inc,9.21,Tom Bancroft,11000000,3.35,146,1,1078437,3.35,1.0,Q1 2025,6.35,Low Price
-JELD,JELD-WEN Holding Inc.,4.34,Bill Miller,7348000,3.12,85,1,1874420,3.12,3.0,Q2 2025,8.120000000000001,Low Price
-CNDT,Conduent Inc.,2.38,Bill Miller,7274000,3.09,39,1,2755225,3.09,2.0,Q2 2025,7.09,Low Price
-RMNI,Rimini Street Inc.,3.98,Greg Alexander,22293000,2.9,133,1,5913199,2.9,0.0,,4.9,Low Price
-RWAY,Runway Growth Finance Corp,9.89,Howard Marks,104936000,2.66,134,1,9779667,2.66,0.0,,4.66,Low Price
-AXL,American Axle & Manufacturing Holdings,6.2,Bill Miller,5875000,2.49,19,1,1439920,2.49,2.0,Q2 2025,6.49,Low Price
-NOK,Nokia Corp.,6.91,Howard Marks,97137000,2.46,105,1,18752229,2.46,2.0,Q2 2025,6.46,Low Price
-PTEN,Patterson-UTI Energy Inc.,6.27,Kahn Brothers Group,11372000,2.28,122,1,1917660,2.28,0.0,,4.279999999999999,Low Price
-FOSL,Fossil Inc.,2.08,Bill Miller,5135000,2.18,56,1,3469727,2.18,4.0,Q2 2025,8.18,Low Price
-GLNCY,Glencore Plc,9.54,Steven Romick,123793000,1.97,60,1,26947501,1.97,1.0,Q2 2025,4.97,Low Price
-ITUB,ita Unibanco Holding S.A.,7.36,Howard Marks,74721000,1.89,81,1,11004494,1.89,2.0,Q2 2025,5.89,Low Price
-SEMR,SEMrush Holdings Inc.,7.26,Pat Dorsey,20675000,1.85,136,1,2284578,1.85,1.0,Q2 2025,4.85,Low Price
-JBLU,JetBlue Airways Corp.,4.2,Carl Icahn,142220000,1.8,84,1,33621735,1.8,1.0,Q1 2025,4.8,Low Price
-NGD,New Gold Inc.,7.34,Meridian Contrarian Fund,8752000,1.66,104,1,1768000,1.66,1.0,Q1 2025,4.66,Low Price
+Samantha McLemore",27940000,0.34,127,3,3104520,0.91,3.0,Q3 2025,9.336666666666666,Low Price
+EVH,Evolent Health Inc.,4.2,"Lee Ainslie
+Glenn Welling",68181000,6.01,55,2,8059196,11.75,3.0,Q3 2025,13.01,Low Price
+BB,BlackBerry Ltd.,4.08,"Meridian Contrarian Fund
+Prem Watsa",178606000,4.74,20,2,36672153,8.35,0.0,,8.745000000000001,Low Price
+TDAY,Gannett Co.,5.01,"Leon Cooperman
+Bill Miller",38287000,2.96,156,2,9270474,5.16,6.0,Q3 2025,12.96,Low Price
+STKL,SunOpta Inc.,3.76,"Leon Cooperman
+Howard Marks",160495000,1.89,152,2,27393235,2.56,6.0,Q3 2025,11.89,Low Price
+GRAB,Grab Holdings Ltd   Cl A,5.45,"Chase Coleman
+Howard Marks",632210000,1.64,65,2,105018283,1.73,3.0,Q3 2025,8.635,Low Price
+MBI,MBIA Inc.,7.55,"Francis Chou
+Kahn Brothers Group",10063000,1.3,98,2,1350794,1.44,1.0,Q3 2025,6.295,Low Price
+LILAK,Liberty LiLAC Group C,8.75,"Warren Buffett
+Howard Marks",67130000,0.6,93,2,7953843,1.19,2.0,Q3 2025,6.595,Low Price
+LXU,LSB Industries Inc.,8.93,"Third Avenue Management
+First Eagle Investment Management",18575000,0.58,96,2,2369248,1.15,0.0,,4.585,Low Price
+NXE,Nexgen Energy Ltd,8.96,"Meridian Contrarian Fund
+Polen Capital Management",4519000,0.4,109,2,504963,0.81,3.0,Q3 2025,7.405,Low Price
+GT,Goodyear Tire & Rubber,8.66,"Lee Ainslie
+David Tepper",40549000,0.28,67,2,5421027,0.52,5.0,Q3 2025,9.275,Low Price
+SRTA,Strata Critical Medical Inc.,4.34,"Daniel Loeb
+First Eagle Investment Management",34374000,0.16,150,2,6793351,0.3,4.0,Q3 2025,8.16,Low Price
+NUVB,Nuvation Bio Inc.,8.03,"David Einhorn
+David Abrams",14232000,0.12,106,2,3846508,0.23,0.0,,4.12,Low Price
+MX,MagnaChip Semiconductor Corp.,2.64,"Prem Watsa
+Howard Marks",9311000,0.1,102,2,2974858,0.19,0.0,,4.105,Low Price
+BHC,Bausch Health,6.35,"Daniel Loeb
+Howard Marks",8837000,0.09,22,2,1370000,0.17,1.0,Q3 2025,5.09,Low Price
+HTZWW,Hertz Global Hldgs Inc. WTS,2.86,"Daniel Loeb
+Francis Chou",14772000,0.09,77,2,3971000,0.18,0.0,,4.09,Low Price
+HLN,Haleon Plc ADR,9.78,"First Eagle Investment Management
+Kahn Brothers Group",28031000,0.08,72,2,3124978,0.11,3.0,Q3 2025,7.08,Low Price
+LILA,Liberty LiLAC Group A,8.68,"Warren Buffett
+Howard Marks",28826000,0.08,92,2,3477266,0.15,1.0,Q3 2025,5.08,Low Price
+BTG,B2Gold Corp.,4.62,"Sarah Ketterer
+First Eagle Investment Management",64080000,0.06,30,2,12965074,0.12,3.0,Q3 2025,7.065,Low Price
+AUR,Aurora Innovation Inc.,4.19,"Daniel Loeb
+Polen Capital Management",2273000,0.02,15,2,1050828,0.03,1.0,Q3 2025,5.015,Low Price
+IEP,Icahn Enterprises,8.12,Carl Icahn,4369415000,47.8,78,1,518932944,47.8,2.0,Q3 2025,51.8,Low Price
+RIG,Transocean Ltd.,4.41,Mohnish Pabrai,76260000,22.64,135,1,24442332,22.64,1.0,Q3 2025,25.64,Low Price
+BAYRY,Bayer Ag Sponsored ADR,8.76,Kahn Brothers Group,56266000,10.58,19,1,6787253,10.58,3.0,Q3 2025,15.58,Low Price
+PTLO,Portillo's Inc Cl A,5.22,Glenn Welling,32697000,8.02,126,1,5069301,8.02,3.0,Q3 2025,13.02,Low Price
+GTN,Gray Television Inc.,4.92,Bill Miller,20566000,7.56,68,1,3558215,7.56,2.0,Q2 2025,11.56,Low Price
+OGN,Organon & Co.,7.71,Kahn Brothers Group,38628000,7.26,110,1,3616845,7.26,4.0,Q3 2025,13.26,Low Price
+WEN,Wendy's Co.,8.45,Nelson Peltz,278803000,6.79,167,1,30437023,6.79,2.0,Q3 2025,10.79,Low Price
+QUAD,Quad/Graphics Inc.,5.74,Bill Miller,16423000,6.03,128,1,2623475,6.03,2.0,Q2 2025,10.03,Low Price
+BUR,Burford Capital Ltd,9.57,Josh Tarasoff,19709000,5.75,32,1,1835072,5.75,1.0,Q2 2025,8.75,Low Price
+KW,Kennedy-Wilson Holdings Inc.,9.73,Prem Watsa,110839000,5.37,90,1,13322009,5.37,0.0,,7.37,Low Price
+BLND,Blend Labs Inc.,3.16,Dennis Hong,35918000,5.34,24,1,9840605,5.34,2.0,Q3 2025,9.34,Low Price
+BRCC,BRC Inc.,1.27,Glenn Welling,21739000,5.33,27,1,13935560,5.33,1.0,Q3 2025,8.33,Low Price
+SVV,Savers Value Village Inc,9.11,Tom Bancroft,10335000,5.31,153,1,780000,5.31,2.0,Q3 2025,9.31,Low Price
+FPH,Five Point Holdings LLC,6.2,Third Avenue Management,25218000,4.73,61,1,4113917,4.73,0.0,,6.73,Low Price
+RMNI,Rimini Street Inc.,3.81,Greg Alexander,27674000,4.39,137,1,5913199,4.39,0.0,,6.39,Low Price
+CNDT,Conduent Inc.,1.94,Bill Miller,11286000,4.15,38,1,4030825,4.15,3.0,Q3 2025,9.15,Low Price
+AXL,American Axle & Manufacturing Holdings,6.57,Bill Miller,10320000,3.79,17,1,1717095,3.79,3.0,Q3 2025,8.79,Low Price
+JELD,JELD-WEN Holding Inc.,2.67,Bill Miller,10158000,3.73,87,1,2068840,3.73,4.0,Q3 2025,9.73,Low Price
+PGEN,Precigen Inc.,3.83,Samantha McLemore,87056000,3.48,121,1,26460848,3.48,1.0,Q3 2025,6.48,Low Price
+FOSL,Fossil Inc.,3.01,Bill Miller,8549000,3.14,60,1,3326395,3.14,4.0,Q2 2025,9.14,Low Price
+HNST,The Honest Company inc.,2.69,Meridian Contrarian Fund,11038000,2.02,74,1,2999546,2.02,4.0,Q3 2025,8.02,Low Price
+NGD,New Gold Inc.,8.35,Meridian Contrarian Fund,11043000,2.02,104,1,1538000,2.02,1.0,Q1 2025,5.02,Low Price
+GLNCY,Glencore Plc,9.22,Steven Romick,123793000,1.97,63,1,26947501,1.97,1.0,Q2 2025,4.97,Low Price
+ITUB,ita Unibanco Holding S.A.,7.8,Howard Marks,92967000,1.96,83,1,12665801,1.96,3.0,Q3 2025,6.96,Low Price
+DBRG,DigitalBridge Group Inc.,9.71,Meridian Contrarian Fund,10672000,1.95,45,1,912121,1.95,2.0,Q3 2025,5.95,Low Price
+AESI,Atlas Energy Solutions Inc,8.62,Leon Cooperman,61016000,1.9,8,1,5366363,1.9,2.0,Q3 2025,5.9,Low Price
+NOK,Nokia Corp.,6.08,Howard Marks,90198000,1.9,105,1,18752229,1.9,2.0,Q2 2025,5.9,Low Price

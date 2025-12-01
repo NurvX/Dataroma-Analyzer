@@ -2,6 +2,61 @@
   "manager_id": "CAS",
   "activities": [
     {
+      "symbol": "SWIM",
+      "manager_id": "CAS",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 1000000,
+      "portfolio_percentage": 0.34,
+      "company_name": "Latham Group Inc"
+    },
+    {
+      "symbol": "HGV",
+      "manager_id": "CAS",
+      "action": "Reduce 0.28%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 16027,
+      "portfolio_percentage": 0.03,
+      "company_name": "Hilton Grand Vacations Inc."
+    },
+    {
+      "symbol": "CVNA",
+      "manager_id": "CAS",
+      "action": "Reduce 0.66%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 32594,
+      "portfolio_percentage": 0.55,
+      "company_name": "Carvana Co."
+    },
+    {
+      "symbol": "COF",
+      "manager_id": "CAS",
+      "action": "Reduce 5.23%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 36711,
+      "portfolio_percentage": 0.35,
+      "company_name": "Capital One Financial"
+    },
+    {
+      "symbol": "CDLX",
+      "manager_id": "CAS",
+      "action": "Reduce 7.41%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 415855,
+      "portfolio_percentage": 0.04,
+      "company_name": "Cardlytics Inc."
+    },
+    {
       "symbol": "HGV",
       "manager_id": "CAS",
       "action": "Reduce 0.99%",
@@ -1146,6 +1201,6 @@
       "company_name": "United Rentals"
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.838936",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.467555",
+  "scraped_date": "2025-12-01"
 }

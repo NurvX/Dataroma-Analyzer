@@ -2,6 +2,39 @@
   "manager_id": "PC",
   "activities": [
     {
+      "symbol": "CROX",
+      "manager_id": "PC",
+      "action": "Add 19.04%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 101142,
+      "portfolio_percentage": 2.62,
+      "company_name": "Crocs Inc."
+    },
+    {
+      "symbol": "FISV",
+      "manager_id": "PC",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 37000,
+      "portfolio_percentage": 1.48,
+      "company_name": "Fiserv Inc."
+    },
+    {
+      "symbol": "SWBI",
+      "manager_id": "PC",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 189933,
+      "portfolio_percentage": 0.53,
+      "company_name": "Smith & Wesson Brands"
+    },
+    {
       "symbol": "PDD",
       "manager_id": "PC",
       "action": "Add 35.29%",
@@ -354,6 +387,6 @@
       "company_name": "Baidu Inc."
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.711645",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.355608",
+  "scraped_date": "2025-12-01"
 }

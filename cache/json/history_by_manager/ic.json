@@ -4,6 +4,94 @@
     {
       "symbol": "CTRI",
       "manager_id": "ic",
+      "action": "Add 69.39%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 4443795,
+      "portfolio_percentage": 1.03,
+      "company_name": "Centuri Holdings Inc"
+    },
+    {
+      "symbol": "IFF",
+      "manager_id": "ic",
+      "action": "Add 26.67%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1000000,
+      "portfolio_percentage": 0.67,
+      "company_name": "International Flavors & Fragrances Inc."
+    },
+    {
+      "symbol": "IEP",
+      "manager_id": "ic",
+      "action": "Add 4.88%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 24149325,
+      "portfolio_percentage": 2.22,
+      "company_name": "Icahn Enterprises"
+    },
+    {
+      "symbol": "SD",
+      "manager_id": "ic",
+      "action": "Add 1.07%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 51401,
+      "portfolio_percentage": 0.01,
+      "company_name": "SandRidge Energy Inc."
+    },
+    {
+      "symbol": "SATS",
+      "manager_id": "ic",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 4354542,
+      "portfolio_percentage": 3.64,
+      "company_name": "EchoStar Corp."
+    },
+    {
+      "symbol": "MNRO",
+      "manager_id": "ic",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 1465000,
+      "portfolio_percentage": 0.29,
+      "company_name": "Monro Inc."
+    },
+    {
+      "symbol": "SWX",
+      "manager_id": "ic",
+      "action": "Reduce 19.91%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1500000,
+      "portfolio_percentage": 1.29,
+      "company_name": "Southwest Gas Holdings Inc."
+    },
+    {
+      "symbol": "BHC",
+      "manager_id": "ic",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 34721118,
+      "portfolio_percentage": 2.93,
+      "company_name": "Bausch Health"
+    },
+    {
+      "symbol": "CTRI",
+      "manager_id": "ic",
       "action": "Add 157.55%",
       "date": "Q2 2025",
       "percentage_change": 0.0,
@@ -2675,7 +2763,7 @@
       "company_name": "Pep Boys"
     },
     {
-      "symbol": "GCI",
+      "symbol": "TDAY",
       "manager_id": "ic",
       "action": "Sell 100.00%",
       "date": "Q1 2016",
@@ -2763,7 +2851,7 @@
       "company_name": "Pep Boys"
     },
     {
-      "symbol": "GCI",
+      "symbol": "TDAY",
       "manager_id": "ic",
       "action": "Reduce 13.11%",
       "date": "Q4 2015",
@@ -2906,7 +2994,7 @@
       "company_name": "Cheniere Energy Inc."
     },
     {
-      "symbol": "GCI",
+      "symbol": "TDAY",
       "manager_id": "ic",
       "action": "Reduce 50.00%",
       "date": "Q2 2015",
@@ -2923,7 +3011,7 @@
       "date": "Q2 2015",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 9883482,
+      "shares": 98834820,
       "portfolio_percentage": 1.84,
       "company_name": "Netflix Inc."
     },
@@ -3038,7 +3126,7 @@
       "company_name": "Manitowoc Co."
     },
     {
-      "symbol": "GCI",
+      "symbol": "TDAY",
       "manager_id": "ic",
       "action": "Add 447.28%",
       "date": "Q3 2014",
@@ -3099,7 +3187,7 @@
       "date": "Q3 2014",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 2470867,
+      "shares": 24708670,
       "portfolio_percentage": 0.47,
       "company_name": "Netflix Inc."
     },
@@ -3137,7 +3225,7 @@
       "company_name": "Icahn Enterprises"
     },
     {
-      "symbol": "GCI",
+      "symbol": "TDAY",
       "manager_id": "ic",
       "action": "Buy",
       "date": "Q2 2014",
@@ -3154,7 +3242,7 @@
       "date": "Q2 2014",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 3357844,
+      "shares": 33578440,
       "portfolio_percentage": 0.55,
       "company_name": "Netflix Inc."
     },
@@ -3220,7 +3308,7 @@
       "date": "Q1 2014",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 2946706,
+      "shares": 29467060,
       "portfolio_percentage": 0.45,
       "company_name": "Netflix Inc."
     },
@@ -3286,7 +3374,7 @@
       "date": "Q4 2013",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 20128563,
+      "shares": 201285630,
       "portfolio_percentage": 3.47,
       "company_name": "Netflix Inc."
     },
@@ -3412,6 +3500,6 @@
       "company_name": "WebMD Health Corp."
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.744870",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.421524",
+  "scraped_date": "2025-12-01"
 }

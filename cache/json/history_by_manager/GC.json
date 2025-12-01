@@ -2,6 +2,490 @@
   "manager_id": "GC",
   "activities": [
     {
+      "symbol": "TWFG",
+      "manager_id": "GC",
+      "action": "Add 68.86%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 122469,
+      "portfolio_percentage": 0.11,
+      "company_name": "Twfg Inc"
+    },
+    {
+      "symbol": "KNSL",
+      "manager_id": "GC",
+      "action": "Add 6.31%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 11309,
+      "portfolio_percentage": 0.16,
+      "company_name": "Kinsale Capital Group Inc."
+    },
+    {
+      "symbol": "PGR",
+      "manager_id": "GC",
+      "action": "Add 2.60%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 13522,
+      "portfolio_percentage": 0.11,
+      "company_name": "Progressive Corp."
+    },
+    {
+      "symbol": "FIVE",
+      "manager_id": "GC",
+      "action": "Add 1.79%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 11219,
+      "portfolio_percentage": 0.06,
+      "company_name": "Five Below Inc."
+    },
+    {
+      "symbol": "V",
+      "manager_id": "GC",
+      "action": "Add 1.05%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 4223,
+      "portfolio_percentage": 0.05,
+      "company_name": "Visa Inc."
+    },
+    {
+      "symbol": "KMX",
+      "manager_id": "GC",
+      "action": "Add 0.86%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 14184,
+      "portfolio_percentage": 0.02,
+      "company_name": "CarMax Inc."
+    },
+    {
+      "symbol": "SCHW",
+      "manager_id": "GC",
+      "action": "Add 0.53%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 8281,
+      "portfolio_percentage": 0.03,
+      "company_name": "Charles Schwab Corp."
+    },
+    {
+      "symbol": "FISV",
+      "manager_id": "GC",
+      "action": "Add 0.41%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 2683,
+      "portfolio_percentage": 0.01,
+      "company_name": "Fiserv Inc."
+    },
+    {
+      "symbol": "ITB",
+      "manager_id": "GC",
+      "action": "Add 0.37%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 43,
+      "portfolio_percentage": 0.0,
+      "company_name": "Ishares U.S. Home Constructi"
+    },
+    {
+      "symbol": "MKL",
+      "manager_id": "GC",
+      "action": "Add 0.30%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 133,
+      "portfolio_percentage": 0.01,
+      "company_name": "Markel Group Inc."
+    },
+    {
+      "symbol": "NVR",
+      "manager_id": "GC",
+      "action": "Add 0.26%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 37,
+      "portfolio_percentage": 0.01,
+      "company_name": "NVR Inc."
+    },
+    {
+      "symbol": "BKNG",
+      "manager_id": "GC",
+      "action": "Add 0.25%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 53,
+      "portfolio_percentage": 0.01,
+      "company_name": "Booking Holdings Inc."
+    },
+    {
+      "symbol": "OZK",
+      "manager_id": "GC",
+      "action": "Add 0.24%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 2964,
+      "portfolio_percentage": 0.01,
+      "company_name": "Bank OZK"
+    },
+    {
+      "symbol": "ADI",
+      "manager_id": "GC",
+      "action": "Add 0.20%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 357,
+      "portfolio_percentage": 0.0,
+      "company_name": "Analog Devices"
+    },
+    {
+      "symbol": "BRO",
+      "manager_id": "GC",
+      "action": "Add 0.19%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 609,
+      "portfolio_percentage": 0.0,
+      "company_name": "Brown & Brown Inc."
+    },
+    {
+      "symbol": "LFUS",
+      "manager_id": "GC",
+      "action": "Add 0.18%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 145,
+      "portfolio_percentage": 0.0,
+      "company_name": "Littelfuse Inc."
+    },
+    {
+      "symbol": "FND",
+      "manager_id": "GC",
+      "action": "Add 0.13%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 317,
+      "portfolio_percentage": 0.0,
+      "company_name": "Floor & Decor Holdings"
+    },
+    {
+      "symbol": "KEYS",
+      "manager_id": "GC",
+      "action": "Add 0.10%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 342,
+      "portfolio_percentage": 0.0,
+      "company_name": "Keysight Technologies Inc."
+    },
+    {
+      "symbol": "IBP",
+      "manager_id": "GC",
+      "action": "Add 0.05%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 277,
+      "portfolio_percentage": 0.0,
+      "company_name": "Installed Building Products"
+    },
+    {
+      "symbol": "AME",
+      "manager_id": "GC",
+      "action": "Add 0.03%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 332,
+      "portfolio_percentage": 0.0,
+      "company_name": "Ametek Inc."
+    },
+    {
+      "symbol": "LULU",
+      "manager_id": "GC",
+      "action": "Add 0.02%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 24,
+      "portfolio_percentage": 0.0,
+      "company_name": "Lululemon Athletica Inc."
+    },
+    {
+      "symbol": "MEDP",
+      "manager_id": "GC",
+      "action": "Add 0.02%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 47,
+      "portfolio_percentage": 0.0,
+      "company_name": "Medpace Holdings Inc."
+    },
+    {
+      "symbol": "HEI.A",
+      "manager_id": "GC",
+      "action": "Add 0.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 9,
+      "portfolio_percentage": 0.0,
+      "company_name": "HEICO Corp. CL A"
+    },
+    {
+      "symbol": "RMD",
+      "manager_id": "GC",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 235418,
+      "portfolio_percentage": 2.18,
+      "company_name": "ResMed Inc."
+    },
+    {
+      "symbol": "DIS",
+      "manager_id": "GC",
+      "action": "Reduce 0.03%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 75,
+      "portfolio_percentage": 0.0,
+      "company_name": "Walt Disney Co."
+    },
+    {
+      "symbol": "BRK.B",
+      "manager_id": "GC",
+      "action": "Reduce 0.22%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1140,
+      "portfolio_percentage": 0.02,
+      "company_name": "Berkshire Hathaway CL B"
+    },
+    {
+      "symbol": "BLDR",
+      "manager_id": "GC",
+      "action": "Reduce 0.25%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 221,
+      "portfolio_percentage": 0.0,
+      "company_name": "Builders FirstSource Inc."
+    },
+    {
+      "symbol": "MA",
+      "manager_id": "GC",
+      "action": "Reduce 0.42%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 117,
+      "portfolio_percentage": 0.0,
+      "company_name": "Mastercard Inc."
+    },
+    {
+      "symbol": "JPM",
+      "manager_id": "GC",
+      "action": "Reduce 0.48%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 245,
+      "portfolio_percentage": 0.0,
+      "company_name": "JPMorgan Chase & Co."
+    },
+    {
+      "symbol": "FERG",
+      "manager_id": "GC",
+      "action": "Reduce 0.49%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 176,
+      "portfolio_percentage": 0.0,
+      "company_name": "Ferguson Enterprises Inc."
+    },
+    {
+      "symbol": "AAPL",
+      "manager_id": "GC",
+      "action": "Reduce 0.59%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 101,
+      "portfolio_percentage": 0.0,
+      "company_name": "Apple Inc."
+    },
+    {
+      "symbol": "ALGN",
+      "manager_id": "GC",
+      "action": "Reduce 1.44%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 667,
+      "portfolio_percentage": 0.0,
+      "company_name": "Align Technology Inc."
+    },
+    {
+      "symbol": "META",
+      "manager_id": "GC",
+      "action": "Reduce 2.22%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 7092,
+      "portfolio_percentage": 0.18,
+      "company_name": "Meta Platforms Inc."
+    },
+    {
+      "symbol": "GOOG",
+      "manager_id": "GC",
+      "action": "Reduce 2.37%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 15504,
+      "portfolio_percentage": 0.13,
+      "company_name": "Alphabet Inc. CL C"
+    },
+    {
+      "symbol": "GOOGL",
+      "manager_id": "GC",
+      "action": "Reduce 5.39%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 20474,
+      "portfolio_percentage": 0.17,
+      "company_name": "Alphabet Inc."
+    },
+    {
+      "symbol": "COF",
+      "manager_id": "GC",
+      "action": "Reduce 10.77%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 999,
+      "portfolio_percentage": 0.01,
+      "company_name": "Capital One Financial"
+    },
+    {
+      "symbol": "ANET",
+      "manager_id": "GC",
+      "action": "Reduce 14.54%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 70162,
+      "portfolio_percentage": 0.35,
+      "company_name": "Arista Networks Inc."
+    },
+    {
+      "symbol": "MSFT",
+      "manager_id": "GC",
+      "action": "Reduce 26.05%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 600,
+      "portfolio_percentage": 0.01,
+      "company_name": "Microsoft Corp."
+    },
+    {
+      "symbol": "TSM",
+      "manager_id": "GC",
+      "action": "Reduce 29.32%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 3387,
+      "portfolio_percentage": 0.03,
+      "company_name": "Taiwan Semiconductor S.A."
+    },
+    {
+      "symbol": "CACC",
+      "manager_id": "GC",
+      "action": "Reduce 77.46%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 23627,
+      "portfolio_percentage": 0.31,
+      "company_name": "Credit Acceptance Corp."
+    },
+    {
+      "symbol": "SBUX",
+      "manager_id": "GC",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 750248,
+      "portfolio_percentage": 2.36,
+      "company_name": "Starbucks Corp."
+    },
+    {
+      "symbol": "BAC",
+      "manager_id": "GC",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 1004119,
+      "portfolio_percentage": 1.63,
+      "company_name": "Bank of America Corp."
+    },
+    {
+      "symbol": "AMZN",
+      "manager_id": "GC",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 1174,
+      "portfolio_percentage": 0.01,
+      "company_name": "Amazon.com Inc."
+    },
+    {
+      "symbol": "ISRG",
+      "manager_id": "GC",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 405,
+      "portfolio_percentage": 0.01,
+      "company_name": "Intuitive Surgical Inc."
+    },
+    {
       "symbol": "AAPL",
       "manager_id": "GC",
       "action": "Add 81.23%",
@@ -167,7 +651,7 @@
       "company_name": "Arista Networks Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "GC",
       "action": "Add 3.01%",
       "date": "Q2 2025",
@@ -739,7 +1223,7 @@
       "company_name": "Brown & Brown Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "GC",
       "action": "Reduce 0.10%",
       "date": "Q1 2025",
@@ -1124,7 +1608,7 @@
       "company_name": "Align Technology Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "GC",
       "action": "Add 25.73%",
       "date": "Q4 2024",
@@ -1839,7 +2323,7 @@
       "company_name": "Five Below Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "GC",
       "action": "Add 3.37%",
       "date": "Q3 2024",
@@ -2378,7 +2862,7 @@
       "company_name": "Visa Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "GC",
       "action": "Add 0.98%",
       "date": "Q2 2024",
@@ -2752,7 +3236,7 @@
       "company_name": "Lululemon Athletica Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "GC",
       "action": "Add 5.58%",
       "date": "Q1 2024",
@@ -3247,7 +3731,7 @@
       "company_name": "Kinsale Capital Group Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "GC",
       "action": "Add 42.55%",
       "date": "Q4 2023",
@@ -3797,7 +4281,7 @@
       "company_name": "Coherent Corp."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "GC",
       "action": "Add 17.74%",
       "date": "Q3 2023",
@@ -4578,7 +5062,7 @@
       "company_name": "NVR Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "GC",
       "action": "Add 3.96%",
       "date": "Q2 2023",
@@ -5018,7 +5502,7 @@
       "company_name": "Fortune Brands Innovations Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "GC",
       "action": "Buy",
       "date": "Q1 2023",
@@ -10516,492 +11000,8 @@
       "shares": 256926,
       "portfolio_percentage": 2.34,
       "company_name": "Intercontinental Exchange Inc."
-    },
-    {
-      "symbol": "CACC",
-      "manager_id": "GC",
-      "action": "Buy",
-      "date": "Q2 2020",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 6605,
-      "portfolio_percentage": 0.28,
-      "company_name": "Credit Acceptance Corp."
-    },
-    {
-      "symbol": "ANET",
-      "manager_id": "GC",
-      "action": "Buy",
-      "date": "Q2 2020",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 41380,
-      "portfolio_percentage": 0.22,
-      "company_name": "Arista Networks Inc."
-    },
-    {
-      "symbol": "AMZN",
-      "manager_id": "GC",
-      "action": "Buy",
-      "date": "Q2 2020",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 9180,
-      "portfolio_percentage": 0.13,
-      "company_name": "Amazon.com Inc."
-    },
-    {
-      "symbol": "J",
-      "manager_id": "GC",
-      "action": "Buy",
-      "date": "Q2 2020",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 14159,
-      "portfolio_percentage": 0.12,
-      "company_name": "Jacobs Solutions Inc."
-    },
-    {
-      "symbol": "LBRDK",
-      "manager_id": "GC",
-      "action": "Buy",
-      "date": "Q2 2020",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 9507,
-      "portfolio_percentage": 0.12,
-      "company_name": "Liberty Broadband Corp. CL C"
-    },
-    {
-      "symbol": "FRCB",
-      "manager_id": "GC",
-      "action": "Buy",
-      "date": "Q2 2020",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 8893,
-      "portfolio_percentage": 0.09,
-      "company_name": "First Republic Bank"
-    },
-    {
-      "symbol": "MSFT",
-      "manager_id": "GC",
-      "action": "Buy",
-      "date": "Q2 2020",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 3529,
-      "portfolio_percentage": 0.07,
-      "company_name": "Microsoft Corp."
-    },
-    {
-      "symbol": "W",
-      "manager_id": "GC",
-      "action": "Buy",
-      "date": "Q2 2020",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 3518,
-      "portfolio_percentage": 0.07,
-      "company_name": "Wayfair Inc."
-    },
-    {
-      "symbol": "CHTR",
-      "manager_id": "GC",
-      "action": "Buy",
-      "date": "Q2 2020",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 1000,
-      "portfolio_percentage": 0.05,
-      "company_name": "Charter Communications"
-    },
-    {
-      "symbol": "TSM",
-      "manager_id": "GC",
-      "action": "Buy",
-      "date": "Q2 2020",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 5336,
-      "portfolio_percentage": 0.03,
-      "company_name": "Taiwan Semiconductor S.A."
-    },
-    {
-      "symbol": "UNH",
-      "manager_id": "GC",
-      "action": "Buy",
-      "date": "Q2 2020",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 1014,
-      "portfolio_percentage": 0.03,
-      "company_name": "United Health Group Inc."
-    },
-    {
-      "symbol": "LFUS",
-      "manager_id": "GC",
-      "action": "Reduce 0.56%",
-      "date": "Q2 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 328,
-      "portfolio_percentage": 0.01,
-      "company_name": "Littelfuse Inc."
-    },
-    {
-      "symbol": "BAC",
-      "manager_id": "GC",
-      "action": "Reduce 2.91%",
-      "date": "Q2 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 37833,
-      "portfolio_percentage": 0.09,
-      "company_name": "Bank of America Corp."
-    },
-    {
-      "symbol": "KMX",
-      "manager_id": "GC",
-      "action": "Reduce 3.28%",
-      "date": "Q2 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 36215,
-      "portfolio_percentage": 0.32,
-      "company_name": "CarMax Inc."
-    },
-    {
-      "symbol": "BN",
-      "manager_id": "GC",
-      "action": "Reduce 5.01%",
-      "date": "Q2 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 1313,
-      "portfolio_percentage": 0.0,
-      "company_name": "Brookfield Corp."
-    },
-    {
-      "symbol": "UNP",
-      "manager_id": "GC",
-      "action": "Sell 100.00%",
-      "date": "Q2 2020",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 51978,
-      "portfolio_percentage": 0.93,
-      "company_name": "Union Pacific"
-    },
-    {
-      "symbol": "LUV",
-      "manager_id": "GC",
-      "action": "Sell 100.00%",
-      "date": "Q2 2020",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 8348,
-      "portfolio_percentage": 0.04,
-      "company_name": "Southwest Airlines"
-    },
-    {
-      "symbol": "DAL",
-      "manager_id": "GC",
-      "action": "Sell 100.00%",
-      "date": "Q2 2020",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 9296,
-      "portfolio_percentage": 0.03,
-      "company_name": "Delta Air Lines Inc."
-    },
-    {
-      "symbol": "MHK",
-      "manager_id": "GC",
-      "action": "Sell 100.00%",
-      "date": "Q2 2020",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 3218,
-      "portfolio_percentage": 0.03,
-      "company_name": "Mohawk Industries"
-    },
-    {
-      "symbol": "FIVE",
-      "manager_id": "GC",
-      "action": "Add 7182.20%",
-      "date": "Q1 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 258272,
-      "portfolio_percentage": 2.32,
-      "company_name": "Five Below Inc."
-    },
-    {
-      "symbol": "BAC",
-      "manager_id": "GC",
-      "action": "Add 34.85%",
-      "date": "Q1 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 336010,
-      "portfolio_percentage": 0.91,
-      "company_name": "Bank of America Corp."
-    },
-    {
-      "symbol": "PGR",
-      "manager_id": "GC",
-      "action": "Add 25.62%",
-      "date": "Q1 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 115149,
-      "portfolio_percentage": 1.08,
-      "company_name": "Progressive Corp."
-    },
-    {
-      "symbol": "AAPL",
-      "manager_id": "GC",
-      "action": "Add 10.86%",
-      "date": "Q1 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 924,
-      "portfolio_percentage": 0.01,
-      "company_name": "Apple Inc."
-    },
-    {
-      "symbol": "FAST",
-      "manager_id": "GC",
-      "action": "Add 9.81%",
-      "date": "Q1 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 1600,
-      "portfolio_percentage": 0.0,
-      "company_name": "Fastenal"
-    },
-    {
-      "symbol": "MKL",
-      "manager_id": "GC",
-      "action": "Add 5.61%",
-      "date": "Q1 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 2187,
-      "portfolio_percentage": 0.26,
-      "company_name": "Markel Group Inc."
-    },
-    {
-      "symbol": "GOOGL",
-      "manager_id": "GC",
-      "action": "Add 4.03%",
-      "date": "Q1 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 5140,
-      "portfolio_percentage": 0.04,
-      "company_name": "Alphabet Inc."
-    },
-    {
-      "symbol": "ATHM",
-      "manager_id": "GC",
-      "action": "Buy",
-      "date": "Q1 2020",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 173150,
-      "portfolio_percentage": 1.57,
-      "company_name": "Autohome Inc."
-    },
-    {
-      "symbol": "SNBR",
-      "manager_id": "GC",
-      "action": "Buy",
-      "date": "Q1 2020",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 216108,
-      "portfolio_percentage": 0.53,
-      "company_name": "Sleep Number Corp."
-    },
-    {
-      "symbol": "SSNC",
-      "manager_id": "GC",
-      "action": "Buy",
-      "date": "Q1 2020",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 7895,
-      "portfolio_percentage": 0.04,
-      "company_name": "SS&C Technologies Holdings Inc."
-    },
-    {
-      "symbol": "DAL",
-      "manager_id": "GC",
-      "action": "Buy",
-      "date": "Q1 2020",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 9296,
-      "portfolio_percentage": 0.03,
-      "company_name": "Delta Air Lines Inc."
-    },
-    {
-      "symbol": "ODFL",
-      "manager_id": "GC",
-      "action": "Reduce 0.02%",
-      "date": "Q1 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 2,
-      "portfolio_percentage": 0.0,
-      "company_name": "Old Dominion Freight Line"
-    },
-    {
-      "symbol": "KEYS",
-      "manager_id": "GC",
-      "action": "Reduce 0.66%",
-      "date": "Q1 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 2625,
-      "portfolio_percentage": 0.03,
-      "company_name": "Keysight Technologies Inc."
-    },
-    {
-      "symbol": "TJX",
-      "manager_id": "GC",
-      "action": "Reduce 0.89%",
-      "date": "Q1 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 80,
-      "portfolio_percentage": 0.0,
-      "company_name": "TJX Companies Inc."
-    },
-    {
-      "symbol": "HEI.A",
-      "manager_id": "GC",
-      "action": "Reduce 4.23%",
-      "date": "Q1 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 21219,
-      "portfolio_percentage": 0.17,
-      "company_name": "HEICO Corp. CL A"
-    },
-    {
-      "symbol": "JPM",
-      "manager_id": "GC",
-      "action": "Reduce 5.10%",
-      "date": "Q1 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 17332,
-      "portfolio_percentage": 0.2,
-      "company_name": "JPMorgan Chase & Co."
-    },
-    {
-      "symbol": "KMX",
-      "manager_id": "GC",
-      "action": "Reduce 5.76%",
-      "date": "Q1 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 67385,
-      "portfolio_percentage": 0.46,
-      "company_name": "CarMax Inc."
-    },
-    {
-      "symbol": "GOOG",
-      "manager_id": "GC",
-      "action": "Reduce 6.47%",
-      "date": "Q1 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 47220,
-      "portfolio_percentage": 0.35,
-      "company_name": "Alphabet Inc. CL C"
-    },
-    {
-      "symbol": "V",
-      "manager_id": "GC",
-      "action": "Reduce 6.60%",
-      "date": "Q1 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 20770,
-      "portfolio_percentage": 0.43,
-      "company_name": "Visa Inc."
-    },
-    {
-      "symbol": "BRK.B",
-      "manager_id": "GC",
-      "action": "Reduce 6.73%",
-      "date": "Q1 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 59955,
-      "portfolio_percentage": 1.4,
-      "company_name": "Berkshire Hathaway CL B"
-    },
-    {
-      "symbol": "SCHW",
-      "manager_id": "GC",
-      "action": "Reduce 6.76%",
-      "date": "Q1 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 64380,
-      "portfolio_percentage": 0.28,
-      "company_name": "Charles Schwab Corp."
-    },
-    {
-      "symbol": "META",
-      "manager_id": "GC",
-      "action": "Reduce 7.54%",
-      "date": "Q1 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 13821,
-      "portfolio_percentage": 0.29,
-      "company_name": "Meta Platforms Inc."
-    },
-    {
-      "symbol": "EW",
-      "manager_id": "GC",
-      "action": "Reduce 7.85%",
-      "date": "Q1 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 10089,
-      "portfolio_percentage": 0.24,
-      "company_name": "Edwards Lifesciences Corp."
-    },
-    {
-      "symbol": "HCSG",
-      "manager_id": "GC",
-      "action": "Reduce 7.85%",
-      "date": "Q1 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 25084,
-      "portfolio_percentage": 0.08,
-      "company_name": "Healthcare Services Group"
-    },
-    {
-      "symbol": "OZK",
-      "manager_id": "GC",
-      "action": "Reduce 8.04%",
-      "date": "Q1 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 31099,
-      "portfolio_percentage": 0.07,
-      "company_name": "Bank OZK"
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.933837",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.307660",
+  "scraped_date": "2025-12-01"
 }

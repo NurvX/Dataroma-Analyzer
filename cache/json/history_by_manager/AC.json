@@ -2,6 +2,160 @@
   "manager_id": "AC",
   "activities": [
     {
+      "symbol": "FICO",
+      "manager_id": "AC",
+      "action": "Add 2751.43%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 251701,
+      "portfolio_percentage": 3.75,
+      "company_name": "Fair Isaac Corp."
+    },
+    {
+      "symbol": "CPRT",
+      "manager_id": "AC",
+      "action": "Add 253.06%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 3036760,
+      "portfolio_percentage": 1.36,
+      "company_name": "Copart Inc."
+    },
+    {
+      "symbol": "CCC",
+      "manager_id": "AC",
+      "action": "Add 10.16%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1500000,
+      "portfolio_percentage": 0.14,
+      "company_name": "CCC Intelligent Solutions Hldgs Inc."
+    },
+    {
+      "symbol": "BN",
+      "manager_id": "AC",
+      "action": "Reduce 0.02%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 5024,
+      "portfolio_percentage": 0.0,
+      "company_name": "Brookfield Corp."
+    },
+    {
+      "symbol": "CSGP",
+      "manager_id": "AC",
+      "action": "Reduce 0.03%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 2747,
+      "portfolio_percentage": 0.0,
+      "company_name": "CoStar Group Inc."
+    },
+    {
+      "symbol": "KKR",
+      "manager_id": "AC",
+      "action": "Reduce 1.52%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 134300,
+      "portfolio_percentage": 0.17,
+      "company_name": "KKR & Co. L.P."
+    },
+    {
+      "symbol": "VRSK",
+      "manager_id": "AC",
+      "action": "Reduce 4.17%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 360,
+      "portfolio_percentage": 0.0,
+      "company_name": "Verisk Analytics Inc."
+    },
+    {
+      "symbol": "MA",
+      "manager_id": "AC",
+      "action": "Reduce 4.24%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 139692,
+      "portfolio_percentage": 0.79,
+      "company_name": "Mastercard Inc."
+    },
+    {
+      "symbol": "V",
+      "manager_id": "AC",
+      "action": "Reduce 6.35%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 201480,
+      "portfolio_percentage": 0.69,
+      "company_name": "Visa Inc."
+    },
+    {
+      "symbol": "MCO",
+      "manager_id": "AC",
+      "action": "Reduce 8.09%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 186475,
+      "portfolio_percentage": 0.89,
+      "company_name": "Moody's Corp."
+    },
+    {
+      "symbol": "ORLY",
+      "manager_id": "AC",
+      "action": "Reduce 8.48%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 798286,
+      "portfolio_percentage": 0.86,
+      "company_name": "O'Reilly Automotive"
+    },
+    {
+      "symbol": "ROP",
+      "manager_id": "AC",
+      "action": "Reduce 19.65%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 282795,
+      "portfolio_percentage": 1.41,
+      "company_name": "Roper Technologies Inc."
+    },
+    {
+      "symbol": "DHR",
+      "manager_id": "AC",
+      "action": "Reduce 50.72%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 900569,
+      "portfolio_percentage": 1.78,
+      "company_name": "Danaher Corp."
+    },
+    {
+      "symbol": "AMT",
+      "manager_id": "AC",
+      "action": "Reduce 51.62%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 472406,
+      "portfolio_percentage": 0.91,
+      "company_name": "American Tower Corp."
+    },
+    {
       "symbol": "SOPH",
       "manager_id": "AC",
       "action": "Add 66.22%",
@@ -10846,162 +11000,8 @@
       "shares": 200000,
       "portfolio_percentage": 0.44,
       "company_name": "Hartford Financial Svc.Gp."
-    },
-    {
-      "symbol": "AMT",
-      "manager_id": "AC",
-      "action": "Add 21.67%",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 300535,
-      "portfolio_percentage": 1.97,
-      "company_name": "American Tower Corp."
-    },
-    {
-      "symbol": "CSX",
-      "manager_id": "AC",
-      "action": "Add 12.60%",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 17142,
-      "portfolio_percentage": 0.01,
-      "company_name": "CSX Corp."
-    },
-    {
-      "symbol": "ROST",
-      "manager_id": "AC",
-      "action": "Add 9.82%",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 294800,
-      "portfolio_percentage": 0.89,
-      "company_name": "Ross Stores Inc."
-    },
-    {
-      "symbol": "TROW",
-      "manager_id": "AC",
-      "action": "Add 1.84%",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 605,
-      "portfolio_percentage": 0.0,
-      "company_name": "T. Rowe Price Group"
-    },
-    {
-      "symbol": "DLTR",
-      "manager_id": "AC",
-      "action": "Add 0.62%",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 9040,
-      "portfolio_percentage": 0.04,
-      "company_name": "Dollar Tree Inc."
-    },
-    {
-      "symbol": "ORLY",
-      "manager_id": "AC",
-      "action": "Add 0.34%",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 27660,
-      "portfolio_percentage": 0.02,
-      "company_name": "O'Reilly Automotive"
-    },
-    {
-      "symbol": "MKL",
-      "manager_id": "AC",
-      "action": "Add 0.24%",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 318,
-      "portfolio_percentage": 0.01,
-      "company_name": "Markel Group Inc."
-    },
-    {
-      "symbol": "MCO",
-      "manager_id": "AC",
-      "action": "Buy",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 1000000,
-      "portfolio_percentage": 4.39,
-      "company_name": "Moody's Corp."
-    },
-    {
-      "symbol": "V",
-      "manager_id": "AC",
-      "action": "Buy",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 1200000,
-      "portfolio_percentage": 3.69,
-      "company_name": "Visa Inc."
-    },
-    {
-      "symbol": "SHLDQ-OLD",
-      "manager_id": "AC",
-      "action": "Buy",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 300000,
-      "portfolio_percentage": 2.07,
-      "company_name": "Sears Holdings Corp."
-    },
-    {
-      "symbol": "JEF",
-      "manager_id": "AC",
-      "action": "Buy",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 604200,
-      "portfolio_percentage": 1.64,
-      "company_name": "Jefferies Financial Group Inc."
-    },
-    {
-      "symbol": "LPS",
-      "manager_id": "AC",
-      "action": "Buy",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 140000,
-      "portfolio_percentage": 0.38,
-      "company_name": "Lender Processing Services Inc."
-    },
-    {
-      "symbol": "MTG",
-      "manager_id": "AC",
-      "action": "Buy",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 400000,
-      "portfolio_percentage": 0.21,
-      "company_name": "MGIC Investment"
-    },
-    {
-      "symbol": "UAA",
-      "manager_id": "AC",
-      "action": "Buy",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 168000,
-      "portfolio_percentage": 0.21,
-      "company_name": "Under Armour Inc."
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.701858",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.541828",
+  "scraped_date": "2025-12-01"
 }

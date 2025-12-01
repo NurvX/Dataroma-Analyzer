@@ -2,6 +2,237 @@
   "manager_id": "CCM",
   "activities": [
     {
+      "symbol": "ELV",
+      "manager_id": "CCM",
+      "action": "Add 65.28%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 724349,
+      "portfolio_percentage": 5.43,
+      "company_name": "Elevance Health Inc."
+    },
+    {
+      "symbol": "SLM",
+      "manager_id": "CCM",
+      "action": "Add 10.61%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1118513,
+      "portfolio_percentage": 0.72,
+      "company_name": "SLM Corp."
+    },
+    {
+      "symbol": "MPLX",
+      "manager_id": "CCM",
+      "action": "Add 4.50%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 192441,
+      "portfolio_percentage": 0.22,
+      "company_name": "MPLX LP"
+    },
+    {
+      "symbol": "FNF",
+      "manager_id": "CCM",
+      "action": "Add 0.06%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 2156,
+      "portfolio_percentage": 0.0,
+      "company_name": "Fidelity National Financial Inc."
+    },
+    {
+      "symbol": "KNTK",
+      "manager_id": "CCM",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 1608928,
+      "portfolio_percentage": 1.6,
+      "company_name": "Kinetik Holdings Inc."
+    },
+    {
+      "symbol": "AN",
+      "manager_id": "CCM",
+      "action": "Reduce 0.04%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 467,
+      "portfolio_percentage": 0.0,
+      "company_name": "AutoNation Inc."
+    },
+    {
+      "symbol": "FG",
+      "manager_id": "CCM",
+      "action": "Reduce 0.07%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 3788,
+      "portfolio_percentage": 0.0,
+      "company_name": "F&G Annuities & Life Inc."
+    },
+    {
+      "symbol": "OMF",
+      "manager_id": "CCM",
+      "action": "Reduce 0.96%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 75815,
+      "portfolio_percentage": 0.1,
+      "company_name": "OneMain Holdings"
+    },
+    {
+      "symbol": "BLDR",
+      "manager_id": "CCM",
+      "action": "Reduce 1.20%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 21880,
+      "portfolio_percentage": 0.06,
+      "company_name": "Builders FirstSource Inc."
+    },
+    {
+      "symbol": "AM",
+      "manager_id": "CCM",
+      "action": "Reduce 1.71%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 32446,
+      "portfolio_percentage": 0.01,
+      "company_name": "Antero Midstream Corp."
+    },
+    {
+      "symbol": "LEN",
+      "manager_id": "CCM",
+      "action": "Reduce 7.03%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 151621,
+      "portfolio_percentage": 0.44,
+      "company_name": "Lennar Corp."
+    },
+    {
+      "symbol": "PRI",
+      "manager_id": "CCM",
+      "action": "Reduce 8.62%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 71003,
+      "portfolio_percentage": 0.46,
+      "company_name": "Primerica Inc."
+    },
+    {
+      "symbol": "SNX",
+      "manager_id": "CCM",
+      "action": "Reduce 13.09%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 493258,
+      "portfolio_percentage": 1.87,
+      "company_name": "SYNNEX Corp."
+    },
+    {
+      "symbol": "RYAAY",
+      "manager_id": "CCM",
+      "action": "Reduce 24.07%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1294843,
+      "portfolio_percentage": 1.81,
+      "company_name": "Ryanair Holdings PLC"
+    },
+    {
+      "symbol": "MRP",
+      "manager_id": "CCM",
+      "action": "Reduce 31.62%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 2486098,
+      "portfolio_percentage": 1.94,
+      "company_name": "Millrose Properties"
+    },
+    {
+      "symbol": "DHI",
+      "manager_id": "CCM",
+      "action": "Reduce 38.71%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 447591,
+      "portfolio_percentage": 1.76,
+      "company_name": "D.R. Horton"
+    },
+    {
+      "symbol": "ICLR",
+      "manager_id": "CCM",
+      "action": "Reduce 40.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 2000,
+      "portfolio_percentage": 0.01,
+      "company_name": "ICON plc"
+    },
+    {
+      "symbol": "COF",
+      "manager_id": "CCM",
+      "action": "Reduce 47.37%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 868261,
+      "portfolio_percentage": 4.28,
+      "company_name": "Capital One Financial"
+    },
+    {
+      "symbol": "UNH",
+      "manager_id": "CCM",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 1499,
+      "portfolio_percentage": 0.01,
+      "company_name": "United Health Group Inc."
+    },
+    {
+      "symbol": "SPGI",
+      "manager_id": "CCM",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 401,
+      "portfolio_percentage": 0.0,
+      "company_name": "S&P Global Inc."
+    },
+    {
+      "symbol": "TXN",
+      "manager_id": "CCM",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 1010,
+      "portfolio_percentage": 0.0,
+      "company_name": "Texas Instruments"
+    },
+    {
       "symbol": "UNH",
       "manager_id": "CCM",
       "action": "Add 200.40%",
@@ -9473,7 +9704,7 @@
       "company_name": "Cimpress plc"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "CCM",
       "action": "Sell 100.00%",
       "date": "Q3 2013",
@@ -9594,7 +9825,7 @@
       "company_name": "Higher One Holdings Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "CCM",
       "action": "Reduce 22.01%",
       "date": "Q2 2013",
@@ -9704,7 +9935,7 @@
       "company_name": "Bausch Health"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "CCM",
       "action": "Add 1.97%",
       "date": "Q1 2013",
@@ -9902,7 +10133,7 @@
       "company_name": "Adobe Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "CCM",
       "action": "Reduce 17.53%",
       "date": "Q4 2012",
@@ -10056,7 +10287,7 @@
       "company_name": "Alphabet Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "CCM",
       "action": "Reduce 24.16%",
       "date": "Q3 2012",
@@ -10166,7 +10397,7 @@
       "company_name": "Primerica Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "CCM",
       "action": "Add 10.05%",
       "date": "Q2 2012",
@@ -10342,7 +10573,7 @@
       "company_name": "Comcast Corp. CL A Spl"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "CCM",
       "action": "Reduce 13.69%",
       "date": "Q1 2012",
@@ -10518,7 +10749,7 @@
       "company_name": "Labcorp Holdings Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "CCM",
       "action": "Reduce 6.93%",
       "date": "Q4 2011",
@@ -10628,7 +10859,7 @@
       "company_name": "Alphabet Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "CCM",
       "action": "Add 0.04%",
       "date": "Q3 2011",
@@ -10769,239 +11000,8 @@
       "shares": 644612,
       "portfolio_percentage": 2.89,
       "company_name": "Aon Plc"
-    },
-    {
-      "symbol": "FI",
-      "manager_id": "CCM",
-      "action": "Reduce 0.18%",
-      "date": "Q2 2011",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 18856,
-      "portfolio_percentage": 0.03,
-      "company_name": "Fiserv Inc."
-    },
-    {
-      "symbol": "WLY",
-      "manager_id": "CCM",
-      "action": "Reduce 0.54%",
-      "date": "Q2 2011",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 2647,
-      "portfolio_percentage": 0.01,
-      "company_name": "John Wiley & Sons Inc. 'A'"
-    },
-    {
-      "symbol": "CMCSK-OLD",
-      "manager_id": "CCM",
-      "action": "Reduce 5.18%",
-      "date": "Q2 2011",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 231229,
-      "portfolio_percentage": 0.49,
-      "company_name": "Comcast Corp. CL A Spl"
-    },
-    {
-      "symbol": "USB",
-      "manager_id": "CCM",
-      "action": "Reduce 8.33%",
-      "date": "Q2 2011",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 246715,
-      "portfolio_percentage": 0.55,
-      "company_name": "U.S. Bancorp"
-    },
-    {
-      "symbol": "LH",
-      "manager_id": "CCM",
-      "action": "Reduce 11.36%",
-      "date": "Q2 2011",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 125975,
-      "portfolio_percentage": 1.07,
-      "company_name": "Labcorp Holdings Inc."
-    },
-    {
-      "symbol": "MA",
-      "manager_id": "CCM",
-      "action": "Reduce 12.90%",
-      "date": "Q2 2011",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 608080,
-      "portfolio_percentage": 1.6,
-      "company_name": "Mastercard Inc."
-    },
-    {
-      "symbol": "RYAAY",
-      "manager_id": "CCM",
-      "action": "Reduce 30.28%",
-      "date": "Q2 2011",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 2586778,
-      "portfolio_percentage": 2.65,
-      "company_name": "Ryanair Holdings PLC"
-    },
-    {
-      "symbol": "ACGL",
-      "manager_id": "CCM",
-      "action": "Reduce 33.88%",
-      "date": "Q2 2011",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 2454405,
-      "portfolio_percentage": 2.28,
-      "company_name": "Arch Capital Group Ltd."
-    },
-    {
-      "symbol": "HPQ",
-      "manager_id": "CCM",
-      "action": "Sell 100.00%",
-      "date": "Q2 2011",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 1665618,
-      "portfolio_percentage": 5.84,
-      "company_name": "HP Inc."
-    },
-    {
-      "symbol": "BR",
-      "manager_id": "CCM",
-      "action": "Sell 100.00%",
-      "date": "Q2 2011",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 2772198,
-      "portfolio_percentage": 5.38,
-      "company_name": "Broadridge Financial Solutions"
-    },
-    {
-      "symbol": "MA",
-      "manager_id": "CCM",
-      "action": "Add 12.56%",
-      "date": "Q1 2011",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 525950,
-      "portfolio_percentage": 1.13,
-      "company_name": "Mastercard Inc."
-    },
-    {
-      "symbol": "ACGL",
-      "manager_id": "CCM",
-      "action": "Add 2.76%",
-      "date": "Q1 2011",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 194940,
-      "portfolio_percentage": 0.18,
-      "company_name": "Arch Capital Group Ltd."
-    },
-    {
-      "symbol": "HPQ",
-      "manager_id": "CCM",
-      "action": "Add 0.27%",
-      "date": "Q1 2011",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 4479,
-      "portfolio_percentage": 0.02,
-      "company_name": "HP Inc."
-    },
-    {
-      "symbol": "BHC",
-      "manager_id": "CCM",
-      "action": "Buy",
-      "date": "Q1 2011",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 2391325,
-      "portfolio_percentage": 10.19,
-      "company_name": "Bausch Health"
-    },
-    {
-      "symbol": "AON",
-      "manager_id": "CCM",
-      "action": "Buy",
-      "date": "Q1 2011",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 1645494,
-      "portfolio_percentage": 7.45,
-      "company_name": "Aon Plc"
-    },
-    {
-      "symbol": "WLY",
-      "manager_id": "CCM",
-      "action": "Buy",
-      "date": "Q1 2011",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 490969,
-      "portfolio_percentage": 2.14,
-      "company_name": "John Wiley & Sons Inc. 'A'"
-    },
-    {
-      "symbol": "FI",
-      "manager_id": "CCM",
-      "action": "Reduce 1.52%",
-      "date": "Q1 2011",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 157856,
-      "portfolio_percentage": 0.21,
-      "company_name": "Fiserv Inc."
-    },
-    {
-      "symbol": "RYAAY",
-      "manager_id": "CCM",
-      "action": "Reduce 9.86%",
-      "date": "Q1 2011",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 934358,
-      "portfolio_percentage": 0.89,
-      "company_name": "Ryanair Holdings PLC"
-    },
-    {
-      "symbol": "LH",
-      "manager_id": "CCM",
-      "action": "Reduce 15.41%",
-      "date": "Q1 2011",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 201898,
-      "portfolio_percentage": 1.59,
-      "company_name": "Labcorp Holdings Inc."
-    },
-    {
-      "symbol": "USB",
-      "manager_id": "CCM",
-      "action": "Reduce 23.56%",
-      "date": "Q1 2011",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 913087,
-      "portfolio_percentage": 2.06,
-      "company_name": "U.S. Bancorp"
-    },
-    {
-      "symbol": "BR",
-      "manager_id": "CCM",
-      "action": "Reduce 23.74%",
-      "date": "Q1 2011",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 863148,
-      "portfolio_percentage": 1.68,
-      "company_name": "Broadridge Financial Solutions"
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.747920",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.390183",
+  "scraped_date": "2025-12-01"
 }

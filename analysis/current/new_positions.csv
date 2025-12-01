@@ -1,101 +1,101 @@
 ticker,company_name,action,current_price,manager,manager,period,shares,value,portfolio_percent
-AON,Aon Plc,Buy,340.68,DODGX,Dodge & Cox,Q3 2025,1798700,641380000.0,0.56
-ADM,Archer-Daniels-Midland,Buy,60.53,DODGX,Dodge & Cox,Q3 2025,10007007,597819000.0,0.53
-WTW,Willis Towers Watson plc,Buy,313.1,DODGX,Dodge & Cox,Q3 2025,1389757,480092000.0,0.42
-ADBE,Adobe Inc.,Buy,340.31,DODGX,Dodge & Cox,Q3 2025,1215921,428916000.0,0.38
-FWONK,Liberty Media Corp Formula One Series C,Buy,99.85,cc,William Von Mueffling,Q3 2025,1166139,121803000.0,0.67
-6465.T,Hoshizaki Corp.,Buy,0.0,FPACX,Steven Romick,Q3 2025,793020,29794000.0,0.47
-NEE,NextEra Energy Inc.,Buy,81.4,T,Torray Funds,Q3 2025,238438,18000000.0,2.53
-PEP,PepsiCo Inc.,Buy,146.09,T,Torray Funds,Q3 2025,122623,17221000.0,2.42
-EQIX,Equinix Inc.,Buy,846.01,T,Torray Funds,Q3 2025,21019,16463000.0,2.31
-SSDOY,Shiseido Co. Ltd.,Buy,16.87,FPACX,Steven Romick,Q3 2025,886100,15141000.0,0.24
-CGNX,Cognex Corp.,Buy,41.39,MPGFX,Mairs & Power Growth Fund,Q3 2025,325000,14723000.0,0.26
-PANW,Palo Alto Networks,Buy,220.24,MPGFX,Mairs & Power Growth Fund,Q3 2025,70000,14253000.0,0.25
-PPG,PPG Industries,Buy,97.75,pzfvx,Richard Pzena,Q3 2025,111600,11730000.0,1.98
-LMT,Lockheed Martin Corp.,Buy,491.88,MAVFX,David Katz,Q3 2025,22990,11477000.0,1.06
-MELI,Mercadolibre Inc.,Buy,2327.26,WVALX,Wallace Weitz,Q3 2025,3700,8647000.0,1.06
-STZ,Constellation Brands,Buy,131.38,MAVFX,David Katz,Q3 2025,38878,5236000.0,0.49
-BREE.L,Breedon Group plc,Buy,0.0,TWEBX,Tweedy Browne Co.,Q3 2025,881088,4261000.0,1.01
-VUG,Vanguard Growth ETF,Buy,498.85,T,Torray Funds,Q3 2025,8658,4152000.0,0.58
-STZ,Constellation Brands,Buy,131.38,OFALX,Robert Olstein,Q3 2025,28500,3838000.0,0.72
-AMZN,Amazon.com Inc.,Buy,244.22,OFALX,Robert Olstein,Q3 2025,12500,2745000.0,0.52
-UBER,Uber Technologies Inc.,Buy,96.5,OFALX,Robert Olstein,Q3 2025,28000,2743000.0,0.52
-UNH,United Health Group Inc.,Buy,341.56,hcmax,Hillman Value Fund,Q3 2025,7900,2728000.0,2.7
-WST,West Pharmaceutical Services,Buy,282.07,hcmax,Hillman Value Fund,Q3 2025,10267,2693000.0,2.66
-UPS,United Parcel Service,Buy,96.42,hcmax,Hillman Value Fund,Q3 2025,31868,2662000.0,2.63
-FI,Fiserv Inc.,Buy,66.69,hcmax,Hillman Value Fund,Q3 2025,20304,2618000.0,2.59
-CRM,Salesforce.com,Buy,260.41,RVC,Robert Vinall,Q3 2025,10980,2602000.0,0.48
-SDXOF,Sodexo SA,Buy,0.0,TWEBX,Tweedy Browne Co.,Q3 2025,40076,2531000.0,0.6
-FN,Fabrinet,Buy,440.57,T,Torray Funds,Q3 2025,6740,2458000.0,0.34
-CNI,Canadian Natl Railway Co.,Buy,95.91,MKL,Thomas Gayner,Q3 2025,25000,2358000.0,0.02
-CP,Canadian Pacific Kansas City,Buy,71.95,MKL,Thomas Gayner,Q3 2025,31000,2309000.0,0.02
-AEBI,Aebi Schmidt Holding Ag,Buy,11.15,OFALX,Robert Olstein,Q3 2025,185032,2307000.0,0.44
-BKGFF,Berkeley Group Holdings plc,Buy,0.0,TWEBX,Tweedy Browne Co.,Q3 2025,44185,2286000.0,0.54
-PLUS,ePlus Inc.,Buy,73.16,FPPTX,FPA Queens Road Small Cap Value Fund,Q3 2025,20494,1455000.0,0.15
-EVLV,Evolv Technologies Holdings,Buy,7.74,T,Torray Funds,Q3 2025,164807,1244000.0,0.17
-TSLA,Tesla Inc.,Buy,456.56,T,Torray Funds,Q3 2025,1850,823000.0,0.12
-HURN,Huron Consulting Group Inc.,Buy,164.44,T,Torray Funds,Q3 2025,5400,793000.0,0.11
-MSTR,MicroStrategy Inc.,Buy,269.51,PTNT,Samantha McLemore,Q3 2025,2092,674000.0,0.03
-XOM,Exxon Mobil Corp.,Buy,114.36,MKL,Thomas Gayner,Q3 2025,3000,338000.0,0.0
-SPY,SPDR S&P 500 ETF Trust,Buy,682.06,PTNT,Samantha McLemore,Q3 2025,421,281000.0,0.01
-TSLA,Tesla Inc.,Buy,456.56,MAVFX,David Katz,Q3 2025,595,265000.0,0.02
-UNH,United Health Group Inc.,Buy,341.56,MAVFX,David Katz,Q3 2025,745,257000.0,0.02
-PTC,PTC Inc.,Buy,198.54,T,Torray Funds,Q3 2025,1136,231000.0,0.03
-UNH,United Health Group Inc.,Buy,341.56,BRK,Warren Buffett,Q2 2025,5039564,1572193000.0,0.61
-AMZN,Amazon.com Inc.,Buy,244.22,psc,Bill Ackman,Q2 2025,5823316,1277577000.0,9.31
-LPLA,LPL Financial Holdings Inc.,Buy,377.31,DODGX,Dodge & Cox,Q2 2025,1833630,760406000.0,0.67
-TDY,Teledyne Technologies,Buy,526.82,DODGX,Dodge & Cox,Q2 2025,1133700,754292000.0,0.66
-DIS,Walt Disney Co.,Buy,112.62,vg,Viking Global Investors,Q2 2025,5848066,725219000.0,2.1
-IDXX,IDEXX Laboratories,Buy,629.51,pcm,Polen Capital Management,Q2 2025,1195425,641154000.0,1.97
-APD,Air Products & Chemicals,Buy,242.59,vg,Viking Global Investors,Q2 2025,2154154,607601000.0,1.76
-UNH,United Health Group Inc.,Buy,341.56,LPC,Stephen Mandel,Q2 2025,1693347,528273000.0,3.82
-FERG,Ferguson Enterprises Inc.,Buy,248.5,EC,John Armitage,Q2 2025,2233326,486307000.0,4.99
-PDD,Pinduoduo Inc.,Buy,134.87,HC,Li Lu,Q2 2025,4608000,482273000.0,17.93
-PNC,PNC Financial Services,Buy,182.55,vg,Viking Global Investors,Q2 2025,2375664,442871000.0,1.28
-EQT,EQT Corp.,Buy,53.58,LPC,Stephen Mandel,Q2 2025,7518227,438463000.0,3.17
-CHYM,Chime Financial Inc Cl A,Buy,17.17,TGM,Chase Coleman,Q2 2025,12470768,430366000.0,1.26
-XYZ,Block Inc.,Buy,75.94,vg,Viking Global Investors,Q2 2025,5420475,368213000.0,1.06
-BN,Brookfield Corp.,Buy,46.05,LPC,Stephen Mandel,Q2 2025,8432077,347683000.0,2.52
-BKNG,Booking Holdings Inc.,Buy,5077.74,LPC,Stephen Mandel,Q2 2025,59972,347192000.0,2.51
-WIX,Wix.com Ltd.,Buy,145.54,LPC,Stephen Mandel,Q2 2025,2161331,342485000.0,2.48
-LLY,Eli Lilly & Co.,Buy,862.86,vg,Viking Global Investors,Q2 2025,416918,325000000.0,0.94
-RAL,Ralliant Corp.,Buy,43.92,DODGX,Dodge & Cox,Q2 2025,6854267,299737000.0,0.26
-STX,Seagate Technology,Buy,255.88,EC,John Armitage,Q2 2025,2051434,296083000.0,3.04
-NVDA,NVIDIA Corp.,Buy,202.49,JIM,Jensen Investment Management,Q2 2025,1747996,276166000.0,3.24
-MCHP,Microchip Technology,Buy,62.42,DODGX,Dodge & Cox,Q2 2025,4227400,271484000.0,0.24
-AMD,Advanced Micro Devices,Buy,256.12,vg,Viking Global Investors,Q2 2025,1910571,271110000.0,0.78
-CRM,Salesforce.com,Buy,260.41,oaklx,Bill Nygren,Q2 2025,956000,260692000.0,3.75
-CSGP,CoStar Group Inc.,Buy,68.81,vg,Viking Global Investors,Q2 2025,3218568,258773000.0,0.75
-RAL,Ralliant Corp.,Buy,43.92,vg,Viking Global Investors,Q2 2025,5304195,257200000.0,0.74
-CTRA,Coterra Energy Inc.,Buy,23.66,DAV,Christopher Davis,Q2 2025,9338141,237002000.0,1.27
-SAIA,Saia Inc.,Buy,292.5,vg,Viking Global Investors,Q2 2025,827659,226770000.0,0.66
-SSD,Simpson Manufacturing,Buy,176.5,VA,ValueAct Capital,Q2 2025,1406105,218382000.0,3.9
-BLK,BlackRock Inc.,Buy,1082.81,vg,Viking Global Investors,Q2 2025,195104,204713000.0,0.59
-FLR,Fluor Corp.,Buy,48.77,GLRE,David Einhorn,Q2 2025,3819580,195830000.0,8.42
-TTD,Trade Desk Inc.,Buy,50.28,vg,Viking Global Investors,Q2 2025,2674320,192524000.0,0.56
-DIS,Walt Disney Co.,Buy,112.62,mc,Lee Ainslie,Q2 2025,1508487,187067000.0,2.87
-INTC,Intel Corp.,Buy,39.99,AM,David Tepper,Q2 2025,8000000,179200000.0,2.78
-BSX,Boston Scientific,Buy,100.72,EC,John Armitage,Q2 2025,1640956,176255000.0,1.81
-CART,Maplebear Inc,Buy,36.86,vg,Viking Global Investors,Q2 2025,3752924,169782000.0,0.49
-CME,CME Group,Buy,265.49,vg,Viking Global Investors,Q2 2025,597374,164648000.0,0.48
-LLY,Eli Lilly & Co.,Buy,862.86,JIM,Jensen Investment Management,Q2 2025,206612,161060000.0,1.89
-AIG,American International Group,Buy,78.96,vg,Viking Global Investors,Q2 2025,1815785,155413000.0,0.45
-FI,Fiserv Inc.,Buy,66.69,BAUPOST,Seth Klarman,Q2 2025,895000,154307000.0,3.75
-JCI,Johnson Controls Intl. plc,Buy,114.39,vg,Viking Global Investors,Q2 2025,1450812,153235000.0,0.44
-META,Meta Platforms Inc.,Buy,648.35,JIM,Jensen Investment Management,Q2 2025,203412,150136000.0,1.76
-META,Meta Platforms Inc.,Buy,648.35,MPGFX,Mairs & Power Growth Fund,Q2 2025,175000,146876000.0,2.59
-MDB,MongoDB Inc.,Buy,359.82,VA,ValueAct Capital,Q2 2025,690500,144998000.0,2.59
-LAMR,Lamar Advertising Co.,Buy,118.59,BRK,Warren Buffett,Q2 2025,1169507,141931000.0,0.06
-BULL,Webull Corp,Buy,10.82,TGM,Chase Coleman,Q2 2025,11724137,140221000.0,0.41
-COOP-OLD,Mr. Cooper Group Inc.,Buy,210.79,tp,Daniel Loeb,Q2 2025,925000,138019000.0,1.83
-COOP-OLD,Mr. Cooper Group Inc.,Buy,210.79,VA,ValueAct Capital,Q2 2025,904800,135005000.0,2.41
-FERG,Ferguson Enterprises Inc.,Buy,248.5,FE,First Eagle Investment Management,Q2 2025,600000,130650000.0,0.26
-MASI,Masimo Corp.,Buy,140.65,vg,Viking Global Investors,Q2 2025,767426,129096000.0,0.37
-UNH,United Health Group Inc.,Buy,341.56,PTNT,Samantha McLemore,Q2 2025,191932,128232000.0,5.13
-AMRZ.SW,AMRIZE Ltd.,Buy,0.0,FPACX,Steven Romick,Q2 2025,2429341,117149000.0,1.87
-ALLE,Allegion Plc,Buy,165.77,BRK,Warren Buffett,Q2 2025,780133,112433000.0,0.04
-META,Meta Platforms Inc.,Buy,648.35,tp,Daniel Loeb,Q2 2025,150000,110714000.0,1.47
-CRL,Charles River Labs,Buy,180.07,oaklx,Bill Nygren,Q2 2025,678000,102873000.0,1.48
-ICLR,ICON plc,Buy,171.82,oaklx,Bill Nygren,Q2 2025,693000,100797000.0,1.45
-BAC,Bank of America Corp.,Buy,53.45,SSHFX,Harry Burn,Q2 2025,2100071,99375000.0,3.39
-FIX,Comfort Systems USA Inc.,Buy,965.58,tp,Daniel Loeb,Q2 2025,185000,99199000.0,1.32
+GOOGL,Alphabet Inc.,Buy,320.18,BRK,Warren Buffett,Q3 2025,17846142,4338397000.0,1.62
+AVGO,Broadcom Inc.,Buy,402.96,pcm,Polen Capital Management,Q3 2025,4485854,1479928000.0,4.8
+MSFT,Microsoft Corp.,Buy,492.01,vg,Viking Global Investors,Q3 2025,2429412,1258314000.0,3.27
+AON,Aon Plc,Buy,353.92,DODGX,Dodge & Cox,Q3 2025,1798700,641380000.0,0.54
+NFLX,Netflix Inc.,Buy,107.58,vg,Viking Global Investors,Q3 2025,5008120,600434000.0,1.56
+ADM,Archer-Daniels-Midland,Buy,60.74,DODGX,Dodge & Cox,Q3 2025,10007007,597819000.0,0.5
+DKNG,DraftKings Inc.,Buy,33.16,vg,Viking Global Investors,Q3 2025,15003351,561125000.0,1.46
+WDAY,Workday Inc.,Buy,215.62,FE,First Eagle Investment Management,Q3 2025,2310688,556252000.0,1.01
+BSX,Boston Scientific,Buy,101.58,pcm,Polen Capital Management,Q3 2025,5598286,546561000.0,1.77
+SNPS,Synopsys Inc.,Buy,418.01,pcm,Polen Capital Management,Q3 2025,1044800,515494000.0,1.67
+OMC,Omnicom Group,Buy,71.62,FE,First Eagle Investment Management,Q3 2025,6318477,515145000.0,0.94
+AVGO,Broadcom Inc.,Buy,402.96,LPC,Stephen Mandel,Q3 2025,1549412,511167000.0,3.72
+AON,Aon Plc,Buy,353.92,vg,Viking Global Investors,Q3 2025,1414618,504424000.0,1.31
+NSC,Norfolk Southern Corp.,Buy,292.09,tp,Daniel Loeb,Q3 2025,1650000,495677000.0,5.97
+WTW,Willis Towers Watson plc,Buy,321.0,DODGX,Dodge & Cox,Q3 2025,1389757,480092000.0,0.41
+INTU,Intuit Inc.,Buy,634.08,pcm,Polen Capital Management,Q3 2025,661727,451900000.0,1.47
+ADBE,Adobe Inc.,Buy,320.13,DODGX,Dodge & Cox,Q3 2025,1215921,428916000.0,0.36
+VMC,Vulcan Materials,Buy,297.24,LPC,Stephen Mandel,Q3 2025,1384624,425938000.0,3.1
+CLS,Celestica Inc,Buy,344.41,vg,Viking Global Investors,Q3 2025,1722780,424459000.0,1.1
+NU,Nu Holdings Ltd,Buy,17.39,LPC,Stephen Mandel,Q3 2025,25406449,406757000.0,2.96
+WING,Wingstop Inc.,Buy,264.73,LPC,Stephen Mandel,Q3 2025,1491245,375317000.0,2.73
+APH,Amphenol Corp.,Buy,140.9,LPC,Stephen Mandel,Q3 2025,3023231,374125000.0,2.72
+MAA,Mid-America Apt Communties,Buy,135.89,vg,Viking Global Investors,Q3 2025,2645082,369597000.0,0.96
+UNP,Union Pacific,Buy,231.83,BAUPOST,Seth Klarman,Q3 2025,1496204,353658000.0,7.43
+KKR,KKR & Co. L.P.,Buy,122.31,vg,Viking Global Investors,Q3 2025,2709024,352038000.0,0.91
+SE,Sea Ltd,Buy,139.01,LPC,Stephen Mandel,Q3 2025,1869501,334136000.0,2.43
+SATS,EchoStar Corp.,Buy,73.29,ic,Carl Icahn,Q3 2025,4354542,332513000.0,3.64
+CIEN,Ciena Corp.,Buy,204.21,LPC,Stephen Mandel,Q3 2025,2006662,292310000.0,2.13
+UNP,Union Pacific,Buy,231.83,mc,Lee Ainslie,Q3 2025,1115610,263697000.0,3.53
+ETSY,Etsy Inc.,Buy,54.22,LPC,Stephen Mandel,Q3 2025,3880316,257614000.0,1.87
+PINS,Pinterest Inc.,Buy,26.12,DAV,Christopher Davis,Q3 2025,7892057,253887000.0,1.33
+SGI,Somnigroup International Inc.,Buy,91.52,tp,Daniel Loeb,Q3 2025,3000000,252990000.0,3.05
+NFLX,Netflix Inc.,Buy,107.58,TGM,Chase Coleman,Q3 2025,2019000,242062000.0,0.75
+VNOM,Viper Energy Inc.,Buy,36.53,oc,Howard Marks,Q3 2025,6285062,240215000.0,5.07
+EW,Edwards Lifesciences Corp.,Buy,86.67,vg,Viking Global Investors,Q3 2025,3069151,238688000.0,0.62
+AVTR,Avantor Inc.,Buy,11.73,GA,Greenhaven Associates,Q3 2025,18311570,228528000.0,3.48
+RTX,RTX Corp.,Buy,174.91,mc,Lee Ainslie,Q3 2025,1359585,227499000.0,3.04
+CHWY,Chewy Inc.,Buy,34.77,vg,Viking Global Investors,Q3 2025,5483690,221815000.0,0.58
+DB,Deutsche Bank AG,Buy,35.57,vg,Viking Global Investors,Q3 2025,6102855,214593000.0,0.56
+UNP,Union Pacific,Buy,231.83,tp,Daniel Loeb,Q3 2025,875000,206824000.0,2.49
+GPC,Genuine Parts,Buy,130.4,BAUPOST,Seth Klarman,Q3 2025,1395000,193347000.0,4.06
+CBRE,CBRE Group,Buy,161.83,vg,Viking Global Investors,Q3 2025,1210004,190648000.0,0.5
+ASML,ASML Holding NV,Buy,1060.0,mc,Lee Ainslie,Q3 2025,190394,184319000.0,2.47
+INTU,Intuit Inc.,Buy,634.08,vg,Viking Global Investors,Q3 2025,264136,180381000.0,0.47
+PAAS,Pan American Silver Corp.,Buy,45.67,FE,First Eagle Investment Management,Q3 2025,4594534,178004000.0,0.32
+DECK,Deckers Outdoor,Buy,88.03,vg,Viking Global Investors,Q3 2025,1726926,175058000.0,0.45
+TECH,Bio-Techne Corp.,Buy,64.51,mc,Lee Ainslie,Q3 2025,3012654,167594000.0,2.24
+MTZ,MasTec Inc.,Buy,213.88,tp,Daniel Loeb,Q3 2025,725000,154287000.0,1.86
+AMD,Advanced Micro Devices,Buy,217.53,AM,David Tepper,Q3 2025,950000,153701000.0,2.08
+TDS,Telephone & Data Systems,Buy,40.27,oc,Howard Marks,Q3 2025,3688386,144732000.0,3.05
+BAX,Baxter International Inc.,Buy,18.74,GA,Greenhaven Associates,Q3 2025,6288349,143186000.0,2.18
+EMBJ,Embraer SA,Buy,62.72,EC,John Armitage,Q3 2025,2117012,127973000.0,1.35
+TOST,Toast Inc.,Buy,34.19,VA,ValueAct Capital,Q3 2025,3397200,124032000.0,2.09
+TRU,TransUnion,Buy,85.05,EC,John Armitage,Q3 2025,1465050,122742000.0,1.29
+FWONK,Liberty Media Corp Formula One Series C,Buy,95.98,cc,William Von Mueffling,Q3 2025,1166139,121803000.0,0.67
+FISV,Fiserv Inc.,Buy,61.47,AM,David Tepper,Q3 2025,925000,119260000.0,1.62
+DKS,Dick's Sporting Goods Inc.,Buy,206.57,mc,Lee Ainslie,Q3 2025,533000,118443000.0,1.58
+CORZ,Core Scientific Inc,Buy,16.89,oc,Howard Marks,Q3 2025,6400708,114829000.0,2.42
+MDB,MongoDB Inc.,Buy,332.37,TGM,Chase Coleman,Q3 2025,341000,105840000.0,0.33
+AAL,American Airlines Group Inc.,Buy,14.05,AM,David Tepper,Q3 2025,9250000,103970000.0,1.41
+FND,Floor & Decor Holdings,Buy,63.62,tp,Daniel Loeb,Q3 2025,1330000,98021000.0,1.18
+FTAI,FTAI Aviation Ltd.,Buy,173.24,oc,Howard Marks,Q3 2025,585175,97642000.0,2.06
+PCG,PG&E Corp.,Buy,16.12,GLRE,David Einhorn,Q3 2025,6380853,96223000.0,3.79
+QCOM,QUALCOMM Inc.,Buy,168.09,SSHFX,Harry Burn,Q3 2025,568454,94568000.0,3.13
+MNST,Monster Beverage Corp.,Buy,74.99,mc,Lee Ainslie,Q3 2025,1341965,90328000.0,1.21
+LAMR,Lamar Advertising Co.,Buy,132.39,EC,John Armitage,Q3 2025,723857,88615000.0,0.93
+CARR,Carrier Global Corp.,Buy,54.88,CAU,Sarah Ketterer,Q3 2025,1466481,87549000.0,1.16
+SCHW,Charles Schwab Corp.,Buy,92.73,mc,Lee Ainslie,Q3 2025,870072,83066000.0,1.11
+RPRX,Royalty Pharma plc,Buy,40.02,DA,Pat Dorsey,Q3 2025,2350449,82924000.0,7.45
+CVNA,Carvana Co.,Buy,374.5,mc,Lee Ainslie,Q3 2025,217552,82069000.0,1.1
+Z,Zillow Group Inc.,Buy,74.38,mc,Lee Ainslie,Q3 2025,1031622,79486000.0,1.06
+ASML,ASML Holding NV,Buy,1060.0,HH,Duan Yongping,Q3 2025,80000,77447000.0,0.53
+RIG,Transocean Ltd.,Buy,4.41,PI,Mohnish Pabrai,Q3 2025,24442332,76260000.0,22.64
+CHKP,Check Point Software Technologies,Buy,186.77,SSHFX,Harry Burn,Q3 2025,353313,73104000.0,2.42
+MRVL,Marvell Technology Inc.,Buy,89.4,SSHFX,Harry Burn,Q3 2025,860774,72365000.0,2.39
+NU,Nu Holdings Ltd,Buy,17.39,oc,Howard Marks,Q3 2025,4518884,72347000.0,1.53
+KNTK,Kinetik Holdings Inc.,Buy,34.68,CCM,Glenn Greenberg,Q3 2025,1608928,68766000.0,1.6
+BN,Brookfield Corp.,Buy,47.0,GLC,Josh Tarasoff,Q3 2025,1428322,65303000.0,19.04
+REGN,Regeneron Pharmaceuticals,Buy,780.19,SSHFX,Harry Burn,Q3 2025,115028,64677000.0,2.14
+RMD,ResMed Inc.,Buy,255.83,GC,Francois Rochon,Q3 2025,235418,64441000.0,2.18
+TFC,Truist Financial Corp.,Buy,46.5,AM,David Tepper,Q3 2025,1387500,63437000.0,0.86
+EG,Everest Group Ltd,Buy,314.29,CAU,Sarah Ketterer,Q3 2025,175686,61531000.0,0.82
+KD,Kyndryl Holdings Inc,Buy,25.83,SSHFX,Harry Burn,Q3 2025,2035069,61113000.0,2.02
+RYN,Rayonier Inc.,Buy,22.21,LLPFX,Mason Hawkins,Q3 2025,2249038,59689000.0,6.22
+CP,Canadian Pacific Kansas City,Buy,72.57,AKO,AKO Capital,Q3 2025,799560,59559000.0,0.85
+CELH,Celsius Holdings Inc.,Buy,40.94,mc,Lee Ainslie,Q3 2025,1031603,59307000.0,0.79
+CORZ,Core Scientific Inc,Buy,16.89,tp,Daniel Loeb,Q3 2025,3000000,53820000.0,0.65
+ORKA,Oruka Therapeutics Inc,Buy,30.1,vg,Viking Global Investors,Q3 2025,2666690,51280000.0,0.13
+TSM,Taiwan Semiconductor S.A.,Buy,291.51,pcm,Polen Capital Management,Q3 2025,177059,49451000.0,0.16
+CHYM,Chime Financial Inc Cl A,Buy,21.13,DAV,Christopher Davis,Q3 2025,2399166,48391000.0,0.25
+SATS,EchoStar Corp.,Buy,73.29,oc,Howard Marks,Q3 2025,600000,45816000.0,0.97
+AVTR,Avantor Inc.,Buy,11.73,LLPFX,Mason Hawkins,Q3 2025,3639654,45423000.0,4.73
+COLD,Americold Realty Trust,Buy,10.83,BAUPOST,Seth Klarman,Q3 2025,3600000,44064000.0,0.93
+PCH,PotlatchDeltic Corp.,Buy,40.24,LLPFX,Mason Hawkins,Q3 2025,1055228,43001000.0,4.48
+AMRZ,Amrize Ltd,Buy,51.51,oa,Leon Cooperman,Q3 2025,880000,42706000.0,1.33
+MDB,MongoDB Inc.,Buy,332.37,mc,Lee Ainslie,Q3 2025,136932,42501000.0,0.57
+PDD,Pinduoduo Inc.,Buy,116.08,CAU,Sarah Ketterer,Q3 2025,309641,40925000.0,0.54
+CDTX,Cidara Therapeutics Inc.,Buy,219.88,mc,Lee Ainslie,Q3 2025,417550,39985000.0,0.54
+CGNX,Cognex Corp.,Buy,38.1,ENG,Glenn Welling,Q3 2025,855000,38732000.0,9.5
+XP,XP Inc.,Buy,19.71,oc,Howard Marks,Q3 2025,2032877,38198000.0,0.81

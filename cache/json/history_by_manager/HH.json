@@ -2,6 +2,83 @@
   "manager_id": "HH",
   "activities": [
     {
+      "symbol": "BRK.B",
+      "manager_id": "HH",
+      "action": "Add 53.53%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1810000,
+      "portfolio_percentage": 6.2,
+      "company_name": "Berkshire Hathaway CL B"
+    },
+    {
+      "symbol": "ASML",
+      "manager_id": "HH",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 80000,
+      "portfolio_percentage": 0.53,
+      "company_name": "ASML Holding NV"
+    },
+    {
+      "symbol": "AAPL",
+      "manager_id": "HH",
+      "action": "Reduce 0.82%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 289500,
+      "portfolio_percentage": 0.5,
+      "company_name": "Apple Inc."
+    },
+    {
+      "symbol": "PDD",
+      "manager_id": "HH",
+      "action": "Reduce 1.02%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 88500,
+      "portfolio_percentage": 0.08,
+      "company_name": "Pinduoduo Inc."
+    },
+    {
+      "symbol": "GOOG",
+      "manager_id": "HH",
+      "action": "Reduce 6.93%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 134900,
+      "portfolio_percentage": 0.22,
+      "company_name": "Alphabet Inc. CL C"
+    },
+    {
+      "symbol": "BABA",
+      "manager_id": "HH",
+      "action": "Reduce 25.86%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 968900,
+      "portfolio_percentage": 1.18,
+      "company_name": "Alibaba Group Holdings"
+    },
+    {
+      "symbol": "NVDA",
+      "manager_id": "HH",
+      "action": "Reduce 38.04%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 367000,
+      "portfolio_percentage": 0.47,
+      "company_name": "NVIDIA Corp."
+    },
+    {
       "symbol": "GOOG",
       "manager_id": "HH",
       "action": "Add 75.17%",
@@ -992,6 +1069,6 @@
       "company_name": "Zoom Video Communications Inc."
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.836332",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.488047",
+  "scraped_date": "2025-12-01"
 }

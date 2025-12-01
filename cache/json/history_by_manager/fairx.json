@@ -4,6 +4,39 @@
     {
       "symbol": "OZK",
       "manager_id": "fairx",
+      "action": "Reduce 0.12%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1100,
+      "portfolio_percentage": 0.0,
+      "company_name": "Bank OZK"
+    },
+    {
+      "symbol": "BRK.B",
+      "manager_id": "fairx",
+      "action": "Reduce 0.33%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 160,
+      "portfolio_percentage": 0.01,
+      "company_name": "Berkshire Hathaway CL B"
+    },
+    {
+      "symbol": "JOE",
+      "manager_id": "fairx",
+      "action": "Reduce 3.10%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 625800,
+      "portfolio_percentage": 2.5,
+      "company_name": "St. Joe Co."
+    },
+    {
+      "symbol": "OZK",
+      "manager_id": "fairx",
       "action": "Add 45.15%",
       "date": "Q2 2025",
       "percentage_change": 0.0,
@@ -3808,7 +3841,7 @@
       "company_name": "Jefferies Financial Group Inc."
     },
     {
-      "symbol": "MRC",
+      "symbol": "MRC-OLD",
       "manager_id": "fairx",
       "action": "Sell 100.00%",
       "date": "Q1 2016",
@@ -3929,7 +3962,7 @@
       "company_name": "Sears Holdings Corp."
     },
     {
-      "symbol": "MRC",
+      "symbol": "MRC-OLD",
       "manager_id": "fairx",
       "action": "Add 5.68%",
       "date": "Q4 2015",
@@ -4226,7 +4259,7 @@
       "company_name": "Nov Inc."
     },
     {
-      "symbol": "MRC",
+      "symbol": "MRC-OLD",
       "manager_id": "fairx",
       "action": "Buy",
       "date": "Q3 2015",
@@ -9044,6 +9077,6 @@
       "company_name": "Duke Energy"
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.675136",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.382271",
+  "scraped_date": "2025-12-01"
 }

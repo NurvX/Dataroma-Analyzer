@@ -4,6 +4,127 @@
     {
       "symbol": "ASML",
       "manager_id": "DA",
+      "action": "Add 23.74%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 33237,
+      "portfolio_percentage": 2.89,
+      "company_name": "ASML Holding NV"
+    },
+    {
+      "symbol": "RPRX",
+      "manager_id": "DA",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 2350449,
+      "portfolio_percentage": 7.45,
+      "company_name": "Royalty Pharma plc"
+    },
+    {
+      "symbol": "ENOV",
+      "manager_id": "DA",
+      "action": "Reduce 6.03%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 153858,
+      "portfolio_percentage": 0.42,
+      "company_name": "Enovis Corp."
+    },
+    {
+      "symbol": "DHR",
+      "manager_id": "DA",
+      "action": "Reduce 7.14%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 66142,
+      "portfolio_percentage": 1.18,
+      "company_name": "Danaher Corp."
+    },
+    {
+      "symbol": "AER",
+      "manager_id": "DA",
+      "action": "Reduce 7.14%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 97120,
+      "portfolio_percentage": 1.06,
+      "company_name": "AerCap Holdings N.V."
+    },
+    {
+      "symbol": "BKNG",
+      "manager_id": "DA",
+      "action": "Reduce 7.19%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1315,
+      "portfolio_percentage": 0.64,
+      "company_name": "Booking Holdings Inc."
+    },
+    {
+      "symbol": "AZO",
+      "manager_id": "DA",
+      "action": "Reduce 16.23%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 5789,
+      "portfolio_percentage": 2.23,
+      "company_name": "AutoZone Inc."
+    },
+    {
+      "symbol": "META",
+      "manager_id": "DA",
+      "action": "Reduce 21.58%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 52884,
+      "portfolio_percentage": 3.49,
+      "company_name": "Meta Platforms Inc."
+    },
+    {
+      "symbol": "GOOG",
+      "manager_id": "DA",
+      "action": "Reduce 35.15%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 232672,
+      "portfolio_percentage": 5.09,
+      "company_name": "Alphabet Inc. CL C"
+    },
+    {
+      "symbol": "WIX",
+      "manager_id": "DA",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 146777,
+      "portfolio_percentage": 2.09,
+      "company_name": "Wix.com Ltd."
+    },
+    {
+      "symbol": "SEMR",
+      "manager_id": "DA",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 2284578,
+      "portfolio_percentage": 1.85,
+      "company_name": "SEMrush Holdings Inc."
+    },
+    {
+      "symbol": "ASML",
+      "manager_id": "DA",
       "action": "Add 98.37%",
       "date": "Q2 2025",
       "percentage_change": 0.0,
@@ -3929,6 +4050,6 @@
       "company_name": "Roper Technologies Inc."
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.840059",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.494965",
+  "scraped_date": "2025-12-01"
 }

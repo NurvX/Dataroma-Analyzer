@@ -13,7 +13,7 @@
       "company_name": "Ralliant Corp."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "OFALX",
       "action": "Add 84.13%",
       "date": "Q3 2025",
@@ -208,7 +208,7 @@
       "action_type": "Add",
       "shares": 115000,
       "portfolio_percentage": 0.27,
-      "company_name": "Avantor arinc."
+      "company_name": "Avantor Inc."
     },
     {
       "symbol": "LUV",
@@ -981,7 +981,7 @@
       "company_name": "United Health Group Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "OFALX",
       "action": "Add 65.79%",
       "date": "Q2 2025",
@@ -1033,7 +1033,7 @@
       "action_type": "Add",
       "shares": 111000,
       "portfolio_percentage": 0.28,
-      "company_name": "Avantor arinc."
+      "company_name": "Avantor Inc."
     },
     {
       "symbol": "BDX",
@@ -1968,7 +1968,7 @@
       "action_type": "Add",
       "shares": 212000,
       "portfolio_percentage": 0.63,
-      "company_name": "Avantor arinc."
+      "company_name": "Avantor Inc."
     },
     {
       "symbol": "CMCSA",
@@ -2969,7 +2969,7 @@
       "action_type": "Add",
       "shares": 121000,
       "portfolio_percentage": 0.45,
-      "company_name": "Avantor arinc."
+      "company_name": "Avantor Inc."
     },
     {
       "symbol": "TGT",
@@ -3181,7 +3181,7 @@
       "company_name": "Douglas Dynamics"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "OFALX",
       "action": "Add 11.76%",
       "date": "Q4 2024",
@@ -4017,7 +4017,7 @@
       "company_name": "Walt Disney Co."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "OFALX",
       "action": "Add 30.77%",
       "date": "Q3 2024",
@@ -4619,7 +4619,7 @@
       "action_type": "Reduce",
       "shares": 56184,
       "portfolio_percentage": 0.25,
-      "company_name": "Avantor arinc."
+      "company_name": "Avantor Inc."
     },
     {
       "symbol": "EFX",
@@ -5249,7 +5249,7 @@
       "company_name": "Henry Schein Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "OFALX",
       "action": "Buy",
       "date": "Q2 2024",
@@ -5290,7 +5290,7 @@
       "action_type": "Reduce",
       "shares": 3000,
       "portfolio_percentage": 0.01,
-      "company_name": "Avantor arinc."
+      "company_name": "Avantor Inc."
     },
     {
       "symbol": "HOMB",
@@ -6137,7 +6137,7 @@
       "action_type": "Reduce",
       "shares": 20816,
       "portfolio_percentage": 0.09,
-      "company_name": "Avantor arinc."
+      "company_name": "Avantor Inc."
     },
     {
       "symbol": "MCO",
@@ -6808,7 +6808,7 @@
       "action_type": "Add",
       "shares": 9000,
       "portfolio_percentage": 0.03,
-      "company_name": "Avantor arinc."
+      "company_name": "Avantor Inc."
     },
     {
       "symbol": "MHK",
@@ -8392,7 +8392,7 @@
       "action_type": "Add",
       "shares": 165000,
       "portfolio_percentage": 0.55,
-      "company_name": "Avantor arinc."
+      "company_name": "Avantor Inc."
     },
     {
       "symbol": "DE",
@@ -9734,7 +9734,7 @@
       "action_type": "Buy",
       "shares": 141000,
       "portfolio_percentage": 0.47,
-      "company_name": "Avantor arinc."
+      "company_name": "Avantor Inc."
     },
     {
       "symbol": "WTW",
@@ -11002,6 +11002,6 @@
       "company_name": "Hologic Inc."
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.520721",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.735799",
+  "scraped_date": "2025-12-01"
 }

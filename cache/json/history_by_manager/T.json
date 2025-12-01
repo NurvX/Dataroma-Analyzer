@@ -552,7 +552,7 @@
       "company_name": "Adobe Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "T",
       "action": "Reduce 1.90%",
       "date": "Q3 2025",
@@ -1905,7 +1905,7 @@
       "company_name": "W.R. Berkley Corp."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "T",
       "action": "Reduce 61.01%",
       "date": "Q2 2025",
@@ -2752,7 +2752,7 @@
       "company_name": "Amgen"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "T",
       "action": "Reduce 5.06%",
       "date": "Q1 2025",
@@ -3753,7 +3753,7 @@
       "company_name": "American Express"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "T",
       "action": "Reduce 17.14%",
       "date": "Q4 2024",
@@ -4402,7 +4402,7 @@
       "company_name": "AbbVie Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "T",
       "action": "Add 0.07%",
       "date": "Q3 2024",
@@ -5700,7 +5700,7 @@
       "company_name": "Rolls Royce Holdings Sp ADR"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "T",
       "action": "Reduce 0.07%",
       "date": "Q2 2024",
@@ -6503,7 +6503,7 @@
       "company_name": "Lonza Group Ag Unspon ADR"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "T",
       "action": "Reduce 0.61%",
       "date": "Q1 2024",
@@ -7416,7 +7416,7 @@
       "company_name": "Tyler Technologies Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "T",
       "action": "Add 0.35%",
       "date": "Q4 2023",
@@ -8494,7 +8494,7 @@
       "company_name": "Lonza Group Ag Unspon ADR"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "T",
       "action": "Reduce 1.40%",
       "date": "Q3 2023",
@@ -9429,7 +9429,7 @@
       "company_name": "Sherwin-Williams"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "T",
       "action": "Reduce 0.56%",
       "date": "Q2 2023",
@@ -10287,7 +10287,7 @@
       "company_name": "Alphabet Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "T",
       "action": "Reduce 0.14%",
       "date": "Q1 2023",
@@ -10705,7 +10705,7 @@
       "company_name": "Pool Corp."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "T",
       "action": "Add 177.45%",
       "date": "Q4 2022",
@@ -11002,6 +11002,6 @@
       "company_name": "Altria Group Inc."
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.510310",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.724902",
+  "scraped_date": "2025-12-01"
 }

@@ -1311,7 +1311,7 @@
       "company_name": "Western Alliance Bancorp"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "PTNT",
       "action": "Sell 100.00%",
       "date": "Q1 2025",
@@ -1773,7 +1773,7 @@
       "company_name": "Western Alliance Bancorp"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "PTNT",
       "action": "Reduce 92.44%",
       "date": "Q4 2024",
@@ -2158,7 +2158,7 @@
       "company_name": "Expedia Group Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "PTNT",
       "action": "Reduce 30.68%",
       "date": "Q3 2024",
@@ -2576,7 +2576,7 @@
       "company_name": "Coinbase Global Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "PTNT",
       "action": "Reduce 17.89%",
       "date": "Q2 2024",
@@ -2961,7 +2961,7 @@
       "company_name": "Coinbase Global Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "PTNT",
       "action": "Reduce 9.05%",
       "date": "Q1 2024",
@@ -3401,7 +3401,7 @@
       "company_name": "Alphabet Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "PTNT",
       "action": "Reduce 5.15%",
       "date": "Q4 2023",
@@ -3852,7 +3852,7 @@
       "company_name": "Alibaba Group Holdings"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "PTNT",
       "action": "Reduce 6.55%",
       "date": "Q3 2023",
@@ -4369,7 +4369,7 @@
       "company_name": "Meta Platforms Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "PTNT",
       "action": "Add 442.09%",
       "date": "Q2 2023",
@@ -4776,7 +4776,7 @@
       "company_name": "ADT Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "PTNT",
       "action": "Reduce 18.93%",
       "date": "Q1 2023",
@@ -5062,7 +5062,7 @@
       "company_name": "Quotient Technology Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "PTNT",
       "action": "Reduce 11.78%",
       "date": "Q4 2022",
@@ -5359,7 +5359,7 @@
       "company_name": "Ovintiv Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "PTNT",
       "action": "Reduce 1.97%",
       "date": "Q3 2022",
@@ -5744,7 +5744,7 @@
       "company_name": "JPMorgan Chase & Co."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "PTNT",
       "action": "Add 10.12%",
       "date": "Q2 2022",
@@ -6118,7 +6118,7 @@
       "company_name": "Mattel Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "PTNT",
       "action": "Add 5.49%",
       "date": "Q1 2022",
@@ -6437,6 +6437,6 @@
       "company_name": "RealReal Inc."
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.495824",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.709849",
+  "scraped_date": "2025-12-01"
 }

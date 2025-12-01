@@ -1,31 +1,31 @@
 ticker,company_name,current_price,managers,total_value,avg_portfolio_pct,index,manager_count,max_portfolio_pct,total_shares,conviction_price_score,opportunity_type
-IEP,Icahn Enterprises,8.06,Carl Icahn,3980534000,50.47,12,1,50.47,494783619,118.88,Deep Conviction Bargain
-ORLA,Orla Mining Ltd,10.32,Prem Watsa,559636000,29.9,19,1,29.9,56817229,75.47999999999999,High Conviction Low Price
-EVH,Evolent Health Inc.,6.67,Glenn Welling,65921000,18.43,8,1,18.43,5854468,56.19,Deep Conviction Bargain
-PTLO,Portillo's Inc Cl A,5.35,Glenn Welling,56388000,15.77,22,1,15.77,4831911,52.19,Deep Conviction Bargain
-VFC,V.F. Corp.,14.04,Glenn Welling,63654000,17.8,29,1,17.8,5417368,47.56,High Conviction Low Price
-BUR,Burford Capital Ltd,9.95,Josh Tarasoff,45724000,12.86,4,1,12.86,3362322,41.77,Deep Conviction Bargain
-BB,BlackBerry Ltd.,4.88,Prem Watsa,186794000,9.98,2,1,9.98,40784700,41.08,High Conviction Low Price
-RYCEF,Rolls Royce Holdings plc,15.45,Ruane Cunniff,556509000,14.76,24,1,14.76,41891727,40.07,High Conviction Low Price
-BAYRY,Bayer Ag Sponsored ADR,7.7,Kahn Brothers Group,50735000,10.19,1,1,10.19,6728903,38.68,Deep Conviction Bargain
-TRMD,Torm Plc,21.95,Howard Marks,681588000,17.26,28,1,17.26,40581120,38.57000000000001,High Conviction Low Price
-WEN,Wendy's Co.,8.54,Nelson Peltz,347565000,9.17,30,1,9.17,30434794,35.8,High Conviction Low Price
-GTN,Gray Television Inc.,4.57,Bill Miller,16525000,7.01,10,1,7.01,3647805,35.45,High Conviction Low Price
-BBWI,Bath & Body Works Inc.,24.48,Tom Bancroft,55098000,16.76,3,1,16.76,1839039,35.040000000000006,High Conviction Low Price
-QUAD,Quad/Graphics Inc.,5.51,Bill Miller,15314000,6.5,23,1,6.5,2710380,33.49,High Conviction Low Price
-FLG,Flagstar Financial Inc.,11.42,Kahn Brothers Group,45804000,9.2,9,1,9.2,4321165,32.98,High Conviction Low Price
-OGN,Organon & Co.,6.75,Kahn Brothers Group,33785000,6.78,18,1,6.78,3490150,32.81,High Conviction Low Price
-PCG,PG&E Corp.,15.96,Daniel Loeb,712334000,9.45,20,1,9.45,51100000,28.94,High Conviction Low Price
-GTX,Garrett Motion Inc.,16.94,Howard Marks,387765000,9.82,11,1,9.82,36894816,28.7,High Conviction Low Price
-CCC,CCC Intelligent Solutions Hldgs Inc.,8.82,Triple Frond Partners,29932000,5.24,5,1,5.24,3156000,27.66,High Conviction Low Price
-SGU,Star Gas Partners LP,11.57,Bryan Lawrence,12861000,6.43,25,1,6.43,1099239,27.29,High Conviction Low Price
-LBTYK,Liberty Global Ltd CL C,11.15,Seth Klarman,254222000,6.18,16,1,6.18,24657803,27.21,High Conviction Low Price
-ET,Energy Transfer LP,16.83,Leon Cooperman,237412000,8.34,7,1,8.34,13095000,25.85,High Conviction Low Price
-CLF,Cleveland-Cliffs Inc.,12.43,Prem Watsa,113234000,6.05,6,1,6.05,14899273,25.67,High Conviction Low Price
-SIRI,SiriusXM Holdings Inc,21.69,Francis Chou,16136000,8.83,26,1,8.83,702462,21.97,High Conviction Low Price
-MAT,Mattel Inc.,18.38,Mason Hawkins,68300000,7.06,17,1,7.06,3463487,21.74,High Conviction Low Price
-PENN,Penn National Gaming Inc.,16.46,David Einhorn,133925000,5.76,21,1,5.76,7494440,21.06,High Conviction Low Price
-STR-OLD,Sitio Royalties Corp A,18.12,Howard Marks,237939000,6.03,27,1,6.03,12945551,19.94,High Conviction Low Price
-ACI,Albertsons Co Inc.,17.69,Mason Hawkins,52752000,5.45,0,1,5.45,2452424,19.21,High Conviction Low Price
-KGC,Kinross Gold Corp.,23.24,Christopher Bloomstran,48245000,6.79,14,1,6.79,3086724,16.340000000000003,High Conviction Low Price
-YNDX,Yandex N.V.,20.0,Greg Alexander,38731000,5.04,31,1,5.04,700000,16.08,High Conviction Low Price
+IEP,Icahn Enterprises,8.12,Carl Icahn,4369415000,47.8,14,1,47.8,518932944,113.48,Deep Conviction Bargain
+ORLA,Orla Mining Ltd,14.1,Prem Watsa,610477000,29.57,23,1,29.57,56817229,71.04,High Conviction Low Price
+RIG,Transocean Ltd.,4.41,Mohnish Pabrai,76260000,22.64,28,1,22.64,24442332,66.87,Deep Conviction Bargain
+VFC,V.F. Corp.,17.5,Glenn Welling,84594000,20.75,38,1,20.75,5862368,50.0,High Conviction Low Price
+RYCEF,Rolls Royce Holdings plc,13.9,Ruane Cunniff,670673000,18.19,30,1,18.19,41891727,48.48,High Conviction Low Price
+EVH,Evolent Health Inc.,4.2,Glenn Welling,47917000,11.75,9,1,11.75,5663912,45.3,Deep Conviction Bargain
+BBWI,Bath & Body Works Inc.,17.41,Tom Bancroft,35291000,18.12,3,1,18.12,1370000,44.83,High Conviction Low Price
+TRMD,Torm Plc,21.41,Howard Marks,834581000,17.6,37,1,17.6,40581120,39.790000000000006,High Conviction Low Price
+BB,BlackBerry Ltd.,4.08,Prem Watsa,172375000,8.35,2,1,8.35,35395320,38.620000000000005,High Conviction Low Price
+BAYRY,Bayer Ag Sponsored ADR,8.76,Kahn Brothers Group,56266000,10.58,1,1,10.58,6787253,38.400000000000006,Deep Conviction Bargain
+PTLO,Portillo's Inc Cl A,5.22,Glenn Welling,32697000,8.02,26,1,8.02,5069301,36.82,High Conviction Low Price
+GTN,Gray Television Inc.,4.92,Bill Miller,20566000,7.56,12,1,7.56,3558215,36.2,High Conviction Low Price
+BRCC,BRC Inc.,1.27,Glenn Welling,21739000,5.33,5,1,5.33,13935560,35.39,High Conviction Low Price
+BLND,Blend Labs Inc.,3.16,Dennis Hong,35918000,5.34,4,1,5.34,9840605,33.52,High Conviction Low Price
+OGN,Organon & Co.,7.71,Kahn Brothers Group,38628000,7.26,21,1,7.26,3616845,32.81,High Conviction Low Price
+FLG,Flagstar Financial Inc.,12.24,Kahn Brothers Group,49627000,9.33,10,1,9.33,4296752,32.42,High Conviction Low Price
+QUAD,Quad/Graphics Inc.,5.74,Bill Miller,16423000,6.03,27,1,6.03,2623475,32.32,High Conviction Low Price
+TDAY,Gannett Co.,5.01,Bill Miller,14055000,5.16,36,1,5.16,3403265,31.31,High Conviction Low Price
+WEN,Wendy's Co.,8.45,Nelson Peltz,278803000,6.79,40,1,6.79,30437023,31.130000000000003,High Conviction Low Price
+CLF,Cleveland-Cliffs Inc.,13.04,Prem Watsa,181771000,8.8,7,1,8.8,14899273,30.56,High Conviction Low Price
+PCG,PG&E Corp.,16.12,Daniel Loeb,755508000,9.1,24,1,9.1,50100000,28.08,High Conviction Low Price
+BUR,Burford Capital Ltd,9.57,Josh Tarasoff,19709000,5.75,6,1,5.75,1835072,27.93,High Conviction Low Price
+STLA,Stellantis N.V.,10.66,Francis Chou,13022000,6.27,34,1,6.27,1394194,27.88,High Conviction Low Price
+GTX,Garrett Motion Inc.,16.53,Howard Marks,434407000,9.16,13,1,9.16,31894816,27.79,High Conviction Low Price
+SVV,Savers Value Village Inc,9.11,Tom Bancroft,10335000,5.31,35,1,5.31,780000,27.51,High Conviction Low Price
+KW,Kennedy-Wilson Holdings Inc.,9.73,Prem Watsa,110839000,5.37,16,1,5.37,13322009,27.01,High Conviction Low Price
+SGU,Star Gas Partners LP,12.0,Bryan Lawrence,13004000,5.61,32,1,5.61,1099239,25.22,High Conviction Low Price
+LBTYK,Liberty Global Ltd CL C,11.48,Seth Klarman,254479000,5.34,17,1,5.34,21657803,25.2,High Conviction Low Price
+NOMD,Nomad Foods Ltd,12.23,Alex Roepers,9494000,5.45,20,1,5.45,722000,24.67,High Conviction Low Price
+GPK,Graphic Packaging Hldg Co.,16.18,Alex Roepers,12634000,7.26,11,1,7.26,645584,24.34,High Conviction Low Price

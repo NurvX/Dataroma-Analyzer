@@ -1,278 +1,314 @@
 ticker,company_name,action_date,action_date,current_price,managers,total_value,avg_portfolio_pct,manager_count,total_shares,max_portfolio_pct,buy_count,last_buy_period,active_managers,appeal_score,investment_timing,reported_price
-AAPL,Apple Inc.,"Jun 29, 2017",Q4 2024,270.37,"Thomas Gayner
-Torray Funds
-Robert Olstein
-Mairs & Power Growth Fund
-David Katz
-Christopher Bloomstran
-Lee Ainslie
-Bruce Berkowitz
-Li Lu
-David Rolfe
-Warren Buffett
-Kahn Brothers Group
-Duan Yongping
-Sarah Ketterer
-Francis Chou
-Polen Capital Management
-Thomas Russo
-Francois Rochon
-Jensen Investment Management
-Christopher Davis",65766458000,5.76,20,320015063,62.47,112.0,Q4 2024,30.0,8.0,Strong,254.63
-MA,Mastercard Inc.,"July 19, 2011",Q4 2024,551.99,"Thomas Gayner
-Wallace Weitz
-Guy Spier - Aquamarine Capital
-Chuck Akre
+GOOG,Alphabet Inc. CL C,"Dec 31, 2014",Q4 2024,320.12,"Francois Rochon
 Glenn Greenberg
-Warren Buffett
-Valley Forge Capital Management
-AltaRock Partners
-Terry Smith
-Polen Capital Management
-Thomas Russo
-Francois Rochon
-John Armitage
-Jensen Investment Management
-Yacktman Asset Management",8697754000,5.54,15,15473958,18.43,124.0,Q4 2024,22.0,8.0,Strong,568.81
-MCO,Moody's Corp.,"July 19, 2011",Q4 2024,480.3,"Thomas Gayner
-William Von Mueffling
-Guy Spier - Aquamarine Capital
-Chuck Akre
-Glenn Greenberg
-Warren Buffett
-Valley Forge Capital Management
-AltaRock Partners
-Chris Hohn
-Francis Chou
-Triple Frond Partners
-AKO Capital
-Yacktman Asset Management",22089050000,5.41,13,44099450,14.56,107.0,Q4 2024,15.0,8.0,Strong,476.48
-AMZN,Amazon.com Inc.,"Dec 31, 2014",Q4 2024,244.22,"Thomas Gayner
-Wallace Weitz
-Samantha McLemore
-Torray Funds
-Robert Olstein
-Dodge & Cox
-Mairs & Power Growth Fund
-David Katz
-Steven Romick
-David Tepper
-Lee Ainslie
-Viking Global Investors
-ValueAct Capital
-Daniel Loeb
 Bill Ackman
-Glenn Greenberg
-Stephen Mandel
-Warren Buffett
-Chase Coleman
-AltaRock Partners
-Josh Tarasoff
 Triple Frond Partners
-Polen Capital Management
-AKO Capital
-Francois Rochon
-John Armitage
-Christopher Davis",20158065000,6.56,27,92074872,25.14,189.0,Q4 2024,39.0,8.0,Strong,219.57
-META,Meta Platforms Inc.,"May 18, 2018",Q4 2024,648.35,"Thomas Gayner
-Wallace Weitz
-Samantha McLemore
-Robert Vinall
-Robert Olstein
-Dodge & Cox
-Mairs & Power Growth Fund
-David Katz
-Steven Romick
-Ruane Cunniff
-David Tepper
-Viking Global Investors
-ValueAct Capital
-David Rolfe
-Daniel Loeb
-Glenn Greenberg
-Stephen Mandel
-Chase Coleman
-Pat Dorsey
-Terry Smith
-Sarah Ketterer
-Triple Frond Partners
-Francois Rochon
-John Armitage
-Jensen Investment Management
-David Abrams
-Christopher Davis
-First Eagle Investment Management",19066487000,6.04,28,25866133,18.78,233.0,Q4 2024,43.0,8.0,Strong,734.38
-BRK.B,Berkshire Hathaway CL B,"May 18, 2018",Q4 2024,477.54,"Thomas Gayner
-Wallace Weitz
-Torray Funds
-Robert Olstein
-Guy Spier - Aquamarine Capital
-Tweedy Browne Co.
-David Katz
-Ruane Cunniff
-Christopher Bloomstran
-Bruce Berkowitz
-Chuck Akre
-Li Lu
-Bill & Melinda Gates Foundation Trust
-Duan Yongping
-Thomas Russo
-Francois Rochon
-Christopher Davis
-First Eagle Investment Management
-Yacktman Asset Management
-Harry Burn",16197558000,6.65,20,33280955,24.53,168.0,Q4 2024,26.0,8.0,Strong,502.74
-BRK.A,Berkshire Hathaway CL A,"May 25, 2018",Q4 2024,715740.0,"Thomas Gayner
-Guy Spier - Aquamarine Capital
-Tweedy Browne Co.
-Christopher Bloomstran
-Bruce Berkowitz
-Norbert Lou
-Josh Tarasoff
-Prem Watsa
 Francis Chou
-Thomas Russo
-Francois Rochon
-Christopher Davis
-First Eagle Investment Management
-Yacktman Asset Management",3626770000,9.19,14,4936,34.28,35.0,Q4 2024,11.0,8.0,Strong,754200.18
-MSFT,Microsoft Corp.,"Dec 31, 2014",Q4 2024,517.81,"Thomas Gayner
-Wallace Weitz
-William Von Mueffling
-Torray Funds
-Robert Vinall
-Robert Olstein
-Dodge & Cox
-Mairs & Power Growth Fund
-David Katz
-Hillman Value Fund
-David Tepper
-Lee Ainslie
-David Rolfe
-Daniel Loeb
-Bill & Melinda Gates Foundation Trust
-Glenn Greenberg
-Stephen Mandel
-Kahn Brothers Group
-Chase Coleman
-Duan Yongping
-AltaRock Partners
-Chris Hohn
-Terry Smith
-Sarah Ketterer
-Triple Frond Partners
-Polen Capital Management
-AKO Capital
-Thomas Russo
-Francois Rochon
-John Armitage
-Jensen Investment Management
-Christopher Davis
-First Eagle Investment Management
-Yacktman Asset Management",41053753000,6.5,34,82348877,27.27,218.0,Q4 2024,39.0,8.0,Strong,517.95
-GOOG,Alphabet Inc. CL C,"Dec 31, 2014",Q4 2024,281.82,"Thomas Gayner
-Wallace Weitz
-Torray Funds
-Robert Olstein
-Dodge & Cox
-Mairs & Power Growth Fund
-David Katz
-Steven Romick
-David Tepper
-Li Lu
-Bill Ackman
-Glenn Greenberg
-Kahn Brothers Group
 Bryan Lawrence
 Duan Yongping
-Pat Dorsey
 Chris Hohn
+Pat Dorsey
 Seth Klarman
+David Tepper
 Sarah Ketterer
-Francis Chou
-Triple Frond Partners
-Polen Capital Management
-Thomas Russo
-Francois Rochon
-John Armitage
-Christopher Davis
+Li Lu
 First Eagle Investment Management
-Yacktman Asset Management",12138990000,4.94,28,64455337,16.17,177.0,Q4 2024,38.0,7.98,Strong,243.55
-AXP,American Express,"Apr 26, 2025",Q4 2024,360.73,"Thomas Gayner
-Torray Funds
-Guy Spier - Aquamarine Capital
-David Katz
-Christopher Bloomstran
-Warren Buffett
+Kahn Brothers Group
 Thomas Russo
-Lindsell Train
+Polen Capital Management
 Christopher Davis
-First Eagle Investment Management",49323102000,4.69,10,154596374,21.98,29.0,Q4 2023,16.0,7.88,Strong,332.16
-INTU,Intuit Inc.,,Q4 2024,667.55,"David Katz
-Lee Ainslie
-Stephen Mandel
-Valley Forge Capital Management
-Dennis Hong
-Terry Smith
-AKO Capital
-Jensen Investment Management
-Lindsell Train",2768600000,5.44,9,3515164,13.8,61.0,Q4 2024,13.0,7.7,Strong,682.93
-CHTR,Charter Communications,"May 18, 2018",Q4 2024,233.84,"Wallace Weitz
+Yacktman Asset Management
+Thomas Gayner
+Wallace Weitz
+Torray Funds
+Robert Olstein
 Dodge & Cox
-Steven Romick
-Bill Nygren
-Ruane Cunniff
-Tom Bancroft
-Lee Ainslie
+Mairs & Power Growth Fund
+David Katz
+Steven Romick",13214834000,5.78,27,54259222,18.48,178.0,Q4 2024,38.0,8.0,Strong,243.55
+AMZN,Amazon.com Inc.,"Dec 31, 2014",Q4 2024,233.22,"Lee Ainslie
+Daniel Loeb
+ValueAct Capital
+Glenn Greenberg
+Bill Ackman
+Stephen Mandel
 Warren Buffett
+Chase Coleman
 Triple Frond Partners
-First Eagle Investment Management",3314560000,4.2,10,10907995,24.89,88.0,Q4 2024,19.0,7.68,Strong,275.11
-V,Visa Inc.,"July 19, 2011",Q4 2024,340.74,"Thomas Gayner
+Josh Tarasoff
+AltaRock Partners
+David Tepper
+AKO Capital
+John Armitage
+Polen Capital Management
+Christopher Davis
+Thomas Gayner
+Wallace Weitz
+Samantha McLemore
+Torray Funds
+Robert Olstein
+Dodge & Cox
+Mairs & Power Growth Fund
+David Katz
+Steven Romick",18796654000,7.05,25,85606657,30.34,192.0,Q4 2024,39.0,8.0,Strong,219.57
+BRK.A,Berkshire Hathaway CL A,"May 25, 2018",Q4 2024,770100.0,"Francois Rochon
+Norbert Lou
+Bruce Berkowitz
+Christopher Bloomstran
+Francis Chou
+Josh Tarasoff
+Prem Watsa
+First Eagle Investment Management
+Thomas Russo
+Christopher Davis
+Thomas Gayner
+Guy Spier - Aquamarine Capital
+Tweedy Browne Co.",3539635000,9.6,13,4693,33.92,35.0,Q4 2024,11.0,8.0,Strong,770181.82
+MSFT,Microsoft Corp.,"Dec 31, 2014",Q4 2024,492.01,"Francois Rochon
+Lee Ainslie
+Viking Global Investors
+Daniel Loeb
+Bill & Melinda Gates Foundation Trust
+David Rolfe
+Glenn Greenberg
+Stephen Mandel
+Chase Coleman
+Triple Frond Partners
+Duan Yongping
+Chris Hohn
+AltaRock Partners
+Terry Smith
+David Tepper
+AKO Capital
+Sarah Ketterer
+First Eagle Investment Management
+Kahn Brothers Group
+Thomas Russo
+John Armitage
+Polen Capital Management
+Christopher Davis
+Jensen Investment Management
+Yacktman Asset Management
+Thomas Gayner
+Wallace Weitz
+William Von Mueffling
+Torray Funds
+Robert Vinall
+Robert Olstein
+Dodge & Cox
+Mairs & Power Growth Fund
+David Katz
+Hillman Value Fund",32968002000,5.99,35,63650936,24.33,219.0,Q4 2024,38.0,8.0,Strong,517.91
+AAPL,Apple Inc.,"Jun 29, 2017",Q4 2024,278.85,"Francois Rochon
+Lee Ainslie
+David Rolfe
+Bruce Berkowitz
+Warren Buffett
+Christopher Bloomstran
+Francis Chou
+Duan Yongping
+Sarah Ketterer
+Li Lu
+Kahn Brothers Group
+Thomas Russo
+Polen Capital Management
+Jensen Investment Management
+Thomas Gayner
+Torray Funds
+Robert Olstein
+Mairs & Power Growth Fund
+David Katz",70770362000,6.16,19,277934105,60.42,111.0,Q4 2024,30.0,8.0,Strong,254.64
+MCO,Moody's Corp.,"July 19, 2011",Q4 2024,490.78,"Valley Forge Capital Management
+Glenn Greenberg
+Warren Buffett
+Francis Chou
+Chris Hohn
+AltaRock Partners
+Chuck Akre
+AKO Capital
+Yacktman Asset Management
+Thomas Gayner
+William Von Mueffling
+Guy Spier - Aquamarine Capital",20883600000,5.21,12,43828918,15.06,106.0,Q4 2024,15.0,8.0,Strong,476.48
+MA,Mastercard Inc.,"July 19, 2011",Q4 2024,550.53,"Francois Rochon
+Valley Forge Capital Management
+Glenn Greenberg
+Warren Buffett
+AltaRock Partners
+Chuck Akre
+Thomas Russo
+John Armitage
+Polen Capital Management
+Jensen Investment Management
+Yacktman Asset Management
+Thomas Gayner
+Wallace Weitz
+Guy Spier - Aquamarine Capital",8527260000,6.05,14,14991403,20.32,123.0,Q4 2024,22.0,8.0,Strong,568.82
+BRK.B,Berkshire Hathaway CL B,"May 18, 2018",Q4 2024,513.81,"Ruane Cunniff
+Francois Rochon
+Bill & Melinda Gates Foundation Trust
+Bruce Berkowitz
+Christopher Bloomstran
+Duan Yongping
+Chuck Akre
+Li Lu
+Thomas Russo
+Christopher Davis
+Harry Burn
+Yacktman Asset Management
+Thomas Gayner
+Wallace Weitz
+Torray Funds
+Robert Olstein
+Guy Spier - Aquamarine Capital
+Tweedy Browne Co.
+David Katz",16468856000,7.37,19,32758200,29.91,170.0,Q4 2024,28.0,8.0,Strong,502.74
+META,Meta Platforms Inc.,"May 18, 2018",Q4 2024,647.95,"Ruane Cunniff
+Francois Rochon
+Viking Global Investors
+Daniel Loeb
+ValueAct Capital
+David Rolfe
+Glenn Greenberg
+Stephen Mandel
+Chase Coleman
+Triple Frond Partners
+Pat Dorsey
+Terry Smith
+David Tepper
+Sarah Ketterer
+First Eagle Investment Management
+John Armitage
+Polen Capital Management
+Christopher Davis
+David Abrams
+Jensen Investment Management
+Thomas Gayner
+Wallace Weitz
+Samantha McLemore
+Robert Vinall
+Robert Olstein
+Dodge & Cox
+Mairs & Power Growth Fund
+David Katz
+Steven Romick",14129259000,4.89,29,19239712,18.78,236.0,Q4 2024,41.0,7.96,Strong,734.38
+GOOGL,Alphabet Inc.,"May 18, 2018",Q4 2024,320.18,"Ruane Cunniff
+Bill Nygren
+Francois Rochon
+Lee Ainslie
+David Rolfe
+Glenn Greenberg
+Bill Ackman
+Warren Buffett
+Chase Coleman
+Leon Cooperman
+Josh Tarasoff
+AltaRock Partners
+Terry Smith
+Li Lu
+First Eagle Investment Management
+Lindsell Train
+Thomas Russo
+Polen Capital Management
+Christopher Davis
+David Abrams
+Harry Burn
+Jensen Investment Management
+Thomas Gayner
+William Von Mueffling
+Samantha McLemore
+Torray Funds
+Robert Vinall
+Guy Spier - Aquamarine Capital
+Tweedy Browne Co.
+Dodge & Cox
+David Katz
+Steven Romick",18277679000,4.44,32,75185848,19.14,191.0,Q4 2024,42.0,7.78,Strong,243.1
+V,Visa Inc.,"July 19, 2011",Q4 2024,334.44,"Francois Rochon
+Viking Global Investors
+ValueAct Capital
+David Rolfe
+Valley Forge Capital Management
+Glenn Greenberg
+Warren Buffett
+Chris Hohn
+AltaRock Partners
+Terry Smith
+Chuck Akre
+AKO Capital
+Lindsell Train
+Thomas Russo
+John Armitage
+Polen Capital Management
+Yacktman Asset Management
+Thomas Gayner
 Wallace Weitz
 William Von Mueffling
 Torray Funds
 Robert Olstein
 Mairs & Power Growth Fund
-David Katz
+David Katz",21011399000,4.4,24,61548419,18.18,162.0,Q4 2024,26.0,7.76,Strong,341.38
+AXP,American Express,"Apr 26, 2025",Q4 2024,365.27,"Warren Buffett
+Christopher Bloomstran
+First Eagle Investment Management
+Lindsell Train
+Kahn Brothers Group
+Thomas Russo
+Christopher Davis
+Thomas Gayner
+Torray Funds
+Guy Spier - Aquamarine Capital
+David Katz",51274088000,4.25,11,154365625,21.98,30.0,Q4 2023,17.0,7.7,Strong,332.16
+INTU,Intuit Inc.,,Q4 2024,634.08,"Lee Ainslie
 Viking Global Investors
-ValueAct Capital
-Chuck Akre
-David Rolfe
+Valley Forge Capital Management
+Terry Smith
+Dennis Hong
+AKO Capital
+Lindsell Train
+Polen Capital Management
+Jensen Investment Management
+David Katz",2547281000,4.13,10,3730038,11.61,63.0,Q4 2024,14.0,7.65,Strong,682.51
+BAC,Bank of America Corp.,,Q4 2024,53.65,"Charles Bobrinskoy
+Lee Ainslie
+Viking Global Investors
 Glenn Greenberg
 Warren Buffett
-Valley Forge Capital Management
-AltaRock Partners
-Chris Hohn
-Terry Smith
-Polen Capital Management
-AKO Capital
-Thomas Russo
-Francois Rochon
-John Armitage
-Lindsell Train
-Yacktman Asset Management",18419690000,4.1,24,52017795,13.35,158.0,Q4 2024,27.0,7.64,Strong,341.38
-BAC,Bank of America Corp.,,Q4 2024,53.45,"Richard Pzena
+Francis Chou
+Li Lu
+Kahn Brothers Group
+Christopher Davis
+Harry Burn
+Richard Pzena
 Guy Spier - Aquamarine Capital
 Tweedy Browne Co.
 Dodge & Cox
-David Katz
-Charles Bobrinskoy
-Lee Ainslie
-Viking Global Investors
-Li Lu
-Glenn Greenberg
-Warren Buffett
+David Katz",31391291000,3.92,15,608476284,16.66,107.0,Q4 2024,25.0,7.57,Strong,51.59
+NVDA,NVIDIA Corp.,,Q4 2024,177.0,"Lee Ainslie
+Daniel Loeb
+Chase Coleman
+Duan Yongping
+David Tepper
+Sarah Ketterer
 Kahn Brothers Group
-Francis Chou
-Francois Rochon
+Polen Capital Management
 Christopher Davis
-Harry Burn",31590990000,4.09,16,666523617,18.36,106.0,Q4 2024,25.0,7.64,Strong,51.59
-COF,Capital One Financial,"May 18, 2018",Q4 2024,219.99,"Thomas Gayner
-Richard Pzena
-Dodge & Cox
-David Katz
+Jensen Investment Management
+Samantha McLemore
+Torray Funds
+Mairs & Power Growth Fund
+David Katz",5918397000,3.49,14,31720419,10.94,59.0,Q4 2024,18.0,7.4,Strong,186.58
+BN,Brookfield Corp.,"July 19, 2011",Q4 2024,47.0,"Daniel Loeb
+Bill Ackman
+Stephen Mandel
+Third Avenue Management
+Josh Tarasoff
+Chuck Akre
+Kahn Brothers Group
+Thomas Gayner",5838781000,8.75,8,127713155,19.21,57.0,Q4 2024,13.0,7.4,Strong,45.72
+COF,Capital One Financial,"May 18, 2018",Q4 2024,219.07,"Ruane Cunniff
 Bill Nygren
-Ruane Cunniff
+Francois Rochon
 Lee Ainslie
 Viking Global Investors
 Daniel Loeb
@@ -280,655 +316,610 @@ Glenn Greenberg
 Stephen Mandel
 Warren Buffett
 Clifford Sosin
-Francois Rochon
 John Armitage
 Christopher Davis
-Harry Burn",9557910000,4.06,17,44931148,10.19,77.0,Q4 2024,22.0,7.62,Strong,212.57
-FLUT,Flutter Entertainment Plc,,Q4 2024,232.59,"William Von Mueffling
-Tom Bancroft
+Harry Burn
+Thomas Gayner
+Richard Pzena
+Dodge & Cox
+David Katz",9262187000,3.44,17,43570366,9.3,77.0,Q4 2024,22.0,7.38,Strong,212.58
+FLUT,Flutter Entertainment Plc,,Q4 2024,208.81,"Tom Bancroft
 Lee Ainslie
-Viking Global Investors
 Daniel Loeb
 Stephen Mandel
 Chase Coleman
 AKO Capital
-John Armitage",4425432000,4.59,9,15743712,10.7,24.0,Q4 2024,10.0,7.54,Strong,254.0
-GOOGL,Alphabet Inc.,"May 18, 2018",Q4 2024,281.19,"Thomas Gayner
-William Von Mueffling
-Samantha McLemore
-Torray Funds
-Robert Vinall
-Guy Spier - Aquamarine Capital
-Tweedy Browne Co.
-Dodge & Cox
-David Katz
-Steven Romick
-Bill Nygren
-Ruane Cunniff
-Lee Ainslie
-Li Lu
-David Rolfe
-Bill Ackman
-Glenn Greenberg
-Chase Coleman
-Leon Cooperman
-AltaRock Partners
-Chris Hohn
-Josh Tarasoff
-Terry Smith
-Polen Capital Management
-Thomas Russo
-Francois Rochon
-Jensen Investment Management
-David Abrams
-Lindsell Train
-Christopher Davis
-First Eagle Investment Management
-Harry Burn",12259576000,3.72,32,63405708,16.67,191.0,Q4 2024,41.0,7.49,Strong,243.1
-C,Citigroup Inc.,,Q4 2024,101.23,"Samantha McLemore
-Richard Pzena
-Steven Romick
-Kahn Brothers Group
+John Armitage
+William Von Mueffling",3434749000,4.85,8,13506132,11.33,26.0,Q4 2024,10.0,7.34,Strong,254.0
+C,Citigroup Inc.,,Q4 2024,103.6,"Francis Chou
 Sarah Ketterer
-Francis Chou
+Kahn Brothers Group
 Harry Burn
-Greenhaven Associates",2086695000,7.26,8,23751459,20.48,108.0,Q4 2024,23.0,7.4,Strong,101.5
-SPGI,S&P Global Inc.,"Dec 31, 2014",Q4 2024,487.21,"Thomas Gayner
+Greenhaven Associates
+Samantha McLemore
+Richard Pzena
+Steven Romick",707572000,4.78,8,6971159,16.73,105.0,Q4 2024,21.0,7.31,Strong,101.5
+CHTR,Charter Communications,"May 18, 2018",Q4 2024,200.12,"Ruane Cunniff
+Bill Nygren
+Tom Bancroft
+Warren Buffett
+Triple Frond Partners
+First Eagle Investment Management
+Wallace Weitz
+Dodge & Cox
+Steven Romick",3151859000,4.03,9,11456926,23.17,88.0,Q4 2024,18.0,7.31,Strong,275.1
+SCHW,Charles Schwab Corp.,"May 18, 2018",Q4 2024,92.73,"Ruane Cunniff
+Bill Nygren
+John Rogers
+Francois Rochon
+Lee Ainslie
+Viking Global Investors
+Christopher Davis
+Yacktman Asset Management
+Greenhaven Associates
+Thomas Gayner
+Dodge & Cox",8411182000,3.11,11,88102879,5.97,109.0,Q4 2024,17.0,7.25,Strong,95.47
+DIS,Walt Disney Co.,"Dec 31, 2014",Q4 2024,104.47,"Mason Hawkins
+Francois Rochon
+Lee Ainslie
+Viking Global Investors
+ValueAct Capital
+Christopher Bloomstran
+Duan Yongping
+Sarah Ketterer
+First Eagle Investment Management
+Lindsell Train
+Kahn Brothers Group
+Thomas Russo
+Harry Burn
+Yacktman Asset Management
+Thomas Gayner
+Robert Olstein
+Hillman Value Fund",3454207000,3.09,17,30167740,10.47,128.0,Q4 2024,31.0,7.23,Strong,114.5
+UBER,Uber Technologies Inc.,"Dec 31, 2014",Q4 2024,87.54,"Bill Ackman
+Chase Coleman
+David Tepper
+Thomas Russo
+Polen Capital Management
+Thomas Gayner
 William Von Mueffling
 Robert Olstein
-David Rolfe
-Glenn Greenberg
+Steven Romick",4699273000,3.8,9,47966448,20.25,63.0,Q4 2024,17.0,7.22,Strong,97.97
+ASML,ASML Holding NV,,Q4 2024,1060.0,"Lee Ainslie
 Valley Forge Capital Management
-Chris Hohn
-Lindsell Train",7721311000,5.21,8,14787409,20.44,55.0,Q4 2024,14.0,7.4,Strong,486.71
-PYPL,PayPal Holdings Inc.,,Q4 2024,69.27,"David Katz
-Mason Hawkins
+Triple Frond Partners
+Duan Yongping
+Pat Dorsey
+David Tepper
+Polen Capital Management
+Hillman Value Fund",742925000,4.56,8,767414,15.07,23.0,Q4 2024,10.0,7.22,Strong,968.09
+PYPL,PayPal Holdings Inc.,,Q4 2024,62.69,"Mason Hawkins
 Norbert Lou
 David Rolfe
 Francis Chou
-Polen Capital Management
 Lindsell Train
-Harry Burn",574757000,5.0,8,7797658,15.6,82.0,Q4 2024,19.0,7.4,Strong,67.06
-DIS,Walt Disney Co.,"Dec 31, 2014",Q4 2024,112.62,"Thomas Gayner
-Robert Olstein
-Hillman Value Fund
-Mason Hawkins
-Christopher Bloomstran
-Lee Ainslie
-Viking Global Investors
-ValueAct Capital
-Kahn Brothers Group
-Duan Yongping
-Sarah Ketterer
-Thomas Russo
-Francois Rochon
-Lindsell Train
-First Eagle Investment Management
-Yacktman Asset Management
-Harry Burn",3271204000,3.48,17,26544574,11.95,124.0,Q4 2024,31.0,7.39,Strong,114.5
-SCHW,Charles Schwab Corp.,"May 18, 2018",Q4 2024,94.52,"Thomas Gayner
-Dodge & Cox
-Bill Nygren
-Ruane Cunniff
-John Rogers
-Viking Global Investors
-Francois Rochon
-Christopher Davis
-Yacktman Asset Management
-Greenhaven Associates",8231571000,3.43,10,87498435,6.13,105.0,Q4 2024,17.0,7.37,Strong,95.47
-UBER,Uber Technologies Inc.,"Dec 31, 2014",Q4 2024,96.5,"Thomas Gayner
-William Von Mueffling
-Robert Olstein
-Steven Romick
-David Tepper
-Lee Ainslie
-Bill Ackman
-Chase Coleman
 Polen Capital Management
-Thomas Russo",4131794000,3.38,10,43991920,20.59,62.0,Q4 2024,17.0,7.35,Strong,97.97
-NVDA,NVIDIA Corp.,,Q4 2024,202.49,"Samantha McLemore
-Torray Funds
-Mairs & Power Growth Fund
-David Katz
-David Tepper
-Lee Ainslie
-Viking Global Investors
-Daniel Loeb
-Chase Coleman
-Duan Yongping
-Sarah Ketterer
-Polen Capital Management
-Jensen Investment Management
-Christopher Davis",4804482000,3.21,14,29692186,10.94,53.0,Q4 2024,17.0,7.29,Strong,186.58
-CRM,Salesforce.com,,Q4 2024,260.41,"Wallace Weitz
-Robert Vinall
-Mairs & Power Growth Fund
-Hillman Value Fund
-Bill Nygren
-ValueAct Capital
-Stephen Mandel
-Polen Capital Management
-AKO Capital
-First Eagle Investment Management",2629435000,3.12,10,9678017,14.12,68.0,Q4 2024,17.0,7.25,Strong,237.01
-TSM,Taiwan Semiconductor S.A.,"May 25, 2018",Q4 2024,300.43,"William Von Mueffling
-Torray Funds
-Dodge & Cox
-Mairs & Power Growth Fund
-Hillman Value Fund
-Ruane Cunniff
-David Tepper
-Lee Ainslie
-Viking Global Investors
-David Rolfe
-Daniel Loeb
-Stephen Mandel
-Chase Coleman
-Duan Yongping
-Prem Watsa
-Sarah Ketterer
-Francois Rochon
-Jensen Investment Management
-Christopher Davis
-First Eagle Investment Management",8857862000,2.88,20,80681040,9.16,85.0,Q4 2024,23.0,7.15,Strong,279.29
-OXY,Occidental Petroleum,"May 25, 2018",Q4 2024,41.2,"Dodge & Cox
-Bruce Berkowitz
-Li Lu
+Harry Burn
+David Katz",499896000,4.42,8,7454456,13.53,80.0,Q4 2024,18.0,7.17,Strong,67.06
+OXY,Occidental Petroleum,"May 25, 2018",Q4 2024,42.0,"Bruce Berkowitz
 Warren Buffett
+Francis Chou
+Leon Cooperman
 Duan Yongping
 Prem Watsa
-Francis Chou",14615890000,4.98,7,341093489,13.58,42.0,Q4 2024,11.0,7.09,Strong,47.25
-DHR,Danaher Corp.,"July 19, 2011",Q4 2024,215.38,"Wallace Weitz
-Torray Funds
-David Katz
+Li Lu
+Dodge & Cox",16132675000,4.39,8,341430989,13.85,43.0,Q4 2024,12.0,7.16,Strong,47.25
+TSM,Taiwan Semiconductor S.A.,"May 25, 2018",Q4 2024,291.51,"Ruane Cunniff
+Francois Rochon
 Lee Ainslie
 Viking Global Investors
+Daniel Loeb
+David Rolfe
+Stephen Mandel
+Chase Coleman
+Duan Yongping
+Prem Watsa
+David Tepper
+Sarah Ketterer
+First Eagle Investment Management
+Polen Capital Management
+Christopher Davis
+Jensen Investment Management
+William Von Mueffling
+Torray Funds
+Dodge & Cox
+Mairs & Power Growth Fund
+Hillman Value Fund",9715216000,2.79,21,79023201,9.65,84.0,Q4 2024,24.0,7.12,Strong,279.29
+PDD,Pinduoduo Inc.,,Q4 2024,116.08,"Norbert Lou
+Duan Yongping
+David Tepper
+Sarah Ketterer
+Li Lu
+Polen Capital Management
+Robert Vinall",2124150000,7.81,7,16071354,18.85,35.0,Q4 2024,10.0,7.1,Strong,132.17
+SPGI,S&P Global Inc.,"Dec 31, 2014",Q4 2024,498.83,"David Rolfe
+Valley Forge Capital Management
+Chris Hohn
+Lindsell Train
+Thomas Gayner
+William Von Mueffling
+Robert Olstein",7245701000,5.72,7,14887097,20.55,56.0,Q4 2024,14.0,7.1,Strong,486.72
+FICO,Fair Isaac Corp.,"July 19, 2011",Q4 2024,1805.83,"Valley Forge Capital Management
+AltaRock Partners
 Chuck Akre
+AKO Capital
+Lindsell Train
+Jensen Investment Management
+Yacktman Asset Management",2066248000,6.07,7,1380693,27.66,26.0,Q4 2022,8.0,7.1,Strong,1496.53
+GM,General Motors,"May 25, 2018",Q4 2024,73.52,"Viking Global Investors
+Francis Chou
+Prem Watsa
+Harry Burn
+Greenhaven Associates
+Samantha McLemore
+Robert Olstein",2379808000,4.62,7,39032571,21.39,76.0,Q4 2024,15.0,6.95,Strong,60.97
+DHR,Danaher Corp.,"July 19, 2011",Q4 2024,226.78,"Lee Ainslie
+Viking Global Investors
 Daniel Loeb
 Bill & Melinda Gates Foundation Trust
-Pat Dorsey",1410366000,3.44,9,7138608,16.42,41.0,Q4 2024,12.0,7.08,Strong,198.26
-UNH,United Health Group Inc.,"May 18, 2018",Q4 2024,341.56,"Thomas Gayner
-Samantha McLemore
+Pat Dorsey
+Chuck Akre
+Wallace Weitz
 Torray Funds
+David Katz",1157084000,3.04,9,5836191,15.34,42.0,Q4 2024,12.0,6.92,Strong,198.26
+CVS,CVS Health Corp.,"May 25, 2018",Q4 2024,80.36,"Prem Watsa
+Christopher Davis
+Samantha McLemore
+Richard Pzena
 Robert Olstein
 Dodge & Cox
-Mairs & Power Growth Fund
 David Katz
-Hillman Value Fund
-Ruane Cunniff
+Hillman Value Fund",4832909000,3.78,8,64106513,9.9,66.0,Q4 2024,17.0,6.91,Strong,75.36
+BABA,Alibaba Group Holdings,,Q4 2024,157.3,"Francis Chou
+Duan Yongping
 David Tepper
-Lee Ainslie
-Michael Burry
-Glenn Greenberg
-Stephen Mandel
-Warren Buffett
-Chase Coleman
+Sarah Ketterer
 Polen Capital Management
-Jensen Investment Management
-Christopher Davis
+Samantha McLemore
+Guy Spier - Aquamarine Capital",1973309000,4.53,7,11040721,15.61,92.0,Q4 2024,28.0,6.91,Strong,178.74
+ORCL,Oracle Corp.,,Q4 2024,201.95,"Charles Bobrinskoy
+Sarah Ketterer
 First Eagle Investment Management
-Yacktman Asset Management",6234506000,2.46,21,19161622,11.85,111.0,Q4 2024,28.0,6.99,Strong,345.28
-CSGP,CoStar Group Inc.,"July 19, 2011",Q4 2024,68.81,"Wallace Weitz
-Viking Global Investors
-Chuck Akre
+Lindsell Train
+Thomas Russo
+Polen Capital Management
+Christopher Davis
+Jensen Investment Management
+Wallace Weitz
+William Von Mueffling",5469647000,2.09,10,19448323,8.48,70.0,Q4 2024,20.0,6.84,Strong,281.3
+CRM,Salesforce.com,,Q4 2024,230.54,"Bill Nygren
+ValueAct Capital
+AKO Capital
+First Eagle Investment Management
+Polen Capital Management
+Wallace Weitz
+Robert Vinall
+Mairs & Power Growth Fund
+Hillman Value Fund",2067108000,2.84,9,8721970,11.59,68.0,Q4 2024,16.0,6.84,Strong,237.0
+CSGP,CoStar Group Inc.,"July 19, 2011",Q4 2024,68.8,"Viking Global Investors
 Daniel Loeb
 Chase Coleman
 Dennis Hong
-Polen Capital Management",2220689000,4.62,7,27597797,13.76,40.0,Q4 2024,8.0,6.95,Strong,84.37
-CP,Canadian Pacific Kansas City,,Q4 2024,71.95,"Thomas Gayner
-William Von Mueffling
-Lee Ainslie
-Chris Hohn
-Sarah Ketterer
-John Armitage
-Lindsell Train",6028843000,4.6,7,76290205,18.44,55.0,Q4 2024,13.0,6.94,Strong,74.48
-CVS,CVS Health Corp.,"May 25, 2018",Q4 2024,78.15,"Samantha McLemore
-Richard Pzena
-Robert Olstein
-Dodge & Cox
-David Katz
-Hillman Value Fund
-Prem Watsa
-Christopher Davis",4755035000,3.78,8,64289662,9.99,66.0,Q4 2024,17.0,6.91,Strong,75.39
-FI,Fiserv Inc.,"Dec 31, 2014",Q4 2024,66.69,"Torray Funds
-Robert Olstein
-Dodge & Cox
-Mairs & Power Growth Fund
-David Katz
-Hillman Value Fund
-John Rogers
-Leon Cooperman
-Seth Klarman
-Francois Rochon",3910113000,2.27,10,29642324,3.83,73.0,Q4 2024,20.0,6.91,Strong,128.93
-PM,Philip Morris Intl.,,Q4 2024,144.33,"Thomas Gayner
-Lee Ainslie
-Viking Global Investors
-Stephen Mandel
-Terry Smith
-Thomas Russo
-First Eagle Investment Management
-Yacktman Asset Management",5260219000,3.62,8,28894198,9.43,23.0,Q4 2024,7.0,6.85,Strong,162.2
-BKNG,Booking Holdings Inc.,,Q4 2024,5077.74,"Dodge & Cox
-David Rolfe
-Stephen Mandel
-Pat Dorsey
-Sarah Ketterer
-AKO Capital
-Francois Rochon
-Yacktman Asset Management",2840240000,3.62,8,513696,9.49,72.0,Q4 2024,20.0,6.85,Strong,5399.27
-GE,GE Aerospace,"Apr 26, 2025",Q4 2024,308.95,"Dodge & Cox
-Christopher Bloomstran
-Nelson Peltz
-Chris Hohn
-AKO Capital
-John Armitage",15451334000,10.5,6,59286441,27.36,89.0,Q4 2024,15.0,6.8,Strong,300.82
-ORCL,Oracle Corp.,,Q4 2024,262.61,"Wallace Weitz
-William Von Mueffling
-Charles Bobrinskoy
-David Tepper
-Sarah Ketterer
-Polen Capital Management
-Thomas Russo
-Jensen Investment Management
-Lindsell Train
-Christopher Davis
-First Eagle Investment Management
-Yacktman Asset Management",5502120000,2.01,12,24901667,8.04,71.0,Q4 2024,21.0,6.8,Strong,281.24
-PDD,Pinduoduo Inc.,,Q4 2024,134.87,"Robert Vinall
-David Tepper
-Li Lu
-Norbert Lou
-Duan Yongping
-Polen Capital Management",1688210000,8.4,6,16051239,17.93,35.0,Q4 2024,10.0,6.8,Strong,132.17
-BN,Brookfield Corp.,"July 19, 2011",Q4 2024,46.05,"Thomas Gayner
 Chuck Akre
-Daniel Loeb
-Bill Ackman
-Stephen Mandel
-Third Avenue Management",4992436000,7.7,6,119655091,18.54,54.0,Q4 2024,12.0,6.8,Strong,45.72
-EFX,Equifax Inc.,"Dec 31, 2014",Q4 2024,211.1,"Thomas Gayner
-Wallace Weitz
-William Von Mueffling
-Robert Olstein
-Bill Nygren
-Lee Ainslie
-Valley Forge Capital Management
-AKO Capital
-Jensen Investment Management
-Lindsell Train",1353529000,1.94,10,5239808,4.48,59.0,Q4 2024,14.0,6.78,Strong,256.53
-ASML,ASML Holding NV,,Q4 2024,1059.23,"Hillman Value Fund
-David Tepper
-Stephen Mandel
-Valley Forge Capital Management
-Pat Dorsey
-Triple Frond Partners
-Polen Capital Management",816879000,4.14,7,1029203,10.06,20.0,Q4 2024,8.0,6.76,Strong,967.93
-DG,Dollar General,"Apr 26, 2025",Q4 2024,98.66,"Thomas Gayner
-Richard Pzena
-Christopher Bloomstran
-Lee Ainslie
-Seth Klarman
-First Eagle Investment Management",1211841000,4.76,6,10701397,14.91,51.0,Q4 2024,13.0,6.71,Strong,103.35
-WFC,Wells Fargo,"Dec 31, 2014",Q4 2024,86.97,"Thomas Gayner
-Richard Pzena
-Torray Funds
-Robert Olstein
-Tweedy Browne Co.
-Dodge & Cox
-Mairs & Power Growth Fund
-David Katz
-Steven Romick
-Francis Chou
-Thomas Russo
-Christopher Davis
-Yacktman Asset Management
-Harry Burn",3330707000,1.77,14,40155308,4.44,106.0,Q4 2024,28.0,6.71,Strong,83.82
-ELV,Elevance Health Inc.,"May 18, 2018",Q4 2024,317.2,"Ruane Cunniff
-Glenn Greenberg
-Leon Cooperman
-Seth Klarman
-First Eagle Investment Management
-Yacktman Asset Management",2320927000,4.69,6,5967006,9.89,44.0,Q4 2024,13.0,6.68,Strong,388.96
-GM,General Motors,"May 25, 2018",Q4 2024,69.09,"Samantha McLemore
-Robert Olstein
-Viking Global Investors
-Prem Watsa
-Francis Chou
-Harry Burn
-Greenhaven Associates",1963997000,3.92,7,39665593,17.32,76.0,Q4 2024,16.0,6.67,Strong,60.97
-JPM,JPMorgan Chase & Co.,,Q4 2024,311.12,"Thomas Gayner
-Samantha McLemore
-Torray Funds
-Mairs & Power Growth Fund
-David Katz
-Viking Global Investors
-Glenn Greenberg
-Kahn Brothers Group
-Thomas Russo
-Francois Rochon
-Christopher Davis
-Greenhaven Associates",1986771000,1.58,12,6728715,5.31,90.0,Q4 2024,22.0,6.63,Strong,315.43
-BABA,Alibaba Group Holdings,,Q4 2024,170.43,"Samantha McLemore
-Guy Spier - Aquamarine Capital
-David Tepper
-Duan Yongping
-Sarah Ketterer
-Francis Chou",1468029000,4.52,6,12635047,12.43,92.0,Q4 2024,27.0,6.61,Strong,178.73
-CMCSA,Comcast Corp.,"Dec 31, 2014",Q4 2024,27.84,"Thomas Gayner
-Robert Olstein
-Dodge & Cox
-David Katz
-Steven Romick
-Hillman Value Fund
-Glenn Greenberg
-Kahn Brothers Group
-Thomas Russo
-First Eagle Investment Management
-Yacktman Asset Management",4075500000,1.47,11,124309118,3.55,88.0,Q4 2024,24.0,6.59,Strong,31.42
-JNJ,Johnson & Johnson,"May 25, 2018",Q4 2024,188.87,"Thomas Gayner
-Torray Funds
-Robert Olstein
-Tweedy Browne Co.
-Mairs & Power Growth Fund
-David Katz
-Charles Bobrinskoy
-Prem Watsa
-Jensen Investment Management
-Yacktman Asset Management",493436000,1.39,10,2990255,3.41,55.0,Q4 2024,16.0,6.56,Strong,185.42
-AON,Aon Plc,,Q4 2024,340.68,"Thomas Gayner
-Wallace Weitz
-William Von Mueffling
-Dodge & Cox
-David Katz
-Steven Romick
-Warren Buffett
 Polen Capital Management
-Jensen Investment Management
-Yacktman Asset Management",3778837000,1.35,10,10593977,3.71,72.0,Q4 2024,14.0,6.54,Strong,356.58
-FERG,Ferguson Enterprises Inc.,,Q4 2024,248.5,"Thomas Gayner
-William Von Mueffling
-Steven Romick
-Nelson Peltz
-Seth Klarman
-Francois Rochon
-John Armitage
-First Eagle Investment Management",1713998000,2.82,8,7786736,6.24,39.0,Q4 2024,13.0,6.53,Strong,224.58
-FICO,Fair Isaac Corp.,"July 19, 2011",Q4 2024,1659.53,"Chuck Akre
-Valley Forge Capital Management
-AltaRock Partners
-AKO Capital
-Lindsell Train",2110612000,8.87,5,1154627,31.03,24.0,Q4 2022,7.0,6.5,Strong,1827.94
-LEN,Lennar Corp.,,Q4 2024,123.77,"Viking Global Investors
-Glenn Greenberg
-Warren Buffett
-Bryan Lawrence
-Greenhaven Associates",2360561000,5.74,5,21341299,15.62,42.0,Q4 2024,8.0,6.5,Strong,110.61
-CVNA,Carvana Co.,,Q4 2024,306.54,"Robert Vinall
+Wallace Weitz",2122349000,4.27,7,25155266,11.24,40.0,Q4 2024,8.0,6.81,Strong,84.37
+CVNA,Carvana Co.,,Q4 2024,374.5,"Lee Ainslie
 Viking Global Investors
 Stephen Mandel
 Clifford Sosin
-Polen Capital Management",2788583000,23.39,5,8222485,80.82,38.0,Q4 2024,11.0,6.5,Strong,377.24
-ADI,Analog Devices,,Q4 2024,234.13,"Thomas Gayner
-Wallace Weitz
+Polen Capital Management
+Robert Vinall",3557172000,20.17,6,9429469,82.26,40.0,Q4 2024,12.0,6.8,Strong,377.24
+ELV,Elevance Health Inc.,"May 18, 2018",Q4 2024,338.26,"Ruane Cunniff
+Glenn Greenberg
+Leon Cooperman
+Seth Klarman
+First Eagle Investment Management
+Yacktman Asset Management",2701348000,5.78,6,8360196,13.76,47.0,Q4 2024,13.0,6.8,Strong,323.12
+PM,Philip Morris Intl.,,Q4 2024,157.48,"Lee Ainslie
+Viking Global Investors
+Stephen Mandel
+Terry Smith
+First Eagle Investment Management
+Thomas Russo
+Yacktman Asset Management
+Thomas Gayner",4664088000,3.35,8,28755163,8.11,26.0,Q4 2024,7.0,6.74,Strong,162.2
+FERG,Ferguson Enterprises Inc.,,Q4 2024,251.67,"Francois Rochon
+Lee Ainslie
+Nelson Peltz
+Seth Klarman
+First Eagle Investment Management
+John Armitage
+Thomas Gayner
 William Von Mueffling
-Steven Romick
-Sarah Ketterer
-AKO Capital
+Steven Romick",1839516000,2.54,9,8190921,6.16,41.0,Q4 2024,13.0,6.72,Strong,224.57
+FISV,Fiserv Inc.,"Dec 31, 2014",Q4 2024,61.47,"Charles Bobrinskoy
+John Rogers
 Francois Rochon
-First Eagle Investment Management",2135464000,2.71,8,8817768,5.23,54.0,Q4 2024,9.0,6.48,Strong,245.7
-PEP,PepsiCo Inc.,"Dec 31, 2014",Q4 2024,146.09,"Thomas Gayner
+Norbert Lou
+Seth Klarman
+David Tepper
 Torray Funds
 Robert Olstein
+Dodge & Cox
+Mairs & Power Growth Fund
 David Katz
+Hillman Value Fund",3900915000,1.79,12,30256073,2.89,77.0,Q4 2024,23.0,6.72,Strong,128.9
+WFC,Wells Fargo,"Dec 31, 2014",Q4 2024,85.85,"Francis Chou
+Thomas Russo
+Christopher Davis
+Harry Burn
+Yacktman Asset Management
+Thomas Gayner
+Richard Pzena
+Torray Funds
+Robert Olstein
+Tweedy Browne Co.
+Dodge & Cox
+Mairs & Power Growth Fund
+David Katz
+Steven Romick",3317015000,1.72,14,39573074,4.44,106.0,Q4 2024,28.0,6.69,Strong,83.82
+JPM,JPMorgan Chase & Co.,,Q4 2024,313.08,"Francois Rochon
+Viking Global Investors
+Glenn Greenberg
 Kahn Brothers Group
 Thomas Russo
+Christopher Davis
+Greenhaven Associates
+Thomas Gayner
+Samantha McLemore
+Torray Funds
+Mairs & Power Growth Fund
+David Katz",2421021000,1.65,12,7675303,5.31,91.0,Q4 2024,22.0,6.66,Strong,315.43
+JNJ,Johnson & Johnson,"May 25, 2018",Q4 2024,206.92,"Charles Bobrinskoy
+Prem Watsa
 Jensen Investment Management
-Lindsell Train
-Yacktman Asset Management",676516000,1.93,9,5095334,7.55,46.0,Q4 2024,12.0,6.47,Strong,140.44
-TMO,Thermo Fisher Scientific,"Dec 31, 2014",Q4 2024,567.39,"Thomas Gayner
-Wallace Weitz
-William Von Mueffling
-Robert Olstein
-David Katz
-Polen Capital Management
-AKO Capital
-Lindsell Train",1749785000,2.56,8,4111468,8.17,61.0,Q4 2024,17.0,6.43,Strong,485.02
-ICE,Intercontinental Exchange Inc.,"May 18, 2018",Q4 2024,146.29,"Thomas Gayner
-William Von Mueffling
-Bill Nygren
-Ruane Cunniff
-Daniel Loeb
-AKO Capital
-John Armitage",1870884000,3.21,7,10468364,5.07,48.0,Q4 2024,10.0,6.39,Strong,168.51
-LPLA,LPL Financial Holdings Inc.,"June 30, 2015",Q4 2024,377.31,"Thomas Gayner
-Dodge & Cox
-Steven Romick
-Meridian Contrarian Fund
-Lee Ainslie
-Daniel Loeb
-Stephen Mandel
-John Armitage",2371174000,2.26,8,6688183,5.08,37.0,Q4 2024,9.0,6.3,Strong,332.69
-TXN,Texas Instruments,"Dec 31, 2014",Q4 2024,161.46,"Thomas Gayner
+Yacktman Asset Management
+Thomas Gayner
 Torray Funds
 Robert Olstein
-David Katz
-Glenn Greenberg
-Terry Smith
+Tweedy Browne Co.
+Mairs & Power Growth Fund
+David Katz",470277000,1.62,10,2536284,5.91,56.0,Q4 2024,16.0,6.65,Strong,185.43
+PEP,PepsiCo Inc.,"Dec 31, 2014",Q4 2024,148.74,"Lee Ainslie
+Lindsell Train
+Kahn Brothers Group
+Thomas Russo
+Polen Capital Management
 Jensen Investment Management
+Yacktman Asset Management
+Thomas Gayner
+Torray Funds
+Robert Olstein
+David Katz",678547000,1.61,11,4831585,7.59,47.0,Q4 2024,14.0,6.64,Strong,140.41
+UNH,United Health Group Inc.,"May 18, 2018",Q4 2024,329.77,"Ruane Cunniff
+Warren Buffett
+Chase Coleman
+David Tepper
+Sarah Ketterer
+First Eagle Investment Management
 Christopher Davis
-First Eagle Investment Management",2043686000,1.48,9,9954398,2.95,50.0,Q4 2024,12.0,6.29,Strong,183.73
-KHC,Kraft Heinz Co.,"May 25, 2018",Q4 2024,24.73,"Mairs & Power Growth Fund
-Hillman Value Fund
-Mason Hawkins
+Jensen Investment Management
+Yacktman Asset Management
+Thomas Gayner
+Samantha McLemore
+Torray Funds
+Robert Olstein
+Dodge & Cox
+Mairs & Power Growth Fund
+David Katz
+Hillman Value Fund",5207786000,1.52,17,15081919,5.13,112.0,Q4 2024,30.0,6.61,Strong,345.3
+EFX,Equifax Inc.,"Dec 31, 2014",Q4 2024,212.37,"Bill Nygren
+Valley Forge Capital Management
+AKO Capital
+Lindsell Train
+Jensen Investment Management
+Thomas Gayner
+Wallace Weitz
+William Von Mueffling
+Robert Olstein",1367484000,2.23,9,5330693,4.54,62.0,Q4 2024,14.0,6.59,Strong,256.53
+BKNG,Booking Holdings Inc.,,Q4 2024,4914.69,"Francois Rochon
+Lee Ainslie
+David Rolfe
+Stephen Mandel
+Pat Dorsey
+AKO Capital
+Dodge & Cox",2590599000,3.68,7,479805,8.24,74.0,Q4 2024,21.0,6.57,Strong,5399.29
+CMCSA,Comcast Corp.,"Dec 31, 2014",Q4 2024,26.69,"Glenn Greenberg
+First Eagle Investment Management
+Kahn Brothers Group
+Thomas Russo
+Yacktman Asset Management
+Thomas Gayner
+Robert Olstein
+Dodge & Cox
+David Katz
+Steven Romick
+Hillman Value Fund",3900596000,1.39,11,124143801,3.55,86.0,Q4 2024,24.0,6.56,Strong,31.42
+AON,Aon Plc,,Q4 2024,353.92,"Viking Global Investors
+Warren Buffett
+Polen Capital Management
+Jensen Investment Management
+Yacktman Asset Management
+Thomas Gayner
+Wallace Weitz
+William Von Mueffling
+Dodge & Cox
+David Katz
+Steven Romick",4191038000,1.33,11,11753435,3.71,71.0,Q4 2024,14.0,6.53,Strong,356.58
+AVGO,Broadcom Inc.,,Q4 2024,402.96,"Stephen Mandel
+Chase Coleman
+Polen Capital Management
+William Von Mueffling
+Torray Funds
+David Katz
+Steven Romick",4551328000,3.54,7,13795665,8.54,30.0,Q4 2024,10.0,6.52,Strong,329.91
+CP,Canadian Pacific Kansas City,,Q4 2024,72.57,"Chris Hohn
+AKO Capital
+Sarah Ketterer
+Lindsell Train
+John Armitage
+Thomas Gayner
+William Von Mueffling",5246726000,3.52,7,70447988,13.34,55.0,Q4 2024,14.0,6.51,Strong,74.47
+GE,GE Aerospace,"Apr 26, 2025",Q4 2024,298.45,"Nelson Peltz
+Christopher Bloomstran
+Chris Hohn
+AKO Capital
+Dodge & Cox",17231714000,12.75,5,57282472,29.52,89.0,Q4 2024,15.0,6.5,Strong,300.82
+ADI,Analog Devices,,Q4 2024,265.34,"Francois Rochon
+AKO Capital
+Sarah Ketterer
+First Eagle Investment Management
+Thomas Gayner
+Wallace Weitz
+William Von Mueffling
+Steven Romick",2089867000,2.7,8,8505768,5.23,55.0,Q4 2024,9.0,6.48,Strong,245.7
+DG,Dollar General,"Apr 26, 2025",Q4 2024,109.49,"Christopher Bloomstran
+Seth Klarman
+First Eagle Investment Management
+Thomas Gayner
+Richard Pzena",1103185000,4.74,5,10674255,11.94,52.0,Q4 2024,13.0,6.4,Strong,103.35
+LULU,Lululemon Athletica Inc.,"May 25, 2018",Q4 2024,184.18,"Francois Rochon
+Lee Ainslie
+Prem Watsa
+Jensen Investment Management
+Michael Burry",51502000,6.7,5,289462,32.35,19.0,Q4 2024,6.0,6.35,Strong,177.93
+KHC,Kraft Heinz Co.,"May 25, 2018",Q4 2024,25.51,"Mason Hawkins
+Lee Ainslie
 Bill & Melinda Gates Foundation Trust
 Warren Buffett
 Prem Watsa
-First Eagle Investment Management",8811634000,2.94,7,341259686,6.74,30.0,Q4 2024,9.0,6.27,Strong,26.04
-WTW,Willis Towers Watson plc,"Dec 31, 2014",Q4 2024,313.1,"Robert Olstein
-Dodge & Cox
-Seth Klarman
+Mairs & Power Growth Fund
+Hillman Value Fund",8786792000,2.88,7,337436307,6.84,32.0,Q4 2024,10.0,6.25,Strong,26.04
+TMO,Thermo Fisher Scientific,"Dec 31, 2014",Q4 2024,590.83,"Lindsell Train
 Polen Capital Management
-David Abrams
-First Eagle Investment Management
-Harry Burn",2600106000,2.92,7,8304672,9.79,39.0,Q4 2024,15.0,6.27,Strong,345.46
-KMX,CarMax Inc.,"July 19, 2011",Q4 2024,41.91,"Thomas Gayner
+Thomas Gayner
 Wallace Weitz
-Steven Romick
-Hillman Value Fund
-John Rogers
-Tom Bancroft
-Chuck Akre
-Francois Rochon",249091000,2.07,8,4362972,5.57,84.0,Q4 2024,13.0,6.23,Strong,44.87
-LAD,Lithia Motors Inc.,,Q4 2024,314.08,"Bill Nygren
+William Von Mueffling
+Robert Olstein
+David Katz",956519000,2.77,7,1972123,9.73,59.0,Q4 2024,16.0,6.21,Strong,485.02
+LEN,Lennar Corp.,,Q4 2024,131.3,"Glenn Greenberg
+Warren Buffett
+Bryan Lawrence
+Greenhaven Associates",2373063000,7.78,4,18827850,18.5,43.0,Q4 2024,8.0,6.2,Strong,126.04
+IBKR,Interactive Brokers Group Inc.,,Q4 2024,65.02,"Bryan Lawrence
+John Armitage
+William Von Mueffling
+Robert Vinall",1427681000,12.5,4,20748167,30.61,20.0,Q4 2024,5.0,6.2,Strong,68.81
+LAD,Lithia Motors Inc.,,Q4 2024,318.84,"Bill Nygren
 Leon Cooperman
 Greg Alexander
-David Abrams",1544303000,11.41,4,4571380,21.98,32.0,Q4 2024,9.0,6.2,Strong,337.82
-IBKR,Interactive Brokers Group Inc.,,Q4 2024,70.36,"William Von Mueffling
-Robert Vinall
-Bryan Lawrence
-John Armitage",1429952000,12.0,4,22550877,28.54,20.0,Q4 2024,5.0,6.2,Strong,68.81
-ADBE,Adobe Inc.,"Dec 31, 2014",Q4 2024,340.31,"Thomas Gayner
-William Von Mueffling
-Torray Funds
-Robert Olstein
-Dodge & Cox
-Hillman Value Fund
+David Abrams",1427447000,10.42,4,4517236,20.03,33.0,Q4 2024,9.0,6.2,Strong,316.0
+WTW,Willis Towers Watson plc,"Dec 31, 2014",Q4 2024,321.0,"Seth Klarman
+First Eagle Investment Management
 Polen Capital Management
-Jensen Investment Management
-Lindsell Train",2117583000,1.23,9,5673686,3.99,81.0,Q4 2024,24.0,6.19,Strong,352.79
-KKR,KKR & Co. L.P.,"May 25, 2018",Q4 2024,118.33,"Thomas Gayner
-John Rogers
-Chuck Akre
+David Abrams
+Harry Burn
+Robert Olstein
+Dodge & Cox",2745378000,2.73,7,7947250,7.9,39.0,Q4 2024,15.0,6.19,Strong,345.45
+SE,Sea Ltd,,Q4 2024,139.01,"Viking Global Investors
 Stephen Mandel
-Prem Watsa",2085140000,4.17,5,15707848,11.53,69.0,Q4 2024,16.0,6.17,Strong,129.95
-MKL,Markel Group Inc.,,Q4 2024,1974.53,"Josh Tarasoff
-Thomas Russo
-Francois Rochon
-Christopher Davis",889675000,4.93,4,445425,12.62,57.0,Q4 2024,6.0,6.17,Strong,1997.37
-FDX,FedEx Corp.,"Dec 31, 2014",Q4 2024,253.82,"Thomas Gayner
+Chase Coleman
+Leon Cooperman
+Howard Marks
+Sarah Ketterer
+Polen Capital Management
+Christopher Davis",3946656000,1.98,8,22081662,8.86,42.0,Q4 2024,11.0,6.19,Strong,178.73
+FDX,FedEx Corp.,"Dec 31, 2014",Q4 2024,275.68,"Mason Hawkins
+Lee Ainslie
+Bill & Melinda Gates Foundation Trust
+Thomas Gayner
 Robert Olstein
 Tweedy Browne Co.
 Dodge & Cox
-David Katz
-Mason Hawkins
-Lee Ainslie
-Bill & Melinda Gates Foundation Trust",3322976000,1.84,8,14192957,6.2,70.0,Q4 2024,16.0,6.14,Strong,235.81
-LLY,Eli Lilly & Co.,,Q4 2024,862.86,"Torray Funds
-Mairs & Power Growth Fund
-David Katz
-Lee Ainslie
+David Katz",3312782000,1.91,8,14048527,6.48,71.0,Q4 2024,16.0,6.16,Strong,235.81
+MKL,Markel Group Inc.,,Q4 2024,2080.44,"Francois Rochon
+Josh Tarasoff
+Thomas Russo
+Christopher Davis",855267000,4.81,4,447465,12.51,56.0,Q4 2024,6.0,6.12,Strong,1911.36
+KKR,KKR & Co. L.P.,"May 25, 2018",Q4 2024,122.31,"John Rogers
 Viking Global Investors
-Chase Coleman
-Polen Capital Management
-Jensen Investment Management",3181665000,1.66,8,4084766,4.16,31.0,Q4 2024,12.0,6.06,Strong,763.82
-FIS,Fidelity National Information Services,"Dec 31, 2014",Q4 2024,62.52,"Robert Olstein
-Dodge & Cox
-Mason Hawkins
-Seth Klarman
-Harry Burn",2371049000,3.83,5,34658770,7.5,47.0,Q4 2023,10.0,6.03,Strong,65.94
-OMF,OneMain Holdings,,Q4 2024,59.19,"Samantha McLemore
-Glenn Greenberg
-Bill Miller
-Leon Cooperman",574909000,4.57,4,10094998,10.28,22.0,Q4 2024,4.0,6.03,Strong,56.46
-SE,Sea Ltd,,Q4 2024,156.25,"Viking Global Investors
-Daniel Loeb
-Chase Coleman
-Leon Cooperman
-Howard Marks
-Sarah Ketterer
-Polen Capital Management
-Christopher Davis",3323947000,1.55,8,20782461,7.53,40.0,Q4 2024,11.0,6.02,Strong,159.94
-USB,U.S. Bancorp,"Dec 31, 2014",Q4 2024,46.68,"Robert Olstein
-David Katz
-Hillman Value Fund
-Viking Global Investors
-Glenn Greenberg
-Christopher Davis
-First Eagle Investment Management",2406903000,2.27,7,53128048,4.68,65.0,Q4 2023,14.0,6.01,Strong,48.33
-CBRE,CBRE Group,"Dec 31, 2014",Q4 2024,152.43,"William Von Mueffling
-Robert Olstein
-Bill Nygren
-John Rogers
-ValueAct Capital
-Third Avenue Management",1157531000,2.98,6,7705259,4.78,55.0,Q4 2024,8.0,5.99,Strong,157.56
-GS,Goldman Sachs Group,"Dec 31, 2014",Q4 2024,789.37,"Thomas Gayner
-Robert Olstein
-Dodge & Cox
-David Katz
-John Rogers
-Charles Bobrinskoy
-Yacktman Asset Management
-Greenhaven Associates",1592944000,1.39,8,2003760,3.52,69.0,Q4 2022,19.0,5.96,Strong,796.35
-REGN,Regeneron Pharmaceuticals,,Q4 2024,651.8,"Dodge & Cox
-Mason Hawkins
-Michael Burry",1710173000,7.18,3,3049975,14.0,22.0,Q4 2021,7.0,5.9,Strong,562.27
-ZTS,Zoetis Inc.,,Q4 2024,144.09,"William Von Mueffling
-David Rolfe
-Terry Smith
-Polen Capital Management
-AKO Capital
-Jensen Investment Management",2445848000,2.75,6,15761273,4.03,45.0,Q4 2024,8.0,5.9,Strong,146.32
-EL,Estee Lauder Cos.,,Q4 2024,96.69,"Hillman Value Fund
-Michael Burry
-Lindsell Train",16123000,8.13,3,196625,21.55,39.0,Q4 2024,8.0,5.9,Strong,88.11
-TDG,TransDigm Group Inc.,,Q4 2024,1308.51,"Bryan Lawrence
-AltaRock Partners
-Triple Frond Partners",1573801000,17.46,3,1075037,27.21,38.0,Q4 2022,10.0,5.9,Strong,1520.64
-OSK,Oshkosh Corp.,"June 2, 2014",Q4 2024,123.29,"FPA Queens Road Small Cap Value Fund
-Alex Roepers
-Greenhaven Associates",344331000,6.53,3,2999146,12.11,31.0,Q4 2024,3.0,5.9,Strong,129.7
-VST,Vistra Corp.,,Q4 2024,188.3,"David Tepper
-Daniel Loeb
-Stephen Mandel",1845017000,5.9,3,9519719,9.08,21.0,Q4 2024,7.0,5.9,Strong,193.81
-CNI,Canadian Natl Railway Co.,,Q4 2024,95.91,"Thomas Gayner
-Bill & Melinda Gates Foundation Trust
-Chris Hohn
-AKO Capital",8102931000,4.18,4,77859925,11.94,31.0,Q4 2024,8.0,5.87,Strong,94.32
-WIX,Wix.com Ltd.,,Q4 2024,145.54,"Robert Vinall
 Stephen Mandel
-Pat Dorsey",421696000,4.94,3,2623104,10.24,27.0,Q4 2024,5.0,5.87,Strong,177.63
-APTV,Aptiv PLC,"Dec 31, 2014",Q4 2024,81.1,"Robert Olstein
-Alex Roepers
-Sarah Ketterer",80598000,4.81,3,1158116,12.22,26.0,Q4 2024,8.0,5.83,Strong,86.22
-IFF,International Flavors & Fragrances Inc.,"Dec 31, 2014",Q4 2024,62.97,"Robert Olstein
-Dodge & Cox
-Steven Romick
-Hillman Value Fund
-Carl Icahn
-Sarah Ketterer
-First Eagle Investment Management",1994225000,1.83,7,30490087,3.5,43.0,Q4 2024,14.0,5.83,Strong,61.54
-AMAT,Applied Materials,,Q4 2024,233.1,"Thomas Gayner
-William Von Mueffling
-Torray Funds
-David Katz
-Chase Coleman
-Christopher Davis
-Harry Burn",1762910000,1.77,7,9268533,4.85,29.0,Q4 2024,12.0,5.81,Strong,204.72
-EPD,Enterprise Products Partners LP,"Jun 29, 2017",Q4 2024,30.79,"Tweedy Browne Co.
-Bruce Berkowitz
-Leon Cooperman
-First Eagle Investment Management",269122000,4.01,4,8677650,13.77,34.0,Q4 2024,7.0,5.81,Strong,31.27
-PVH,PVH Corp.,"June 2, 2014",Q4 2024,78.33,"Richard Pzena
-FPA Queens Road Small Cap Value Fund
-Mason Hawkins
-Alex Roepers",114313000,4.01,4,1561403,6.79,32.0,Q4 2024,9.0,5.8,Strong,83.77
-WCC,WESCO International Inc.,"Dec 31, 2014",Q4 2024,259.53,"Robert Olstein
-Alex Roepers
-Seth Klarman
-Third Avenue Management
-Christopher Davis
-First Eagle Investment Management",490254000,2.49,6,2644148,9.94,40.0,Q4 2024,9.0,5.8,Strong,211.51
-CRH,CRH plc,,Q4 2024,119.1,"Lee Ainslie
-Daniel Loeb
-Seth Klarman
-John Armitage
-Greenhaven Associates",1011510000,3.21,5,11018625,8.54,24.0,Q4 2024,6.0,5.78,Strong,91.81
-NKE,NIKE Inc.,"Dec 31, 2014",Q4 2024,64.59,"Thomas Gayner
-Robert Olstein
-Hillman Value Fund
-Viking Global Investors
-Terry Smith
+Prem Watsa
+Chuck Akre
+Thomas Gayner",2224246000,3.3,6,17116176,11.29,69.0,Q4 2024,16.0,6.12,Strong,129.95
+ADBE,Adobe Inc.,"Dec 31, 2014",Q4 2024,320.13,"Lindsell Train
 Polen Capital Management
 Jensen Investment Management
-Lindsell Train",978718000,0.95,8,13787733,2.61,62.0,Q4 2024,13.0,5.78,Strong,69.73
-AVGO,Broadcom Inc.,,Q4 2024,369.63,"William Von Mueffling
+Thomas Gayner
+William Von Mueffling
 Torray Funds
-David Katz
-Steven Romick
-Chase Coleman",2352061000,3.11,5,7573999,8.54,28.0,Q4 2024,10.0,5.74,Strong,329.91
-SBUX,Starbucks Corp.,"Apr 26, 2025",Q4 2024,80.87,"Thomas Gayner
-David Katz
-Christopher Bloomstran
-Stephen Mandel
-Polen Capital Management
-Francois Rochon",1557816000,2.34,6,17066066,3.69,66.0,Q4 2024,14.0,5.73,Strong,84.6
-CVX,Chevron Corp.,"Apr 26, 2025",Q4 2024,157.72,"Torray Funds
-Charles Bobrinskoy
-Christopher Bloomstran
-Warren Buffett
+Robert Olstein
+Dodge & Cox
+Hillman Value Fund",1472747000,1.02,9,4175043,2.62,81.0,Q4 2024,24.0,6.11,Strong,352.67
+ICE,Intercontinental Exchange Inc.,"May 18, 2018",Q4 2024,157.3,"Ruane Cunniff
+Bill Nygren
+AKO Capital
+John Armitage
+Thomas Gayner
+William Von Mueffling",1578151000,3.17,6,9366996,4.99,48.0,Q4 2024,10.0,6.07,Strong,168.48
+CBRE,CBRE Group,"Dec 31, 2014",Q4 2024,161.83,"Bill Nygren
+John Rogers
+Viking Global Investors
+ValueAct Capital
+Third Avenue Management
+William Von Mueffling
+Robert Olstein",1239657000,2.34,7,7868825,4.55,56.0,Q4 2024,8.0,6.04,Strong,157.56
+TXN,Texas Instruments,"Dec 31, 2014",Q4 2024,168.27,"Terry Smith
+First Eagle Investment Management
+Christopher Davis
+Jensen Investment Management
+Thomas Gayner
+Torray Funds
+Robert Olstein
+David Katz",1772029000,1.57,8,9644752,2.95,48.0,Q4 2024,12.0,6.03,Strong,183.73
+PG,Procter & Gamble,,Q4 2024,148.16,"Lee Ainslie
+Terry Smith
 Kahn Brothers Group
-Thomas Russo",17502879000,2.3,6,122224306,6.79,41.0,Q4 2024,9.0,5.72,Strong,155.29
-ET,Energy Transfer LP,"Jun 29, 2017",Q4 2024,16.83,"Samantha McLemore
-David Tepper
-Bruce Berkowitz
-Leon Cooperman
-David Abrams",526698000,3.04,5,29312750,8.34,43.0,Q4 2024,6.0,5.71,Strong,17.16
-B,Barrick Mining Corp.,,Q4 2024,32.8,"Charles Bobrinskoy
+Thomas Russo
+Polen Capital Management
+Jensen Investment Management
+Yacktman Asset Management
+David Katz",1229927000,1.32,8,8004734,4.11,61.0,Q4 2024,14.0,5.93,Strong,153.67
+B,Barrick Mining Corp.,,Q4 2024,41.34,"Charles Bobrinskoy
 Howard Marks
 Sarah Ketterer
 First Eagle Investment Management
-Harry Burn",1320952000,2.99,5,63488044,5.81,23.0,Q4 2024,5.0,5.7,Strong,20.82
-PFE,Pfizer Inc.,"May 25, 2018",Q4 2024,24.65,"Richard Pzena
-Torray Funds
-Hillman Value Fund
-Kahn Brothers Group
-Prem Watsa
-Sarah Ketterer",118870000,2.23,6,4828285,3.56,60.0,Q4 2024,12.0,5.69,Strong,25.48
-CACC,Credit Acceptance Corp.,"May 18, 2018",Q4 2024,447.34,"Robert Vinall
-Ruane Cunniff
-Francis Chou
-Francois Rochon",188712000,3.68,4,381321,11.15,46.0,Q4 2024,8.0,5.67,Strong,466.93
-MELI,Mercadolibre Inc.,,Q4 2024,2327.26,"Wallace Weitz
+Harry Burn",1931518000,3.52,5,58933938,6.82,24.0,Q4 2024,5.0,5.91,Strong,32.77
+CRH,CRH plc,,Q4 2024,119.96,"Daniel Loeb
+Seth Klarman
+John Armitage
+Greenhaven Associates",1179126000,4.27,4,9834241,8.52,22.0,Q4 2024,5.0,5.91,Strong,119.9
+CNI,Canadian Natl Railway Co.,,Q4 2024,95.89,"Bill & Melinda Gates Foundation Trust
+Chris Hohn
+Thomas Gayner",6659297000,5.58,3,70619560,13.36,28.0,Q4 2024,6.0,5.9,Strong,94.3
+OSK,Oshkosh Corp.,"June 2, 2014",Q4 2024,128.18,"Alex Roepers
+Greenhaven Associates
+FPA Queens Road Small Cap Value Fund",377602000,6.42,3,2911346,11.1,31.0,Q4 2024,3.0,5.9,Strong,129.7
+BBWI,Bath & Body Works Inc.,,Q4 2024,17.41,"Tom Bancroft
 Lee Ainslie
-Michael Burry
+Alex Roepers",44256000,6.8,3,1718001,18.12,27.0,Q4 2024,7.0,5.9,Strong,25.76
+RPRX,Royalty Pharma plc,,Q4 2024,40.02,"Pat Dorsey
+Samantha McLemore
+Torray Funds",217720000,5.11,3,6171182,7.45,23.0,Q4 2024,5.0,5.9,Strong,35.28
+APTV,Aptiv PLC,"Dec 31, 2014",Q4 2024,77.55,"Alex Roepers
 Sarah Ketterer
-Polen Capital Management",236572000,3.28,5,90906,13.94,19.0,Q4 2020,8.0,5.66,Strong,2337.03
+Robert Olstein",96287000,5.8,3,1116763,15.12,26.0,Q4 2024,8.0,5.9,Strong,86.22
+AMAT,Applied Materials,,Q4 2024,252.25,"Chase Coleman
+Christopher Davis
+Harry Burn
+Thomas Gayner
+William Von Mueffling
+Torray Funds
+David Katz",2026854000,2.0,7,9899654,5.94,30.0,Q4 2024,12.0,5.9,Strong,204.74
+TDG,TransDigm Group Inc.,,Q4 2024,1360.17,"Triple Frond Partners
+Bryan Lawrence
+AltaRock Partners",1393841000,15.15,3,1057526,23.53,38.0,Q4 2022,9.0,5.9,Strong,1318.03
+UNP,Union Pacific,,Q4 2024,231.83,"Lee Ainslie
+Daniel Loeb
+Seth Klarman
+Thomas Russo
+Greenhaven Associates
+Thomas Gayner
+Torray Funds",860699000,1.97,7,3641317,7.43,62.0,Q4 2024,13.0,5.89,Strong,236.37
+CPRT,Copart Inc.,"July 19, 2011",Q4 2024,38.98,"Francois Rochon
+David Rolfe
+Chuck Akre
+AKO Capital
+Jensen Investment Management
+Yacktman Asset Management
+Torray Funds",709171000,1.92,7,15769856,4.08,26.0,Q4 2024,7.0,5.87,Strong,44.97
+DHI,D.R. Horton,,Q4 2024,159.01,"Glenn Greenberg
+Third Avenue Management
+Greenhaven Associates",750056000,4.9,3,4424522,9.38,35.0,Q4 2024,9.0,5.86,Strong,169.47
+NKE,NIKE Inc.,"Dec 31, 2014",Q4 2024,64.63,"Viking Global Investors
+Terry Smith
+Lindsell Train
+Polen Capital Management
+Jensen Investment Management
+Thomas Gayner
+Robert Olstein
+Hillman Value Fund",1102945000,1.0,8,15817349,2.61,62.0,Q4 2024,11.0,5.8,Strong,69.73
+EPD,Enterprise Products Partners LP,"Jun 29, 2017",Q4 2024,32.74,"Bruce Berkowitz
+Leon Cooperman
+First Eagle Investment Management
+Tweedy Browne Co.",273024000,3.99,4,8731170,13.76,35.0,Q4 2024,7.0,5.79,Strong,31.27
+OMF,OneMain Holdings,,Q4 2024,62.03,"Glenn Greenberg
+Leon Cooperman
+Bill Miller
+Samantha McLemore",545523000,3.93,4,9662124,10.22,22.0,Q4 2024,4.0,5.77,Strong,56.46
+QSR,Restaurant Brands International,,Q4 2024,72.39,"Bill Ackman
+Seth Klarman
+Christopher Davis",2226346000,7.45,3,34710746,11.11,19.0,Q4 2024,6.0,5.75,Strong,64.14
+CVX,Chevron Corp.,"Apr 26, 2025",Q4 2024,151.13,"Charles Bobrinskoy
+Warren Buffett
+Christopher Bloomstran
+Kahn Brothers Group
+Thomas Russo
+Torray Funds",18980382000,2.34,6,122225393,7.09,42.0,Q4 2024,9.0,5.73,Strong,155.29
+PVH,PVH Corp.,"June 2, 2014",Q4 2024,84.76,"Mason Hawkins
+Alex Roepers
+Richard Pzena
+FPA Queens Road Small Cap Value Fund",102639000,3.8,4,1225242,5.68,31.0,Q4 2024,9.0,5.72,Strong,83.77
+ZTS,Zoetis Inc.,,Q4 2024,128.18,"David Rolfe
+Terry Smith
+AKO Capital
+Polen Capital Management
+Jensen Investment Management
+William Von Mueffling",2053295000,2.27,6,14032908,3.57,46.0,Q4 2024,8.0,5.71,Strong,146.32
+KO,Coca Cola Co.,"Apr 26, 2025",Q4 2024,73.12,"Lee Ainslie
+Warren Buffett
+Christopher Bloomstran
+Lindsell Train
+Thomas Russo
+Polen Capital Management
+Jensen Investment Management
+Yacktman Asset Management",26683214000,1.52,8,402340361,9.92,18.0,Q4 2024,8.0,5.71,Strong,66.3
+LPLA,LPL Financial Holdings Inc.,"June 30, 2015",Q4 2024,356.04,"Meridian Contrarian Fund
+Daniel Loeb
+Stephen Mandel
+Thomas Gayner
+Dodge & Cox
+Steven Romick",2032326000,2.27,6,6108769,5.46,37.0,Q4 2024,9.0,5.71,Strong,332.69
+FIS,Fidelity National Information Services,"Dec 31, 2014",Q4 2024,65.77,"Mason Hawkins
+Seth Klarman
+Harry Burn
+Robert Olstein
+Dodge & Cox",2296944000,2.99,5,34833856,5.25,48.0,Q4 2023,10.0,5.7,Strong,65.94
+PFE,Pfizer Inc.,"May 25, 2018",Q4 2024,25.74,"Prem Watsa
+Sarah Ketterer
+Kahn Brothers Group
+Richard Pzena
+Torray Funds
+Hillman Value Fund",131294000,2.23,6,5153175,3.39,62.0,Q4 2024,12.0,5.69,Strong,25.47
+SHW,Sherwin-Williams,,Q4 2024,343.69,"Lee Ainslie
+Viking Global Investors
+Chase Coleman
+Jensen Investment Management
+Thomas Gayner
+Torray Funds
+Mairs & Power Growth Fund",1616182000,1.47,7,4667536,2.85,30.0,Q4 2024,9.0,5.69,Strong,346.26
+USB,U.S. Bancorp,"Dec 31, 2014",Q4 2024,49.05,"Glenn Greenberg
+First Eagle Investment Management
+Christopher Davis
+Robert Olstein
+David Katz
+Hillman Value Fund",1408697000,2.16,6,29147452,4.9,66.0,Q4 2023,14.0,5.66,Strong,48.33
+MMC,Marsh & McLennan,,Q4 2024,183.45,"AKO Capital
+Jensen Investment Management
+Yacktman Asset Management
+Thomas Gayner
+Torray Funds",1017476000,2.89,5,5048758,6.02,40.0,Q4 2024,7.0,5.66,Strong,201.53
+PCG,PG&E Corp.,,Q4 2024,16.12,"Daniel Loeb
+David Einhorn
+Steven Romick",862599000,4.35,3,57201563,9.1,30.0,Q4 2023,9.0,5.64,Strong,15.08
+DE,Deere & Co.,"Dec 31, 2014",Q4 2024,464.49,"Bill Nygren
+Bill & Melinda Gates Foundation Trust
+First Eagle Investment Management
+Thomas Gayner
+Robert Vinall
+Robert Olstein",2507990000,2.08,6,5484819,4.45,28.0,Q4 2024,8.0,5.63,Strong,457.26

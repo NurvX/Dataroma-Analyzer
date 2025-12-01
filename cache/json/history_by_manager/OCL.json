@@ -2,6 +2,28 @@
   "manager_id": "OCL",
   "activities": [
     {
+      "symbol": "TDG",
+      "manager_id": "OCL",
+      "action": "Add 13.51%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 2877,
+      "portfolio_percentage": 1.64,
+      "company_name": "TransDigm Group Inc."
+    },
+    {
+      "symbol": "NRP",
+      "manager_id": "OCL",
+      "action": "Add 9.83%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 15127,
+      "portfolio_percentage": 0.69,
+      "company_name": "Natural Resource Partners"
+    },
+    {
       "symbol": "LEN",
       "manager_id": "OCL",
       "action": "Add 13.46%",
@@ -1234,6 +1256,6 @@
       "company_name": "Bread Financial Holdings Inc."
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.835129",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.466322",
+  "scraped_date": "2025-12-01"
 }

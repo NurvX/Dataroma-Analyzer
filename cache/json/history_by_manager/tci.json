@@ -4,6 +4,94 @@
     {
       "symbol": "V",
       "manager_id": "tci",
+      "action": "Add 47.15%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 8989793,
+      "portfolio_percentage": 5.83,
+      "company_name": "Visa Inc."
+    },
+    {
+      "symbol": "SPGI",
+      "manager_id": "tci",
+      "action": "Add 0.89%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 98247,
+      "portfolio_percentage": 0.09,
+      "company_name": "S&P Global Inc."
+    },
+    {
+      "symbol": "MCO",
+      "manager_id": "tci",
+      "action": "Add 0.46%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 61500,
+      "portfolio_percentage": 0.06,
+      "company_name": "Moody's Corp."
+    },
+    {
+      "symbol": "MSFT",
+      "manager_id": "tci",
+      "action": "Reduce 5.54%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 973027,
+      "portfolio_percentage": 0.96,
+      "company_name": "Microsoft Corp."
+    },
+    {
+      "symbol": "CP",
+      "manager_id": "tci",
+      "action": "Reduce 5.61%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 2961150,
+      "portfolio_percentage": 0.42,
+      "company_name": "Canadian Pacific Kansas City"
+    },
+    {
+      "symbol": "CNI",
+      "manager_id": "tci",
+      "action": "Reduce 18.36%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 4221292,
+      "portfolio_percentage": 0.76,
+      "company_name": "Canadian Natl Railway Co."
+    },
+    {
+      "symbol": "GOOG",
+      "manager_id": "tci",
+      "action": "Reduce 41.41%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 5369416,
+      "portfolio_percentage": 2.48,
+      "company_name": "Alphabet Inc. CL C"
+    },
+    {
+      "symbol": "GOOGL",
+      "manager_id": "tci",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 3155110,
+      "portfolio_percentage": 1.1,
+      "company_name": "Alphabet Inc."
+    },
+    {
+      "symbol": "V",
+      "manager_id": "tci",
       "action": "Add 14.61%",
       "date": "Q2 2025",
       "percentage_change": 0.0,
@@ -3170,7 +3258,7 @@
       "company_name": "Union Pacific"
     },
     {
-      "symbol": "AMBC",
+      "symbol": "OSG",
       "manager_id": "tci",
       "action": "Sell 100.00%",
       "date": "Q1 2018",
@@ -3178,7 +3266,7 @@
       "action_type": "Sell",
       "shares": 1985785,
       "portfolio_percentage": 0.2,
-      "company_name": "Ambac Financial Group"
+      "company_name": "Octave Specialty Group Inc."
     },
     {
       "symbol": "EFX",
@@ -3731,6 +3819,6 @@
       "company_name": "American Express"
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.843474",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.489154",
+  "scraped_date": "2025-12-01"
 }

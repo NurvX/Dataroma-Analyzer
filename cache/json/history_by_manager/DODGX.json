@@ -9,18 +9,18 @@
       "percentage_change": 0.0,
       "action_type": "Add",
       "shares": 3373144,
-      "portfolio_percentage": 0.14,
+      "portfolio_percentage": 0.13,
       "company_name": "Molson Coors Beverage Co."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "DODGX",
       "action": "Add 31.09%",
       "date": "Q3 2025",
       "percentage_change": 0.0,
       "action_type": "Add",
       "shares": 6292900,
-      "portfolio_percentage": 0.71,
+      "portfolio_percentage": 0.69,
       "company_name": "Fiserv Inc."
     },
     {
@@ -31,7 +31,7 @@
       "percentage_change": 0.0,
       "action_type": "Add",
       "shares": 6173042,
-      "portfolio_percentage": 0.27,
+      "portfolio_percentage": 0.26,
       "company_name": "Fortive Corp."
     },
     {
@@ -42,7 +42,7 @@
       "percentage_change": 0.0,
       "action_type": "Add",
       "shares": 10400000,
-      "portfolio_percentage": 0.4,
+      "portfolio_percentage": 0.38,
       "company_name": "Taiwan Semiconductor S.A."
     },
     {
@@ -64,7 +64,7 @@
       "percentage_change": 0.0,
       "action_type": "Add",
       "shares": 5084653,
-      "portfolio_percentage": 0.29,
+      "portfolio_percentage": 0.28,
       "company_name": "Fidelity National Information Services"
     },
     {
@@ -108,7 +108,7 @@
       "percentage_change": 0.0,
       "action_type": "Add",
       "shares": 1317100,
-      "portfolio_percentage": 0.27,
+      "portfolio_percentage": 0.26,
       "company_name": "FedEx Corp."
     },
     {
@@ -130,7 +130,7 @@
       "percentage_change": 0.0,
       "action_type": "Add",
       "shares": 3351300,
-      "portfolio_percentage": 0.07,
+      "portfolio_percentage": 0.06,
       "company_name": "Baxter International Inc."
     },
     {
@@ -141,7 +141,7 @@
       "percentage_change": 0.0,
       "action_type": "Add",
       "shares": 517000,
-      "portfolio_percentage": 0.16,
+      "portfolio_percentage": 0.15,
       "company_name": "United Health Group Inc."
     },
     {
@@ -152,7 +152,7 @@
       "percentage_change": 0.0,
       "action_type": "Add",
       "shares": 1237700,
-      "portfolio_percentage": 0.07,
+      "portfolio_percentage": 0.06,
       "company_name": "International Flavors & Fragrances Inc."
     },
     {
@@ -174,7 +174,7 @@
       "percentage_change": 0.0,
       "action_type": "Add",
       "shares": 484300,
-      "portfolio_percentage": 0.12,
+      "portfolio_percentage": 0.11,
       "company_name": "Charter Communications"
     },
     {
@@ -196,7 +196,7 @@
       "percentage_change": 0.0,
       "action_type": "Add",
       "shares": 262200,
-      "portfolio_percentage": 0.07,
+      "portfolio_percentage": 0.06,
       "company_name": "Cigna Group"
     },
     {
@@ -218,7 +218,7 @@
       "percentage_change": 0.0,
       "action_type": "Add",
       "shares": 268500,
-      "portfolio_percentage": 0.0,
+      "portfolio_percentage": 0.03,
       "company_name": "Sun Communities Inc."
     },
     {
@@ -251,7 +251,7 @@
       "percentage_change": 0.0,
       "action_type": "Buy",
       "shares": 1798700,
-      "portfolio_percentage": 0.56,
+      "portfolio_percentage": 0.54,
       "company_name": "Aon Plc"
     },
     {
@@ -262,7 +262,7 @@
       "percentage_change": 0.0,
       "action_type": "Buy",
       "shares": 10007007,
-      "portfolio_percentage": 0.53,
+      "portfolio_percentage": 0.5,
       "company_name": "Archer-Daniels-Midland"
     },
     {
@@ -273,7 +273,7 @@
       "percentage_change": 0.0,
       "action_type": "Buy",
       "shares": 1389757,
-      "portfolio_percentage": 0.42,
+      "portfolio_percentage": 0.41,
       "company_name": "Willis Towers Watson plc"
     },
     {
@@ -284,7 +284,7 @@
       "percentage_change": 0.0,
       "action_type": "Buy",
       "shares": 1215921,
-      "portfolio_percentage": 0.38,
+      "portfolio_percentage": 0.36,
       "company_name": "Adobe Inc."
     },
     {
@@ -350,7 +350,7 @@
       "percentage_change": 0.0,
       "action_type": "Reduce",
       "shares": 164900,
-      "portfolio_percentage": 0.08,
+      "portfolio_percentage": 0.07,
       "company_name": "Microsoft Corp."
     },
     {
@@ -394,7 +394,7 @@
       "percentage_change": 0.0,
       "action_type": "Reduce",
       "shares": 1204000,
-      "portfolio_percentage": 0.18,
+      "portfolio_percentage": 0.17,
       "company_name": "RTX Corp."
     },
     {
@@ -405,7 +405,7 @@
       "percentage_change": 0.0,
       "action_type": "Reduce",
       "shares": 1429900,
-      "portfolio_percentage": 0.0,
+      "portfolio_percentage": 0.13,
       "company_name": "Johnson Controls Intl. plc"
     },
     {
@@ -449,7 +449,7 @@
       "percentage_change": 0.0,
       "action_type": "Reduce",
       "shares": 1855400,
-      "portfolio_percentage": 0.18,
+      "portfolio_percentage": 0.17,
       "company_name": "Bank of New York Mellon Corp."
     },
     {
@@ -460,7 +460,7 @@
       "percentage_change": 0.0,
       "action_type": "Reduce",
       "shares": 24900,
-      "portfolio_percentage": 0.12,
+      "portfolio_percentage": 0.11,
       "company_name": "Booking Holdings Inc."
     },
     {
@@ -493,7 +493,7 @@
       "percentage_change": 0.0,
       "action_type": "Reduce",
       "shares": 828900,
-      "portfolio_percentage": 0.06,
+      "portfolio_percentage": 0.05,
       "company_name": "EchoStar Corp."
     },
     {
@@ -537,7 +537,7 @@
       "percentage_change": 0.0,
       "action_type": "Reduce",
       "shares": 9088200,
-      "portfolio_percentage": 0.67,
+      "portfolio_percentage": 0.64,
       "company_name": "Wells Fargo"
     },
     {
@@ -548,7 +548,7 @@
       "percentage_change": 0.0,
       "action_type": "Reduce",
       "shares": 582684,
-      "portfolio_percentage": 0.23,
+      "portfolio_percentage": 0.22,
       "company_name": "Alnylam Pharmaceuticals"
     },
     {
@@ -559,7 +559,7 @@
       "percentage_change": 0.0,
       "action_type": "Reduce",
       "shares": 2215500,
-      "portfolio_percentage": 0.59,
+      "portfolio_percentage": 0.56,
       "company_name": "GE Aerospace"
     },
     {
@@ -570,7 +570,7 @@
       "percentage_change": 0.0,
       "action_type": "Reduce",
       "shares": 844800,
-      "portfolio_percentage": 0.59,
+      "portfolio_percentage": 0.57,
       "company_name": "Goldman Sachs Group"
     },
     {
@@ -670,7 +670,7 @@
       "action_type": "Add",
       "shares": 8030500,
       "portfolio_percentage": 0.1,
-      "company_name": "Avantor arinc."
+      "company_name": "Avantor Inc."
     },
     {
       "symbol": "ASHTF",
@@ -926,7 +926,7 @@
       "company_name": "Alphabet Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "DODGX",
       "action": "Reduce 3.40%",
       "date": "Q2 2025",
@@ -1685,7 +1685,7 @@
       "company_name": "Capital One Financial"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "DODGX",
       "action": "Reduce 4.37%",
       "date": "Q1 2025",
@@ -2012,7 +2012,7 @@
       "action_type": "Add",
       "shares": 21355172,
       "portfolio_percentage": 0.41,
-      "company_name": "Avantor arinc."
+      "company_name": "Avantor Inc."
     },
     {
       "symbol": "BUD",
@@ -2356,7 +2356,7 @@
       "company_name": "Elanco Animal Health Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "DODGX",
       "action": "Reduce 0.10%",
       "date": "Q4 2024",
@@ -2892,7 +2892,7 @@
       "action_type": "Add",
       "shares": 2931128,
       "portfolio_percentage": 0.07,
-      "company_name": "Avantor arinc."
+      "company_name": "Avantor Inc."
     },
     {
       "symbol": "SCHW",
@@ -3071,7 +3071,7 @@
       "company_name": "Wells Fargo"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "DODGX",
       "action": "Reduce 5.60%",
       "date": "Q3 2024",
@@ -3211,7 +3211,7 @@
       "action_type": "Add",
       "shares": 2092100,
       "portfolio_percentage": 0.04,
-      "company_name": "Avantor arinc."
+      "company_name": "Avantor Inc."
     },
     {
       "symbol": "NBIX",
@@ -3706,7 +3706,7 @@
       "action_type": "Add",
       "shares": 34533215,
       "portfolio_percentage": 0.81,
-      "company_name": "Avantor arinc."
+      "company_name": "Avantor Inc."
     },
     {
       "symbol": "NBIX",
@@ -4674,7 +4674,7 @@
       "action_type": "Buy",
       "shares": 5929600,
       "portfolio_percentage": 0.14,
-      "company_name": "Avantor arinc."
+      "company_name": "Avantor Inc."
     },
     {
       "symbol": "NBIX",
@@ -4699,7 +4699,7 @@
       "company_name": "Sanofi Aventis"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "DODGX",
       "action": "Reduce 0.17%",
       "date": "Q3 2023",
@@ -5139,7 +5139,7 @@
       "company_name": "Bank of New York Mellon Corp."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "DODGX",
       "action": "Add 0.36%",
       "date": "Q2 2023",
@@ -6899,7 +6899,7 @@
       "company_name": "Fox Corporation CL B"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "DODGX",
       "action": "Add 0.20%",
       "date": "Q3 2022",
@@ -8241,7 +8241,7 @@
       "company_name": "T-Mobile US Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "DODGX",
       "action": "Add 2.91%",
       "date": "Q1 2022",
@@ -8428,7 +8428,7 @@
       "company_name": "Meta Platforms Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "DODGX",
       "action": "Add 40.06%",
       "date": "Q4 2021",
@@ -9143,7 +9143,7 @@
       "company_name": "Incyte Corp."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "DODGX",
       "action": "Add 14.49%",
       "date": "Q3 2021",
@@ -9627,7 +9627,7 @@
       "company_name": "Gilead Sciences"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "DODGX",
       "action": "Add 45.46%",
       "date": "Q2 2021",
@@ -10089,7 +10089,7 @@
       "company_name": "JPMorgan Chase & Co."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "DODGX",
       "action": "Add 135.63%",
       "date": "Q1 2021",
@@ -10947,7 +10947,7 @@
       "company_name": "Capital One Financial"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "DODGX",
       "action": "Buy",
       "date": "Q4 2020",
@@ -11002,6 +11002,6 @@
       "company_name": "APA Corp."
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.539280",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.755089",
+  "scraped_date": "2025-12-01"
 }

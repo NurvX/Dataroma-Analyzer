@@ -2,6 +2,237 @@
   "manager_id": "LT",
   "activities": [
     {
+      "symbol": "CP",
+      "manager_id": "LT",
+      "action": "Add 114.29%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 15200,
+      "portfolio_percentage": 0.03,
+      "company_name": "Canadian Pacific Kansas City"
+    },
+    {
+      "symbol": "ADBE",
+      "manager_id": "LT",
+      "action": "Add 26.40%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 940,
+      "portfolio_percentage": 0.01,
+      "company_name": "Adobe Inc."
+    },
+    {
+      "symbol": "VRSK",
+      "manager_id": "LT",
+      "action": "Add 13.64%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 900,
+      "portfolio_percentage": 0.01,
+      "company_name": "Verisk Analytics Inc."
+    },
+    {
+      "symbol": "SPGI",
+      "manager_id": "LT",
+      "action": "Add 10.17%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 600,
+      "portfolio_percentage": 0.01,
+      "company_name": "S&P Global Inc."
+    },
+    {
+      "symbol": "GOOGL",
+      "manager_id": "LT",
+      "action": "Add 10.15%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 205875,
+      "portfolio_percentage": 1.23,
+      "company_name": "Alphabet Inc."
+    },
+    {
+      "symbol": "EL",
+      "manager_id": "LT",
+      "action": "Add 7.45%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1075,
+      "portfolio_percentage": 0.0,
+      "company_name": "Estee Lauder Cos."
+    },
+    {
+      "symbol": "EFX",
+      "manager_id": "LT",
+      "action": "Add 1.94%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 200,
+      "portfolio_percentage": 0.0,
+      "company_name": "Equifax Inc."
+    },
+    {
+      "symbol": "BF.A",
+      "manager_id": "LT",
+      "action": "Add 0.34%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 9399,
+      "portfolio_percentage": 0.01,
+      "company_name": "Brown-Forman Corp. CL A"
+    },
+    {
+      "symbol": "FICO",
+      "manager_id": "LT",
+      "action": "Reduce 0.07%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 159,
+      "portfolio_percentage": 0.01,
+      "company_name": "Fair Isaac Corp."
+    },
+    {
+      "symbol": "PYPL",
+      "manager_id": "LT",
+      "action": "Reduce 0.98%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 44220,
+      "portfolio_percentage": 0.07,
+      "company_name": "PayPal Holdings Inc."
+    },
+    {
+      "symbol": "KO",
+      "manager_id": "LT",
+      "action": "Reduce 2.63%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 500,
+      "portfolio_percentage": 0.0,
+      "company_name": "Coca Cola Co."
+    },
+    {
+      "symbol": "TMO",
+      "manager_id": "LT",
+      "action": "Reduce 4.34%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 37083,
+      "portfolio_percentage": 0.44,
+      "company_name": "Thermo Fisher Scientific"
+    },
+    {
+      "symbol": "TKO",
+      "manager_id": "LT",
+      "action": "Reduce 6.90%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 218958,
+      "portfolio_percentage": 1.08,
+      "company_name": "TKO Group Holdings Inc."
+    },
+    {
+      "symbol": "INTU",
+      "manager_id": "LT",
+      "action": "Reduce 8.11%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 53976,
+      "portfolio_percentage": 0.9,
+      "company_name": "Intuit Inc."
+    },
+    {
+      "symbol": "DIS",
+      "manager_id": "LT",
+      "action": "Reduce 8.84%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 361446,
+      "portfolio_percentage": 1.02,
+      "company_name": "Walt Disney Co."
+    },
+    {
+      "symbol": "MANU",
+      "manager_id": "LT",
+      "action": "Reduce 9.01%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 433500,
+      "portfolio_percentage": 0.16,
+      "company_name": "Manchester United plc"
+    },
+    {
+      "symbol": "PEP",
+      "manager_id": "LT",
+      "action": "Reduce 9.29%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 225539,
+      "portfolio_percentage": 0.78,
+      "company_name": "PepsiCo Inc."
+    },
+    {
+      "symbol": "MDLZ",
+      "manager_id": "LT",
+      "action": "Reduce 11.92%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 680500,
+      "portfolio_percentage": 1.04,
+      "company_name": "Mondelez International"
+    },
+    {
+      "symbol": "EBAY",
+      "manager_id": "LT",
+      "action": "Reduce 25.26%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 829575,
+      "portfolio_percentage": 1.85,
+      "company_name": "eBay Inc."
+    },
+    {
+      "symbol": "ORCL",
+      "manager_id": "LT",
+      "action": "Reduce 48.57%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 8500,
+      "portfolio_percentage": 0.06,
+      "company_name": "Oracle Corp."
+    },
+    {
+      "symbol": "HSY",
+      "manager_id": "LT",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 5100,
+      "portfolio_percentage": 0.02,
+      "company_name": "Hershey Co."
+    },
+    {
       "symbol": "GOOGL",
       "manager_id": "LT",
       "action": "Add 11028.80%",
@@ -3654,6 +3885,6 @@
       "company_name": "Keurig Dr Pepper Inc."
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.966954",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.590087",
+  "scraped_date": "2025-12-01"
 }

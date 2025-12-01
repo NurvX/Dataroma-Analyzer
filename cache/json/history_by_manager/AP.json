@@ -2,6 +2,105 @@
   "manager_id": "AP",
   "activities": [
     {
+      "symbol": "AMZN",
+      "manager_id": "AP",
+      "action": "Add 20.43%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1282347,
+      "portfolio_percentage": 5.15,
+      "company_name": "Amazon.com Inc."
+    },
+    {
+      "symbol": "V",
+      "manager_id": "AP",
+      "action": "Reduce 0.35%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1890,
+      "portfolio_percentage": 0.01,
+      "company_name": "Visa Inc."
+    },
+    {
+      "symbol": "MSFT",
+      "manager_id": "AP",
+      "action": "Reduce 0.36%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 9382,
+      "portfolio_percentage": 0.09,
+      "company_name": "Microsoft Corp."
+    },
+    {
+      "symbol": "TDG",
+      "manager_id": "AP",
+      "action": "Reduce 0.36%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 3558,
+      "portfolio_percentage": 0.09,
+      "company_name": "TransDigm Group Inc."
+    },
+    {
+      "symbol": "HLT",
+      "manager_id": "AP",
+      "action": "Reduce 0.36%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1983,
+      "portfolio_percentage": 0.01,
+      "company_name": "Hilton Worldwide Holdings"
+    },
+    {
+      "symbol": "MCO",
+      "manager_id": "AP",
+      "action": "Reduce 0.37%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 3519,
+      "portfolio_percentage": 0.03,
+      "company_name": "Moody's Corp."
+    },
+    {
+      "symbol": "MA",
+      "manager_id": "AP",
+      "action": "Reduce 0.37%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 2168,
+      "portfolio_percentage": 0.02,
+      "company_name": "Mastercard Inc."
+    },
+    {
+      "symbol": "FICO",
+      "manager_id": "AP",
+      "action": "Reduce 0.45%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 3,
+      "portfolio_percentage": 0.0,
+      "company_name": "Fair Isaac Corp."
+    },
+    {
+      "symbol": "GOOGL",
+      "manager_id": "AP",
+      "action": "Reduce 67.06%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 701038,
+      "portfolio_percentage": 3.11,
+      "company_name": "Alphabet Inc."
+    },
+    {
       "symbol": "HLT",
       "manager_id": "AP",
       "action": "Add 98.79%",
@@ -1674,6 +1773,6 @@
       "company_name": "TransDigm Group Inc."
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.837369",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.498587",
+  "scraped_date": "2025-12-01"
 }

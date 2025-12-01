@@ -13,7 +13,7 @@
       "company_name": "Accenture"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "MAVFX",
       "action": "Add 706.36%",
       "date": "Q3 2025",
@@ -1762,7 +1762,7 @@
       "company_name": "Applied Materials"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "MAVFX",
       "action": "Buy",
       "date": "Q2 2025",
@@ -3148,7 +3148,7 @@
       "company_name": "RTX Corp."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "MAVFX",
       "action": "Sell 100.00%",
       "date": "Q1 2025",
@@ -4193,7 +4193,7 @@
       "company_name": "Pfizer Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "MAVFX",
       "action": "Reduce 13.09%",
       "date": "Q4 2024",
@@ -5117,7 +5117,7 @@
       "company_name": "Visa Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "MAVFX",
       "action": "Reduce 3.06%",
       "date": "Q3 2024",
@@ -5975,7 +5975,7 @@
       "company_name": "L3Harris Technologies Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "MAVFX",
       "action": "Reduce 1.83%",
       "date": "Q2 2024",
@@ -7020,7 +7020,7 @@
       "company_name": "International Business Machines"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "MAVFX",
       "action": "Reduce 49.97%",
       "date": "Q1 2024",
@@ -7922,7 +7922,7 @@
       "company_name": "U.S. Bancorp"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "MAVFX",
       "action": "Reduce 7.24%",
       "date": "Q4 2023",
@@ -8472,7 +8472,7 @@
       "company_name": "PNC Financial Services"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "MAVFX",
       "action": "Reduce 0.92%",
       "date": "Q3 2023",
@@ -9594,7 +9594,7 @@
       "company_name": "Visa Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "MAVFX",
       "action": "Reduce 1.93%",
       "date": "Q2 2023",
@@ -10562,7 +10562,7 @@
       "company_name": "Walmart Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "MAVFX",
       "action": "Reduce 5.24%",
       "date": "Q1 2023",
@@ -11002,6 +11002,6 @@
       "company_name": "Tyson Foods"
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.557599",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.774303",
+  "scraped_date": "2025-12-01"
 }

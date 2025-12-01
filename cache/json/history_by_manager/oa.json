@@ -2,6 +2,215 @@
   "manager_id": "oa",
   "activities": [
     {
+      "symbol": "DMAC",
+      "manager_id": "oa",
+      "action": "Add 98.17%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1619761,
+      "portfolio_percentage": 0.27,
+      "company_name": "DiaMedica Therapeutics Inc."
+    },
+    {
+      "symbol": "CI",
+      "manager_id": "oa",
+      "action": "Add 53.30%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 113000,
+      "portfolio_percentage": 1.02,
+      "company_name": "Cigna Group"
+    },
+    {
+      "symbol": "GEHC",
+      "manager_id": "oa",
+      "action": "Add 50.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 200000,
+      "portfolio_percentage": 0.47,
+      "company_name": "GE HealthCare Technologies Inc."
+    },
+    {
+      "symbol": "ELV",
+      "manager_id": "oa",
+      "action": "Add 21.36%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 60000,
+      "portfolio_percentage": 0.61,
+      "company_name": "Elevance Health Inc."
+    },
+    {
+      "symbol": "MIR",
+      "manager_id": "oa",
+      "action": "Add 17.66%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1258441,
+      "portfolio_percentage": 0.91,
+      "company_name": "Mirion Technologies Inc"
+    },
+    {
+      "symbol": "FIHL",
+      "manager_id": "oa",
+      "action": "Add 14.75%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 856413,
+      "portfolio_percentage": 0.49,
+      "company_name": "Fidelis Insurance Holdings L"
+    },
+    {
+      "symbol": "SUN",
+      "manager_id": "oa",
+      "action": "Add 10.20%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 150000,
+      "portfolio_percentage": 0.23,
+      "company_name": "Sunoco Inc."
+    },
+    {
+      "symbol": "EPD",
+      "manager_id": "oa",
+      "action": "Add 4.42%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 56000,
+      "portfolio_percentage": 0.05,
+      "company_name": "Enterprise Products Partners LP"
+    },
+    {
+      "symbol": "AESI",
+      "manager_id": "oa",
+      "action": "Add 3.96%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 204268,
+      "portfolio_percentage": 0.07,
+      "company_name": "Atlas Energy Solutions Inc"
+    },
+    {
+      "symbol": "STKL",
+      "manager_id": "oa",
+      "action": "Add 2.46%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 160058,
+      "portfolio_percentage": 0.03,
+      "company_name": "SunOpta Inc."
+    },
+    {
+      "symbol": "FOA",
+      "manager_id": "oa",
+      "action": "Add 0.83%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 10628,
+      "portfolio_percentage": 0.01,
+      "company_name": "Finance Of America Companies Inc."
+    },
+    {
+      "symbol": "MANU",
+      "manager_id": "oa",
+      "action": "Add 0.64%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 18140,
+      "portfolio_percentage": 0.01,
+      "company_name": "Manchester United plc"
+    },
+    {
+      "symbol": "TDAY",
+      "manager_id": "oa",
+      "action": "Add 0.40%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 23151,
+      "portfolio_percentage": 0.0,
+      "company_name": "Gannett Co."
+    },
+    {
+      "symbol": "AMRZ",
+      "manager_id": "oa",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 880000,
+      "portfolio_percentage": 1.33,
+      "company_name": "Amrize Ltd"
+    },
+    {
+      "symbol": "OXY",
+      "manager_id": "oa",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 337500,
+      "portfolio_percentage": 0.5,
+      "company_name": "Occidental Petroleum"
+    },
+    {
+      "symbol": "ABR",
+      "manager_id": "oa",
+      "action": "Reduce 5.56%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 100000,
+      "portfolio_percentage": 0.04,
+      "company_name": "Arbor Realty Trust Inc."
+    },
+    {
+      "symbol": "MP",
+      "manager_id": "oa",
+      "action": "Reduce 7.41%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 240000,
+      "portfolio_percentage": 0.5,
+      "company_name": "MP Materials Corp."
+    },
+    {
+      "symbol": "OMF",
+      "manager_id": "oa",
+      "action": "Reduce 26.34%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 300000,
+      "portfolio_percentage": 0.53,
+      "company_name": "OneMain Holdings"
+    },
+    {
+      "symbol": "FISV",
+      "manager_id": "oa",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 390000,
+      "portfolio_percentage": 2.36,
+      "company_name": "Fiserv Inc."
+    },
+    {
       "symbol": "SUN",
       "manager_id": "oa",
       "action": "Add 415.79%",
@@ -46,7 +255,7 @@
       "company_name": "Fidelis Insurance Holdings L"
     },
     {
-      "symbol": "GCI",
+      "symbol": "TDAY",
       "manager_id": "oa",
       "action": "Add 14.65%",
       "date": "Q2 2025",
@@ -101,7 +310,7 @@
       "company_name": "KBR Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "oa",
       "action": "Add 2.63%",
       "date": "Q2 2025",
@@ -409,7 +618,7 @@
       "company_name": "SunOpta Inc."
     },
     {
-      "symbol": "GCI",
+      "symbol": "TDAY",
       "manager_id": "oa",
       "action": "Add 6.03%",
       "date": "Q1 2025",
@@ -618,7 +827,7 @@
       "company_name": "Finance Of America Companies Inc."
     },
     {
-      "symbol": "GCI",
+      "symbol": "TDAY",
       "manager_id": "oa",
       "action": "Add 2.65%",
       "date": "Q4 2024",
@@ -750,7 +959,7 @@
       "company_name": "Mirion Technologies Inc"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "oa",
       "action": "Reduce 20.83%",
       "date": "Q4 2024",
@@ -893,7 +1102,7 @@
       "company_name": "Manchester United plc"
     },
     {
-      "symbol": "GCI",
+      "symbol": "TDAY",
       "manager_id": "oa",
       "action": "Add 17.20%",
       "date": "Q3 2024",
@@ -1355,7 +1564,7 @@
       "company_name": "ADT Inc."
     },
     {
-      "symbol": "GCI",
+      "symbol": "TDAY",
       "manager_id": "oa",
       "action": "Add 0.67%",
       "date": "Q2 2024",
@@ -1520,7 +1729,7 @@
       "company_name": "Dt Midstream Inc"
     },
     {
-      "symbol": "GCI",
+      "symbol": "TDAY",
       "manager_id": "oa",
       "action": "Add 3.12%",
       "date": "Q1 2024",
@@ -1740,7 +1949,7 @@
       "company_name": "WillScot Mobile Mini Hldgs Corp."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "oa",
       "action": "Add 7.87%",
       "date": "Q4 2023",
@@ -1828,7 +2037,7 @@
       "company_name": "DiaMedica Therapeutics Inc."
     },
     {
-      "symbol": "GCI",
+      "symbol": "TDAY",
       "manager_id": "oa",
       "action": "Add 0.86%",
       "date": "Q4 2023",
@@ -2290,7 +2499,7 @@
       "company_name": "ADT Inc."
     },
     {
-      "symbol": "GCI",
+      "symbol": "TDAY",
       "manager_id": "oa",
       "action": "Add 1.21%",
       "date": "Q2 2023",
@@ -2609,7 +2818,7 @@
       "company_name": "Ellington Financial LLC"
     },
     {
-      "symbol": "GCI",
+      "symbol": "TDAY",
       "manager_id": "oa",
       "action": "Add 30.69%",
       "date": "Q1 2023",
@@ -3005,7 +3214,7 @@
       "company_name": "Mirion Technologies Inc"
     },
     {
-      "symbol": "GCI",
+      "symbol": "TDAY",
       "manager_id": "oa",
       "action": "Add 9.82%",
       "date": "Q4 2022",
@@ -3313,7 +3522,7 @@
       "company_name": "Energy Transfer LP"
     },
     {
-      "symbol": "GCI",
+      "symbol": "TDAY",
       "manager_id": "oa",
       "action": "Add 11.22%",
       "date": "Q3 2022",
@@ -3489,7 +3698,7 @@
       "company_name": "Onity Group Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "oa",
       "action": "Reduce 48.26%",
       "date": "Q3 2022",
@@ -3621,7 +3830,7 @@
       "company_name": "Onity Group Inc."
     },
     {
-      "symbol": "GCI",
+      "symbol": "TDAY",
       "manager_id": "oa",
       "action": "Add 35.59%",
       "date": "Q2 2022",
@@ -3819,7 +4028,7 @@
       "company_name": "Devon Energy Corp."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "oa",
       "action": "Reduce 16.55%",
       "date": "Q2 2022",
@@ -4006,7 +4215,7 @@
       "company_name": "Energy Transfer LP"
     },
     {
-      "symbol": "GCI",
+      "symbol": "TDAY",
       "manager_id": "oa",
       "action": "Add 12.75%",
       "date": "Q1 2022",
@@ -4070,17 +4279,6 @@
       "shares": 1838400,
       "portfolio_percentage": 6.0,
       "company_name": "Apollo Global Management"
-    },
-    {
-      "symbol": "FI",
-      "manager_id": "oa",
-      "action": "Buy",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 1030600,
-      "portfolio_percentage": 5.5,
-      "company_name": "Fiserv Inc."
     },
     {
       "symbol": "FORD-OLD",
@@ -4268,17 +4466,6 @@
       "shares": 1600000,
       "portfolio_percentage": 6.7,
       "company_name": "Athene Holding Ltd."
-    },
-    {
-      "symbol": "FISV",
-      "manager_id": "oa",
-      "action": "Sell 100.00%",
-      "date": "Q1 2022",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 1030600,
-      "portfolio_percentage": 5.37,
-      "company_name": "Fiserv Inc."
     },
     {
       "symbol": "NRG",
@@ -6393,7 +6580,7 @@
       "company_name": "GAMCO Investors Inc."
     },
     {
-      "symbol": "GCI",
+      "symbol": "TDAY",
       "manager_id": "oa",
       "action": "Add 46.23%",
       "date": "Q4 2020",
@@ -6987,7 +7174,7 @@
       "company_name": "Nabors Industries Ltd."
     },
     {
-      "symbol": "GCI",
+      "symbol": "TDAY",
       "manager_id": "oa",
       "action": "Reduce 42.26%",
       "date": "Q3 2020",
@@ -7251,7 +7438,7 @@
       "company_name": "VICI Properties Inc."
     },
     {
-      "symbol": "GCI",
+      "symbol": "TDAY",
       "manager_id": "oa",
       "action": "Reduce 76.78%",
       "date": "Q2 2020",
@@ -7471,7 +7658,7 @@
       "company_name": "New Senior Investment Group"
     },
     {
-      "symbol": "GCI",
+      "symbol": "TDAY",
       "manager_id": "oa",
       "action": "Add 4.46%",
       "date": "Q1 2020",
@@ -7812,7 +7999,7 @@
       "company_name": "Medallia Inc."
     },
     {
-      "symbol": "GCI",
+      "symbol": "TDAY",
       "manager_id": "oa",
       "action": "Add 977.05%",
       "date": "Q4 2019",
@@ -8472,7 +8659,7 @@
       "company_name": "Gray Television Inc."
     },
     {
-      "symbol": "GCI",
+      "symbol": "TDAY",
       "manager_id": "oa",
       "action": "Buy",
       "date": "Q3 2019",
@@ -10813,195 +11000,8 @@
       "shares": 95000,
       "portfolio_percentage": 0.08,
       "company_name": "Insmed Inc."
-    },
-    {
-      "symbol": "BRSL",
-      "manager_id": "oa",
-      "action": "Sell 100.00%",
-      "date": "Q3 2018",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 92400,
-      "portfolio_percentage": 0.07,
-      "company_name": "Brightstar Lottery"
-    },
-    {
-      "symbol": "AVRO-OLD",
-      "manager_id": "oa",
-      "action": "Sell 100.00%",
-      "date": "Q3 2018",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 50000,
-      "portfolio_percentage": 0.05,
-      "company_name": "AVROBIO Inc."
-    },
-    {
-      "symbol": "HK",
-      "manager_id": "oa",
-      "action": "Sell 100.00%",
-      "date": "Q3 2018",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 350000,
-      "portfolio_percentage": 0.05,
-      "company_name": "Halcon Resources Corp."
-    },
-    {
-      "symbol": "SURF-OLD",
-      "manager_id": "oa",
-      "action": "Sell 100.00%",
-      "date": "Q3 2018",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 94900,
-      "portfolio_percentage": 0.05,
-      "company_name": "Surface Oncology Inc."
-    },
-    {
-      "symbol": "VCEL",
-      "manager_id": "oa",
-      "action": "Sell 100.00%",
-      "date": "Q3 2018",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 150000,
-      "portfolio_percentage": 0.05,
-      "company_name": "Vericel Corp."
-    },
-    {
-      "symbol": "BOX",
-      "manager_id": "oa",
-      "action": "Sell 100.00%",
-      "date": "Q3 2018",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 50000,
-      "portfolio_percentage": 0.04,
-      "company_name": "Box Inc."
-    },
-    {
-      "symbol": "CUROQ-OLD",
-      "manager_id": "oa",
-      "action": "Sell 100.00%",
-      "date": "Q3 2018",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 50000,
-      "portfolio_percentage": 0.04,
-      "company_name": "CURO Group Holdings Corp."
-    },
-    {
-      "symbol": "TTOO",
-      "manager_id": "oa",
-      "action": "Sell 100.00%",
-      "date": "Q3 2018",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 1424,
-      "portfolio_percentage": 0.04,
-      "company_name": "T2 Biosystems Inc."
-    },
-    {
-      "symbol": "USX",
-      "manager_id": "oa",
-      "action": "Sell 100.00%",
-      "date": "Q3 2018",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 75000,
-      "portfolio_percentage": 0.04,
-      "company_name": "U.S. Xpress Enterprises Inc."
-    },
-    {
-      "symbol": "QURE",
-      "manager_id": "oa",
-      "action": "Sell 100.00%",
-      "date": "Q3 2018",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 25000,
-      "portfolio_percentage": 0.03,
-      "company_name": "uniQure NV"
-    },
-    {
-      "symbol": "XELA",
-      "manager_id": "oa",
-      "action": "Sell 100.00%",
-      "date": "Q3 2018",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 7518,
-      "portfolio_percentage": 0.02,
-      "company_name": "Exela Technologies Inc."
-    },
-    {
-      "symbol": "FTSI-OLD",
-      "manager_id": "oa",
-      "action": "Add 393.78%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 1076600,
-      "portfolio_percentage": 0.53,
-      "company_name": "FTS International Inc."
-    },
-    {
-      "symbol": "MU",
-      "manager_id": "oa",
-      "action": "Add 94.53%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 254000,
-      "portfolio_percentage": 0.46,
-      "company_name": "Micron Technology Inc."
-    },
-    {
-      "symbol": "SAGE-OLD",
-      "manager_id": "oa",
-      "action": "Add 60.17%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 28100,
-      "portfolio_percentage": 0.15,
-      "company_name": "Sage Therapeutics Inc."
-    },
-    {
-      "symbol": "TMHC",
-      "manager_id": "oa",
-      "action": "Add 59.57%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 280000,
-      "portfolio_percentage": 0.2,
-      "company_name": "Taylor Morrison Home Corp."
-    },
-    {
-      "symbol": "SBGI",
-      "manager_id": "oa",
-      "action": "Add 39.76%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 752679,
-      "portfolio_percentage": 0.84,
-      "company_name": "Sinclair Broadcast Group Inc."
-    },
-    {
-      "symbol": "HUM",
-      "manager_id": "oa",
-      "action": "Add 38.82%",
-      "date": "Q2 2018",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 51800,
-      "portfolio_percentage": 0.54,
-      "company_name": "Humana Inc."
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.825760",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.456785",
+  "scraped_date": "2025-12-01"
 }

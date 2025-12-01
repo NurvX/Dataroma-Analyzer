@@ -2,6 +2,105 @@
   "manager_id": "SEQUX",
   "activities": [
     {
+      "symbol": "ELV",
+      "manager_id": "SEQUX",
+      "action": "Add 27.29%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 114351,
+      "portfolio_percentage": 1.0,
+      "company_name": "Elevance Health Inc."
+    },
+    {
+      "symbol": "GLIBK",
+      "manager_id": "SEQUX",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 116745,
+      "portfolio_percentage": 0.12,
+      "company_name": "GCI Liberty Inc. Series C"
+    },
+    {
+      "symbol": "GLBAV",
+      "manager_id": "SEQUX",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 68152,
+      "portfolio_percentage": 0.07,
+      "company_name": "GCI Liberty Inc. Series A"
+    },
+    {
+      "symbol": "CACC",
+      "manager_id": "SEQUX",
+      "action": "Reduce 0.76%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1665,
+      "portfolio_percentage": 0.02,
+      "company_name": "Credit Acceptance Corp."
+    },
+    {
+      "symbol": "TSM",
+      "manager_id": "SEQUX",
+      "action": "Reduce 2.58%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 18000,
+      "portfolio_percentage": 0.14,
+      "company_name": "Taiwan Semiconductor S.A."
+    },
+    {
+      "symbol": "CHTR",
+      "manager_id": "SEQUX",
+      "action": "Reduce 6.69%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 9800,
+      "portfolio_percentage": 0.07,
+      "company_name": "Charter Communications"
+    },
+    {
+      "symbol": "SCHW",
+      "manager_id": "SEQUX",
+      "action": "Reduce 8.89%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 225012,
+      "portfolio_percentage": 0.58,
+      "company_name": "Charles Schwab Corp."
+    },
+    {
+      "symbol": "META",
+      "manager_id": "SEQUX",
+      "action": "Reduce 64.31%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 126588,
+      "portfolio_percentage": 2.52,
+      "company_name": "Meta Platforms Inc."
+    },
+    {
+      "symbol": "J",
+      "manager_id": "SEQUX",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 361872,
+      "portfolio_percentage": 1.26,
+      "company_name": "Jacobs Solutions Inc."
+    },
+    {
       "symbol": "ICLR",
       "manager_id": "SEQUX",
       "action": "Add 27.45%",
@@ -1042,7 +1141,7 @@
       "date": "Q2 2023",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 225165,
+      "shares": 2251650,
       "portfolio_percentage": 2.63,
       "company_name": "Netflix Inc."
     },
@@ -1163,7 +1262,7 @@
       "date": "Q4 2022",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 272047,
+      "shares": 2720470,
       "portfolio_percentage": 2.75,
       "company_name": "Netflix Inc."
     },
@@ -1273,7 +1372,7 @@
       "date": "Q3 2022",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 214363,
+      "shares": 2143630,
       "portfolio_percentage": 1.78,
       "company_name": "Netflix Inc."
     },
@@ -1317,7 +1416,7 @@
       "date": "Q2 2022",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 225165,
+      "shares": 2251650,
       "portfolio_percentage": 1.22,
       "company_name": "Netflix Inc."
     },
@@ -1416,7 +1515,7 @@
       "date": "Q1 2022",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 217309,
+      "shares": 2173090,
       "portfolio_percentage": 2.01,
       "company_name": "Netflix Inc."
     },
@@ -1669,7 +1768,7 @@
       "date": "Q4 2021",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 12404,
+      "shares": 124040,
       "portfolio_percentage": 0.15,
       "company_name": "Netflix Inc."
     },
@@ -1944,7 +2043,7 @@
       "date": "Q2 2021",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 32760,
+      "shares": 327600,
       "portfolio_percentage": 0.36,
       "company_name": "Netflix Inc."
     },
@@ -2241,7 +2340,7 @@
       "date": "Q4 2020",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 248745,
+      "shares": 2487450,
       "portfolio_percentage": 3.17,
       "company_name": "Netflix Inc."
     },
@@ -10901,19 +11000,8 @@
       "shares": 750,
       "portfolio_percentage": 0.0,
       "company_name": "Berkshire Hathaway CL B"
-    },
-    {
-      "symbol": "TIF",
-      "manager_id": "SEQUX",
-      "action": "Sell 100.00%",
-      "date": "Q1 2007",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 1145572,
-      "portfolio_percentage": 1.33,
-      "company_name": "Tiffany & Co."
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.611034",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.252926",
+  "scraped_date": "2025-12-01"
 }

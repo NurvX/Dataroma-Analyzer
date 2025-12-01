@@ -2,6 +2,50 @@
   "manager_id": "GLC",
   "activities": [
     {
+      "symbol": "BN",
+      "manager_id": "GLC",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 1428322,
+      "portfolio_percentage": 19.04,
+      "company_name": "Brookfield Corp."
+    },
+    {
+      "symbol": "AMZN",
+      "manager_id": "GLC",
+      "action": "Reduce 0.85%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 2745,
+      "portfolio_percentage": 0.18,
+      "company_name": "Amazon.com Inc."
+    },
+    {
+      "symbol": "BUR",
+      "manager_id": "GLC",
+      "action": "Reduce 45.42%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1527250,
+      "portfolio_percentage": 4.79,
+      "company_name": "Burford Capital Ltd"
+    },
+    {
+      "symbol": "BAM",
+      "manager_id": "GLC",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 952215,
+      "portfolio_percentage": 16.57,
+      "company_name": "Brookfield Asset Management"
+    },
+    {
       "symbol": "BUR",
       "manager_id": "GLC",
       "action": "Add 325.39%",
@@ -833,7 +877,7 @@
       "date": "Q1 2023",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 30070,
+      "shares": 300700,
       "portfolio_percentage": 9.45,
       "company_name": "Netflix Inc."
     },
@@ -943,7 +987,7 @@
       "date": "Q4 2022",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 65785,
+      "shares": 657850,
       "portfolio_percentage": 20.67,
       "company_name": "Netflix Inc."
     },
@@ -1064,7 +1108,7 @@
       "date": "Q2 2022",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 30130,
+      "shares": 301300,
       "portfolio_percentage": 2.1,
       "company_name": "Netflix Inc."
     },
@@ -1207,7 +1251,7 @@
       "date": "Q1 2022",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 20112,
+      "shares": 201120,
       "portfolio_percentage": 2.1,
       "company_name": "Netflix Inc."
     },
@@ -1328,7 +1372,7 @@
       "date": "Q4 2021",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 2200,
+      "shares": 22000,
       "portfolio_percentage": 0.43,
       "company_name": "Netflix Inc."
     },
@@ -1515,7 +1559,7 @@
       "date": "Q2 2021",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 8140,
+      "shares": 81400,
       "portfolio_percentage": 1.29,
       "company_name": "Netflix Inc."
     },
@@ -1625,7 +1669,7 @@
       "date": "Q1 2021",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 942,
+      "shares": 9420,
       "portfolio_percentage": 0.21,
       "company_name": "Netflix Inc."
     },
@@ -1757,7 +1801,7 @@
       "date": "Q4 2020",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 10500,
+      "shares": 105000,
       "portfolio_percentage": 2.13,
       "company_name": "Netflix Inc."
     },
@@ -1878,7 +1922,7 @@
       "date": "Q3 2020",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 1293,
+      "shares": 12930,
       "portfolio_percentage": 0.25,
       "company_name": "Netflix Inc."
     },
@@ -1933,7 +1977,7 @@
       "date": "Q2 2020",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 2327,
+      "shares": 23270,
       "portfolio_percentage": 0.51,
       "company_name": "Netflix Inc."
     },
@@ -2021,7 +2065,7 @@
       "date": "Q1 2020",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 40910,
+      "shares": 409100,
       "portfolio_percentage": 10.09,
       "company_name": "Netflix Inc."
     },
@@ -2087,7 +2131,7 @@
       "date": "Q4 2019",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 2870,
+      "shares": 28700,
       "portfolio_percentage": 0.48,
       "company_name": "Netflix Inc."
     },
@@ -2175,7 +2219,7 @@
       "date": "Q3 2019",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 26880,
+      "shares": 268800,
       "portfolio_percentage": 4.28,
       "company_name": "Netflix Inc."
     },
@@ -2285,7 +2329,7 @@
       "date": "Q2 2019",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 6810,
+      "shares": 68100,
       "portfolio_percentage": 1.38,
       "company_name": "Netflix Inc."
     },
@@ -2395,7 +2439,7 @@
       "date": "Q1 2019",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 10100,
+      "shares": 101000,
       "portfolio_percentage": 2.14,
       "company_name": "Netflix Inc."
     },
@@ -2466,6 +2510,6 @@
       "company_name": "Stitch Fix Inc."
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.846739",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.492625",
+  "scraped_date": "2025-12-01"
 }

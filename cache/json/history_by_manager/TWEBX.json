@@ -4710,7 +4710,7 @@
       "company_name": "Alcon Inc."
     },
     {
-      "symbol": "MRC",
+      "symbol": "MRC-OLD",
       "manager_id": "TWEBX",
       "action": "Sell 100.00%",
       "date": "Q2 2020",
@@ -4897,7 +4897,7 @@
       "company_name": "Standard Chartered PLC"
     },
     {
-      "symbol": "MRC",
+      "symbol": "MRC-OLD",
       "manager_id": "TWEBX",
       "action": "Reduce 51.16%",
       "date": "Q1 2020",
@@ -6459,7 +6459,7 @@
       "company_name": "Baxalta Inc."
     },
     {
-      "symbol": "MRC",
+      "symbol": "MRC-OLD",
       "manager_id": "TWEBX",
       "action": "Buy",
       "date": "Q3 2015",
@@ -10430,6 +10430,6 @@
       "company_name": "Commonwealth Telephone Enterprises Inc."
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.530567",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.746021",
+  "scraped_date": "2025-12-01"
 }

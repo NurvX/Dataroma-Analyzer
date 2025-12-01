@@ -2,6 +2,347 @@
   "manager_id": "CAAPX",
   "activities": [
     {
+      "symbol": "FISV",
+      "manager_id": "CAAPX",
+      "action": "Add 36.84%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 36056,
+      "portfolio_percentage": 0.52,
+      "company_name": "Fiserv Inc."
+    },
+    {
+      "symbol": "MIDD",
+      "manager_id": "CAAPX",
+      "action": "Add 15.72%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 22460,
+      "portfolio_percentage": 0.34,
+      "company_name": "Middleby Corp."
+    },
+    {
+      "symbol": "SLB",
+      "manager_id": "CAAPX",
+      "action": "Add 14.54%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 77016,
+      "portfolio_percentage": 0.3,
+      "company_name": "Schlumberger Ltd."
+    },
+    {
+      "symbol": "FAF",
+      "manager_id": "CAAPX",
+      "action": "Add 11.63%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 43560,
+      "portfolio_percentage": 0.32,
+      "company_name": "First Amer'n Corp."
+    },
+    {
+      "symbol": "CLB",
+      "manager_id": "CAAPX",
+      "action": "Add 10.58%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 144838,
+      "portfolio_percentage": 0.2,
+      "company_name": "Core Laboratories Inc."
+    },
+    {
+      "symbol": "SJM",
+      "manager_id": "CAAPX",
+      "action": "Add 6.35%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 8073,
+      "portfolio_percentage": 0.1,
+      "company_name": "J.M. Smucker Co"
+    },
+    {
+      "symbol": "AXTA",
+      "manager_id": "CAAPX",
+      "action": "Add 5.24%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 29183,
+      "portfolio_percentage": 0.09,
+      "company_name": "Axalta Coating Systems Ltd."
+    },
+    {
+      "symbol": "KMX",
+      "manager_id": "CAAPX",
+      "action": "Add 4.94%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 15238,
+      "portfolio_percentage": 0.08,
+      "company_name": "CarMax Inc."
+    },
+    {
+      "symbol": "MSGE",
+      "manager_id": "CAAPX",
+      "action": "Add 3.89%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 25318,
+      "portfolio_percentage": 0.13,
+      "company_name": "Madison Square Garden Entertainment Corp."
+    },
+    {
+      "symbol": "NCLH",
+      "manager_id": "CAAPX",
+      "action": "Add 3.57%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 42344,
+      "portfolio_percentage": 0.12,
+      "company_name": "Norwegian Cruise Line Hlgs Ltd."
+    },
+    {
+      "symbol": "CRL",
+      "manager_id": "CAAPX",
+      "action": "Add 3.33%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 6099,
+      "portfolio_percentage": 0.11,
+      "company_name": "Charles River Labs"
+    },
+    {
+      "symbol": "OSW",
+      "manager_id": "CAAPX",
+      "action": "Add 3.22%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 32410,
+      "portfolio_percentage": 0.08,
+      "company_name": "OneSpaWorld Holdings Ltd"
+    },
+    {
+      "symbol": "PBH",
+      "manager_id": "CAAPX",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 290755,
+      "portfolio_percentage": 2.05,
+      "company_name": "Prestige Consumer Healthcare"
+    },
+    {
+      "symbol": "NVST",
+      "manager_id": "CAAPX",
+      "action": "Reduce 3.60%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 43021,
+      "portfolio_percentage": 0.1,
+      "company_name": "Envista Holdings Corp."
+    },
+    {
+      "symbol": "BIO",
+      "manager_id": "CAAPX",
+      "action": "Reduce 3.61%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 3363,
+      "portfolio_percentage": 0.11,
+      "company_name": "Bio-Rad Laboratories Inc."
+    },
+    {
+      "symbol": "JLL",
+      "manager_id": "CAAPX",
+      "action": "Reduce 4.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 3397,
+      "portfolio_percentage": 0.11,
+      "company_name": "Jones Lang Lasalle Inc."
+    },
+    {
+      "symbol": "ADT",
+      "manager_id": "CAAPX",
+      "action": "Reduce 5.15%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 102149,
+      "portfolio_percentage": 0.1,
+      "company_name": "ADT Inc."
+    },
+    {
+      "symbol": "MANU",
+      "manager_id": "CAAPX",
+      "action": "Reduce 5.30%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 49450,
+      "portfolio_percentage": 0.08,
+      "company_name": "Manchester United plc"
+    },
+    {
+      "symbol": "KN",
+      "manager_id": "CAAPX",
+      "action": "Reduce 7.08%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 89522,
+      "portfolio_percentage": 0.24,
+      "company_name": "Knowles Corp."
+    },
+    {
+      "symbol": "LAZ",
+      "manager_id": "CAAPX",
+      "action": "Reduce 9.51%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 48537,
+      "portfolio_percentage": 0.29,
+      "company_name": "Lazard Inc."
+    },
+    {
+      "symbol": "CG",
+      "manager_id": "CAAPX",
+      "action": "Reduce 11.50%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 55979,
+      "portfolio_percentage": 0.4,
+      "company_name": "Carlyle Group"
+    },
+    {
+      "symbol": "NTRS",
+      "manager_id": "CAAPX",
+      "action": "Reduce 11.52%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 20397,
+      "portfolio_percentage": 0.31,
+      "company_name": "Northern Trust Corp."
+    },
+    {
+      "symbol": "SCHW",
+      "manager_id": "CAAPX",
+      "action": "Reduce 13.19%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 29448,
+      "portfolio_percentage": 0.32,
+      "company_name": "Charles Schwab Corp."
+    },
+    {
+      "symbol": "KKR",
+      "manager_id": "CAAPX",
+      "action": "Reduce 15.11%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 25188,
+      "portfolio_percentage": 0.37,
+      "company_name": "KKR & Co. L.P."
+    },
+    {
+      "symbol": "LFUS",
+      "manager_id": "CAAPX",
+      "action": "Reduce 15.94%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 9675,
+      "portfolio_percentage": 0.28,
+      "company_name": "Littelfuse Inc."
+    },
+    {
+      "symbol": "SPHR",
+      "manager_id": "CAAPX",
+      "action": "Reduce 16.29%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 96130,
+      "portfolio_percentage": 0.68,
+      "company_name": "Sphere Entertainment Co."
+    },
+    {
+      "symbol": "GNRC",
+      "manager_id": "CAAPX",
+      "action": "Reduce 21.78%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 52763,
+      "portfolio_percentage": 1.0,
+      "company_name": "Generac Holdings Inc."
+    },
+    {
+      "symbol": "REZI",
+      "manager_id": "CAAPX",
+      "action": "Reduce 29.25%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 219183,
+      "portfolio_percentage": 1.07,
+      "company_name": "Resideo Technologies Inc."
+    },
+    {
+      "symbol": "KMT",
+      "manager_id": "CAAPX",
+      "action": "Reduce 37.58%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 225000,
+      "portfolio_percentage": 0.53,
+      "company_name": "Kennametal Inc."
+    },
+    {
+      "symbol": "GS",
+      "manager_id": "CAAPX",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 16649,
+      "portfolio_percentage": 1.4,
+      "company_name": "Goldman Sachs Group"
+    },
+    {
+      "symbol": "PARA-OLD",
+      "manager_id": "CAAPX",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 778885,
+      "portfolio_percentage": 1.2,
+      "company_name": "Paramount Global CL B"
+    },
+    {
       "symbol": "OSW",
       "manager_id": "CAAPX",
       "action": "Add 60.93%",
@@ -134,7 +475,7 @@
       "company_name": "Knowles Corp."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "CAAPX",
       "action": "Buy",
       "date": "Q2 2025",
@@ -244,7 +585,7 @@
       "company_name": "Carlyle Group"
     },
     {
-      "symbol": "IPG",
+      "symbol": "IPG-OLD",
       "manager_id": "CAAPX",
       "action": "Reduce 6.83%",
       "date": "Q2 2025",
@@ -497,7 +838,7 @@
       "company_name": "Resideo Technologies Inc."
     },
     {
-      "symbol": "IPG",
+      "symbol": "IPG-OLD",
       "manager_id": "CAAPX",
       "action": "Add 7.62%",
       "date": "Q1 2025",
@@ -1652,7 +1993,7 @@
       "company_name": "First Amer'n Corp."
     },
     {
-      "symbol": "IPG",
+      "symbol": "IPG-OLD",
       "manager_id": "CAAPX",
       "action": "Add 2.30%",
       "date": "Q2 2024",
@@ -2026,7 +2367,7 @@
       "company_name": "Knowles Corp."
     },
     {
-      "symbol": "IPG",
+      "symbol": "IPG-OLD",
       "manager_id": "CAAPX",
       "action": "Reduce 1.26%",
       "date": "Q1 2024",
@@ -2345,7 +2686,7 @@
       "company_name": "Jones Lang Lasalle Inc."
     },
     {
-      "symbol": "IPG",
+      "symbol": "IPG-OLD",
       "manager_id": "CAAPX",
       "action": "Add 11.60%",
       "date": "Q4 2023",
@@ -3071,7 +3412,7 @@
       "company_name": "Knowles Corp."
     },
     {
-      "symbol": "IPG",
+      "symbol": "IPG-OLD",
       "manager_id": "CAAPX",
       "action": "Reduce 12.18%",
       "date": "Q2 2023",
@@ -3522,7 +3863,7 @@
       "company_name": "Kennametal Inc."
     },
     {
-      "symbol": "IPG",
+      "symbol": "IPG-OLD",
       "manager_id": "CAAPX",
       "action": "Reduce 8.83%",
       "date": "Q1 2023",
@@ -3929,7 +4270,7 @@
       "company_name": "ADT Inc."
     },
     {
-      "symbol": "IPG",
+      "symbol": "IPG-OLD",
       "manager_id": "CAAPX",
       "action": "Add 16.24%",
       "date": "Q3 2022",
@@ -4204,7 +4545,7 @@
       "company_name": "CBRE Group"
     },
     {
-      "symbol": "IPG",
+      "symbol": "IPG-OLD",
       "manager_id": "CAAPX",
       "action": "Add 26.44%",
       "date": "Q2 2022",
@@ -4765,7 +5106,7 @@
       "company_name": "CBRE Group"
     },
     {
-      "symbol": "IPG",
+      "symbol": "IPG-OLD",
       "manager_id": "CAAPX",
       "action": "Reduce 10.83%",
       "date": "Q1 2022",
@@ -5106,7 +5447,7 @@
       "company_name": "First Amer'n Corp."
     },
     {
-      "symbol": "IPG",
+      "symbol": "IPG-OLD",
       "manager_id": "CAAPX",
       "action": "Reduce 19.28%",
       "date": "Q4 2021",
@@ -5381,7 +5722,7 @@
       "company_name": "Houlihan Lokey Inc."
     },
     {
-      "symbol": "IPG",
+      "symbol": "IPG-OLD",
       "manager_id": "CAAPX",
       "action": "Reduce 29.94%",
       "date": "Q3 2021",
@@ -5579,7 +5920,7 @@
       "company_name": "Envista Holdings Corp."
     },
     {
-      "symbol": "IPG",
+      "symbol": "IPG-OLD",
       "manager_id": "CAAPX",
       "action": "Reduce 11.59%",
       "date": "Q2 2021",
@@ -5832,7 +6173,7 @@
       "company_name": "Nielsen Holdings plc"
     },
     {
-      "symbol": "IPG",
+      "symbol": "IPG-OLD",
       "manager_id": "CAAPX",
       "action": "Reduce 7.64%",
       "date": "Q1 2021",
@@ -6162,7 +6503,7 @@
       "company_name": "MSG Networks Inc."
     },
     {
-      "symbol": "IPG",
+      "symbol": "IPG-OLD",
       "manager_id": "CAAPX",
       "action": "Reduce 12.83%",
       "date": "Q4 2020",
@@ -6844,7 +7185,7 @@
       "company_name": "Omnicom Group"
     },
     {
-      "symbol": "IPG",
+      "symbol": "IPG-OLD",
       "manager_id": "CAAPX",
       "action": "Reduce 16.58%",
       "date": "Q2 2020",
@@ -7152,7 +7493,7 @@
       "company_name": "Kennametal Inc."
     },
     {
-      "symbol": "IPG",
+      "symbol": "IPG-OLD",
       "manager_id": "CAAPX",
       "action": "Add 1.76%",
       "date": "Q1 2020",
@@ -7768,7 +8109,7 @@
       "company_name": "U.S. Silica Holdings Inc."
     },
     {
-      "symbol": "IPG",
+      "symbol": "IPG-OLD",
       "manager_id": "CAAPX",
       "action": "Reduce 3.12%",
       "date": "Q4 2019",
@@ -7944,7 +8285,7 @@
       "company_name": "Tiffany & Co."
     },
     {
-      "symbol": "IPG",
+      "symbol": "IPG-OLD",
       "manager_id": "CAAPX",
       "action": "Add 20.85%",
       "date": "Q3 2019",
@@ -8747,7 +9088,7 @@
       "company_name": "Illinois Tool Works"
     },
     {
-      "symbol": "IPG",
+      "symbol": "IPG-OLD",
       "manager_id": "CAAPX",
       "action": "Reduce 11.00%",
       "date": "Q4 2018",
@@ -9110,7 +9451,7 @@
       "company_name": "Houlihan Lokey Inc."
     },
     {
-      "symbol": "IPG",
+      "symbol": "IPG-OLD",
       "manager_id": "CAAPX",
       "action": "Reduce 11.14%",
       "date": "Q3 2018",
@@ -9583,7 +9924,7 @@
       "company_name": "Nov Inc."
     },
     {
-      "symbol": "IPG",
+      "symbol": "IPG-OLD",
       "manager_id": "CAAPX",
       "action": "Reduce 8.73%",
       "date": "Q1 2018",
@@ -10133,7 +10474,7 @@
       "company_name": "CBS Corp."
     },
     {
-      "symbol": "IPG",
+      "symbol": "IPG-OLD",
       "manager_id": "CAAPX",
       "action": "Add 3.79%",
       "date": "Q3 2017",
@@ -10659,349 +11000,8 @@
       "shares": 223100,
       "portfolio_percentage": 0.61,
       "company_name": "Viacom Inc."
-    },
-    {
-      "symbol": "SWK",
-      "manager_id": "CAAPX",
-      "action": "Reduce 18.82%",
-      "date": "Q1 2017",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 111100,
-      "portfolio_percentage": 0.87,
-      "company_name": "Stanley Black & Decker Inc."
-    },
-    {
-      "symbol": "WU",
-      "manager_id": "CAAPX",
-      "action": "Reduce 19.58%",
-      "date": "Q1 2017",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 419500,
-      "portfolio_percentage": 0.5,
-      "company_name": "Western Union Co."
-    },
-    {
-      "symbol": "CBRE",
-      "manager_id": "CAAPX",
-      "action": "Reduce 21.51%",
-      "date": "Q1 2017",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 137500,
-      "portfolio_percentage": 0.28,
-      "company_name": "CBRE Group"
-    },
-    {
-      "symbol": "JLL",
-      "manager_id": "CAAPX",
-      "action": "Reduce 26.33%",
-      "date": "Q1 2017",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 71520,
-      "portfolio_percentage": 0.47,
-      "company_name": "Jones Lang Lasalle Inc."
-    },
-    {
-      "symbol": "KMT",
-      "manager_id": "CAAPX",
-      "action": "Reduce 29.64%",
-      "date": "Q1 2017",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 562200,
-      "portfolio_percentage": 1.29,
-      "company_name": "Kennametal Inc."
-    },
-    {
-      "symbol": "KKR",
-      "manager_id": "CAAPX",
-      "action": "Reduce 32.47%",
-      "date": "Q1 2017",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 709100,
-      "portfolio_percentage": 0.76,
-      "company_name": "KKR & Co. L.P."
-    },
-    {
-      "symbol": "CBS",
-      "manager_id": "CAAPX",
-      "action": "Reduce 35.86%",
-      "date": "Q1 2017",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 290700,
-      "portfolio_percentage": 1.19,
-      "company_name": "CBS Corp."
-    },
-    {
-      "symbol": "BEN",
-      "manager_id": "CAAPX",
-      "action": "Reduce 37.37%",
-      "date": "Q1 2017",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 369000,
-      "portfolio_percentage": 0.91,
-      "company_name": "Franklin Resources"
-    },
-    {
-      "symbol": "TGNA",
-      "manager_id": "CAAPX",
-      "action": "Reduce 46.20%",
-      "date": "Q1 2017",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 415600,
-      "portfolio_percentage": 0.63,
-      "company_name": "TEGNA Inc."
-    },
-    {
-      "symbol": "TIF",
-      "manager_id": "CAAPX",
-      "action": "Reduce 49.02%",
-      "date": "Q1 2017",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 212300,
-      "portfolio_percentage": 1.19,
-      "company_name": "Tiffany & Co."
-    },
-    {
-      "symbol": "AXE",
-      "manager_id": "CAAPX",
-      "action": "Reduce 50.35%",
-      "date": "Q1 2017",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 211211,
-      "portfolio_percentage": 0.98,
-      "company_name": "Anixter International"
-    },
-    {
-      "symbol": "BIO",
-      "manager_id": "CAAPX",
-      "action": "Reduce 53.76%",
-      "date": "Q1 2017",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 74100,
-      "portfolio_percentage": 0.87,
-      "company_name": "Bio-Rad Laboratories Inc."
-    },
-    {
-      "symbol": "ZBH",
-      "manager_id": "CAAPX",
-      "action": "Add 11.36%",
-      "date": "Q4 2016",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 68800,
-      "portfolio_percentage": 0.43,
-      "company_name": "Zimmer Biomet Holdings"
-    },
-    {
-      "symbol": "MAT",
-      "manager_id": "CAAPX",
-      "action": "Add 10.40%",
-      "date": "Q4 2016",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 151700,
-      "portfolio_percentage": 0.25,
-      "company_name": "Mattel Inc."
-    },
-    {
-      "symbol": "SNA",
-      "manager_id": "CAAPX",
-      "action": "Add 3.98%",
-      "date": "Q4 2016",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 9700,
-      "portfolio_percentage": 0.1,
-      "company_name": "Snap-On Inc."
-    },
-    {
-      "symbol": "BWA",
-      "manager_id": "CAAPX",
-      "action": "Add 2.32%",
-      "date": "Q4 2016",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 22600,
-      "portfolio_percentage": 0.05,
-      "company_name": "BorgWarner Inc."
-    },
-    {
-      "symbol": "LH",
-      "manager_id": "CAAPX",
-      "action": "Add 1.67%",
-      "date": "Q4 2016",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 9400,
-      "portfolio_percentage": 0.07,
-      "company_name": "Labcorp Holdings Inc."
-    },
-    {
-      "symbol": "KEYS",
-      "manager_id": "CAAPX",
-      "action": "Buy",
-      "date": "Q4 2016",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 799715,
-      "portfolio_percentage": 1.76,
-      "company_name": "Keysight Technologies Inc."
-    },
-    {
-      "symbol": "NOV",
-      "manager_id": "CAAPX",
-      "action": "Reduce 1.51%",
-      "date": "Q4 2016",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 15600,
-      "portfolio_percentage": 0.04,
-      "company_name": "Nov Inc."
-    },
-    {
-      "symbol": "FAF",
-      "manager_id": "CAAPX",
-      "action": "Reduce 4.16%",
-      "date": "Q4 2016",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 71100,
-      "portfolio_percentage": 0.16,
-      "company_name": "First Amer'n Corp."
-    },
-    {
-      "symbol": "SWK",
-      "manager_id": "CAAPX",
-      "action": "Reduce 5.96%",
-      "date": "Q4 2016",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 37400,
-      "portfolio_percentage": 0.26,
-      "company_name": "Stanley Black & Decker Inc."
-    },
-    {
-      "symbol": "ITW",
-      "manager_id": "CAAPX",
-      "action": "Reduce 8.27%",
-      "date": "Q4 2016",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 43800,
-      "portfolio_percentage": 0.32,
-      "company_name": "Illinois Tool Works"
-    },
-    {
-      "symbol": "WU",
-      "manager_id": "CAAPX",
-      "action": "Reduce 9.75%",
-      "date": "Q4 2016",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 231400,
-      "portfolio_percentage": 0.3,
-      "company_name": "Western Union Co."
-    },
-    {
-      "symbol": "OMC",
-      "manager_id": "CAAPX",
-      "action": "Reduce 10.20%",
-      "date": "Q4 2016",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 82600,
-      "portfolio_percentage": 0.42,
-      "company_name": "Omnicom Group"
-    },
-    {
-      "symbol": "TMO",
-      "manager_id": "CAAPX",
-      "action": "Reduce 11.50%",
-      "date": "Q4 2016",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 40800,
-      "portfolio_percentage": 0.35,
-      "company_name": "Thermo Fisher Scientific"
-    },
-    {
-      "symbol": "TROW",
-      "manager_id": "CAAPX",
-      "action": "Reduce 20.05%",
-      "date": "Q4 2016",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 47100,
-      "portfolio_percentage": 0.21,
-      "company_name": "T. Rowe Price Group"
-    },
-    {
-      "symbol": "BIO",
-      "manager_id": "CAAPX",
-      "action": "Reduce 20.85%",
-      "date": "Q4 2016",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 36300,
-      "portfolio_percentage": 0.4,
-      "company_name": "Bio-Rad Laboratories Inc."
-    },
-    {
-      "symbol": "BEN",
-      "manager_id": "CAAPX",
-      "action": "Reduce 20.90%",
-      "date": "Q4 2016",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 260900,
-      "portfolio_percentage": 0.62,
-      "company_name": "Franklin Resources"
-    },
-    {
-      "symbol": "NTRS",
-      "manager_id": "CAAPX",
-      "action": "Reduce 24.26%",
-      "date": "Q4 2016",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 266200,
-      "portfolio_percentage": 1.43,
-      "company_name": "Northern Trust Corp."
-    },
-    {
-      "symbol": "JWN-OLD",
-      "manager_id": "CAAPX",
-      "action": "Reduce 27.57%",
-      "date": "Q4 2016",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 207400,
-      "portfolio_percentage": 0.6,
-      "company_name": "Nordstrom"
-    },
-    {
-      "symbol": "KMT",
-      "manager_id": "CAAPX",
-      "action": "Reduce 30.24%",
-      "date": "Q4 2016",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 822300,
-      "portfolio_percentage": 1.55,
-      "company_name": "Kennametal Inc."
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.629325",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.298295",
+  "scraped_date": "2025-12-01"
 }

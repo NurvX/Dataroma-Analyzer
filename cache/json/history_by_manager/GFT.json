@@ -2,6 +2,138 @@
   "manager_id": "GFT",
   "activities": [
     {
+      "symbol": "HRL",
+      "manager_id": "GFT",
+      "action": "Reduce 5.01%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 110000,
+      "portfolio_percentage": 0.01,
+      "company_name": "Hormel Foods Corp."
+    },
+    {
+      "symbol": "WCN",
+      "manager_id": "GFT",
+      "action": "Reduce 5.12%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 110000,
+      "portfolio_percentage": 0.05,
+      "company_name": "Waste Connections"
+    },
+    {
+      "symbol": "CNI",
+      "manager_id": "GFT",
+      "action": "Reduce 5.47%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 3000000,
+      "portfolio_percentage": 0.77,
+      "company_name": "Canadian Natl Railway Co."
+    },
+    {
+      "symbol": "KHC",
+      "manager_id": "GFT",
+      "action": "Reduce 5.72%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 150000,
+      "portfolio_percentage": 0.01,
+      "company_name": "Kraft Heinz Co."
+    },
+    {
+      "symbol": "FDX",
+      "manager_id": "GFT",
+      "action": "Reduce 5.92%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 150000,
+      "portfolio_percentage": 0.1,
+      "company_name": "FedEx Corp."
+    },
+    {
+      "symbol": "WMT",
+      "manager_id": "GFT",
+      "action": "Reduce 7.70%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 700000,
+      "portfolio_percentage": 0.2,
+      "company_name": "Walmart Inc."
+    },
+    {
+      "symbol": "BRK.B",
+      "manager_id": "GFT",
+      "action": "Reduce 9.78%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 2358460,
+      "portfolio_percentage": 3.24,
+      "company_name": "Berkshire Hathaway CL B"
+    },
+    {
+      "symbol": "WM",
+      "manager_id": "GFT",
+      "action": "Reduce 10.24%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 3300000,
+      "portfolio_percentage": 1.99,
+      "company_name": "Waste Management Inc."
+    },
+    {
+      "symbol": "CAT",
+      "manager_id": "GFT",
+      "action": "Reduce 13.60%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1000000,
+      "portfolio_percentage": 1.3,
+      "company_name": "Caterpillar Inc."
+    },
+    {
+      "symbol": "MSFT",
+      "manager_id": "GFT",
+      "action": "Reduce 64.91%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 17000000,
+      "portfolio_percentage": 24.06,
+      "company_name": "Microsoft Corp."
+    },
+    {
+      "symbol": "CCI",
+      "manager_id": "GFT",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 1420072,
+      "portfolio_percentage": 0.31,
+      "company_name": "Crown Castle International Corp."
+    },
+    {
+      "symbol": "UPS",
+      "manager_id": "GFT",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 755089,
+      "portfolio_percentage": 0.16,
+      "company_name": "United Parcel Service"
+    },
+    {
       "symbol": "BRK.B",
       "manager_id": "GFT",
       "action": "Add 40.48%",
@@ -6910,6 +7042,6 @@
       "company_name": "Time Warner Cable Inc."
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.734271",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.356145",
+  "scraped_date": "2025-12-01"
 }

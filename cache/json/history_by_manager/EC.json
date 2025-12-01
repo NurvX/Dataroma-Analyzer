@@ -2,6 +2,314 @@
   "manager_id": "EC",
   "activities": [
     {
+      "symbol": "BSX",
+      "manager_id": "EC",
+      "action": "Add 223.74%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 3671548,
+      "portfolio_percentage": 3.78,
+      "company_name": "Boston Scientific"
+    },
+    {
+      "symbol": "V",
+      "manager_id": "EC",
+      "action": "Add 24.76%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 473058,
+      "portfolio_percentage": 1.7,
+      "company_name": "Visa Inc."
+    },
+    {
+      "symbol": "AMZN",
+      "manager_id": "EC",
+      "action": "Add 21.45%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 715864,
+      "portfolio_percentage": 1.66,
+      "company_name": "Amazon.com Inc."
+    },
+    {
+      "symbol": "APH",
+      "manager_id": "EC",
+      "action": "Add 20.67%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 654949,
+      "portfolio_percentage": 0.85,
+      "company_name": "Amphenol Corp."
+    },
+    {
+      "symbol": "FERG",
+      "manager_id": "EC",
+      "action": "Add 16.43%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 366898,
+      "portfolio_percentage": 0.87,
+      "company_name": "Ferguson Enterprises Inc."
+    },
+    {
+      "symbol": "ARMK",
+      "manager_id": "EC",
+      "action": "Add 13.24%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 374656,
+      "portfolio_percentage": 0.15,
+      "company_name": "Aramark"
+    },
+    {
+      "symbol": "MA",
+      "manager_id": "EC",
+      "action": "Add 9.55%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 40109,
+      "portfolio_percentage": 0.24,
+      "company_name": "Mastercard Inc."
+    },
+    {
+      "symbol": "EMBJ",
+      "manager_id": "EC",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 2117012,
+      "portfolio_percentage": 1.35,
+      "company_name": "Embraer SA"
+    },
+    {
+      "symbol": "TRU",
+      "manager_id": "EC",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 1465050,
+      "portfolio_percentage": 1.29,
+      "company_name": "TransUnion"
+    },
+    {
+      "symbol": "LAMR",
+      "manager_id": "EC",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 723857,
+      "portfolio_percentage": 0.93,
+      "company_name": "Lamar Advertising Co."
+    },
+    {
+      "symbol": "MSFT",
+      "manager_id": "EC",
+      "action": "Reduce 1.80%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 33278,
+      "portfolio_percentage": 0.18,
+      "company_name": "Microsoft Corp."
+    },
+    {
+      "symbol": "META",
+      "manager_id": "EC",
+      "action": "Reduce 1.84%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 10128,
+      "portfolio_percentage": 0.08,
+      "company_name": "Meta Platforms Inc."
+    },
+    {
+      "symbol": "PGR",
+      "manager_id": "EC",
+      "action": "Reduce 1.87%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 49323,
+      "portfolio_percentage": 0.13,
+      "company_name": "Progressive Corp."
+    },
+    {
+      "symbol": "FLUT",
+      "manager_id": "EC",
+      "action": "Reduce 2.61%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 37893,
+      "portfolio_percentage": 0.1,
+      "company_name": "Flutter Entertainment Plc"
+    },
+    {
+      "symbol": "ICE",
+      "manager_id": "EC",
+      "action": "Reduce 4.05%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 43712,
+      "portfolio_percentage": 0.08,
+      "company_name": "Intercontinental Exchange Inc."
+    },
+    {
+      "symbol": "CRH",
+      "manager_id": "EC",
+      "action": "Reduce 6.78%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 309718,
+      "portfolio_percentage": 0.39,
+      "company_name": "CRH plc"
+    },
+    {
+      "symbol": "COF",
+      "manager_id": "EC",
+      "action": "Reduce 10.96%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 255803,
+      "portfolio_percentage": 0.57,
+      "company_name": "Capital One Financial"
+    },
+    {
+      "symbol": "ACGL",
+      "manager_id": "EC",
+      "action": "Reduce 17.29%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 733084,
+      "portfolio_percentage": 0.7,
+      "company_name": "Arch Capital Group Ltd."
+    },
+    {
+      "symbol": "CME",
+      "manager_id": "EC",
+      "action": "Reduce 22.20%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 338148,
+      "portfolio_percentage": 0.96,
+      "company_name": "CME Group"
+    },
+    {
+      "symbol": "STX",
+      "manager_id": "EC",
+      "action": "Reduce 22.35%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 458451,
+      "portfolio_percentage": 1.14,
+      "company_name": "Seagate Technology"
+    },
+    {
+      "symbol": "IBKR",
+      "manager_id": "EC",
+      "action": "Reduce 22.37%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1802710,
+      "portfolio_percentage": 1.31,
+      "company_name": "Interactive Brokers Group Inc."
+    },
+    {
+      "symbol": "CRS",
+      "manager_id": "EC",
+      "action": "Reduce 28.01%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 534734,
+      "portfolio_percentage": 1.39,
+      "company_name": "Carpenter Technology"
+    },
+    {
+      "symbol": "FCNCA",
+      "manager_id": "EC",
+      "action": "Reduce 46.77%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 41626,
+      "portfolio_percentage": 0.78,
+      "company_name": "First Citizens Bancshares"
+    },
+    {
+      "symbol": "CP",
+      "manager_id": "EC",
+      "action": "Reduce 55.54%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 2530870,
+      "portfolio_percentage": 1.99,
+      "company_name": "Canadian Pacific Kansas City"
+    },
+    {
+      "symbol": "GE",
+      "manager_id": "EC",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 1261839,
+      "portfolio_percentage": 3.33,
+      "company_name": "GE Aerospace"
+    },
+    {
+      "symbol": "LPLA",
+      "manager_id": "EC",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 832516,
+      "portfolio_percentage": 3.2,
+      "company_name": "LPL Financial Holdings Inc."
+    },
+    {
+      "symbol": "GOOG",
+      "manager_id": "EC",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 965393,
+      "portfolio_percentage": 1.76,
+      "company_name": "Alphabet Inc. CL C"
+    },
+    {
+      "symbol": "BLDR",
+      "manager_id": "EC",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 262628,
+      "portfolio_percentage": 0.31,
+      "company_name": "Builders FirstSource Inc."
+    },
+    {
       "symbol": "COF",
       "manager_id": "EC",
       "action": "Add 161.72%",
@@ -277,7 +585,7 @@
       "company_name": "Alphabet Inc. CL C"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "EC",
       "action": "Sell 100.00%",
       "date": "Q2 2025",
@@ -486,7 +794,7 @@
       "company_name": "Arch Capital Group Ltd."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "EC",
       "action": "Add 2.45%",
       "date": "Q1 2025",
@@ -662,7 +970,7 @@
       "company_name": "RenaissanceRe Holdings Ltd."
     },
     {
-      "symbol": "ERJ",
+      "symbol": "EMBJ",
       "manager_id": "EC",
       "action": "Sell 100.00%",
       "date": "Q1 2025",
@@ -871,7 +1179,7 @@
       "company_name": "CRH plc"
     },
     {
-      "symbol": "ERJ",
+      "symbol": "EMBJ",
       "manager_id": "EC",
       "action": "Reduce 1.97%",
       "date": "Q4 2024",
@@ -882,7 +1190,7 @@
       "company_name": "Embraer SA"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "EC",
       "action": "Reduce 9.85%",
       "date": "Q4 2024",
@@ -1212,7 +1520,7 @@
       "company_name": "Alphabet Inc. CL C"
     },
     {
-      "symbol": "ERJ",
+      "symbol": "EMBJ",
       "manager_id": "EC",
       "action": "Buy",
       "date": "Q3 2024",
@@ -1289,7 +1597,7 @@
       "company_name": "Arch Capital Group Ltd."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "EC",
       "action": "Reduce 5.78%",
       "date": "Q3 2024",
@@ -1685,7 +1993,7 @@
       "company_name": "GE HealthCare Technologies Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "EC",
       "action": "Reduce 19.32%",
       "date": "Q2 2024",
@@ -1905,7 +2213,7 @@
       "company_name": "Hilton Worldwide Holdings"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "EC",
       "action": "Reduce 1.62%",
       "date": "Q1 2024",
@@ -2191,7 +2499,7 @@
       "company_name": "CRH plc"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "EC",
       "action": "Reduce 2.57%",
       "date": "Q4 2023",
@@ -2367,7 +2675,7 @@
       "company_name": "RenaissanceRe Holdings Ltd."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "EC",
       "action": "Add 4.69%",
       "date": "Q3 2023",
@@ -2741,7 +3049,7 @@
       "company_name": "Canadian Pacific Kansas City"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "EC",
       "action": "Reduce 3.38%",
       "date": "Q2 2023",
@@ -2928,7 +3236,7 @@
       "company_name": "Applied Materials"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "EC",
       "action": "Buy",
       "date": "Q1 2023",
@@ -4474,7 +4782,7 @@
       "date": "Q1 2022",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 660464,
+      "shares": 6604640,
       "portfolio_percentage": 1.86,
       "company_name": "Netflix Inc."
     },
@@ -4749,7 +5057,7 @@
       "date": "Q4 2021",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 12696,
+      "shares": 126960,
       "portfolio_percentage": 0.04,
       "company_name": "Netflix Inc."
     },
@@ -5321,7 +5629,7 @@
       "date": "Q3 2021",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 829231,
+      "shares": 8292310,
       "portfolio_percentage": 2.4,
       "company_name": "Netflix Inc."
     },
@@ -5359,7 +5667,7 @@
       "company_name": "Match Group Inc."
     },
     {
-      "symbol": "ATUS",
+      "symbol": "OPTU",
       "manager_id": "EC",
       "action": "Sell 100.00%",
       "date": "Q3 2021",
@@ -5367,7 +5675,7 @@
       "action_type": "Sell",
       "shares": 6036046,
       "portfolio_percentage": 1.02,
-      "company_name": "Altice USA, Inc."
+      "company_name": "Optimum Communications Inc."
     },
     {
       "symbol": "STNE",
@@ -5618,7 +5926,7 @@
       "date": "Q2 2021",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 40435,
+      "shares": 404350,
       "portfolio_percentage": 0.11,
       "company_name": "Netflix Inc."
     },
@@ -5634,7 +5942,7 @@
       "company_name": "T-Mobile US Inc."
     },
     {
-      "symbol": "ATUS",
+      "symbol": "OPTU",
       "manager_id": "EC",
       "action": "Reduce 14.36%",
       "date": "Q2 2021",
@@ -5642,7 +5950,7 @@
       "action_type": "Reduce",
       "shares": 1011877,
       "portfolio_percentage": 0.17,
-      "company_name": "Altice USA, Inc."
+      "company_name": "Optimum Communications Inc."
     },
     {
       "symbol": "MSFT",
@@ -5970,7 +6278,7 @@
       "date": "Q1 2021",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 29770,
+      "shares": 297700,
       "portfolio_percentage": 0.08,
       "company_name": "Netflix Inc."
     },
@@ -6085,7 +6393,7 @@
       "company_name": "T-Mobile US Inc."
     },
     {
-      "symbol": "ATUS",
+      "symbol": "OPTU",
       "manager_id": "EC",
       "action": "Reduce 2.81%",
       "date": "Q1 2021",
@@ -6093,7 +6401,7 @@
       "action_type": "Reduce",
       "shares": 203808,
       "portfolio_percentage": 0.03,
-      "company_name": "Altice USA, Inc."
+      "company_name": "Optimum Communications Inc."
     },
     {
       "symbol": "DHI",
@@ -6289,7 +6597,7 @@
       "date": "Q4 2020",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 575464,
+      "shares": 5754640,
       "portfolio_percentage": 1.76,
       "company_name": "Netflix Inc."
     },
@@ -6404,7 +6712,7 @@
       "company_name": "StoneCo Ltd."
     },
     {
-      "symbol": "ATUS",
+      "symbol": "OPTU",
       "manager_id": "EC",
       "action": "Buy",
       "date": "Q4 2020",
@@ -6412,7 +6720,7 @@
       "action_type": "Buy",
       "shares": 7251731,
       "portfolio_percentage": 1.55,
-      "company_name": "Altice USA, Inc."
+      "company_name": "Optimum Communications Inc."
     },
     {
       "symbol": "SHOP",
@@ -6657,7 +6965,7 @@
       "company_name": "Booking Holdings Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "EC",
       "action": "Sell 100.00%",
       "date": "Q4 2020",
@@ -7048,12 +7356,12 @@
       "date": "Q3 2020",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 453559,
+      "shares": 4535590,
       "portfolio_percentage": 1.4,
       "company_name": "Netflix Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "EC",
       "action": "Reduce 42.38%",
       "date": "Q3 2020",
@@ -7356,7 +7664,7 @@
       "date": "Q2 2020",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 83340,
+      "shares": 833400,
       "portfolio_percentage": 0.28,
       "company_name": "Netflix Inc."
     },
@@ -7427,7 +7735,7 @@
       "company_name": "Progressive Corp."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "EC",
       "action": "Reduce 41.48%",
       "date": "Q2 2020",
@@ -7543,7 +7851,7 @@
       "date": "Q1 2020",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 91140,
+      "shares": 911400,
       "portfolio_percentage": 0.35,
       "company_name": "Netflix Inc."
     },
@@ -7636,7 +7944,7 @@
       "company_name": "Adobe Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "EC",
       "action": "Reduce 15.79%",
       "date": "Q1 2020",
@@ -7864,7 +8172,7 @@
       "action_type": "Sell",
       "shares": 7362154,
       "portfolio_percentage": 0.96,
-      "company_name": "Avantor arinc."
+      "company_name": "Avantor Inc."
     },
     {
       "symbol": "RTN-OLD",
@@ -7906,7 +8214,7 @@
       "date": "Q4 2019",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 1089345,
+      "shares": 10893450,
       "portfolio_percentage": 2.52,
       "company_name": "Netflix Inc."
     },
@@ -7922,7 +8230,7 @@
       "company_name": "Thermo Fisher Scientific"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "EC",
       "action": "Add 45.70%",
       "date": "Q4 2019",
@@ -8018,7 +8326,7 @@
       "action_type": "Buy",
       "shares": 7362154,
       "portfolio_percentage": 0.96,
-      "company_name": "Avantor arinc."
+      "company_name": "Avantor Inc."
     },
     {
       "symbol": "MO",
@@ -8296,7 +8604,7 @@
       "company_name": "Tenaris S.A."
     },
     {
-      "symbol": "ATUS",
+      "symbol": "OPTU",
       "manager_id": "EC",
       "action": "Sell 100.00%",
       "date": "Q4 2019",
@@ -8304,7 +8612,7 @@
       "action_type": "Sell",
       "shares": 7037118,
       "portfolio_percentage": 1.45,
-      "company_name": "Altice USA, Inc."
+      "company_name": "Optimum Communications Inc."
     },
     {
       "symbol": "EFX",
@@ -8384,7 +8692,7 @@
       "company_name": "TransDigm Group Inc."
     },
     {
-      "symbol": "ATUS",
+      "symbol": "OPTU",
       "manager_id": "EC",
       "action": "Add 79.66%",
       "date": "Q3 2019",
@@ -8392,7 +8700,7 @@
       "action_type": "Add",
       "shares": 3120293,
       "portfolio_percentage": 0.64,
-      "company_name": "Altice USA, Inc."
+      "company_name": "Optimum Communications Inc."
     },
     {
       "symbol": "EFX",
@@ -8406,7 +8714,7 @@
       "company_name": "Equifax Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "EC",
       "action": "Add 33.49%",
       "date": "Q3 2019",
@@ -8544,7 +8852,7 @@
       "date": "Q3 2019",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 294006,
+      "shares": 2940060,
       "portfolio_percentage": 0.56,
       "company_name": "Netflix Inc."
     },
@@ -8755,7 +9063,7 @@
       "action_type": "Sell",
       "shares": 4387416,
       "portfolio_percentage": 0.61,
-      "company_name": "Avantor arinc."
+      "company_name": "Avantor Inc."
     },
     {
       "symbol": "UNH",
@@ -8912,7 +9220,7 @@
       "company_name": "Thermo Fisher Scientific"
     },
     {
-      "symbol": "ATUS",
+      "symbol": "OPTU",
       "manager_id": "EC",
       "action": "Buy",
       "date": "Q2 2019",
@@ -8920,7 +9228,7 @@
       "action_type": "Buy",
       "shares": 3916825,
       "portfolio_percentage": 0.7,
-      "company_name": "Altice USA, Inc."
+      "company_name": "Optimum Communications Inc."
     },
     {
       "symbol": "AVTR",
@@ -8931,7 +9239,7 @@
       "action_type": "Buy",
       "shares": 4387416,
       "portfolio_percentage": 0.61,
-      "company_name": "Avantor arinc."
+      "company_name": "Avantor Inc."
     },
     {
       "symbol": "KKR",
@@ -9044,7 +9352,7 @@
       "company_name": "Microsoft Corp."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "EC",
       "action": "Reduce 38.37%",
       "date": "Q2 2019",
@@ -9143,6 +9451,6 @@
       "company_name": "TransUnion"
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.946341",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.612229",
+  "scraped_date": "2025-12-01"
 }

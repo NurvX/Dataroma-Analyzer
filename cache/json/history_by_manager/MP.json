@@ -2,6 +2,116 @@
   "manager_id": "MP",
   "activities": [
     {
+      "symbol": "CHTR",
+      "manager_id": "MP",
+      "action": "Reduce 18.07%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 36162,
+      "portfolio_percentage": 5.11,
+      "company_name": "Charter Communications"
+    },
+    {
+      "symbol": "FLUT",
+      "manager_id": "MP",
+      "action": "Reduce 23.49%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 25000,
+      "portfolio_percentage": 3.26,
+      "company_name": "Flutter Entertainment Plc"
+    },
+    {
+      "symbol": "LAMR",
+      "manager_id": "MP",
+      "action": "Reduce 24.20%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 54260,
+      "portfolio_percentage": 3.41,
+      "company_name": "Lamar Advertising Co."
+    },
+    {
+      "symbol": "BBWI",
+      "manager_id": "MP",
+      "action": "Reduce 25.50%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 469039,
+      "portfolio_percentage": 6.2,
+      "company_name": "Bath & Body Works Inc."
+    },
+    {
+      "symbol": "WHD",
+      "manager_id": "MP",
+      "action": "Reduce 26.22%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 93621,
+      "portfolio_percentage": 1.9,
+      "company_name": "Cactus Inc."
+    },
+    {
+      "symbol": "SVV",
+      "manager_id": "MP",
+      "action": "Reduce 27.67%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 298437,
+      "portfolio_percentage": 2.03,
+      "company_name": "Savers Value Village Inc"
+    },
+    {
+      "symbol": "CDW",
+      "manager_id": "MP",
+      "action": "Reduce 35.61%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 55305,
+      "portfolio_percentage": 4.52,
+      "company_name": "CDW Corp."
+    },
+    {
+      "symbol": "DPZ",
+      "manager_id": "MP",
+      "action": "Reduce 43.05%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 27964,
+      "portfolio_percentage": 6.2,
+      "company_name": "Dominos Pizza Inc."
+    },
+    {
+      "symbol": "BELFB",
+      "manager_id": "MP",
+      "action": "Reduce 59.35%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 145999,
+      "portfolio_percentage": 10.57,
+      "company_name": "Bel Fuse Inc. CL B"
+    },
+    {
+      "symbol": "KMX",
+      "manager_id": "MP",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 272203,
+      "portfolio_percentage": 5.57,
+      "company_name": "CarMax Inc."
+    },
+    {
       "symbol": "WHD",
       "manager_id": "MP",
       "action": "Add 50.63%",
@@ -1410,6 +1520,6 @@
       "company_name": "Qurate Group Series A"
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.663227",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.317068",
+  "scraped_date": "2025-12-01"
 }

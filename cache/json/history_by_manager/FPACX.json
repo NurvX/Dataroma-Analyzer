@@ -1207,7 +1207,7 @@
       "date": "Q4 2024",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 29040,
+      "shares": 290400,
       "portfolio_percentage": 0.32,
       "company_name": "Netflix Inc."
     },
@@ -1526,7 +1526,7 @@
       "date": "Q3 2024",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 29853,
+      "shares": 298530,
       "portfolio_percentage": 0.33,
       "company_name": "Netflix Inc."
     },
@@ -1779,7 +1779,7 @@
       "date": "Q2 2024",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 9576,
+      "shares": 95760,
       "portfolio_percentage": 0.1,
       "company_name": "Netflix Inc."
     },
@@ -2032,7 +2032,7 @@
       "date": "Q1 2024",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 17152,
+      "shares": 171520,
       "portfolio_percentage": 0.17,
       "company_name": "Netflix Inc."
     },
@@ -2329,7 +2329,7 @@
       "date": "Q4 2023",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 21174,
+      "shares": 211740,
       "portfolio_percentage": 0.17,
       "company_name": "Netflix Inc."
     },
@@ -2626,7 +2626,7 @@
       "date": "Q3 2023",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 65118,
+      "shares": 651180,
       "portfolio_percentage": 0.43,
       "company_name": "Netflix Inc."
     },
@@ -2813,7 +2813,7 @@
       "date": "Q2 2023",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 28873,
+      "shares": 288730,
       "portfolio_percentage": 0.21,
       "company_name": "Netflix Inc."
     },
@@ -3033,7 +3033,7 @@
       "date": "Q1 2023",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 37918,
+      "shares": 379180,
       "portfolio_percentage": 0.23,
       "company_name": "Netflix Inc."
     },
@@ -3583,7 +3583,7 @@
       "date": "Q3 2022",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 50916,
+      "shares": 509160,
       "portfolio_percentage": 0.23,
       "company_name": "Netflix Inc."
     },
@@ -3715,7 +3715,7 @@
       "date": "Q2 2022",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 17887,
+      "shares": 178870,
       "portfolio_percentage": 0.06,
       "company_name": "Netflix Inc."
     },
@@ -4056,7 +4056,7 @@
       "date": "Q1 2022",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 229145,
+      "shares": 2291450,
       "portfolio_percentage": 1.28,
       "company_name": "Netflix Inc."
     },
@@ -4672,7 +4672,7 @@
       "date": "Q4 2021",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 42588,
+      "shares": 425880,
       "portfolio_percentage": 0.35,
       "company_name": "Netflix Inc."
     },
@@ -5354,7 +5354,7 @@
       "date": "Q3 2021",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 72931,
+      "shares": 729310,
       "portfolio_percentage": 0.5,
       "company_name": "Netflix Inc."
     },
@@ -5497,7 +5497,7 @@
       "date": "Q2 2021",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 72931,
+      "shares": 729310,
       "portfolio_percentage": 0.5,
       "company_name": "Netflix Inc."
     },
@@ -11002,6 +11002,6 @@
       "company_name": "Axalta Coating Systems Ltd."
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.576159",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.793265",
+  "scraped_date": "2025-12-01"
 }

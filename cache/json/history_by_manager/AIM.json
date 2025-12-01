@@ -2,6 +2,182 @@
   "manager_id": "AIM",
   "activities": [
     {
+      "symbol": "AXTA",
+      "manager_id": "AIM",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 764000,
+      "portfolio_percentage": 12.56,
+      "company_name": "Axalta Coating Systems Ltd."
+    },
+    {
+      "symbol": "GPK",
+      "manager_id": "AIM",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 645584,
+      "portfolio_percentage": 7.26,
+      "company_name": "Graphic Packaging Hldg Co."
+    },
+    {
+      "symbol": "NOMD",
+      "manager_id": "AIM",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 722000,
+      "portfolio_percentage": 5.45,
+      "company_name": "Nomad Foods Ltd"
+    },
+    {
+      "symbol": "DOLE",
+      "manager_id": "AIM",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 330000,
+      "portfolio_percentage": 2.55,
+      "company_name": "Dole Food Company"
+    },
+    {
+      "symbol": "BBWI",
+      "manager_id": "AIM",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 150000,
+      "portfolio_percentage": 2.22,
+      "company_name": "Bath & Body Works Inc."
+    },
+    {
+      "symbol": "ASH",
+      "manager_id": "AIM",
+      "action": "Reduce 4.22%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 12500,
+      "portfolio_percentage": 0.34,
+      "company_name": "Ashland Global Holdings Inc."
+    },
+    {
+      "symbol": "APTV",
+      "manager_id": "AIM",
+      "action": "Reduce 12.96%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 45500,
+      "portfolio_percentage": 2.25,
+      "company_name": "Aptiv PLC"
+    },
+    {
+      "symbol": "PVH",
+      "manager_id": "AIM",
+      "action": "Reduce 23.08%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 30000,
+      "portfolio_percentage": 1.44,
+      "company_name": "PVH Corp."
+    },
+    {
+      "symbol": "OSK",
+      "manager_id": "AIM",
+      "action": "Reduce 28.69%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 60000,
+      "portfolio_percentage": 4.47,
+      "company_name": "Oshkosh Corp."
+    },
+    {
+      "symbol": "WFRD",
+      "manager_id": "AIM",
+      "action": "Reduce 44.29%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 286708,
+      "portfolio_percentage": 11.27,
+      "company_name": "Weatherford International plc"
+    },
+    {
+      "symbol": "GTLS",
+      "manager_id": "AIM",
+      "action": "Reduce 46.31%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 127200,
+      "portfolio_percentage": 14.62,
+      "company_name": "Chart Industries Inc."
+    },
+    {
+      "symbol": "BLDR",
+      "manager_id": "AIM",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 119000,
+      "portfolio_percentage": 7.09,
+      "company_name": "Builders FirstSource Inc."
+    },
+    {
+      "symbol": "EMN",
+      "manager_id": "AIM",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 134710,
+      "portfolio_percentage": 5.13,
+      "company_name": "Eastman Chemical"
+    },
+    {
+      "symbol": "GT",
+      "manager_id": "AIM",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 915000,
+      "portfolio_percentage": 4.84,
+      "company_name": "Goodyear Tire & Rubber"
+    },
+    {
+      "symbol": "TEX",
+      "manager_id": "AIM",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 155000,
+      "portfolio_percentage": 3.69,
+      "company_name": "Terex Corp."
+    },
+    {
+      "symbol": "WCC",
+      "manager_id": "AIM",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 32500,
+      "portfolio_percentage": 3.07,
+      "company_name": "WESCO International Inc."
+    },
+    {
       "symbol": "ASH",
       "manager_id": "AIM",
       "action": "Add 137.06%",
@@ -8549,7 +8725,7 @@
       "company_name": "Mosaic Co."
     },
     {
-      "symbol": "MRC",
+      "symbol": "MRC-OLD",
       "manager_id": "AIM",
       "action": "Sell 100.00%",
       "date": "Q4 2013",
@@ -8648,7 +8824,7 @@
       "company_name": "Axiall Corp."
     },
     {
-      "symbol": "MRC",
+      "symbol": "MRC-OLD",
       "manager_id": "AIM",
       "action": "Buy",
       "date": "Q3 2013",
@@ -9682,6 +9858,6 @@
       "company_name": "GEO Group Inc."
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.766461",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.412996",
+  "scraped_date": "2025-12-01"
 }

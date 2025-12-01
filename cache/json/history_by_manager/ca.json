@@ -2,6 +2,17 @@
   "manager_id": "ca",
   "activities": [
     {
+      "symbol": "STLA",
+      "manager_id": "ca",
+      "action": "Add 101.47%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 702194,
+      "portfolio_percentage": 3.16,
+      "company_name": "Stellantis N.V."
+    },
+    {
       "symbol": "MEOH",
       "manager_id": "ca",
       "action": "Add 400.00%",
@@ -134,7 +145,7 @@
       "company_name": "Synchrony Financial"
     },
     {
-      "symbol": "SNREY",
+      "symbol": "SNREY-OLD",
       "manager_id": "ca",
       "action": "Buy",
       "date": "Q4 2024",
@@ -2862,6 +2873,6 @@
       "company_name": "Sprint Corp."
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.895761",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.454154",
+  "scraped_date": "2025-12-01"
 }

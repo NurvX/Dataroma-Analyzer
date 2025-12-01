@@ -2,6 +2,303 @@
   "manager_id": "FS",
   "activities": [
     {
+      "symbol": "NSSC",
+      "manager_id": "FS",
+      "action": "Add 86.39%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 824945,
+      "portfolio_percentage": 0.18,
+      "company_name": "Napco Security Technologies Inc."
+    },
+    {
+      "symbol": "INTU",
+      "manager_id": "FS",
+      "action": "Add 64.01%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 235916,
+      "portfolio_percentage": 0.82,
+      "company_name": "Intuit Inc."
+    },
+    {
+      "symbol": "PAYC",
+      "manager_id": "FS",
+      "action": "Add 26.58%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 109923,
+      "portfolio_percentage": 0.12,
+      "company_name": "Paycom Software Inc."
+    },
+    {
+      "symbol": "ZTS",
+      "manager_id": "FS",
+      "action": "Add 25.32%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 730300,
+      "portfolio_percentage": 0.54,
+      "company_name": "Zoetis Inc."
+    },
+    {
+      "symbol": "CPRX",
+      "manager_id": "FS",
+      "action": "Add 24.17%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 654721,
+      "portfolio_percentage": 0.06,
+      "company_name": "Catalyst Pharmaceuticals Inc."
+    },
+    {
+      "symbol": "QLYS",
+      "manager_id": "FS",
+      "action": "Add 21.19%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 152257,
+      "portfolio_percentage": 0.1,
+      "company_name": "Qualys Inc."
+    },
+    {
+      "symbol": "WAT",
+      "manager_id": "FS",
+      "action": "Add 9.62%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 347091,
+      "portfolio_percentage": 0.53,
+      "company_name": "Waters Corp."
+    },
+    {
+      "symbol": "HD",
+      "manager_id": "FS",
+      "action": "Add 1.79%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1493,
+      "portfolio_percentage": 0.0,
+      "company_name": "Home Depot"
+    },
+    {
+      "symbol": "MTD",
+      "manager_id": "FS",
+      "action": "Add 0.10%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 617,
+      "portfolio_percentage": 0.0,
+      "company_name": "Mettler-Toledo International Inc."
+    },
+    {
+      "symbol": "PG",
+      "manager_id": "FS",
+      "action": "Add 0.10%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 4760,
+      "portfolio_percentage": 0.0,
+      "company_name": "Procter & Gamble"
+    },
+    {
+      "symbol": "TXN",
+      "manager_id": "FS",
+      "action": "Add 0.06%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1591,
+      "portfolio_percentage": 0.0,
+      "company_name": "Texas Instruments"
+    },
+    {
+      "symbol": "FTNT",
+      "manager_id": "FS",
+      "action": "Add 0.02%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1730,
+      "portfolio_percentage": 0.0,
+      "company_name": "Fortinet Inc."
+    },
+    {
+      "symbol": "V",
+      "manager_id": "FS",
+      "action": "Add 0.01%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 265,
+      "portfolio_percentage": 0.0,
+      "company_name": "Visa Inc."
+    },
+    {
+      "symbol": "MAR",
+      "manager_id": "FS",
+      "action": "Reduce 0.20%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 8301,
+      "portfolio_percentage": 0.01,
+      "company_name": "Marriott Int'l."
+    },
+    {
+      "symbol": "CHD",
+      "manager_id": "FS",
+      "action": "Reduce 0.43%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 29645,
+      "portfolio_percentage": 0.01,
+      "company_name": "Church & Dwight"
+    },
+    {
+      "symbol": "IDXX",
+      "manager_id": "FS",
+      "action": "Reduce 1.09%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 28832,
+      "portfolio_percentage": 0.09,
+      "company_name": "IDEXX Laboratories"
+    },
+    {
+      "symbol": "ADP",
+      "manager_id": "FS",
+      "action": "Reduce 1.16%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 50496,
+      "portfolio_percentage": 0.07,
+      "company_name": "Automatic Data Processing Inc."
+    },
+    {
+      "symbol": "SYK",
+      "manager_id": "FS",
+      "action": "Reduce 1.83%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 85714,
+      "portfolio_percentage": 0.16,
+      "company_name": "Stryker Corp."
+    },
+    {
+      "symbol": "GOOGL",
+      "manager_id": "FS",
+      "action": "Reduce 7.56%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 514102,
+      "portfolio_percentage": 0.63,
+      "company_name": "Alphabet Inc."
+    },
+    {
+      "symbol": "VRT",
+      "manager_id": "FS",
+      "action": "Reduce 18.41%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 133473,
+      "portfolio_percentage": 0.1,
+      "company_name": "Vertiv Holdings Co."
+    },
+    {
+      "symbol": "PM",
+      "manager_id": "FS",
+      "action": "Reduce 20.78%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1886051,
+      "portfolio_percentage": 1.55,
+      "company_name": "Philip Morris Intl."
+    },
+    {
+      "symbol": "MSFT",
+      "manager_id": "FS",
+      "action": "Reduce 47.72%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 2358140,
+      "portfolio_percentage": 6.17,
+      "company_name": "Microsoft Corp."
+    },
+    {
+      "symbol": "META",
+      "manager_id": "FS",
+      "action": "Reduce 56.32%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 2010088,
+      "portfolio_percentage": 7.45,
+      "company_name": "Meta Platforms Inc."
+    },
+    {
+      "symbol": "CHH",
+      "manager_id": "FS",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 733892,
+      "portfolio_percentage": 0.4,
+      "company_name": "Choice Hotels Int. Inc."
+    },
+    {
+      "symbol": "EXPO",
+      "manager_id": "FS",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 746820,
+      "portfolio_percentage": 0.24,
+      "company_name": "Exponent Inc."
+    },
+    {
+      "symbol": "VRSK",
+      "manager_id": "FS",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 176195,
+      "portfolio_percentage": 0.24,
+      "company_name": "Verisk Analytics Inc."
+    },
+    {
+      "symbol": "MA",
+      "manager_id": "FS",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 27663,
+      "portfolio_percentage": 0.07,
+      "company_name": "Mastercard Inc."
+    },
+    {
       "symbol": "INTU",
       "manager_id": "FS",
       "action": "Add 102.91%",
@@ -10441,6 +10738,6 @@
       "company_name": "Visa Inc."
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.848959",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.500281",
+  "scraped_date": "2025-12-01"
 }

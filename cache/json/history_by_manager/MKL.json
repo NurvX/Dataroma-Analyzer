@@ -6003,7 +6003,7 @@
       "date": "Q1 2023",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 43000,
+      "shares": 430000,
       "portfolio_percentage": 0.17,
       "company_name": "Netflix Inc."
     },
@@ -7862,7 +7862,7 @@
       "date": "Q2 2022",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 43000,
+      "shares": 430000,
       "portfolio_percentage": 0.11,
       "company_name": "Netflix Inc."
     },
@@ -9259,7 +9259,7 @@
       "date": "Q3 2021",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 430,
+      "shares": 4300,
       "portfolio_percentage": 0.0,
       "company_name": "Netflix Inc."
     },
@@ -9721,7 +9721,7 @@
       "date": "Q2 2021",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 430,
+      "shares": 4300,
       "portfolio_percentage": 0.0,
       "company_name": "Netflix Inc."
     },
@@ -11002,6 +11002,6 @@
       "company_name": "Wells Fargo"
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.468522",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.681353",
+  "scraped_date": "2025-12-01"
 }

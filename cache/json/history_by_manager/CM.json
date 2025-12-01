@@ -4,6 +4,50 @@
     {
       "symbol": "SDHC",
       "manager_id": "CM",
+      "action": "Add 70.31%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 351556,
+      "portfolio_percentage": 0.98,
+      "company_name": "Smith Douglas Homes Corp"
+    },
+    {
+      "symbol": "EQH",
+      "manager_id": "CM",
+      "action": "Reduce 16.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 800000,
+      "portfolio_percentage": 6.44,
+      "company_name": "Equitable Holdings Inc."
+    },
+    {
+      "symbol": "LAD",
+      "manager_id": "CM",
+      "action": "Reduce 20.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 100000,
+      "portfolio_percentage": 5.01,
+      "company_name": "Lithia Motors Inc."
+    },
+    {
+      "symbol": "YNDX",
+      "manager_id": "CM",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 700000,
+      "portfolio_percentage": 5.04,
+      "company_name": "Yandex N.V."
+    },
+    {
+      "symbol": "SDHC",
+      "manager_id": "CM",
       "action": "Buy",
       "date": "Q2 2025",
       "percentage_change": 0.0,
@@ -1432,6 +1476,6 @@
       "company_name": "Alibaba Group Holdings"
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.866860",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.519001",
+  "scraped_date": "2025-12-01"
 }

@@ -2,6 +2,127 @@
   "manager_id": "TFP",
   "activities": [
     {
+      "symbol": "ASML",
+      "manager_id": "TFP",
+      "action": "Add 40.57%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 32170,
+      "portfolio_percentage": 3.39,
+      "company_name": "ASML Holding NV"
+    },
+    {
+      "symbol": "CCC",
+      "manager_id": "TFP",
+      "action": "Add 16.11%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 508500,
+      "portfolio_percentage": 0.51,
+      "company_name": "CCC Intelligent Solutions Hldgs Inc."
+    },
+    {
+      "symbol": "AMZN",
+      "manager_id": "TFP",
+      "action": "Add 10.93%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 53260,
+      "portfolio_percentage": 1.27,
+      "company_name": "Amazon.com Inc."
+    },
+    {
+      "symbol": "ILMN",
+      "manager_id": "TFP",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 390600,
+      "portfolio_percentage": 4.04,
+      "company_name": "Illumina Inc."
+    },
+    {
+      "symbol": "TRU",
+      "manager_id": "TFP",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 430470,
+      "portfolio_percentage": 3.93,
+      "company_name": "TransUnion"
+    },
+    {
+      "symbol": "MSFT",
+      "manager_id": "TFP",
+      "action": "Reduce 4.43%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 17865,
+      "portfolio_percentage": 1.01,
+      "company_name": "Microsoft Corp."
+    },
+    {
+      "symbol": "META",
+      "manager_id": "TFP",
+      "action": "Reduce 7.75%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 8545,
+      "portfolio_percentage": 0.68,
+      "company_name": "Meta Platforms Inc."
+    },
+    {
+      "symbol": "GOOG",
+      "manager_id": "TFP",
+      "action": "Reduce 15.11%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 98031,
+      "portfolio_percentage": 2.6,
+      "company_name": "Alphabet Inc. CL C"
+    },
+    {
+      "symbol": "TDG",
+      "manager_id": "TFP",
+      "action": "Reduce 22.81%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 16830,
+      "portfolio_percentage": 2.42,
+      "company_name": "TransDigm Group Inc."
+    },
+    {
+      "symbol": "LRCX",
+      "manager_id": "TFP",
+      "action": "Reduce 39.45%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 278725,
+      "portfolio_percentage": 4.06,
+      "company_name": "Lam Research"
+    },
+    {
+      "symbol": "MCO",
+      "manager_id": "TFP",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 81627,
+      "portfolio_percentage": 4.78,
+      "company_name": "Moody's Corp."
+    },
+    {
       "symbol": "META",
       "manager_id": "TFP",
       "action": "Add 43.58%",
@@ -1960,6 +2081,6 @@
       "company_name": "TransDigm Group Inc."
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.898285",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.452207",
+  "scraped_date": "2025-12-01"
 }

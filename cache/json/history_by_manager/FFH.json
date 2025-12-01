@@ -2,6 +2,138 @@
   "manager_id": "FFH",
   "activities": [
     {
+      "symbol": "PFE",
+      "manager_id": "FFH",
+      "action": "Add 36.87%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 240000,
+      "portfolio_percentage": 0.3,
+      "company_name": "Pfizer Inc."
+    },
+    {
+      "symbol": "HP",
+      "manager_id": "FFH",
+      "action": "Add 20.53%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 200000,
+      "portfolio_percentage": 0.21,
+      "company_name": "Helmerich & Payne"
+    },
+    {
+      "symbol": "TAP",
+      "manager_id": "FFH",
+      "action": "Add 5.87%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 71571,
+      "portfolio_percentage": 0.16,
+      "company_name": "Molson Coors Beverage Co."
+    },
+    {
+      "symbol": "KHC",
+      "manager_id": "FFH",
+      "action": "Add 4.81%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 235000,
+      "portfolio_percentage": 0.3,
+      "company_name": "Kraft Heinz Co."
+    },
+    {
+      "symbol": "LULU",
+      "manager_id": "FFH",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 25000,
+      "portfolio_percentage": 0.22,
+      "company_name": "Lululemon Athletica Inc."
+    },
+    {
+      "symbol": "DLTR",
+      "manager_id": "FFH",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 44380,
+      "portfolio_percentage": 0.2,
+      "company_name": "Dollar Tree Inc."
+    },
+    {
+      "symbol": "BRSL",
+      "manager_id": "FFH",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 36633,
+      "portfolio_percentage": 0.03,
+      "company_name": "Brightstar Lottery"
+    },
+    {
+      "symbol": "GTX",
+      "manager_id": "FFH",
+      "action": "Reduce 0.82%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 2500,
+      "portfolio_percentage": 0.0,
+      "company_name": "Garrett Motion Inc."
+    },
+    {
+      "symbol": "BB",
+      "manager_id": "FFH",
+      "action": "Reduce 13.21%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 5389380,
+      "portfolio_percentage": 1.27,
+      "company_name": "BlackBerry Ltd."
+    },
+    {
+      "symbol": "VOO",
+      "manager_id": "FFH",
+      "action": "Reduce 20.10%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 14652,
+      "portfolio_percentage": 0.44,
+      "company_name": "Vanguard S&P 500 ETF"
+    },
+    {
+      "symbol": "ATHM",
+      "manager_id": "FFH",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 54000,
+      "portfolio_percentage": 0.07,
+      "company_name": "Autohome Inc."
+    },
+    {
+      "symbol": "LWAY",
+      "manager_id": "FFH",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 31618,
+      "portfolio_percentage": 0.04,
+      "company_name": "Lifeway Foods Inc."
+    },
+    {
       "symbol": "LWAY",
       "manager_id": "FFH",
       "action": "Add 82.06%",
@@ -10868,140 +11000,8 @@
       "shares": 230000,
       "portfolio_percentage": 0.03,
       "company_name": "Primero Mining Corp."
-    },
-    {
-      "symbol": "BB",
-      "manager_id": "FFH",
-      "action": "Add 109.78%",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 14050200,
-      "portfolio_percentage": 9.8,
-      "company_name": "BlackBerry Ltd."
-    },
-    {
-      "symbol": "ABH",
-      "manager_id": "FFH",
-      "action": "Add 0.01%",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 2047,
-      "portfolio_percentage": 0.0,
-      "company_name": "AbitibiBowater Inc."
-    },
-    {
-      "symbol": "NVDQ-OLD",
-      "manager_id": "FFH",
-      "action": "Buy",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 2000000,
-      "portfolio_percentage": 0.6,
-      "company_name": "Novadaq Technologies Inc."
-    },
-    {
-      "symbol": "LVLT",
-      "manager_id": "FFH",
-      "action": "Reduce 0.00%",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 48,
-      "portfolio_percentage": 0.0,
-      "company_name": "Level 3 Communications Inc."
-    },
-    {
-      "symbol": "DELL-OLD",
-      "manager_id": "FFH",
-      "action": "Reduce 1.92%",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 175900,
-      "portfolio_percentage": 0.14,
-      "company_name": "Dell Inc."
-    },
-    {
-      "symbol": "RYAAY",
-      "manager_id": "FFH",
-      "action": "Reduce 2.16%",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 10500,
-      "portfolio_percentage": 0.01,
-      "company_name": "Ryanair Holdings PLC"
-    },
-    {
-      "symbol": "CRESY",
-      "manager_id": "FFH",
-      "action": "Reduce 5.64%",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 50000,
-      "portfolio_percentage": 0.03,
-      "company_name": "Cresud Inc."
-    },
-    {
-      "symbol": "WFC",
-      "manager_id": "FFH",
-      "action": "Reduce 34.46%",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 1554870,
-      "portfolio_percentage": 2.52,
-      "company_name": "Wells Fargo"
-    },
-    {
-      "symbol": "MMI-OLD",
-      "manager_id": "FFH",
-      "action": "Reduce 37.50%",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 9000,
-      "portfolio_percentage": 0.02,
-      "company_name": "Motorola Mobility Holdings Inc."
-    },
-    {
-      "symbol": "VRUS",
-      "manager_id": "FFH",
-      "action": "Sell 100.00%",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 14800,
-      "portfolio_percentage": 0.11,
-      "company_name": "Pharmasset Inc."
-    },
-    {
-      "symbol": "C",
-      "manager_id": "FFH",
-      "action": "Add 33.33%",
-      "date": "Q4 2011",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 5000,
-      "portfolio_percentage": 0.01,
-      "company_name": "Citigroup Inc."
-    },
-    {
-      "symbol": "ORI",
-      "manager_id": "FFH",
-      "action": "Add 16.67%",
-      "date": "Q4 2011",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 5000,
-      "portfolio_percentage": 0.0,
-      "company_name": "Old Republic International"
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.857543",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.509518",
+  "scraped_date": "2025-12-01"
 }

@@ -2,6 +2,50 @@
   "manager_id": "TF",
   "activities": [
     {
+      "symbol": "WEN",
+      "manager_id": "TF",
+      "action": "Add 0.01%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 2229,
+      "portfolio_percentage": 0.0,
+      "company_name": "Wendy's Co."
+    },
+    {
+      "symbol": "UHAL",
+      "manager_id": "TF",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 353335,
+      "portfolio_percentage": 0.56,
+      "company_name": "U-Haul Holding Co."
+    },
+    {
+      "symbol": "ALL",
+      "manager_id": "TF",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 99955,
+      "portfolio_percentage": 0.53,
+      "company_name": "Allstate Corp."
+    },
+    {
+      "symbol": "UHAL.B",
+      "manager_id": "TF",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 338031,
+      "portfolio_percentage": 0.48,
+      "company_name": "U Haul Holding Co Non Voting"
+    },
+    {
       "symbol": "FERG",
       "manager_id": "TF",
       "action": "Add 7.69%",
@@ -2961,6 +3005,6 @@
       "company_name": "Allegion Plc"
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.684185",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.352831",
+  "scraped_date": "2025-12-01"
 }

@@ -4,6 +4,270 @@
     {
       "symbol": "NOV",
       "manager_id": "GA",
+      "action": "Add 15.36%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 765166,
+      "portfolio_percentage": 0.15,
+      "company_name": "Nov Inc."
+    },
+    {
+      "symbol": "LEN",
+      "manager_id": "GA",
+      "action": "Add 1.68%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 159809,
+      "portfolio_percentage": 0.31,
+      "company_name": "Lennar Corp."
+    },
+    {
+      "symbol": "AVTR",
+      "manager_id": "GA",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 18311570,
+      "portfolio_percentage": 3.48,
+      "company_name": "Avantor Inc."
+    },
+    {
+      "symbol": "BAX",
+      "manager_id": "GA",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 6288349,
+      "portfolio_percentage": 2.18,
+      "company_name": "Baxter International Inc."
+    },
+    {
+      "symbol": "VBIL",
+      "manager_id": "GA",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 500000,
+      "portfolio_percentage": 0.57,
+      "company_name": "Vanguard 0 3m T Bill ETF"
+    },
+    {
+      "symbol": "PHM",
+      "manager_id": "GA",
+      "action": "Reduce 0.19%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 10600,
+      "portfolio_percentage": 0.02,
+      "company_name": "PulteGroup Inc."
+    },
+    {
+      "symbol": "TOL",
+      "manager_id": "GA",
+      "action": "Reduce 0.37%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 20947,
+      "portfolio_percentage": 0.04,
+      "company_name": "Toll Brothers"
+    },
+    {
+      "symbol": "ARW",
+      "manager_id": "GA",
+      "action": "Reduce 0.75%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 14300,
+      "portfolio_percentage": 0.03,
+      "company_name": "Arrow Electronics"
+    },
+    {
+      "symbol": "AVT",
+      "manager_id": "GA",
+      "action": "Reduce 0.86%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 34000,
+      "portfolio_percentage": 0.03,
+      "company_name": "Avnet Inc."
+    },
+    {
+      "symbol": "OSK",
+      "manager_id": "GA",
+      "action": "Reduce 1.09%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 27800,
+      "portfolio_percentage": 0.05,
+      "company_name": "Oshkosh Corp."
+    },
+    {
+      "symbol": "DHI",
+      "manager_id": "GA",
+      "action": "Reduce 1.18%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 43300,
+      "portfolio_percentage": 0.11,
+      "company_name": "D.R. Horton"
+    },
+    {
+      "symbol": "ICLR",
+      "manager_id": "GA",
+      "action": "Reduce 1.27%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 224,
+      "portfolio_percentage": 0.0,
+      "company_name": "ICON plc"
+    },
+    {
+      "symbol": "TEX",
+      "manager_id": "GA",
+      "action": "Reduce 1.48%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 22200,
+      "portfolio_percentage": 0.02,
+      "company_name": "Terex Corp."
+    },
+    {
+      "symbol": "GM",
+      "manager_id": "GA",
+      "action": "Reduce 2.49%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 590000,
+      "portfolio_percentage": 0.55,
+      "company_name": "General Motors"
+    },
+    {
+      "symbol": "LEA",
+      "manager_id": "GA",
+      "action": "Reduce 2.49%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 45823,
+      "portfolio_percentage": 0.07,
+      "company_name": "Lear Corp."
+    },
+    {
+      "symbol": "MTH",
+      "manager_id": "GA",
+      "action": "Reduce 2.61%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 39001,
+      "portfolio_percentage": 0.04,
+      "company_name": "Meritage Homes Corp."
+    },
+    {
+      "symbol": "CRH",
+      "manager_id": "GA",
+      "action": "Reduce 7.19%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1937,
+      "portfolio_percentage": 0.0,
+      "company_name": "CRH plc"
+    },
+    {
+      "symbol": "G",
+      "manager_id": "GA",
+      "action": "Reduce 9.24%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1018,
+      "portfolio_percentage": 0.0,
+      "company_name": "Genpact Ltd."
+    },
+    {
+      "symbol": "JPM",
+      "manager_id": "GA",
+      "action": "Reduce 20.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1000,
+      "portfolio_percentage": 0.01,
+      "company_name": "JPMorgan Chase & Co."
+    },
+    {
+      "symbol": "SCHW",
+      "manager_id": "GA",
+      "action": "Reduce 25.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 5000,
+      "portfolio_percentage": 0.01,
+      "company_name": "Charles Schwab Corp."
+    },
+    {
+      "symbol": "MRP",
+      "manager_id": "GA",
+      "action": "Reduce 41.66%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 3286243,
+      "portfolio_percentage": 1.68,
+      "company_name": "Millrose Properties"
+    },
+    {
+      "symbol": "GS",
+      "manager_id": "GA",
+      "action": "Reduce 60.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1500,
+      "portfolio_percentage": 0.02,
+      "company_name": "Goldman Sachs Group"
+    },
+    {
+      "symbol": "C",
+      "manager_id": "GA",
+      "action": "Reduce 99.49%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 16092290,
+      "portfolio_percentage": 25.12,
+      "company_name": "Citigroup Inc."
+    },
+    {
+      "symbol": "MS",
+      "manager_id": "GA",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 10000,
+      "portfolio_percentage": 0.02,
+      "company_name": "Morgan Stanley"
+    },
+    {
+      "symbol": "NOV",
+      "manager_id": "GA",
       "action": "Add 21.11%",
       "date": "Q2 2025",
       "percentage_change": 0.0,
@@ -5942,6 +6206,6 @@
       "company_name": "Stellantis N.V."
     }
   ],
-  "timestamp": "2025-11-01T06:13:03.006894",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.670944",
+  "scraped_date": "2025-12-01"
 }

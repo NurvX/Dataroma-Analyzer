@@ -4,6 +4,94 @@
     {
       "symbol": "LULU",
       "manager_id": "SAM",
+      "action": "Add 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 50000,
+      "portfolio_percentage": 16.18,
+      "company_name": "Lululemon Athletica Inc."
+    },
+    {
+      "symbol": "MOH",
+      "manager_id": "SAM",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 125000,
+      "portfolio_percentage": 43.49,
+      "company_name": "Molina Healthcare Inc."
+    },
+    {
+      "symbol": "SLM",
+      "manager_id": "SAM",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 480054,
+      "portfolio_percentage": 24.16,
+      "company_name": "SLM Corp."
+    },
+    {
+      "symbol": "EL",
+      "manager_id": "SAM",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 150000,
+      "portfolio_percentage": 21.55,
+      "company_name": "Estee Lauder Cos."
+    },
+    {
+      "symbol": "BRKR",
+      "manager_id": "SAM",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 250000,
+      "portfolio_percentage": 18.31,
+      "company_name": "Bruker Corp."
+    },
+    {
+      "symbol": "REGN",
+      "manager_id": "SAM",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 15000,
+      "portfolio_percentage": 14.0,
+      "company_name": "Regeneron Pharmaceuticals"
+    },
+    {
+      "symbol": "MELI",
+      "manager_id": "SAM",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 3000,
+      "portfolio_percentage": 13.94,
+      "company_name": "Mercadolibre Inc."
+    },
+    {
+      "symbol": "UNH",
+      "manager_id": "SAM",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 20000,
+      "portfolio_percentage": 11.09,
+      "company_name": "United Health Group Inc."
+    },
+    {
+      "symbol": "LULU",
+      "manager_id": "SAM",
       "action": "Buy",
       "date": "Q2 2025",
       "percentage_change": 0.0,
@@ -5513,6 +5601,6 @@
       "company_name": "Mohawk Industries"
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.740086",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.676457",
+  "scraped_date": "2025-12-01"
 }

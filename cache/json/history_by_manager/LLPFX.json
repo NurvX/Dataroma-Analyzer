@@ -2,6 +2,160 @@
   "manager_id": "LLPFX",
   "activities": [
     {
+      "symbol": "ACI",
+      "manager_id": "LLPFX",
+      "action": "Add 41.65%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1021431,
+      "portfolio_percentage": 1.86,
+      "company_name": "Albertsons Co Inc."
+    },
+    {
+      "symbol": "MAT",
+      "manager_id": "LLPFX",
+      "action": "Add 12.91%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 447058,
+      "portfolio_percentage": 0.78,
+      "company_name": "Mattel Inc."
+    },
+    {
+      "symbol": "CNX",
+      "manager_id": "LLPFX",
+      "action": "Add 3.25%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 69205,
+      "portfolio_percentage": 0.23,
+      "company_name": "CNX Resources Corp."
+    },
+    {
+      "symbol": "RYN",
+      "manager_id": "LLPFX",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 2249038,
+      "portfolio_percentage": 6.22,
+      "company_name": "Rayonier Inc."
+    },
+    {
+      "symbol": "AVTR",
+      "manager_id": "LLPFX",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 3639654,
+      "portfolio_percentage": 4.73,
+      "company_name": "Avantor Inc."
+    },
+    {
+      "symbol": "PCH",
+      "manager_id": "LLPFX",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 1055228,
+      "portfolio_percentage": 4.48,
+      "company_name": "PotlatchDeltic Corp."
+    },
+    {
+      "symbol": "IAC",
+      "manager_id": "LLPFX",
+      "action": "Reduce 4.50%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 87840,
+      "portfolio_percentage": 0.31,
+      "company_name": "IAC Inc."
+    },
+    {
+      "symbol": "REGN",
+      "manager_id": "LLPFX",
+      "action": "Reduce 11.96%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 13407,
+      "portfolio_percentage": 0.79,
+      "company_name": "Regeneron Pharmaceuticals"
+    },
+    {
+      "symbol": "FIS",
+      "manager_id": "LLPFX",
+      "action": "Reduce 19.36%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 126937,
+      "portfolio_percentage": 0.87,
+      "company_name": "Fidelity National Information Services"
+    },
+    {
+      "symbol": "BIO",
+      "manager_id": "LLPFX",
+      "action": "Reduce 22.80%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 50088,
+      "portfolio_percentage": 1.46,
+      "company_name": "Bio-Rad Laboratories Inc."
+    },
+    {
+      "symbol": "PVH",
+      "manager_id": "LLPFX",
+      "action": "Reduce 32.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 306161,
+      "portfolio_percentage": 2.67,
+      "company_name": "PVH Corp."
+    },
+    {
+      "symbol": "DINO",
+      "manager_id": "LLPFX",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 1241512,
+      "portfolio_percentage": 5.27,
+      "company_name": "HF Sinclair Corp."
+    },
+    {
+      "symbol": "ANGI",
+      "manager_id": "LLPFX",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 1806694,
+      "portfolio_percentage": 2.85,
+      "company_name": "Angi Inc."
+    },
+    {
+      "symbol": "H",
+      "manager_id": "LLPFX",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 171292,
+      "portfolio_percentage": 2.47,
+      "company_name": "Hyatt Hotels Corp."
+    },
+    {
       "symbol": "PVH",
       "manager_id": "LLPFX",
       "action": "Add 84.43%",
@@ -519,7 +673,7 @@
       "company_name": "Kellanova"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "LLPFX",
       "action": "Sell 100.00%",
       "date": "Q3 2024",
@@ -695,7 +849,7 @@
       "company_name": "Hyatt Hotels Corp."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "LLPFX",
       "action": "Reduce 45.67%",
       "date": "Q1 2024",
@@ -992,7 +1146,7 @@
       "company_name": "Fairfax Financial Holdings Ltd."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "LLPFX",
       "action": "Reduce 17.53%",
       "date": "Q3 2023",
@@ -1157,7 +1311,7 @@
       "company_name": "Hyatt Hotels Corp."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "LLPFX",
       "action": "Reduce 14.21%",
       "date": "Q2 2023",
@@ -1377,7 +1531,7 @@
       "company_name": "Alphabet Inc. CL C"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "LLPFX",
       "action": "Reduce 28.92%",
       "date": "Q1 2023",
@@ -1861,7 +2015,7 @@
       "company_name": "Iveco Group NV"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "LLPFX",
       "action": "Add 133.37%",
       "date": "Q1 2022",
@@ -2037,7 +2191,7 @@
       "company_name": "Liberty Broadband Corp. CL C"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "LLPFX",
       "action": "Buy",
       "date": "Q4 2021",
@@ -8670,6 +8824,6 @@
       "company_name": "Comcast Corp."
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.603726",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.262412",
+  "scraped_date": "2025-12-01"
 }

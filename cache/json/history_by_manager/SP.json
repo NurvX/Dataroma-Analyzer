@@ -2,6 +2,127 @@
   "manager_id": "SP",
   "activities": [
     {
+      "symbol": "FOUR",
+      "manager_id": "SP",
+      "action": "Add 60.70%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 472652,
+      "portfolio_percentage": 5.44,
+      "company_name": "Shift4 Payments Inc. CL A"
+    },
+    {
+      "symbol": "VERX",
+      "manager_id": "SP",
+      "action": "Add 51.79%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 369001,
+      "portfolio_percentage": 1.36,
+      "company_name": "Vertex Inc."
+    },
+    {
+      "symbol": "MNDY",
+      "manager_id": "SP",
+      "action": "Add 33.07%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 93009,
+      "portfolio_percentage": 2.68,
+      "company_name": "monday.com Ltd."
+    },
+    {
+      "symbol": "BLND",
+      "manager_id": "SP",
+      "action": "Add 10.43%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 929566,
+      "portfolio_percentage": 0.5,
+      "company_name": "Blend Labs Inc."
+    },
+    {
+      "symbol": "OKTA",
+      "manager_id": "SP",
+      "action": "Add 3.79%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 36193,
+      "portfolio_percentage": 0.49,
+      "company_name": "Okta Inc."
+    },
+    {
+      "symbol": "FWONK",
+      "manager_id": "SP",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 217523,
+      "portfolio_percentage": 3.38,
+      "company_name": "Liberty Media Corp Formula One Series C"
+    },
+    {
+      "symbol": "INTU",
+      "manager_id": "SP",
+      "action": "Reduce 17.62%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 24454,
+      "portfolio_percentage": 2.48,
+      "company_name": "Intuit Inc."
+    },
+    {
+      "symbol": "BRZE",
+      "manager_id": "SP",
+      "action": "Reduce 26.65%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 671356,
+      "portfolio_percentage": 2.84,
+      "company_name": "Braze Inc A"
+    },
+    {
+      "symbol": "PCOR",
+      "manager_id": "SP",
+      "action": "Reduce 30.97%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 483700,
+      "portfolio_percentage": 5.25,
+      "company_name": "Procore Technologies Inc."
+    },
+    {
+      "symbol": "CSGP",
+      "manager_id": "SP",
+      "action": "Reduce 33.92%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 460026,
+      "portfolio_percentage": 5.77,
+      "company_name": "CoStar Group Inc."
+    },
+    {
+      "symbol": "NCNO",
+      "manager_id": "SP",
+      "action": "Reduce 46.20%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1334107,
+      "portfolio_percentage": 5.38,
+      "company_name": "nCino Inc."
+    },
+    {
       "symbol": "VERX",
       "manager_id": "SP",
       "action": "Add 45.35%",
@@ -1300,7 +1421,7 @@
       "company_name": "Block Inc."
     },
     {
-      "symbol": "VMEO",
+      "symbol": "VMEO-OLD",
       "manager_id": "SP",
       "action": "Sell 100.00%",
       "date": "Q4 2021",
@@ -1322,7 +1443,7 @@
       "company_name": "IAC Inc."
     },
     {
-      "symbol": "VMEO",
+      "symbol": "VMEO-OLD",
       "manager_id": "SP",
       "action": "Add 8.49%",
       "date": "Q3 2021",
@@ -1421,7 +1542,7 @@
       "company_name": "Sea Ltd"
     },
     {
-      "symbol": "VMEO",
+      "symbol": "VMEO-OLD",
       "manager_id": "SP",
       "action": "Buy",
       "date": "Q2 2021",
@@ -1916,6 +2037,6 @@
       "company_name": "JD.com Inc."
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.805255",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.539871",
+  "scraped_date": "2025-12-01"
 }

@@ -2,6 +2,94 @@
   "manager_id": "ENG",
   "activities": [
     {
+      "symbol": "GXO",
+      "manager_id": "ENG",
+      "action": "Add 9.08%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 81477,
+      "portfolio_percentage": 1.06,
+      "company_name": "Gxo Logistics Inc."
+    },
+    {
+      "symbol": "VFC",
+      "manager_id": "ENG",
+      "action": "Add 8.21%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 445000,
+      "portfolio_percentage": 1.58,
+      "company_name": "V.F. Corp."
+    },
+    {
+      "symbol": "PTLO",
+      "manager_id": "ENG",
+      "action": "Add 4.91%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 237390,
+      "portfolio_percentage": 0.38,
+      "company_name": "Portillo's Inc Cl A"
+    },
+    {
+      "symbol": "BRCC",
+      "manager_id": "ENG",
+      "action": "Add 2.96%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 400000,
+      "portfolio_percentage": 0.15,
+      "company_name": "BRC Inc."
+    },
+    {
+      "symbol": "YETI",
+      "manager_id": "ENG",
+      "action": "Add 0.33%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 7033,
+      "portfolio_percentage": 0.06,
+      "company_name": "YETI Holdings Inc."
+    },
+    {
+      "symbol": "CGNX",
+      "manager_id": "ENG",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 855000,
+      "portfolio_percentage": 9.5,
+      "company_name": "Cognex Corp."
+    },
+    {
+      "symbol": "BL",
+      "manager_id": "ENG",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 453794,
+      "portfolio_percentage": 5.91,
+      "company_name": "BlackLine Inc."
+    },
+    {
+      "symbol": "EVH",
+      "manager_id": "ENG",
+      "action": "Reduce 3.25%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 190556,
+      "portfolio_percentage": 0.4,
+      "company_name": "Evolent Health Inc."
+    },
+    {
       "symbol": "YETI",
       "manager_id": "ENG",
       "action": "Add 40.10%",
@@ -1938,6 +2026,6 @@
       "company_name": "Del Frisco's Restaurant Group"
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.794227",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.440860",
+  "scraped_date": "2025-12-01"
 }

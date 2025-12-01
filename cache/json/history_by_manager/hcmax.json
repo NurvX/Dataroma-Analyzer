@@ -46,7 +46,7 @@
       "company_name": "United Parcel Service"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "hcmax",
       "action": "Buy",
       "date": "Q3 2025",
@@ -11002,6 +11002,6 @@
       "company_name": "Aetna Inc."
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.585357",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.802750",
+  "scraped_date": "2025-12-01"
 }

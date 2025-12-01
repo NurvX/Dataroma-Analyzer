@@ -2,6 +2,182 @@
   "manager_id": "oaklx",
   "activities": [
     {
+      "symbol": "CNC",
+      "manager_id": "oaklx",
+      "action": "Add 124.49%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 3251896,
+      "portfolio_percentage": 1.61,
+      "company_name": "Centene Corp."
+    },
+    {
+      "symbol": "MOH",
+      "manager_id": "oaklx",
+      "action": "Add 75.39%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 372664,
+      "portfolio_percentage": 0.99,
+      "company_name": "Molina Healthcare Inc."
+    },
+    {
+      "symbol": "CRM",
+      "manager_id": "oaklx",
+      "action": "Add 60.25%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 576000,
+      "portfolio_percentage": 1.9,
+      "company_name": "Salesforce.com"
+    },
+    {
+      "symbol": "ICLR",
+      "manager_id": "oaklx",
+      "action": "Add 36.94%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 256000,
+      "portfolio_percentage": 0.62,
+      "company_name": "ICON plc"
+    },
+    {
+      "symbol": "KDP",
+      "manager_id": "oaklx",
+      "action": "Add 27.12%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 2549000,
+      "portfolio_percentage": 0.9,
+      "company_name": "Keurig Dr Pepper Inc."
+    },
+    {
+      "symbol": "CRL",
+      "manager_id": "oaklx",
+      "action": "Add 21.24%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 144000,
+      "portfolio_percentage": 0.31,
+      "company_name": "Charles River Labs"
+    },
+    {
+      "symbol": "EFX",
+      "manager_id": "oaklx",
+      "action": "Add 7.44%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 88000,
+      "portfolio_percentage": 0.31,
+      "company_name": "Equifax Inc."
+    },
+    {
+      "symbol": "GLIBK",
+      "manager_id": "oaklx",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 78100,
+      "portfolio_percentage": 0.04,
+      "company_name": "GCI Liberty Inc. Series C"
+    },
+    {
+      "symbol": "WBD",
+      "manager_id": "oaklx",
+      "action": "Reduce 4.83%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1138000,
+      "portfolio_percentage": 0.31,
+      "company_name": "Warner Bros. Discovery Inc."
+    },
+    {
+      "symbol": "FCNCA",
+      "manager_id": "oaklx",
+      "action": "Reduce 5.03%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 12300,
+      "portfolio_percentage": 0.31,
+      "company_name": "First Citizens Bancshares"
+    },
+    {
+      "symbol": "APA",
+      "manager_id": "oaklx",
+      "action": "Reduce 8.42%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 689600,
+      "portfolio_percentage": 0.23,
+      "company_name": "APA Corp."
+    },
+    {
+      "symbol": "SCHW",
+      "manager_id": "oaklx",
+      "action": "Reduce 11.81%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 453600,
+      "portfolio_percentage": 0.6,
+      "company_name": "Charles Schwab Corp."
+    },
+    {
+      "symbol": "LBRDK",
+      "manager_id": "oaklx",
+      "action": "Reduce 13.77%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 166700,
+      "portfolio_percentage": 0.15,
+      "company_name": "Liberty Broadband Corp. CL C"
+    },
+    {
+      "symbol": "COF",
+      "manager_id": "oaklx",
+      "action": "Reduce 16.79%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 303500,
+      "portfolio_percentage": 0.9,
+      "company_name": "Capital One Financial"
+    },
+    {
+      "symbol": "GOOGL",
+      "manager_id": "oaklx",
+      "action": "Reduce 21.07%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 419000,
+      "portfolio_percentage": 1.42,
+      "company_name": "Alphabet Inc."
+    },
+    {
+      "symbol": "CBRE",
+      "manager_id": "oaklx",
+      "action": "Reduce 28.74%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 681600,
+      "portfolio_percentage": 1.49,
+      "company_name": "CBRE Group"
+    },
+    {
       "symbol": "MOH",
       "manager_id": "oaklx",
       "action": "Add 23.45%",
@@ -387,7 +563,7 @@
       "company_name": "Salesforce.com"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "oaklx",
       "action": "Sell 100.00%",
       "date": "Q1 2025",
@@ -607,7 +783,7 @@
       "company_name": "Charter Communications"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "oaklx",
       "action": "Reduce 43.30%",
       "date": "Q4 2024",
@@ -717,7 +893,7 @@
       "company_name": "Capital One Financial"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "oaklx",
       "action": "Add 0.03%",
       "date": "Q3 2024",
@@ -893,7 +1069,7 @@
       "company_name": "First Citizens Bancshares"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "oaklx",
       "action": "Add 8.42%",
       "date": "Q2 2024",
@@ -1443,7 +1619,7 @@
       "company_name": "Charter Communications"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "oaklx",
       "action": "Reduce 5.92%",
       "date": "Q4 2023",
@@ -1905,7 +2081,7 @@
       "company_name": "Ally Financial Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "oaklx",
       "action": "Reduce 0.02%",
       "date": "Q2 2023",
@@ -2081,7 +2257,7 @@
       "company_name": "Capital One Financial"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "oaklx",
       "action": "Add 0.02%",
       "date": "Q1 2023",
@@ -2186,7 +2362,7 @@
       "date": "Q1 2023",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 574000,
+      "shares": 5740000,
       "portfolio_percentage": 4.15,
       "company_name": "Netflix Inc."
     },
@@ -2400,7 +2576,7 @@
       "company_name": "First Citizens Bancshares"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "oaklx",
       "action": "Reduce 30.06%",
       "date": "Q4 2022",
@@ -2428,7 +2604,7 @@
       "date": "Q4 2022",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 411000,
+      "shares": 4110000,
       "portfolio_percentage": 2.97,
       "company_name": "Netflix Inc."
     },
@@ -2664,7 +2840,7 @@
       "company_name": "Lear Corp."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "oaklx",
       "action": "Reduce 13.22%",
       "date": "Q3 2022",
@@ -2692,7 +2868,7 @@
       "date": "Q3 2022",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 230300,
+      "shares": 2303000,
       "portfolio_percentage": 1.35,
       "company_name": "Netflix Inc."
     },
@@ -2758,7 +2934,7 @@
       "date": "Q2 2022",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 574200,
+      "shares": 5742000,
       "portfolio_percentage": 2.4,
       "company_name": "Netflix Inc."
     },
@@ -2989,7 +3165,7 @@
       "date": "Q1 2022",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 221500,
+      "shares": 2215000,
       "portfolio_percentage": 1.69,
       "company_name": "Netflix Inc."
     },
@@ -3082,7 +3258,7 @@
       "company_name": "CBRE Group"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "oaklx",
       "action": "Reduce 9.80%",
       "date": "Q1 2022",
@@ -3192,7 +3368,7 @@
       "company_name": "First Citizens Bancshares CL B"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "oaklx",
       "action": "Buy",
       "date": "Q4 2021",
@@ -3275,7 +3451,7 @@
       "date": "Q4 2021",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 50000,
+      "shares": 500000,
       "portfolio_percentage": 0.56,
       "company_name": "Netflix Inc."
     },
@@ -3396,7 +3572,7 @@
       "date": "Q3 2021",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 400,
+      "shares": 4000,
       "portfolio_percentage": 0.0,
       "company_name": "Netflix Inc."
     },
@@ -3550,7 +3726,7 @@
       "date": "Q2 2021",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 120400,
+      "shares": 1204000,
       "portfolio_percentage": 1.25,
       "company_name": "Netflix Inc."
     },
@@ -4067,7 +4243,7 @@
       "date": "Q3 2020",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 130400,
+      "shares": 1304000,
       "portfolio_percentage": 1.97,
       "company_name": "Netflix Inc."
     },
@@ -4254,7 +4430,7 @@
       "date": "Q2 2020",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 96000,
+      "shares": 960000,
       "portfolio_percentage": 1.25,
       "company_name": "Netflix Inc."
     },
@@ -5079,7 +5255,7 @@
       "date": "Q4 2018",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 576000,
+      "shares": 5760000,
       "portfolio_percentage": 3.72,
       "company_name": "Netflix Inc."
     },
@@ -10824,184 +11000,8 @@
       "shares": 2900000,
       "portfolio_percentage": 4.13,
       "company_name": "Morgan Stanley"
-    },
-    {
-      "symbol": "QVCGA",
-      "manager_id": "oaklx",
-      "action": "Reduce 0.96%",
-      "date": "Q1 2008",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 2000,
-      "portfolio_percentage": 0.05,
-      "company_name": "Qurate Group Series A"
-    },
-    {
-      "symbol": "DISCA-OLD",
-      "manager_id": "oaklx",
-      "action": "Reduce 0.99%",
-      "date": "Q1 2008",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 100000,
-      "portfolio_percentage": 0.07,
-      "company_name": "Discovery Inc. OLD"
-    },
-    {
-      "symbol": "LTD",
-      "manager_id": "oaklx",
-      "action": "Reduce 1.08%",
-      "date": "Q1 2008",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 100000,
-      "portfolio_percentage": 0.05,
-      "company_name": "Limited Brands Inc."
-    },
-    {
-      "symbol": "DELL-OLD",
-      "manager_id": "oaklx",
-      "action": "Reduce 1.31%",
-      "date": "Q1 2008",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 100000,
-      "portfolio_percentage": 0.06,
-      "company_name": "Dell Inc."
-    },
-    {
-      "symbol": "INTC",
-      "manager_id": "oaklx",
-      "action": "Reduce 1.33%",
-      "date": "Q1 2008",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 100000,
-      "portfolio_percentage": 0.07,
-      "company_name": "Intel Corp."
-    },
-    {
-      "symbol": "CMCSA",
-      "manager_id": "oaklx",
-      "action": "Reduce 2.42%",
-      "date": "Q1 2008",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 377200,
-      "portfolio_percentage": 0.11,
-      "company_name": "Comcast Corp."
-    },
-    {
-      "symbol": "HRB",
-      "manager_id": "oaklx",
-      "action": "Reduce 3.74%",
-      "date": "Q1 2008",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 550000,
-      "portfolio_percentage": 0.36,
-      "company_name": "H&R Block Inc."
-    },
-    {
-      "symbol": "BMY",
-      "manager_id": "oaklx",
-      "action": "Reduce 8.77%",
-      "date": "Q1 2008",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 650000,
-      "portfolio_percentage": 0.43,
-      "company_name": "Bristol-Myers Squibb"
-    },
-    {
-      "symbol": "HD",
-      "manager_id": "oaklx",
-      "action": "Reduce 9.76%",
-      "date": "Q1 2008",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 400000,
-      "portfolio_percentage": 0.35,
-      "company_name": "Home Depot"
-    },
-    {
-      "symbol": "WM-OLD",
-      "manager_id": "oaklx",
-      "action": "Reduce 9.93%",
-      "date": "Q1 2008",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 2250000,
-      "portfolio_percentage": 0.72,
-      "company_name": "Washington Mutual"
-    },
-    {
-      "symbol": "YUM",
-      "manager_id": "oaklx",
-      "action": "Reduce 10.66%",
-      "date": "Q1 2008",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 950000,
-      "portfolio_percentage": 1.1,
-      "company_name": "Yum! Brands Inc."
-    },
-    {
-      "symbol": "TWX",
-      "manager_id": "oaklx",
-      "action": "Reduce 11.46%",
-      "date": "Q1 2008",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 1400000,
-      "portfolio_percentage": 0.61,
-      "company_name": "Time Warner Inc."
-    },
-    {
-      "symbol": "VIAB",
-      "manager_id": "oaklx",
-      "action": "Reduce 12.31%",
-      "date": "Q1 2008",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 600000,
-      "portfolio_percentage": 0.74,
-      "company_name": "Viacom Inc."
-    },
-    {
-      "symbol": "WU",
-      "manager_id": "oaklx",
-      "action": "Reduce 14.34%",
-      "date": "Q1 2008",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 1200000,
-      "portfolio_percentage": 0.8,
-      "company_name": "Western Union Co."
-    },
-    {
-      "symbol": "JPM",
-      "manager_id": "oaklx",
-      "action": "Reduce 20.25%",
-      "date": "Q1 2008",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 900000,
-      "portfolio_percentage": 1.21,
-      "company_name": "JPMorgan Chase & Co."
-    },
-    {
-      "symbol": "MCD",
-      "manager_id": "oaklx",
-      "action": "Reduce 22.38%",
-      "date": "Q1 2008",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 700000,
-      "portfolio_percentage": 1.22,
-      "company_name": "McDonald's Corp."
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.594570",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.279486",
+  "scraped_date": "2025-12-01"
 }

@@ -1,6 +1,6 @@
 # 📊 Dataroma Investment Analysis
 
-*Generated: 2025-11-01 06:16:26*
+*Generated: 2025-12-01 06:16:31*
 
 ## 🎯 Overview
 
@@ -65,21 +65,21 @@ Immediate opportunities and recent market activity recent quarters.
 
 | Rank | Ticker | Score | Value | Why Under Radar |
 | ---- | ------ | ----- | ----- | --------------- |
-| 1 | **BBWI** | 33.5 | $55M | Exclusive pick; High conviction (16.8%); Growing institutional interest; Low price entry |
-| 2 | **AER** | 28.6 | $159M | Exclusive pick; High conviction (14.3%); Growing institutional interest |
-| 3 | **BAYRY** | 20.4 | $51M | Exclusive pick; High conviction (10.2%); Growing institutional interest; Low price entry |
-| 4 | **AMR** | 19.1 | $53M | Limited recognition; Growing institutional interest; Recent discovery |
-| 5 | **BAM** | 16.6 | $184M | Limited recognition |
-| 6 | **ABG** | 16.5 | $503M | Exclusive pick; Single manager exclusive |
-| 7 | **BFH** | 15.9 | $19M | Exclusive pick; Growing institutional interest |
-| 8 | **AME** | 12.4 | $180M | Exclusive pick; Growing institutional interest |
-| 9 | **AMG** | 10.1 | $3M | Exclusive pick; Growing institutional interest |
-| 10 | **BB** | 10.0 | $193M | Limited recognition; Low price entry |
-| 11 | **ALC** | 8.6 | $892M | Limited recognition; Growing institutional interest |
-| 12 | **ATS** | 8.5 | $79M | Exclusive pick; Single manager exclusive; Low price entry |
-| 13 | **ACGL** | 7.9 | $386M | Exclusive pick; Growing institutional interest |
-| 14 | **ASH** | 7.6 | $100M | Limited recognition; Growing institutional interest |
-| 15 | **BLND** | 7.4 | $29M | Exclusive pick; Growing institutional interest; Low price entry |
+| 1 | **AER** | 27.5 | $153M | Exclusive pick; High conviction (13.8%); Growing institutional interest |
+| 2 | **AMR** | 25.9 | $89M | Limited recognition; High conviction (13.2%); Growing institutional interest |
+| 3 | **BAYRY** | 21.2 | $56M | Exclusive pick; High conviction (10.6%); Growing institutional interest; Low price entry |
+| 4 | **ABG** | 17.1 | $527M | Exclusive pick; Growing institutional interest |
+| 5 | **AME** | 12.7 | $187M | Exclusive pick; Growing institutional interest |
+| 6 | **AXTA** | 12.6 | $39M | Limited recognition; Growing institutional interest; Low price entry |
+| 7 | **BHF** | 11.7 | $148M | Exclusive pick; Growing institutional interest |
+| 8 | **BFH** | 11.1 | $15M | Exclusive pick; Growing institutional interest |
+| 9 | **AMG** | 10.5 | $4M | Exclusive pick; Growing institutional interest |
+| 10 | **ALC** | 8.4 | $804M | Limited recognition; Growing institutional interest |
+| 11 | **BB** | 8.3 | $179M | Limited recognition; Low price entry |
+| 12 | **ASH** | 7.8 | $95M | Limited recognition; Growing institutional interest; Low price entry |
+| 13 | **AXL** | 7.6 | $10M | Exclusive pick; Growing institutional interest; Low price entry |
+| 14 | **BELFB** | 7.2 | $17M | Limited recognition |
+| 15 | **ACGL** | 6.7 | $318M | Exclusive pick; Growing institutional interest |
 
 ---
 
@@ -127,22 +127,22 @@ Deep insights into manager strategies, performance patterns, and decision-making
 
 | Report | Description | Key Insight |
 | ------ | ----------- | ----------- |
-| [position_building_timeline.csv](advanced/position_building_timeline.csv) | 📈 Position buildup/reduction over time (45194 items) | Quarter-by-quarter view of how managers accumulate & distribute positions |
+| [position_building_timeline.csv](advanced/position_building_timeline.csv) | 📈 Position buildup/reduction over time (45322 items) | Quarter-by-quarter view of how managers accumulate & distribute positions |
 | [accumulation_vs_distribution.csv](advanced/accumulation_vs_distribution.csv) | 🔄 Current phase tracking (100 items) | Identifies which positions are being built vs reduced RIGHT NOW |
 | [position_flip_points.csv](advanced/position_flip_points.csv) | 🔀 Accumulation→Distribution transitions (100 items) | Pinpoints when managers switched from building to reducing |
 | [action_sequence_patterns.csv](advanced/action_sequence_patterns.csv) | Trading pattern analysis (30 items) | Institutional buy/sell sequence patterns |
 | [catalyst_timing_masters.csv](advanced/catalyst_timing_masters.csv) | Market timing excellence (30 items) | Managers with exceptional timing skills |
 | [crisis_alpha_generators.csv](advanced/crisis_alpha_generators.csv) | Crisis period outperformers (30 items) | Managers who buy during crashes |
-| [high_conviction_stocks.csv](advanced/high_conviction_stocks.csv) | Highest conviction positions (250 items) | Stocks with strongest institutional backing |
+| [high_conviction_stocks.csv](advanced/high_conviction_stocks.csv) | Highest conviction positions (260 items) | Stocks with strongest institutional backing |
 | [interesting_stocks_overview.csv](advanced/interesting_stocks_overview.csv) | Top-tier opportunities (100 items) | Multi-factor scoring of elite picks |
-| [long_term_winners.csv](advanced/long_term_winners.csv) | Sustained institutional interest (125 items) | Stocks with long-term institutional backing |
+| [long_term_winners.csv](advanced/long_term_winners.csv) | Sustained institutional interest (123 items) | Stocks with long-term institutional backing |
 | [manager_evolution_patterns.csv](advanced/manager_evolution_patterns.csv) | Strategy adaptation over time (30 items) | How managers evolve their approaches |
 | [manager_performance.csv](advanced/manager_performance.csv) | Comprehensive manager evaluation (81 items) | Multi-dimensional performance metrics |
 | [manager_track_records.csv](advanced/manager_track_records.csv) | 18+ year performance history (81 items) | Comprehensive manager scoring with consistency |
 | [multi_manager_favorites.csv](advanced/multi_manager_favorites.csv) | Consensus high-conviction picks (50 items) | Stocks held by multiple elite managers |
 | [position_sizing_mastery.csv](advanced/position_sizing_mastery.csv) | Optimal allocation patterns (40 items) | Advanced portfolio construction analysis |
 | [sector_rotation_excellence.csv](advanced/sector_rotation_excellence.csv) | Elite sector allocation (30 items) | Superior sector rotation strategies |
-| [sector_rotation_patterns.csv](advanced/sector_rotation_patterns.csv) | Institutional sector flows (354 items) | Sector rotation trend analysis |
+| [sector_rotation_patterns.csv](advanced/sector_rotation_patterns.csv) | Institutional sector flows (353 items) | Sector rotation trend analysis |
 | [theme_emergence_detection.csv](advanced/theme_emergence_detection.csv) | Early theme identification (25 items) | Emerging investment theme detection |
 | [top_holdings.csv](advanced/top_holdings.csv) | Largest institutional positions (50 items) | Deep dive into major institutional holdings |
 
@@ -150,21 +150,21 @@ Deep insights into manager strategies, performance patterns, and decision-making
 
 | Rank | Manager | Annual Return | Score | Years Active |
 | ---- | ------- | ------------- | ----- | ------------ |
-| 1 | **Mason Hawkins** | 26.9% | 31.18 | 19 |
-| 2 | **Bill Ackman** | 26.9% | 28.15 | 19 |
+| 1 | **Mason Hawkins** | 26.9% | 31.49 | 19 |
+| 2 | **Bill Ackman** | 26.9% | 28.34 | 19 |
 | 3 | **Tweedy Browne Co.** | 26.9% | 27.92 | 19 |
-| 4 | **Bruce Berkowitz** | 26.9% | 24.57 | 19 |
-| 5 | **Ruane Cunniff** | 26.9% | 24.57 | 19 |
-| 6 | **Bill & Melinda Gates Foundation Trust** | 26.9% | 18.61 | 19 |
-| 7 | **Warren Buffett** | 25.3% | 28.43 | 18 |
-| 8 | **Bill Nygren** | 25.3% | 28.13 | 18 |
+| 4 | **Ruane Cunniff** | 26.9% | 24.92 | 19 |
+| 5 | **Bruce Berkowitz** | 26.9% | 24.71 | 19 |
+| 6 | **Bill & Melinda Gates Foundation Trust** | 26.9% | 19.26 | 19 |
+| 7 | **Bill Nygren** | 25.3% | 28.60 | 18 |
+| 8 | **Warren Buffett** | 25.3% | 27.95 | 18 |
 | 9 | **Hillman Value Fund** | 25.3% | 26.70 | 18 |
 | 10 | **Wallace Weitz** | 23.9% | 30.13 | 17 |
-| 11 | **Mohnish Pabrai** | 23.9% | 19.34 | 17 |
-| 12 | **Glenn Greenberg** | 21.2% | 29.91 | 15 |
-| 13 | **Charles Bobrinskoy** | 21.2% | 27.17 | 15 |
-| 14 | **Prem Watsa** | 21.2% | 26.72 | 15 |
-| 15 | **ValueAct Capital** | 20.0% | 30.08 | 14 |
+| 11 | **Mohnish Pabrai** | 23.9% | 19.80 | 17 |
+| 12 | **Glenn Greenberg** | 21.2% | 29.55 | 15 |
+| 13 | **ValueAct Capital** | 20.0% | 30.57 | 14 |
+| 14 | **Chuck Akre** | 20.0% | 30.43 | 14 |
+| 15 | **Charles Bobrinskoy** | 20.0% | 29.55 | 14 |
 
 ---
 
@@ -194,7 +194,7 @@ Long-term trends and patterns from 2007 to 2025.
 | [crisis_response_analysis.csv](historical/crisis_response_analysis.csv) | 2008 vs 2020 comparison (3 items) | Crisis behavior patterns across decades |
 | [multi_decade_conviction.csv](historical/multi_decade_conviction.csv) | Stocks held 10+ years (50 items) | Ultimate long-term conviction plays |
 | [quarterly_activity_timeline.csv](historical/quarterly_activity_timeline.csv) | 18-year activity map (75 items) | 73 quarters of market timing insights |
-| [stock_life_cycles.csv](historical/stock_life_cycles.csv) | Complete holding patterns (3895 items) | Entry/exit patterns and optimal holding periods |
+| [stock_life_cycles.csv](historical/stock_life_cycles.csv) | Complete holding patterns (3919 items) | Entry/exit patterns and optimal holding periods |
 
 ---
 

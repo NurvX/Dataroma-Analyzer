@@ -2,6 +2,193 @@
   "manager_id": "VA",
   "activities": [
     {
+      "symbol": "MDB",
+      "manager_id": "VA",
+      "action": "Add 206.76%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1427700,
+      "portfolio_percentage": 4.17,
+      "company_name": "MongoDB Inc."
+    },
+    {
+      "symbol": "RKT",
+      "manager_id": "VA",
+      "action": "Add 67.90%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 10270018,
+      "portfolio_percentage": 3.36,
+      "company_name": "Rocket Companies Inc."
+    },
+    {
+      "symbol": "V",
+      "manager_id": "VA",
+      "action": "Add 25.78%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 320900,
+      "portfolio_percentage": 1.85,
+      "company_name": "Visa Inc."
+    },
+    {
+      "symbol": "META",
+      "manager_id": "VA",
+      "action": "Add 23.31%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 145300,
+      "portfolio_percentage": 1.8,
+      "company_name": "Meta Platforms Inc."
+    },
+    {
+      "symbol": "TOST",
+      "manager_id": "VA",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 3397200,
+      "portfolio_percentage": 2.09,
+      "company_name": "Toast Inc."
+    },
+    {
+      "symbol": "LLYVA",
+      "manager_id": "VA",
+      "action": "Reduce 3.02%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 53600,
+      "portfolio_percentage": 0.09,
+      "company_name": "Liberty Media Corp. Series A Live"
+    },
+    {
+      "symbol": "RBLX",
+      "manager_id": "VA",
+      "action": "Reduce 9.48%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 448800,
+      "portfolio_percentage": 1.05,
+      "company_name": "Roblox Corp."
+    },
+    {
+      "symbol": "AMZN",
+      "manager_id": "VA",
+      "action": "Reduce 9.61%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 372000,
+      "portfolio_percentage": 1.38,
+      "company_name": "Amazon.com Inc."
+    },
+    {
+      "symbol": "LLYVK",
+      "manager_id": "VA",
+      "action": "Reduce 11.92%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 476000,
+      "portfolio_percentage": 0.78,
+      "company_name": "Liberty Media Corp. Series C Live"
+    },
+    {
+      "symbol": "DIS",
+      "manager_id": "VA",
+      "action": "Reduce 13.67%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 695700,
+      "portfolio_percentage": 1.34,
+      "company_name": "Walt Disney Co."
+    },
+    {
+      "symbol": "SSD",
+      "manager_id": "VA",
+      "action": "Reduce 14.09%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 198163,
+      "portfolio_percentage": 0.56,
+      "company_name": "Simpson Manufacturing"
+    },
+    {
+      "symbol": "NSIT",
+      "manager_id": "VA",
+      "action": "Reduce 20.62%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 590000,
+      "portfolio_percentage": 1.13,
+      "company_name": "Insight Enterprises Inc."
+    },
+    {
+      "symbol": "LYV",
+      "manager_id": "VA",
+      "action": "Reduce 27.61%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 244400,
+      "portfolio_percentage": 0.68,
+      "company_name": "Live Nation Inc."
+    },
+    {
+      "symbol": "CBRE",
+      "manager_id": "VA",
+      "action": "Reduce 60.20%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 354800,
+      "portfolio_percentage": 0.94,
+      "company_name": "CBRE Group"
+    },
+    {
+      "symbol": "RDFN",
+      "manager_id": "VA",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 5805600,
+      "portfolio_percentage": 1.16,
+      "company_name": "Redfin Corp."
+    },
+    {
+      "symbol": "EXPE",
+      "manager_id": "VA",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 278356,
+      "portfolio_percentage": 0.84,
+      "company_name": "Expedia Group Inc."
+    },
+    {
+      "symbol": "CCC",
+      "manager_id": "VA",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 2881800,
+      "portfolio_percentage": 0.48,
+      "company_name": "CCC Intelligent Solutions Hldgs Inc."
+    },
+    {
       "symbol": "AMZN",
       "manager_id": "VA",
       "action": "Add 587.71%",
@@ -519,7 +706,7 @@
       "company_name": "Spotify Technology S.A."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "VA",
       "action": "Sell 100.00%",
       "date": "Q3 2024",
@@ -640,7 +827,7 @@
       "company_name": "KKR & Co. L.P."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "VA",
       "action": "Reduce 69.81%",
       "date": "Q2 2024",
@@ -717,7 +904,7 @@
       "company_name": "Flutter Entertainment Plc"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "VA",
       "action": "Reduce 12.73%",
       "date": "Q1 2024",
@@ -893,7 +1080,7 @@
       "company_name": "Illumina Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "VA",
       "action": "Reduce 44.51%",
       "date": "Q4 2023",
@@ -1003,7 +1190,7 @@
       "company_name": "Spotify Technology S.A."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "VA",
       "action": "Reduce 35.19%",
       "date": "Q3 2023",
@@ -1168,7 +1355,7 @@
       "company_name": "KKR & Co. L.P."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "VA",
       "action": "Reduce 20.48%",
       "date": "Q1 2023",
@@ -1410,7 +1597,7 @@
       "company_name": "Insight Enterprises Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "VA",
       "action": "Add 12.37%",
       "date": "Q2 2022",
@@ -1597,7 +1784,7 @@
       "company_name": "Trinity Industries"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "VA",
       "action": "Add 19.20%",
       "date": "Q4 2021",
@@ -1729,7 +1916,7 @@
       "company_name": "CBRE Acquisition Holdings WTS"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "VA",
       "action": "Add 77.51%",
       "date": "Q3 2021",
@@ -1828,7 +2015,7 @@
       "company_name": "TopBuild Corp."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "VA",
       "action": "Add 616.30%",
       "date": "Q2 2021",
@@ -1960,7 +2147,7 @@
       "company_name": "Outfront Media Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "VA",
       "action": "Add 161.97%",
       "date": "Q1 2021",
@@ -2114,7 +2301,7 @@
       "company_name": "Bausch Health"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "VA",
       "action": "Buy",
       "date": "Q4 2020",
@@ -6591,6 +6778,6 @@
       "company_name": "New York Times CL A"
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.696256",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.346911",
+  "scraped_date": "2025-12-01"
 }

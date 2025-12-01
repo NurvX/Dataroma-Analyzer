@@ -2,6 +2,72 @@
   "manager_id": "PI",
   "activities": [
     {
+      "symbol": "AMR",
+      "manager_id": "PI",
+      "action": "Add 15.57%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 71673,
+      "portfolio_percentage": 3.49,
+      "company_name": "Alpha Metallurgical Resources Inc."
+    },
+    {
+      "symbol": "HCC",
+      "manager_id": "PI",
+      "action": "Add 0.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 86,
+      "portfolio_percentage": 0.0,
+      "company_name": "Warrior Met Coal Inc."
+    },
+    {
+      "symbol": "RIG",
+      "manager_id": "PI",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 24442332,
+      "portfolio_percentage": 22.64,
+      "company_name": "Transocean Ltd."
+    },
+    {
+      "symbol": "VAL",
+      "manager_id": "PI",
+      "action": "Reduce 43.40%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 817522,
+      "portfolio_percentage": 11.84,
+      "company_name": "Valaris plc"
+    },
+    {
+      "symbol": "NE",
+      "manager_id": "PI",
+      "action": "Reduce 86.17%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1489744,
+      "portfolio_percentage": 12.53,
+      "company_name": "Noble Corp."
+    },
+    {
+      "symbol": "AN",
+      "manager_id": "PI",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 61000,
+      "portfolio_percentage": 4.46,
+      "company_name": "AutoNation Inc."
+    },
+    {
       "symbol": "VAL",
       "manager_id": "PI",
       "action": "Add 31.96%",
@@ -3742,6 +3808,6 @@
       "company_name": "CryptoLogic Ltd."
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.943107",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.576818",
+  "scraped_date": "2025-12-01"
 }

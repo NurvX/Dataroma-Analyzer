@@ -2,6 +2,303 @@
   "manager_id": "LMM",
   "activities": [
     {
+      "symbol": "CNDT",
+      "manager_id": "LMM",
+      "action": "Add 46.30%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1275600,
+      "portfolio_percentage": 1.31,
+      "company_name": "Conduent Inc."
+    },
+    {
+      "symbol": "AXL",
+      "manager_id": "LMM",
+      "action": "Add 19.25%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 277175,
+      "portfolio_percentage": 0.61,
+      "company_name": "American Axle & Manufacturing Holdings"
+    },
+    {
+      "symbol": "JELD",
+      "manager_id": "LMM",
+      "action": "Add 10.37%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 194420,
+      "portfolio_percentage": 0.35,
+      "company_name": "JELD-WEN Holding Inc."
+    },
+    {
+      "symbol": "NBR",
+      "manager_id": "LMM",
+      "action": "Add 7.85%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 48995,
+      "portfolio_percentage": 0.74,
+      "company_name": "Nabors Industries Ltd."
+    },
+    {
+      "symbol": "CTO",
+      "manager_id": "LMM",
+      "action": "Add 7.52%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 30000,
+      "portfolio_percentage": 0.18,
+      "company_name": "CTO Realty Growth Inc."
+    },
+    {
+      "symbol": "TDAY",
+      "manager_id": "LMM",
+      "action": "Add 3.62%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 118755,
+      "portfolio_percentage": 0.18,
+      "company_name": "Gannett Co."
+    },
+    {
+      "symbol": "ITRN",
+      "manager_id": "LMM",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 215000,
+      "portfolio_percentage": 2.82,
+      "company_name": "Ituran Location & Control Ltd."
+    },
+    {
+      "symbol": "UPS",
+      "manager_id": "LMM",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 86600,
+      "portfolio_percentage": 2.66,
+      "company_name": "United Parcel Service"
+    },
+    {
+      "symbol": "CALM",
+      "manager_id": "LMM",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 62000,
+      "portfolio_percentage": 2.14,
+      "company_name": "Cal-Maine Foods Inc."
+    },
+    {
+      "symbol": "UPBD",
+      "manager_id": "LMM",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 20000,
+      "portfolio_percentage": 0.17,
+      "company_name": "Upbound Group Inc."
+    },
+    {
+      "symbol": "GTN",
+      "manager_id": "LMM",
+      "action": "Reduce 2.46%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 89590,
+      "portfolio_percentage": 0.19,
+      "company_name": "Gray Television Inc."
+    },
+    {
+      "symbol": "QUAD",
+      "manager_id": "LMM",
+      "action": "Reduce 3.21%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 86905,
+      "portfolio_percentage": 0.2,
+      "company_name": "Quad/Graphics Inc."
+    },
+    {
+      "symbol": "FOSL",
+      "manager_id": "LMM",
+      "action": "Reduce 4.13%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 143332,
+      "portfolio_percentage": 0.14,
+      "company_name": "Fossil Inc."
+    },
+    {
+      "symbol": "BBW",
+      "manager_id": "LMM",
+      "action": "Reduce 6.67%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 7000,
+      "portfolio_percentage": 0.17,
+      "company_name": "Build-A-Bear Workshop Inc."
+    },
+    {
+      "symbol": "FTI",
+      "manager_id": "LMM",
+      "action": "Reduce 7.46%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 605,
+      "portfolio_percentage": 0.01,
+      "company_name": "TechnipFMC plc"
+    },
+    {
+      "symbol": "BCC",
+      "manager_id": "LMM",
+      "action": "Reduce 7.50%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 3000,
+      "portfolio_percentage": 0.09,
+      "company_name": "Boise Cascade Company"
+    },
+    {
+      "symbol": "LNC",
+      "manager_id": "LMM",
+      "action": "Reduce 8.57%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 48804,
+      "portfolio_percentage": 0.72,
+      "company_name": "Lincoln National"
+    },
+    {
+      "symbol": "UGI",
+      "manager_id": "LMM",
+      "action": "Reduce 10.27%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 30000,
+      "portfolio_percentage": 0.37,
+      "company_name": "UGI Corp."
+    },
+    {
+      "symbol": "BFH",
+      "manager_id": "LMM",
+      "action": "Reduce 17.53%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 57375,
+      "portfolio_percentage": 1.18,
+      "company_name": "Bread Financial Holdings Inc."
+    },
+    {
+      "symbol": "WAL",
+      "manager_id": "LMM",
+      "action": "Reduce 23.97%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 20000,
+      "portfolio_percentage": 0.64,
+      "company_name": "Western Alliance Bancorp"
+    },
+    {
+      "symbol": "JXN",
+      "manager_id": "LMM",
+      "action": "Reduce 24.94%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 31170,
+      "portfolio_percentage": 1.16,
+      "company_name": "Jackson Financial Inc."
+    },
+    {
+      "symbol": "BKE",
+      "manager_id": "LMM",
+      "action": "Reduce 31.43%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 33000,
+      "portfolio_percentage": 0.71,
+      "company_name": "Buckle Inc."
+    },
+    {
+      "symbol": "OMF",
+      "manager_id": "LMM",
+      "action": "Reduce 38.29%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 57059,
+      "portfolio_percentage": 1.19,
+      "company_name": "OneMain Holdings"
+    },
+    {
+      "symbol": "CG",
+      "manager_id": "LMM",
+      "action": "Reduce 42.86%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 30000,
+      "portfolio_percentage": 0.69,
+      "company_name": "Carlyle Group"
+    },
+    {
+      "symbol": "UNFI",
+      "manager_id": "LMM",
+      "action": "Reduce 46.55%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 63960,
+      "portfolio_percentage": 0.89,
+      "company_name": "United Natural Foods"
+    },
+    {
+      "symbol": "TPC",
+      "manager_id": "LMM",
+      "action": "Reduce 47.21%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 6095,
+      "portfolio_percentage": 0.14,
+      "company_name": "Tutor Perini Corp."
+    },
+    {
+      "symbol": "DEA",
+      "manager_id": "LMM",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 146800,
+      "portfolio_percentage": 1.38,
+      "company_name": "Easterly Government Properties Inc."
+    },
+    {
       "symbol": "JELD",
       "manager_id": "LMM",
       "action": "Add 141.42%",
@@ -46,7 +343,7 @@
       "company_name": "American Axle & Manufacturing Holdings"
     },
     {
-      "symbol": "GCI",
+      "symbol": "TDAY",
       "manager_id": "LMM",
       "action": "Add 21.07%",
       "date": "Q2 2025",
@@ -266,7 +563,7 @@
       "company_name": "Fossil Inc."
     },
     {
-      "symbol": "GCI",
+      "symbol": "TDAY",
       "manager_id": "LMM",
       "action": "Add 13.19%",
       "date": "Q1 2025",
@@ -497,7 +794,7 @@
       "company_name": "Fossil Inc."
     },
     {
-      "symbol": "GCI",
+      "symbol": "TDAY",
       "manager_id": "LMM",
       "action": "Add 74.75%",
       "date": "Q4 2024",
@@ -882,7 +1179,7 @@
       "company_name": "AT&T Inc."
     },
     {
-      "symbol": "GCI",
+      "symbol": "TDAY",
       "manager_id": "LMM",
       "action": "Reduce 9.96%",
       "date": "Q3 2024",
@@ -1157,7 +1454,7 @@
       "company_name": "Pitney Bowes Inc."
     },
     {
-      "symbol": "GCI",
+      "symbol": "TDAY",
       "manager_id": "LMM",
       "action": "Reduce 38.30%",
       "date": "Q2 2024",
@@ -1344,7 +1641,7 @@
       "company_name": "Conduent Inc."
     },
     {
-      "symbol": "GCI",
+      "symbol": "TDAY",
       "manager_id": "LMM",
       "action": "Reduce 1.02%",
       "date": "Q1 2024",
@@ -1872,7 +2169,7 @@
       "company_name": "Tutor Perini Corp."
     },
     {
-      "symbol": "GCI",
+      "symbol": "TDAY",
       "manager_id": "LMM",
       "action": "Reduce 1.32%",
       "date": "Q4 2023",
@@ -2477,7 +2774,7 @@
       "company_name": "Conduent Inc."
     },
     {
-      "symbol": "GCI",
+      "symbol": "TDAY",
       "manager_id": "LMM",
       "action": "Add 8.41%",
       "date": "Q2 2023",
@@ -3005,7 +3302,7 @@
       "company_name": "Capital One Financial"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "LMM",
       "action": "Sell 100.00%",
       "date": "Q2 2023",
@@ -3346,7 +3643,7 @@
       "company_name": "Medifast Inc."
     },
     {
-      "symbol": "GCI",
+      "symbol": "TDAY",
       "manager_id": "LMM",
       "action": "Add 29.82%",
       "date": "Q1 2023",
@@ -4083,7 +4380,7 @@
       "company_name": "Stitch Fix Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "LMM",
       "action": "Reduce 24.80%",
       "date": "Q1 2023",
@@ -4721,7 +5018,7 @@
       "company_name": "Alphabet Inc."
     },
     {
-      "symbol": "GCI",
+      "symbol": "TDAY",
       "manager_id": "LMM",
       "action": "Reduce 9.00%",
       "date": "Q4 2022",
@@ -4875,7 +5172,7 @@
       "company_name": "Chico's FAS"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "LMM",
       "action": "Reduce 20.94%",
       "date": "Q4 2022",
@@ -5304,7 +5601,7 @@
       "company_name": "Quad/Graphics Inc."
     },
     {
-      "symbol": "GCI",
+      "symbol": "TDAY",
       "manager_id": "LMM",
       "action": "Add 22.86%",
       "date": "Q3 2022",
@@ -5920,7 +6217,7 @@
       "company_name": "TechnipFMC plc"
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "LMM",
       "action": "Reduce 17.84%",
       "date": "Q3 2022",
@@ -6349,7 +6646,7 @@
       "company_name": "Citigroup Inc."
     },
     {
-      "symbol": "GCI",
+      "symbol": "TDAY",
       "manager_id": "LMM",
       "action": "Add 8.32%",
       "date": "Q2 2022",
@@ -6657,7 +6954,7 @@
       "company_name": "Conduent Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "LMM",
       "action": "Reduce 6.43%",
       "date": "Q2 2022",
@@ -7229,7 +7526,7 @@
       "company_name": "Farfetch Ltd"
     },
     {
-      "symbol": "GCI",
+      "symbol": "TDAY",
       "manager_id": "LMM",
       "action": "Add 36.54%",
       "date": "Q1 2022",
@@ -7262,7 +7559,7 @@
       "company_name": "CTO Realty Growth Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "LMM",
       "action": "Add 24.02%",
       "date": "Q1 2022",
@@ -8428,7 +8725,7 @@
       "company_name": "WW International Inc."
     },
     {
-      "symbol": "GCI",
+      "symbol": "TDAY",
       "manager_id": "LMM",
       "action": "Add 8.70%",
       "date": "Q4 2021",
@@ -8626,7 +8923,7 @@
       "company_name": "Coinbase Global Inc."
     },
     {
-      "symbol": "FI",
+      "symbol": "FISV",
       "manager_id": "LMM",
       "action": "Buy",
       "date": "Q4 2021",
@@ -9385,7 +9682,7 @@
       "company_name": "Alibaba Group Holdings"
     },
     {
-      "symbol": "GCI",
+      "symbol": "TDAY",
       "manager_id": "LMM",
       "action": "Add 3.09%",
       "date": "Q3 2021",
@@ -10199,7 +10496,7 @@
       "company_name": "eBay Inc."
     },
     {
-      "symbol": "GCI",
+      "symbol": "TDAY",
       "manager_id": "LMM",
       "action": "Add 42.60%",
       "date": "Q2 2021",
@@ -10703,305 +11000,8 @@
       "shares": 1300,
       "portfolio_percentage": 0.0,
       "company_name": "Nabors Industries Ltd."
-    },
-    {
-      "symbol": "BHF",
-      "manager_id": "LMM",
-      "action": "Reduce 2.12%",
-      "date": "Q2 2021",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 1175,
-      "portfolio_percentage": 0.0,
-      "company_name": "Brighthouse Financial Inc."
-    },
-    {
-      "symbol": "GOOS",
-      "manager_id": "LMM",
-      "action": "Reduce 3.63%",
-      "date": "Q2 2021",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 65549,
-      "portfolio_percentage": 0.07,
-      "company_name": "Canada Goose Holdings Inc."
-    },
-    {
-      "symbol": "COF",
-      "manager_id": "LMM",
-      "action": "Reduce 4.12%",
-      "date": "Q2 2021",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 26850,
-      "portfolio_percentage": 0.11,
-      "company_name": "Capital One Financial"
-    },
-    {
-      "symbol": "BAC",
-      "manager_id": "LMM",
-      "action": "Reduce 4.91%",
-      "date": "Q2 2021",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 90316,
-      "portfolio_percentage": 0.1,
-      "company_name": "Bank of America Corp."
-    },
-    {
-      "symbol": "TMHC",
-      "manager_id": "LMM",
-      "action": "Reduce 5.88%",
-      "date": "Q2 2021",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 182769,
-      "portfolio_percentage": 0.13,
-      "company_name": "Taylor Morrison Home Corp."
-    },
-    {
-      "symbol": "WGHTQ-OLD",
-      "manager_id": "LMM",
-      "action": "Reduce 5.90%",
-      "date": "Q2 2021",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 176481,
-      "portfolio_percentage": 0.17,
-      "company_name": "WW International Inc."
-    },
-    {
-      "symbol": "VRMMQ-OLD",
-      "manager_id": "LMM",
-      "action": "Reduce 5.94%",
-      "date": "Q2 2021",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 2007,
-      "portfolio_percentage": 0.17,
-      "company_name": "Vroom Inc."
-    },
-    {
-      "symbol": "FANG",
-      "manager_id": "LMM",
-      "action": "Reduce 6.64%",
-      "date": "Q2 2021",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 90737,
-      "portfolio_percentage": 0.22,
-      "company_name": "Diamondback Energy Inc."
-    },
-    {
-      "symbol": "ARLP",
-      "manager_id": "LMM",
-      "action": "Reduce 7.39%",
-      "date": "Q2 2021",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 20000,
-      "portfolio_percentage": 0.0,
-      "company_name": "Alliance Resource Partners LP"
-    },
-    {
-      "symbol": "BA",
-      "manager_id": "LMM",
-      "action": "Reduce 7.52%",
-      "date": "Q2 2021",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 16359,
-      "portfolio_percentage": 0.1,
-      "company_name": "Boeing Co."
-    },
-    {
-      "symbol": "OMF",
-      "manager_id": "LMM",
-      "action": "Reduce 8.34%",
-      "date": "Q2 2021",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 197269,
-      "portfolio_percentage": 0.31,
-      "company_name": "OneMain Holdings"
-    },
-    {
-      "symbol": "QUOT-OLD",
-      "manager_id": "LMM",
-      "action": "Reduce 9.85%",
-      "date": "Q2 2021",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 624054,
-      "portfolio_percentage": 0.18,
-      "company_name": "Quotient Technology Inc."
-    },
-    {
-      "symbol": "CLF",
-      "manager_id": "LMM",
-      "action": "Reduce 12.42%",
-      "date": "Q2 2021",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 1375,
-      "portfolio_percentage": 0.0,
-      "company_name": "Cleveland-Cliffs Inc."
-    },
-    {
-      "symbol": "CC",
-      "manager_id": "LMM",
-      "action": "Reduce 12.52%",
-      "date": "Q2 2021",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 280492,
-      "portfolio_percentage": 0.25,
-      "company_name": "Chemours Co."
-    },
-    {
-      "symbol": "TCRT",
-      "manager_id": "LMM",
-      "action": "Reduce 12.82%",
-      "date": "Q2 2021",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 10114,
-      "portfolio_percentage": 0.1,
-      "company_name": "Alaunos Therapeutics Inc."
-    },
-    {
-      "symbol": "DXC",
-      "manager_id": "LMM",
-      "action": "Reduce 13.14%",
-      "date": "Q2 2021",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 688898,
-      "portfolio_percentage": 0.7,
-      "company_name": "DXC Technology Co."
-    },
-    {
-      "symbol": "OPEN",
-      "manager_id": "LMM",
-      "action": "Reduce 13.33%",
-      "date": "Q2 2021",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 2000,
-      "portfolio_percentage": 0.0,
-      "company_name": "Opendoor Technologies Inc."
-    },
-    {
-      "symbol": "RVLV",
-      "manager_id": "LMM",
-      "action": "Reduce 13.87%",
-      "date": "Q2 2021",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 2000,
-      "portfolio_percentage": 0.0,
-      "company_name": "Revolve Group Inc."
-    },
-    {
-      "symbol": "DM-OLD",
-      "manager_id": "LMM",
-      "action": "Reduce 14.05%",
-      "date": "Q2 2021",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 83263,
-      "portfolio_percentage": 0.25,
-      "company_name": "Desktop Metal Inc."
-    },
-    {
-      "symbol": "APO",
-      "manager_id": "LMM",
-      "action": "Reduce 17.36%",
-      "date": "Q2 2021",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 44500,
-      "portfolio_percentage": 0.07,
-      "company_name": "Apollo Global Management"
-    },
-    {
-      "symbol": "SIG",
-      "manager_id": "LMM",
-      "action": "Reduce 17.46%",
-      "date": "Q2 2021",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 1010,
-      "portfolio_percentage": 0.0,
-      "company_name": "Signet Jewelers Ltd."
-    },
-    {
-      "symbol": "TWTR-OLD",
-      "manager_id": "LMM",
-      "action": "Reduce 19.57%",
-      "date": "Q2 2021",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 3000,
-      "portfolio_percentage": 0.0,
-      "company_name": "Twitter Inc."
-    },
-    {
-      "symbol": "AYI",
-      "manager_id": "LMM",
-      "action": "Reduce 20.83%",
-      "date": "Q2 2021",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 129293,
-      "portfolio_percentage": 0.63,
-      "company_name": "Acuity Brands Inc."
-    },
-    {
-      "symbol": "CG",
-      "manager_id": "LMM",
-      "action": "Reduce 22.37%",
-      "date": "Q2 2021",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 30260,
-      "portfolio_percentage": 0.04,
-      "company_name": "Carlyle Group"
-    },
-    {
-      "symbol": "AR",
-      "manager_id": "LMM",
-      "action": "Reduce 24.74%",
-      "date": "Q2 2021",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 4675,
-      "portfolio_percentage": 0.0,
-      "company_name": "Antero Resources"
-    },
-    {
-      "symbol": "CHS-OLD",
-      "manager_id": "LMM",
-      "action": "Reduce 27.92%",
-      "date": "Q2 2021",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 892975,
-      "portfolio_percentage": 0.15,
-      "company_name": "Chico's FAS"
-    },
-    {
-      "symbol": "WFC",
-      "manager_id": "LMM",
-      "action": "Reduce 42.06%",
-      "date": "Q2 2021",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 5590,
-      "portfolio_percentage": 0.01,
-      "company_name": "Wells Fargo"
     }
   ],
-  "timestamp": "2025-11-01T06:13:02.807018",
-  "scraped_date": "2025-11-01"
+  "timestamp": "2025-12-01T06:13:07.478501",
+  "scraped_date": "2025-12-01"
 }
