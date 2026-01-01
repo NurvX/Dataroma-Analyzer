@@ -5403,7 +5403,7 @@
       "company_name": "Cisco Systems"
     },
     {
-      "symbol": "SPR",
+      "symbol": "SPR-OLD",
       "manager_id": "fairx",
       "action": "Sell 100.00%",
       "date": "Q3 2011",
@@ -5480,7 +5480,7 @@
       "company_name": "Winthrop Realty Trust Inc."
     },
     {
-      "symbol": "SPR",
+      "symbol": "SPR-OLD",
       "manager_id": "fairx",
       "action": "Reduce 42.46%",
       "date": "Q2 2011",
@@ -5623,7 +5623,7 @@
       "company_name": "Winthrop Realty Trust Inc."
     },
     {
-      "symbol": "SPR",
+      "symbol": "SPR-OLD",
       "manager_id": "fairx",
       "action": "Reduce 37.05%",
       "date": "Q1 2011",
@@ -5854,7 +5854,7 @@
       "company_name": "Winthrop Realty Trust Inc."
     },
     {
-      "symbol": "SPR",
+      "symbol": "SPR-OLD",
       "manager_id": "fairx",
       "action": "Reduce 9.45%",
       "date": "Q4 2010",
@@ -6008,7 +6008,7 @@
       "company_name": "TAL International Group Inc."
     },
     {
-      "symbol": "SPR",
+      "symbol": "SPR-OLD",
       "manager_id": "fairx",
       "action": "Reduce 4.55%",
       "date": "Q3 2010",
@@ -6283,7 +6283,7 @@
       "company_name": "CIT Group"
     },
     {
-      "symbol": "SPR",
+      "symbol": "SPR-OLD",
       "manager_id": "fairx",
       "action": "Reduce 12.72%",
       "date": "Q2 2010",
@@ -6470,7 +6470,7 @@
       "company_name": "CanWel Building Materials Grp Ltd"
     },
     {
-      "symbol": "SPR",
+      "symbol": "SPR-OLD",
       "manager_id": "fairx",
       "action": "Reduce 0.19%",
       "date": "Q1 2010",
@@ -6657,7 +6657,7 @@
       "company_name": "Hertz Global Hldgs Inc."
     },
     {
-      "symbol": "SPR",
+      "symbol": "SPR-OLD",
       "manager_id": "fairx",
       "action": "Add 5.54%",
       "date": "Q4 2009",
@@ -6811,7 +6811,7 @@
       "company_name": "Humana Inc."
     },
     {
-      "symbol": "SPR",
+      "symbol": "SPR-OLD",
       "manager_id": "fairx",
       "action": "Add 18.14%",
       "date": "Q3 2009",
@@ -6976,7 +6976,7 @@
       "company_name": "St. Joe Co."
     },
     {
-      "symbol": "SPR",
+      "symbol": "SPR-OLD",
       "manager_id": "fairx",
       "action": "Add 18.63%",
       "date": "Q2 2009",
@@ -7185,7 +7185,7 @@
       "company_name": "St. Joe Co."
     },
     {
-      "symbol": "SPR",
+      "symbol": "SPR-OLD",
       "manager_id": "fairx",
       "action": "Add 39.76%",
       "date": "Q1 2009",
@@ -7537,7 +7537,7 @@
       "company_name": "General Dynamics"
     },
     {
-      "symbol": "SPR",
+      "symbol": "SPR-OLD",
       "manager_id": "fairx",
       "action": "Buy",
       "date": "Q4 2008",
@@ -9077,6 +9077,6 @@
       "company_name": "Duke Energy"
     }
   ],
-  "timestamp": "2025-12-01T06:13:07.382271",
-  "scraped_date": "2025-12-01"
+  "timestamp": "2026-01-01T06:13:06.092732",
+  "scraped_date": "2026-01-01"
 }

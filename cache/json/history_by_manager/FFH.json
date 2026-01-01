@@ -662,7 +662,7 @@
       "company_name": "Meta Platforms Inc."
     },
     {
-      "symbol": "SPR",
+      "symbol": "SPR-OLD",
       "manager_id": "FFH",
       "action": "Sell 100.00%",
       "date": "Q3 2024",
@@ -893,7 +893,7 @@
       "company_name": "Orla Mining Ltd"
     },
     {
-      "symbol": "SPR",
+      "symbol": "SPR-OLD",
       "manager_id": "FFH",
       "action": "Buy",
       "date": "Q1 2024",
@@ -11002,6 +11002,6 @@
       "company_name": "Primero Mining Corp."
     }
   ],
-  "timestamp": "2025-12-01T06:13:07.509518",
-  "scraped_date": "2025-12-01"
+  "timestamp": "2026-01-01T06:13:06.215610",
+  "scraped_date": "2026-01-01"
 }

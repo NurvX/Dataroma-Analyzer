@@ -4936,7 +4936,7 @@
       "date": "Q2 2022",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 695000,
+      "shares": 1390000,
       "portfolio_percentage": 2.13,
       "company_name": "Energy Select Sector SPDR"
     },
@@ -5354,7 +5354,7 @@
       "date": "Q1 2022",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 1455000,
+      "shares": 2910000,
       "portfolio_percentage": 4.46,
       "company_name": "Energy Select Sector SPDR"
     },
@@ -5695,7 +5695,7 @@
       "date": "Q4 2021",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 60000,
+      "shares": 120000,
       "portfolio_percentage": 0.09,
       "company_name": "Energy Select Sector SPDR"
     },
@@ -6278,7 +6278,7 @@
       "date": "Q3 2021",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 115000,
+      "shares": 230000,
       "portfolio_percentage": 0.14,
       "company_name": "Energy Select Sector SPDR"
     },
@@ -6894,7 +6894,7 @@
       "date": "Q2 2021",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 1997500,
+      "shares": 3995000,
       "portfolio_percentage": 2.23,
       "company_name": "Energy Select Sector SPDR"
     },
@@ -7158,7 +7158,7 @@
       "date": "Q1 2021",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 1197500,
+      "shares": 2395000,
       "portfolio_percentage": 0.84,
       "company_name": "Energy Select Sector SPDR"
     },
@@ -7994,7 +7994,7 @@
       "date": "Q4 2020",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 3125000,
+      "shares": 6250000,
       "portfolio_percentage": 1.77,
       "company_name": "Energy Select Sector SPDR"
     },
@@ -9215,7 +9215,7 @@
       "date": "Q2 2020",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 271500,
+      "shares": 543000,
       "portfolio_percentage": 0.46,
       "company_name": "Utilities Select Sector SPDR"
     },
@@ -9380,7 +9380,7 @@
       "date": "Q1 2020",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 271500,
+      "shares": 543000,
       "portfolio_percentage": 0.46,
       "company_name": "Utilities Select Sector SPDR"
     },
@@ -11002,6 +11002,6 @@
       "company_name": "State Street Corp."
     }
   ],
-  "timestamp": "2025-12-01T06:13:07.551331",
-  "scraped_date": "2025-12-01"
+  "timestamp": "2026-01-01T06:13:06.256062",
+  "scraped_date": "2026-01-01"
 }

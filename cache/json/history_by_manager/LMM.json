@@ -5348,7 +5348,7 @@
       "company_name": "Bausch Health"
     },
     {
-      "symbol": "VTLE",
+      "symbol": "VTLE-OLD",
       "manager_id": "LMM",
       "action": "Sell 100.00%",
       "date": "Q4 2022",
@@ -5403,7 +5403,7 @@
       "company_name": "Credit Suisse Group"
     },
     {
-      "symbol": "DSHK",
+      "symbol": "DSHK-OLD",
       "manager_id": "LMM",
       "action": "Sell 100.00%",
       "date": "Q4 2022",
@@ -5414,7 +5414,7 @@
       "company_name": "Drive Shack Inc."
     },
     {
-      "symbol": "MEHCQ",
+      "symbol": "MEHCQ-OLD",
       "manager_id": "LMM",
       "action": "Sell 100.00%",
       "date": "Q4 2022",
@@ -5942,7 +5942,7 @@
       "company_name": "Desktop Metal Inc."
     },
     {
-      "symbol": "MEHCQ",
+      "symbol": "MEHCQ-OLD",
       "manager_id": "LMM",
       "action": "Buy",
       "date": "Q3 2022",
@@ -6811,7 +6811,7 @@
       "company_name": "Crocs Inc."
     },
     {
-      "symbol": "VTLE",
+      "symbol": "VTLE-OLD",
       "manager_id": "LMM",
       "action": "Buy",
       "date": "Q2 2022",
@@ -6833,7 +6833,7 @@
       "company_name": "Diamond Offshore Drilling Inc."
     },
     {
-      "symbol": "DSHK",
+      "symbol": "DSHK-OLD",
       "manager_id": "LMM",
       "action": "Buy",
       "date": "Q2 2022",
@@ -7416,7 +7416,7 @@
       "company_name": "New Oriental Education & Technology"
     },
     {
-      "symbol": "MEHCQ",
+      "symbol": "MEHCQ-OLD",
       "manager_id": "LMM",
       "action": "Sell 100.00%",
       "date": "Q2 2022",
@@ -7889,7 +7889,7 @@
       "company_name": "Desktop Metal Inc."
     },
     {
-      "symbol": "MEHCQ",
+      "symbol": "MEHCQ-OLD",
       "manager_id": "LMM",
       "action": "Buy",
       "date": "Q1 2022",
@@ -11002,6 +11002,6 @@
       "company_name": "Nabors Industries Ltd."
     }
   ],
-  "timestamp": "2025-12-01T06:13:07.478501",
-  "scraped_date": "2025-12-01"
+  "timestamp": "2026-01-01T06:13:06.185606",
+  "scraped_date": "2026-01-01"
 }

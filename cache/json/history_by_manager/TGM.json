@@ -624,7 +624,7 @@
       "date": "Q2 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 279655,
+      "shares": 1398275,
       "portfolio_percentage": 0.84,
       "company_name": "ServiceNow Inc."
     },
@@ -1911,7 +1911,7 @@
       "date": "Q4 2023",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 14800,
+      "shares": 74000,
       "portfolio_percentage": 0.07,
       "company_name": "ServiceNow Inc."
     },
@@ -2472,7 +2472,7 @@
       "date": "Q3 2023",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 26140,
+      "shares": 130700,
       "portfolio_percentage": 0.11,
       "company_name": "ServiceNow Inc."
     },
@@ -2758,7 +2758,7 @@
       "date": "Q2 2023",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 188302,
+      "shares": 941510,
       "portfolio_percentage": 0.88,
       "company_name": "ServiceNow Inc."
     },
@@ -3968,7 +3968,7 @@
       "date": "Q4 2022",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 885220,
+      "shares": 4426100,
       "portfolio_percentage": 4.21,
       "company_name": "ServiceNow Inc."
     },
@@ -4342,7 +4342,7 @@
       "date": "Q3 2022",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 577933,
+      "shares": 2889665,
       "portfolio_percentage": 2.0,
       "company_name": "ServiceNow Inc."
     },
@@ -5255,7 +5255,7 @@
       "date": "Q2 2022",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 1328821,
+      "shares": 6644105,
       "portfolio_percentage": 5.3,
       "company_name": "ServiceNow Inc."
     },
@@ -5893,7 +5893,7 @@
       "date": "Q1 2022",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 238765,
+      "shares": 1193825,
       "portfolio_percentage": 0.5,
       "company_name": "ServiceNow Inc."
     },
@@ -9105,7 +9105,7 @@
       "date": "Q2 2021",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 50240,
+      "shares": 251200,
       "portfolio_percentage": 0.05,
       "company_name": "ServiceNow Inc."
     },
@@ -9721,7 +9721,7 @@
       "date": "Q1 2021",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 513000,
+      "shares": 2565000,
       "portfolio_percentage": 0.59,
       "company_name": "ServiceNow Inc."
     },
@@ -10315,7 +10315,7 @@
       "date": "Q4 2020",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 154100,
+      "shares": 770500,
       "portfolio_percentage": 0.22,
       "company_name": "ServiceNow Inc."
     },
@@ -10799,7 +10799,7 @@
       "date": "Q3 2020",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 765900,
+      "shares": 3829500,
       "portfolio_percentage": 1.04,
       "company_name": "ServiceNow Inc."
     },
@@ -11002,6 +11002,6 @@
       "company_name": "GoodRx Holdings"
     }
   ],
-  "timestamp": "2025-12-01T06:13:07.442771",
-  "scraped_date": "2025-12-01"
+  "timestamp": "2026-01-01T06:13:06.151261",
+  "scraped_date": "2026-01-01"
 }

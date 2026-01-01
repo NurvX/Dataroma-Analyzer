@@ -145,7 +145,7 @@
       "company_name": "Pfizer Inc."
     },
     {
-      "symbol": "SPNS",
+      "symbol": "SPNS-OLD",
       "manager_id": "T",
       "action": "Add 15.48%",
       "date": "Q3 2025",
@@ -613,7 +613,7 @@
       "date": "Q3 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 283,
+      "shares": 1415,
       "portfolio_percentage": 0.04,
       "company_name": "ServiceNow Inc."
     },
@@ -1185,7 +1185,7 @@
       "date": "Q2 2025",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 535,
+      "shares": 2675,
       "portfolio_percentage": 0.08,
       "company_name": "ServiceNow Inc."
     },
@@ -1223,7 +1223,7 @@
       "company_name": "Monolithic Power Systems"
     },
     {
-      "symbol": "SPNS",
+      "symbol": "SPNS-OLD",
       "manager_id": "T",
       "action": "Add 0.06%",
       "date": "Q2 2025",
@@ -2389,7 +2389,7 @@
       "company_name": "Natera Inc."
     },
     {
-      "symbol": "SPNS",
+      "symbol": "SPNS-OLD",
       "manager_id": "T",
       "action": "Reduce 0.17%",
       "date": "Q1 2025",
@@ -2604,7 +2604,7 @@
       "date": "Q1 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 143,
+      "shares": 715,
       "portfolio_percentage": 0.02,
       "company_name": "ServiceNow Inc."
     },
@@ -3170,7 +3170,7 @@
       "company_name": "EOG Resources"
     },
     {
-      "symbol": "SPNS",
+      "symbol": "SPNS-OLD",
       "manager_id": "T",
       "action": "Add 2.44%",
       "date": "Q4 2024",
@@ -3737,7 +3737,7 @@
       "date": "Q4 2024",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 1111,
+      "shares": 5555,
       "portfolio_percentage": 0.17,
       "company_name": "ServiceNow Inc."
     },
@@ -4424,7 +4424,7 @@
       "company_name": "Copart Inc."
     },
     {
-      "symbol": "SPNS",
+      "symbol": "SPNS-OLD",
       "manager_id": "T",
       "action": "Add 0.04%",
       "date": "Q3 2024",
@@ -4903,7 +4903,7 @@
       "date": "Q3 2024",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 1748,
+      "shares": 8740,
       "portfolio_percentage": 0.22,
       "company_name": "ServiceNow Inc."
     },
@@ -5271,7 +5271,7 @@
       "company_name": "Mettler-Toledo International Inc."
     },
     {
-      "symbol": "SPNS",
+      "symbol": "SPNS-OLD",
       "manager_id": "T",
       "action": "Add 8.28%",
       "date": "Q2 2024",
@@ -5761,7 +5761,7 @@
       "date": "Q2 2024",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 41,
+      "shares": 205,
       "portfolio_percentage": 0.0,
       "company_name": "ServiceNow Inc."
     },
@@ -6217,7 +6217,7 @@
       "company_name": "American Tower Corp."
     },
     {
-      "symbol": "SPNS",
+      "symbol": "SPNS-OLD",
       "manager_id": "T",
       "action": "Add 4.36%",
       "date": "Q1 2024",
@@ -6652,7 +6652,7 @@
       "date": "Q1 2024",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 397,
+      "shares": 1985,
       "portfolio_percentage": 0.05,
       "company_name": "ServiceNow Inc."
     },
@@ -7240,7 +7240,7 @@
       "company_name": "Lantheus Holdings Inc."
     },
     {
-      "symbol": "SPNS",
+      "symbol": "SPNS-OLD",
       "manager_id": "T",
       "action": "Add 1.35%",
       "date": "Q4 2023",
@@ -7554,7 +7554,7 @@
       "date": "Q4 2023",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 7,
+      "shares": 35,
       "portfolio_percentage": 0.0,
       "company_name": "ServiceNow Inc."
     },
@@ -8142,7 +8142,7 @@
       "company_name": "Natera Inc."
     },
     {
-      "symbol": "SPNS",
+      "symbol": "SPNS-OLD",
       "manager_id": "T",
       "action": "Add 3.74%",
       "date": "Q3 2023",
@@ -8654,7 +8654,7 @@
       "date": "Q3 2023",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 513,
+      "shares": 2565,
       "portfolio_percentage": 0.05,
       "company_name": "ServiceNow Inc."
     },
@@ -9165,7 +9165,7 @@
       "company_name": "RBC Bearings Inc."
     },
     {
-      "symbol": "SPNS",
+      "symbol": "SPNS-OLD",
       "manager_id": "T",
       "action": "Add 0.73%",
       "date": "Q2 2023",
@@ -9457,7 +9457,7 @@
       "date": "Q2 2023",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 154,
+      "shares": 770,
       "portfolio_percentage": 0.02,
       "company_name": "ServiceNow Inc."
     },
@@ -9671,7 +9671,7 @@
       "company_name": "Ishares National Muni Bond E"
     },
     {
-      "symbol": "SPNS",
+      "symbol": "SPNS-OLD",
       "manager_id": "T",
       "action": "Add 57.98%",
       "date": "Q1 2023",
@@ -9820,7 +9820,7 @@
       "date": "Q1 2023",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 247,
+      "shares": 1235,
       "portfolio_percentage": 0.02,
       "company_name": "ServiceNow Inc."
     },
@@ -10733,7 +10733,7 @@
       "date": "Q4 2022",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 3181,
+      "shares": 15905,
       "portfolio_percentage": 0.22,
       "company_name": "ServiceNow Inc."
     },
@@ -11002,6 +11002,6 @@
       "company_name": "Altria Group Inc."
     }
   ],
-  "timestamp": "2025-12-01T06:13:07.724902",
-  "scraped_date": "2025-12-01"
+  "timestamp": "2026-01-01T06:13:06.424667",
+  "scraped_date": "2026-01-01"
 }

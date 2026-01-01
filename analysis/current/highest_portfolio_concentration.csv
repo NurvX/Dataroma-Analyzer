@@ -1,101 +1,101 @@
 ticker,company_name,current_price,manager,portfolio_percent,value,risk_level
-CVNA,Carvana Co.,374.5,Clifford Sosin,82.26,1844581000,Extreme
-JOE,St. Joe Co.,60.33,Bruce Berkowitz,78.19,968738000,Extreme
-AAPL,Apple Inc.,278.85,Duan Yongping,60.42,8868536000,Extreme
-IEP,Icahn Enterprises,8.12,Carl Icahn,47.8,4369415000,Extreme
-MOH,Molina Healthcare Inc.,148.26,Michael Burry,43.49,23920000,Extreme
-LOAR,Loar Holdings Inc,68.45,David Abrams,41.56,2564019000,Extreme
-GPI,Group 1 Automotive,401.04,Greg Alexander,39.41,248691000,Extreme
-JHG,Janus Henderson Group,43.71,Nelson Peltz,34.53,1418436000,Extreme
-HCC,Warrior Met Coal Inc.,78.29,Mohnish Pabrai,34.0,114541000,Extreme
-BRK.A,Berkshire Hathaway CL A,770100.0,Norbert Lou,33.92,109359000,Extreme
-EQH,Equitable Holdings Inc.,46.69,Greg Alexander,33.8,213276000,Extreme
-LULU,Lululemon Athletica Inc.,184.18,Michael Burry,32.35,17793000,Extreme
-BRK.A,Berkshire Hathaway CL A,770100.0,Francis Chou,31.22,64861000,Extreme
-CVNA,Carvana Co.,374.5,Robert Vinall,30.75,167968000,Extreme
-IBKR,Interactive Brokers Group Inc.,65.02,Bryan Lawrence,30.61,70925000,Extreme
-AMZN,Amazon.com Inc.,233.22,AltaRock Partners,30.34,1659566000,Extreme
-BRK.B,Berkshire Hathaway CL B,513.81,Bill & Melinda Gates Foundation Trust,29.91,10942249000,Very High
-ORLA,Orla Mining Ltd,14.1,Prem Watsa,29.57,610477000,Very High
-GE,GE Aerospace,298.45,Nelson Peltz,29.52,1212369000,Very High
-CVI,CVR Energy Inc.,34.53,Carl Icahn,28.1,2568866000,Very High
-FICO,Fair Isaac Corp.,1805.83,Valley Forge Capital Management,27.66,1149967000,Very High
-GRBK,Green Brick Partners,67.88,David Einhorn,27.51,699261000,Very High
-GE,GE Aerospace,298.45,Chris Hohn,27.12,14292088000,Very High
-AMR,Alpha Metallurgical Resources Inc.,159.21,Mohnish Pabrai,25.91,87296000,Very High
-MSFT,Microsoft Corp.,492.01,AltaRock Partners,24.33,1330752000,Very High
-SLM,SLM Corp.,29.3,Michael Burry,24.16,13288000,Very High
-TDG,TransDigm Group Inc.,1360.17,AltaRock Partners,23.53,1286904000,Very High
-CHTR,Charter Communications,200.12,Tom Bancroft,23.17,45117000,Very High
-AAPL,Apple Inc.,278.85,Warren Buffett,22.69,60656116000,Very High
-RIG,Transocean Ltd.,4.41,Mohnish Pabrai,22.64,76260000,Very High
-BRK.B,Berkshire Hathaway CL B,513.81,Guy Spier - Aquamarine Capital,22.27,70685000,Very High
-AXP,American Express,365.27,Guy Spier - Aquamarine Capital,21.98,69754000,Very High
-MSFT,Microsoft Corp.,492.01,Triple Frond Partners,21.73,199503000,Very High
-GM,General Motors,73.52,Greenhaven Associates,21.39,1406234000,Very High
-VFC,V.F. Corp.,17.5,Glenn Welling,20.75,84594000,Very High
-AMZN,Amazon.com Inc.,233.22,Josh Tarasoff,20.61,70678000,Very High
-SPGI,S&P Global Inc.,498.83,Valley Forge Capital Management,20.55,854224000,Very High
-MA,Mastercard Inc.,550.53,Valley Forge Capital Management,20.32,844553000,Very High
-UBER,Uber Technologies Inc.,87.54,Bill Ackman,20.25,2965603000,Very High
-LAD,Lithia Motors Inc.,318.84,Greg Alexander,20.03,126400000,Very High
-BN,Brookfield Corp.,47.0,Bill Ackman,19.21,2813167000,High
-GOOGL,Alphabet Inc.,320.18,Li Lu,19.14,618276000,High
-BN,Brookfield Corp.,47.0,Josh Tarasoff,19.04,65303000,High
-PDD,Pinduoduo Inc.,116.08,Li Lu,18.85,609039000,High
-AXP,American Express,365.27,Warren Buffett,18.84,50359011000,High
+CVNA,Carvana Co.,422.02,Clifford Sosin,82.26,1844581000,Extreme
+JOE,St. Joe Co.,59.37,Bruce Berkowitz,78.19,968738000,Extreme
+AAPL,Apple Inc.,271.86,Duan Yongping,60.42,8868536000,Extreme
+IEP,Icahn Enterprises,7.55,Carl Icahn,47.8,4369415000,Extreme
+MOH,Molina Healthcare Inc.,173.54,Michael Burry,43.49,23920000,Extreme
+LOAR,Loar Holdings Inc,68.0,David Abrams,41.56,2564019000,Extreme
+GPI,Group 1 Automotive,393.3,Greg Alexander,39.41,248691000,Extreme
+JHG,Janus Henderson Group,47.57,Nelson Peltz,34.53,1418436000,Extreme
+HCC,Warrior Met Coal Inc.,88.17,Mohnish Pabrai,34.0,114541000,Extreme
+BRK.A,Berkshire Hathaway CL A,754800.0,Norbert Lou,33.92,109359000,Extreme
+EQH,Equitable Holdings Inc.,47.65,Greg Alexander,33.8,213276000,Extreme
+LULU,Lululemon Athletica Inc.,207.81,Michael Burry,32.35,17793000,Extreme
+BRK.A,Berkshire Hathaway CL A,754800.0,Francis Chou,31.22,64861000,Extreme
+CVNA,Carvana Co.,422.02,Robert Vinall,30.75,167968000,Extreme
+IBKR,Interactive Brokers Group Inc.,64.31,Bryan Lawrence,30.61,70925000,Extreme
+AMZN,Amazon.com Inc.,230.82,AltaRock Partners,30.34,1659566000,Extreme
+BRK.B,Berkshire Hathaway CL B,502.65,Bill & Melinda Gates Foundation Trust,29.91,10942249000,Very High
+ORLA,Orla Mining Ltd,13.47,Prem Watsa,29.57,610477000,Very High
+GE,GE Aerospace,308.03,Nelson Peltz,29.52,1212369000,Very High
+CVI,CVR Energy Inc.,25.44,Carl Icahn,28.1,2568866000,Very High
+FICO,Fair Isaac Corp.,1690.62,Valley Forge Capital Management,27.66,1149967000,Very High
+GRBK,Green Brick Partners,62.66,David Einhorn,27.51,699261000,Very High
+GE,GE Aerospace,308.03,Chris Hohn,27.12,14292088000,Very High
+AMR,Alpha Metallurgical Resources Inc.,199.88,Mohnish Pabrai,25.91,87296000,Very High
+MSFT,Microsoft Corp.,483.62,AltaRock Partners,24.33,1330752000,Very High
+SLM,SLM Corp.,27.06,Michael Burry,24.16,13288000,Very High
+TDG,TransDigm Group Inc.,1329.85,AltaRock Partners,23.53,1286904000,Very High
+CHTR,Charter Communications,208.75,Tom Bancroft,23.17,45117000,Very High
+AAPL,Apple Inc.,271.86,Warren Buffett,22.69,60656116000,Very High
+RIG,Transocean Ltd.,4.13,Mohnish Pabrai,22.64,76260000,Very High
+BRK.B,Berkshire Hathaway CL B,502.65,Guy Spier - Aquamarine Capital,22.27,70685000,Very High
+AXP,American Express,369.95,Guy Spier - Aquamarine Capital,21.98,69754000,Very High
+MSFT,Microsoft Corp.,483.62,Triple Frond Partners,21.73,199503000,Very High
+GM,General Motors,81.32,Greenhaven Associates,21.39,1406234000,Very High
+VFC,V.F. Corp.,18.08,Glenn Welling,20.75,84594000,Very High
+AMZN,Amazon.com Inc.,230.82,Josh Tarasoff,20.61,70678000,Very High
+SPGI,S&P Global Inc.,522.59,Valley Forge Capital Management,20.55,854224000,Very High
+MA,Mastercard Inc.,570.88,Valley Forge Capital Management,20.32,844553000,Very High
+UBER,Uber Technologies Inc.,81.71,Bill Ackman,20.25,2965603000,Very High
+LAD,Lithia Motors Inc.,332.33,Greg Alexander,20.03,126400000,Very High
+BN,Brookfield Corp.,45.89,Bill Ackman,19.21,2813167000,High
+GOOGL,Alphabet Inc.,313.0,Li Lu,19.14,618276000,High
+BN,Brookfield Corp.,45.89,Josh Tarasoff,19.04,65303000,High
+PDD,Pinduoduo Inc.,113.39,Li Lu,18.85,609039000,High
+AXP,American Express,369.95,Warren Buffett,18.84,50359011000,High
 COOP-OLD,Mr. Cooper Group Inc.,210.79,Leon Cooperman,18.82,602986000,High
-META,Meta Platforms Inc.,647.95,Robert Vinall,18.78,102602000,High
-LEN,Lennar Corp.,131.3,Greenhaven Associates,18.5,1216714000,High
-GOOG,Alphabet Inc. CL C,320.12,Li Lu,18.48,597014000,High
-RYCEF,Rolls Royce Holdings plc,13.9,Ruane Cunniff,18.19,670673000,High
-V,Visa Inc.,334.44,Chris Hohn,18.18,9578218000,High
-BBWI,Bath & Body Works Inc.,17.41,Tom Bancroft,18.12,35291000,High
-MA,Mastercard Inc.,550.53,Chuck Akre,17.89,1794933000,High
-BRK.B,Berkshire Hathaway CL B,513.81,Duan Yongping,17.78,2609874000,High
-SGOV,Ishares 0 3 Month Treasury B,100.67,Norbert Lou,17.68,56996000,High
-YETI,YETI Holdings Inc.,41.48,Glenn Welling,17.66,71986000,High
-TRMD,Torm Plc,21.41,Howard Marks,17.6,834581000,High
-WM,Waste Management Inc.,217.87,Bill & Melinda Gates Foundation Trust,17.47,6389571000,High
-PDD,Pinduoduo Inc.,116.08,Norbert Lou,17.01,54851000,High
-GIL,Gildan Activewear Inc.,55.82,Bryan Lawrence,17.01,39402000,High
-GTLS,Chart Industries Inc.,203.95,Alex Roepers,16.95,29522000,High
-C,Citigroup Inc.,103.6,Kahn Brothers Group,16.73,88981000,High
-BAC,Bank of America Corp.,53.65,Li Lu,16.66,538155000,High
-CROX,Crocs Inc.,84.98,Norbert Lou,16.38,52824000,High
-MSFT,Microsoft Corp.,492.01,Chris Hohn,16.31,8593932000,High
-BRK.B,Berkshire Hathaway CL B,513.81,Christopher Bloomstran,15.7,125805000,High
-BABA,Alibaba Group Holdings,157.3,David Tepper,15.61,1152809000,High
-VAL,Valaris plc,56.41,Mohnish Pabrai,15.44,52001000,High
-DHR,Danaher Corp.,226.78,Pat Dorsey,15.34,170672000,High
-APTV,Aptiv PLC,77.55,Alex Roepers,15.12,26338000,High
-ASML,ASML Holding NV,1060.0,Pat Dorsey,15.07,167698000,High
-MCO,Moody's Corp.,490.78,Valley Forge Capital Management,15.06,626163000,High
-SOLV,Solventum Corp,85.26,Nelson Peltz,15.04,617786000,High
-BRK.A,Berkshire Hathaway CL A,770100.0,Josh Tarasoff,14.73,50531000,High
-TKO,TKO Group Holdings Inc.,193.89,Lindsell Train,14.64,596732000,High
-GOOG,Alphabet Inc. CL C,320.12,Triple Frond Partners,14.62,134165000,High
-FOUR,Shift4 Payments Inc. CL A,73.78,Dennis Hong,14.4,96856000,High
-WFRD,Weatherford International plc,74.8,Alex Roepers,14.17,24674000,High
-BRK.B,Berkshire Hathaway CL B,513.81,Li Lu,13.97,451334000,High
-OXY,Occidental Petroleum,42.0,Prem Watsa,13.85,285943000,High
-EPD,Enterprise Products Partners LP,32.74,Bruce Berkowitz,13.76,170434000,High
-ELV,Elevance Health Inc.,338.26,Glenn Greenberg,13.76,592603000,High
-TDG,TransDigm Group Inc.,1360.17,Bryan Lawrence,13.75,31857000,High
-AER,AerCap Holdings N.V.,134.0,Pat Dorsey,13.75,152944000,High
-PYPL,PayPal Holdings Inc.,62.69,Norbert Lou,13.53,43619000,High
-OKTA,Okta Inc.,80.33,Dennis Hong,13.5,90828000,High
-CNI,Canadian Natl Railway Co.,95.89,Bill & Melinda Gates Foundation Trust,13.36,4887266000,High
-CP,Canadian Pacific Kansas City,72.57,Sarah Ketterer,13.34,1007358000,High
-GOOGL,Alphabet Inc.,320.18,Lindsell Train,13.32,543109000,High
-BN,Brookfield Corp.,47.0,Chuck Akre,13.14,1317829000,High
-MSFT,Microsoft Corp.,492.01,Bill & Melinda Gates Foundation Trust,13.01,4760586000,High
-AMZN,Amazon.com Inc.,233.22,ValueAct Capital,12.96,768605000,High
-AMZN,Amazon.com Inc.,233.22,Triple Frond Partners,12.93,118667000,High
-LAD,Lithia Motors Inc.,318.84,David Abrams,12.76,787009000,High
-GXO,Gxo Logistics Inc.,50.74,Glenn Welling,12.7,51752000,High
-META,Meta Platforms Inc.,647.95,Pat Dorsey,12.69,141165000,High
-AXTA,Axalta Coating Systems Ltd.,30.13,Alex Roepers,12.56,21866000,High
-MKL,Markel Group Inc.,2080.44,Josh Tarasoff,12.51,42920000,High
-BAC,Bank of America Corp.,53.65,Guy Spier - Aquamarine Capital,12.48,39613000,High
-BRK.A,Berkshire Hathaway CL A,770100.0,Thomas Russo,12.46,1162222000,High
+META,Meta Platforms Inc.,660.09,Robert Vinall,18.78,102602000,High
+LEN,Lennar Corp.,102.8,Greenhaven Associates,18.5,1216714000,High
+GOOG,Alphabet Inc. CL C,313.8,Li Lu,18.48,597014000,High
+RYCEF,Rolls Royce Holdings plc,15.56,Ruane Cunniff,18.19,670673000,High
+V,Visa Inc.,350.71,Chris Hohn,18.18,9578218000,High
+BBWI,Bath & Body Works Inc.,20.08,Tom Bancroft,18.12,35291000,High
+MA,Mastercard Inc.,570.88,Chuck Akre,17.89,1794933000,High
+BRK.B,Berkshire Hathaway CL B,502.65,Duan Yongping,17.78,2609874000,High
+SGOV,Ishares 0 3 Month Treasury B,100.38,Norbert Lou,17.68,56996000,High
+YETI,YETI Holdings Inc.,44.17,Glenn Welling,17.66,71986000,High
+TRMD,Torm Plc,19.58,Howard Marks,17.6,834581000,High
+WM,Waste Management Inc.,219.71,Bill & Melinda Gates Foundation Trust,17.47,6389571000,High
+PDD,Pinduoduo Inc.,113.39,Norbert Lou,17.01,54851000,High
+GIL,Gildan Activewear Inc.,62.46,Bryan Lawrence,17.01,39402000,High
+GTLS,Chart Industries Inc.,206.23,Alex Roepers,16.95,29522000,High
+C,Citigroup Inc.,116.69,Kahn Brothers Group,16.73,88981000,High
+BAC,Bank of America Corp.,55.0,Li Lu,16.66,538155000,High
+CROX,Crocs Inc.,85.52,Norbert Lou,16.38,52824000,High
+MSFT,Microsoft Corp.,483.62,Chris Hohn,16.31,8593932000,High
+BRK.B,Berkshire Hathaway CL B,502.65,Christopher Bloomstran,15.7,125805000,High
+BABA,Alibaba Group Holdings,146.58,David Tepper,15.61,1152809000,High
+VAL,Valaris plc,50.4,Mohnish Pabrai,15.44,52001000,High
+DHR,Danaher Corp.,228.92,Pat Dorsey,15.34,170672000,High
+APTV,Aptiv PLC,76.09,Alex Roepers,15.12,26338000,High
+ASML,ASML Holding NV,1069.86,Pat Dorsey,15.07,167698000,High
+MCO,Moody's Corp.,510.85,Valley Forge Capital Management,15.06,626163000,High
+SOLV,Solventum Corp,79.24,Nelson Peltz,15.04,617786000,High
+BRK.A,Berkshire Hathaway CL A,754800.0,Josh Tarasoff,14.73,50531000,High
+TKO,TKO Group Holdings Inc.,209.0,Lindsell Train,14.64,596732000,High
+GOOG,Alphabet Inc. CL C,313.8,Triple Frond Partners,14.62,134165000,High
+FOUR,Shift4 Payments Inc. CL A,62.97,Dennis Hong,14.4,96856000,High
+WFRD,Weatherford International plc,78.26,Alex Roepers,14.17,24674000,High
+BRK.B,Berkshire Hathaway CL B,502.65,Li Lu,13.97,451334000,High
+OXY,Occidental Petroleum,41.12,Prem Watsa,13.85,285943000,High
+EPD,Enterprise Products Partners LP,32.06,Bruce Berkowitz,13.76,170434000,High
+ELV,Elevance Health Inc.,350.55,Glenn Greenberg,13.76,592603000,High
+TDG,TransDigm Group Inc.,1329.85,Bryan Lawrence,13.75,31857000,High
+AER,AerCap Holdings N.V.,143.76,Pat Dorsey,13.75,152944000,High
+PYPL,PayPal Holdings Inc.,58.38,Norbert Lou,13.53,43619000,High
+OKTA,Okta Inc.,86.47,Dennis Hong,13.5,90828000,High
+CNI,Canadian Natl Railway Co.,98.85,Bill & Melinda Gates Foundation Trust,13.36,4887266000,High
+CP,Canadian Pacific Kansas City,73.63,Sarah Ketterer,13.34,1007358000,High
+GOOGL,Alphabet Inc.,313.0,Lindsell Train,13.32,543109000,High
+BN,Brookfield Corp.,45.89,Chuck Akre,13.14,1317829000,High
+MSFT,Microsoft Corp.,483.62,Bill & Melinda Gates Foundation Trust,13.01,4760586000,High
+AMZN,Amazon.com Inc.,230.82,ValueAct Capital,12.96,768605000,High
+AMZN,Amazon.com Inc.,230.82,Triple Frond Partners,12.93,118667000,High
+LAD,Lithia Motors Inc.,332.33,David Abrams,12.76,787009000,High
+GXO,Gxo Logistics Inc.,52.64,Glenn Welling,12.7,51752000,High
+META,Meta Platforms Inc.,660.09,Pat Dorsey,12.69,141165000,High
+AXTA,Axalta Coating Systems Ltd.,32.31,Alex Roepers,12.56,21866000,High
+MKL,Markel Group Inc.,2149.65,Josh Tarasoff,12.51,42920000,High
+BAC,Bank of America Corp.,55.0,Guy Spier - Aquamarine Capital,12.48,39613000,High
+BRK.A,Berkshire Hathaway CL A,754800.0,Thomas Russo,12.46,1162222000,High
