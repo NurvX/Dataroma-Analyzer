@@ -13,4 +13,3 @@ See LICENSE file for full license text.
 Author: Jerzy 'Yuri' Kramarz
 Source: https://github.com/op7ic/Dataroma-Analyzer
 """
-

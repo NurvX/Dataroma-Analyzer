@@ -45,9 +45,7 @@ class DataromaScraper:
         self.use_cache = use_cache
 
         # Initialize components
-        self.http_client = CachedHTTPClient(
-            cache_dir=f"{cache_dir}/html", rate_limit=rate_limit
-        )
+        self.http_client = CachedHTTPClient(cache_dir=f"{cache_dir}/html", rate_limit=rate_limit)
         self.parser = DataromaParser()
         self.cache_service = CacheService(cache_dir)
 
@@ -119,7 +117,7 @@ class DataromaScraper:
 
         # Skip Yahoo Finance enrichment - rely only on Dataroma data
         logging.info("Skipping external enrichment - using only Dataroma data")
-        
+
         # Save to cache
         self._save_all_to_cache(managers, all_holdings, all_activities)
 
@@ -147,7 +145,7 @@ class DataromaScraper:
         """
         url = f"{self.base_url}home.php"
         cache_key = "general/managers_page.html"
-        force_refresh = getattr(self, 'force_refresh', False)
+        force_refresh = getattr(self, "force_refresh", False)
         html = self.http_client.get(url, use_cache=self.use_cache, cache_key=cache_key, force_refresh=force_refresh)
 
         if not html:
@@ -170,7 +168,7 @@ class DataromaScraper:
         """
         url = f"{self.base_url}holdings.php?m={manager.id}"
         cache_key = f"managers/{manager.id}/holdings.html"
-        force_refresh = getattr(self, 'force_refresh', False)
+        force_refresh = getattr(self, "force_refresh", False)
         html = self.http_client.get(url, use_cache=self.use_cache, cache_key=cache_key, force_refresh=force_refresh)
 
         if not html:
@@ -183,9 +181,7 @@ class DataromaScraper:
 
         return holdings
 
-    def _scrape_manager_activities(
-        self, manager: Manager, max_pages: int = 20
-    ) -> List[Activity]:
+    def _scrape_manager_activities(self, manager: Manager, max_pages: int = 20) -> List[Activity]:
         """Scrape activities for a manager with pagination support.
 
         Args:
@@ -200,7 +196,7 @@ class DataromaScraper:
         # Fetch first page
         url = f"{self.base_url}m_activity.php?m={manager.id}&typ=a"
         cache_key = f"managers/{manager.id}/activity_page1.html"
-        force_refresh = getattr(self, 'force_refresh', False)
+        force_refresh = getattr(self, "force_refresh", False)
         html = self.http_client.get(url, use_cache=self.use_cache, cache_key=cache_key, force_refresh=force_refresh)
 
         if not html:
@@ -234,9 +230,7 @@ class DataromaScraper:
 
         # Fetch additional pages if needed
         for page_num in range(2, pages_to_fetch + 1):
-            page_url = (
-                f"{self.base_url}m_activity.php?m={manager.id}&typ=a&L={page_num}&o=a"
-            )
+            page_url = f"{self.base_url}m_activity.php?m={manager.id}&typ=a&L={page_num}&o=a"
             cache_key = f"managers/{manager.id}/activity_page{page_num}.html"
             html = self.http_client.get(
                 page_url, use_cache=self.use_cache, cache_key=cache_key, force_refresh=force_refresh
@@ -249,7 +243,6 @@ class DataromaScraper:
         self.progress.activities_found += len(all_activities)
 
         return all_activities
-
 
     def _save_all_to_cache(
         self,
@@ -364,9 +357,7 @@ def main() -> None:
 
                 # Save intermediate results
                 if scraper.progress.managers_processed % 10 == 0:
-                    scraper._save_all_to_cache(
-                        managers[: i + 1], all_holdings, all_activities
-                    )
+                    scraper._save_all_to_cache(managers[: i + 1], all_holdings, all_activities)
 
             # Save final results
             scraper._save_all_to_cache(managers, all_holdings, all_activities)

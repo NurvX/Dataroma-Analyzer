@@ -179,10 +179,7 @@ class CacheService:
         """
         data = self._load_json(self.stocks_file)
         if data:
-            return {
-                symbol: StockData.from_dict(stock_data)
-                for symbol, stock_data in data.items()
-            }
+            return {symbol: StockData.from_dict(stock_data) for symbol, stock_data in data.items()}
         return {}
 
     def save_metadata(self, metadata: Dict[str, Any]) -> None:
@@ -237,7 +234,8 @@ class CacheService:
             last_updated = datetime.fromisoformat(metadata["last_updated"])
             age_hours = (datetime.now() - last_updated).total_seconds() / 3600
             return age_hours < max_age_hours
-        except Exception:
+        except (ValueError, KeyError, TypeError):
+            # ValueError: invalid ISO format, KeyError: missing key, TypeError: None value
             return False
 
     def clear_cache(self) -> None:

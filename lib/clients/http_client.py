@@ -16,6 +16,7 @@ Source: https://github.com/op7ic/Dataroma-Analyzer
 """
 
 import logging
+import re
 import time
 from typing import Optional, Dict, Any
 from pathlib import Path
@@ -89,7 +90,11 @@ class HTTPClient:
                     "AppleWebKit/537.36 (KHTML, like Gecko) "
                     "Chrome/131.0.0.0 Safari/537.36"
                 ),
-                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+                "Accept": (
+                    "text/html,application/xhtml+xml,application/xml;q=0.9,"
+                    "image/avif,image/webp,image/apng,*/*;q=0.8,"
+                    "application/signed-exchange;v=b3;q=0.7"
+                ),
                 "Accept-Language": "en-US,en;q=0.9",
                 "Accept-Encoding": "gzip, deflate, br",
                 "Cache-Control": "no-cache",
@@ -127,9 +132,7 @@ class HTTPClient:
         self.rate_limiter.wait_if_needed()
 
         try:
-            response = self.session.get(
-                url, params=params, headers=headers, timeout=self.timeout
-            )
+            response = self.session.get(url, params=params, headers=headers, timeout=self.timeout)
             response.raise_for_status()
 
             logging.debug("Successfully fetched: %s", url)
@@ -173,9 +176,7 @@ class HTTPClient:
         self.rate_limiter.wait_if_needed()
 
         try:
-            response = self.session.post(
-                url, data=data, json=json_data, headers=headers, timeout=self.timeout
-            )
+            response = self.session.post(url, data=data, json=json_data, headers=headers, timeout=self.timeout)
             response.raise_for_status()
 
             logging.debug("Successfully posted to: %s", url)
@@ -204,9 +205,7 @@ class HTTPClient:
         self.rate_limiter.wait_if_needed()
 
         try:
-            response = self.session.get(
-                url, params=params, headers=headers, timeout=self.timeout
-            )
+            response = self.session.get(url, params=params, headers=headers, timeout=self.timeout)
             response.raise_for_status()
 
             return response.json()
@@ -267,8 +266,11 @@ class CachedHTTPClient(HTTPClient):
             cache_path.parent.mkdir(parents=True, exist_ok=True)
             return cache_path
         else:
-            # Create safe filename from URL
-            safe_name = url.replace("/", "_").replace(":", "").replace("?", "_")
+            # Create safe filename from URL - sanitize all invalid filesystem characters
+            safe_name = re.sub(r'[<>:"/\\|?*]', "_", url)
+            # Truncate to safe filesystem length (max 200 chars for name + extension)
+            if len(safe_name) > 200:
+                safe_name = safe_name[:200]
             return self.cache_dir / f"{safe_name}.html"
 
     def _is_cache_valid(self, cache_path: Path) -> bool:

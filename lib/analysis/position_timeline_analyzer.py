@@ -16,13 +16,11 @@ Author: Jerzy 'Yuri' Kramarz
 Source: https://github.com/op7ic/Dataroma-Analyzer
 """
 
-import logging
 import pandas as pd
-import numpy as np
-from typing import Dict, List, Optional, Tuple
+from typing import Dict
 import re
 
-from .base_analyzer import BaseAnalyzer, MultiAnalyzer
+from .base_analyzer import MultiAnalyzer
 from ..data.data_loader import DataLoader
 
 
@@ -61,7 +59,7 @@ class PositionTimelineAnalyzer(MultiAnalyzer):
         print("📈 Analyzing Position Building Timelines...")
 
         # Get all manager-stock combinations with 5+ activities (significant positions)
-        position_counts = self.data.history_df.groupby(['ticker', 'manager_id']).size()
+        position_counts = self.data.history_df.groupby(["ticker", "manager_id"]).size()
         significant_positions = position_counts[position_counts >= 5].index.tolist()
 
         timeline_data = []
@@ -69,50 +67,49 @@ class PositionTimelineAnalyzer(MultiAnalyzer):
         for ticker, manager in significant_positions:
             # Get all activities for this manager-stock combination
             activities = self.data.history_df[
-                (self.data.history_df['ticker'] == ticker) &
-                (self.data.history_df['manager_id'] == manager)
+                (self.data.history_df["ticker"] == ticker) & (self.data.history_df["manager_id"] == manager)
             ].copy()
 
             if activities.empty:
                 continue
 
             # Sort by period chronologically
-            activities = activities.sort_values('period')
+            activities = activities.sort_values("period")
 
             # Track cumulative shares over time
             cumulative_shares = 0
             previous_shares = 0
 
             for _, act in activities.iterrows():
-                action_type = act.get('action_type', 'Hold')
-                shares = act.get('shares', 0)
-                action_str = act.get('action', '')
-                quarter = act.get('period', '')
+                action_type = act.get("action_type", "Hold")
+                shares = act.get("shares", 0)
+                action_str = act.get("action", "")
+                quarter = act.get("period", "")
 
                 # Update cumulative shares based on action type
-                if action_type == 'Buy':
+                if action_type == "Buy":
                     # New position
                     cumulative_shares = shares
-                elif action_type == 'Add':
+                elif action_type == "Add":
                     # Parse Add percentage if available
-                    match = re.search(r'(\d+\.?\d*)%', action_str)
+                    match = re.search(r"(\d+\.?\d*)%", action_str)
                     if match:
                         add_pct = float(match.group(1)) / 100
                         # shares shown = shares after add
                         # If added X%, then: shares_after = shares_before * (1 + X/100)
                         # So: shares_before = shares / (1 + X/100)
                         shares_before = shares / (1 + add_pct) if add_pct > 0 else shares
-                        shares_added = shares - shares_before
+                        shares - shares_before
                         cumulative_shares = shares
                     else:
                         # No percentage, assume shares is new total
                         cumulative_shares = shares
-                elif action_type == 'Reduce':
+                elif action_type == "Reduce":
                     # shares shown = shares after reduction
                     cumulative_shares = shares
-                elif action_type == 'Sell':
+                elif action_type == "Sell":
                     # Position sold
-                    if '100.00%' in action_str or '100%' in action_str:
+                    if "100.00%" in action_str or "100%" in action_str:
                         cumulative_shares = 0
                     else:
                         # Partial sell
@@ -122,33 +119,37 @@ class PositionTimelineAnalyzer(MultiAnalyzer):
                     cumulative_shares = previous_shares
 
                 # Determine phase (last 3 actions)
-                recent_actions = activities[activities['period'] <= quarter].tail(3)['action_type'].tolist()
+                recent_actions = activities[activities["period"] <= quarter].tail(3)["action_type"].tolist()
 
                 if len(recent_actions) >= 2:
-                    buy_add_count = sum(1 for a in recent_actions if a in ['Buy', 'Add'])
-                    sell_reduce_count = sum(1 for a in recent_actions if a in ['Sell', 'Reduce'])
+                    buy_add_count = sum(1 for a in recent_actions if a in ["Buy", "Add"])
+                    sell_reduce_count = sum(1 for a in recent_actions if a in ["Sell", "Reduce"])
 
                     if buy_add_count > sell_reduce_count:
-                        phase = 'Accumulating'
+                        phase = "Accumulating"
                     elif sell_reduce_count > buy_add_count:
-                        phase = 'Distributing'
+                        phase = "Distributing"
                     else:
-                        phase = 'Transitioning'
+                        phase = "Transitioning"
                 else:
-                    phase = 'Initial'
+                    phase = "Initial"
 
-                timeline_data.append({
-                    'ticker': ticker,
-                    'manager_id': manager,
-                    'manager_name': self.data.manager_names.get(manager, manager),
-                    'quarter': quarter,
-                    'action_type': action_type,
-                    'action': action_str,
-                    'shares': shares,
-                    'cumulative_shares': cumulative_shares,
-                    'phase': phase,
-                    'quarter_change': cumulative_shares - previous_shares if previous_shares > 0 else cumulative_shares
-                })
+                timeline_data.append(
+                    {
+                        "ticker": ticker,
+                        "manager_id": manager,
+                        "manager_name": self.data.manager_names.get(manager, manager),
+                        "quarter": quarter,
+                        "action_type": action_type,
+                        "action": action_str,
+                        "shares": shares,
+                        "cumulative_shares": cumulative_shares,
+                        "phase": phase,
+                        "quarter_change": (
+                            cumulative_shares - previous_shares if previous_shares > 0 else cumulative_shares
+                        ),
+                    }
+                )
 
                 previous_shares = cumulative_shares
 
@@ -158,17 +159,14 @@ class PositionTimelineAnalyzer(MultiAnalyzer):
         timeline_df = pd.DataFrame(timeline_data)
 
         # Add company names
-        if self.data.holdings_df is not None and 'stock' in self.data.holdings_df.columns:
-            company_names = self.data.holdings_df.groupby('ticker')['stock'].first()
+        if self.data.holdings_df is not None and "stock" in self.data.holdings_df.columns:
+            company_names = self.data.holdings_df.groupby("ticker")["stock"].first()
             timeline_df = timeline_df.merge(
-                company_names.to_frame('company_name'),
-                left_on='ticker',
-                right_index=True,
-                how='left'
+                company_names.to_frame("company_name"), left_on="ticker", right_index=True, how="left"
             )
 
         # Sort by ticker, manager, and period
-        timeline_df = timeline_df.sort_values(['ticker', 'manager_id', 'quarter'])
+        timeline_df = timeline_df.sort_values(["ticker", "manager_id", "quarter"])
 
         return self.format_output(timeline_df)
 
@@ -190,69 +188,65 @@ class PositionTimelineAnalyzer(MultiAnalyzer):
         recent_quarters = self.get_recent_quarters(4)
 
         # Get recent activities for ALL stocks
-        recent_activities = self.data.history_df[
-            self.data.history_df['period'].isin(recent_quarters)
-        ]
+        recent_activities = self.data.history_df[self.data.history_df["period"].isin(recent_quarters)]
 
         if recent_activities.empty:
             return pd.DataFrame()
 
         # Aggregate by STOCK across all managers
-        stock_activity = recent_activities.groupby('ticker').agg({
-            'action_type': lambda x: x.value_counts().to_dict(),
-            'manager_id': 'nunique',
-            'period': 'nunique'
-        }).reset_index()
+        stock_activity = (
+            recent_activities.groupby("ticker")
+            .agg({"action_type": lambda x: x.value_counts().to_dict(), "manager_id": "nunique", "period": "nunique"})
+            .reset_index()
+        )
 
-        stock_activity.columns = ['ticker', 'action_breakdown', 'unique_managers', 'quarters_active']
+        stock_activity.columns = ["ticker", "action_breakdown", "unique_managers", "quarters_active"]
 
         # Extract buy/sell counts
-        stock_activity['buy_add_actions'] = stock_activity['action_breakdown'].apply(
-            lambda x: x.get('Buy', 0) + x.get('Add', 0)
+        stock_activity["buy_add_actions"] = stock_activity["action_breakdown"].apply(
+            lambda x: x.get("Buy", 0) + x.get("Add", 0)
         )
-        stock_activity['sell_reduce_actions'] = stock_activity['action_breakdown'].apply(
-            lambda x: x.get('Sell', 0) + x.get('Reduce', 0)
+        stock_activity["sell_reduce_actions"] = stock_activity["action_breakdown"].apply(
+            lambda x: x.get("Sell", 0) + x.get("Reduce", 0)
         )
-        stock_activity['net_activity'] = stock_activity['buy_add_actions'] - stock_activity['sell_reduce_actions']
+        stock_activity["net_activity"] = stock_activity["buy_add_actions"] - stock_activity["sell_reduce_actions"]
 
         # Determine phase based on net activity
-        stock_activity['phase'] = 'Mixed'
-        stock_activity.loc[stock_activity['net_activity'] > 0, 'phase'] = 'Accumulating'
-        stock_activity.loc[stock_activity['net_activity'] < 0, 'phase'] = 'Distributing'
+        stock_activity["phase"] = "Mixed"
+        stock_activity.loc[stock_activity["net_activity"] > 0, "phase"] = "Accumulating"
+        stock_activity.loc[stock_activity["net_activity"] < 0, "phase"] = "Distributing"
 
         # Add current holdings information
         if self.data.holdings_df is not None and not self.data.holdings_df.empty:
-            current_holdings = self.data.holdings_df.groupby('ticker').agg({
-                'value': 'sum',
-                'shares': 'sum',
-                'manager_id': 'count',
-                'stock': 'first'
-            }).reset_index()
-            current_holdings.columns = ['ticker', 'current_value', 'current_shares',
-                                       'current_holders', 'company_name']
+            current_holdings = (
+                self.data.holdings_df.groupby("ticker")
+                .agg({"value": "sum", "shares": "sum", "manager_id": "count", "stock": "first"})
+                .reset_index()
+            )
+            current_holdings.columns = ["ticker", "current_value", "current_shares", "current_holders", "company_name"]
 
-            stock_activity = stock_activity.merge(current_holdings, on='ticker', how='left')
-            stock_activity['current_value'] = stock_activity['current_value'].fillna(0)
-            stock_activity['current_shares'] = stock_activity['current_shares'].fillna(0)
-            stock_activity['current_holders'] = stock_activity['current_holders'].fillna(0)
+            stock_activity = stock_activity.merge(current_holdings, on="ticker", how="left")
+            stock_activity["current_value"] = stock_activity["current_value"].fillna(0)
+            stock_activity["current_shares"] = stock_activity["current_shares"].fillna(0)
+            stock_activity["current_holders"] = stock_activity["current_holders"].fillna(0)
         else:
-            stock_activity['current_value'] = 0
-            stock_activity['current_shares'] = 0
-            stock_activity['current_holders'] = 0
-            stock_activity['company_name'] = ''
+            stock_activity["current_value"] = 0
+            stock_activity["current_shares"] = 0
+            stock_activity["current_holders"] = 0
+            stock_activity["company_name"] = ""
 
         # Filter for stocks with at least 2 managers active
-        significant_stocks = stock_activity[stock_activity['unique_managers'] >= 2].copy()
+        significant_stocks = stock_activity[stock_activity["unique_managers"] >= 2].copy()
 
         if significant_stocks.empty:
             return pd.DataFrame()
 
         # Sort by absolute net activity (most active first)
-        significant_stocks['abs_net_activity'] = significant_stocks['net_activity'].abs()
-        significant_stocks = significant_stocks.sort_values('abs_net_activity', ascending=False)
+        significant_stocks["abs_net_activity"] = significant_stocks["net_activity"].abs()
+        significant_stocks = significant_stocks.sort_values("abs_net_activity", ascending=False)
 
         # Return top 100 most active (mix of accumulating and distributing)
-        return self.format_output(significant_stocks.drop(columns=['abs_net_activity'])).head(100)
+        return self.format_output(significant_stocks.drop(columns=["abs_net_activity"])).head(100)
 
     def analyze_position_flip_points(self) -> pd.DataFrame:
         """
@@ -271,43 +265,45 @@ class PositionTimelineAnalyzer(MultiAnalyzer):
         flip_points = []
 
         # Group by ticker and manager
-        for (ticker, manager), group in self.data.history_df.groupby(['ticker', 'manager_id']):
+        for (ticker, manager), group in self.data.history_df.groupby(["ticker", "manager_id"]):
             if len(group) < 4:
                 continue
 
             # Sort chronologically
-            group = group.sort_values('period')
+            group = group.sort_values("period")
 
             # Look for transitions from accumulation to distribution
-            actions = group['action_type'].tolist()
-            periods = group['period'].tolist()
+            actions = group["action_type"].tolist()
+            periods = group["period"].tolist()
 
             for i in range(len(actions) - 2):
                 # Get 3-action window
-                window = actions[i:i+3]
+                window = actions[i : i + 3]
 
                 # Check for flip: 2+ accumulation actions → 2+ distribution actions
-                early_accum = sum(1 for a in window[:2] if a in ['Buy', 'Add'])
-                late_distrib = sum(1 for a in window[1:] if a in ['Sell', 'Reduce'])
+                early_accum = sum(1 for a in window[:2] if a in ["Buy", "Add"])
+                late_distrib = sum(1 for a in window[1:] if a in ["Sell", "Reduce"])
 
-                if early_accum >= 2 and late_distrib >= 1 and window[-1] in ['Sell', 'Reduce']:
+                if early_accum >= 2 and late_distrib >= 1 and window[-1] in ["Sell", "Reduce"]:
                     # Found a flip point
-                    flip_quarter = periods[i+2]
+                    flip_quarter = periods[i + 2]
 
                     # Get shares at flip point
-                    flip_action = group.iloc[i+2]
+                    flip_action = group.iloc[i + 2]
 
-                    flip_points.append({
-                        'ticker': ticker,
-                        'manager_id': manager,
-                        'manager_name': self.data.manager_names.get(manager, manager),
-                        'flip_quarter': flip_quarter,
-                        'flip_action': flip_action.get('action', ''),
-                        'shares_at_flip': flip_action.get('shares', 0),
-                        'action_sequence': ' → '.join(window),
-                        'quarters_before_flip': i + 1,
-                        'quarters_after_flip': len(actions) - (i + 3)
-                    })
+                    flip_points.append(
+                        {
+                            "ticker": ticker,
+                            "manager_id": manager,
+                            "manager_name": self.data.manager_names.get(manager, manager),
+                            "flip_quarter": flip_quarter,
+                            "flip_action": flip_action.get("action", ""),
+                            "shares_at_flip": flip_action.get("shares", 0),
+                            "action_sequence": " → ".join(window),
+                            "quarters_before_flip": i + 1,
+                            "quarters_after_flip": len(actions) - (i + 3),
+                        }
+                    )
 
         if not flip_points:
             return pd.DataFrame()
@@ -315,32 +311,25 @@ class PositionTimelineAnalyzer(MultiAnalyzer):
         flip_df = pd.DataFrame(flip_points)
 
         # Add company names
-        if self.data.holdings_df is not None and 'stock' in self.data.holdings_df.columns:
-            company_names = self.data.holdings_df.groupby('ticker')['stock'].first()
+        if self.data.holdings_df is not None and "stock" in self.data.holdings_df.columns:
+            company_names = self.data.holdings_df.groupby("ticker")["stock"].first()
             flip_df = flip_df.merge(
-                company_names.to_frame('company_name'),
-                left_on='ticker',
-                right_index=True,
-                how='left'
+                company_names.to_frame("company_name"), left_on="ticker", right_index=True, how="left"
             )
 
         # Add current status
         if self.data.holdings_df is not None:
-            current_holdings = self.data.holdings_df.groupby(['ticker', 'manager_id']).agg({
-                'shares': 'first',
-                'value': 'first'
-            })
-            flip_df = flip_df.merge(
-                current_holdings.add_prefix('current_'),
-                left_on=['ticker', 'manager_id'],
-                right_index=True,
-                how='left'
+            current_holdings = self.data.holdings_df.groupby(["ticker", "manager_id"]).agg(
+                {"shares": "first", "value": "first"}
             )
-            flip_df['still_held'] = flip_df['current_shares'].notna()
+            flip_df = flip_df.merge(
+                current_holdings.add_prefix("current_"), left_on=["ticker", "manager_id"], right_index=True, how="left"
+            )
+            flip_df["still_held"] = flip_df["current_shares"].notna()
         else:
-            flip_df['still_held'] = False
+            flip_df["still_held"] = False
 
         # Sort by flip quarter (most recent first)
-        flip_df = flip_df.sort_values('flip_quarter', ascending=False)
+        flip_df = flip_df.sort_values("flip_quarter", ascending=False)
 
         return self.format_output(flip_df).head(100)

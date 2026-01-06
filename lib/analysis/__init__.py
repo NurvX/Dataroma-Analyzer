@@ -32,15 +32,13 @@ __all__ = [
     # Base classes
     "BaseAnalyzer",
     "MultiAnalyzer",
-    
     # Specific analyzers
-    "HoldingsAnalyzer", 
+    "HoldingsAnalyzer",
     "TopHoldingsAnalyzer",
     "GemsAnalyzer",
-    "MomentumAnalyzer", 
+    "MomentumAnalyzer",
     "PriceAnalyzer",
     "StocksUnderPriceAnalyzer",
-    
     # Orchestrator
     "AnalysisOrchestrator",
 ]

@@ -15,9 +15,9 @@ Author: Jerzy 'Yuri' Kramarz
 Source: https://github.com/op7ic/Dataroma-Analyzer
 """
 
-from dataclasses import dataclass, field
+from dataclasses import dataclass, field, fields
 from datetime import datetime
-from typing import Optional, Dict, Any
+from typing import Optional, Dict, Any, Set
 
 
 @dataclass
@@ -41,17 +41,19 @@ class Manager:
             "portfolio_value": self.portfolio_value,
             "num_holdings": self.num_holdings,
             "url": self.url,
-            "last_updated": self.last_updated.isoformat()
-            if self.last_updated
-            else None,
+            "last_updated": self.last_updated.isoformat() if self.last_updated else None,
         }
 
     @classmethod
     def from_dict(cls, data: Dict[str, Any]) -> "Manager":
-        """Create from dictionary."""
-        if data.get("last_updated"):
-            data["last_updated"] = datetime.fromisoformat(data["last_updated"])
-        return cls(**data)
+        """Create from dictionary, filtering unknown keys to prevent TypeError."""
+        # Get valid field names for this dataclass
+        valid_fields: Set[str] = {f.name for f in fields(cls)}
+        # Filter to only known fields
+        filtered_data = {k: v for k, v in data.items() if k in valid_fields}
+        if filtered_data.get("last_updated"):
+            filtered_data["last_updated"] = datetime.fromisoformat(filtered_data["last_updated"])
+        return cls(**filtered_data)
 
 
 @dataclass
@@ -79,7 +81,7 @@ class Holding:
     # Temporal data fields
     reporting_date: str = ""  # When this holding data was reported
     reporting_quarter: str = ""  # Quarter of the report (e.g., "Q1 2025")
-    
+
     # Enriched data fields
     market_cap: float = 0.0
     pe_ratio: float = 0.0
@@ -118,8 +120,12 @@ class Holding:
 
     @classmethod
     def from_dict(cls, data: Dict[str, Any]) -> "Holding":
-        """Create from dictionary."""
-        return cls(**data)
+        """Create from dictionary, filtering unknown keys to prevent TypeError."""
+        # Get valid field names for this dataclass
+        valid_fields: Set[str] = {f.name for f in fields(cls)}
+        # Filter to only known fields
+        filtered_data = {k: v for k, v in data.items() if k in valid_fields}
+        return cls(**filtered_data)
 
 
 @dataclass
@@ -152,8 +158,12 @@ class Activity:
 
     @classmethod
     def from_dict(cls, data: Dict[str, Any]) -> "Activity":
-        """Create from dictionary."""
-        return cls(**data)
+        """Create from dictionary, filtering unknown keys to prevent TypeError."""
+        # Get valid field names for this dataclass
+        valid_fields: Set[str] = {f.name for f in fields(cls)}
+        # Filter to only known fields
+        filtered_data = {k: v for k, v in data.items() if k in valid_fields}
+        return cls(**filtered_data)
 
 
 @dataclass
@@ -189,17 +199,19 @@ class StockData:
             "fifty_two_week_low": self.fifty_two_week_low,
             "avg_volume": self.avg_volume,
             "beta": self.beta,
-            "last_updated": self.last_updated.isoformat()
-            if self.last_updated
-            else None,
+            "last_updated": self.last_updated.isoformat() if self.last_updated else None,
         }
 
     @classmethod
     def from_dict(cls, data: Dict[str, Any]) -> "StockData":
-        """Create from dictionary."""
-        if data.get("last_updated"):
-            data["last_updated"] = datetime.fromisoformat(data["last_updated"])
-        return cls(**data)
+        """Create from dictionary, filtering unknown keys to prevent TypeError."""
+        # Get valid field names for this dataclass
+        valid_fields: Set[str] = {f.name for f in fields(cls)}
+        # Filter to only known fields
+        filtered_data = {k: v for k, v in data.items() if k in valid_fields}
+        if filtered_data.get("last_updated"):
+            filtered_data["last_updated"] = datetime.fromisoformat(filtered_data["last_updated"])
+        return cls(**filtered_data)
 
 
 @dataclass

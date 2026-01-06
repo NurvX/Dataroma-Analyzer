@@ -100,17 +100,13 @@ class YahooFinanceClient:
         try:
             # First, visit Yahoo Finance to establish session and get cookies
             logging.debug("Establishing Yahoo Finance session...")
-            response = self.client.session.get(
-                "https://finance.yahoo.com/", timeout=30, allow_redirects=True
-            )
+            response = self.client.session.get("https://finance.yahoo.com/", timeout=30, allow_redirects=True)
             response.raise_for_status()
             self._increment_request_count()
 
             # Now get the crumb using the same session with cookies
             logging.debug("Fetching crumb...")
-            crumb_response = self.client.session.get(
-                "https://query1.finance.yahoo.com/v1/test/getcrumb", timeout=30
-            )
+            crumb_response = self.client.session.get("https://query1.finance.yahoo.com/v1/test/getcrumb", timeout=30)
             crumb_response.raise_for_status()
             self._increment_request_count()
 
@@ -232,9 +228,7 @@ class YahooFinanceClient:
         # Check how many requests we can still make
         remaining_requests = self.max_requests_per_ip - self.request_count
         if remaining_requests <= 0:
-            logging.warning(
-                "IP limit reached. Returning %d cached results only", len(result)
-            )
+            logging.warning("IP limit reached. Returning %d cached results only", len(result))
             return result
 
         # Limit symbols to process based on remaining requests
@@ -264,7 +258,11 @@ class YahooFinanceClient:
             url = f"{self.base_url}/v7/finance/quote"
             params = {
                 "symbols": symbols_str,
-                "fields": "symbol,marketCap,trailingPE,dividendYield,priceToBook,sector,industry,regularMarketPrice,fiftyTwoWeekHigh,fiftyTwoWeekLow,averageDailyVolume10Day,beta",
+                "fields": (
+                    "symbol,marketCap,trailingPE,dividendYield,priceToBook,"
+                    "sector,industry,regularMarketPrice,fiftyTwoWeekHigh,"
+                    "fiftyTwoWeekLow,averageDailyVolume10Day,beta"
+                ),
                 "crumb": crumb,
             }
 
@@ -288,7 +286,7 @@ class YahooFinanceClient:
             "Retrieved data for %d/%d symbols (%d from cache, %d from API)",
             len(result),
             len(symbols),
-            len(result) - len(symbols_to_process),
+            len(symbols) - len(uncached_symbols),  # Correctly count symbols served from cache
             len(symbols_to_process),
         )
         return result
@@ -320,7 +318,11 @@ class YahooFinanceClient:
         url = f"{self.base_url}/v7/finance/quote"
         params = {
             "symbols": symbol,
-            "fields": "symbol,marketCap,trailingPE,dividendYield,priceToBook,sector,industry,regularMarketPrice,fiftyTwoWeekHigh,fiftyTwoWeekLow,averageDailyVolume10Day,beta",
+            "fields": (
+                "symbol,marketCap,trailingPE,dividendYield,priceToBook,"
+                "sector,industry,regularMarketPrice,fiftyTwoWeekHigh,"
+                "fiftyTwoWeekLow,averageDailyVolume10Day,beta"
+            ),
             "crumb": self._get_crumb(),
         }
 
@@ -334,9 +336,7 @@ class YahooFinanceClient:
 
         return None
 
-    def _parse_quote_summary(
-        self, symbol: str, data: Dict[str, Any]
-    ) -> Optional[StockData]:
+    def _parse_quote_summary(self, symbol: str, data: Dict[str, Any]) -> Optional[StockData]:
         """Parse quoteSummary API response.
 
         Args:
@@ -361,18 +361,16 @@ class YahooFinanceClient:
             )
 
             # Get market cap
-            market_cap = price_data.get("marketCap", {}).get("raw", 0.0) or summary.get(
-                "marketCap", {}
-            ).get("raw", 0.0)
+            market_cap = price_data.get("marketCap", {}).get("raw", 0.0) or summary.get("marketCap", {}).get("raw", 0.0)
 
             # Get 52-week range
             fifty_two_week_high = summary.get("fiftyTwoWeekHigh", {}).get("raw", 0.0)
             fifty_two_week_low = summary.get("fiftyTwoWeekLow", {}).get("raw", 0.0)
 
             # Get other metrics
-            pe_ratio = default_stats.get("trailingPE", {}).get(
+            pe_ratio = default_stats.get("trailingPE", {}).get("raw", 0.0) or summary.get("trailingPE", {}).get(
                 "raw", 0.0
-            ) or summary.get("trailingPE", {}).get("raw", 0.0)
+            )
 
             dividend_yield = summary.get("dividendYield", {}).get("raw", 0.0)
             price_to_book = default_stats.get("priceToBook", {}).get("raw", 0.0)
@@ -404,14 +402,10 @@ class YahooFinanceClient:
             )
 
         except Exception as e:
-            logging.error(
-                "Error parsing quoteSummary response for %s: %s", symbol, str(e)
-            )
+            logging.error("Error parsing quoteSummary response for %s: %s", symbol, str(e))
             return None
 
-    def _parse_chart_response(
-        self, symbol: str, data: Dict[str, Any]
-    ) -> Optional[StockData]:
+    def _parse_chart_response(self, symbol: str, data: Dict[str, Any]) -> Optional[StockData]:
         """Parse chart API response.
 
         Args:

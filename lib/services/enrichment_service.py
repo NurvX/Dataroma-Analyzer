@@ -36,9 +36,7 @@ class EnrichmentService:
             rate_limit: Seconds between Yahoo Finance requests
         """
         self.cache_dir = Path(cache_dir)
-        self.yahoo_client = YahooFinanceClient(
-            rate_limit=rate_limit, cache_dir=cache_dir
-        )
+        self.yahoo_client = YahooFinanceClient(rate_limit=rate_limit, cache_dir=cache_dir)
 
         # Persistent cache files
         self.stock_cache_file = self.cache_dir / "json" / "stocks.json"
@@ -59,10 +57,7 @@ class EnrichmentService:
             try:
                 with open(self.stock_cache_file, "r") as f:
                     data = json.load(f)
-                    return {
-                        symbol: StockData.from_dict(stock_data)
-                        for symbol, stock_data in data.items()
-                    }
+                    return {symbol: StockData.from_dict(stock_data) for symbol, stock_data in data.items()}
             except Exception as e:
                 logging.error("Error loading stock cache: %s", str(e))
         return {}
@@ -70,10 +65,7 @@ class EnrichmentService:
     def _save_persistent_stock_cache(self) -> None:
         """Save enriched stock data to disk for future sessions."""
         try:
-            data = {
-                symbol: stock.to_dict()
-                for symbol, stock in self.persistent_stock_cache.items()
-            }
+            data = {symbol: stock.to_dict() for symbol, stock in self.persistent_stock_cache.items()}
             self.stock_cache_file.parent.mkdir(parents=True, exist_ok=True)
             with open(self.stock_cache_file, "w") as f:
                 json.dump(data, f, indent=2)
@@ -142,8 +134,7 @@ class EnrichmentService:
             successful_counts = [
                 session.get("requests_made", 0)
                 for session in ip_sessions
-                if not session.get("limit_hit", False)
-                and session.get("requests_made", 0) > 0
+                if not session.get("limit_hit", False) and session.get("requests_made", 0) > 0
             ]
 
             if successful_counts:
@@ -180,9 +171,7 @@ class EnrichmentService:
                 self._update_holding_from_stock(holding, stock_data)
                 cache_hits += 1
 
-        logging.info(
-            "Updated %d/%d holdings from persistent cache", cache_hits, len(holdings)
-        )
+        logging.info("Updated %d/%d holdings from persistent cache", cache_hits, len(holdings))
 
         # Get symbols needing enrichment
         unenriched = self._get_unenriched_symbols(all_symbols)
@@ -278,15 +267,11 @@ class EnrichmentService:
 
         if session_info["limit_hit"]:
             remaining = len(unenriched) - new_enriched - session_info["symbols_failed"]
-            logging.info(
-                "IP limit reached. %d symbols remaining for next session", remaining
-            )
+            logging.info("IP limit reached. %d symbols remaining for next session", remaining)
 
         return holdings, new_enriched
 
-    def _update_holding_from_stock(
-        self, holding: Holding, stock_data: StockData
-    ) -> None:
+    def _update_holding_from_stock(self, holding: Holding, stock_data: StockData) -> None:
         """Update holding with stock data.
 
         Args:
@@ -307,10 +292,7 @@ class EnrichmentService:
 
             # Calculate price change
             if holding.reported_price > 0:
-                price_change = (
-                    (holding.current_price - holding.reported_price)
-                    / holding.reported_price
-                ) * 100
+                price_change = ((holding.current_price - holding.reported_price) / holding.reported_price) * 100
                 holding.price_change_percent = round(price_change, 2)
 
         # 52-week range
@@ -348,14 +330,10 @@ class EnrichmentService:
 
         # Calculate average enrichment rate
         if ip_sessions:
-            total_enriched_in_sessions = sum(
-                s.get("symbols_enriched", 0) for s in ip_sessions
-            )
+            total_enriched_in_sessions = sum(s.get("symbols_enriched", 0) for s in ip_sessions)
             total_requests = sum(s.get("requests_made", 0) for s in ip_sessions)
             if total_requests > 0:
-                summary["average_enrichment_rate"] = round(
-                    (total_enriched_in_sessions / total_requests) * 100, 1
-                )
+                summary["average_enrichment_rate"] = round((total_enriched_in_sessions / total_requests) * 100, 1)
 
         # Analyze IP sessions for limit estimates
         for session in ip_sessions[-10:]:  # Last 10 sessions
@@ -363,9 +341,7 @@ class EnrichmentService:
                 summary["ip_limit_estimates"].append(
                     {
                         "date": session.get("start_time", "").split("T")[0],
-                        "time": session.get("start_time", "")
-                        .split("T")[1]
-                        .split(".")[0],
+                        "time": session.get("start_time", "").split("T")[1].split(".")[0],
                         "requests": session["requests_made"],
                         "enriched": session.get("symbols_enriched", 0),
                         "limit_hit": session.get("limit_hit", False),
