@@ -2642,7 +2642,7 @@
       "company_name": "The Marzetti Company"
     },
     {
-      "symbol": "ALE",
+      "symbol": "ALE-OLD",
       "manager_id": "MVALX",
       "action": "Sell 100.00%",
       "date": "Q3 2024",
@@ -5095,7 +5095,7 @@
       "company_name": "American Superconductor Corp."
     },
     {
-      "symbol": "ALE",
+      "symbol": "ALE-OLD",
       "manager_id": "MVALX",
       "action": "Add 12.41%",
       "date": "Q2 2023",
@@ -5436,7 +5436,7 @@
       "company_name": "QuidelOrtho Corp."
     },
     {
-      "symbol": "ALE",
+      "symbol": "ALE-OLD",
       "manager_id": "MVALX",
       "action": "Add 29.46%",
       "date": "Q1 2023",
@@ -6426,7 +6426,7 @@
       "company_name": "Netstreit Corp."
     },
     {
-      "symbol": "ALE",
+      "symbol": "ALE-OLD",
       "manager_id": "MVALX",
       "action": "Reduce 46.41%",
       "date": "Q4 2022",
@@ -6701,7 +6701,7 @@
       "company_name": "Ambarella Inc."
     },
     {
-      "symbol": "ALE",
+      "symbol": "ALE-OLD",
       "manager_id": "MVALX",
       "action": "Add 13.59%",
       "date": "Q3 2022",
@@ -7053,7 +7053,7 @@
       "company_name": "PlayAGS Inc."
     },
     {
-      "symbol": "ALE",
+      "symbol": "ALE-OLD",
       "manager_id": "MVALX",
       "action": "Add 75.24%",
       "date": "Q2 2022",
@@ -7889,7 +7889,7 @@
       "company_name": "Netstreit Corp."
     },
     {
-      "symbol": "ALE",
+      "symbol": "ALE-OLD",
       "manager_id": "MVALX",
       "action": "Buy",
       "date": "Q1 2022",
@@ -8824,7 +8824,7 @@
       "company_name": "Nordstrom"
     },
     {
-      "symbol": "TLIS",
+      "symbol": "TLIS-OLD",
       "manager_id": "MVALX",
       "action": "Sell 100.00%",
       "date": "Q4 2021",
@@ -9231,7 +9231,7 @@
       "company_name": "Lear Corp."
     },
     {
-      "symbol": "TLIS",
+      "symbol": "TLIS-OLD",
       "manager_id": "MVALX",
       "action": "Reduce 29.45%",
       "date": "Q3 2021",
@@ -9429,7 +9429,7 @@
       "company_name": "Sabre Corp."
     },
     {
-      "symbol": "TLIS",
+      "symbol": "TLIS-OLD",
       "manager_id": "MVALX",
       "action": "Add 26.26%",
       "date": "Q2 2021",
@@ -10023,7 +10023,7 @@
       "company_name": "Cognyte Software Ltd"
     },
     {
-      "symbol": "TLIS",
+      "symbol": "TLIS-OLD",
       "manager_id": "MVALX",
       "action": "Buy",
       "date": "Q1 2021",
@@ -10364,7 +10364,7 @@
       "company_name": "RenaissanceRe Holdings Ltd."
     },
     {
-      "symbol": "HBI",
+      "symbol": "HBI-OLD",
       "manager_id": "MVALX",
       "action": "Sell 100.00%",
       "date": "Q1 2021",
@@ -10991,7 +10991,7 @@
       "company_name": "ON Semiconductor Corp."
     },
     {
-      "symbol": "HBI",
+      "symbol": "HBI-OLD",
       "manager_id": "MVALX",
       "action": "Reduce 29.55%",
       "date": "Q4 2020",
@@ -11002,6 +11002,6 @@
       "company_name": "Hanesbrands Inc."
     }
   ],
-  "timestamp": "2025-12-01T06:13:07.270045",
-  "scraped_date": "2025-12-01"
+  "timestamp": "2026-01-01T06:13:05.984014",
+  "scraped_date": "2026-01-01"
 }

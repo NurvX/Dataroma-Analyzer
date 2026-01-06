@@ -8978,7 +8978,7 @@
       "company_name": "Triumph Group Inc."
     },
     {
-      "symbol": "VTLE",
+      "symbol": "VTLE-OLD",
       "manager_id": "FE",
       "action": "Sell 100.00%",
       "date": "Q2 2025",
@@ -11002,6 +11002,6 @@
       "company_name": "Riley Exploration Permian In"
     }
   ],
-  "timestamp": "2025-12-01T06:13:07.580780",
-  "scraped_date": "2025-12-01"
+  "timestamp": "2026-01-01T06:13:06.284648",
+  "scraped_date": "2026-01-01"
 }

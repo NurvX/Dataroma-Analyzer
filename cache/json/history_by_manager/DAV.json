@@ -580,7 +580,7 @@
       "date": "Q3 2025",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 4210,
+      "shares": 601,
       "portfolio_percentage": 0.0,
       "company_name": "Hudson Pacific Properties Inc."
     },
@@ -1691,7 +1691,7 @@
       "date": "Q2 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 990,
+      "shares": 142,
       "portfolio_percentage": 0.0,
       "company_name": "Hudson Pacific Properties Inc."
     },
@@ -2615,7 +2615,7 @@
       "date": "Q1 2025",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 16000,
+      "shares": 2285,
       "portfolio_percentage": 0.0,
       "company_name": "Hudson Pacific Properties Inc."
     },
@@ -3407,7 +3407,7 @@
       "date": "Q4 2024",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 1067940,
+      "shares": 152562,
       "portfolio_percentage": 0.02,
       "company_name": "Hudson Pacific Properties Inc."
     },
@@ -4936,7 +4936,7 @@
       "date": "Q3 2024",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 11470,
+      "shares": 1639,
       "portfolio_percentage": 0.0,
       "company_name": "Hudson Pacific Properties Inc."
     },
@@ -5552,7 +5552,7 @@
       "date": "Q2 2024",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 536540,
+      "shares": 76648,
       "portfolio_percentage": 0.01,
       "company_name": "Hudson Pacific Properties Inc."
     },
@@ -6696,7 +6696,7 @@
       "date": "Q1 2024",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 5690,
+      "shares": 813,
       "portfolio_percentage": 0.0,
       "company_name": "Hudson Pacific Properties Inc."
     },
@@ -8907,7 +8907,7 @@
       "date": "Q3 2023",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 14790,
+      "shares": 2112,
       "portfolio_percentage": 0.0,
       "company_name": "Hudson Pacific Properties Inc."
     },
@@ -10733,7 +10733,7 @@
       "date": "Q1 2023",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 220180,
+      "shares": 31454,
       "portfolio_percentage": 0.01,
       "company_name": "Hudson Pacific Properties Inc."
     },
@@ -11002,6 +11002,6 @@
       "company_name": "Prologis Inc."
     }
   ],
-  "timestamp": "2025-12-01T06:13:07.629611",
-  "scraped_date": "2025-12-01"
+  "timestamp": "2026-01-01T06:13:06.332106",
+  "scraped_date": "2026-01-01"
 }

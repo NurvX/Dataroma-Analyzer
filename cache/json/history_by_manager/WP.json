@@ -877,7 +877,7 @@
       "date": "Q4 2024",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 13191,
+      "shares": 39573,
       "portfolio_percentage": 3.27,
       "company_name": "Texas Pacific Land Corp."
     },
@@ -1020,7 +1020,7 @@
       "date": "Q3 2024",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 172,
+      "shares": 516,
       "portfolio_percentage": 0.04,
       "company_name": "Texas Pacific Land Corp."
     },
@@ -1251,7 +1251,7 @@
       "date": "Q2 2024",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 336,
+      "shares": 1008,
       "portfolio_percentage": 0.06,
       "company_name": "Texas Pacific Land Corp."
     },
@@ -1493,7 +1493,7 @@
       "date": "Q1 2024",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 431,
+      "shares": 1293,
       "portfolio_percentage": 0.05,
       "company_name": "Texas Pacific Land Corp."
     },
@@ -1559,7 +1559,7 @@
       "date": "Q4 2023",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 213,
+      "shares": 639,
       "portfolio_percentage": 0.02,
       "company_name": "Texas Pacific Land Corp."
     },
@@ -1878,7 +1878,7 @@
       "date": "Q3 2023",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 6096,
+      "shares": 18288,
       "portfolio_percentage": 0.89,
       "company_name": "Texas Pacific Land Corp."
     },
@@ -2373,7 +2373,7 @@
       "date": "Q2 2023",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 888,
+      "shares": 2664,
       "portfolio_percentage": 0.06,
       "company_name": "Texas Pacific Land Corp."
     },
@@ -2890,7 +2890,7 @@
       "date": "Q1 2023",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 4092,
+      "shares": 12276,
       "portfolio_percentage": 0.39,
       "company_name": "Texas Pacific Land Corp."
     },
@@ -3297,7 +3297,7 @@
       "date": "Q4 2022",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 6003,
+      "shares": 18009,
       "portfolio_percentage": 0.86,
       "company_name": "Texas Pacific Land Corp."
     },
@@ -3682,7 +3682,7 @@
       "date": "Q3 2022",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 1101,
+      "shares": 3303,
       "portfolio_percentage": 0.12,
       "company_name": "Texas Pacific Land Corp."
     },
@@ -4023,7 +4023,7 @@
       "date": "Q2 2022",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 1032,
+      "shares": 3096,
       "portfolio_percentage": 0.09,
       "company_name": "Texas Pacific Land Corp."
     },
@@ -4265,7 +4265,7 @@
       "date": "Q1 2022",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 4062,
+      "shares": 12186,
       "portfolio_percentage": 0.26,
       "company_name": "Texas Pacific Land Corp."
     },
@@ -4738,7 +4738,7 @@
       "date": "Q4 2021",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 29493,
+      "shares": 88479,
       "portfolio_percentage": 1.63,
       "company_name": "Texas Pacific Land Corp."
     },
@@ -11002,6 +11002,6 @@
       "company_name": "U.S. Bancorp"
     }
   ],
-  "timestamp": "2025-12-01T06:13:07.362271",
-  "scraped_date": "2025-12-01"
+  "timestamp": "2026-01-01T06:13:06.073264",
+  "scraped_date": "2026-01-01"
 }

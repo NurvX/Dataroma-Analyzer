@@ -486,7 +486,7 @@
       "company_name": "Uniti Group Inc."
     },
     {
-      "symbol": "BRY",
+      "symbol": "BRY-OLD",
       "manager_id": "oc",
       "action": "Sell 100.00%",
       "date": "Q3 2025",
@@ -1482,7 +1482,7 @@
       "date": "Q1 2025",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 1875,
+      "shares": 375,
       "portfolio_percentage": 0.0,
       "company_name": "Ecd Automotive Design Inc"
     },
@@ -3704,7 +3704,7 @@
       "date": "Q4 2023",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 1875,
+      "shares": 375,
       "portfolio_percentage": 0.0,
       "company_name": "Ecd Automotive Design Inc"
     },
@@ -4358,7 +4358,7 @@
       "company_name": "Star Bulk Carriers Corp."
     },
     {
-      "symbol": "BRY",
+      "symbol": "BRY-OLD",
       "manager_id": "oc",
       "action": "Reduce 44.80%",
       "date": "Q3 2023",
@@ -4677,7 +4677,7 @@
       "company_name": "Embrace Change Acquisition C"
     },
     {
-      "symbol": "HSPO",
+      "symbol": "HSPO-OLD",
       "manager_id": "oc",
       "action": "Sell 100.00%",
       "date": "Q3 2023",
@@ -6107,7 +6107,7 @@
       "company_name": "Alphatime Acquisition Corp"
     },
     {
-      "symbol": "HSPO",
+      "symbol": "HSPO-OLD",
       "manager_id": "oc",
       "action": "Buy",
       "date": "Q1 2023",
@@ -6360,7 +6360,7 @@
       "company_name": "Nuveen Credit Strat Incm"
     },
     {
-      "symbol": "BRY",
+      "symbol": "BRY-OLD",
       "manager_id": "oc",
       "action": "Reduce 1.47%",
       "date": "Q1 2023",
@@ -6734,7 +6734,7 @@
       "company_name": "Deep Medicine Acquisiti Cl A"
     },
     {
-      "symbol": "DSAQ",
+      "symbol": "DSAQ-OLD",
       "manager_id": "oc",
       "action": "Sell 100.00%",
       "date": "Q1 2023",
@@ -6965,7 +6965,7 @@
       "company_name": "Global System Dynamics Inc."
     },
     {
-      "symbol": "HSPOU",
+      "symbol": "HSPOU-OLD",
       "manager_id": "oc",
       "action": "Sell 100.00%",
       "date": "Q1 2023",
@@ -7053,7 +7053,7 @@
       "company_name": "Springwater Special Situations Corp."
     },
     {
-      "symbol": "ATMVU",
+      "symbol": "ATMVU-OLD",
       "manager_id": "oc",
       "action": "Sell 100.00%",
       "date": "Q1 2023",
@@ -7702,7 +7702,7 @@
       "company_name": "Embrace Change Acquisition C"
     },
     {
-      "symbol": "HSPOU",
+      "symbol": "HSPOU-OLD",
       "manager_id": "oc",
       "action": "Buy",
       "date": "Q4 2022",
@@ -7746,7 +7746,7 @@
       "company_name": "Pono Capital Two Inc Cl A"
     },
     {
-      "symbol": "ATMVU",
+      "symbol": "ATMVU-OLD",
       "manager_id": "oc",
       "action": "Buy",
       "date": "Q4 2022",
@@ -7944,7 +7944,7 @@
       "company_name": "Weatherford International plc"
     },
     {
-      "symbol": "BRY",
+      "symbol": "BRY-OLD",
       "manager_id": "oc",
       "action": "Reduce 41.52%",
       "date": "Q4 2022",
@@ -9303,7 +9303,7 @@
       "date": "Q3 2022",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 25000,
+      "shares": 2500,
       "portfolio_percentage": 0.03,
       "company_name": "Dragonfly Energy Corp."
     },
@@ -10551,7 +10551,7 @@
       "company_name": "Reservoir Media Inc."
     },
     {
-      "symbol": "BRY",
+      "symbol": "BRY-OLD",
       "manager_id": "oc",
       "action": "Reduce 10.00%",
       "date": "Q2 2022",
@@ -11002,6 +11002,6 @@
       "company_name": "Vale SA"
     }
   ],
-  "timestamp": "2025-12-01T06:13:07.520487",
-  "scraped_date": "2025-12-01"
+  "timestamp": "2026-01-01T06:13:06.226222",
+  "scraped_date": "2026-01-01"
 }

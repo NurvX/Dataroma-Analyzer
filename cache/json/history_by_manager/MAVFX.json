@@ -382,7 +382,7 @@
       "date": "Q3 2025",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 8,
+      "shares": 16,
       "portfolio_percentage": 0.0,
       "company_name": "Technology Select Sect SPDR"
     },
@@ -2824,7 +2824,7 @@
       "date": "Q1 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 30,
+      "shares": 60,
       "portfolio_percentage": 0.0,
       "company_name": "Technology Select Sect SPDR"
     },
@@ -6014,7 +6014,7 @@
       "date": "Q2 2024",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 50,
+      "shares": 100,
       "portfolio_percentage": 0.0,
       "company_name": "Technology Select Sect SPDR"
     },
@@ -7873,7 +7873,7 @@
       "date": "Q4 2023",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 30,
+      "shares": 60,
       "portfolio_percentage": 0.0,
       "company_name": "Technology Select Sect SPDR"
     },
@@ -8654,7 +8654,7 @@
       "date": "Q3 2023",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 207,
+      "shares": 414,
       "portfolio_percentage": 0.0,
       "company_name": "Technology Select Sect SPDR"
     },
@@ -10337,7 +10337,7 @@
       "date": "Q1 2023",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 1467,
+      "shares": 2934,
       "portfolio_percentage": 0.03,
       "company_name": "Technology Select Sect SPDR"
     },
@@ -11002,6 +11002,6 @@
       "company_name": "Tyson Foods"
     }
   ],
-  "timestamp": "2025-12-01T06:13:07.774303",
-  "scraped_date": "2025-12-01"
+  "timestamp": "2026-01-01T06:13:06.472752",
+  "scraped_date": "2026-01-01"
 }

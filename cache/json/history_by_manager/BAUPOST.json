@@ -6657,7 +6657,7 @@
       "company_name": "XPO Logistics"
     },
     {
-      "symbol": "SPR",
+      "symbol": "SPR-OLD",
       "manager_id": "BAUPOST",
       "action": "Sell 100.00%",
       "date": "Q2 2020",
@@ -6844,7 +6844,7 @@
       "company_name": "Liberty SiriusXM Series C"
     },
     {
-      "symbol": "SPR",
+      "symbol": "SPR-OLD",
       "manager_id": "BAUPOST",
       "action": "Buy",
       "date": "Q1 2020",
@@ -10199,7 +10199,7 @@
       "company_name": "Silver Run Acquisition Corp."
     },
     {
-      "symbol": "ODP",
+      "symbol": "ODP-OLD",
       "manager_id": "BAUPOST",
       "action": "Sell 100.00%",
       "date": "Q4 2016",
@@ -10331,7 +10331,7 @@
       "company_name": "NorthStar Realty Finance Corp."
     },
     {
-      "symbol": "ODP",
+      "symbol": "ODP-OLD",
       "manager_id": "BAUPOST",
       "action": "Buy",
       "date": "Q3 2016",
@@ -11002,6 +11002,6 @@
       "company_name": "PBF Energy Inc."
     }
   ],
-  "timestamp": "2025-12-01T06:13:07.530244",
-  "scraped_date": "2025-12-01"
+  "timestamp": "2026-01-01T06:13:06.235706",
+  "scraped_date": "2026-01-01"
 }

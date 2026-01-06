@@ -7444,7 +7444,7 @@
       "date": "Q4 2021",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 100000,
+      "shares": 4000,
       "portfolio_percentage": 0.01,
       "company_name": "Argo Blockchain Plc"
     },
@@ -7851,7 +7851,7 @@
       "date": "Q3 2021",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 100000,
+      "shares": 4000,
       "portfolio_percentage": 0.01,
       "company_name": "Argo Blockchain Plc"
     },
@@ -11002,6 +11002,6 @@
       "company_name": "Microsoft Corp."
     }
   ],
-  "timestamp": "2025-12-01T06:13:07.337348",
-  "scraped_date": "2025-12-01"
+  "timestamp": "2026-01-01T06:13:06.049238",
+  "scraped_date": "2026-01-01"
 }

@@ -1080,7 +1080,7 @@
       "company_name": "Tenet Healthcare Corp."
     },
     {
-      "symbol": "ODP",
+      "symbol": "ODP-OLD",
       "manager_id": "GLRE",
       "action": "Sell 100.00%",
       "date": "Q4 2024",
@@ -1355,7 +1355,7 @@
       "company_name": "Graphic Packaging Hldg Co."
     },
     {
-      "symbol": "ODP",
+      "symbol": "ODP-OLD",
       "manager_id": "GLRE",
       "action": "Reduce 28.01%",
       "date": "Q3 2024",
@@ -1399,7 +1399,7 @@
       "company_name": "Sotera Health Co"
     },
     {
-      "symbol": "TLIS",
+      "symbol": "TLIS-OLD",
       "manager_id": "GLRE",
       "action": "Sell 100.00%",
       "date": "Q3 2024",
@@ -1443,7 +1443,7 @@
       "company_name": "Galapagos NV SP ADR"
     },
     {
-      "symbol": "ODP",
+      "symbol": "ODP-OLD",
       "manager_id": "GLRE",
       "action": "Add 29.92%",
       "date": "Q2 2024",
@@ -1927,7 +1927,7 @@
       "company_name": "Galapagos NV SP ADR"
     },
     {
-      "symbol": "ODP",
+      "symbol": "ODP-OLD",
       "manager_id": "GLRE",
       "action": "Reduce 2.15%",
       "date": "Q1 2024",
@@ -2158,7 +2158,7 @@
       "company_name": "Kyndryl Holdings Inc"
     },
     {
-      "symbol": "ODP",
+      "symbol": "ODP-OLD",
       "manager_id": "GLRE",
       "action": "Add 8.29%",
       "date": "Q4 2023",
@@ -2631,7 +2631,7 @@
       "company_name": "Gain Therapeutics Inc."
     },
     {
-      "symbol": "ODP",
+      "symbol": "ODP-OLD",
       "manager_id": "GLRE",
       "action": "Add 6.49%",
       "date": "Q3 2023",
@@ -2719,7 +2719,7 @@
       "company_name": "iShares Silver Trust"
     },
     {
-      "symbol": "TLIS",
+      "symbol": "TLIS-OLD",
       "manager_id": "GLRE",
       "action": "Add 0.00%",
       "date": "Q3 2023",
@@ -2994,7 +2994,7 @@
       "company_name": "NeuBase Therapeutics Inc."
     },
     {
-      "symbol": "TLIS",
+      "symbol": "TLIS-OLD",
       "manager_id": "GLRE",
       "action": "Reduce 0.00%",
       "date": "Q2 2023",
@@ -3016,7 +3016,7 @@
       "company_name": "Galapagos NV SP ADR"
     },
     {
-      "symbol": "ODP",
+      "symbol": "ODP-OLD",
       "manager_id": "GLRE",
       "action": "Reduce 7.12%",
       "date": "Q2 2023",
@@ -3412,7 +3412,7 @@
       "company_name": "Southwestern Energy"
     },
     {
-      "symbol": "ODP",
+      "symbol": "ODP-OLD",
       "manager_id": "GLRE",
       "action": "Reduce 1.17%",
       "date": "Q1 2023",
@@ -3550,7 +3550,7 @@
       "date": "Q1 2023",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 82100,
+      "shares": 2737,
       "portfolio_percentage": 0.01,
       "company_name": "Polestar Auto Hld WTS27 ADS"
     },
@@ -3577,7 +3577,7 @@
       "company_name": "Beachbody Company WTS 123127"
     },
     {
-      "symbol": "MEHCQ",
+      "symbol": "MEHCQ-OLD",
       "manager_id": "GLRE",
       "action": "Sell 100.00%",
       "date": "Q1 2023",
@@ -3786,7 +3786,7 @@
       "company_name": "iShares Silver Trust"
     },
     {
-      "symbol": "ODP",
+      "symbol": "ODP-OLD",
       "manager_id": "GLRE",
       "action": "Reduce 2.44%",
       "date": "Q4 2022",
@@ -4199,7 +4199,7 @@
       "date": "Q3 2022",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 14700,
+      "shares": 29400,
       "portfolio_percentage": 0.08,
       "company_name": "Energy Select Sector SPDR"
     },
@@ -4248,7 +4248,7 @@
       "company_name": "SPDR Gold Trust"
     },
     {
-      "symbol": "ODP",
+      "symbol": "ODP-OLD",
       "manager_id": "GLRE",
       "action": "Add 20.47%",
       "date": "Q2 2022",
@@ -4353,7 +4353,7 @@
       "date": "Q2 2022",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 82100,
+      "shares": 2736,
       "portfolio_percentage": 0.01,
       "company_name": "Polestar Auto Hld WTS27 ADS"
     },
@@ -4424,7 +4424,7 @@
       "company_name": "Chemours Co."
     },
     {
-      "symbol": "MEHCQ",
+      "symbol": "MEHCQ-OLD",
       "manager_id": "GLRE",
       "action": "Reduce 67.94%",
       "date": "Q2 2022",
@@ -4578,7 +4578,7 @@
       "company_name": "SPDR Gold Trust"
     },
     {
-      "symbol": "TLIS",
+      "symbol": "TLIS-OLD",
       "manager_id": "GLRE",
       "action": "Add 42.47%",
       "date": "Q1 2022",
@@ -4705,7 +4705,7 @@
       "date": "Q1 2022",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 14700,
+      "shares": 29400,
       "portfolio_percentage": 0.07,
       "company_name": "Energy Select Sector SPDR"
     },
@@ -4743,7 +4743,7 @@
       "company_name": "Green Brick Partners"
     },
     {
-      "symbol": "ODP",
+      "symbol": "ODP-OLD",
       "manager_id": "GLRE",
       "action": "Reduce 2.26%",
       "date": "Q1 2022",
@@ -4853,7 +4853,7 @@
       "company_name": "AST SpaceMobile Inc."
     },
     {
-      "symbol": "MEHCQ",
+      "symbol": "MEHCQ-OLD",
       "manager_id": "GLRE",
       "action": "Reduce 25.00%",
       "date": "Q1 2022",
@@ -5073,7 +5073,7 @@
       "company_name": "Jack in the Box Inc."
     },
     {
-      "symbol": "ODP",
+      "symbol": "ODP-OLD",
       "manager_id": "GLRE",
       "action": "Add 25.34%",
       "date": "Q4 2021",
@@ -5161,7 +5161,7 @@
       "company_name": "Galapagos NV SP ADR"
     },
     {
-      "symbol": "TLIS",
+      "symbol": "TLIS-OLD",
       "manager_id": "GLRE",
       "action": "Buy",
       "date": "Q4 2021",
@@ -5194,7 +5194,7 @@
       "company_name": "Cassava Sciences Inc."
     },
     {
-      "symbol": "MEHCQ",
+      "symbol": "MEHCQ-OLD",
       "manager_id": "GLRE",
       "action": "Buy",
       "date": "Q4 2021",
@@ -5546,7 +5546,7 @@
       "company_name": "LivaNova PLC"
     },
     {
-      "symbol": "ODP",
+      "symbol": "ODP-OLD",
       "manager_id": "GLRE",
       "action": "Add 77.29%",
       "date": "Q3 2021",
@@ -6129,7 +6129,7 @@
       "company_name": "Lion Electric Company WTS 050626"
     },
     {
-      "symbol": "ODP",
+      "symbol": "ODP-OLD",
       "manager_id": "GLRE",
       "action": "Add 799.37%",
       "date": "Q2 2021",
@@ -6921,7 +6921,7 @@
       "company_name": "FinServ Acquisition Corp. II Units"
     },
     {
-      "symbol": "ODP",
+      "symbol": "ODP-OLD",
       "manager_id": "GLRE",
       "action": "Buy",
       "date": "Q1 2021",
@@ -10287,7 +10287,7 @@
       "company_name": "Sprouts Farmers Market Inc."
     },
     {
-      "symbol": "ODP",
+      "symbol": "ODP-OLD",
       "manager_id": "GLRE",
       "action": "Sell 100.00%",
       "date": "Q2 2018",
@@ -10419,7 +10419,7 @@
       "company_name": "Sprouts Farmers Market Inc."
     },
     {
-      "symbol": "ODP",
+      "symbol": "ODP-OLD",
       "manager_id": "GLRE",
       "action": "Buy",
       "date": "Q1 2018",
@@ -11002,6 +11002,6 @@
       "company_name": "Signet Jewelers Ltd."
     }
   ],
-  "timestamp": "2025-12-01T06:13:07.372827",
-  "scraped_date": "2025-12-01"
+  "timestamp": "2026-01-01T06:13:06.083496",
+  "scraped_date": "2026-01-01"
 }

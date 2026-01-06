@@ -90,7 +90,7 @@
       "company_name": "Verisk Analytics Inc."
     },
     {
-      "symbol": "AMRK",
+      "symbol": "GOLD",
       "manager_id": "YAM",
       "action": "Buy",
       "date": "Q3 2025",
@@ -98,7 +98,7 @@
       "action_type": "Buy",
       "shares": 9000,
       "portfolio_percentage": 0.0,
-      "company_name": "A-Mark Precious Metals Inc."
+      "company_name": "Gold.com"
     },
     {
       "symbol": "UHAL",
@@ -1399,7 +1399,7 @@
       "company_name": "Teledyne Technologies"
     },
     {
-      "symbol": "AMRK",
+      "symbol": "GOLD",
       "manager_id": "YAM",
       "action": "Sell 100.00%",
       "date": "Q2 2025",
@@ -1407,7 +1407,7 @@
       "action_type": "Sell",
       "shares": 9000,
       "portfolio_percentage": 0.0,
-      "company_name": "A-Mark Precious Metals Inc."
+      "company_name": "Gold.com"
     },
     {
       "symbol": "HSY",
@@ -1872,7 +1872,7 @@
       "company_name": "Berkshire Hathaway CL B"
     },
     {
-      "symbol": "AMRK",
+      "symbol": "GOLD",
       "manager_id": "YAM",
       "action": "Reduce 21.74%",
       "date": "Q1 2025",
@@ -1880,7 +1880,7 @@
       "action_type": "Reduce",
       "shares": 2500,
       "portfolio_percentage": 0.0,
-      "company_name": "A-Mark Precious Metals Inc."
+      "company_name": "Gold.com"
     },
     {
       "symbol": "FANG",
@@ -3280,7 +3280,7 @@
       "company_name": "Legacy Housing Corp."
     },
     {
-      "symbol": "AMRK",
+      "symbol": "GOLD",
       "manager_id": "YAM",
       "action": "Reduce 54.00%",
       "date": "Q3 2024",
@@ -3288,7 +3288,7 @@
       "action_type": "Reduce",
       "shares": 13500,
       "portfolio_percentage": 0.01,
-      "company_name": "A-Mark Precious Metals Inc."
+      "company_name": "Gold.com"
     },
     {
       "symbol": "TDY",
@@ -3313,7 +3313,7 @@
       "company_name": "Exxon Mobil Corp."
     },
     {
-      "symbol": "K",
+      "symbol": "K-OLD",
       "manager_id": "YAM",
       "action": "Sell 100.00%",
       "date": "Q3 2024",
@@ -3390,7 +3390,7 @@
       "company_name": "Warner Bros. Discovery Inc."
     },
     {
-      "symbol": "K",
+      "symbol": "K-OLD",
       "manager_id": "YAM",
       "action": "Add 0.49%",
       "date": "Q2 2024",
@@ -3973,7 +3973,7 @@
       "company_name": "Verizon Communications"
     },
     {
-      "symbol": "AMRK",
+      "symbol": "GOLD",
       "manager_id": "YAM",
       "action": "Reduce 44.44%",
       "date": "Q2 2024",
@@ -3981,7 +3981,7 @@
       "action_type": "Reduce",
       "shares": 20000,
       "portfolio_percentage": 0.01,
-      "company_name": "A-Mark Precious Metals Inc."
+      "company_name": "Gold.com"
     },
     {
       "symbol": "FHB",
@@ -4182,7 +4182,7 @@
       "company_name": "Warner Bros. Discovery Inc."
     },
     {
-      "symbol": "K",
+      "symbol": "K-OLD",
       "manager_id": "YAM",
       "action": "Buy",
       "date": "Q1 2024",
@@ -4776,7 +4776,7 @@
       "company_name": "GrafTech International Ltd."
     },
     {
-      "symbol": "AMRK",
+      "symbol": "GOLD",
       "manager_id": "YAM",
       "action": "Add 21.62%",
       "date": "Q4 2023",
@@ -4784,7 +4784,7 @@
       "action_type": "Add",
       "shares": 8000,
       "portfolio_percentage": 0.0,
-      "company_name": "A-Mark Precious Metals Inc."
+      "company_name": "Gold.com"
     },
     {
       "symbol": "DVN",
@@ -5546,7 +5546,7 @@
       "company_name": "Verizon Communications"
     },
     {
-      "symbol": "AMRK",
+      "symbol": "GOLD",
       "manager_id": "YAM",
       "action": "Buy",
       "date": "Q3 2023",
@@ -5554,7 +5554,7 @@
       "action_type": "Buy",
       "shares": 37000,
       "portfolio_percentage": 0.01,
-      "company_name": "A-Mark Precious Metals Inc."
+      "company_name": "Gold.com"
     },
     {
       "symbol": "NTRS",
@@ -11002,6 +11002,6 @@
       "company_name": "Procter & Gamble"
     }
   ],
-  "timestamp": "2025-12-01T06:13:07.661583",
-  "scraped_date": "2025-12-01"
+  "timestamp": "2026-01-01T06:13:06.363225",
+  "scraped_date": "2026-01-01"
 }

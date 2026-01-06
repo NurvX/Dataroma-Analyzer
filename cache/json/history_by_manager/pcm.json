@@ -134,7 +134,7 @@
       "company_name": "Brookdale Senior Living Inc."
     },
     {
-      "symbol": "MRUS",
+      "symbol": "MRUS-OLD",
       "manager_id": "pcm",
       "action": "Add 96.43%",
       "date": "Q3 2025",
@@ -1438,7 +1438,7 @@
       "date": "Q3 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 52819,
+      "shares": 264095,
       "portfolio_percentage": 0.16,
       "company_name": "ServiceNow Inc."
     },
@@ -3264,7 +3264,7 @@
       "date": "Q2 2025",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 227167,
+      "shares": 1135835,
       "portfolio_percentage": 0.72,
       "company_name": "ServiceNow Inc."
     },
@@ -4391,7 +4391,7 @@
       "company_name": "Miller Industries Inc."
     },
     {
-      "symbol": "MRUS",
+      "symbol": "MRUS-OLD",
       "manager_id": "pcm",
       "action": "Buy",
       "date": "Q2 2025",
@@ -7235,7 +7235,7 @@
       "date": "Q1 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 684867,
+      "shares": 3424335,
       "portfolio_percentage": 1.71,
       "company_name": "ServiceNow Inc."
     },
@@ -8687,7 +8687,7 @@
       "date": "Q4 2024",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 589149,
+      "shares": 2945745,
       "portfolio_percentage": 1.69,
       "company_name": "ServiceNow Inc."
     },
@@ -9831,7 +9831,7 @@
       "date": "Q3 2024",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 259054,
+      "shares": 1295270,
       "portfolio_percentage": 0.6,
       "company_name": "ServiceNow Inc."
     },
@@ -11002,6 +11002,6 @@
       "company_name": "BlackLine Inc."
     }
   ],
-  "timestamp": "2025-12-01T06:13:07.620349",
-  "scraped_date": "2025-12-01"
+  "timestamp": "2026-01-01T06:13:06.323082",
+  "scraped_date": "2026-01-01"
 }

@@ -6762,7 +6762,7 @@
       "date": "Q4 2022",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 23700,
+      "shares": 71100,
       "portfolio_percentage": 0.21,
       "company_name": "Texas Pacific Land Corp."
     },
@@ -8632,7 +8632,7 @@
       "date": "Q4 2021",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 3000,
+      "shares": 9000,
       "portfolio_percentage": 0.01,
       "company_name": "Texas Pacific Land Corp."
     },
@@ -9006,7 +9006,7 @@
       "date": "Q3 2021",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 7200,
+      "shares": 21600,
       "portfolio_percentage": 0.04,
       "company_name": "Texas Pacific Land Corp."
     },
@@ -9677,7 +9677,7 @@
       "date": "Q2 2021",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 13500,
+      "shares": 40500,
       "portfolio_percentage": 0.09,
       "company_name": "Texas Pacific Land Corp."
     },
@@ -11002,6 +11002,6 @@
       "company_name": "Wells Fargo"
     }
   ],
-  "timestamp": "2025-12-01T06:13:07.681353",
-  "scraped_date": "2025-12-01"
+  "timestamp": "2026-01-01T06:13:06.382234",
+  "scraped_date": "2026-01-01"
 }

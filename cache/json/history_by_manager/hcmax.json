@@ -1476,7 +1476,7 @@
       "company_name": "Bank of New York Mellon Corp."
     },
     {
-      "symbol": "K",
+      "symbol": "K-OLD",
       "manager_id": "hcmax",
       "action": "Sell 100.00%",
       "date": "Q3 2024",
@@ -1542,7 +1542,7 @@
       "company_name": "Anheuser-Busch InBev"
     },
     {
-      "symbol": "K",
+      "symbol": "K-OLD",
       "manager_id": "hcmax",
       "action": "Reduce 12.92%",
       "date": "Q2 2024",
@@ -1729,7 +1729,7 @@
       "company_name": "Intel Corp."
     },
     {
-      "symbol": "K",
+      "symbol": "K-OLD",
       "manager_id": "hcmax",
       "action": "Add 15.31%",
       "date": "Q1 2024",
@@ -1872,7 +1872,7 @@
       "company_name": "Nordstrom"
     },
     {
-      "symbol": "K",
+      "symbol": "K-OLD",
       "manager_id": "hcmax",
       "action": "Add 25.64%",
       "date": "Q4 2023",
@@ -2598,7 +2598,7 @@
       "company_name": "Kraft Heinz Co."
     },
     {
-      "symbol": "K",
+      "symbol": "K-OLD",
       "manager_id": "hcmax",
       "action": "Reduce 29.09%",
       "date": "Q3 2022",
@@ -3159,7 +3159,7 @@
       "company_name": "Compass Minerals International Inc."
     },
     {
-      "symbol": "K",
+      "symbol": "K-OLD",
       "manager_id": "hcmax",
       "action": "Add 14.58%",
       "date": "Q3 2021",
@@ -3313,7 +3313,7 @@
       "company_name": "Meta Platforms Inc."
     },
     {
-      "symbol": "K",
+      "symbol": "K-OLD",
       "manager_id": "hcmax",
       "action": "Add 70.52%",
       "date": "Q1 2021",
@@ -3731,7 +3731,7 @@
       "company_name": "JPMorgan Chase & Co."
     },
     {
-      "symbol": "K",
+      "symbol": "K-OLD",
       "manager_id": "hcmax",
       "action": "Add 21.60%",
       "date": "Q4 2020",
@@ -4138,7 +4138,7 @@
       "company_name": "Labcorp Holdings Inc."
     },
     {
-      "symbol": "K",
+      "symbol": "K-OLD",
       "manager_id": "hcmax",
       "action": "Add 12.93%",
       "date": "Q1 2020",
@@ -4512,7 +4512,7 @@
       "company_name": "Kraft Heinz Co."
     },
     {
-      "symbol": "K",
+      "symbol": "K-OLD",
       "manager_id": "hcmax",
       "action": "Add 24.24%",
       "date": "Q4 2019",
@@ -4864,7 +4864,7 @@
       "company_name": "Stericycle Inc."
     },
     {
-      "symbol": "K",
+      "symbol": "K-OLD",
       "manager_id": "hcmax",
       "action": "Add 17.86%",
       "date": "Q3 2019",
@@ -5018,7 +5018,7 @@
       "company_name": "DuPont de Nemours Inc."
     },
     {
-      "symbol": "K",
+      "symbol": "K-OLD",
       "manager_id": "hcmax",
       "action": "Buy",
       "date": "Q2 2019",
@@ -5139,7 +5139,7 @@
       "company_name": "Dunkin Brands Group"
     },
     {
-      "symbol": "ODP",
+      "symbol": "ODP-OLD",
       "manager_id": "hcmax",
       "action": "Sell 100.00%",
       "date": "Q2 2019",
@@ -5205,7 +5205,7 @@
       "company_name": "Westinghouse Air Brake Technologies"
     },
     {
-      "symbol": "ODP",
+      "symbol": "ODP-OLD",
       "manager_id": "hcmax",
       "action": "Reduce 14.57%",
       "date": "Q1 2019",
@@ -5667,7 +5667,7 @@
       "company_name": "Medtronic plc"
     },
     {
-      "symbol": "ODP",
+      "symbol": "ODP-OLD",
       "manager_id": "hcmax",
       "action": "Buy",
       "date": "Q4 2017",
@@ -5975,7 +5975,7 @@
       "company_name": "Staples Inc."
     },
     {
-      "symbol": "ODP",
+      "symbol": "ODP-OLD",
       "manager_id": "hcmax",
       "action": "Sell 100.00%",
       "date": "Q3 2017",
@@ -6151,7 +6151,7 @@
       "company_name": "Amazon.com Inc."
     },
     {
-      "symbol": "ODP",
+      "symbol": "ODP-OLD",
       "manager_id": "hcmax",
       "action": "Reduce 99.20%",
       "date": "Q2 2017",
@@ -6492,7 +6492,7 @@
       "company_name": "Nordstrom"
     },
     {
-      "symbol": "ODP",
+      "symbol": "ODP-OLD",
       "manager_id": "hcmax",
       "action": "Buy",
       "date": "Q2 2016",
@@ -6998,7 +6998,7 @@
       "company_name": "Goldman Sachs Group"
     },
     {
-      "symbol": "K",
+      "symbol": "K-OLD",
       "manager_id": "hcmax",
       "action": "Sell 100.00%",
       "date": "Q3 2015",
@@ -7537,7 +7537,7 @@
       "company_name": "Walmart Inc."
     },
     {
-      "symbol": "K",
+      "symbol": "K-OLD",
       "manager_id": "hcmax",
       "action": "Buy",
       "date": "Q1 2014",
@@ -8307,7 +8307,7 @@
       "company_name": "Best Buy Co. Inc."
     },
     {
-      "symbol": "K",
+      "symbol": "K-OLD",
       "manager_id": "hcmax",
       "action": "Sell 100.00%",
       "date": "Q2 2013",
@@ -8450,7 +8450,7 @@
       "company_name": "Best Buy Co. Inc."
     },
     {
-      "symbol": "K",
+      "symbol": "K-OLD",
       "manager_id": "hcmax",
       "action": "Add 12.11%",
       "date": "Q1 2013",
@@ -8813,7 +8813,7 @@
       "company_name": "Joy Global Inc."
     },
     {
-      "symbol": "K",
+      "symbol": "K-OLD",
       "manager_id": "hcmax",
       "action": "Buy",
       "date": "Q3 2012",
@@ -11002,6 +11002,6 @@
       "company_name": "Aetna Inc."
     }
   ],
-  "timestamp": "2025-12-01T06:13:07.802750",
-  "scraped_date": "2025-12-01"
+  "timestamp": "2026-01-01T06:13:06.500257",
+  "scraped_date": "2026-01-01"
 }

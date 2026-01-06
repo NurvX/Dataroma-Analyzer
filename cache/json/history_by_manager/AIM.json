@@ -4677,7 +4677,7 @@
       "company_name": "Tenneco Inc."
     },
     {
-      "symbol": "SCS",
+      "symbol": "SCS-OLD",
       "manager_id": "AIM",
       "action": "Sell 100.00%",
       "date": "Q2 2018",
@@ -4842,7 +4842,7 @@
       "company_name": "Eastman Chemical"
     },
     {
-      "symbol": "SCS",
+      "symbol": "SCS-OLD",
       "manager_id": "AIM",
       "action": "Reduce 25.46%",
       "date": "Q1 2018",
@@ -5161,7 +5161,7 @@
       "company_name": "Alaska Air Group"
     },
     {
-      "symbol": "SCS",
+      "symbol": "SCS-OLD",
       "manager_id": "AIM",
       "action": "Reduce 1.01%",
       "date": "Q3 2017",
@@ -5458,7 +5458,7 @@
       "company_name": "American Axle & Manufacturing Holdings"
     },
     {
-      "symbol": "SCS",
+      "symbol": "SCS-OLD",
       "manager_id": "AIM",
       "action": "Reduce 4.78%",
       "date": "Q2 2017",
@@ -5557,7 +5557,7 @@
       "company_name": "Ralph Lauren Corp."
     },
     {
-      "symbol": "ODP",
+      "symbol": "ODP-OLD",
       "manager_id": "AIM",
       "action": "Sell 100.00%",
       "date": "Q2 2017",
@@ -5678,7 +5678,7 @@
       "company_name": "O-I Glass Inc."
     },
     {
-      "symbol": "SCS",
+      "symbol": "SCS-OLD",
       "manager_id": "AIM",
       "action": "Add 12.66%",
       "date": "Q1 2017",
@@ -5777,7 +5777,7 @@
       "company_name": "Harman Int'l Industries"
     },
     {
-      "symbol": "ODP",
+      "symbol": "ODP-OLD",
       "manager_id": "AIM",
       "action": "Reduce 26.57%",
       "date": "Q1 2017",
@@ -5920,7 +5920,7 @@
       "company_name": "ARRIS International plc"
     },
     {
-      "symbol": "SCS",
+      "symbol": "SCS-OLD",
       "manager_id": "AIM",
       "action": "Buy",
       "date": "Q4 2016",
@@ -5986,7 +5986,7 @@
       "company_name": "Babcock & Wilcox Enterprises"
     },
     {
-      "symbol": "ODP",
+      "symbol": "ODP-OLD",
       "manager_id": "AIM",
       "action": "Reduce 0.64%",
       "date": "Q4 2016",
@@ -6096,7 +6096,7 @@
       "company_name": "Robert Half International"
     },
     {
-      "symbol": "SPR",
+      "symbol": "SPR-OLD",
       "manager_id": "AIM",
       "action": "Sell 100.00%",
       "date": "Q4 2016",
@@ -6184,7 +6184,7 @@
       "company_name": "Magna International Inc."
     },
     {
-      "symbol": "ODP",
+      "symbol": "ODP-OLD",
       "manager_id": "AIM",
       "action": "Buy",
       "date": "Q3 2016",
@@ -6261,7 +6261,7 @@
       "company_name": "Robert Half International"
     },
     {
-      "symbol": "SPR",
+      "symbol": "SPR-OLD",
       "manager_id": "AIM",
       "action": "Reduce 36.44%",
       "date": "Q3 2016",
@@ -6360,7 +6360,7 @@
       "company_name": "Goodyear Tire & Rubber"
     },
     {
-      "symbol": "SPR",
+      "symbol": "SPR-OLD",
       "manager_id": "AIM",
       "action": "Buy",
       "date": "Q2 2016",
@@ -9858,6 +9858,6 @@
       "company_name": "GEO Group Inc."
     }
   ],
-  "timestamp": "2025-12-01T06:13:07.412996",
-  "scraped_date": "2025-12-01"
+  "timestamp": "2026-01-01T06:13:06.122587",
+  "scraped_date": "2026-01-01"
 }

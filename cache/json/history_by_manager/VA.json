@@ -2389,7 +2389,7 @@
       "company_name": "Morgan Stanley"
     },
     {
-      "symbol": "NKLAQ",
+      "symbol": "NKLAQ-OLD",
       "manager_id": "VA",
       "action": "Sell 100.00%",
       "date": "Q3 2020",
@@ -2532,7 +2532,7 @@
       "company_name": "CBRE Group"
     },
     {
-      "symbol": "NKLAQ",
+      "symbol": "NKLAQ-OLD",
       "manager_id": "VA",
       "action": "Buy",
       "date": "Q2 2020",
@@ -6778,6 +6778,6 @@
       "company_name": "New York Times CL A"
     }
   ],
-  "timestamp": "2025-12-01T06:13:07.346911",
-  "scraped_date": "2025-12-01"
+  "timestamp": "2026-01-01T06:13:06.058427",
+  "scraped_date": "2026-01-01"
 }

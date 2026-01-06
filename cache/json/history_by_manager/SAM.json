@@ -558,7 +558,7 @@
       "date": "Q3 2024",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 1144435,
+      "shares": 163491,
       "portfolio_percentage": 10.49,
       "company_name": "Hudson Pacific Properties Inc."
     },
@@ -624,7 +624,7 @@
       "date": "Q2 2024",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 1144435,
+      "shares": 163490,
       "portfolio_percentage": 10.49,
       "company_name": "Hudson Pacific Properties Inc."
     },
@@ -750,7 +750,7 @@
       "company_name": "BP plc"
     },
     {
-      "symbol": "VTLE",
+      "symbol": "VTLE-OLD",
       "manager_id": "SAM",
       "action": "Sell 100.00%",
       "date": "Q2 2024",
@@ -849,7 +849,7 @@
       "company_name": "Safe Bulkers Inc"
     },
     {
-      "symbol": "VTLE",
+      "symbol": "VTLE-OLD",
       "manager_id": "SAM",
       "action": "Add 42.86%",
       "date": "Q1 2024",
@@ -1245,7 +1245,7 @@
       "company_name": "Warner Bros. Discovery Inc."
     },
     {
-      "symbol": "VTLE",
+      "symbol": "VTLE-OLD",
       "manager_id": "SAM",
       "action": "Buy",
       "date": "Q4 2023",
@@ -1427,7 +1427,7 @@
       "date": "Q4 2023",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 400000,
+      "shares": 57143,
       "portfolio_percentage": 6.06,
       "company_name": "Hudson Pacific Properties Inc."
     },
@@ -1482,7 +1482,7 @@
       "date": "Q3 2023",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 150000,
+      "shares": 21428,
       "portfolio_percentage": 2.27,
       "company_name": "Hudson Pacific Properties Inc."
     },
@@ -1630,7 +1630,7 @@
       "company_name": "MGM Resorts International"
     },
     {
-      "symbol": "VTLE",
+      "symbol": "VTLE-OLD",
       "manager_id": "SAM",
       "action": "Sell 100.00%",
       "date": "Q3 2023",
@@ -1729,7 +1729,7 @@
       "company_name": "iHeartMedia Inc."
     },
     {
-      "symbol": "HBI",
+      "symbol": "HBI-OLD",
       "manager_id": "SAM",
       "action": "Sell 100.00%",
       "date": "Q3 2023",
@@ -1916,7 +1916,7 @@
       "company_name": "Stellantis N.V."
     },
     {
-      "symbol": "VTLE",
+      "symbol": "VTLE-OLD",
       "manager_id": "SAM",
       "action": "Buy",
       "date": "Q2 2023",
@@ -2004,7 +2004,7 @@
       "company_name": "iHeartMedia Inc."
     },
     {
-      "symbol": "HBI",
+      "symbol": "HBI-OLD",
       "manager_id": "SAM",
       "action": "Buy",
       "date": "Q2 2023",
@@ -2043,7 +2043,7 @@
       "date": "Q2 2023",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 250000,
+      "shares": 35714,
       "portfolio_percentage": 0.95,
       "company_name": "Hudson Pacific Properties Inc."
     },
@@ -5601,6 +5601,6 @@
       "company_name": "Mohawk Industries"
     }
   ],
-  "timestamp": "2025-12-01T06:13:07.676457",
-  "scraped_date": "2025-12-01"
+  "timestamp": "2026-01-01T06:13:06.377467",
+  "scraped_date": "2026-01-01"
 }
