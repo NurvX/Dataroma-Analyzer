@@ -1,101 +1,101 @@
 ticker,ticker,manager,manager,portfolio_percent,value,recent_actions,action_details,periods,change_type,concentration_score
-CVNA,Carvana Co.,CAS,Clifford Sosin,82.26,1844581000,"['Reduce', 'Reduce', 'Reduce']",Reduce 0.66%; Reduce 13.42%; Reduce 10.86%,"Q3 2025, Q2 2025, Q1 2025",Reduced,82.26
-JOE,St. Joe Co.,fairx,Bruce Berkowitz,78.19,968738000,"['Reduce', 'Reduce', 'Reduce']",Reduce 3.10%; Reduce 0.01%; Reduce 1.99%,"Q3 2025, Q2 2025, Q1 2025",Reduced,78.19
+MOH,Molina Healthcare Inc.,SAM,Michael Burry,43.49,23920000,['Buy'],Buy,Q3 2025,New High Conviction,86.98
+CVNA,Carvana Co.,CAS,Clifford Sosin,82.26,1844581000,"['Reduce', 'Reduce']",Reduce 0.66%; Reduce 13.42%,"Q3 2025, Q2 2025",Reduced,82.26
+JOE,St. Joe Co.,fairx,Bruce Berkowitz,78.19,968738000,"['Reduce', 'Reduce']",Reduce 3.10%; Reduce 0.01%,"Q3 2025, Q2 2025",Reduced,78.19
 IEP,Icahn Enterprises,ic,Carl Icahn,47.8,4369415000,"['Add', 'Add']",Add 4.88%; Add 9.76%,"Q3 2025, Q2 2025",Increased,71.69999999999999
 LULU,Lululemon Athletica Inc.,SAM,Michael Burry,32.35,17793000,"['Add', 'Buy']",Add 100.00%; Buy,"Q3 2025, Q2 2025",New High Conviction,64.7
-AAPL,Apple Inc.,HH,Duan Yongping,60.42,8868536000,"['Reduce', 'Add', 'Reduce']",Reduce 0.82%; Add 2.61%; Reduce 16.25%,"Q3 2025, Q2 2025, Q1 2025",Reduced,60.42
-HCC,Warrior Met Coal Inc.,PI,Mohnish Pabrai,34.0,114541000,"['Add', 'Add', 'Add']",Add 0.00%; Add 0.01%; Add 5.57%,"Q3 2025, Q2 2025, Q1 2025",Increased,51.0
+AAPL,Apple Inc.,HH,Duan Yongping,60.42,8868536000,"['Reduce', 'Add']",Reduce 0.82%; Add 2.61%,"Q3 2025, Q2 2025",Reduced,60.42
+HCC,Warrior Met Coal Inc.,PI,Mohnish Pabrai,34.0,114541000,"['Add', 'Add']",Add 0.00%; Add 0.01%,"Q3 2025, Q2 2025",Increased,51.0
 SLM,SLM Corp.,SAM,Michael Burry,24.16,13288000,['Buy'],Buy,Q3 2025,New High Conviction,48.32
+AMZN,Amazon.com Inc.,AP,AltaRock Partners,30.34,1659566000,"['Add', 'Add']",Add 20.43%; Add 20.63%,"Q3 2025, Q2 2025",Increased,45.51
 RIG,Transocean Ltd.,PI,Mohnish Pabrai,22.64,76260000,['Buy'],Buy,Q3 2025,New High Conviction,45.28
-MOH,Molina Healthcare Inc.,SAM,Michael Burry,43.49,23920000,"['Buy', 'Sell']",Buy; Sell 100.00%,"Q3 2025, Q1 2025",Partial Exit,43.49
-CVI,CVR Energy Inc.,ic,Carl Icahn,28.1,2568866000,"['Add', 'Add']",Add 2.75%; Add 2.76%,"Q2 2025, Q1 2025",Increased,42.150000000000006
+CVI,CVR Energy Inc.,ic,Carl Icahn,28.1,2568866000,['Add'],Add 2.75%,Q2 2025,Increased,42.150000000000006
 LOAR,Loar Holdings Inc,abc,David Abrams,41.56,2564019000,['Reduce'],Reduce 14.37%,Q2 2025,Reduced,41.56
 GPI,Group 1 Automotive,CM,Greg Alexander,39.41,248691000,,,,Maintained,39.41
+AMR,Alpha Metallurgical Resources Inc.,PI,Mohnish Pabrai,25.91,87296000,"['Add', 'Add']",Add 15.57%; Add 11.02%,"Q3 2025, Q2 2025",Increased,38.865
 PDD,Pinduoduo Inc.,HC,Li Lu,18.85,609039000,['Buy'],Buy,Q2 2025,New High Conviction,37.7
-YETI,YETI Holdings Inc.,ENG,Glenn Welling,17.66,71986000,"['Add', 'Add', 'Buy']",Add 0.33%; Add 40.10%; Buy,"Q3 2025, Q2 2025, Q1 2025",New High Conviction,35.32
 JHG,Janus Henderson Group,TF,Nelson Peltz,34.53,1418436000,,,,Maintained,34.53
-BRK.A,Berkshire Hathaway CL A,PC,Norbert Lou,33.92,109359000,['Reduce'],Reduce 58.45%,Q1 2025,Reduced,33.92
+BRK.A,Berkshire Hathaway CL A,PC,Norbert Lou,33.92,109359000,,,,Maintained,33.92
 EQH,Equitable Holdings Inc.,CM,Greg Alexander,33.8,213276000,['Reduce'],Reduce 16.00%,Q3 2025,Reduced,33.8
+BRK.B,Berkshire Hathaway CL B,aq,Guy Spier - Aquamarine Capital,33.25,49059000,['Reduce'],Reduce 30.58%,Q4 2025,Reduced,33.25
 CROX,Crocs Inc.,PC,Norbert Lou,16.38,52824000,"['Add', 'Buy']",Add 19.04%; Buy,"Q3 2025, Q2 2025",New High Conviction,32.76
 BRK.A,Berkshire Hathaway CL A,ca,Francis Chou,31.22,64861000,,,,Maintained,31.22
-CVNA,Carvana Co.,RVC,Robert Vinall,30.75,167968000,"['Reduce', 'Reduce']",Reduce 12.76%; Reduce 6.79%,"Q3 2025, Q2 2025",Reduced,30.75
-IBKR,Interactive Brokers Group Inc.,OCL,Bryan Lawrence,30.61,70925000,['Reduce'],Reduce 14.01%,Q1 2025,Reduced,30.61
-AMZN,Amazon.com Inc.,AP,AltaRock Partners,30.34,1659566000,"['Add', 'Add', 'Reduce']",Add 20.43%; Add 20.63%; Reduce 1.44%,"Q3 2025, Q2 2025, Q1 2025",Reduced,30.34
-ASML,ASML Holding NV,DA,Pat Dorsey,15.07,167698000,"['Add', 'Add', 'Buy']",Add 23.74%; Add 98.37%; Buy,"Q3 2025, Q2 2025, Q1 2025",New High Conviction,30.14
-BRK.B,Berkshire Hathaway CL B,GFT,Bill & Melinda Gates Foundation Trust,29.91,10942249000,"['Reduce', 'Add', 'Reduce']",Reduce 9.78%; Add 40.48%; Reduce 12.63%,"Q3 2025, Q2 2025, Q1 2025",Reduced,29.91
+IBKR,Interactive Brokers Group Inc.,OCL,Bryan Lawrence,30.61,70925000,,,,Maintained,30.61
+BRK.B,Berkshire Hathaway CL B,GFT,Bill & Melinda Gates Foundation Trust,29.91,10942249000,"['Reduce', 'Add']",Reduce 9.78%; Add 40.48%,"Q3 2025, Q2 2025",Reduced,29.91
+CVNA,Carvana Co.,RVC,Robert Vinall,29.81,128042000,"['Reduce', 'Reduce', 'Reduce']",Reduce 31.86%; Reduce 12.76%; Reduce 6.79%,"Q4 2025, Q3 2025, Q2 2025",Reduced,29.81
 ORLA,Orla Mining Ltd,FFH,Prem Watsa,29.57,610477000,,,,Maintained,29.57
 GE,GE Aerospace,TF,Nelson Peltz,29.52,1212369000,,,,Maintained,29.52
-LEN,Lennar Corp.,GA,Greenhaven Associates,18.5,1216714000,"['Add', 'Add', 'Add']",Add 1.68%; Add 0.57%; Add 3.00%,"Q3 2025, Q2 2025, Q1 2025",Increased,27.75
-FICO,Fair Isaac Corp.,VFC,Valley Forge Capital Management,27.66,1149967000,['Reduce'],Reduce 2.00%,Q1 2025,Reduced,27.66
+FICO,Fair Isaac Corp.,VFC,Valley Forge Capital Management,27.66,1149967000,,,,Maintained,27.66
 GRBK,Green Brick Partners,GLRE,David Einhorn,27.51,699261000,,,,Maintained,27.51
-GE,GE Aerospace,tci,Chris Hohn,27.12,14292088000,"['Reduce', 'Add']",Reduce 0.13%; Add 3.42%,"Q2 2025, Q1 2025",Reduced,27.12
+V,Visa Inc.,tci,Chris Hohn,18.18,9578218000,"['Add', 'Add']",Add 47.15%; Add 14.61%,"Q3 2025, Q2 2025",Increased,27.27
+GE,GE Aerospace,tci,Chris Hohn,27.12,14292088000,['Reduce'],Reduce 0.13%,Q2 2025,Reduced,27.12
 PYPL,PayPal Holdings Inc.,PC,Norbert Lou,13.53,43619000,['Buy'],Buy,Q2 2025,New High Conviction,27.06
 OKTA,Okta Inc.,SP,Dennis Hong,13.5,90828000,"['Add', 'Buy']",Add 3.79%; Buy,"Q3 2025, Q2 2025",New High Conviction,27.0
-GOOGL,Alphabet Inc.,LT,Lindsell Train,13.32,543109000,"['Add', 'Add', 'Buy']",Add 10.15%; Add 11028.80%; Buy,"Q3 2025, Q2 2025, Q1 2025",New High Conviction,26.64
-AMR,Alpha Metallurgical Resources Inc.,PI,Mohnish Pabrai,25.91,87296000,"['Add', 'Add', 'Reduce']",Add 15.57%; Add 11.02%; Reduce 14.91%,"Q3 2025, Q2 2025, Q1 2025",Reduced,25.91
-PDD,Pinduoduo Inc.,PC,Norbert Lou,17.01,54851000,"['Add', 'Add']",Add 35.29%; Add 135.96%,"Q2 2025, Q1 2025",Increased,25.515
+BRK.B,Berkshire Hathaway CL B,HH,Duan Yongping,17.78,2609874000,['Add'],Add 53.53%,Q3 2025,Increased,26.67
+YETI,YETI Holdings Inc.,ENG,Glenn Welling,17.66,71986000,"['Add', 'Add']",Add 0.33%; Add 40.10%,"Q3 2025, Q2 2025",Increased,26.49
 GIL,Gildan Activewear Inc.,OCL,Bryan Lawrence,17.01,39402000,['Add'],Add 11.44%,Q2 2025,Increased,25.515
+PDD,Pinduoduo Inc.,PC,Norbert Lou,17.01,54851000,['Add'],Add 35.29%,Q2 2025,Increased,25.515
+LEN,Lennar Corp.,GA,Greenhaven Associates,16.82,1037678000,"['Add', 'Add', 'Add']",Add 4.57%; Add 1.68%; Add 0.57%,"Q4 2025, Q3 2025, Q2 2025",Increased,25.23
 AXTA,Axalta Coating Systems Ltd.,AIM,Alex Roepers,12.56,21866000,['Buy'],Buy,Q3 2025,New High Conviction,25.12
-CCL,Carnival Corp.,CAU,Sarah Ketterer,12.22,922576000,"['Add', 'Add', 'Buy']",Add 9.56%; Add 9.65%; Buy,"Q3 2025, Q2 2025, Q1 2025",New High Conviction,24.44
-MSFT,Microsoft Corp.,AP,AltaRock Partners,24.33,1330752000,"['Reduce', 'Add']",Reduce 0.36%; Add 36.32%,"Q3 2025, Q1 2025",Reduced,24.33
-BRK.B,Berkshire Hathaway CL B,SA,Christopher Bloomstran,15.7,125805000,"['Add', 'Add', 'Add']",Add 1.45%; Add 3.06%; Add 0.54%,"Q3 2025, Q2 2025, Q1 2025",Increased,23.55
-TDG,TransDigm Group Inc.,AP,AltaRock Partners,23.53,1286904000,"['Reduce', 'Reduce']",Reduce 0.36%; Reduce 2.06%,"Q3 2025, Q1 2025",Reduced,23.53
-ASML,ASML Holding NV,TFP,Triple Frond Partners,11.76,107913000,"['Add', 'Buy']",Add 40.57%; Buy,"Q3 2025, Q1 2025",New High Conviction,23.52
-CHTR,Charter Communications,MP,Tom Bancroft,23.17,45117000,"['Reduce', 'Reduce']",Reduce 18.07%; Reduce 46.36%,"Q3 2025, Q1 2025",Reduced,23.17
+MSFT,Microsoft Corp.,AP,AltaRock Partners,24.33,1330752000,['Reduce'],Reduce 0.36%,Q3 2025,Reduced,24.33
+BRK.B,Berkshire Hathaway CL B,SA,Christopher Bloomstran,15.7,125805000,"['Add', 'Add']",Add 1.45%; Add 3.06%,"Q3 2025, Q2 2025",Increased,23.55
+TDG,TransDigm Group Inc.,AP,AltaRock Partners,23.53,1286904000,['Reduce'],Reduce 0.36%,Q3 2025,Reduced,23.53
+CHTR,Charter Communications,MP,Tom Bancroft,23.17,45117000,['Reduce'],Reduce 18.07%,Q3 2025,Reduced,23.17
 AAPL,Apple Inc.,BRK,Warren Buffett,22.69,60656116000,"['Reduce', 'Reduce']",Reduce 14.92%; Reduce 6.67%,"Q3 2025, Q2 2025",Reduced,22.69
-FLUT,Flutter Entertainment Plc,AKO,AKO Capital,11.33,796701000,"['Add', 'Add', 'Buy']",Add 4.94%; Add 14.77%; Buy,"Q3 2025, Q2 2025, Q1 2025",New High Conviction,22.66
-BRK.B,Berkshire Hathaway CL B,aq,Guy Spier - Aquamarine Capital,22.27,70685000,,,,Maintained,22.27
-AXP,American Express,aq,Guy Spier - Aquamarine Capital,21.98,69754000,,,,Maintained,21.98
-MSFT,Microsoft Corp.,TFP,Triple Frond Partners,21.73,199503000,"['Reduce', 'Add']",Reduce 4.43%; Add 44.74%,"Q3 2025, Q1 2025",Reduced,21.73
-GM,General Motors,GA,Greenhaven Associates,21.39,1406234000,"['Reduce', 'Reduce', 'Add']",Reduce 2.49%; Reduce 0.53%; Add 0.24%,"Q3 2025, Q2 2025, Q1 2025",Reduced,21.39
+ASML,ASML Holding NV,DA,Pat Dorsey,15.07,167698000,"['Add', 'Add']",Add 23.74%; Add 98.37%,"Q3 2025, Q2 2025",Increased,22.605
+MSFT,Microsoft Corp.,TFP,Triple Frond Partners,21.73,199503000,['Reduce'],Reduce 4.43%,Q3 2025,Reduced,21.73
+META,Meta Platforms Inc.,RVC,Robert Vinall,20.95,89978000,"['Reduce', 'Reduce']",Reduce 2.43%; Reduce 2.29%,"Q4 2025, Q3 2025",Reduced,20.95
 OXY,Occidental Petroleum,FFH,Prem Watsa,13.85,285943000,['Add'],Add 0.50%,Q2 2025,Increased,20.775
-VFC,V.F. Corp.,ENG,Glenn Welling,20.75,84594000,"['Add', 'Reduce', 'Add']",Add 8.21%; Reduce 1.22%; Add 2.68%,"Q3 2025, Q2 2025, Q1 2025",Reduced,20.75
-EPD,Enterprise Products Partners LP,fairx,Bruce Berkowitz,13.76,170434000,['Add'],Add 0.03%,Q1 2025,Increased,20.64
+VFC,V.F. Corp.,ENG,Glenn Welling,20.75,84594000,"['Add', 'Reduce']",Add 8.21%; Reduce 1.22%,"Q3 2025, Q2 2025",Reduced,20.75
 TDG,TransDigm Group Inc.,OCL,Bryan Lawrence,13.75,31857000,['Add'],Add 13.51%,Q3 2025,Increased,20.625
-AMZN,Amazon.com Inc.,GLC,Josh Tarasoff,20.61,70678000,"['Reduce', 'Reduce']",Reduce 0.85%; Reduce 9.84%,"Q3 2025, Q1 2025",Reduced,20.61
+AMZN,Amazon.com Inc.,GLC,Josh Tarasoff,20.61,70678000,['Reduce'],Reduce 0.85%,Q3 2025,Reduced,20.61
 SPGI,S&P Global Inc.,VFC,Valley Forge Capital Management,20.55,854224000,,,,Maintained,20.55
 MA,Mastercard Inc.,VFC,Valley Forge Capital Management,20.32,844553000,,,,Maintained,20.32
-UBER,Uber Technologies Inc.,psc,Bill Ackman,20.25,2965603000,"['Reduce', 'Buy']",Reduce 0.10%; Buy,"Q3 2025, Q1 2025",Reduced,20.25
+UBER,Uber Technologies Inc.,psc,Bill Ackman,20.25,2965603000,['Reduce'],Reduce 0.10%,Q3 2025,Reduced,20.25
+CACC,Credit Acceptance Corp.,RVC,Robert Vinall,13.47,57841000,['Add'],Add 1.16%,Q3 2025,Increased,20.205
 LAD,Lithia Motors Inc.,CM,Greg Alexander,20.03,126400000,['Reduce'],Reduce 20.00%,Q3 2025,Reduced,20.03
-BN,Brookfield Corp.,psc,Bill Ackman,19.21,2813167000,"['Reduce', 'Add', 'Add']",Reduce 0.34%; Add 0.38%; Add 17.52%,"Q3 2025, Q2 2025, Q1 2025",Reduced,19.21
+GM,General Motors,GA,Greenhaven Associates,20.01,1234353000,"['Reduce', 'Reduce', 'Reduce']",Reduce 34.19%; Reduce 2.49%; Reduce 0.53%,"Q4 2025, Q3 2025, Q2 2025",Reduced,20.01
+GOOGL,Alphabet Inc.,LT,Lindsell Train,13.32,543109000,"['Add', 'Add']",Add 10.15%; Add 11028.80%,"Q3 2025, Q2 2025",Increased,19.98
+AMZN,Amazon.com Inc.,TFP,Triple Frond Partners,12.93,118667000,['Add'],Add 10.93%,Q3 2025,Increased,19.395
+BN,Brookfield Corp.,psc,Bill Ackman,19.21,2813167000,"['Reduce', 'Add']",Reduce 0.34%; Add 0.38%,"Q3 2025, Q2 2025",Reduced,19.21
 GOOGL,Alphabet Inc.,HC,Li Lu,19.14,618276000,,,,Maintained,19.14
-LAD,Lithia Motors Inc.,abc,David Abrams,12.76,787009000,"['Add', 'Add']",Add 1.88%; Add 2.24%,"Q3 2025, Q1 2025",Increased,19.14
-BN,Brookfield Corp.,GLC,Josh Tarasoff,19.04,65303000,"['Buy', 'Sell', 'Reduce']",Buy; Sell 100.00%; Reduce 2.76%,"Q3 2025, Q2 2025, Q1 2025",Partial Exit,19.04
+LAD,Lithia Motors Inc.,abc,David Abrams,12.76,787009000,['Add'],Add 1.88%,Q3 2025,Increased,19.14
+BN,Brookfield Corp.,GLC,Josh Tarasoff,19.04,65303000,"['Buy', 'Sell']",Buy; Sell 100.00%,"Q3 2025, Q2 2025",Partial Exit,19.04
 CGNX,Cognex Corp.,ENG,Glenn Welling,9.5,38732000,['Buy'],Buy,Q3 2025,New High Conviction,19.0
 AXP,American Express,BRK,Warren Buffett,18.84,50359011000,,,,Maintained,18.84
 COOP-OLD,Mr. Cooper Group Inc.,oa,Leon Cooperman,18.82,602986000,,,,Maintained,18.82
-META,Meta Platforms Inc.,RVC,Robert Vinall,18.78,102602000,"['Reduce', 'Reduce']",Reduce 2.29%; Reduce 4.41%,"Q3 2025, Q1 2025",Reduced,18.78
-MKL,Markel Group Inc.,GLC,Josh Tarasoff,12.51,42920000,['Add'],Add 3.38%,Q1 2025,Increased,18.765
-GOOG,Alphabet Inc. CL C,HC,Li Lu,18.48,597014000,['Reduce'],Reduce 19.47%,Q1 2025,Reduced,18.48
+GOOG,Alphabet Inc. CL C,HC,Li Lu,18.48,597014000,,,,Maintained,18.48
+CCL,Carnival Corp.,CAU,Sarah Ketterer,12.22,922576000,"['Add', 'Add']",Add 9.56%; Add 9.65%,"Q3 2025, Q2 2025",Increased,18.33
 FLR,Fluor Corp.,GLRE,David Einhorn,9.13,231960000,"['Add', 'Buy']",Add 44.35%; Buy,"Q3 2025, Q2 2025",New High Conviction,18.26
 RYCEF,Rolls Royce Holdings plc,SEQUX,Ruane Cunniff,18.19,670673000,,,,Maintained,18.19
-V,Visa Inc.,tci,Chris Hohn,18.18,9578218000,"['Add', 'Add', 'Reduce']",Add 47.15%; Add 14.61%; Reduce 0.95%,"Q3 2025, Q2 2025, Q1 2025",Reduced,18.18
-BBWI,Bath & Body Works Inc.,MP,Tom Bancroft,18.12,35291000,"['Reduce', 'Add', 'Reduce']",Reduce 25.50%; Add 12.20%; Reduce 27.56%,"Q3 2025, Q2 2025, Q1 2025",Reduced,18.12
-ELV,Elevance Health Inc.,BAUPOST,Seth Klarman,8.95,426195000,"['Add', 'Add', 'Buy']",Add 114.12%; Add 150.41%; Buy,"Q3 2025, Q2 2025, Q1 2025",New High Conviction,17.9
-MA,Mastercard Inc.,AC,Chuck Akre,17.89,1794933000,"['Reduce', 'Reduce', 'Reduce']",Reduce 4.24%; Reduce 1.07%; Reduce 10.06%,"Q3 2025, Q2 2025, Q1 2025",Reduced,17.89
-BRK.B,Berkshire Hathaway CL B,HH,Duan Yongping,17.78,2609874000,"['Add', 'Reduce']",Add 53.53%; Reduce 6.62%,"Q3 2025, Q1 2025",Reduced,17.78
+BBWI,Bath & Body Works Inc.,MP,Tom Bancroft,18.12,35291000,"['Reduce', 'Add']",Reduce 25.50%; Add 12.20%,"Q3 2025, Q2 2025",Reduced,18.12
+MCO,Moody's Corp.,tci,Chris Hohn,12.03,6341224000,"['Add', 'Add']",Add 0.46%; Add 0.64%,"Q3 2025, Q2 2025",Increased,18.045
+MA,Mastercard Inc.,AC,Chuck Akre,17.89,1794933000,"['Reduce', 'Reduce']",Reduce 4.24%; Reduce 1.07%,"Q3 2025, Q2 2025",Reduced,17.89
 SGOV,Ishares 0 3 Month Treasury B,PC,Norbert Lou,17.68,56996000,['Reduce'],Reduce 2.60%,Q2 2025,Reduced,17.68
+ASML,ASML Holding NV,TFP,Triple Frond Partners,11.76,107913000,['Add'],Add 40.57%,Q3 2025,Increased,17.64
 TRMD,Torm Plc,oc,Howard Marks,17.6,834581000,,,,Maintained,17.6
 WM,Waste Management Inc.,GFT,Bill & Melinda Gates Foundation Trust,17.47,6389571000,['Reduce'],Reduce 10.24%,Q3 2025,Reduced,17.47
 AMZN,Amazon.com Inc.,psc,Bill Ackman,8.73,1278625000,['Buy'],Buy,Q2 2025,New High Conviction,17.46
-GTLS,Chart Industries Inc.,AIM,Alex Roepers,16.95,29522000,"['Reduce', 'Add', 'Reduce']",Reduce 46.31%; Add 33.74%; Reduce 10.18%,"Q3 2025, Q2 2025, Q1 2025",Reduced,16.95
+FLUT,Flutter Entertainment Plc,AKO,AKO Capital,11.33,796701000,"['Add', 'Add']",Add 4.94%; Add 14.77%,"Q3 2025, Q2 2025",Increased,16.995
+GTLS,Chart Industries Inc.,AIM,Alex Roepers,16.95,29522000,"['Reduce', 'Add']",Reduce 46.31%; Add 33.74%,"Q3 2025, Q2 2025",Reduced,16.95
 FRPT,Freshpet Inc.,ENG,Glenn Welling,8.37,34120000,['Buy'],Buy,Q2 2025,New High Conviction,16.74
-C,Citigroup Inc.,KB,Kahn Brothers Group,16.73,88981000,"['Reduce', 'Add', 'Reduce']",Reduce 1.13%; Add 1.13%; Reduce 3.31%,"Q3 2025, Q2 2025, Q1 2025",Reduced,16.73
-QSR,Restaurant Brands International,BAUPOST,Seth Klarman,11.11,529337000,"['Add', 'Add', 'Add']",Add 103.80%; Add 4.19%; Add 33.94%,"Q3 2025, Q2 2025, Q1 2025",Increased,16.665
-BAC,Bank of America Corp.,HC,Li Lu,16.66,538155000,"['Reduce', 'Reduce']",Reduce 24.66%; Reduce 23.42%,"Q2 2025, Q1 2025",Reduced,16.66
-RKT,Rocket Companies Inc.,VA,ValueAct Capital,8.3,492167000,"['Add', 'Add', 'Buy']",Add 67.90%; Add 124.80%; Buy,"Q3 2025, Q2 2025, Q1 2025",New High Conviction,16.6
-MSFT,Microsoft Corp.,tci,Chris Hohn,16.31,8593932000,"['Reduce', 'Add', 'Add']",Reduce 5.54%; Add 1.53%; Add 23.63%,"Q3 2025, Q2 2025, Q1 2025",Reduced,16.31
-BAYRY,Bayer Ag Sponsored ADR,KB,Kahn Brothers Group,10.58,56266000,"['Add', 'Add', 'Add']",Add 0.87%; Add 2.36%; Add 45.88%,"Q3 2025, Q2 2025, Q1 2025",Increased,15.87
-MSFT,Microsoft Corp.,TGM,Chase Coleman,10.49,3393281000,"['Add', 'Add']",Add 4.98%; Add 16.78%,"Q2 2025, Q1 2025",Increased,15.735
-BABA,Alibaba Group Holdings,AM,David Tepper,15.61,1152809000,"['Reduce', 'Reduce', 'Reduce']",Reduce 8.73%; Reduce 23.43%; Reduce 22.06%,"Q3 2025, Q2 2025, Q1 2025",Reduced,15.61
-VAL,Valaris plc,PI,Mohnish Pabrai,15.44,52001000,"['Reduce', 'Add', 'Buy']",Reduce 43.40%; Add 31.96%; Buy,"Q3 2025, Q2 2025, Q1 2025",Reduced,15.44
-DHR,Danaher Corp.,DA,Pat Dorsey,15.34,170672000,"['Reduce', 'Add', 'Add']",Reduce 7.14%; Add 34.09%; Add 75.11%,"Q3 2025, Q2 2025, Q1 2025",Reduced,15.34
-VRT,Vertiv Holdings Co.,oa,Leon Cooperman,10.16,325524000,['Add'],Add 2.75%,Q1 2025,Increased,15.24
-NBR,Nabors Industries Ltd.,LMM,Bill Miller,10.11,27509000,"['Add', 'Add', 'Add']",Add 7.85%; Add 60.54%; Add 38.25%,"Q3 2025, Q2 2025, Q1 2025",Increased,15.165
-APTV,Aptiv PLC,AIM,Alex Roepers,15.12,26338000,"['Reduce', 'Reduce', 'Reduce']",Reduce 12.96%; Reduce 47.92%; Reduce 11.78%,"Q3 2025, Q2 2025, Q1 2025",Reduced,15.12
+C,Citigroup Inc.,KB,Kahn Brothers Group,16.73,88981000,"['Reduce', 'Add']",Reduce 1.13%; Add 1.13%,"Q3 2025, Q2 2025",Reduced,16.73
+QSR,Restaurant Brands International,BAUPOST,Seth Klarman,11.11,529337000,"['Add', 'Add']",Add 103.80%; Add 4.19%,"Q3 2025, Q2 2025",Increased,16.665
+BAC,Bank of America Corp.,HC,Li Lu,16.66,538155000,['Reduce'],Reduce 24.66%,Q2 2025,Reduced,16.66
+MSFT,Microsoft Corp.,tci,Chris Hohn,16.31,8593932000,"['Reduce', 'Add']",Reduce 5.54%; Add 1.53%,"Q3 2025, Q2 2025",Reduced,16.31
+AXP,American Express,aq,Guy Spier - Aquamarine Capital,16.3,24047000,['Reduce'],Reduce 69.05%,Q4 2025,Reduced,16.3
+BAYRY,Bayer Ag Sponsored ADR,KB,Kahn Brothers Group,10.58,56266000,"['Add', 'Add']",Add 0.87%; Add 2.36%,"Q3 2025, Q2 2025",Increased,15.87
+MSFT,Microsoft Corp.,TGM,Chase Coleman,10.49,3393281000,['Add'],Add 4.98%,Q2 2025,Increased,15.735
+BABA,Alibaba Group Holdings,AM,David Tepper,15.61,1152809000,"['Reduce', 'Reduce']",Reduce 8.73%; Reduce 23.43%,"Q3 2025, Q2 2025",Reduced,15.61
+SPGI,S&P Global Inc.,tci,Chris Hohn,10.33,5446222000,"['Add', 'Add']",Add 0.89%; Add 7.05%,"Q3 2025, Q2 2025",Increased,15.495
+MA,Mastercard Inc.,aq,Guy Spier - Aquamarine Capital,15.48,22835000,['Reduce'],Reduce 39.16%,Q4 2025,Reduced,15.48
+VAL,Valaris plc,PI,Mohnish Pabrai,15.44,52001000,"['Reduce', 'Add']",Reduce 43.40%; Add 31.96%,"Q3 2025, Q2 2025",Reduced,15.44
+BRK.A,Berkshire Hathaway CL A,aq,Guy Spier - Aquamarine Capital,15.35,22644000,,,,Maintained,15.35
+DHR,Danaher Corp.,DA,Pat Dorsey,15.34,170672000,"['Reduce', 'Add']",Reduce 7.14%; Add 34.09%,"Q3 2025, Q2 2025",Reduced,15.34
+NBR,Nabors Industries Ltd.,LMM,Bill Miller,10.11,27509000,"['Add', 'Add']",Add 7.85%; Add 60.54%,"Q3 2025, Q2 2025",Increased,15.165
+APTV,Aptiv PLC,AIM,Alex Roepers,15.12,26338000,"['Reduce', 'Reduce']",Reduce 12.96%; Reduce 47.92%,"Q3 2025, Q2 2025",Reduced,15.12
 MCO,Moody's Corp.,VFC,Valley Forge Capital Management,15.06,626163000,,,,Maintained,15.06
 SOLV,Solventum Corp,TF,Nelson Peltz,15.04,617786000,,,,Maintained,15.04
-SLM,SLM Corp.,CCM,Glenn Greenberg,7.49,322733000,"['Add', 'Add', 'Buy']",Add 10.61%; Add 11.48%; Buy,"Q3 2025, Q2 2025, Q1 2025",New High Conviction,14.98
 RPRX,Royalty Pharma plc,DA,Pat Dorsey,7.45,82924000,['Buy'],Buy,Q3 2025,New High Conviction,14.9
 UNP,Union Pacific,BAUPOST,Seth Klarman,7.43,353658000,['Buy'],Buy,Q3 2025,New High Conviction,14.86
-BRK.A,Berkshire Hathaway CL A,GLC,Josh Tarasoff,14.73,50531000,['Reduce'],Reduce 4.29%,Q1 2025,Reduced,14.73
+BRK.A,Berkshire Hathaway CL A,GLC,Josh Tarasoff,14.73,50531000,,,,Maintained,14.73

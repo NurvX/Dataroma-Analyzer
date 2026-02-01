@@ -684,7 +684,7 @@
       "company_name": "MongoDB Inc."
     },
     {
-      "symbol": "CDTX",
+      "symbol": "CDTX-OLD",
       "manager_id": "mc",
       "action": "Buy",
       "date": "Q3 2025",
@@ -926,6 +926,17 @@
       "company_name": "Bumble Inc."
     },
     {
+      "symbol": "CALY",
+      "manager_id": "mc",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 355698,
+      "portfolio_percentage": 0.05,
+      "company_name": "Callaway Golf Co."
+    },
+    {
       "symbol": "CRI",
       "manager_id": "mc",
       "action": "Buy",
@@ -957,17 +968,6 @@
       "shares": 115293,
       "portfolio_percentage": 0.05,
       "company_name": "La-Z-Boy Inc."
-    },
-    {
-      "symbol": "MODG",
-      "manager_id": "mc",
-      "action": "Buy",
-      "date": "Q3 2025",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 355698,
-      "portfolio_percentage": 0.05,
-      "company_name": "Callaway Golf Co."
     },
     {
       "symbol": "MSGE",
@@ -3016,7 +3016,7 @@
       "company_name": "Ciena Corp."
     },
     {
-      "symbol": "CIVI",
+      "symbol": "CIVI-OLD",
       "manager_id": "mc",
       "action": "Sell 100.00%",
       "date": "Q3 2025",
@@ -6899,7 +6899,7 @@
       "company_name": "S&P Global Inc."
     },
     {
-      "symbol": "CIVI",
+      "symbol": "CIVI-OLD",
       "manager_id": "mc",
       "action": "Add 114.10%",
       "date": "Q1 2025",
@@ -10661,7 +10661,7 @@
       "company_name": "Brookdale Senior Living Inc."
     },
     {
-      "symbol": "CIVI",
+      "symbol": "CIVI-OLD",
       "manager_id": "mc",
       "action": "Buy",
       "date": "Q4 2024",
@@ -11002,6 +11002,6 @@
       "company_name": "DoorDash Inc."
     }
   ],
-  "timestamp": "2026-01-01T06:13:06.031007",
-  "scraped_date": "2026-01-01"
+  "timestamp": "2026-02-01T06:24:51.818977",
+  "scraped_date": "2026-02-01"
 }

@@ -1,4 +1,4 @@
 crisis,period,total_actions,buy_actions,add_actions,sell_actions,reduce_actions,buy_ratio,sell_ratio,top_buyers,most_bought,most_sold,unique_managers,unique_stocks
-2008_financial,"Q3 2008, Q4 2008, Q1 2009, Q2 2009",597,108,181,308,185,0.4840871021775544,0.5159128978224455,"Bill & Melinda Gates Foundation Trust, Tweedy Browne Co., Bruce Berkowitz","JEF, BRK.B, EBAY, CAT, JNJ","YUM, BRK.A, SHLDQ-OLD, UNH, HD",11,263
-2020_covid,"Q1 2020, Q2 2020",2338,384,750,1204,876,0.4850299401197604,0.5149700598802395,"Third Avenue Management, Prem Watsa, Stephen Mandel","META, V, GOOGL, BRK.B, MSFT","GOOG, GOOGL, META, BRK.B, UNH",60,845
-2022_inflation,"Q1 2022, Q2 2022, Q3 2022",5132,554,1930,2648,1978,0.4840218238503507,0.5159781761496492,"Thomas Gayner, Bill Miller, Howard Marks","META, GOOGL, AMZN, MSFT, GOOG","GOOG, META, GOOGL, UNH, MSFT",71,1469
+2008_financial,"Q3 2008, Q4 2008, Q1 2009, Q2 2009",574,107,177,290,169,0.494773519163763,0.5052264808362369,"Bill & Melinda Gates Foundation Trust, Tweedy Browne Co., Bruce Berkowitz","JEF, BRK.B, EBAY, JNJ, MURGF","YUM, BRK.A, SHLDQ-OLD, UNH, HD",10,259
+2020_covid,"Q1 2020, Q2 2020",2308,382,741,1185,860,0.4865684575389948,0.5134315424610052,"Third Avenue Management, Prem Watsa, Stephen Mandel","META, V, GOOGL, MSFT, BRK.B","GOOG, GOOGL, META, UNH, BRK.B",59,844
+2022_inflation,"Q1 2022, Q2 2022, Q3 2022",5088,552,1913,2623,1956,0.4844732704402515,0.5155267295597484,"Thomas Gayner, Bill Miller, Howard Marks","META, GOOGL, AMZN, MSFT, GOOG","GOOG, META, GOOGL, UNH, MSFT",70,1469

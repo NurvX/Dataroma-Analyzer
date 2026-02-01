@@ -1619,7 +1619,7 @@
       "company_name": "McKesson Corp."
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "BRK",
       "action": "Sell 100.00%",
       "date": "Q2 2023",
@@ -1627,7 +1627,7 @@
       "action_type": "Sell",
       "shares": 404911,
       "portfolio_percentage": 0.02,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "VTS",
@@ -2719,7 +2719,7 @@
       "company_name": "AbbVie Inc."
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "BRK",
       "action": "Reduce 85.23%",
       "date": "Q4 2021",
@@ -2727,7 +2727,7 @@
       "action_type": "Reduce",
       "shares": 2336844,
       "portfolio_percentage": 0.12,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "TEVA",
@@ -2851,7 +2851,7 @@
       "company_name": "AbbVie Inc."
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "BRK",
       "action": "Reduce 34.67%",
       "date": "Q3 2021",
@@ -2859,7 +2859,7 @@
       "action_type": "Reduce",
       "shares": 1454937,
       "portfolio_percentage": 0.07,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "MRK",
@@ -2994,7 +2994,7 @@
       "company_name": "Bristol-Myers Squibb"
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "BRK",
       "action": "Reduce 20.63%",
       "date": "Q2 2021",
@@ -3002,7 +3002,7 @@
       "action_type": "Reduce",
       "shares": 1090834,
       "portfolio_percentage": 0.05,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "MRK",
@@ -3071,7 +3071,7 @@
       "company_name": "Kroger Co."
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "BRK",
       "action": "Add 23.89%",
       "date": "Q1 2021",
@@ -3079,7 +3079,7 @@
       "action_type": "Add",
       "shares": 1019701,
       "portfolio_percentage": 0.05,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "VZ",
@@ -3302,7 +3302,7 @@
       "company_name": "Merck & Co."
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "BRK",
       "action": "Add 26.77%",
       "date": "Q4 2020",
@@ -3310,7 +3310,7 @@
       "action_type": "Add",
       "shares": 901318,
       "portfolio_percentage": 0.04,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "ABBV",
@@ -3588,7 +3588,7 @@
       "company_name": "Snowflake Inc."
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "BRK",
       "action": "Buy",
       "date": "Q3 2020",
@@ -3596,7 +3596,7 @@
       "action_type": "Buy",
       "shares": 3366507,
       "portfolio_percentage": 0.16,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "TMUS",
@@ -11002,6 +11002,6 @@
       "company_name": "Ingersoll Rand Inc."
     }
   ],
-  "timestamp": "2026-01-01T06:13:06.133878",
-  "scraped_date": "2026-01-01"
+  "timestamp": "2026-02-01T06:24:51.925464",
+  "scraped_date": "2026-02-01"
 }

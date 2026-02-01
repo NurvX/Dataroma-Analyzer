@@ -1,5 +1,113 @@
 [
   {
+    "id": "RVC",
+    "name": "Robert Vinall",
+    "firm": "RV Capital GmbH Updated 30 Jan 2026",
+    "portfolio_value": 0,
+    "num_holdings": 0,
+    "url": "",
+    "last_updated": null
+  },
+  {
+    "id": "T",
+    "name": "Torray Funds Updated 28 Jan 2026",
+    "firm": "",
+    "portfolio_value": 0,
+    "num_holdings": 0,
+    "url": "",
+    "last_updated": null
+  },
+  {
+    "id": "TWEBX",
+    "name": "Tweedy Browne Co.",
+    "firm": "Tweedy Browne Value Fund Updated 22 Jan 2026",
+    "portfolio_value": 0,
+    "num_holdings": 0,
+    "url": "",
+    "last_updated": null
+  },
+  {
+    "id": "MPGFX",
+    "name": "Mairs & Power Growth Fund Updated 21 Jan 2026",
+    "firm": "",
+    "portfolio_value": 0,
+    "num_holdings": 0,
+    "url": "",
+    "last_updated": null
+  },
+  {
+    "id": "DODGX",
+    "name": "Dodge & Cox Updated 20 Jan 2026",
+    "firm": "",
+    "portfolio_value": 0,
+    "num_holdings": 0,
+    "url": "",
+    "last_updated": null
+  },
+  {
+    "id": "MAVFX",
+    "name": "David Katz",
+    "firm": "Matrix Asset Advisors Updated 16 Jan 2026",
+    "portfolio_value": 0,
+    "num_holdings": 0,
+    "url": "",
+    "last_updated": null
+  },
+  {
+    "id": "pzfvx",
+    "name": "Richard Pzena",
+    "firm": "Hancock Classic Value Updated 15 Jan 2026",
+    "portfolio_value": 0,
+    "num_holdings": 0,
+    "url": "",
+    "last_updated": null
+  },
+  {
+    "id": "aq",
+    "name": "Guy Spier",
+    "firm": "Aquamarine Capital Updated 15 Jan 2026",
+    "portfolio_value": 0,
+    "num_holdings": 0,
+    "url": "",
+    "last_updated": null
+  },
+  {
+    "id": "FPPTX",
+    "name": "FPA Queens Road Small Cap Value Fund Updated 14 Jan 2026",
+    "firm": "",
+    "portfolio_value": 0,
+    "num_holdings": 0,
+    "url": "",
+    "last_updated": null
+  },
+  {
+    "id": "FPACX",
+    "name": "Steven Romick",
+    "firm": "FPA Crescent Fund Updated 14 Jan 2026",
+    "portfolio_value": 0,
+    "num_holdings": 0,
+    "url": "",
+    "last_updated": null
+  },
+  {
+    "id": "hcmax",
+    "name": "Hillman Value Fund Updated 08 Jan 2026",
+    "firm": "",
+    "portfolio_value": 0,
+    "num_holdings": 0,
+    "url": "",
+    "last_updated": null
+  },
+  {
+    "id": "GA",
+    "name": "Greenhaven Associates Updated 07 Jan 2026",
+    "firm": "",
+    "portfolio_value": 0,
+    "num_holdings": 0,
+    "url": "",
+    "last_updated": null
+  },
+  {
     "id": "SEQUX",
     "name": "Ruane Cunniff",
     "firm": "Sequoia Fund Updated 26 Nov 2025",
@@ -93,6 +201,15 @@
     "id": "tp",
     "name": "Daniel Loeb",
     "firm": "Third Point Updated 14 Nov 2025",
+    "portfolio_value": 0,
+    "num_holdings": 0,
+    "url": "",
+    "last_updated": null
+  },
+  {
+    "id": "DCP",
+    "name": "Henry Ellenbogen",
+    "firm": "Durable Capital Partners Updated 14 Nov 2025",
     "portfolio_value": 0,
     "num_holdings": 0,
     "url": "",
@@ -531,6 +648,15 @@
     "last_updated": null
   },
   {
+    "id": "WIM",
+    "name": "Wallace Weitz",
+    "firm": "Weitz Investment Management Updated 10 Nov 2025",
+    "portfolio_value": 0,
+    "num_holdings": 0,
+    "url": "",
+    "last_updated": null
+  },
+  {
     "id": "abc",
     "name": "David Abrams",
     "firm": "Abrams Capital Management Updated 07 Nov 2025",
@@ -567,15 +693,6 @@
     "last_updated": null
   },
   {
-    "id": "GA",
-    "name": "Greenhaven Associates Updated 04 Nov 2025",
-    "firm": "",
-    "portfolio_value": 0,
-    "num_holdings": 0,
-    "url": "",
-    "last_updated": null
-  },
-  {
     "id": "SAM",
     "name": "Michael Burry",
     "firm": "Scion Asset Management Updated 03 Nov 2025",
@@ -588,15 +705,6 @@
     "id": "MKL",
     "name": "Thomas Gayner",
     "firm": "Markel Group Updated 31 Oct 2025",
-    "portfolio_value": 0,
-    "num_holdings": 0,
-    "url": "",
-    "last_updated": null
-  },
-  {
-    "id": "WVALX",
-    "name": "Wallace Weitz",
-    "firm": "Weitz Large Cap Equity Fund Updated 31 Oct 2025",
     "portfolio_value": 0,
     "num_holdings": 0,
     "url": "",
@@ -621,108 +729,9 @@
     "last_updated": null
   },
   {
-    "id": "pzfvx",
-    "name": "Richard Pzena",
-    "firm": "Hancock Classic Value Updated 23 Oct 2025",
-    "portfolio_value": 0,
-    "num_holdings": 0,
-    "url": "",
-    "last_updated": null
-  },
-  {
-    "id": "T",
-    "name": "Torray Funds Updated 22 Oct 2025",
-    "firm": "",
-    "portfolio_value": 0,
-    "num_holdings": 0,
-    "url": "",
-    "last_updated": null
-  },
-  {
-    "id": "RVC",
-    "name": "Robert Vinall",
-    "firm": "RV Capital GmbH Updated 22 Oct 2025",
-    "portfolio_value": 0,
-    "num_holdings": 0,
-    "url": "",
-    "last_updated": null
-  },
-  {
     "id": "OFALX",
     "name": "Robert Olstein",
     "firm": "Olstein Capital Management Updated 21 Oct 2025",
-    "portfolio_value": 0,
-    "num_holdings": 0,
-    "url": "",
-    "last_updated": null
-  },
-  {
-    "id": "aq",
-    "name": "Guy Spier",
-    "firm": "Aquamarine Capital Updated 20 Oct 2025",
-    "portfolio_value": 0,
-    "num_holdings": 0,
-    "url": "",
-    "last_updated": null
-  },
-  {
-    "id": "TWEBX",
-    "name": "Tweedy Browne Co.",
-    "firm": "Tweedy Browne Value Fund Updated 17 Oct 2025",
-    "portfolio_value": 0,
-    "num_holdings": 0,
-    "url": "",
-    "last_updated": null
-  },
-  {
-    "id": "DODGX",
-    "name": "Dodge & Cox Updated 15 Oct 2025",
-    "firm": "",
-    "portfolio_value": 0,
-    "num_holdings": 0,
-    "url": "",
-    "last_updated": null
-  },
-  {
-    "id": "MPGFX",
-    "name": "Mairs & Power Growth Fund Updated 15 Oct 2025",
-    "firm": "",
-    "portfolio_value": 0,
-    "num_holdings": 0,
-    "url": "",
-    "last_updated": null
-  },
-  {
-    "id": "MAVFX",
-    "name": "David Katz",
-    "firm": "Matrix Asset Advisors Updated 14 Oct 2025",
-    "portfolio_value": 0,
-    "num_holdings": 0,
-    "url": "",
-    "last_updated": null
-  },
-  {
-    "id": "FPPTX",
-    "name": "FPA Queens Road Small Cap Value Fund Updated 14 Oct 2025",
-    "firm": "",
-    "portfolio_value": 0,
-    "num_holdings": 0,
-    "url": "",
-    "last_updated": null
-  },
-  {
-    "id": "FPACX",
-    "name": "Steven Romick",
-    "firm": "FPA Crescent Fund Updated 14 Oct 2025",
-    "portfolio_value": 0,
-    "num_holdings": 0,
-    "url": "",
-    "last_updated": null
-  },
-  {
-    "id": "hcmax",
-    "name": "Hillman Value Fund Updated 08 Oct 2025",
-    "firm": "",
     "portfolio_value": 0,
     "num_holdings": 0,
     "url": "",

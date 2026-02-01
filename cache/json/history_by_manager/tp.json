@@ -9110,7 +9110,7 @@
       "company_name": "New York Times CL A"
     },
     {
-      "symbol": "LOGC",
+      "symbol": "LOGCD",
       "manager_id": "tp",
       "action": "Sell 100.00%",
       "date": "Q2 2021",
@@ -11002,6 +11002,6 @@
       "company_name": "Microsoft Corp."
     }
   ],
-  "timestamp": "2026-01-01T06:13:06.049238",
-  "scraped_date": "2026-01-01"
+  "timestamp": "2026-02-01T06:24:51.836926",
+  "scraped_date": "2026-02-01"
 }

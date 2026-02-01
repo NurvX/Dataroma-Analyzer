@@ -2,6 +2,127 @@
   "manager_id": "aq",
   "activities": [
     {
+      "symbol": "BRK.B",
+      "manager_id": "aq",
+      "action": "Reduce 30.58%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 43000,
+      "portfolio_percentage": 14.49,
+      "company_name": "Berkshire Hathaway CL B"
+    },
+    {
+      "symbol": "MA",
+      "manager_id": "aq",
+      "action": "Reduce 39.16%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 25750,
+      "portfolio_percentage": 9.94,
+      "company_name": "Mastercard Inc."
+    },
+    {
+      "symbol": "RACE",
+      "manager_id": "aq",
+      "action": "Reduce 50.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 30000,
+      "portfolio_percentage": 6.71,
+      "company_name": "Ferrari NV"
+    },
+    {
+      "symbol": "AXP",
+      "manager_id": "aq",
+      "action": "Reduce 69.05%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 145000,
+      "portfolio_percentage": 35.94,
+      "company_name": "American Express"
+    },
+    {
+      "symbol": "BAC",
+      "manager_id": "aq",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 767845,
+      "portfolio_percentage": 12.48,
+      "company_name": "Bank of America Corp."
+    },
+    {
+      "symbol": "MU",
+      "manager_id": "aq",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 80000,
+      "portfolio_percentage": 4.22,
+      "company_name": "Micron Technology Inc."
+    },
+    {
+      "symbol": "BABA",
+      "manager_id": "aq",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 47500,
+      "portfolio_percentage": 2.68,
+      "company_name": "Alibaba Group Holdings"
+    },
+    {
+      "symbol": "GOOGL",
+      "manager_id": "aq",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 16000,
+      "portfolio_percentage": 1.23,
+      "company_name": "Alphabet Inc."
+    },
+    {
+      "symbol": "SRG",
+      "manager_id": "aq",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 500000,
+      "portfolio_percentage": 0.67,
+      "company_name": "Seritage Growth Properties"
+    },
+    {
+      "symbol": "AMR",
+      "manager_id": "aq",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 8000,
+      "portfolio_percentage": 0.41,
+      "company_name": "Alpha Metallurgical Resources Inc."
+    },
+    {
+      "symbol": "CNR",
+      "manager_id": "aq",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 10740,
+      "portfolio_percentage": 0.28,
+      "company_name": "Core Natural Resources Inc."
+    },
+    {
       "symbol": "MU",
       "manager_id": "aq",
       "action": "Reduce 60.00%",
@@ -596,6 +717,6 @@
       "company_name": "DIRECTV Group Inc."
     }
   ],
-  "timestamp": "2026-01-01T06:13:06.444587",
-  "scraped_date": "2026-01-01"
+  "timestamp": "2026-02-01T06:24:51.722633",
+  "scraped_date": "2026-02-01"
 }

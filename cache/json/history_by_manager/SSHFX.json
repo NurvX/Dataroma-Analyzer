@@ -9484,7 +9484,7 @@
       "company_name": "EQT Corp."
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "SSHFX",
       "action": "Sell 100.00%",
       "date": "Q1 2020",
@@ -9492,7 +9492,7 @@
       "action_type": "Sell",
       "shares": 249650,
       "portfolio_percentage": 1.88,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "SIVBQ-OLD",
@@ -9748,7 +9748,7 @@
       "company_name": "Delta Air Lines Inc."
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "SSHFX",
       "action": "Reduce 16.63%",
       "date": "Q4 2019",
@@ -9756,7 +9756,7 @@
       "action_type": "Reduce",
       "shares": 49800,
       "portfolio_percentage": 0.38,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "TMO",
@@ -10144,7 +10144,7 @@
       "company_name": "Bank of America Corp."
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "SSHFX",
       "action": "Reduce 20.32%",
       "date": "Q3 2019",
@@ -10152,7 +10152,7 @@
       "action_type": "Reduce",
       "shares": 76350,
       "portfolio_percentage": 0.49,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "C",
@@ -10529,7 +10529,7 @@
       "company_name": "Aon Plc"
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "SSHFX",
       "action": "Reduce 23.19%",
       "date": "Q2 2019",
@@ -10537,7 +10537,7 @@
       "action_type": "Reduce",
       "shares": 113450,
       "portfolio_percentage": 0.67,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "CB",
@@ -10815,7 +10815,7 @@
       "company_name": "Equitrans Mid.stream Corp"
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "SSHFX",
       "action": "Reduce 13.93%",
       "date": "Q1 2019",
@@ -10823,7 +10823,7 @@
       "action_type": "Reduce",
       "shares": 79200,
       "portfolio_percentage": 0.42,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "MDLZ",
@@ -11002,6 +11002,6 @@
       "company_name": "Antero Resources"
     }
   ],
-  "timestamp": "2026-01-01T06:13:06.344891",
-  "scraped_date": "2026-01-01"
+  "timestamp": "2026-02-01T06:24:52.137889",
+  "scraped_date": "2026-02-01"
 }

@@ -6316,7 +6316,7 @@
       "company_name": "Macerich Co."
     },
     {
-      "symbol": "CIO",
+      "symbol": "CIO-OLD",
       "manager_id": "TA",
       "action": "Sell 100.00%",
       "date": "Q3 2021",
@@ -7537,7 +7537,7 @@
       "company_name": "Lennar Corp. CL B"
     },
     {
-      "symbol": "CIO",
+      "symbol": "CIO-OLD",
       "manager_id": "TA",
       "action": "Reduce 34.29%",
       "date": "Q4 2020",
@@ -7713,7 +7713,7 @@
       "company_name": "Retail Opportunity Investments Corp."
     },
     {
-      "symbol": "CIO",
+      "symbol": "CIO-OLD",
       "manager_id": "TA",
       "action": "Add 27.27%",
       "date": "Q3 2020",
@@ -9033,7 +9033,7 @@
       "company_name": "Stewart Information Services"
     },
     {
-      "symbol": "CIO",
+      "symbol": "CIO-OLD",
       "manager_id": "TA",
       "action": "Buy",
       "date": "Q1 2020",
@@ -11002,6 +11002,6 @@
       "company_name": "Cullen Frost Bankers"
     }
   ],
-  "timestamp": "2026-01-01T06:13:06.176429",
-  "scraped_date": "2026-01-01"
+  "timestamp": "2026-02-01T06:24:51.967811",
+  "scraped_date": "2026-02-01"
 }

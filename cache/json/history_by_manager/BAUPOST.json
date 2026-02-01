@@ -173,7 +173,7 @@
       "date": "Q3 2025",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 5500000,
+      "shares": 1100000,
       "portfolio_percentage": 1.23,
       "company_name": "Amcor plc"
     },
@@ -305,7 +305,7 @@
       "date": "Q2 2025",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 5500000,
+      "shares": 1100000,
       "portfolio_percentage": 1.23,
       "company_name": "Amcor plc"
     },
@@ -11002,6 +11002,6 @@
       "company_name": "PBF Energy Inc."
     }
   ],
-  "timestamp": "2026-01-01T06:13:06.235706",
-  "scraped_date": "2026-01-01"
+  "timestamp": "2026-02-01T06:24:52.026259",
+  "scraped_date": "2026-02-01"
 }

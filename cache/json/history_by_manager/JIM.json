@@ -343,7 +343,7 @@
       "company_name": "Apple Inc."
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "JIM",
       "action": "Reduce 0.70%",
       "date": "Q3 2025",
@@ -351,7 +351,7 @@
       "action_type": "Reduce",
       "shares": 16992,
       "portfolio_percentage": 0.04,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "EMR",
@@ -1300,7 +1300,7 @@
       "company_name": "Veeva Systems Inc."
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "JIM",
       "action": "Reduce 7.84%",
       "date": "Q2 2025",
@@ -1308,7 +1308,7 @@
       "action_type": "Reduce",
       "shares": 206049,
       "portfolio_percentage": 0.53,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "WM",
@@ -2037,7 +2037,7 @@
       "company_name": "Manhattan Associates"
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "JIM",
       "action": "Reduce 13.51%",
       "date": "Q1 2025",
@@ -2045,7 +2045,7 @@
       "action_type": "Reduce",
       "shares": 410865,
       "portfolio_percentage": 1.11,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "MSFT",
@@ -2631,7 +2631,7 @@
       "company_name": "Hologic Inc."
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "JIM",
       "action": "Reduce 0.34%",
       "date": "Q4 2024",
@@ -2639,7 +2639,7 @@
       "action_type": "Reduce",
       "shares": 10280,
       "portfolio_percentage": 0.02,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "OMC",
@@ -3632,7 +3632,7 @@
       "company_name": "PepsiCo Inc."
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "JIM",
       "action": "Reduce 5.44%",
       "date": "Q3 2024",
@@ -3640,7 +3640,7 @@
       "action_type": "Reduce",
       "shares": 175427,
       "portfolio_percentage": 0.33,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "INTU",
@@ -4072,7 +4072,7 @@
       "company_name": "Taiwan Semiconductor S.A."
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "JIM",
       "action": "Add 1.26%",
       "date": "Q2 2024",
@@ -4080,7 +4080,7 @@
       "action_type": "Add",
       "shares": 40182,
       "portfolio_percentage": 0.07,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "ACN",
@@ -4710,7 +4710,7 @@
       "company_name": "Taiwan Semiconductor S.A."
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "JIM",
       "action": "Add 8.04%",
       "date": "Q1 2024",
@@ -4718,7 +4718,7 @@
       "action_type": "Add",
       "shares": 237071,
       "portfolio_percentage": 0.37,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "ULTA",
@@ -5711,7 +5711,7 @@
       "company_name": "Intuit Inc."
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "JIM",
       "action": "Reduce 2.24%",
       "date": "Q4 2023",
@@ -5719,7 +5719,7 @@
       "action_type": "Reduce",
       "shares": 67471,
       "portfolio_percentage": 0.1,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "AAPL",
@@ -6184,7 +6184,7 @@
       "company_name": "Pfizer Inc."
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "JIM",
       "action": "Add 2.94%",
       "date": "Q3 2023",
@@ -6192,7 +6192,7 @@
       "action_type": "Add",
       "shares": 86282,
       "portfolio_percentage": 0.13,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "TXN",
@@ -6998,7 +6998,7 @@
       "company_name": "Pfizer Inc."
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "JIM",
       "action": "Add 1.23%",
       "date": "Q2 2023",
@@ -7006,7 +7006,7 @@
       "action_type": "Add",
       "shares": 35596,
       "portfolio_percentage": 0.05,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "WM",
@@ -7790,7 +7790,7 @@
       "company_name": "Charles River Labs"
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "JIM",
       "action": "Add 10.67%",
       "date": "Q1 2023",
@@ -7798,7 +7798,7 @@
       "action_type": "Add",
       "shares": 279134,
       "portfolio_percentage": 0.36,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "PFE",
@@ -8472,7 +8472,7 @@
       "company_name": "Pool Corp."
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "JIM",
       "action": "Add 17.96%",
       "date": "Q4 2022",
@@ -8480,7 +8480,7 @@
       "action_type": "Add",
       "shares": 398179,
       "portfolio_percentage": 0.51,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "ACN",
@@ -9231,7 +9231,7 @@
       "company_name": "Kroger Co."
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "JIM",
       "action": "Add 8.81%",
       "date": "Q3 2022",
@@ -9239,7 +9239,7 @@
       "action_type": "Add",
       "shares": 179485,
       "portfolio_percentage": 0.23,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "UNH",
@@ -9660,7 +9660,7 @@
       "company_name": "Toro Co."
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "JIM",
       "action": "Add 27.50%",
       "date": "Q2 2022",
@@ -9668,7 +9668,7 @@
       "action_type": "Add",
       "shares": 439485,
       "portfolio_percentage": 0.57,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "APH",
@@ -10540,7 +10540,7 @@
       "company_name": "MillerKnoll Inc."
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "JIM",
       "action": "Add 15.69%",
       "date": "Q1 2022",
@@ -10548,7 +10548,7 @@
       "action_type": "Add",
       "shares": 216740,
       "portfolio_percentage": 0.28,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "TJX",
@@ -11002,6 +11002,6 @@
       "company_name": "Kroger Co."
     }
   ],
-  "timestamp": "2026-01-01T06:13:06.354098",
-  "scraped_date": "2026-01-01"
+  "timestamp": "2026-02-01T06:24:52.147063",
+  "scraped_date": "2026-02-01"
 }

@@ -1,37 +1,34 @@
 ticker,company_name,managers,total_value,avg_portfolio_pct,manager_count,max_portfolio_pct,total_shares,manager_quality,under_radar_score,first_established,recent_additions,pick_type
 GPI,Group 1 Automotive,Greg Alexander,248691000,39.41,1,39.41,568424,1.8,141.876,Q2 2016,0.0,Premium Pick
-EQH,Equitable Holdings Inc.,"Greg Alexander
-Richard Pzena",221785000,17.62,2,33.8,4367567,1.8,60.84,Q1 2024,2.0,Premium Pick
+EQH,Equitable Holdings Inc.,"Richard Pzena
+Greg Alexander",221261000,17.63,2,33.8,4367567,1.8,60.84,Q2 2018,0.0,Premium Pick
 SLM,SLM Corp.,"Glenn Greenberg
 Michael Burry",336021000,15.82,2,24.16,12139472,1.8,43.488,Q1 2018,2.0,Premium Pick
 MNDY,monday.com Ltd.,"Dennis Hong
-Polen Capital Management",96851000,5.43,2,10.78,500032,1.8,19.404,Q2 2021,4.0,Premium Pick
+Polen Capital Management",96851000,5.43,2,10.78,500032,1.8,19.404,Q2 2024,4.0,Premium Pick
 HHH,Howard Hughes Holdings Inc.,"Bill Ackman
-Polen Capital Management",1551032000,5.3,2,10.58,18875887,1.8,19.044,Q4 2010,1.0,Premium Pick
+Polen Capital Management",1551032000,5.3,2,10.58,18875887,1.8,19.044,Q4 2010,0.0,Premium Pick
 PRI,Primerica Inc.,Glenn Greenberg,209022000,4.85,1,4.85,752989,1.8,17.46,Q3 2011,0.0,Premium Pick
 RMNI,Rimini Street Inc.,Greg Alexander,27674000,4.39,1,4.39,5913199,1.8,15.803999999999998,Q3 2021,0.0,Premium Pick
-RBLX,Roblox Corp.,"Lee Ainslie
-ValueAct Capital",650319000,5.38,2,10.01,4694768,1.5,15.015,Q2 2025,1.0,Growing Interest
 FG,F&G Annuities & Life Inc.,Glenn Greenberg,163197000,3.79,1,3.79,5218977,1.8,13.644,Q4 2022,0.0,Premium Pick
 BELFB,Bel Fuse Inc. CL B,"Tom Bancroft
 Polen Capital Management",16857000,3.62,2,7.24,119539,1.8,13.032,Q1 2025,0.0,Premium Pick
-NSIT,Insight Enterprises Inc.,ValueAct Capital,257638000,4.34,1,4.34,2271739,1.5,13.02,Q1 2021,1.0,Growing Interest
+NSIT,Insight Enterprises Inc.,ValueAct Capital,257638000,4.34,1,4.34,2271739,1.5,13.02,Q1 2021,0.0,Exclusive Pick
+AKAM,Akamai Technologies Inc.,Hillman Value Fund,3088000,3.26,1,3.26,34500,1.8,11.736,Q4 2025,0.0,Premium Pick
 GWRE,Guidewire Software Inc.,"Bryan Lawrence
-Polen Capital Management",15305000,3.26,2,6.52,66585,1.8,11.736,Q1 2020,0.0,Premium Pick
+Polen Capital Management",15305000,3.26,2,6.52,66585,1.8,11.736,Q4 2023,0.0,Premium Pick
 AN,AutoNation Inc.,"Lee Ainslie
 Glenn Greenberg",267463000,3.1,2,6.17,1222576,1.8,11.106,Q1 2025,2.0,Premium Pick
 RYAAY,Ryanair Holdings PLC,"Glenn Greenberg
 Francis Chou",246311000,2.94,2,5.71,4090183,1.8,10.278,Q4 2023,0.0,Premium Pick
 SSD,Simpson Manufacturing,ValueAct Capital,202282000,3.41,1,3.41,1207942,1.5,10.23,Q2 2025,0.0,Exclusive Pick
-SHOP,Shopify Inc.,"Polen Capital Management
-Thomas Gayner",1659031000,2.73,2,5.34,11163656,1.8,9.612,Q1 2021,0.0,Premium Pick
 MPLX,MPLX LP,"Glenn Greenberg
 David Tepper",249873000,2.77,2,5.18,5002474,1.8,9.324,Q2 2023,1.0,Premium Pick
 BLDR,Builders FirstSource Inc.,"Francois Rochon
 Glenn Greenberg",229462000,2.72,2,5.08,1892477,1.8,9.144,Q1 2025,2.0,Premium Pick
 LLYVK,Liberty Media Corp. Series C Live,"ValueAct Capital
-Warren Buffett",1399621000,3.08,2,5.75,14433549,1.5,8.625,Q3 2023,3.0,Growing Interest
-MRP,Millrose Properties,"Glenn Greenberg
-Greenhaven Associates",335323000,3.27,2,4.19,9976865,1.8,7.542000000000001,Q1 2025,0.0,Premium Pick
+Warren Buffett",1399621000,3.08,2,5.75,14433549,1.5,8.625,Q3 2023,1.0,Growing Interest
+MRP,Millrose Properties,"Greenhaven Associates
+Glenn Greenberg",317974000,3.21,2,4.19,9972176,1.8,7.542000000000001,Q1 2025,0.0,Premium Pick
 NRG,NRG Energy Inc.,"David Tepper
-Polen Capital Management",303820000,2.05,2,4.1,1876009,1.8,7.38,Q2 2024,1.0,Premium Pick
+Polen Capital Management",303820000,2.05,2,4.1,1876009,1.8,7.38,Q2 2020,0.0,Premium Pick

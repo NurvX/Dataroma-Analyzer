@@ -519,7 +519,7 @@
       "company_name": "Nabors Industries Ltd."
     },
     {
-      "symbol": "SMLR",
+      "symbol": "SMLR-OLD",
       "manager_id": "LMM",
       "action": "Add 23.26%",
       "date": "Q1 2025",
@@ -948,7 +948,7 @@
       "company_name": "Atkore International Group Inc."
     },
     {
-      "symbol": "SMLR",
+      "symbol": "SMLR-OLD",
       "manager_id": "LMM",
       "action": "Buy",
       "date": "Q4 2024",
@@ -11002,6 +11002,6 @@
       "company_name": "Nabors Industries Ltd."
     }
   ],
-  "timestamp": "2026-01-01T06:13:06.185606",
-  "scraped_date": "2026-01-01"
+  "timestamp": "2026-02-01T06:24:51.976877",
+  "scraped_date": "2026-02-01"
 }

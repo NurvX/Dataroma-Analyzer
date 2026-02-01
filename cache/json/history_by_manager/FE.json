@@ -3654,7 +3654,7 @@
       "company_name": "Ducommun Inc."
     },
     {
-      "symbol": "DENN",
+      "symbol": "DENN-OLD",
       "manager_id": "FE",
       "action": "Reduce 16.81%",
       "date": "Q3 2025",
@@ -5865,7 +5865,7 @@
       "company_name": "Performance Food Group"
     },
     {
-      "symbol": "DENN",
+      "symbol": "DENN-OLD",
       "manager_id": "FE",
       "action": "Add 6.02%",
       "date": "Q2 2025",
@@ -10463,7 +10463,7 @@
       "company_name": "Coca-Cola FEMSA S A CV"
     },
     {
-      "symbol": "DENN",
+      "symbol": "DENN-OLD",
       "manager_id": "FE",
       "action": "Add 10.38%",
       "date": "Q1 2025",
@@ -11002,6 +11002,6 @@
       "company_name": "Riley Exploration Permian In"
     }
   ],
-  "timestamp": "2026-01-01T06:13:06.284648",
-  "scraped_date": "2026-01-01"
+  "timestamp": "2026-02-01T06:24:52.074934",
+  "scraped_date": "2026-02-01"
 }

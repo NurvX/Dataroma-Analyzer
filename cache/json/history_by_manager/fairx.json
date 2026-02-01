@@ -8802,7 +8802,7 @@
       "company_name": "USA Mobility"
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "fairx",
       "action": "Sell 100.00%",
       "date": "Q3 2007",
@@ -8810,7 +8810,7 @@
       "action_type": "Sell",
       "shares": 230400,
       "portfolio_percentage": 0.18,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "SE-OLD",
@@ -8934,7 +8934,7 @@
       "company_name": "Calumet Specialty Products"
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "fairx",
       "action": "Reduce 77.90%",
       "date": "Q2 2007",
@@ -8942,7 +8942,7 @@
       "action_type": "Reduce",
       "shares": 812000,
       "portfolio_percentage": 0.64,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "PD-OLD",
@@ -9077,6 +9077,6 @@
       "company_name": "Duke Energy"
     }
   ],
-  "timestamp": "2026-01-01T06:13:06.092732",
-  "scraped_date": "2026-01-01"
+  "timestamp": "2026-02-01T06:24:51.884610",
+  "scraped_date": "2026-02-01"
 }

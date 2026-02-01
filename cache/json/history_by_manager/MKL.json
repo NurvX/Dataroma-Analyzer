@@ -277,7 +277,7 @@
       "company_name": "Microsoft Corp."
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "MKL",
       "action": "Add 0.83%",
       "date": "Q3 2025",
@@ -285,7 +285,7 @@
       "action_type": "Add",
       "shares": 6250,
       "portfolio_percentage": 0.01,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "ROL",
@@ -772,7 +772,7 @@
       "company_name": "Microsoft Corp."
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "MKL",
       "action": "Add 0.71%",
       "date": "Q2 2025",
@@ -780,7 +780,7 @@
       "action_type": "Add",
       "shares": 5250,
       "portfolio_percentage": 0.01,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "ROL",
@@ -1311,7 +1311,7 @@
       "company_name": "LPL Financial Holdings Inc."
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "MKL",
       "action": "Add 1.09%",
       "date": "Q1 2025",
@@ -1319,7 +1319,7 @@
       "action_type": "Add",
       "shares": 8000,
       "portfolio_percentage": 0.02,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "SBUX",
@@ -1806,7 +1806,7 @@
       "company_name": "Caterpillar Inc."
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "MKL",
       "action": "Add 1.80%",
       "date": "Q4 2024",
@@ -1814,7 +1814,7 @@
       "action_type": "Add",
       "shares": 13000,
       "portfolio_percentage": 0.02,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "LOW",
@@ -2378,7 +2378,7 @@
       "company_name": "Caterpillar Inc."
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "MKL",
       "action": "Add 2.26%",
       "date": "Q3 2024",
@@ -2386,7 +2386,7 @@
       "action_type": "Add",
       "shares": 16000,
       "portfolio_percentage": 0.03,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "LOW",
@@ -2950,7 +2950,7 @@
       "company_name": "Lowe's Cos."
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "MKL",
       "action": "Add 1.80%",
       "date": "Q2 2024",
@@ -2958,7 +2958,7 @@
       "action_type": "Add",
       "shares": 12500,
       "portfolio_percentage": 0.03,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "NVR",
@@ -3522,7 +3522,7 @@
       "company_name": "Charles Schwab Corp."
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "MKL",
       "action": "Add 1.39%",
       "date": "Q1 2024",
@@ -3530,7 +3530,7 @@
       "action_type": "Add",
       "shares": 9500,
       "portfolio_percentage": 0.02,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "ROL",
@@ -4061,7 +4061,7 @@
       "company_name": "Lowe's Cos."
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "MKL",
       "action": "Add 1.78%",
       "date": "Q4 2023",
@@ -4069,7 +4069,7 @@
       "action_type": "Add",
       "shares": 12000,
       "portfolio_percentage": 0.02,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "ROL",
@@ -4633,7 +4633,7 @@
       "company_name": "Rollins Inc."
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "MKL",
       "action": "Add 1.97%",
       "date": "Q3 2023",
@@ -4641,7 +4641,7 @@
       "action_type": "Add",
       "shares": 13000,
       "portfolio_percentage": 0.03,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "MSFT",
@@ -5282,7 +5282,7 @@
       "company_name": "KKR & Co. L.P."
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "MKL",
       "action": "Add 1.38%",
       "date": "Q2 2023",
@@ -5290,7 +5290,7 @@
       "action_type": "Add",
       "shares": 9000,
       "portfolio_percentage": 0.02,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "MSFT",
@@ -5887,7 +5887,7 @@
       "company_name": "Rollins Inc."
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "MKL",
       "action": "Add 1.56%",
       "date": "Q1 2023",
@@ -5895,7 +5895,7 @@
       "action_type": "Add",
       "shares": 10000,
       "portfolio_percentage": 0.02,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "DIS",
@@ -6459,7 +6459,7 @@
       "company_name": "Wells Fargo"
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "MKL",
       "action": "Add 1.91%",
       "date": "Q4 2022",
@@ -6467,7 +6467,7 @@
       "action_type": "Add",
       "shares": 12000,
       "portfolio_percentage": 0.03,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "ROL",
@@ -7240,7 +7240,7 @@
       "company_name": "Analog Devices"
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "MKL",
       "action": "Add 0.62%",
       "date": "Q3 2022",
@@ -7248,7 +7248,7 @@
       "action_type": "Add",
       "shares": 3900,
       "portfolio_percentage": 0.01,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "MSCI",
@@ -7702,7 +7702,7 @@
       "company_name": "Rollins Inc."
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "MKL",
       "action": "Add 0.94%",
       "date": "Q2 2022",
@@ -7710,7 +7710,7 @@
       "action_type": "Add",
       "shares": 5800,
       "portfolio_percentage": 0.01,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "ALL",
@@ -8219,7 +8219,7 @@
       "company_name": "TransUnion"
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "MKL",
       "action": "Add 1.53%",
       "date": "Q1 2022",
@@ -8227,7 +8227,7 @@
       "action_type": "Add",
       "shares": 9300,
       "portfolio_percentage": 0.02,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "ADI",
@@ -11002,6 +11002,6 @@
       "company_name": "Wells Fargo"
     }
   ],
-  "timestamp": "2026-01-01T06:13:06.382234",
-  "scraped_date": "2026-01-01"
+  "timestamp": "2026-02-01T06:24:52.169949",
+  "scraped_date": "2026-02-01"
 }

@@ -1014,7 +1014,7 @@
       "company_name": "Dt Midstream Inc"
     },
     {
-      "symbol": "COMM",
+      "symbol": "VISN",
       "manager_id": "oa",
       "action": "Sell 100.00%",
       "date": "Q4 2024",
@@ -1022,7 +1022,7 @@
       "action_type": "Sell",
       "shares": 71210,
       "portfolio_percentage": 0.02,
-      "company_name": "CommScope Holding Co."
+      "company_name": "Vistance Networks Inc."
     },
     {
       "symbol": "OMF",
@@ -1267,7 +1267,7 @@
       "company_name": "Dt Midstream Inc"
     },
     {
-      "symbol": "COMM",
+      "symbol": "VISN",
       "manager_id": "oa",
       "action": "Reduce 73.20%",
       "date": "Q3 2024",
@@ -1275,7 +1275,7 @@
       "action_type": "Reduce",
       "shares": 194500,
       "portfolio_percentage": 0.05,
-      "company_name": "CommScope Holding Co."
+      "company_name": "Vistance Networks Inc."
     },
     {
       "symbol": "DVN",
@@ -2961,7 +2961,7 @@
       "company_name": "OneMain Holdings"
     },
     {
-      "symbol": "COMM",
+      "symbol": "VISN",
       "manager_id": "oa",
       "action": "Buy",
       "date": "Q1 2023",
@@ -2969,7 +2969,7 @@
       "action_type": "Buy",
       "shares": 265710,
       "portfolio_percentage": 0.1,
-      "company_name": "CommScope Holding Co."
+      "company_name": "Vistance Networks Inc."
     },
     {
       "symbol": "SCHO",
@@ -11002,6 +11002,6 @@
       "company_name": "Insmed Inc."
     }
   ],
-  "timestamp": "2026-01-01T06:13:06.164919",
-  "scraped_date": "2026-01-01"
+  "timestamp": "2026-02-01T06:24:51.956347",
+  "scraped_date": "2026-02-01"
 }

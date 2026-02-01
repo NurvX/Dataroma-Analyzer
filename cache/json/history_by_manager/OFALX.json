@@ -1927,7 +1927,7 @@
       "company_name": "Corteva Inc."
     },
     {
-      "symbol": "DENN",
+      "symbol": "DENN-OLD",
       "manager_id": "OFALX",
       "action": "Sell 100.00%",
       "date": "Q2 2025",
@@ -2224,7 +2224,7 @@
       "company_name": "Eastman Chemical"
     },
     {
-      "symbol": "DENN",
+      "symbol": "DENN-OLD",
       "manager_id": "OFALX",
       "action": "Add 6.18%",
       "date": "Q1 2025",
@@ -4281,7 +4281,7 @@
       "company_name": "Wells Fargo"
     },
     {
-      "symbol": "DENN",
+      "symbol": "DENN-OLD",
       "manager_id": "OFALX",
       "action": "Add 2.23%",
       "date": "Q3 2024",
@@ -5139,7 +5139,7 @@
       "company_name": "Becton Dickinson"
     },
     {
-      "symbol": "DENN",
+      "symbol": "DENN-OLD",
       "manager_id": "OFALX",
       "action": "Add 9.88%",
       "date": "Q2 2024",
@@ -6041,7 +6041,7 @@
       "company_name": "Zimmer Biomet Holdings"
     },
     {
-      "symbol": "DENN",
+      "symbol": "DENN-OLD",
       "manager_id": "OFALX",
       "action": "Reduce 2.51%",
       "date": "Q1 2024",
@@ -6558,7 +6558,7 @@
       "company_name": "McDonald's Corp."
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "OFALX",
       "action": "Sell 100.00%",
       "date": "Q1 2024",
@@ -6566,7 +6566,7 @@
       "action_type": "Sell",
       "shares": 6000,
       "portfolio_percentage": 0.19,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "FA",
@@ -7042,7 +7042,7 @@
       "company_name": "ABM Industries"
     },
     {
-      "symbol": "DENN",
+      "symbol": "DENN-OLD",
       "manager_id": "OFALX",
       "action": "Reduce 10.60%",
       "date": "Q4 2023",
@@ -7405,7 +7405,7 @@
       "company_name": "McDonald's Corp."
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "OFALX",
       "action": "Reduce 62.50%",
       "date": "Q4 2023",
@@ -7413,7 +7413,7 @@
       "action_type": "Reduce",
       "shares": 10000,
       "portfolio_percentage": 0.32,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "PB",
@@ -7658,7 +7658,7 @@
       "company_name": "Axalta Coating Systems Ltd."
     },
     {
-      "symbol": "DENN",
+      "symbol": "DENN-OLD",
       "manager_id": "OFALX",
       "action": "Add 28.04%",
       "date": "Q3 2023",
@@ -8087,7 +8087,7 @@
       "company_name": "Home Bancshares Inc."
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "OFALX",
       "action": "Reduce 5.88%",
       "date": "Q3 2023",
@@ -8095,7 +8095,7 @@
       "action_type": "Reduce",
       "shares": 1000,
       "portfolio_percentage": 0.03,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "WFC",
@@ -8901,7 +8901,7 @@
       "company_name": "Kulicke & Soffa Ind."
     },
     {
-      "symbol": "DENN",
+      "symbol": "DENN-OLD",
       "manager_id": "OFALX",
       "action": "Reduce 5.92%",
       "date": "Q2 2023",
@@ -10661,7 +10661,7 @@
       "company_name": "Walgreens Boots Alliance"
     },
     {
-      "symbol": "DENN",
+      "symbol": "DENN-OLD",
       "manager_id": "OFALX",
       "action": "Reduce 0.91%",
       "date": "Q4 2022",
@@ -11002,6 +11002,6 @@
       "company_name": "Hologic Inc."
     }
   ],
-  "timestamp": "2026-01-01T06:13:06.435323",
-  "scraped_date": "2026-01-01"
+  "timestamp": "2026-02-01T06:24:52.193625",
+  "scraped_date": "2026-02-01"
 }

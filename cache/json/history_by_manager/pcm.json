@@ -2466,7 +2466,7 @@
       "company_name": "Axon Enterprise Inc."
     },
     {
-      "symbol": "CMPO",
+      "symbol": "GPGI",
       "manager_id": "pcm",
       "action": "Reduce 75.40%",
       "date": "Q3 2025",
@@ -2474,7 +2474,7 @@
       "action_type": "Reduce",
       "shares": 102372,
       "portfolio_percentage": 0.0,
-      "company_name": "Composecure Inc A"
+      "company_name": "GPGI Inc."
     },
     {
       "symbol": "UNH",
@@ -3489,17 +3489,6 @@
       "company_name": "Cameco Corp."
     },
     {
-      "symbol": "CMPO",
-      "manager_id": "pcm",
-      "action": "Buy",
-      "date": "Q2 2025",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 135767,
-      "portfolio_percentage": 0.01,
-      "company_name": "Composecure Inc A"
-    },
-    {
       "symbol": "CRDO",
       "manager_id": "pcm",
       "action": "Buy",
@@ -3597,6 +3586,17 @@
       "shares": 39394,
       "portfolio_percentage": 0.01,
       "company_name": "Grupo Financiero Galicia S.A."
+    },
+    {
+      "symbol": "GPGI",
+      "manager_id": "pcm",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 135767,
+      "portfolio_percentage": 0.01,
+      "company_name": "GPGI Inc."
     },
     {
       "symbol": "HCI",
@@ -7482,6 +7482,17 @@
       "company_name": "Booz Allen Hamilton Hldg Corp."
     },
     {
+      "symbol": "CALY",
+      "manager_id": "pcm",
+      "action": "Sell 100.00%",
+      "date": "Q1 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 83466,
+      "portfolio_percentage": 0.0,
+      "company_name": "Callaway Golf Co."
+    },
+    {
       "symbol": "CPA",
       "manager_id": "pcm",
       "action": "Sell 100.00%",
@@ -7557,17 +7568,6 @@
       "shares": 3105,
       "portfolio_percentage": 0.0,
       "company_name": "Jsc Kaspi.kz ADR"
-    },
-    {
-      "symbol": "MODG",
-      "manager_id": "pcm",
-      "action": "Sell 100.00%",
-      "date": "Q1 2025",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 83466,
-      "portfolio_percentage": 0.0,
-      "company_name": "Callaway Golf Co."
     },
     {
       "symbol": "USHY",
@@ -8483,7 +8483,7 @@
       "company_name": "Global X S&P 500 Catholic Values ETF"
     },
     {
-      "symbol": "MODG",
+      "symbol": "CALY",
       "manager_id": "pcm",
       "action": "Reduce 13.03%",
       "date": "Q4 2024",
@@ -10166,7 +10166,7 @@
       "company_name": "BlackLine Inc."
     },
     {
-      "symbol": "MODG",
+      "symbol": "CALY",
       "manager_id": "pcm",
       "action": "Reduce 37.32%",
       "date": "Q3 2024",
@@ -10529,7 +10529,7 @@
       "company_name": "HDFC Bank Ltd."
     },
     {
-      "symbol": "MODG",
+      "symbol": "CALY",
       "manager_id": "pcm",
       "action": "Add 18.91%",
       "date": "Q2 2024",
@@ -11002,6 +11002,6 @@
       "company_name": "BlackLine Inc."
     }
   ],
-  "timestamp": "2026-01-01T06:13:06.323082",
-  "scraped_date": "2026-01-01"
+  "timestamp": "2026-02-01T06:24:52.113376",
+  "scraped_date": "2026-02-01"
 }

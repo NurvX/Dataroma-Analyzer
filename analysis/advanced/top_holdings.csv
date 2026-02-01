@@ -1,5 +1,11 @@
 ticker,company_name,current_price,managers,total_value,avg_portfolio_pct,manager_count,total_shares,max_portfolio_pct,portfolio_pct_std
-MSFT,Microsoft Corp.,483.62,"Francois Rochon
+MSFT,Microsoft Corp.,430.29,"Robert Vinall
+Torray Funds
+Mairs & Power Growth Fund
+Dodge & Cox
+David Katz
+Hillman Value Fund
+Francois Rochon
 Lee Ainslie
 Viking Global Investors
 Daniel Loeb
@@ -22,19 +28,19 @@ Thomas Russo
 John Armitage
 Polen Capital Management
 Christopher Davis
+Wallace Weitz
 Jensen Investment Management
 Yacktman Asset Management
 Thomas Gayner
-Wallace Weitz
 William Von Mueffling
+Robert Olstein",32620415000,5.88,35,63378328,24.33,5.99
+GOOGL,Alphabet Inc.,338.0,"Robert Vinall
 Torray Funds
-Robert Vinall
-Robert Olstein
+Tweedy Browne Co.
 Dodge & Cox
-Mairs & Power Growth Fund
 David Katz
-Hillman Value Fund",32968002000,5.99,35,63650936,24.33,6.0
-GOOGL,Alphabet Inc.,313.0,"Ruane Cunniff
+Steven Romick
+Ruane Cunniff
 Bill Nygren
 Francois Rochon
 Lee Ainslie
@@ -58,15 +64,13 @@ Harry Burn
 Jensen Investment Management
 Thomas Gayner
 William Von Mueffling
-Samantha McLemore
-Torray Funds
-Robert Vinall
-Guy Spier - Aquamarine Capital
-Tweedy Browne Co.
+Samantha McLemore",18768532000,4.59,31,74340225,19.14,4.34
+META,Meta Platforms Inc.,716.5,"Robert Vinall
+Mairs & Power Growth Fund
 Dodge & Cox
 David Katz
-Steven Romick",18277679000,4.44,32,75185848,19.14,4.36
-META,Meta Platforms Inc.,660.09,"Ruane Cunniff
+Steven Romick
+Ruane Cunniff
 Francois Rochon
 Viking Global Investors
 Daniel Loeb
@@ -84,18 +88,18 @@ First Eagle Investment Management
 John Armitage
 Polen Capital Management
 Christopher Davis
+Wallace Weitz
 David Abrams
 Jensen Investment Management
 Thomas Gayner
-Wallace Weitz
 Samantha McLemore
-Robert Vinall
-Robert Olstein
-Dodge & Cox
+Robert Olstein",14441940000,4.93,29,20106918,20.95,4.39
+GOOG,Alphabet Inc. CL C,338.53,"Torray Funds
 Mairs & Power Growth Fund
+Dodge & Cox
 David Katz
-Steven Romick",14129259000,4.89,29,19239712,18.78,4.13
-GOOG,Alphabet Inc. CL C,313.8,"Francois Rochon
+Steven Romick
+Francois Rochon
 Glenn Greenberg
 Bill Ackman
 Triple Frond Partners
@@ -113,16 +117,16 @@ Kahn Brothers Group
 Thomas Russo
 Polen Capital Management
 Christopher Davis
+Wallace Weitz
 Yacktman Asset Management
 Thomas Gayner
-Wallace Weitz
-Torray Funds
-Robert Olstein
-Dodge & Cox
+Robert Olstein",13611788000,5.88,27,53642184,18.48,4.69
+AMZN,Amazon.com Inc.,239.3,"Torray Funds
 Mairs & Power Growth Fund
+Dodge & Cox
 David Katz
-Steven Romick",13214834000,5.78,27,54259222,18.48,4.73
-AMZN,Amazon.com Inc.,230.82,"Lee Ainslie
+Steven Romick
+Lee Ainslie
 Daniel Loeb
 ValueAct Capital
 Glenn Greenberg
@@ -138,16 +142,14 @@ AKO Capital
 John Armitage
 Polen Capital Management
 Christopher Davis
-Thomas Gayner
 Wallace Weitz
+Thomas Gayner
 Samantha McLemore
-Torray Funds
-Robert Olstein
-Dodge & Cox
+Robert Olstein",18761380000,7.0,25,84801448,30.34,6.7
+V,Visa Inc.,321.83,"Torray Funds
 Mairs & Power Growth Fund
 David Katz
-Steven Romick",18796654000,7.05,25,85606657,30.34,6.66
-V,Visa Inc.,350.71,"Francois Rochon
+Francois Rochon
 Viking Global Investors
 ValueAct Capital
 David Rolfe
@@ -163,15 +165,16 @@ Lindsell Train
 Thomas Russo
 John Armitage
 Polen Capital Management
+Wallace Weitz
 Yacktman Asset Management
 Thomas Gayner
-Wallace Weitz
 William Von Mueffling
-Torray Funds
-Robert Olstein
+Robert Olstein",21068684000,4.42,24,61703523,18.18,4.32
+TSM,Taiwan Semiconductor S.A.,330.56,"Torray Funds
 Mairs & Power Growth Fund
-David Katz",21011399000,4.4,24,61548419,18.18,4.33
-TSM,Taiwan Semiconductor S.A.,303.89,"Ruane Cunniff
+Dodge & Cox
+Hillman Value Fund
+Ruane Cunniff
 Francois Rochon
 Lee Ainslie
 Viking Global Investors
@@ -187,12 +190,11 @@ First Eagle Investment Management
 Polen Capital Management
 Christopher Davis
 Jensen Investment Management
-William Von Mueffling
-Torray Funds
-Dodge & Cox
+William Von Mueffling",9959228000,2.82,21,78080509,9.65,2.37
+AAPL,Apple Inc.,259.48,"Torray Funds
 Mairs & Power Growth Fund
-Hillman Value Fund",9715216000,2.79,21,79023201,9.65,2.39
-AAPL,Apple Inc.,271.86,"Francois Rochon
+David Katz
+Francois Rochon
 Lee Ainslie
 David Rolfe
 Bruce Berkowitz
@@ -207,11 +209,12 @@ Thomas Russo
 Polen Capital Management
 Jensen Investment Management
 Thomas Gayner
-Torray Funds
-Robert Olstein
-Mairs & Power Growth Fund
-David Katz",70770362000,6.16,19,277934105,60.42,14.18
-BRK.B,Berkshire Hathaway CL B,502.65,"Ruane Cunniff
+Robert Olstein",70793773000,6.2,19,277959008,60.42,14.18
+BRK.B,Berkshire Hathaway CL B,480.53,"Torray Funds
+Tweedy Browne Co.
+David Katz
+Guy Spier - Aquamarine Capital
+Ruane Cunniff
 Francois Rochon
 Bill & Melinda Gates Foundation Trust
 Bruce Berkowitz
@@ -221,16 +224,15 @@ Chuck Akre
 Li Lu
 Thomas Russo
 Christopher Davis
+Wallace Weitz
 Harry Burn
 Yacktman Asset Management
 Thomas Gayner
-Wallace Weitz
-Torray Funds
-Robert Olstein
-Guy Spier - Aquamarine Capital
-Tweedy Browne Co.
-David Katz",16468856000,7.37,19,32758200,29.91,8.55
-COF,Capital One Financial,242.36,"Ruane Cunniff
+Robert Olstein",16544058000,8.05,19,32907804,33.25,9.91
+COF,Capital One Financial,218.93,"Dodge & Cox
+David Katz
+Richard Pzena
+Ruane Cunniff
 Bill Nygren
 Francois Rochon
 Lee Ainslie
@@ -243,11 +245,13 @@ Clifford Sosin
 John Armitage
 Christopher Davis
 Harry Burn
-Thomas Gayner
-Richard Pzena
+Thomas Gayner",8968872000,3.44,17,41252272,9.3,2.45
+UNH,United Health Group Inc.,286.93,"Torray Funds
+Mairs & Power Growth Fund
 Dodge & Cox
-David Katz",9262187000,3.44,17,43570366,9.3,2.44
-UNH,United Health Group Inc.,330.11,"Ruane Cunniff
+David Katz
+Hillman Value Fund
+Ruane Cunniff
 Warren Buffett
 Chase Coleman
 David Tepper
@@ -258,13 +262,9 @@ Jensen Investment Management
 Yacktman Asset Management
 Thomas Gayner
 Samantha McLemore
-Torray Funds
-Robert Olstein
-Dodge & Cox
-Mairs & Power Growth Fund
-David Katz
-Hillman Value Fund",5207786000,1.52,17,15081919,5.13,1.55
-DIS,Walt Disney Co.,113.77,"Mason Hawkins
+Robert Olstein",4953253000,1.44,17,14646142,5.13,1.44
+DIS,Walt Disney Co.,112.8,"Hillman Value Fund
+Mason Hawkins
 Francois Rochon
 Lee Ainslie
 Viking Global Investors
@@ -279,24 +279,9 @@ Thomas Russo
 Harry Burn
 Yacktman Asset Management
 Thomas Gayner
-Robert Olstein
-Hillman Value Fund",3454207000,3.09,17,30167740,10.47,3.05
-BAC,Bank of America Corp.,55.0,"Charles Bobrinskoy
-Lee Ainslie
-Viking Global Investors
-Glenn Greenberg
-Warren Buffett
-Francis Chou
-Li Lu
-Kahn Brothers Group
-Christopher Davis
-Harry Burn
-Richard Pzena
-Guy Spier - Aquamarine Capital
-Tweedy Browne Co.
-Dodge & Cox
-David Katz",31391291000,3.92,15,608476284,16.66,5.2
-MA,Mastercard Inc.,570.88,"Francois Rochon
+Robert Olstein",3453859000,3.08,17,30166740,10.47,3.05
+MA,Mastercard Inc.,538.79,"Guy Spier - Aquamarine Capital
+Francois Rochon
 Valley Forge Capital Management
 Glenn Greenberg
 Warren Buffett
@@ -305,12 +290,14 @@ Chuck Akre
 Thomas Russo
 John Armitage
 Polen Capital Management
+Wallace Weitz
 Jensen Investment Management
 Yacktman Asset Management
-Thomas Gayner
-Wallace Weitz
-Guy Spier - Aquamarine Capital",8527260000,6.05,14,14991403,20.32,6.59
-NVDA,NVIDIA Corp.,186.5,"Lee Ainslie
+Thomas Gayner",8564969000,6.34,14,15057553,20.32,6.9
+NVDA,NVIDIA Corp.,191.13,"Torray Funds
+Mairs & Power Growth Fund
+David Katz
+Lee Ainslie
 Daniel Loeb
 Chase Coleman
 Duan Yongping
@@ -320,25 +307,37 @@ Kahn Brothers Group
 Polen Capital Management
 Christopher Davis
 Jensen Investment Management
-Samantha McLemore
-Torray Funds
+Samantha McLemore",5818490000,3.39,14,31186152,9.42,3.15
+WFC,Wells Fargo,90.49,"Torray Funds
+Tweedy Browne Co.
 Mairs & Power Growth Fund
-David Katz",5918397000,3.49,14,31720419,10.94,3.39
-WFC,Wells Fargo,93.2,"Francis Chou
+Dodge & Cox
+David Katz
+Richard Pzena
+Steven Romick
+Francis Chou
 Thomas Russo
 Christopher Davis
 Harry Burn
 Yacktman Asset Management
 Thomas Gayner
-Richard Pzena
-Torray Funds
-Robert Olstein
-Tweedy Browne Co.
-Dodge & Cox
-Mairs & Power Growth Fund
+Robert Olstein",3104787000,1.67,14,34237551,4.27,1.41
+BAC,Bank of America Corp.,53.2,"Tweedy Browne Co.
 David Katz
-Steven Romick",3317015000,1.72,14,39573074,4.44,1.41
-BRK.A,Berkshire Hathaway CL A,754800.0,"Francois Rochon
+Richard Pzena
+Charles Bobrinskoy
+Lee Ainslie
+Viking Global Investors
+Glenn Greenberg
+Warren Buffett
+Francis Chou
+Li Lu
+Kahn Brothers Group
+Christopher Davis
+Harry Burn",30799561000,3.53,13,596975630,16.66,4.93
+BRK.A,Berkshire Hathaway CL A,722500.0,"Tweedy Browne Co.
+Guy Spier - Aquamarine Capital
+Francois Rochon
 Norbert Lou
 Bruce Berkowitz
 Christopher Bloomstran
@@ -348,10 +347,9 @@ Prem Watsa
 First Eagle Investment Management
 Thomas Russo
 Christopher Davis
-Thomas Gayner
-Guy Spier - Aquamarine Capital
-Tweedy Browne Co.",3539635000,9.6,13,4693,33.92,11.32
-MCO,Moody's Corp.,510.85,"Valley Forge Capital Management
+Thomas Gayner",3539661000,10.23,13,4693,33.92,11.4
+MCO,Moody's Corp.,515.56,"Guy Spier - Aquamarine Capital
+Valley Forge Capital Management
 Glenn Greenberg
 Warren Buffett
 Francis Chou
@@ -361,181 +359,209 @@ Chuck Akre
 AKO Capital
 Yacktman Asset Management
 Thomas Gayner
-William Von Mueffling
-Guy Spier - Aquamarine Capital",20883600000,5.21,12,43828918,15.06,5.07
-FISV,Fiserv Inc.,67.17,"Charles Bobrinskoy
-John Rogers
-Francois Rochon
-Norbert Lou
-Seth Klarman
-David Tepper
-Torray Funds
-Robert Olstein
-Dodge & Cox
-Mairs & Power Growth Fund
-David Katz
-Hillman Value Fund",3900915000,1.79,12,30256073,2.89,0.8
-JPM,JPMorgan Chase & Co.,322.22,"Francois Rochon
-Viking Global Investors
-Glenn Greenberg
-Kahn Brothers Group
-Thomas Russo
-Christopher Davis
-Greenhaven Associates
-Thomas Gayner
-Samantha McLemore
-Torray Funds
-Mairs & Power Growth Fund
-David Katz",2421021000,1.65,12,7675303,5.31,1.84
-AXP,American Express,369.95,"Warren Buffett
-Christopher Bloomstran
-First Eagle Investment Management
-Lindsell Train
-Kahn Brothers Group
-Thomas Russo
-Christopher Davis
-Thomas Gayner
-Torray Funds
-Guy Spier - Aquamarine Capital
-David Katz",51274088000,4.25,11,154365625,21.98,8.06
-SCHW,Charles Schwab Corp.,99.91,"Ruane Cunniff
-Bill Nygren
-John Rogers
-Francois Rochon
-Lee Ainslie
-Viking Global Investors
-Christopher Davis
-Yacktman Asset Management
-Greenhaven Associates
-Thomas Gayner
-Dodge & Cox",8411182000,3.11,11,88102879,5.97,2.25
-AON,Aon Plc,352.88,"Viking Global Investors
-Warren Buffett
-Polen Capital Management
-Jensen Investment Management
-Yacktman Asset Management
-Thomas Gayner
-Wallace Weitz
-William Von Mueffling
-Dodge & Cox
-David Katz
-Steven Romick",4191038000,1.33,11,11753435,3.71,1.35
-CMCSA,Comcast Corp.,29.89,"Glenn Greenberg
-First Eagle Investment Management
-Kahn Brothers Group
-Thomas Russo
-Yacktman Asset Management
-Thomas Gayner
-Robert Olstein
-Dodge & Cox
+William Von Mueffling",20884528000,5.65,12,43828918,15.06,5.19
+CMCSA,Comcast Corp.,29.75,"Dodge & Cox
 David Katz
 Steven Romick
-Hillman Value Fund",3900596000,1.39,11,124143801,3.55,1.2
-PEP,PepsiCo Inc.,143.52,"Lee Ainslie
-Lindsell Train
+Hillman Value Fund
+Glenn Greenberg
+First Eagle Investment Management
 Kahn Brothers Group
 Thomas Russo
-Polen Capital Management
-Jensen Investment Management
+Wallace Weitz
 Yacktman Asset Management
 Thomas Gayner
-Torray Funds
-Robert Olstein
-David Katz",678547000,1.61,11,4831585,7.59,2.41
-ORCL,Oracle Corp.,194.91,"Charles Bobrinskoy
-Sarah Ketterer
-First Eagle Investment Management
-Lindsell Train
-Thomas Russo
-Polen Capital Management
-Christopher Davis
-Jensen Investment Management
-Wallace Weitz
-William Von Mueffling",5469647000,2.09,10,19448323,8.48,2.69
-INTU,Intuit Inc.,662.42,"Lee Ainslie
+Robert Olstein",3687089000,1.08,12,121257349,2.34,0.81
+INTU,Intuit Inc.,498.92,"Torray Funds
+David Katz
+Lee Ainslie
 Viking Global Investors
+Henry Ellenbogen
 Valley Forge Capital Management
 Terry Smith
 Dennis Hong
 AKO Capital
 Lindsell Train
 Polen Capital Management
+Jensen Investment Management",2860208000,3.81,12,4188928,11.61,3.86
+JPM,JPMorgan Chase & Co.,305.89,"Torray Funds
+Mairs & Power Growth Fund
+David Katz
+Greenhaven Associates
+Francois Rochon
+Viking Global Investors
+Glenn Greenberg
+Kahn Brothers Group
+Thomas Russo
+Christopher Davis
+Thomas Gayner
+Samantha McLemore",2403706000,1.64,12,7597655,5.12,1.79
+AXP,American Express,352.17,"Torray Funds
+David Katz
+Guy Spier - Aquamarine Capital
+Warren Buffett
+Christopher Bloomstran
+First Eagle Investment Management
+Lindsell Train
+Kahn Brothers Group
+Thomas Russo
+Christopher Davis
+Thomas Gayner",51218328000,3.62,11,154187248,18.84,6.94
+SCHW,Charles Schwab Corp.,103.92,"Dodge & Cox
+Greenhaven Associates
+Ruane Cunniff
+Bill Nygren
+John Rogers
+Francois Rochon
+Lee Ainslie
+Viking Global Investors
+Christopher Davis
+Yacktman Asset Management
+Thomas Gayner",8157003000,3.1,11,83011079,5.97,2.24
+AON,Aon Plc,349.64,"Dodge & Cox
+David Katz
+Steven Romick
+Viking Global Investors
+Warren Buffett
+Polen Capital Management
+Wallace Weitz
 Jensen Investment Management
-David Katz",2547281000,4.13,10,3730038,11.61,4.19
-JNJ,Johnson & Johnson,206.95,"Charles Bobrinskoy
+Yacktman Asset Management
+Thomas Gayner
+William Von Mueffling",4893771000,1.39,11,13767385,4.14,1.38
+PEP,PepsiCo Inc.,153.63,"Torray Funds
+David Katz
+Lee Ainslie
+Lindsell Train
+Kahn Brothers Group
+Thomas Russo
+Polen Capital Management
+Jensen Investment Management
+Yacktman Asset Management
+Thomas Gayner
+Robert Olstein",682509000,1.67,11,4852327,7.59,2.44
+ORCL,Oracle Corp.,164.58,"Charles Bobrinskoy
+Sarah Ketterer
+First Eagle Investment Management
+Lindsell Train
+Thomas Russo
+Polen Capital Management
+Christopher Davis
+Wallace Weitz
+Jensen Investment Management
+William Von Mueffling",5469647000,1.96,10,19448323,8.48,2.71
+FISV,Fiserv Inc.,63.73,"Mairs & Power Growth Fund
+Dodge & Cox
+Hillman Value Fund
+Charles Bobrinskoy
+John Rogers
+Francois Rochon
+Norbert Lou
+Seth Klarman
+David Tepper
+Robert Olstein",2550016000,1.74,10,35481102,2.85,0.68
+FERG,Ferguson Enterprises Inc.,252.46,"Steven Romick
+Francois Rochon
+Lee Ainslie
+Henry Ellenbogen
+Nelson Peltz
+Seth Klarman
+First Eagle Investment Management
+John Armitage
+Thomas Gayner
+William Von Mueffling",2081704000,2.44,10,9274336,6.16,2.49
+JNJ,Johnson & Johnson,227.25,"Torray Funds
+Tweedy Browne Co.
+Mairs & Power Growth Fund
+David Katz
+Charles Bobrinskoy
 Prem Watsa
 Jensen Investment Management
 Yacktman Asset Management
 Thomas Gayner
-Torray Funds
-Robert Olstein
-Tweedy Browne Co.
-Mairs & Power Growth Fund
-David Katz",470277000,1.62,10,2536284,5.91,1.83
-UBER,Uber Technologies Inc.,81.71,"Bill Ackman
+Robert Olstein",451044000,1.61,10,2395126,5.91,1.85
+BN,Brookfield Corp.,45.55,"Dodge & Cox
+Daniel Loeb
+Bill Ackman
+Stephen Mandel
+Third Avenue Management
+Josh Tarasoff
+Chuck Akre
+Kahn Brothers Group
+Thomas Gayner",6771837000,7.87,9,148045605,19.21,7.37
+UBER,Uber Technologies Inc.,80.05,"Steven Romick
+Bill Ackman
 Chase Coleman
 David Tepper
 Thomas Russo
 Polen Capital Management
 Thomas Gayner
 William Von Mueffling
-Robert Olstein
-Steven Romick",4699273000,3.8,9,47966448,20.25,6.38
-CHTR,Charter Communications,208.75,"Ruane Cunniff
+Robert Olstein",4689473000,3.77,9,47966448,20.25,6.39
+FLUT,Flutter Entertainment Plc,165.15,"Tom Bancroft
+Lee Ainslie
+Daniel Loeb
+Henry Ellenbogen
+Stephen Mandel
+Chase Coleman
+AKO Capital
+John Armitage
+William Von Mueffling",3750722000,4.57,9,14750120,11.33,3.76
+CHTR,Charter Communications,206.12,"Dodge & Cox
+Steven Romick
+Ruane Cunniff
 Bill Nygren
 Tom Bancroft
 Warren Buffett
 Triple Frond Partners
 First Eagle Investment Management
-Wallace Weitz
-Dodge & Cox
-Steven Romick",3151859000,4.03,9,11456926,23.17,7.31
-CRM,Salesforce.com,264.91,"Bill Nygren
+Wallace Weitz",2981112000,3.86,9,13276465,23.17,7.37
+CRM,Salesforce.com,212.29,"Robert Vinall
+Mairs & Power Growth Fund
+Hillman Value Fund
+Bill Nygren
 ValueAct Capital
 AKO Capital
 First Eagle Investment Management
 Polen Capital Management
-Wallace Weitz
-Robert Vinall
-Mairs & Power Growth Fund
-Hillman Value Fund",2067108000,2.84,9,8721970,11.59,3.61
-FERG,Ferguson Enterprises Inc.,222.63,"Francois Rochon
-Lee Ainslie
-Nelson Peltz
-Seth Klarman
+Wallace Weitz",2071384000,2.68,9,8719970,11.59,3.64
+TXN,Texas Instruments,215.55,"Torray Funds
+David Katz
+Terry Smith
 First Eagle Investment Management
-John Armitage
+Christopher Davis
+Wallace Weitz
+Jensen Investment Management
 Thomas Gayner
-William Von Mueffling
-Steven Romick",1839516000,2.54,9,8190921,6.16,2.63
-ADBE,Adobe Inc.,349.99,"Lindsell Train
+Robert Olstein",1809997000,1.71,9,9866672,3.73,1.09
+ADBE,Adobe Inc.,293.25,"Torray Funds
+Dodge & Cox
+Hillman Value Fund
+Lindsell Train
 Polen Capital Management
 Jensen Investment Management
 Thomas Gayner
 William Von Mueffling
-Torray Funds
-Robert Olstein
-Dodge & Cox
-Hillman Value Fund",1472747000,1.02,9,4175043,2.62,0.98
-EFX,Equifax Inc.,216.98,"Bill Nygren
+Robert Olstein",1616753000,0.99,9,4596840,2.23,0.9
+EFX,Equifax Inc.,201.4,"Bill Nygren
 Valley Forge Capital Management
 AKO Capital
 Lindsell Train
+Wallace Weitz
 Jensen Investment Management
 Thomas Gayner
-Wallace Weitz
 William Von Mueffling
-Robert Olstein",1367484000,2.23,9,5330693,4.54,1.79
-DHR,Danaher Corp.,228.92,"Lee Ainslie
+Robert Olstein",1385979000,2.07,9,5402793,4.54,1.61
+DHR,Danaher Corp.,218.89,"Torray Funds
+David Katz
+Lee Ainslie
 Viking Global Investors
 Daniel Loeb
 Bill & Melinda Gates Foundation Trust
 Pat Dorsey
 Chuck Akre
-Wallace Weitz
-Torray Funds
-David Katz",1157084000,3.04,9,5836191,15.34,5.08
-KO,Coca Cola Co.,69.91,"Lee Ainslie
+Wallace Weitz",1206153000,2.92,9,6083140,15.34,4.98
+KO,Coca Cola Co.,74.81,"Lee Ainslie
 Warren Buffett
 Christopher Bloomstran
 Lindsell Train
@@ -543,31 +569,23 @@ Thomas Russo
 Polen Capital Management
 Jensen Investment Management
 Yacktman Asset Management",26683214000,1.52,8,402340361,9.92,3.46
-OXY,Occidental Petroleum,41.12,"Bruce Berkowitz
+OXY,Occidental Petroleum,45.39,"Dodge & Cox
+Bruce Berkowitz
 Warren Buffett
 Francis Chou
 Leon Cooperman
 Duan Yongping
 Prem Watsa
-Li Lu
-Dodge & Cox",16132675000,4.39,8,341430989,13.85,4.46
-BN,Brookfield Corp.,45.89,"Daniel Loeb
-Bill Ackman
-Stephen Mandel
-Third Avenue Management
-Josh Tarasoff
-Chuck Akre
-Kahn Brothers Group
-Thomas Gayner",5838781000,8.75,8,127713155,19.21,7.35
-CVS,CVS Health Corp.,79.36,"Prem Watsa
-Christopher Davis
-Samantha McLemore
-Richard Pzena
-Robert Olstein
-Dodge & Cox
-David Katz
-Hillman Value Fund",4832909000,3.78,8,64106513,9.9,3.02
-PM,Philip Morris Intl.,160.4,"Lee Ainslie
+Li Lu",15797383000,4.35,8,341430989,13.85,4.48
+SPGI,S&P Global Inc.,527.79,"David Rolfe
+Valley Forge Capital Management
+Chris Hohn
+Lindsell Train
+Wallace Weitz
+Thomas Gayner
+William Von Mueffling
+Robert Olstein",7249176000,5.03,8,14894237,20.55,7.16
+PM,Philip Morris Intl.,179.44,"Lee Ainslie
 Viking Global Investors
 Stephen Mandel
 Terry Smith
@@ -575,7 +593,15 @@ First Eagle Investment Management
 Thomas Russo
 Yacktman Asset Management
 Thomas Gayner",4664088000,3.35,8,28755163,8.11,2.92
-SE,Sea Ltd,127.57,"Viking Global Investors
+CVS,CVS Health Corp.,74.52,"Dodge & Cox
+David Katz
+Richard Pzena
+Hillman Value Fund
+Prem Watsa
+Christopher Davis
+Samantha McLemore
+Robert Olstein",4514647000,3.71,8,57660450,9.9,3.01
+SE,Sea Ltd,116.49,"Viking Global Investors
 Stephen Mandel
 Chase Coleman
 Leon Cooperman
@@ -583,75 +609,51 @@ Howard Marks
 Sarah Ketterer
 Polen Capital Management
 Christopher Davis",3946656000,1.98,8,22081662,8.86,2.9
-FLUT,Flutter Entertainment Plc,215.04,"Tom Bancroft
-Lee Ainslie
-Daniel Loeb
-Stephen Mandel
-Chase Coleman
-AKO Capital
-John Armitage
-William Von Mueffling",3434749000,4.85,8,13506132,11.33,3.91
-FDX,FedEx Corp.,288.86,"Mason Hawkins
+FDX,FedEx Corp.,322.25,"Tweedy Browne Co.
+Dodge & Cox
+David Katz
+Mason Hawkins
 Lee Ainslie
 Bill & Melinda Gates Foundation Trust
 Thomas Gayner
-Robert Olstein
-Tweedy Browne Co.
-Dodge & Cox
-David Katz",3312782000,1.91,8,14048527,6.48,1.98
-ADI,Analog Devices,271.2,"Francois Rochon
+Robert Olstein",3761973000,2.04,8,13557607,6.48,1.99
+BKNG,Booking Holdings Inc.,5001.84,"Dodge & Cox
+Francois Rochon
+Lee Ainslie
+Henry Ellenbogen
+David Rolfe
+Stephen Mandel
+Pat Dorsey
+AKO Capital",2956356000,3.51,8,550424,8.24,2.73
+ADI,Analog Devices,310.88,"Steven Romick
+Francois Rochon
 AKO Capital
 Sarah Ketterer
 First Eagle Investment Management
-Thomas Gayner
 Wallace Weitz
-William Von Mueffling
-Steven Romick",2089867000,2.7,8,8505768,5.23,1.58
-TXN,Texas Instruments,173.49,"Terry Smith
-First Eagle Investment Management
-Christopher Davis
-Jensen Investment Management
 Thomas Gayner
-Torray Funds
-Robert Olstein
-David Katz",1772029000,1.57,8,9644752,2.95,0.97
-PG,Procter & Gamble,143.31,"Lee Ainslie
+William Von Mueffling",2108976000,2.44,8,8452703,4.81,1.46
+PG,Procter & Gamble,151.77,"David Katz
+Lee Ainslie
 Terry Smith
 Kahn Brothers Group
 Thomas Russo
 Polen Capital Management
 Jensen Investment Management
-Yacktman Asset Management
-David Katz",1229927000,1.32,8,8004734,4.11,1.82
-NKE,NIKE Inc.,63.71,"Viking Global Investors
+Yacktman Asset Management",1229903000,1.32,8,8004729,4.11,1.82
+NKE,NIKE Inc.,61.81,"Hillman Value Fund
+Viking Global Investors
 Terry Smith
 Lindsell Train
 Polen Capital Management
 Jensen Investment Management
 Thomas Gayner
-Robert Olstein
-Hillman Value Fund",1102945000,1.0,8,15817349,2.61,1.05
-ASML,ASML Holding NV,1069.86,"Lee Ainslie
-Valley Forge Capital Management
-Triple Frond Partners
-Duan Yongping
-Pat Dorsey
-David Tepper
-Polen Capital Management
-Hillman Value Fund",742925000,4.56,8,767414,15.07,5.64
-C,Citigroup Inc.,116.69,"Francis Chou
-Sarah Ketterer
-Kahn Brothers Group
-Harry Burn
-Greenhaven Associates
-Samantha McLemore
-Richard Pzena
-Steven Romick",707572000,4.78,8,6971159,16.73,5.12
-PYPL,PayPal Holdings Inc.,58.38,"Mason Hawkins
-Norbert Lou
-David Rolfe
-Francis Chou
+Robert Olstein",1102752000,1.0,8,15817349,2.58,1.05
+TMO,Thermo Fisher Scientific,578.61,"David Katz
+Steven Romick
 Lindsell Train
 Polen Capital Management
-Harry Burn
-David Katz",499896000,4.42,8,7454456,13.53,4.42
+Wallace Weitz
+Thomas Gayner
+William Von Mueffling
+Robert Olstein",1066660000,2.42,8,2168873,9.73,3.21

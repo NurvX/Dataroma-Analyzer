@@ -1,309 +1,308 @@
 ticker,company_name,current_price,managers,total_value,avg_portfolio_pct,index,manager_count,total_shares,max_portfolio_pct,buy_count,last_buy_period,price_opportunity_score,price_category
-BAC,Bank of America Corp.,55.0,"Charles Bobrinskoy
+WFC,Wells Fargo,90.49,"Torray Funds
+Tweedy Browne Co.
+Mairs & Power Growth Fund
+Dodge & Cox
+David Katz
+Richard Pzena
+Steven Romick
+Francis Chou
+Thomas Russo
+Christopher Davis",3104787000,1.67,1025,14,34237551,4.27,0.0,,29.67,Higher Price
+BAC,Bank of America Corp.,53.2,"Tweedy Browne Co.
+David Katz
+Richard Pzena
+Charles Bobrinskoy
 Lee Ainslie
 Viking Global Investors
 Glenn Greenberg
 Warren Buffett
 Francis Chou
-Li Lu
+Li Lu",30799561000,3.53,90,13,596975630,16.66,6.0,Q3 2025,35.53076923076923,Higher Price
+CMCSA,Comcast Corp.,29.75,"Dodge & Cox
+David Katz
+Steven Romick
+Hillman Value Fund
+Glenn Greenberg
+First Eagle Investment Management
 Kahn Brothers Group
-Christopher Davis
-Harry Burn",31391291000,3.92,90,15,608476284,16.66,8.0,Q3 2025,41.92133333333334,Higher Price
-WFC,Wells Fargo,93.2,"Francis Chou
 Thomas Russo
-Christopher Davis
-Harry Burn
-Yacktman Asset Management
-Thomas Gayner
-Richard Pzena
-Torray Funds
-Robert Olstein
-Tweedy Browne Co.",3317015000,1.72,1041,14,39573074,4.44,0.0,,29.715,Higher Price
-FISV,Fiserv Inc.,67.17,"Charles Bobrinskoy
+Wallace Weitz
+Yacktman Asset Management",3687089000,1.08,214,12,121257349,2.34,7.0,Q3 2025,32.08416666666667,Higher Price
+FISV,Fiserv Inc.,63.73,"Mairs & Power Growth Fund
+Dodge & Cox
+Hillman Value Fund
+Charles Bobrinskoy
 John Rogers
 Francois Rochon
 Norbert Lou
 Seth Klarman
 David Tepper
-Torray Funds
-Robert Olstein
-Dodge & Cox
-Mairs & Power Growth Fund",3900915000,1.79,367,12,30256073,2.89,16.0,Q3 2025,41.79,Higher Price
-SCHW,Charles Schwab Corp.,99.91,"Ruane Cunniff
-Bill Nygren
-John Rogers
-Francois Rochon
-Lee Ainslie
-Viking Global Investors
-Christopher Davis
-Yacktman Asset Management
-Greenhaven Associates
-Thomas Gayner",8411182000,3.11,846,11,88102879,5.97,10.0,Q3 2025,35.11363636363636,Higher Price
-CMCSA,Comcast Corp.,29.89,"Glenn Greenberg
-First Eagle Investment Management
-Kahn Brothers Group
-Thomas Russo
-Yacktman Asset Management
-Thomas Gayner
-Robert Olstein
-Dodge & Cox
-David Katz
-Steven Romick",3900596000,1.39,216,11,124143801,3.55,11.0,Q3 2025,34.39,Higher Price
-UBER,Uber Technologies Inc.,81.71,"Bill Ackman
-Chase Coleman
-David Tepper
-Thomas Russo
-Polen Capital Management
-Thomas Gayner
-William Von Mueffling
-Robert Olstein
-Steven Romick",4699273000,3.8,980,9,47966448,20.25,11.0,Q3 2025,32.8,Higher Price
-BN,Brookfield Corp.,45.89,"Daniel Loeb
+Robert Olstein",2550016000,1.74,360,10,35481102,2.85,17.0,Q4 2025,38.741,Higher Price
+BN,Brookfield Corp.,45.55,"Dodge & Cox
+Daniel Loeb
 Bill Ackman
 Stephen Mandel
 Third Avenue Management
 Josh Tarasoff
 Chuck Akre
 Kahn Brothers Group
-Thomas Gayner",5838781000,8.75,136,8,127713155,19.21,9.0,Q3 2025,33.754999999999995,Higher Price
-PYPL,PayPal Holdings Inc.,58.38,"Mason Hawkins
+Thomas Gayner",6771837000,7.87,134,9,148045605,19.21,8.0,Q4 2025,33.870000000000005,Higher Price
+UBER,Uber Technologies Inc.,80.05,"Steven Romick
+Bill Ackman
+Chase Coleman
+David Tepper
+Thomas Russo
+Polen Capital Management
+Thomas Gayner
+William Von Mueffling
+Robert Olstein",4689473000,3.77,964,9,47966448,20.25,6.0,Q3 2025,27.772222222222226,Higher Price
+PYPL,PayPal Holdings Inc.,52.69,"David Katz
+Mason Hawkins
 Norbert Lou
 David Rolfe
 Francis Chou
 Lindsell Train
 Polen Capital Management
-Harry Burn
-David Katz",499896000,4.42,793,8,7454456,13.53,11.0,Q3 2025,31.4225,Higher Price
-OXY,Occidental Petroleum,41.12,"Bruce Berkowitz
+Harry Burn",498672000,4.4,782,8,7470885,13.53,8.0,Q4 2025,28.40375,Higher Price
+OXY,Occidental Petroleum,45.39,"Dodge & Cox
+Bruce Berkowitz
 Warren Buffett
 Francis Chou
 Leon Cooperman
 Duan Yongping
 Prem Watsa
-Li Lu
-Dodge & Cox",16132675000,4.39,734,8,341430989,13.85,9.0,Q3 2025,29.3875,Higher Price
-CVS,CVS Health Corp.,79.36,"Prem Watsa
+Li Lu",15797383000,4.35,721,8,341430989,13.85,4.0,Q3 2025,24.35375,Higher Price
+CVS,CVS Health Corp.,74.52,"Dodge & Cox
+David Katz
+Richard Pzena
+Hillman Value Fund
+Prem Watsa
 Christopher Davis
 Samantha McLemore
-Richard Pzena
-Robert Olstein
-Dodge & Cox
-David Katz
-Hillman Value Fund",4832909000,3.78,266,8,64106513,9.9,5.0,Q2 2025,24.78,Higher Price
-KO,Coca Cola Co.,69.91,"Lee Ainslie
+Robert Olstein",4514647000,3.71,263,8,57660450,9.9,2.0,Q2 2025,21.7125,Higher Price
+KO,Coca Cola Co.,74.81,"Lee Ainslie
 Warren Buffett
 Christopher Bloomstran
 Lindsell Train
 Thomas Russo
 Polen Capital Management
 Jensen Investment Management
-Yacktman Asset Management",26683214000,1.52,555,8,402340361,9.92,3.0,Q3 2025,20.52,Higher Price
-NKE,NIKE Inc.,63.71,"Viking Global Investors
+Yacktman Asset Management",26683214000,1.52,546,8,402340361,9.92,3.0,Q3 2025,20.52,Higher Price
+NKE,NIKE Inc.,61.81,"Hillman Value Fund
+Viking Global Investors
 Terry Smith
 Lindsell Train
 Polen Capital Management
 Jensen Investment Management
 Thomas Gayner
-Robert Olstein
-Hillman Value Fund",1102945000,1.0,674,8,15817349,2.61,10.0,Q3 2025,27.005,Higher Price
-GM,General Motors,81.32,"Viking Global Investors
+Robert Olstein",1102752000,1.0,658,8,15817349,2.58,6.0,Q3 2025,23.00125,Higher Price
+DEO,Diageo ADR,92.8,"Tweedy Browne Co.
+Hillman Value Fund
+Lee Ainslie
+Warren Buffett
+Sarah Ketterer
+First Eagle Investment Management
+Wallace Weitz
+Thomas Gayner",220466000,0.66,281,8,2316988,2.25,5.0,Q3 2025,21.66375,Higher Price
+GM,General Motors,84.0,"Greenhaven Associates
+Viking Global Investors
 Francis Chou
 Prem Watsa
 Harry Burn
-Greenhaven Associates
 Samantha McLemore
-Robert Olstein",2379808000,4.62,427,7,39032571,21.39,7.0,Q3 2025,25.624285714285712,Higher Price
-CSGP,CoStar Group Inc.,67.24,"Viking Global Investors
+Robert Olstein",2207927000,4.43,419,7,31147170,20.01,3.0,Q3 2025,21.427142857142854,Higher Price
+CSGP,CoStar Group Inc.,61.5,"Viking Global Investors
 Daniel Loeb
 Chase Coleman
 Dennis Hong
 Chuck Akre
 Polen Capital Management
-Wallace Weitz",2122349000,4.27,254,7,25155266,11.24,8.0,Q2 2025,26.27285714285714,Higher Price
-CP,Canadian Pacific Kansas City,73.63,"Chris Hohn
+Wallace Weitz",2144273000,4.06,250,7,25415116,11.24,4.0,Q2 2025,22.064285714285717,Higher Price
+CP,Canadian Pacific Kansas City,74.34,"Chris Hohn
 AKO Capital
 Sarah Ketterer
 Lindsell Train
 John Armitage
 Thomas Gayner
-William Von Mueffling",5246726000,3.52,238,7,70447988,13.34,10.0,Q3 2025,27.515714285714285,Higher Price
-KHC,Kraft Heinz Co.,24.25,"Mason Hawkins
+William Von Mueffling",5246726000,3.52,234,7,70447988,13.34,7.0,Q3 2025,24.515714285714285,Higher Price
+KHC,Kraft Heinz Co.,23.74,"Mairs & Power Growth Fund
+Hillman Value Fund
+Mason Hawkins
 Lee Ainslie
 Bill & Melinda Gates Foundation Trust
 Warren Buffett
-Prem Watsa
-Mairs & Power Growth Fund
-Hillman Value Fund",8786792000,2.88,545,7,337436307,6.84,6.0,Q3 2025,22.875714285714285,Higher Price
-CPRT,Copart Inc.,39.15,"Francois Rochon
+Prem Watsa",8774009000,2.82,535,7,337024007,6.84,4.0,Q3 2025,20.81714285714286,Higher Price
+CPRT,Copart Inc.,40.58,"Torray Funds
+Francois Rochon
 David Rolfe
 Chuck Akre
 AKO Capital
 Jensen Investment Management
-Yacktman Asset Management
-Torray Funds",709171000,1.92,243,7,15769856,4.08,10.0,Q3 2025,25.92,Higher Price
-KMX,CarMax Inc.,38.64,"John Rogers
+Yacktman Asset Management",709027000,1.93,239,7,15787351,4.08,9.0,Q4 2025,24.92857142857143,Higher Price
+BMY,Bristol-Myers Squibb,55.05,"Dodge & Cox
+David Katz
+Richard Pzena
+Hillman Value Fund
+Bill Miller
+Kahn Brothers Group
+Jensen Investment Management",314711000,1.48,133,7,5905743,3.29,3.0,Q4 2025,18.481428571428573,Higher Price
+KMX,CarMax Inc.,44.54,"Steven Romick
+Hillman Value Fund
+John Rogers
 Francois Rochon
 Chuck Akre
-Thomas Gayner
 Wallace Weitz
-Steven Romick
-Hillman Value Fund",184872000,1.26,550,7,4120191,2.54,4.0,Q3 2025,19.26142857142857,Higher Price
-DEO,Diageo ADR,86.27,"Lee Ainslie
-Warren Buffett
-Sarah Ketterer
-First Eagle Investment Management
-Thomas Gayner
-Tweedy Browne Co.
-Hillman Value Fund",218705000,0.79,286,7,2291788,2.49,6.0,Q3 2025,20.792857142857144,Higher Price
-PFE,Pfizer Inc.,24.9,"Prem Watsa
-Sarah Ketterer
-Kahn Brothers Group
-Richard Pzena
-Torray Funds
-Hillman Value Fund",131294000,2.23,757,6,5153175,3.39,7.0,Q3 2025,21.23333333333333,Higher Price
-USB,U.S. Bancorp,53.36,"Glenn Greenberg
+Thomas Gayner",204876000,1.35,541,7,4829738,2.59,5.0,Q4 2025,20.352857142857143,Higher Price
+USB,U.S. Bancorp,56.11,"David Katz
+Hillman Value Fund
+Glenn Greenberg
 First Eagle Investment Management
 Christopher Davis
-Robert Olstein
-David Katz
-Hillman Value Fund",1408697000,2.16,998,6,29147452,4.9,11.0,Q3 2025,25.15833333333333,Higher Price
-IFF,International Flavors & Fragrances Inc.,67.39,"Carl Icahn
+Robert Olstein",1411989000,2.22,981,6,29140942,4.9,7.0,Q3 2025,21.225,Higher Price
+PFE,Pfizer Inc.,26.44,"Torray Funds
+Richard Pzena
+Hillman Value Fund
+Prem Watsa
+Sarah Ketterer
+Kahn Brothers Group",129336000,2.21,744,6,5105941,3.39,5.0,Q4 2025,19.21,Higher Price
+SLB,Schlumberger Ltd.,48.38,"Torray Funds
+Greenhaven Associates
+Charles Bobrinskoy
+John Rogers
 First Eagle Investment Management
-Robert Olstein
-Dodge & Cox
+Robert Olstein",1158329000,2.11,861,6,33157298,4.01,7.0,Q4 2025,21.111666666666665,Higher Price
+IFF,International Flavors & Fragrances Inc.,69.81,"Dodge & Cox
 Steven Romick
-Hillman Value Fund",1991027000,1.95,493,6,32353360,3.2,10.0,Q3 2025,23.94833333333333,Higher Price
-ZBH,Zimmer Biomet Holdings,89.92,"Sarah Ketterer
-Harry Burn
-Robert Olstein
-Dodge & Cox
-David Katz
-Hillman Value Fund",1699440000,1.69,1064,6,17253202,2.92,9.0,Q3 2025,22.691666666666663,Higher Price
-MDT,Medtronic plc,96.06,"First Eagle Investment Management
-Polen Capital Management
+Hillman Value Fund
+Carl Icahn
+First Eagle Investment Management
+Robert Olstein",2122180000,2.0,485,6,32514437,3.2,8.0,Q4 2025,22.00333333333333,Higher Price
+TSN,Tyson Foods,65.33,"David Katz
 Richard Pzena
-Robert Olstein
-Dodge & Cox
-David Katz",1545443000,1.61,617,6,16226822,3.27,5.0,Q3 2025,18.613333333333333,Higher Price
-BMY,Bristol-Myers Squibb,53.94,"Bill Miller
-Kahn Brothers Group
-Jensen Investment Management
-Richard Pzena
-Dodge & Cox
-Hillman Value Fund",275413000,1.6,135,6,6106714,2.77,3.0,Q3 2025,16.6,Higher Price
-TSN,Tyson Foods,58.62,"Lee Ainslie
+Lee Ainslie
 Christopher Davis
 Yacktman Asset Management
-Thomas Gayner
-Richard Pzena
-David Katz",761614000,1.52,972,6,14026054,2.82,9.0,Q3 2025,22.52166666666667,Higher Price
-B,Barrick Mining Corp.,43.55,"Charles Bobrinskoy
+Thomas Gayner",767827000,1.7,956,6,14088044,3.1,9.0,Q4 2025,22.701666666666668,Higher Price
+ZBH,Zimmer Biomet Holdings,87.07,"Dodge & Cox
+David Katz
+Hillman Value Fund
+Sarah Ketterer
+Harry Burn
+Robert Olstein",1556735000,1.54,1051,6,17161795,2.92,5.0,Q3 2025,18.535,Higher Price
+B,Barrick Mining Corp.,45.79,"Charles Bobrinskoy
 Howard Marks
 Sarah Ketterer
 First Eagle Investment Management
-Harry Burn",1931518000,3.52,89,5,58933938,6.82,7.0,Q3 2025,20.518,Higher Price
-FIS,Fidelity National Information Services,66.46,"Mason Hawkins
+Harry Burn",1931518000,3.52,89,5,58933938,6.82,4.0,Q3 2025,17.518,Higher Price
+CPNG,Coupang Inc.,20.16,"Lee Ainslie
+Henry Ellenbogen
+Bill & Melinda Gates Foundation Trust
+Chase Coleman
+David Abrams",2093339000,3.2,237,5,65010529,6.79,4.0,Q3 2025,17.2,Higher Price
+FIS,Fidelity National Information Services,55.25,"Dodge & Cox
+Mason Hawkins
 Seth Klarman
 Harry Burn
-Robert Olstein
-Dodge & Cox",2296944000,2.99,366,5,34833856,5.25,9.0,Q3 2025,21.988,Higher Price
-ET,Energy Transfer LP,16.49,"Bruce Berkowitz
+Robert Olstein",2597484000,3.04,359,5,39129003,5.25,6.0,Q4 2025,19.042,Higher Price
+ET,Energy Transfer LP,18.45,"Bruce Berkowitz
 Leon Cooperman
 David Tepper
 David Abrams
-Samantha McLemore",503006000,2.7,336,5,29312750,7.02,4.0,Q3 2025,16.698,Higher Price
-FWONK,Liberty Media Corp Formula One Series C,98.51,"Ruane Cunniff
+Samantha McLemore",503006000,2.7,330,5,29312750,7.02,2.0,Q3 2025,14.698,Higher Price
+BAX,Baxter International Inc.,20.07,"Dodge & Cox
+Richard Pzena
+Hillman Value Fund
+Greenhaven Associates
+Robert Olstein",980619000,2.57,97,5,51246748,5.12,7.0,Q4 2025,19.574,Higher Price
+FWONK,Liberty Media Corp Formula One Series C,87.02,"Ruane Cunniff
 Warren Buffett
 Chase Coleman
 Dennis Hong
-William Von Mueffling",1026537000,2.56,401,5,9828030,7.77,2.0,Q3 2025,14.562,Higher Price
-BAX,Baxter International Inc.,19.11,"Greenhaven Associates
-Richard Pzena
-Robert Olstein
-Dodge & Cox
-Hillman Value Fund",1061563000,2.4,97,5,46621077,4.69,7.0,Q3 2025,19.4,Higher Price
-SBUX,Starbucks Corp.,84.21,"Stephen Mandel
+William Von Mueffling",1026537000,2.56,394,5,9828030,7.77,2.0,Q3 2025,14.562,Higher Price
+AVTR,Avantor Inc.,10.92,"Dodge & Cox
+Steven Romick
+Greenhaven Associates
+Mason Hawkins
+Robert Olstein",1176846000,2.31,84,5,102297004,4.73,7.0,Q4 2025,19.308,Higher Price
+SBUX,Starbucks Corp.,91.95,"David Katz
+Stephen Mandel
 Christopher Bloomstran
 Polen Capital Management
-Thomas Gayner
-David Katz",1313688000,2.11,843,5,15528221,3.42,8.0,Q3 2025,20.11,Higher Price
-NU,Nu Holdings Ltd,16.74,"Lee Ainslie
+Thomas Gayner",1313925000,2.1,834,5,15532072,3.42,6.0,Q4 2025,18.104,Higher Price
+NU,Nu Holdings Ltd,17.75,"Lee Ainslie
 Stephen Mandel
 Chase Coleman
 Howard Marks
-Polen Capital Management",1016469000,1.92,692,5,63489706,4.5,7.0,Q3 2025,18.924,Higher Price
-VZ,Verizon Communications,40.73,"Bill Miller
-Kahn Brothers Group
-Yacktman Asset Management
-Mairs & Power Growth Fund
-Hillman Value Fund",120020000,1.59,1035,5,2730837,3.2,1.0,Q1 2025,12.594,Higher Price
-CTSH,Cognizant Technology Solutions,83.0,"Sarah Ketterer
-Jensen Investment Management
-Yacktman Asset Management
+Polen Capital Management",1016469000,1.92,677,5,63489706,4.5,3.0,Q3 2025,14.924,Higher Price
+CTSH,Cognizant Technology Solutions,82.06,"Dodge & Cox
 Richard Pzena
-Dodge & Cox",1187788000,1.54,262,5,17709690,3.05,3.0,Q3 2025,14.544,Higher Price
-UPS,United Parcel Service,99.19,"Lee Ainslie
-Bill Miller
+Sarah Ketterer
 Jensen Investment Management
-Robert Olstein
-Hillman Value Fund",21174000,1.3,996,5,253473,2.66,5.0,Q3 2025,16.302,Higher Price
-LEN.B,Lennar Corp. CL B,95.12,"Warren Buffett
-Third Avenue Management
+Yacktman Asset Management",1302561000,1.66,258,5,16609652,3.13,2.0,Q3 2025,13.66,Higher Price
+VZ,Verizon Communications,44.52,"Mairs & Power Growth Fund
+Hillman Value Fund
+Bill Miller
+Kahn Brothers Group
+Yacktman Asset Management",111728000,1.51,1019,5,2723237,3.2,0.0,,11.508,Higher Price
+NOV,Nov Inc.,18.35,"Richard Pzena
+Steven Romick
 Greenhaven Associates
-Samantha McLemore
-Torray Funds",101174000,1.28,578,5,840751,3.39,6.0,Q3 2025,17.28,Higher Price
-GEHC,GE HealthCare Technologies Inc.,82.02,"Nelson Peltz
+First Eagle Investment Management
+Robert Olstein",678792000,1.14,664,5,49163207,2.08,6.0,Q4 2025,17.137999999999998,Higher Price
+GEHC,GE HealthCare Technologies Inc.,78.97,"Dodge & Cox
+Nelson Peltz
 Christopher Bloomstran
 Leon Cooperman
-Harry Burn
-Dodge & Cox",1471085000,1.01,409,5,19588339,2.43,7.0,Q3 2025,18.006,Higher Price
-BUD,Anheuser-Busch InBev,64.04,"Lee Ainslie
+Harry Burn",1850063000,1.07,402,5,22690332,2.43,7.0,Q4 2025,18.072,Higher Price
+BUD,Anheuser-Busch InBev,71.68,"Dodge & Cox
+Hillman Value Fund
+Lee Ainslie
 Bill & Melinda Gates Foundation Trust
-Sarah Ketterer
-Dodge & Cox
-Hillman Value Fund",1781872000,0.93,153,5,29892171,2.51,3.0,Q3 2025,13.934,Higher Price
-CL,Colgate-Palmolive,79.02,"Lee Ainslie
+Sarah Ketterer",1726566000,0.92,150,5,27124071,2.47,1.0,Q3 2025,11.92,Higher Price
+CL,Colgate-Palmolive,90.29,"Lee Ainslie
 First Eagle Investment Management
 Lindsell Train
 Jensen Investment Management
-Yacktman Asset Management",707659000,0.44,210,5,8852374,1.15,3.0,Q3 2025,13.44,Higher Price
-IBKR,Interactive Brokers Group Inc.,64.31,"Bryan Lawrence
-John Armitage
-William Von Mueffling
-Robert Vinall",1427681000,12.5,485,4,20748167,30.61,1.0,Q2 2025,21.505,Higher Price
-EPD,Enterprise Products Partners LP,32.06,"Bruce Berkowitz
-Leon Cooperman
+Yacktman Asset Management",707659000,0.44,208,5,8852374,1.15,3.0,Q3 2025,13.44,Higher Price
+WRBY,Warby Parker Inc.,25.51,"Lee Ainslie
+Henry Ellenbogen
 First Eagle Investment Management
-Tweedy Browne Co.",273024000,3.99,326,4,8731170,13.76,4.0,Q3 2025,15.9875,Higher Price
-OMF,OneMain Holdings,67.55,"Glenn Greenberg
+Thomas Russo
+Polen Capital Management",264317000,0.38,1037,5,9583685,1.79,3.0,Q3 2025,13.382,Higher Price
+IBKR,Interactive Brokers Group Inc.,74.88,"Robert Vinall
+Bryan Lawrence
+John Armitage
+William Von Mueffling",1421075000,12.8,477,4,20701378,30.61,1.0,Q2 2025,21.805,Higher Price
+EPD,Enterprise Products Partners LP,33.19,"Tweedy Browne Co.
+Bruce Berkowitz
+Leon Cooperman
+First Eagle Investment Management",273109000,3.99,320,4,8731170,13.76,3.0,Q3 2025,14.99,Higher Price
+OMF,OneMain Holdings,65.54,"Glenn Greenberg
 Leon Cooperman
 Bill Miller
-Samantha McLemore",545523000,3.93,716,4,9662124,10.22,3.0,Q2 2025,14.9325,Higher Price
-PVH,PVH Corp.,67.02,"Mason Hawkins
-Alex Roepers
-Richard Pzena
-FPA Queens Road Small Cap Value Fund",102639000,3.8,791,4,1225242,5.68,6.0,Q2 2025,17.7975,Higher Price
-ORLY,O'Reilly Automotive,91.21,"Lee Ainslie
+Samantha McLemore",545523000,3.93,702,4,9662124,10.22,2.0,Q2 2025,13.9325,Higher Price
+PVH,PVH Corp.,62.36,"Richard Pzena
+FPA Queens Road Small Cap Value Fund
+Mason Hawkins
+Alex Roepers",93573000,3.54,780,4,1208602,5.68,4.0,Q2 2025,15.5425,Higher Price
+ORLY,O'Reilly Automotive,98.41,"Torray Funds
+Lee Ainslie
 David Rolfe
-Chuck Akre
-Torray Funds",958804000,3.52,727,4,8893455,9.26,3.0,Q3 2025,14.515,Higher Price
-WBD,Warner Bros. Discovery Inc.,28.82,"Bill Nygren
+Chuck Akre",957395000,3.48,714,4,8890065,9.26,2.0,Q3 2025,13.485,Higher Price
+WBD,Warner Bros. Discovery Inc.,27.54,"Hillman Value Fund
+Bill Nygren
 Harry Burn
-Yacktman Asset Management
-Hillman Value Fund",668905000,3.36,1038,4,34250082,6.1,4.0,Q2 2025,15.365,Higher Price
-GPK,Graphic Packaging Hldg Co.,15.06,"David Einhorn
+Yacktman Asset Management",668899000,3.4,1022,4,34224895,6.1,3.0,Q2 2025,14.405,Higher Price
+GPK,Graphic Packaging Hldg Co.,14.65,"FPA Queens Road Small Cap Value Fund
+David Einhorn
 Alex Roepers
-Sarah Ketterer
-FPA Queens Road Small Cap Value Fund",160986000,3.03,432,4,8226109,7.26,5.0,Q3 2025,16.0275,Higher Price
-IAC,IAC Inc.,39.1,"Mason Hawkins
+Sarah Ketterer",161123000,3.03,425,4,8316962,7.26,5.0,Q4 2025,16.0325,Higher Price
+IAC,IAC Inc.,36.95,"FPA Queens Road Small Cap Value Fund
+Mason Hawkins
 Christopher Davis
-Samantha McLemore
-FPA Queens Road Small Cap Value Fund",225676000,2.84,483,4,6623896,6.62,7.0,Q3 2025,17.835,Higher Price
-AVTR,Avantor Inc.,11.46,"Mason Hawkins
-Greenhaven Associates
-Robert Olstein
-Dodge & Cox",1218259000,2.72,84,4,97616939,4.73,6.0,Q3 2025,16.7175,Higher Price
-NFLX,Netflix Inc.,93.76,"Viking Global Investors
-Chase Coleman
-Thomas Russo
-Polen Capital Management",2033389000,2.7,667,4,16960170,6.61,4.0,Q3 2025,14.695,Higher Price
+Samantha McLemore",225182000,2.82,475,4,6559004,6.62,4.0,Q3 2025,14.825,Higher Price
+RKT,Rocket Companies Inc.,17.93,"Daniel Loeb
+Henry Ellenbogen
+ValueAct Capital
+Christopher Davis",843438000,2.78,813,4,43521097,8.3,6.0,Q3 2025,16.7825,Higher Price

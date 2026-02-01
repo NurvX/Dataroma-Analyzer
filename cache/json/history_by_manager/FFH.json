@@ -1080,7 +1080,7 @@
       "company_name": "U.S. Silica Holdings Inc."
     },
     {
-      "symbol": "DENN",
+      "symbol": "DENN-OLD",
       "manager_id": "FFH",
       "action": "Sell 100.00%",
       "date": "Q1 2024",
@@ -3082,7 +3082,7 @@
       "company_name": "Vanguard S&P 500 ETF"
     },
     {
-      "symbol": "TRIL",
+      "symbol": "TRIL-OLD",
       "manager_id": "FFH",
       "action": "Sell 100.00%",
       "date": "Q4 2021",
@@ -3214,7 +3214,7 @@
       "company_name": "International Seaways Inc."
     },
     {
-      "symbol": "TRIL",
+      "symbol": "TRIL-OLD",
       "manager_id": "FFH",
       "action": "Buy",
       "date": "Q3 2021",
@@ -3830,7 +3830,7 @@
       "company_name": "Pfizer Inc."
     },
     {
-      "symbol": "DENN",
+      "symbol": "DENN-OLD",
       "manager_id": "FFH",
       "action": "Add 32.98%",
       "date": "Q1 2021",
@@ -4270,7 +4270,7 @@
       "company_name": "Brookfield Corp."
     },
     {
-      "symbol": "DENN",
+      "symbol": "DENN-OLD",
       "manager_id": "FFH",
       "action": "Buy",
       "date": "Q4 2020",
@@ -4996,7 +4996,7 @@
       "company_name": "Forescout Technologies Inc."
     },
     {
-      "symbol": "MODG",
+      "symbol": "CALY",
       "manager_id": "FFH",
       "action": "Sell 100.00%",
       "date": "Q2 2020",
@@ -5271,6 +5271,17 @@
       "company_name": "Granite Real Estate Inv. Trust"
     },
     {
+      "symbol": "CALY",
+      "manager_id": "FFH",
+      "action": "Buy",
+      "date": "Q1 2020",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 47000,
+      "portfolio_percentage": 0.03,
+      "company_name": "Callaway Golf Co."
+    },
+    {
       "symbol": "CRUS",
       "manager_id": "FFH",
       "action": "Buy",
@@ -5313,17 +5324,6 @@
       "shares": 204000,
       "portfolio_percentage": 0.03,
       "company_name": "Liberty TripAdvisor Hldgs"
-    },
-    {
-      "symbol": "MODG",
-      "manager_id": "FFH",
-      "action": "Buy",
-      "date": "Q1 2020",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 47000,
-      "portfolio_percentage": 0.03,
-      "company_name": "Callaway Golf Co."
     },
     {
       "symbol": "DK",
@@ -11002,6 +11002,6 @@
       "company_name": "Primero Mining Corp."
     }
   ],
-  "timestamp": "2026-01-01T06:13:06.215610",
-  "scraped_date": "2026-01-01"
+  "timestamp": "2026-02-01T06:24:52.006402",
+  "scraped_date": "2026-02-01"
 }

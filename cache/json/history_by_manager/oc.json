@@ -10,7 +10,7 @@
       "action_type": "Add",
       "shares": 246776273,
       "portfolio_percentage": 0.22,
-      "company_name": "Indivior Plc"
+      "company_name": "Indivior Pharmaceuticals Inc."
     },
     {
       "symbol": "JBS",
@@ -1055,7 +1055,7 @@
       "action_type": "Add",
       "shares": 2275577,
       "portfolio_percentage": 0.53,
-      "company_name": "Indivior Plc"
+      "company_name": "Indivior Pharmaceuticals Inc."
     },
     {
       "symbol": "FCX",
@@ -1682,7 +1682,7 @@
       "action_type": "Reduce",
       "shares": 788432,
       "portfolio_percentage": 0.23,
-      "company_name": "Indivior Plc"
+      "company_name": "Indivior Pharmaceuticals Inc."
     },
     {
       "symbol": "VIST",
@@ -1957,7 +1957,7 @@
       "action_type": "Add",
       "shares": 5028807,
       "portfolio_percentage": 0.93,
-      "company_name": "Indivior Plc"
+      "company_name": "Indivior Pharmaceuticals Inc."
     },
     {
       "symbol": "BABA",
@@ -2386,7 +2386,7 @@
       "action_type": "Add",
       "shares": 1141937,
       "portfolio_percentage": 0.34,
-      "company_name": "Indivior Plc"
+      "company_name": "Indivior Pharmaceuticals Inc."
     },
     {
       "symbol": "AZUL",
@@ -2980,7 +2980,7 @@
       "action_type": "Buy",
       "shares": 3351236,
       "portfolio_percentage": 1.26,
-      "company_name": "Indivior Plc"
+      "company_name": "Indivior Pharmaceuticals Inc."
     },
     {
       "symbol": "EGLE-OLD",
@@ -3852,7 +3852,7 @@
       "company_name": "Vistra Corp."
     },
     {
-      "symbol": "FYBR",
+      "symbol": "FYBR-OLD",
       "manager_id": "oc",
       "action": "Sell 100.00%",
       "date": "Q4 2023",
@@ -4325,7 +4325,7 @@
       "company_name": "Pampa Energía S.A."
     },
     {
-      "symbol": "FYBR",
+      "symbol": "FYBR-OLD",
       "manager_id": "oc",
       "action": "Reduce 29.68%",
       "date": "Q3 2023",
@@ -4534,7 +4534,7 @@
       "company_name": "Evergreen Corporation   Cl A"
     },
     {
-      "symbol": "WTMA",
+      "symbol": "WTMA-OLD",
       "manager_id": "oc",
       "action": "Sell 100.00%",
       "date": "Q3 2023",
@@ -6646,7 +6646,7 @@
       "company_name": "Northview Acquisition Corp."
     },
     {
-      "symbol": "CIVI",
+      "symbol": "CIVI-OLD",
       "manager_id": "oc",
       "action": "Sell 100.00%",
       "date": "Q1 2023",
@@ -7207,7 +7207,7 @@
       "company_name": "Intelligent Medicine Acqui A"
     },
     {
-      "symbol": "IRRX",
+      "symbol": "IRRX-OLD",
       "manager_id": "oc",
       "action": "Sell 100.00%",
       "date": "Q1 2023",
@@ -7977,7 +7977,7 @@
       "company_name": "PG&E Corp."
     },
     {
-      "symbol": "CIVI",
+      "symbol": "CIVI-OLD",
       "manager_id": "oc",
       "action": "Reduce 90.00%",
       "date": "Q4 2022",
@@ -9011,7 +9011,7 @@
       "company_name": "Ternium S.A."
     },
     {
-      "symbol": "CIVI",
+      "symbol": "CIVI-OLD",
       "manager_id": "oc",
       "action": "Reduce 3.20%",
       "date": "Q3 2022",
@@ -10485,7 +10485,7 @@
       "company_name": "Vale SA"
     },
     {
-      "symbol": "CIVI",
+      "symbol": "CIVI-OLD",
       "manager_id": "oc",
       "action": "Reduce 1.00%",
       "date": "Q2 2022",
@@ -11002,6 +11002,6 @@
       "company_name": "Vale SA"
     }
   ],
-  "timestamp": "2026-01-01T06:13:06.226222",
-  "scraped_date": "2026-01-01"
+  "timestamp": "2026-02-01T06:24:52.016954",
+  "scraped_date": "2026-02-01"
 }

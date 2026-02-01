@@ -2,6 +2,50 @@
   "manager_id": "RVC",
   "activities": [
     {
+      "symbol": "META",
+      "manager_id": "RVC",
+      "action": "Reduce 2.43%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 3401,
+      "portfolio_percentage": 0.52,
+      "company_name": "Meta Platforms Inc."
+    },
+    {
+      "symbol": "IBKR",
+      "manager_id": "RVC",
+      "action": "Reduce 5.85%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 46789,
+      "portfolio_percentage": 0.7,
+      "company_name": "Interactive Brokers Group Inc."
+    },
+    {
+      "symbol": "CVNA",
+      "manager_id": "RVC",
+      "action": "Reduce 31.86%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 141852,
+      "portfolio_percentage": 13.94,
+      "company_name": "Carvana Co."
+    },
+    {
+      "symbol": "PDD",
+      "manager_id": "RVC",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 301232,
+      "portfolio_percentage": 7.29,
+      "company_name": "Pinduoduo Inc."
+    },
+    {
       "symbol": "CACC",
       "manager_id": "RVC",
       "action": "Add 1.16%",
@@ -1454,6 +1498,6 @@
       "company_name": "Shake Shack Inc."
     }
   ],
-  "timestamp": "2026-01-01T06:13:06.433911",
-  "scraped_date": "2026-01-01"
+  "timestamp": "2026-02-01T06:24:51.666752",
+  "scraped_date": "2026-02-01"
 }

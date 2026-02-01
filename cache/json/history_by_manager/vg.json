@@ -7229,7 +7229,7 @@
       "company_name": "Cadence Design Systems"
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "vg",
       "action": "Sell 100.00%",
       "date": "Q1 2024",
@@ -7237,7 +7237,7 @@
       "action_type": "Sell",
       "shares": 237706,
       "portfolio_percentage": 0.17,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "AMLX",
@@ -7691,7 +7691,7 @@
       "company_name": "Stryker Corp."
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "vg",
       "action": "Buy",
       "date": "Q4 2023",
@@ -7699,7 +7699,7 @@
       "action_type": "Buy",
       "shares": 237706,
       "portfolio_percentage": 0.17,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "PCOR",
@@ -10067,7 +10067,7 @@
       "company_name": "Boston Scientific"
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "vg",
       "action": "Sell 100.00%",
       "date": "Q2 2023",
@@ -10075,7 +10075,7 @@
       "action_type": "Sell",
       "shares": 257443,
       "portfolio_percentage": 0.2,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "OPCH",
@@ -10595,7 +10595,7 @@
       "company_name": "CNH Industrial NV"
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "vg",
       "action": "Buy",
       "date": "Q1 2023",
@@ -10603,7 +10603,7 @@
       "action_type": "Buy",
       "shares": 257443,
       "portfolio_percentage": 0.2,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "OPCH",
@@ -11002,6 +11002,6 @@
       "company_name": "Regal Rexnord Corp."
     }
   ],
-  "timestamp": "2026-01-01T06:13:06.040028",
-  "scraped_date": "2026-01-01"
+  "timestamp": "2026-02-01T06:24:51.827915",
+  "scraped_date": "2026-02-01"
 }

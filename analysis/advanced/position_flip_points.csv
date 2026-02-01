@@ -1,101 +1,101 @@
 ticker,company_name,manager,manager,flip_quarter,flip_action,shares_at_flip,action_sequence,quarters_before_flip,quarters_after_flip,current_shares,current_value,still_held
-AXP,American Express,T,Torray Funds,Q4 2024,Reduce 12.02%,7963,Add → Add → Reduce,4,0,57650.0,19149000.0,True
-JOYY,JOYY Inc.,oc,Howard Marks,Q4 2024,Sell 100.00%,882590,Add → Add → Sell,2,0,,,False
-UPS,United Parcel Service,OFALX,Robert Olstein,Q4 2024,Reduce 3.85%,3000,Add → Add → Reduce,7,0,73000.0,6098000.0,True
-UPS,United Parcel Service,T,Torray Funds,Q4 2024,Reduce 34.15%,11671,Add → Add → Reduce,3,0,,,False
-AMZN,Amazon.com Inc.,AKO,AKO Capital,Q4 2024,Reduce 5.37%,79966,Add → Add → Reduce,4,0,1808033.0,396990000.0,True
-CRM,Salesforce.com,VA,ValueAct Capital,Q4 2024,Reduce 25.95%,1015800,Add → Buy → Reduce,2,0,2898509.0,686947000.0,True
-AMZN,Amazon.com Inc.,AM,David Tepper,Q4 2024,Reduce 18.75%,600000,Add → Add → Reduce,24,0,2500000.0,548925000.0,True
-CRMT,America's Car Mart Inc.,YAM,Yacktman Asset Management,Q4 2024,Reduce 50.00%,16000,Add → Add → Reduce,11,0,133000.0,3885000.0,True
-LEN.B,Lennar Corp. CL B,GA,Greenhaven Associates,Q4 2024,Reduce 0.07%,272,Add → Add → Reduce,21,0,364059.0,43683000.0,True
-SWKS,Skyworks Solutions Inc.,pzfvx,Richard Pzena,Q4 2024,Reduce 33.75%,108781,Add → Buy → Reduce,5,0,249051.0,19172000.0,True
-SW,Smurfit Westrock Plc,CAU,Sarah Ketterer,Q4 2024,Reduce 36.56%,1534615,Buy → Add → Reduce,3,0,7522983.0,320253000.0,True
-CTRI,Centuri Holdings Inc,ic,Carl Icahn,Q4 2024,Reduce 30.78%,1105434,Add → Add → Reduce,3,0,10847672.0,229645000.0,True
-MS,Morgan Stanley,MAVFX,David Katz,Q4 2024,Reduce 7.03%,21203,Add → Add → Reduce,10,0,268428.0,42669000.0,True
-CTSH,Cognizant Technology Solutions,CAU,Sarah Ketterer,Q4 2024,Reduce 16.01%,155979,Add → Add → Reduce,4,0,1350178.0,90556000.0,True
-CTVA,Corteva Inc.,GR,Thomas Russo,Q4 2024,Sell 100.00%,6070,Add → Add → Sell,11,0,,,False
-V,Visa Inc.,EC,John Armitage,Q4 2024,Reduce 26.88%,317207,Add → Add → Reduce,19,0,2383373.0,813636000.0,True
-CUZ,Cousins Properties,DAV,Christopher Davis,Q4 2024,Reduce 18.68%,115800,Add → Add → Reduce,8,0,512355.0,14828000.0,True
-FCX,Freeport-McMoran Inc.,oc,Howard Marks,Q4 2024,Reduce 27.31%,662236,Add → Add → Reduce,12,0,1504865.0,59021000.0,True
-EMR,Emerson Electric,hcmax,Hillman Value Fund,Q4 2024,Sell 100.00%,56200,Add → Add → Sell,4,0,,,False
-AMZN,Amazon.com Inc.,LPC,Stephen Mandel,Q4 2024,Reduce 30.89%,1693233,Add → Add → Reduce,27,0,2811928.0,617415000.0,True
-K-OLD,Kellanova,JIM,Jensen Investment Management,Q4 2024,Reduce 19.08%,2695,Add → Add → Reduce,8,0,6372.0,523000.0,True
-EMBJ,Embraer SA,EC,John Armitage,Q4 2024,Reduce 1.97%,73098,Buy → Buy → Reduce,2,0,2117012.0,127973000.0,True
-BBWI,Bath & Body Works Inc.,SSHFX,Harry Burn,Q4 2024,Reduce 8.83%,216378,Add → Add → Reduce,5,0,,,False
-BBWI,Bath & Body Works Inc.,MP,Tom Bancroft,Q4 2024,Reduce 1.75%,40200,Add → Add → Reduce,12,0,1370000.0,35291000.0,True
-EMBC,Embecta Corp,YAM,Yacktman Asset Management,Q4 2024,Reduce 5.65%,142735,Add → Add → Reduce,12,0,2191706.0,30925000.0,True
-SBUX,Starbucks Corp.,MAVFX,David Katz,Q4 2024,Reduce 1.66%,3486,Add → Add → Reduce,9,0,222347.0,18811000.0,True
-NVDA,NVIDIA Corp.,CAU,Sarah Ketterer,Q4 2024,Reduce 9.28%,393,Add → Add → Reduce,5,0,3805.0,710000.0,True
-CVNA,Carvana Co.,RVC,Robert Vinall,Q4 2024,Reduce 28.12%,214217,Buy → Add → Reduce,12,0,445255.0,167968000.0,True
-BBD,,oc,Howard Marks,Q4 2024,Sell 100.00%,14114711,Add → Add → Sell,9,0,,,False
-SCHL,Scholastic Corp.,FPPTX,FPA Queens Road Small Cap Value Fund,Q4 2024,Reduce 12.54%,44001,Add → Buy → Reduce,7,0,562340.0,15397000.0,True
-BAYRY,Bayer Ag Sponsored ADR,KB,Kahn Brothers Group,Q4 2024,Reduce 12.66%,653317,Add → Buy → Reduce,6,0,6787253.0,56266000.0,True
-ELF,"e.l.f. Beauty, Inc.",pcm,Polen Capital Management,Q4 2024,Reduce 4.14%,2653,Buy → Add → Reduce,3,0,6478.0,858000.0,True
-EQR,Equity Residential,DAV,Christopher Davis,Q4 2024,Reduce 0.64%,650,Add → Add → Reduce,8,0,107215.0,6940000.0,True
-AMT,American Tower Corp.,AC,Chuck Akre,Q4 2024,Reduce 9.07%,549119,Add → Add → Reduce,51,0,442843.0,85168000.0,True
-EQT,EQT Corp.,AM,David Tepper,Q4 2024,Reduce 55.43%,995000,Add → Add → Reduce,12,0,,,False
-NTRS,Northern Trust Corp.,ARFFX,Charles Bobrinskoy,Q4 2024,Reduce 53.72%,10202,Buy → Add → Reduce,16,0,,,False
-HD,Home Depot,MAVFX,David Katz,Q4 2024,Reduce 0.94%,433,Add → Add → Reduce,10,0,48054.0,19471000.0,True
-MTN,Vail Resorts Inc.,T,Torray Funds,Q4 2024,Sell 100.00%,23958,Add → Add → Sell,6,0,,,False
-RNR,RenaissanceRe Holdings Ltd.,EC,John Armitage,Q4 2024,Reduce 31.66%,599750,Add → Add → Reduce,7,0,,,False
-TCOM,Trip.com Group Ltd,oc,Howard Marks,Q4 2024,Reduce 9.39%,74301,Buy → Add → Reduce,2,0,,,False
-TCOM,Trip.com Group Ltd,cc,William Von Mueffling,Q4 2024,Reduce 2.46%,119617,Add → Add → Reduce,4,0,4606141.0,346382000.0,True
-NGG,National Grid Plc Sp ADR,CAU,Sarah Ketterer,Q4 2024,Sell 100.00%,74164,Buy → Add → Sell,2,0,671143.0,48772000.0,True
-TCOM,Trip.com Group Ltd,CAU,Sarah Ketterer,Q4 2024,Reduce 20.77%,825,Buy → Buy → Reduce,2,0,2748.0,207000.0,True
-COP,ConocoPhillips,DAV,Christopher Davis,Q4 2024,Reduce 2.61%,36789,Add → Add → Reduce,4,0,1599311.0,151279000.0,True
-LYV,Live Nation Inc.,CAU,Sarah Ketterer,Q4 2024,Reduce 49.77%,233506,Buy → Add → Reduce,3,0,232404.0,37975000.0,True
-HD,Home Depot,FS,Terry Smith,Q4 2024,Reduce 1.47%,2176,Add → Add → Reduce,17,0,84860.0,34384000.0,True
-NTRA,Natera Inc.,T,Torray Funds,Q4 2024,Reduce 28.93%,4651,Add → Add → Reduce,10,0,11900.0,1916000.0,True
-FA,First Advantage Corp,OFALX,Robert Olstein,Q4 2024,Reduce 4.55%,3000,Add → Add → Reduce,5,0,71000.0,1093000.0,True
-IART,Integra LifeSciences Holdings,OFALX,Robert Olstein,Q4 2024,Reduce 14.19%,22000,Add → Add → Reduce,9,0,139000.0,1992000.0,True
-RPRX,Royalty Pharma plc,T,Torray Funds,Q4 2024,Reduce 20.27%,173912,Add → Add → Reduce,9,0,702883.0,24798000.0,True
-WHR,Whirlpool Corp.,MKL,Thomas Gayner,Q4 2024,Sell 100.00%,157619,Add → Add → Sell,5,0,,,False
-RRX,Regal Rexnord Corp.,oa,Leon Cooperman,Q4 2024,Reduce 23.51%,164599,Buy → Add → Reduce,4,0,735766.0,105538000.0,True
-PNC,PNC Financial Services,MAVFX,David Katz,Q4 2024,Reduce 3.90%,6845,Add → Add → Reduce,10,0,190412.0,38260000.0,True
+IBM,International Business Machines,MAVFX,David Katz,Q4 2025,Reduce 3.08%,26,Buy → Add → Reduce,7,0,819.0,243000.0,True
+LEN.B,Lennar Corp. CL B,T,Torray Funds,Q4 2025,Sell 100.00%,135369,Add → Add → Sell,2,0,,,False
+SPSC,,T,Torray Funds,Q4 2025,Sell 100.00%,13156,Add → Add → Sell,4,0,,,False
+LEA,Lear Corp.,GA,Greenhaven Associates,Q4 2025,Reduce 1.10%,19786,Add → Add → Reduce,19,0,1776038.0,203534000.0,True
+SPNS-OLD,,T,Torray Funds,Q4 2025,Sell 100.00%,58442,Add → Add → Sell,10,0,,,False
+VEEV,Veeva Systems Inc.,T,Torray Funds,Q4 2025,Reduce 3.43%,751,Add → Add → Reduce,9,0,21132.0,4717000.0,True
+APH,Amphenol Corp.,T,Torray Funds,Q4 2025,Reduce 21.54%,17598,Add → Add → Reduce,9,0,64103.0,8663000.0,True
+PTC,,T,Torray Funds,Q4 2025,Sell 100.00%,1136,Buy → Buy → Sell,2,0,,,False
+CFRUY,Compagnie Financiere Richemont Switz ADR,FPACX,Steven Romick,Q4 2025,Reduce 14.67%,76856,Add → Add → Reduce,12,0,446942.0,96384000.0,True
+XOM,Exxon Mobil Corp.,MAVFX,David Katz,Q4 2025,Reduce 0.08%,4,Add → Add → Reduce,9,0,4790.0,576000.0,True
+CVS,CVS Health Corp.,hcmax,Hillman Value Fund,Q4 2025,Reduce 13.22%,4800,Add → Add → Reduce,10,0,31500.0,2531000.0,True
+CVS,CVS Health Corp.,DODGX,Dodge & Cox,Q4 2025,Reduce 13.21%,6369690,Add → Add → Reduce,12,0,41853204.0,3321470000.0,True
+BIIB,Biogen Inc.,hcmax,Hillman Value Fund,Q4 2025,Reduce 27.69%,5400,Add → Add → Reduce,13,0,14100.0,2567000.0,True
+MSFT,Microsoft Corp.,T,Torray Funds,Q4 2025,Reduce 4.42%,1570,Add → Add → Reduce,10,0,33960.0,16424000.0,True
+KHC,Kraft Heinz Co.,hcmax,Hillman Value Fund,Q4 2025,Reduce 11.43%,12300,Add → Add → Reduce,11,0,95300.0,2431000.0,True
+SDY,SPDR S&P  Dividend ETF,MAVFX,David Katz,Q4 2025,Reduce 6.99%,284,Add → Add → Reduce,6,0,3780.0,526000.0,True
+TYL,Tyler Technologies Inc.,T,Torray Funds,Q4 2025,Reduce 3.03%,294,Add → Add → Reduce,10,0,9399.0,4267000.0,True
+MTD,Mettler-Toledo International Inc.,T,Torray Funds,Q4 2025,Reduce 0.12%,2,Add → Add → Reduce,8,0,1669.0,2327000.0,True
+AVGO,Broadcom Inc.,MAVFX,David Katz,Q4 2025,Reduce 1.79%,20,Add → Buy → Reduce,3,0,1099.0,380000.0,True
+VRSK,Verisk Analytics Inc.,T,Torray Funds,Q4 2025,Reduce 1.22%,215,Add → Add → Reduce,9,0,17364.0,3884000.0,True
+SBAC,SBA Communications Corp.,T,Torray Funds,Q4 2025,Sell 100.00%,7594,Add → Add → Sell,10,0,,,False
+AJG,Arthur J. Gallagher & Co.,T,Torray Funds,Q4 2025,Reduce 4.95%,1207,Add → Add → Reduce,9,0,23180.0,5999000.0,True
+SRG,,aq,Guy Spier - Aquamarine Capital,Q4 2025,Sell 100.00%,500000,Add → Add → Sell,9,0,,,False
+AVT,Avnet Inc.,GA,Greenhaven Associates,Q4 2025,Reduce 0.00%,71,Add → Add → Reduce,12,0,3928866.0,188900000.0,True
+ORLY,O'Reilly Automotive,T,Torray Funds,Q4 2025,Reduce 5.12%,3390,Add → Add → Reduce,9,0,62868.0,5734000.0,True
+TCHP,T Rowe Price Blue Chip Growth ETF,MAVFX,David Katz,Q4 2025,Reduce 2.04%,1553,Add → Add → Reduce,10,0,74722.0,3726000.0,True
+BUD,Anheuser-Busch InBev,DODGX,Dodge & Cox,Q4 2025,Reduce 10.05%,2763600,Buy → Add → Reduce,10,0,24746585.0,1584771000.0,True
+AMT,American Tower Corp.,T,Torray Funds,Q4 2025,Sell 100.00%,1221,Add → Add → Sell,9,0,,,False
+ENB,Enbridge Inc.,T,Torray Funds,Q4 2025,Reduce 6.75%,800,Add → Add → Reduce,9,0,11045.0,528000.0,True
+AMGN,Amgen,MAVFX,David Katz,Q4 2025,Reduce 2.52%,2682,Add → Add → Reduce,10,0,103549.0,33892000.0,True
+LZAGY,Lonza Group Ag Unspon ADR,T,Torray Funds,Q4 2025,Reduce 4.30%,4171,Add → Add → Reduce,9,0,92924.0,6244000.0,True
+PG,Procter & Gamble,MAVFX,David Katz,Q4 2025,Reduce 0.23%,5,Add → Add → Reduce,9,0,2194.0,314000.0,True
+MDT,Medtronic plc,MAVFX,David Katz,Q4 2025,Reduce 0.29%,1068,Add → Add → Reduce,10,0,369541.0,35498000.0,True
+UNP,Union Pacific,T,Torray Funds,Q4 2025,Sell 100.00%,850,Add → Add → Sell,10,0,,,False
+BRK.B,Berkshire Hathaway CL B,MAVFX,David Katz,Q4 2025,Reduce 0.05%,6,Add → Add → Reduce,7,0,11595.0,5828000.0,True
+ETN,Eaton Corp.,MAVFX,David Katz,Q4 2025,Reduce 0.12%,1,Buy → Add → Reduce,3,0,862.0,275000.0,True
+AMZN,Amazon.com Inc.,T,Torray Funds,Q4 2025,Reduce 3.45%,2584,Add → Add → Reduce,9,0,72420.0,16716000.0,True
+DHI,D.R. Horton,GA,Greenhaven Associates,Q4 2025,Reduce 4.22%,153617,Add → Add → Reduce,25,0,3484146.0,501822000.0,True
+TEX,Terex Corp.,GA,Greenhaven Associates,Q4 2025,Reduce 98.69%,1458311,Add → Add → Reduce,8,0,19422.0,1037000.0,True
+LLY,Eli Lilly & Co.,MAVFX,David Katz,Q4 2025,Reduce 0.91%,3,Add → Add → Reduce,4,0,325.0,350000.0,True
+DG,Dollar General,pzfvx,Richard Pzena,Q4 2025,Reduce 31.28%,73610,Add → Add → Reduce,5,0,161688.0,21467000.0,True
+TGT,Target Corp.,MAVFX,David Katz,Q4 2025,Reduce 19.21%,34141,Add → Add → Reduce,2,0,143580.0,14035000.0,True
+V,Visa Inc.,T,Torray Funds,Q4 2025,Reduce 2.42%,487,Add → Add → Reduce,9,0,19633.0,6885000.0,True
+OSK,Oshkosh Corp.,GA,Greenhaven Associates,Q4 2025,Reduce 0.21%,5310,Add → Add → Reduce,12,0,2521296.0,316750000.0,True
+TSLA,Tesla Inc.,MAVFX,David Katz,Q4 2025,Reduce 15.29%,91,Buy → Add → Reduce,6,0,504.0,227000.0,True
+EL,Estee Lauder Cos.,hcmax,Hillman Value Fund,Q4 2025,Reduce 19.25%,6200,Buy → Add → Reduce,5,0,26000.0,2446000.0,True
+AXSM,Axsome Therapeutics Inc.,T,Torray Funds,Q4 2025,Reduce 15.07%,2625,Add → Add → Reduce,6,0,14794.0,2702000.0,True
+CNA,CNA Financial Corp.,T,Torray Funds,Q4 2025,Reduce 1.83%,9214,Add → Add → Reduce,4,0,493402.0,23555000.0,True
+BAC,Bank of America Corp.,MAVFX,David Katz,Q4 2025,Reduce 0.57%,327,Add → Add → Reduce,7,0,57421.0,3158000.0,True
+ABBV,AbbVie Inc.,MAVFX,David Katz,Q4 2025,Reduce 1.36%,528,Add → Add → Reduce,9,0,38285.0,8748000.0,True
+INTU,Intuit Inc.,MAVFX,David Katz,Q4 2025,Reduce 0.22%,1,Add → Add → Reduce,2,0,450.0,298000.0,True
+VRTX,Vertex Pharmaceuticals,T,Torray Funds,Q4 2025,Reduce 4.85%,789,Buy → Add → Reduce,7,0,15466.0,7012000.0,True
+NEXOF,,FPACX,Steven Romick,Q4 2025,Sell 100.00%,1552337,Add → Add → Sell,18,0,,,False
+CNXC,Concentrix Corp.,FPPTX,FPA Queens Road Small Cap Value Fund,Q4 2025,Reduce 30.31%,54691,Add → Add → Reduce,10,0,125731.0,5228000.0,True
+NOV,Nov Inc.,GA,Greenhaven Associates,Q4 2025,Reduce 0.04%,2544,Add → Add → Reduce,7,0,5745138.0,89797000.0,True
+NTDOF,Nintendo Co. Ltd,FPACX,Steven Romick,Q4 2025,Reduce 10.68%,54400,Add → Add → Reduce,8,0,455180.0,30731000.0,True
+NEE,NextEra Energy Inc.,MAVFX,David Katz,Q4 2025,Reduce 1.42%,3853,Add → Add → Reduce,8,0,267857.0,21504000.0,True
+TSM,Taiwan Semiconductor S.A.,DODGX,Dodge & Cox,Q4 2025,Reduce 1.80%,941000,Add → Add → Reduce,2,0,51459000.0,2513946000.0,True
+IAC,IAC Inc.,FPPTX,FPA Queens Road Small Cap Value Fund,Q4 2025,Reduce 15.98%,64892,Add → Add → Reduce,7,0,341303.0,13345000.0,True
+IWB,Ishares Russell 1000 ETF,MAVFX,David Katz,Q4 2025,Reduce 7.19%,54,Add → Add → Reduce,2,0,697.0,260000.0,True
+CNSWF,Constellation Software Inc.,T,Torray Funds,Q4 2025,Reduce 6.60%,151,Add → Add → Reduce,9,0,2136.0,5138000.0,True
+IWM,iShares Russell 2000 ETF,MAVFX,David Katz,Q4 2025,Reduce 1.35%,141,Add → Add → Reduce,9,0,10326.0,2542000.0,True
+ROK,Rockwell Automation Inc.,MPGFX,Mairs & Power Growth Fund,Q4 2025,Reduce 28.00%,70000,Add → Add → Reduce,7,0,180000.0,70033000.0,True
+AAPL,Apple Inc.,T,Torray Funds,Q4 2025,Reduce 6.27%,3350,Add → Add → Reduce,9,0,50061.0,13610000.0,True
+BAX,Baxter International Inc.,hcmax,Hillman Value Fund,Q4 2025,Reduce 9.58%,12000,Buy → Add → Reduce,3,0,113200.0,2121000.0,True
+HUM,Humana Inc.,pzfvx,Richard Pzena,Q4 2025,Reduce 6.25%,7101,Add → Add → Reduce,5,0,106479.0,27272000.0,True
+BAC,Bank of America Corp.,ARFFX,Charles Bobrinskoy,Q4 2024,Reduce 5.62%,4539,Add → Add → Reduce,9,0,71467.0,3687000.0,True
+AZPN-OLD,,T,Torray Funds,Q4 2024,Sell 100.00%,8314,Add → Add → Sell,6,0,,,False
 EW,Edwards Lifesciences Corp.,WP,David Rolfe,Q4 2024,Reduce 5.52%,19821,Add → Add → Reduce,31,0,184701.0,14364000.0,True
-KN,Knowles Corp.,CAAPX,John Rogers,Q4 2024,Reduce 5.27%,66425,Add → Add → Reduce,19,0,1175335.0,27397000.0,True
-JWN-OLD,,hcmax,Hillman Value Fund,Q4 2024,Sell 100.00%,275600,Add → Add → Sell,16,0,,,False
-PM,Philip Morris Intl.,vg,Viking Global Investors,Q4 2024,Reduce 43.79%,3964533,Add → Add → Reduce,8,0,4426128.0,717918000.0,True
-ET,Energy Transfer LP,AM,David Tepper,Q4 2024,Reduce 28.02%,1913265,Add → Add → Reduce,20,0,4957235.0,85066000.0,True
-UNH,United Health Group Inc.,T,Torray Funds,Q4 2024,Reduce 20.15%,5507,Add → Add → Reduce,8,0,57106.0,19719000.0,True
-OSCR,Oscar Health Inc.,vg,Viking Global Investors,Q4 2024,Reduce 50.20%,3098367,Add → Add → Reduce,3,0,,,False
-CPRI,Capri Holdings Ltd,FFH,Prem Watsa,Q4 2024,Reduce 61.36%,124000,Add → Buy → Reduce,2,0,78100.0,1555000.0,True
-CRC,California Resources Corp.,MVALX,Meridian Contrarian Fund,Q4 2024,Reduce 35.97%,100000,Add → Add → Reduce,4,0,178000.0,9466000.0,True
-JNJ,Johnson & Johnson,T,Torray Funds,Q4 2024,Reduce 0.13%,150,Add → Add → Reduce,3,0,4221.0,783000.0,True
-CRH,CRH plc,GA,Greenhaven Associates,Q4 2024,Reduce 94.34%,10523480,Add → Add → Reduce,11,0,25000.0,2998000.0,True
-UOVEY,United Overseas Bank Ltd.,TWEBX,Tweedy Browne Co.,Q4 2024,Reduce 3.83%,14805,Add → Buy → Reduce,2,0,371712.0,9988000.0,True
-CWEGF,,KB,Kahn Brothers Group,Q4 2024,Sell 100.00%,150780,Add → Add → Sell,7,0,,,False
-ELAN,Elanco Animal Health Inc.,DODGX,Dodge & Cox,Q4 2024,Reduce 0.10%,55200,Add → Add → Reduce,7,0,55341300.0,1114574000.0,True
-CWH,,abc,David Abrams,Q4 2024,Sell 100.00%,3108808,Add → Add → Sell,7,0,,,False
-PGEN,Precigen Inc.,PTNT,Samantha McLemore,Q4 2024,Reduce 0.31%,56448,Add → Add → Reduce,10,0,26460848.0,87056000.0,True
-APO,Apollo Global Management,tp,Daniel Loeb,Q4 2024,Reduce 57.89%,550000,Buy → Buy → Reduce,7,0,650000.0,86626000.0,True
-DGX,Quest Diagnostics,DAV,Christopher Davis,Q4 2024,Reduce 0.08%,1843,Add → Add → Reduce,8,0,1361612.0,259496000.0,True
-LBPH-OLD,,vg,Viking Global Investors,Q4 2024,Sell 100.00%,1969041,Add → Add → Sell,2,0,,,False
-MCO,Moody's Corp.,AP,AltaRock Partners,Q4 2024,Reduce 10.85%,115714,Add → Add → Reduce,14,0,948735.0,452053000.0,True
-CBRE,CBRE Group,oaklx,Bill Nygren,Q4 2024,Reduce 31.50%,1287300,Add → Add → Reduce,34,0,1689752.0,266237000.0,True
-VUG,Vanguard Growth ETF,MAVFX,David Katz,Q4 2024,Reduce 0.51%,16,Add → Add → Reduce,7,0,3145.0,1509000.0,True
-SHO,Sunstone Hotel Investors Inc.,DAV,Christopher Davis,Q4 2024,Reduce 0.65%,5250,Add → Add → Reduce,8,0,1311800.0,12292000.0,True
-MCD,McDonald's Corp.,FS,Terry Smith,Q4 2024,Sell 100.00%,94403,Add → Add → Sell,4,0,,,False
-INDA,iShares MSCI India ETF,CAU,Sarah Ketterer,Q4 2024,Reduce 12.21%,32066,Add → Add → Reduce,8,0,1054005.0,54872000.0,True
-SMIN,Ishares Msci India Small Cap,CAU,Sarah Ketterer,Q4 2024,Reduce 23.94%,38036,Add → Add → Reduce,8,0,367520.0,26359000.0,True
-INDV,Indivior Plc,oc,Howard Marks,Q4 2024,Reduce 8.28%,788432,Add → Add → Reduce,4,0,257785398.0,10692000.0,True
-GS,Goldman Sachs Group,ARFFX,Charles Bobrinskoy,Q4 2024,Reduce 12.11%,973,Add → Add → Reduce,29,0,1406.0,1120000.0,True
-DNMRQ-OLD,,GLRE,David Einhorn,Q4 2024,Sell 100.00%,27435,Add → Add → Sell,10,0,,,False
-DNB-OLD,,MKL,Thomas Gayner,Q4 2024,Sell 100.00%,115000,Add → Buy → Sell,2,0,,,False
-LBTYA,Liberty Global Ltd CL A,GLRE,David Einhorn,Q4 2024,Reduce 8.64%,367622,Add → Add → Reduce,2,0,5220502.0,59827000.0,True
-KD,Kyndryl Holdings Inc,GLRE,David Einhorn,Q4 2024,Reduce 23.60%,1161907,Add → Add → Reduce,14,0,4343627.0,130439000.0,True
-LBTYA,Liberty Global Ltd CL A,BAUPOST,Seth Klarman,Q4 2024,Reduce 27.70%,1992832,Buy → Add → Reduce,4,0,5076762.0,58180000.0,True
-SHW,Sherwin-Williams,vg,Viking Global Investors,Q4 2024,Reduce 52.52%,683634,Add → Add → Reduce,7,0,2881091.0,997607000.0,True
-SHYF-OLD,,OFALX,Robert Olstein,Q4 2024,Reduce 6.56%,16000,Add → Add → Reduce,10,0,,,False
-AU,AngloGold Ashanti Ltd.,oc,Howard Marks,Q4 2024,Reduce 1.77%,99900,Add → Add → Reduce,12,0,4185261.0,294349000.0,True
-DLR,Digital Realty Trust Inc.,DAV,Christopher Davis,Q4 2024,Reduce 10.41%,10530,Add → Add → Reduce,7,0,81280.0,14052000.0,True
-ATZ.TO,Aritzia Inc.,MVALX,Meridian Contrarian Fund,Q4 2024,Reduce 25.69%,89000,Add → Buy → Reduce,4,0,215216.0,12934000.0,True
-GPN,Global Payments Inc.,pzfvx,Richard Pzena,Q4 2024,Reduce 36.85%,138213,Add → Add → Reduce,4,0,253228.0,21038000.0,True
-DLO,DLocal Ltd,pcm,Polen Capital Management,Q4 2024,Reduce 36.46%,359923,Add → Add → Reduce,3,0,699379.0,9987000.0,True
-ASML,ASML Holding NV,LPC,Stephen Mandel,Q4 2024,Reduce 19.87%,109547,Buy → Add → Reduce,9,0,,,False
-DIS,Walt Disney Co.,pzfvx,Richard Pzena,Q4 2024,Sell 100.00%,257236,Buy → Add → Sell,2,0,,,False
-MOH,Molina Healthcare Inc.,SAM,Michael Burry,Q4 2024,Reduce 16.67%,5000,Add → Buy → Reduce,3,0,125000.0,23920000.0,True
-DIS,Walt Disney Co.,SSHFX,Harry Burn,Q4 2024,Reduce 18.39%,174930,Add → Add → Reduce,4,0,715025.0,81870000.0,True
-DIS,Walt Disney Co.,KB,Kahn Brothers Group,Q4 2024,Reduce 12.93%,52419,Add → Add → Reduce,5,0,394524.0,45173000.0,True
+RRX,Regal Rexnord Corp.,oa,Leon Cooperman,Q4 2024,Reduce 23.51%,164599,Buy → Add → Reduce,4,0,735766.0,105538000.0,True
+FA,First Advantage Corp,OFALX,Robert Olstein,Q4 2024,Reduce 4.55%,3000,Add → Add → Reduce,5,0,71000.0,1093000.0,True
+VZ,Verizon Communications,MPGFX,Mairs & Power Growth Fund,Q4 2024,Reduce 36.64%,1400000,Buy → Add → Reduce,3,0,2421000.0,98607000.0,True
+ANET,Arista Networks Inc.,GC,Francois Rochon,Q4 2024,Reduce 3.81%,16252,Add → Add → Reduce,19,0,412399.0,60091000.0,True
+FISV,Fiserv Inc.,DODGX,Dodge & Cox,Q4 2024,Reduce 0.10%,21900,Add → Add → Reduce,11,1,31869400.0,2140668000.0,True
+LMT,Lockheed Martin Corp.,ARFFX,Charles Bobrinskoy,Q4 2024,Reduce 3.62%,231,Add → Add → Reduce,26,0,6556.0,3273000.0,True
+AZPN-OLD,,VFC,Valley Forge Capital Management,Q4 2024,Sell 100.00%,295485,Add → Add → Sell,7,0,,,False
+VUG,Vanguard Growth ETF,MAVFX,David Katz,Q4 2024,Reduce 0.51%,16,Add → Add → Reduce,6,0,3145.0,1535000.0,True
+FIS,Fidelity National Information Services,OFALX,Robert Olstein,Q4 2024,Reduce 10.59%,9239,Add → Add → Reduce,9,0,113000.0,7451000.0,True
 VYX,NCR Voyix Corp.,ENG,Glenn Welling,Q4 2024,Reduce 19.52%,1399996,Add → Buy → Reduce,5,0,,,False
-VZ,Verizon Communications,MPGFX,Mairs & Power Growth Fund,Q4 2024,Reduce 36.64%,1400000,Buy → Add → Reduce,3,0,2421000.0,106403000.0,True
+BN,Brookfield Corp.,GLC,Josh Tarasoff,Q4 2024,Reduce 3.98%,61830,Add → Add → Reduce,22,0,1428322.0,65303000.0,True
+FCX,Freeport-McMoran Inc.,oc,Howard Marks,Q4 2024,Reduce 27.31%,662236,Add → Add → Reduce,12,0,1504865.0,59021000.0,True
+RPRX,Royalty Pharma plc,T,Torray Funds,Q4 2024,Reduce 20.27%,173912,Add → Add → Reduce,8,1,744355.0,28762000.0,True
+LIVN,,GLRE,David Einhorn,Q4 2024,Sell 100.00%,603549,Add → Add → Sell,12,0,,,False
+FDX,FedEx Corp.,OFALX,Robert Olstein,Q4 2024,Reduce 11.11%,3500,Add → Add → Reduce,8,0,32000.0,7546000.0,True
+FIS,Fidelity National Information Services,SSHFX,Harry Burn,Q4 2024,Reduce 15.31%,171449,Add → Add → Reduce,8,0,1393298.0,91874000.0,True
+PHM,PulteGroup Inc.,GA,Greenhaven Associates,Q4 2024,Reduce 0.16%,8951,Add → Add → Reduce,21,1,5534428.0,648967000.0,True
+FIS,Fidelity National Information Services,DODGX,Dodge & Cox,Q4 2024,Reduce 17.11%,4744400,Add → Add → Reduce,9,1,33304400.0,2213410000.0,True
+HD,Home Depot,FS,Terry Smith,Q4 2024,Reduce 1.47%,2176,Add → Add → Reduce,17,0,84860.0,34384000.0,True
+BABA,Alibaba Group Holdings,oc,Howard Marks,Q4 2024,Sell 100.00%,224719,Add → Buy → Sell,3,0,,,False
+EQR,Equity Residential,DAV,Christopher Davis,Q4 2024,Reduce 0.64%,650,Add → Add → Reduce,8,0,107215.0,6940000.0,True
+ELAN,Elanco Animal Health Inc.,DODGX,Dodge & Cox,Q4 2024,Reduce 0.10%,55200,Add → Add → Reduce,7,1,53122900.0,1202171000.0,True
+ELF,"e.l.f. Beauty, Inc.",pcm,Polen Capital Management,Q4 2024,Reduce 4.14%,2653,Buy → Add → Reduce,3,0,6478.0,858000.0,True
+RNR,RenaissanceRe Holdings Ltd.,EC,John Armitage,Q4 2024,Reduce 31.66%,599750,Add → Add → Reduce,7,0,,,False
+AMT,American Tower Corp.,AC,Chuck Akre,Q4 2024,Reduce 9.07%,549119,Add → Add → Reduce,51,0,442843.0,85168000.0,True
+IART,Integra LifeSciences Holdings,OFALX,Robert Olstein,Q4 2024,Reduce 14.19%,22000,Add → Add → Reduce,9,0,139000.0,1992000.0,True
+PFE,Pfizer Inc.,CAU,Sarah Ketterer,Q4 2024,Reduce 17.12%,378520,Add → Add → Reduce,4,0,2072047.0,52796000.0,True
+EMBC,Embecta Corp,YAM,Yacktman Asset Management,Q4 2024,Reduce 5.65%,142735,Add → Add → Reduce,12,0,2191706.0,30925000.0,True
+EMR,Emerson Electric,hcmax,Hillman Value Fund,Q4 2024,Sell 100.00%,56200,Add → Add → Sell,4,0,,,False
+AMZN,Amazon.com Inc.,AKO,AKO Capital,Q4 2024,Reduce 5.37%,79966,Add → Add → Reduce,4,0,1808033.0,396990000.0,True
+AMZN,Amazon.com Inc.,AM,David Tepper,Q4 2024,Reduce 18.75%,600000,Add → Add → Reduce,24,0,2500000.0,548925000.0,True

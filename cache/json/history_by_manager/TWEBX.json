@@ -2,6 +2,248 @@
   "manager_id": "TWEBX",
   "activities": [
     {
+      "symbol": "SDXOF",
+      "manager_id": "TWEBX",
+      "action": "Add 194.41%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 77910,
+      "portfolio_percentage": 0.93,
+      "company_name": "Sodexo SA"
+    },
+    {
+      "symbol": "CNH",
+      "manager_id": "TWEBX",
+      "action": "Add 113.48%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 738295,
+      "portfolio_percentage": 1.58,
+      "company_name": "CNH Industrial NV"
+    },
+    {
+      "symbol": "9934.T",
+      "manager_id": "TWEBX",
+      "action": "Add 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 36595,
+      "portfolio_percentage": 0.14,
+      "company_name": "Inaba Denki Sangyo Co."
+    },
+    {
+      "symbol": "7839.T",
+      "manager_id": "TWEBX",
+      "action": "Add 24.27%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 19415,
+      "portfolio_percentage": 0.05,
+      "company_name": "Shoei Co. Ltd."
+    },
+    {
+      "symbol": "CVSGF",
+      "manager_id": "TWEBX",
+      "action": "Add 19.93%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 69901,
+      "portfolio_percentage": 0.28,
+      "company_name": "CVS Group plc"
+    },
+    {
+      "symbol": "JSG.L",
+      "manager_id": "TWEBX",
+      "action": "Add 4.79%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 108275,
+      "portfolio_percentage": 0.05,
+      "company_name": "Johnson Service Group Plc"
+    },
+    {
+      "symbol": "UNF",
+      "manager_id": "TWEBX",
+      "action": "Buy",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 24945,
+      "portfolio_percentage": 1.12,
+      "company_name": "UniFirst Corp."
+    },
+    {
+      "symbol": "SSMXY",
+      "manager_id": "TWEBX",
+      "action": "Buy",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 454800,
+      "portfolio_percentage": 1.04,
+      "company_name": "Sysmex Corp."
+    },
+    {
+      "symbol": "JNJ",
+      "manager_id": "TWEBX",
+      "action": "Reduce 1.44%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 729,
+      "portfolio_percentage": 0.04,
+      "company_name": "Johnson & Johnson"
+    },
+    {
+      "symbol": "WFC",
+      "manager_id": "TWEBX",
+      "action": "Reduce 4.88%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 8389,
+      "portfolio_percentage": 0.18,
+      "company_name": "Wells Fargo"
+    },
+    {
+      "symbol": "AZO",
+      "manager_id": "TWEBX",
+      "action": "Reduce 5.71%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 76,
+      "portfolio_percentage": 0.06,
+      "company_name": "AutoZone Inc."
+    },
+    {
+      "symbol": "IONS",
+      "manager_id": "TWEBX",
+      "action": "Reduce 8.87%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 16890,
+      "portfolio_percentage": 0.31,
+      "company_name": "Ionis Pharmaceuticals Inc."
+    },
+    {
+      "symbol": "GOOGL",
+      "manager_id": "TWEBX",
+      "action": "Reduce 13.37%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 4431,
+      "portfolio_percentage": 0.32,
+      "company_name": "Alphabet Inc."
+    },
+    {
+      "symbol": "RHHVF",
+      "manager_id": "TWEBX",
+      "action": "Reduce 16.90%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 7525,
+      "portfolio_percentage": 0.72,
+      "company_name": "Roche Holdings AG DIV RT"
+    },
+    {
+      "symbol": "SAFRF",
+      "manager_id": "TWEBX",
+      "action": "Reduce 29.59%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 13325,
+      "portfolio_percentage": 1.08,
+      "company_name": "Safran SA"
+    },
+    {
+      "symbol": "TLPFF",
+      "manager_id": "TWEBX",
+      "action": "Reduce 56.45%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 44160,
+      "portfolio_percentage": 0.75,
+      "company_name": "Teleperformance SE"
+    },
+    {
+      "symbol": "ATMU",
+      "manager_id": "TWEBX",
+      "action": "Reduce 57.55%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 27750,
+      "portfolio_percentage": 0.34,
+      "company_name": "Atmus Filtration Technologies Inc."
+    },
+    {
+      "symbol": "SEE",
+      "manager_id": "TWEBX",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 150612,
+      "portfolio_percentage": 1.26,
+      "company_name": "Sealed Air Corp."
+    },
+    {
+      "symbol": "KOF",
+      "manager_id": "TWEBX",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 54420,
+      "portfolio_percentage": 1.07,
+      "company_name": "Coca-Cola FEMSA S A CV"
+    },
+    {
+      "symbol": "4182.T",
+      "manager_id": "TWEBX",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 148315,
+      "portfolio_percentage": 0.63,
+      "company_name": "Mitsubishi Gas Chemical Co. Inc."
+    },
+    {
+      "symbol": "BNTGY",
+      "manager_id": "TWEBX",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 32765,
+      "portfolio_percentage": 0.46,
+      "company_name": "Brenntag SE"
+    },
+    {
+      "symbol": "005830.KS",
+      "manager_id": "TWEBX",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 16075,
+      "portfolio_percentage": 0.38,
+      "company_name": "DB Insurance Co. Ltd"
+    },
+    {
       "symbol": "145720.KS",
       "manager_id": "TWEBX",
       "action": "Add 145.03%",
@@ -10430,6 +10672,6 @@
       "company_name": "Commonwealth Telephone Enterprises Inc."
     }
   ],
-  "timestamp": "2026-01-01T06:13:06.445269",
-  "scraped_date": "2026-01-01"
+  "timestamp": "2026-02-01T06:24:51.677242",
+  "scraped_date": "2026-02-01"
 }

@@ -1,16 +1,16 @@
 {
-  "num_managers": 81,
-  "num_holdings": 3427,
-  "num_activities": 58535,
-  "unique_stocks": 1610,
+  "num_managers": 82,
+  "num_holdings": 3494,
+  "num_activities": 58426,
+  "unique_stocks": 1624,
   "progress": {
-    "managers_processed": 81,
-    "holdings_found": 3427,
-    "activities_found": 58535,
+    "managers_processed": 82,
+    "holdings_found": 3494,
+    "activities_found": 58426,
     "stocks_processed": 0,
     "stocks_enriched": 0,
     "errors_encountered": 0,
-    "duration_seconds": 686.178928
+    "duration_seconds": 687.203281
   },
-  "last_updated": "2026-01-01T06:13:06.527365"
+  "last_updated": "2026-02-01T06:24:52.220157"
 }

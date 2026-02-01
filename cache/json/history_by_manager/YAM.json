@@ -68,7 +68,7 @@
       "company_name": "Fair Isaac Corp."
     },
     {
-      "symbol": "MMC",
+      "symbol": "MRSH",
       "manager_id": "YAM",
       "action": "Buy",
       "date": "Q3 2025",
@@ -76,7 +76,7 @@
       "action_type": "Buy",
       "shares": 17345,
       "portfolio_percentage": 0.05,
-      "company_name": "Marsh & McLennan"
+      "company_name": "Marsh"
     },
     {
       "symbol": "VRSK",
@@ -11002,6 +11002,6 @@
       "company_name": "Procter & Gamble"
     }
   ],
-  "timestamp": "2026-01-01T06:13:06.363225",
-  "scraped_date": "2026-01-01"
+  "timestamp": "2026-02-01T06:24:52.156046",
+  "scraped_date": "2026-02-01"
 }

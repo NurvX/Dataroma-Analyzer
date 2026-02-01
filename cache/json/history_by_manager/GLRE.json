@@ -3126,7 +3126,7 @@
       "company_name": "Global Payments Inc."
     },
     {
-      "symbol": "CIVI",
+      "symbol": "CIVI-OLD",
       "manager_id": "GLRE",
       "action": "Sell 100.00%",
       "date": "Q2 2023",
@@ -3379,7 +3379,7 @@
       "company_name": "Finserv Acquisition Co WTS26"
     },
     {
-      "symbol": "CIVI",
+      "symbol": "CIVI-OLD",
       "manager_id": "GLRE",
       "action": "Reduce 0.69%",
       "date": "Q1 2023",
@@ -3621,7 +3621,7 @@
       "company_name": "Global Payments Inc."
     },
     {
-      "symbol": "CIVI",
+      "symbol": "CIVI-OLD",
       "manager_id": "GLRE",
       "action": "Add 65.84%",
       "date": "Q4 2022",
@@ -4545,7 +4545,7 @@
       "company_name": "Warner Bros. Discovery Inc."
     },
     {
-      "symbol": "CIVI",
+      "symbol": "CIVI-OLD",
       "manager_id": "GLRE",
       "action": "Add 135.34%",
       "date": "Q1 2022",
@@ -5172,7 +5172,7 @@
       "company_name": "Talis Biomedical Corp."
     },
     {
-      "symbol": "CIVI",
+      "symbol": "CIVI-OLD",
       "manager_id": "GLRE",
       "action": "Buy",
       "date": "Q4 2021",
@@ -11002,6 +11002,6 @@
       "company_name": "Signet Jewelers Ltd."
     }
   ],
-  "timestamp": "2026-01-01T06:13:06.083496",
-  "scraped_date": "2026-01-01"
+  "timestamp": "2026-02-01T06:24:51.875473",
+  "scraped_date": "2026-02-01"
 }
