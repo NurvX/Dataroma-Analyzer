@@ -2,6 +2,94 @@
   "manager_id": "ENG",
   "activities": [
     {
+      "symbol": "BL",
+      "manager_id": "ENG",
+      "action": "Add 138.79%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 629825,
+      "portfolio_percentage": 8.88,
+      "company_name": "BlackLine Inc."
+    },
+    {
+      "symbol": "CGNX",
+      "manager_id": "ENG",
+      "action": "Add 9.12%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 78000,
+      "portfolio_percentage": 0.72,
+      "company_name": "Cognex Corp."
+    },
+    {
+      "symbol": "EVH",
+      "manager_id": "ENG",
+      "action": "Reduce 1.77%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 100000,
+      "portfolio_percentage": 0.1,
+      "company_name": "Evolent Health Inc."
+    },
+    {
+      "symbol": "YETI",
+      "manager_id": "ENG",
+      "action": "Reduce 6.31%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 136856,
+      "portfolio_percentage": 1.54,
+      "company_name": "YETI Holdings Inc."
+    },
+    {
+      "symbol": "VFC",
+      "manager_id": "ENG",
+      "action": "Reduce 9.48%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 555820,
+      "portfolio_percentage": 2.56,
+      "company_name": "V.F. Corp."
+    },
+    {
+      "symbol": "GXO",
+      "manager_id": "ENG",
+      "action": "Reduce 15.20%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 148708,
+      "portfolio_percentage": 2.0,
+      "company_name": "Gxo Logistics Inc."
+    },
+    {
+      "symbol": "FRPT",
+      "manager_id": "ENG",
+      "action": "Reduce 35.21%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 218000,
+      "portfolio_percentage": 3.39,
+      "company_name": "Freshpet Inc."
+    },
+    {
+      "symbol": "PTLO",
+      "manager_id": "ENG",
+      "action": "Reduce 69.72%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 3534311,
+      "portfolio_percentage": 4.1,
+      "company_name": "Portillo's Inc Cl A"
+    },
+    {
       "symbol": "GXO",
       "manager_id": "ENG",
       "action": "Add 9.08%",
@@ -2026,6 +2114,6 @@
       "company_name": "Del Frisco's Restaurant Group"
     }
   ],
-  "timestamp": "2026-02-01T06:24:51.940981",
-  "scraped_date": "2026-02-01"
+  "timestamp": "2026-02-23T15:44:40.764137",
+  "scraped_date": "2026-02-23"
 }

@@ -2,6 +2,358 @@
   "manager_id": "EC",
   "activities": [
     {
+      "symbol": "EMBJ",
+      "manager_id": "EC",
+      "action": "Add 54.85%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1161128,
+      "portfolio_percentage": 0.81,
+      "company_name": "Embraer SA"
+    },
+    {
+      "symbol": "AMZN",
+      "manager_id": "EC",
+      "action": "Add 45.38%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1839247,
+      "portfolio_percentage": 4.61,
+      "company_name": "Amazon.com Inc."
+    },
+    {
+      "symbol": "V",
+      "manager_id": "EC",
+      "action": "Add 37.24%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 887626,
+      "portfolio_percentage": 3.38,
+      "company_name": "Visa Inc."
+    },
+    {
+      "symbol": "CRS",
+      "manager_id": "EC",
+      "action": "Add 13.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 178679,
+      "portfolio_percentage": 0.61,
+      "company_name": "Carpenter Technology"
+    },
+    {
+      "symbol": "IBKR",
+      "manager_id": "EC",
+      "action": "Add 10.96%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 685447,
+      "portfolio_percentage": 0.48,
+      "company_name": "Interactive Brokers Group Inc."
+    },
+    {
+      "symbol": "BSX",
+      "manager_id": "EC",
+      "action": "Add 1.37%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 72580,
+      "portfolio_percentage": 0.08,
+      "company_name": "Boston Scientific"
+    },
+    {
+      "symbol": "MCO",
+      "manager_id": "EC",
+      "action": "Buy",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 773409,
+      "portfolio_percentage": 4.29,
+      "company_name": "Moody's Corp."
+    },
+    {
+      "symbol": "GOOG",
+      "manager_id": "EC",
+      "action": "Buy",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 1078768,
+      "portfolio_percentage": 3.68,
+      "company_name": "Alphabet Inc. CL C"
+    },
+    {
+      "symbol": "VMC",
+      "manager_id": "EC",
+      "action": "Buy",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 960173,
+      "portfolio_percentage": 2.98,
+      "company_name": "Vulcan Materials"
+    },
+    {
+      "symbol": "WYNN",
+      "manager_id": "EC",
+      "action": "Buy",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 2069751,
+      "portfolio_percentage": 2.71,
+      "company_name": "Wynn Resorts Ltd."
+    },
+    {
+      "symbol": "UBER",
+      "manager_id": "EC",
+      "action": "Buy",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 2681172,
+      "portfolio_percentage": 2.38,
+      "company_name": "Uber Technologies Inc."
+    },
+    {
+      "symbol": "RNR",
+      "manager_id": "EC",
+      "action": "Buy",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 490626,
+      "portfolio_percentage": 1.5,
+      "company_name": "RenaissanceRe Holdings Ltd."
+    },
+    {
+      "symbol": "NYT",
+      "manager_id": "EC",
+      "action": "Buy",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 1410003,
+      "portfolio_percentage": 1.06,
+      "company_name": "New York Times CL A"
+    },
+    {
+      "symbol": "LPLA",
+      "manager_id": "EC",
+      "action": "Buy",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 254813,
+      "portfolio_percentage": 0.99,
+      "company_name": "LPL Financial Holdings Inc."
+    },
+    {
+      "symbol": "LAMR",
+      "manager_id": "EC",
+      "action": "Reduce 0.25%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1774,
+      "portfolio_percentage": 0.0,
+      "company_name": "Lamar Advertising Co."
+    },
+    {
+      "symbol": "MA",
+      "manager_id": "EC",
+      "action": "Reduce 0.39%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1813,
+      "portfolio_percentage": 0.01,
+      "company_name": "Mastercard Inc."
+    },
+    {
+      "symbol": "COF",
+      "manager_id": "EC",
+      "action": "Reduce 0.42%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 8709,
+      "portfolio_percentage": 0.02,
+      "company_name": "Capital One Financial"
+    },
+    {
+      "symbol": "CME",
+      "manager_id": "EC",
+      "action": "Reduce 0.42%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 4996,
+      "portfolio_percentage": 0.01,
+      "company_name": "CME Group"
+    },
+    {
+      "symbol": "APH",
+      "manager_id": "EC",
+      "action": "Reduce 3.02%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 115511,
+      "portfolio_percentage": 0.17,
+      "company_name": "Amphenol Corp."
+    },
+    {
+      "symbol": "MSFT",
+      "manager_id": "EC",
+      "action": "Reduce 3.43%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 62132,
+      "portfolio_percentage": 0.33,
+      "company_name": "Microsoft Corp."
+    },
+    {
+      "symbol": "CRH",
+      "manager_id": "EC",
+      "action": "Reduce 46.93%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1999786,
+      "portfolio_percentage": 2.72,
+      "company_name": "CRH plc"
+    },
+    {
+      "symbol": "STX",
+      "manager_id": "EC",
+      "action": "Reduce 54.22%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 863658,
+      "portfolio_percentage": 2.58,
+      "company_name": "Seagate Technology"
+    },
+    {
+      "symbol": "FERG",
+      "manager_id": "EC",
+      "action": "Reduce 61.22%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1591910,
+      "portfolio_percentage": 3.85,
+      "company_name": "Ferguson Enterprises Inc."
+    },
+    {
+      "symbol": "PGR",
+      "manager_id": "EC",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 2588638,
+      "portfolio_percentage": 6.74,
+      "company_name": "Progressive Corp."
+    },
+    {
+      "symbol": "META",
+      "manager_id": "EC",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 541167,
+      "portfolio_percentage": 4.19,
+      "company_name": "Meta Platforms Inc."
+    },
+    {
+      "symbol": "FLUT",
+      "manager_id": "EC",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 1412018,
+      "portfolio_percentage": 3.78,
+      "company_name": "Flutter Entertainment Plc"
+    },
+    {
+      "symbol": "ACGL",
+      "manager_id": "EC",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 3507882,
+      "portfolio_percentage": 3.36,
+      "company_name": "Arch Capital Group Ltd."
+    },
+    {
+      "symbol": "ICE",
+      "manager_id": "EC",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 1036199,
+      "portfolio_percentage": 1.84,
+      "company_name": "Intercontinental Exchange Inc."
+    },
+    {
+      "symbol": "CP",
+      "manager_id": "EC",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 2026311,
+      "portfolio_percentage": 1.59,
+      "company_name": "Canadian Pacific Kansas City"
+    },
+    {
+      "symbol": "ARMK",
+      "manager_id": "EC",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 3204201,
+      "portfolio_percentage": 1.3,
+      "company_name": "Aramark"
+    },
+    {
+      "symbol": "TRU",
+      "manager_id": "EC",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 1465050,
+      "portfolio_percentage": 1.29,
+      "company_name": "TransUnion"
+    },
+    {
+      "symbol": "FCNCA",
+      "manager_id": "EC",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 47384,
+      "portfolio_percentage": 0.89,
+      "company_name": "First Citizens Bancshares"
+    },
+    {
       "symbol": "BSX",
       "manager_id": "EC",
       "action": "Add 223.74%",
@@ -9451,6 +9803,6 @@
       "company_name": "TransUnion"
     }
   ],
-  "timestamp": "2026-02-01T06:24:52.105475",
-  "scraped_date": "2026-02-01"
+  "timestamp": "2026-02-23T15:44:40.972303",
+  "scraped_date": "2026-02-23"
 }

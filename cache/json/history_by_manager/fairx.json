@@ -2,6 +2,105 @@
   "manager_id": "fairx",
   "activities": [
     {
+      "symbol": "PGR",
+      "manager_id": "fairx",
+      "action": "Buy",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 25600,
+      "portfolio_percentage": 0.41,
+      "company_name": "Progressive Corp."
+    },
+    {
+      "symbol": "CF",
+      "manager_id": "fairx",
+      "action": "Buy",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 54700,
+      "portfolio_percentage": 0.3,
+      "company_name": "CF Industries Holdings Inc."
+    },
+    {
+      "symbol": "TGT",
+      "manager_id": "fairx",
+      "action": "Buy",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 23000,
+      "portfolio_percentage": 0.16,
+      "company_name": "Target Corp."
+    },
+    {
+      "symbol": "NRP",
+      "manager_id": "fairx",
+      "action": "Buy",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 12000,
+      "portfolio_percentage": 0.09,
+      "company_name": "Natural Resource Partners"
+    },
+    {
+      "symbol": "OZK",
+      "manager_id": "fairx",
+      "action": "Reduce 0.22%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 2000,
+      "portfolio_percentage": 0.01,
+      "company_name": "Bank OZK"
+    },
+    {
+      "symbol": "WRB",
+      "manager_id": "fairx",
+      "action": "Reduce 0.50%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1300,
+      "portfolio_percentage": 0.01,
+      "company_name": "W.R. Berkley Corp."
+    },
+    {
+      "symbol": "JOE",
+      "manager_id": "fairx",
+      "action": "Reduce 0.80%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 155900,
+      "portfolio_percentage": 0.65,
+      "company_name": "St. Joe Co."
+    },
+    {
+      "symbol": "BRK.B",
+      "manager_id": "fairx",
+      "action": "Reduce 0.88%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 425,
+      "portfolio_percentage": 0.01,
+      "company_name": "Berkshire Hathaway CL B"
+    },
+    {
+      "symbol": "CNR",
+      "manager_id": "fairx",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 5000,
+      "portfolio_percentage": 0.03,
+      "company_name": "Core Natural Resources Inc."
+    },
+    {
       "symbol": "OZK",
       "manager_id": "fairx",
       "action": "Reduce 0.12%",
@@ -9077,6 +9176,6 @@
       "company_name": "Duke Energy"
     }
   ],
-  "timestamp": "2026-02-01T06:24:51.884610",
-  "scraped_date": "2026-02-01"
+  "timestamp": "2026-02-23T15:44:40.701940",
+  "scraped_date": "2026-02-23"
 }

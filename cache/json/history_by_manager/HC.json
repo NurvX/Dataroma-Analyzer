@@ -2,6 +2,28 @@
   "manager_id": "HC",
   "activities": [
     {
+      "symbol": "CROX",
+      "manager_id": "HC",
+      "action": "Buy",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 628159,
+      "portfolio_percentage": 1.51,
+      "company_name": "Crocs Inc."
+    },
+    {
+      "symbol": "SOC",
+      "manager_id": "HC",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 1343000,
+      "portfolio_percentage": 0.73,
+      "company_name": "Sable Offshore Corp"
+    },
+    {
       "symbol": "PDD",
       "manager_id": "HC",
       "action": "Buy",
@@ -365,6 +387,6 @@
       "company_name": "Alibaba Group Holdings"
     }
   ],
-  "timestamp": "2026-02-01T06:24:52.074435",
-  "scraped_date": "2026-02-01"
+  "timestamp": "2026-02-23T15:44:40.725001",
+  "scraped_date": "2026-02-23"
 }

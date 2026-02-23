@@ -2521,7 +2521,7 @@
       "company_name": "Generac Holdings Inc."
     },
     {
-      "symbol": "JAMF",
+      "symbol": "JAMF-OLD",
       "manager_id": "MPGFX",
       "action": "Sell 100.00%",
       "date": "Q3 2023",
@@ -2807,7 +2807,7 @@
       "company_name": "Salesforce.com"
     },
     {
-      "symbol": "JAMF",
+      "symbol": "JAMF-OLD",
       "manager_id": "MPGFX",
       "action": "Reduce 62.96%",
       "date": "Q2 2023",
@@ -3269,7 +3269,7 @@
       "company_name": "Amazon.com Inc."
     },
     {
-      "symbol": "JAMF",
+      "symbol": "JAMF-OLD",
       "manager_id": "MPGFX",
       "action": "Add 9.43%",
       "date": "Q4 2022",
@@ -3698,7 +3698,7 @@
       "company_name": "Workiva Inc."
     },
     {
-      "symbol": "JAMF",
+      "symbol": "JAMF-OLD",
       "manager_id": "MPGFX",
       "action": "Add 3.11%",
       "date": "Q3 2022",
@@ -3940,7 +3940,7 @@
       "company_name": "Sleep Number Corp."
     },
     {
-      "symbol": "JAMF",
+      "symbol": "JAMF-OLD",
       "manager_id": "MPGFX",
       "action": "Add 10.89%",
       "date": "Q2 2022",
@@ -4633,7 +4633,7 @@
       "company_name": "Charles Schwab Corp."
     },
     {
-      "symbol": "JAMF",
+      "symbol": "JAMF-OLD",
       "manager_id": "MPGFX",
       "action": "Add 7.37%",
       "date": "Q4 2021",
@@ -4974,7 +4974,7 @@
       "company_name": "Hormel Foods Corp."
     },
     {
-      "symbol": "JAMF",
+      "symbol": "JAMF-OLD",
       "manager_id": "MPGFX",
       "action": "Add 4.91%",
       "date": "Q3 2021",
@@ -5601,7 +5601,7 @@
       "company_name": "Roche Holding AG ADR"
     },
     {
-      "symbol": "JAMF",
+      "symbol": "JAMF-OLD",
       "manager_id": "MPGFX",
       "action": "Reduce 0.61%",
       "date": "Q1 2021",
@@ -5832,7 +5832,7 @@
       "company_name": "Wells Fargo"
     },
     {
-      "symbol": "JAMF",
+      "symbol": "JAMF-OLD",
       "manager_id": "MPGFX",
       "action": "Add 6.49%",
       "date": "Q4 2020",
@@ -6173,7 +6173,7 @@
       "company_name": "Littelfuse Inc."
     },
     {
-      "symbol": "JAMF",
+      "symbol": "JAMF-OLD",
       "manager_id": "MPGFX",
       "action": "Buy",
       "date": "Q3 2020",
@@ -11002,6 +11002,6 @@
       "company_name": "Bio-Techne Corp."
     }
   ],
-  "timestamp": "2026-02-01T06:24:51.686091",
-  "scraped_date": "2026-02-01"
+  "timestamp": "2026-02-23T15:44:41.055441",
+  "scraped_date": "2026-02-23"
 }

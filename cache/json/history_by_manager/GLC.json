@@ -2,6 +2,72 @@
   "manager_id": "GLC",
   "activities": [
     {
+      "symbol": "MKL",
+      "manager_id": "GLC",
+      "action": "Add 2.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 450,
+      "portfolio_percentage": 0.28,
+      "company_name": "Markel Group Inc."
+    },
+    {
+      "symbol": "TRUP",
+      "manager_id": "GLC",
+      "action": "Add 1.62%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 12395,
+      "portfolio_percentage": 0.14,
+      "company_name": "Trupanion Inc."
+    },
+    {
+      "symbol": "BN",
+      "manager_id": "GLC",
+      "action": "Reduce 1.04%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 14860,
+      "portfolio_percentage": 0.2,
+      "company_name": "Brookfield Corp."
+    },
+    {
+      "symbol": "AMZN",
+      "manager_id": "GLC",
+      "action": "Reduce 1.74%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 5610,
+      "portfolio_percentage": 0.38,
+      "company_name": "Amazon.com Inc."
+    },
+    {
+      "symbol": "GOOGL",
+      "manager_id": "GLC",
+      "action": "Reduce 3.45%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 3615,
+      "portfolio_percentage": 0.33,
+      "company_name": "Alphabet Inc."
+    },
+    {
+      "symbol": "TSLA",
+      "manager_id": "GLC",
+      "action": "Reduce 21.72%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 17235,
+      "portfolio_percentage": 2.26,
+      "company_name": "Tesla Inc."
+    },
+    {
       "symbol": "BN",
       "manager_id": "GLC",
       "action": "Buy",
@@ -2510,6 +2576,6 @@
       "company_name": "Stitch Fix Inc."
     }
   ],
-  "timestamp": "2026-02-01T06:24:51.990229",
-  "scraped_date": "2026-02-01"
+  "timestamp": "2026-02-23T15:44:40.818829",
+  "scraped_date": "2026-02-23"
 }

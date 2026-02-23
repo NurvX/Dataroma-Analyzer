@@ -2,6 +2,50 @@
   "manager_id": "PI",
   "activities": [
     {
+      "symbol": "RIG",
+      "manager_id": "PI",
+      "action": "Add 10.63%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 2597801,
+      "portfolio_percentage": 2.67,
+      "company_name": "Transocean Ltd."
+    },
+    {
+      "symbol": "AMR",
+      "manager_id": "PI",
+      "action": "Add 2.07%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 11000,
+      "portfolio_percentage": 0.55,
+      "company_name": "Alpha Metallurgical Resources Inc."
+    },
+    {
+      "symbol": "VAL",
+      "manager_id": "PI",
+      "action": "Reduce 56.94%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 607157,
+      "portfolio_percentage": 7.62,
+      "company_name": "Valaris plc"
+    },
+    {
+      "symbol": "NE",
+      "manager_id": "PI",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 239000,
+      "portfolio_percentage": 2.01,
+      "company_name": "Noble Corp."
+    },
+    {
       "symbol": "AMR",
       "manager_id": "PI",
       "action": "Add 15.57%",
@@ -3808,6 +3852,6 @@
       "company_name": "CryptoLogic Ltd."
     }
   ],
-  "timestamp": "2026-02-01T06:24:52.071135",
-  "scraped_date": "2026-02-01"
+  "timestamp": "2026-02-23T15:44:40.902023",
+  "scraped_date": "2026-02-23"
 }

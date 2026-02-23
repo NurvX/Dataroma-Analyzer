@@ -4,6 +4,171 @@
     {
       "symbol": "AXTA",
       "manager_id": "AIM",
+      "action": "Add 34.03%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 260000,
+      "portfolio_percentage": 4.73,
+      "company_name": "Axalta Coating Systems Ltd."
+    },
+    {
+      "symbol": "OSK",
+      "manager_id": "AIM",
+      "action": "Add 3.69%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 5500,
+      "portfolio_percentage": 0.39,
+      "company_name": "Oshkosh Corp."
+    },
+    {
+      "symbol": "KEX",
+      "manager_id": "AIM",
+      "action": "Buy",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 223000,
+      "portfolio_percentage": 13.83,
+      "company_name": "Kirby Corp."
+    },
+    {
+      "symbol": "FLS",
+      "manager_id": "AIM",
+      "action": "Buy",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 314000,
+      "portfolio_percentage": 12.26,
+      "company_name": "Flowserve Corp."
+    },
+    {
+      "symbol": "DCH",
+      "manager_id": "AIM",
+      "action": "Buy",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 1883000,
+      "portfolio_percentage": 6.8,
+      "company_name": "Dauch Corp."
+    },
+    {
+      "symbol": "ABM",
+      "manager_id": "AIM",
+      "action": "Buy",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 200000,
+      "portfolio_percentage": 4.76,
+      "company_name": "ABM Industries"
+    },
+    {
+      "symbol": "APTV",
+      "manager_id": "AIM",
+      "action": "Reduce 9.66%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 29500,
+      "portfolio_percentage": 1.26,
+      "company_name": "Aptiv PLC"
+    },
+    {
+      "symbol": "ASH",
+      "manager_id": "AIM",
+      "action": "Reduce 24.96%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 70843,
+      "portfolio_percentage": 2.34,
+      "company_name": "Ashland Global Holdings Inc."
+    },
+    {
+      "symbol": "NOMD",
+      "manager_id": "AIM",
+      "action": "Reduce 25.38%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 183228,
+      "portfolio_percentage": 1.29,
+      "company_name": "Nomad Foods Ltd"
+    },
+    {
+      "symbol": "WFRD",
+      "manager_id": "AIM",
+      "action": "Reduce 36.21%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 130578,
+      "portfolio_percentage": 5.75,
+      "company_name": "Weatherford International plc"
+    },
+    {
+      "symbol": "GTLS",
+      "manager_id": "AIM",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 147499,
+      "portfolio_percentage": 16.95,
+      "company_name": "Chart Industries Inc."
+    },
+    {
+      "symbol": "GPK",
+      "manager_id": "AIM",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 645584,
+      "portfolio_percentage": 7.26,
+      "company_name": "Graphic Packaging Hldg Co."
+    },
+    {
+      "symbol": "PVH",
+      "manager_id": "AIM",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 100000,
+      "portfolio_percentage": 4.81,
+      "company_name": "PVH Corp."
+    },
+    {
+      "symbol": "DOLE",
+      "manager_id": "AIM",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 330000,
+      "portfolio_percentage": 2.55,
+      "company_name": "Dole Food Company"
+    },
+    {
+      "symbol": "BBWI",
+      "manager_id": "AIM",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 150000,
+      "portfolio_percentage": 2.22,
+      "company_name": "Bath & Body Works Inc."
+    },
+    {
+      "symbol": "AXTA",
+      "manager_id": "AIM",
       "action": "Buy",
       "date": "Q3 2025",
       "percentage_change": 0.0,
@@ -1201,7 +1366,7 @@
       "company_name": "Halliburton Co."
     },
     {
-      "symbol": "HI",
+      "symbol": "HI-OLD",
       "manager_id": "AIM",
       "action": "Sell 100.00%",
       "date": "Q2 2023",
@@ -1256,7 +1421,7 @@
       "company_name": "WESCO International Inc."
     },
     {
-      "symbol": "HI",
+      "symbol": "HI-OLD",
       "manager_id": "AIM",
       "action": "Buy",
       "date": "Q1 2023",
@@ -3896,7 +4061,7 @@
       "company_name": "Crown Holdings"
     },
     {
-      "symbol": "AXL",
+      "symbol": "DCH",
       "manager_id": "AIM",
       "action": "Sell 100.00%",
       "date": "Q1 2019",
@@ -3904,7 +4069,7 @@
       "action_type": "Sell",
       "shares": 190000,
       "portfolio_percentage": 0.55,
-      "company_name": "American Axle & Manufacturing Holdings"
+      "company_name": "Dauch Corp."
     },
     {
       "symbol": "TGI-OLD",
@@ -3984,7 +4149,7 @@
       "company_name": "Navistar International Corp."
     },
     {
-      "symbol": "AXL",
+      "symbol": "DCH",
       "manager_id": "AIM",
       "action": "Add 22.79%",
       "date": "Q4 2018",
@@ -3992,7 +4157,7 @@
       "action_type": "Add",
       "shares": 35262,
       "portfolio_percentage": 0.1,
-      "company_name": "American Axle & Manufacturing Holdings"
+      "company_name": "Dauch Corp."
     },
     {
       "symbol": "VISN",
@@ -4457,7 +4622,7 @@
       "company_name": "Crown Holdings"
     },
     {
-      "symbol": "AXL",
+      "symbol": "DCH",
       "manager_id": "AIM",
       "action": "Reduce 43.68%",
       "date": "Q3 2018",
@@ -4465,7 +4630,7 @@
       "action_type": "Reduce",
       "shares": 120000,
       "portfolio_percentage": 0.35,
-      "company_name": "American Axle & Manufacturing Holdings"
+      "company_name": "Dauch Corp."
     },
     {
       "symbol": "BDC",
@@ -4622,7 +4787,7 @@
       "company_name": "ARRIS International plc"
     },
     {
-      "symbol": "AXL",
+      "symbol": "DCH",
       "manager_id": "AIM",
       "action": "Reduce 24.07%",
       "date": "Q2 2018",
@@ -4630,7 +4795,7 @@
       "action_type": "Reduce",
       "shares": 87078,
       "portfolio_percentage": 0.21,
-      "company_name": "American Axle & Manufacturing Holdings"
+      "company_name": "Dauch Corp."
     },
     {
       "symbol": "NAV",
@@ -4754,7 +4919,7 @@
       "company_name": "Huntsman Corp."
     },
     {
-      "symbol": "AXL",
+      "symbol": "DCH",
       "manager_id": "AIM",
       "action": "Add 2.32%",
       "date": "Q1 2018",
@@ -4762,7 +4927,7 @@
       "action_type": "Add",
       "shares": 8216,
       "portfolio_percentage": 0.02,
-      "company_name": "American Axle & Manufacturing Holdings"
+      "company_name": "Dauch Corp."
     },
     {
       "symbol": "CCK",
@@ -5018,7 +5183,7 @@
       "company_name": "Eastman Chemical"
     },
     {
-      "symbol": "AXL",
+      "symbol": "DCH",
       "manager_id": "AIM",
       "action": "Reduce 12.39%",
       "date": "Q4 2017",
@@ -5026,7 +5191,7 @@
       "action_type": "Reduce",
       "shares": 50000,
       "portfolio_percentage": 0.11,
-      "company_name": "American Axle & Manufacturing Holdings"
+      "company_name": "Dauch Corp."
     },
     {
       "symbol": "DBDQQ-OLD",
@@ -5084,7 +5249,7 @@
       "company_name": "Babcock & Wilcox Enterprises"
     },
     {
-      "symbol": "AXL",
+      "symbol": "DCH",
       "manager_id": "AIM",
       "action": "Add 169.07%",
       "date": "Q3 2017",
@@ -5092,7 +5257,7 @@
       "action_type": "Add",
       "shares": 253600,
       "portfolio_percentage": 0.55,
-      "company_name": "American Axle & Manufacturing Holdings"
+      "company_name": "Dauch Corp."
     },
     {
       "symbol": "BW",
@@ -5447,7 +5612,7 @@
       "company_name": "KapStone Paper and Packaging Corp."
     },
     {
-      "symbol": "AXL",
+      "symbol": "DCH",
       "manager_id": "AIM",
       "action": "Buy",
       "date": "Q2 2017",
@@ -5455,7 +5620,7 @@
       "action_type": "Buy",
       "shares": 150000,
       "portfolio_percentage": 0.24,
-      "company_name": "American Axle & Manufacturing Holdings"
+      "company_name": "Dauch Corp."
     },
     {
       "symbol": "SCS-OLD",
@@ -6569,7 +6734,7 @@
       "company_name": "Magna International Inc."
     },
     {
-      "symbol": "AXL",
+      "symbol": "DCH",
       "manager_id": "AIM",
       "action": "Sell 100.00%",
       "date": "Q2 2016",
@@ -6577,7 +6742,7 @@
       "action_type": "Sell",
       "shares": 579275,
       "portfolio_percentage": 0.97,
-      "company_name": "American Axle & Manufacturing Holdings"
+      "company_name": "Dauch Corp."
     },
     {
       "symbol": "LEA",
@@ -6679,7 +6844,7 @@
       "company_name": "Hewlett Packard Enterprise"
     },
     {
-      "symbol": "AXL",
+      "symbol": "DCH",
       "manager_id": "AIM",
       "action": "Reduce 1.23%",
       "date": "Q1 2016",
@@ -6687,7 +6852,7 @@
       "action_type": "Reduce",
       "shares": 7202,
       "portfolio_percentage": 0.01,
-      "company_name": "American Axle & Manufacturing Holdings"
+      "company_name": "Dauch Corp."
     },
     {
       "symbol": "EMN",
@@ -6921,7 +7086,7 @@
       "company_name": "Oshkosh Corp."
     },
     {
-      "symbol": "AXL",
+      "symbol": "DCH",
       "manager_id": "AIM",
       "action": "Reduce 5.63%",
       "date": "Q4 2015",
@@ -6929,7 +7094,7 @@
       "action_type": "Reduce",
       "shares": 34991,
       "portfolio_percentage": 0.07,
-      "company_name": "American Axle & Manufacturing Holdings"
+      "company_name": "Dauch Corp."
     },
     {
       "symbol": "GT",
@@ -7097,7 +7262,7 @@
       "company_name": "Lear Corp."
     },
     {
-      "symbol": "AXL",
+      "symbol": "DCH",
       "manager_id": "AIM",
       "action": "Add 0.47%",
       "date": "Q3 2015",
@@ -7105,7 +7270,7 @@
       "action_type": "Add",
       "shares": 2884,
       "portfolio_percentage": 0.01,
-      "company_name": "American Axle & Manufacturing Holdings"
+      "company_name": "Dauch Corp."
     },
     {
       "symbol": "NSC",
@@ -7372,7 +7537,7 @@
       "company_name": "O-I Glass Inc."
     },
     {
-      "symbol": "AXL",
+      "symbol": "DCH",
       "manager_id": "AIM",
       "action": "Reduce 1.47%",
       "date": "Q2 2015",
@@ -7380,7 +7545,7 @@
       "action_type": "Reduce",
       "shares": 9216,
       "portfolio_percentage": 0.01,
-      "company_name": "American Axle & Manufacturing Holdings"
+      "company_name": "Dauch Corp."
     },
     {
       "symbol": "LEA",
@@ -7658,7 +7823,7 @@
       "company_name": "Alaska Air Group"
     },
     {
-      "symbol": "AXL",
+      "symbol": "DCH",
       "manager_id": "AIM",
       "action": "Reduce 42.46%",
       "date": "Q1 2015",
@@ -7666,7 +7831,7 @@
       "action_type": "Reduce",
       "shares": 463175,
       "portfolio_percentage": 0.9,
-      "company_name": "American Axle & Manufacturing Holdings"
+      "company_name": "Dauch Corp."
     },
     {
       "symbol": "CYTT-OLD",
@@ -7867,7 +8032,7 @@
       "company_name": "Triumph Group Inc."
     },
     {
-      "symbol": "AXL",
+      "symbol": "DCH",
       "manager_id": "AIM",
       "action": "Reduce 6.71%",
       "date": "Q4 2014",
@@ -7875,7 +8040,7 @@
       "action_type": "Reduce",
       "shares": 78438,
       "portfolio_percentage": 0.11,
-      "company_name": "American Axle & Manufacturing Holdings"
+      "company_name": "Dauch Corp."
     },
     {
       "symbol": "GT",
@@ -8065,7 +8230,7 @@
       "company_name": "Cameron International Corp."
     },
     {
-      "symbol": "AXL",
+      "symbol": "DCH",
       "manager_id": "AIM",
       "action": "Add 1.30%",
       "date": "Q3 2014",
@@ -8073,7 +8238,7 @@
       "action_type": "Add",
       "shares": 14995,
       "portfolio_percentage": 0.02,
-      "company_name": "American Axle & Manufacturing Holdings"
+      "company_name": "Dauch Corp."
     },
     {
       "symbol": "CYTT-OLD",
@@ -8142,7 +8307,7 @@
       "company_name": "BWX Technologies Inc."
     },
     {
-      "symbol": "AXL",
+      "symbol": "DCH",
       "manager_id": "AIM",
       "action": "Add 104.32%",
       "date": "Q2 2014",
@@ -8150,7 +8315,7 @@
       "action_type": "Add",
       "shares": 589418,
       "portfolio_percentage": 0.73,
-      "company_name": "American Axle & Manufacturing Holdings"
+      "company_name": "Dauch Corp."
     },
     {
       "symbol": "BGC-OLD",
@@ -8417,7 +8582,7 @@
       "company_name": "General Cable Corp."
     },
     {
-      "symbol": "AXL",
+      "symbol": "DCH",
       "manager_id": "AIM",
       "action": "Buy",
       "date": "Q1 2014",
@@ -8425,7 +8590,7 @@
       "action_type": "Buy",
       "shares": 565000,
       "portfolio_percentage": 0.7,
-      "company_name": "American Axle & Manufacturing Holdings"
+      "company_name": "Dauch Corp."
     },
     {
       "symbol": "BHI",
@@ -9858,6 +10023,6 @@
       "company_name": "GEO Group Inc."
     }
   ],
-  "timestamp": "2026-02-01T06:24:51.914206",
-  "scraped_date": "2026-02-01"
+  "timestamp": "2026-02-23T15:44:40.726709",
+  "scraped_date": "2026-02-23"
 }

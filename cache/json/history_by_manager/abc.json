@@ -2,6 +2,61 @@
   "manager_id": "abc",
   "activities": [
     {
+      "symbol": "SGI",
+      "manager_id": "abc",
+      "action": "Reduce 0.70%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 41110,
+      "portfolio_percentage": 0.06,
+      "company_name": "Somnigroup International Inc."
+    },
+    {
+      "symbol": "ET",
+      "manager_id": "abc",
+      "action": "Reduce 1.46%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 90360,
+      "portfolio_percentage": 0.03,
+      "company_name": "Energy Transfer LP"
+    },
+    {
+      "symbol": "GOOGL",
+      "manager_id": "abc",
+      "action": "Reduce 9.77%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 207500,
+      "portfolio_percentage": 1.14,
+      "company_name": "Alphabet Inc."
+    },
+    {
+      "symbol": "META",
+      "manager_id": "abc",
+      "action": "Reduce 17.63%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 69600,
+      "portfolio_percentage": 0.81,
+      "company_name": "Meta Platforms Inc."
+    },
+    {
+      "symbol": "CRCL",
+      "manager_id": "abc",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 275000,
+      "portfolio_percentage": 0.59,
+      "company_name": "Circle Internet Group Inc"
+    },
+    {
       "symbol": "ABG",
       "manager_id": "abc",
       "action": "Add 2.23%",
@@ -4094,6 +4149,6 @@
       "company_name": "Silgan Holdings Inc."
     }
   ],
-  "timestamp": "2026-02-01T06:24:52.134301",
-  "scraped_date": "2026-02-01"
+  "timestamp": "2026-02-23T15:44:40.874709",
+  "scraped_date": "2026-02-23"
 }

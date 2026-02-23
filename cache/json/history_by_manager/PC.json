@@ -2,6 +2,39 @@
   "manager_id": "PC",
   "activities": [
     {
+      "symbol": "PYPL",
+      "manager_id": "PC",
+      "action": "Reduce 3.31%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 21540,
+      "portfolio_percentage": 0.42,
+      "company_name": "PayPal Holdings Inc."
+    },
+    {
+      "symbol": "CROX",
+      "manager_id": "PC",
+      "action": "Reduce 5.96%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 37680,
+      "portfolio_percentage": 1.07,
+      "company_name": "Crocs Inc."
+    },
+    {
+      "symbol": "FISV",
+      "manager_id": "PC",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 37000,
+      "portfolio_percentage": 1.48,
+      "company_name": "Fiserv Inc."
+    },
+    {
       "symbol": "CROX",
       "manager_id": "PC",
       "action": "Add 19.04%",
@@ -387,6 +420,6 @@
       "company_name": "Baidu Inc."
     }
   ],
-  "timestamp": "2026-02-01T06:24:51.859081",
-  "scraped_date": "2026-02-01"
+  "timestamp": "2026-02-23T15:44:40.709720",
+  "scraped_date": "2026-02-23"
 }

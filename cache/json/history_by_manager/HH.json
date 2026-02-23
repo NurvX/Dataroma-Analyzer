@@ -2,6 +2,160 @@
   "manager_id": "HH",
   "activities": [
     {
+      "symbol": "NVDA",
+      "manager_id": "HH",
+      "action": "Add 1110.62%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 6639300,
+      "portfolio_percentage": 7.08,
+      "company_name": "NVIDIA Corp."
+    },
+    {
+      "symbol": "TSM",
+      "manager_id": "HH",
+      "action": "Add 370.95%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 964400,
+      "portfolio_percentage": 1.68,
+      "company_name": "Taiwan Semiconductor S.A."
+    },
+    {
+      "symbol": "MSFT",
+      "manager_id": "HH",
+      "action": "Add 207.66%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 579800,
+      "portfolio_percentage": 1.61,
+      "company_name": "Microsoft Corp."
+    },
+    {
+      "symbol": "BRK.B",
+      "manager_id": "HH",
+      "action": "Add 38.24%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1984896,
+      "portfolio_percentage": 5.71,
+      "company_name": "Berkshire Hathaway CL B"
+    },
+    {
+      "symbol": "PDD",
+      "manager_id": "HH",
+      "action": "Add 34.55%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 2962500,
+      "portfolio_percentage": 1.92,
+      "company_name": "Pinduoduo Inc."
+    },
+    {
+      "symbol": "GOOG",
+      "manager_id": "HH",
+      "action": "Add 2.48%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 44900,
+      "portfolio_percentage": 0.08,
+      "company_name": "Alphabet Inc. CL C"
+    },
+    {
+      "symbol": "CRDO",
+      "manager_id": "HH",
+      "action": "Buy",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 141300,
+      "portfolio_percentage": 0.12,
+      "company_name": "Credo Technology Group Holdi"
+    },
+    {
+      "symbol": "CRWV",
+      "manager_id": "HH",
+      "action": "Buy",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 299900,
+      "portfolio_percentage": 0.12,
+      "company_name": "Coreweave Inc Cl A"
+    },
+    {
+      "symbol": "TEM",
+      "manager_id": "HH",
+      "action": "Buy",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 110000,
+      "portfolio_percentage": 0.04,
+      "company_name": "Tempus Ai Inc"
+    },
+    {
+      "symbol": "DIS",
+      "manager_id": "HH",
+      "action": "Reduce 1.52%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 11000,
+      "portfolio_percentage": 0.01,
+      "company_name": "Walt Disney Co."
+    },
+    {
+      "symbol": "OXY",
+      "manager_id": "HH",
+      "action": "Reduce 2.83%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 383500,
+      "portfolio_percentage": 0.09,
+      "company_name": "Occidental Petroleum"
+    },
+    {
+      "symbol": "AAPL",
+      "manager_id": "HH",
+      "action": "Reduce 7.09%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 2470600,
+      "portfolio_percentage": 3.84,
+      "company_name": "Apple Inc."
+    },
+    {
+      "symbol": "BABA",
+      "manager_id": "HH",
+      "action": "Reduce 7.81%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 216830,
+      "portfolio_percentage": 0.18,
+      "company_name": "Alibaba Group Holdings"
+    },
+    {
+      "symbol": "ASML",
+      "manager_id": "HH",
+      "action": "Reduce 87.63%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 70100,
+      "portfolio_percentage": 0.42,
+      "company_name": "ASML Holding NV"
+    },
+    {
       "symbol": "BRK.B",
       "manager_id": "HH",
       "action": "Add 53.53%",
@@ -1069,6 +1223,6 @@
       "company_name": "Zoom Video Communications Inc."
     }
   ],
-  "timestamp": "2026-02-01T06:24:51.985897",
-  "scraped_date": "2026-02-01"
+  "timestamp": "2026-02-23T15:44:40.804869",
+  "scraped_date": "2026-02-23"
 }

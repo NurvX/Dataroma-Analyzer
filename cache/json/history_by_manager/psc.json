@@ -2,6 +2,105 @@
   "manager_id": "psc",
   "activities": [
     {
+      "symbol": "AMZN",
+      "manager_id": "psc",
+      "action": "Add 64.99%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 3784508,
+      "portfolio_percentage": 5.62,
+      "company_name": "Amazon.com Inc."
+    },
+    {
+      "symbol": "META",
+      "manager_id": "psc",
+      "action": "Buy",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 2673569,
+      "portfolio_percentage": 11.37,
+      "company_name": "Meta Platforms Inc."
+    },
+    {
+      "symbol": "HLT",
+      "manager_id": "psc",
+      "action": "Reduce 0.06%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1914,
+      "portfolio_percentage": 0.0,
+      "company_name": "Hilton Worldwide Holdings"
+    },
+    {
+      "symbol": "BN",
+      "manager_id": "psc",
+      "action": "Reduce 0.21%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 127257,
+      "portfolio_percentage": 0.04,
+      "company_name": "Brookfield Corp."
+    },
+    {
+      "symbol": "UBER",
+      "manager_id": "psc",
+      "action": "Reduce 0.21%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 62784,
+      "portfolio_percentage": 0.03,
+      "company_name": "Uber Technologies Inc."
+    },
+    {
+      "symbol": "QSR",
+      "manager_id": "psc",
+      "action": "Reduce 0.21%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 48723,
+      "portfolio_percentage": 0.02,
+      "company_name": "Restaurant Brands International"
+    },
+    {
+      "symbol": "GOOG",
+      "manager_id": "psc",
+      "action": "Reduce 2.53%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 160160,
+      "portfolio_percentage": 0.32,
+      "company_name": "Alphabet Inc. CL C"
+    },
+    {
+      "symbol": "GOOGL",
+      "manager_id": "psc",
+      "action": "Reduce 86.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 4165676,
+      "portfolio_percentage": 8.41,
+      "company_name": "Alphabet Inc."
+    },
+    {
+      "symbol": "CMG",
+      "manager_id": "psc",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 21541177,
+      "portfolio_percentage": 5.77,
+      "company_name": "Chipotle Mexican Grill Inc."
+    },
+    {
       "symbol": "UBER",
       "manager_id": "psc",
       "action": "Reduce 0.10%",
@@ -4391,6 +4490,6 @@
       "company_name": "Staples Inc."
     }
   ],
-  "timestamp": "2026-02-01T06:24:51.901318",
-  "scraped_date": "2026-02-01"
+  "timestamp": "2026-02-23T15:44:40.682207",
+  "scraped_date": "2026-02-23"
 }

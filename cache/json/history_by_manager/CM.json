@@ -4,6 +4,17 @@
     {
       "symbol": "SDHC",
       "manager_id": "CM",
+      "action": "Add 68.32%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 581794,
+      "portfolio_percentage": 1.62,
+      "company_name": "Smith Douglas Homes Corp"
+    },
+    {
+      "symbol": "SDHC",
+      "manager_id": "CM",
       "action": "Add 70.31%",
       "date": "Q3 2025",
       "percentage_change": 0.0,
@@ -1476,6 +1487,6 @@
       "company_name": "Alibaba Group Holdings"
     }
   ],
-  "timestamp": "2026-02-01T06:24:52.015563",
-  "scraped_date": "2026-02-01"
+  "timestamp": "2026-02-23T15:44:40.907492",
+  "scraped_date": "2026-02-23"
 }

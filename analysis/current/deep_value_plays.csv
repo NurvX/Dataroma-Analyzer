@@ -1,107 +1,31 @@
-ticker,company_name,current_price,managers,total_value,avg_portfolio_pct,index,manager_count,avg_reported_price,max_portfolio_pct,price_change_pct,52_week_low,52_week_high,52_week_position_pct,near_52w_low,value_score,value_type
-GPI,Group 1 Automotive,354.26,Greg Alexander,248691000,39.41,669,1,437.51,39.41,-19.02813649973715,351.28,487.84,2.1821909783245594,True,14.8,Deep Discount
-LOAR,Loar Holdings Inc,68.58,David Abrams,2564019000,41.56,909,1,80.0,41.56,-14.275000000000002,62.11,99.67,17.225772097976566,True,14.0,Deep Discount
-CVI,CVR Energy Inc.,22.74,Carl Icahn,2568866000,28.1,418,1,36.48,28.1,-37.66447368421053,15.1,41.67,28.754234098607444,False,13.0,Deep Discount
-IEP,Icahn Enterprises,7.78,Carl Icahn,4369415000,47.8,758,1,8.42,47.8,-7.600950118764842,6.16,8.79,61.59695817490497,False,12.3,Value Play
-EVH,Evolent Health Inc.,3.21,"Lee Ainslie
-Glenn Welling",68181000,6.01,535,2,8.46,11.75,-62.05673758865249,3.16,12.07,0.5611672278338925,True,11.4,Deep Discount
-CNDT,Conduent Inc.,1.39,Bill Miller,11286000,4.15,357,1,2.8,4.15,-50.35714285714285,1.38,4.9,0.2840909090909093,True,10.9,Deep Discount
-BRCC,BRC Inc.,0.83,Glenn Welling,21739000,5.33,242,1,1.56,5.33,-46.7948717948718,0.8,2.79,1.507537688442207,True,10.8,Deep Discount
-RBLX,Roblox Corp.,65.76,"Lee Ainslie
-Henry Ellenbogen
-ValueAct Capital",1139292000,4.8,1227,3,138.52,10.01,-52.526710944267975,50.1,150.59,15.583640163200322,False,10.5,Deep Discount
-FISV,Fiserv Inc.,63.73,"Mairs & Power Growth Fund
-Dodge & Cox
-Hillman Value Fund
-Charles Bobrinskoy
-John Rogers
-Francois Rochon
-Norbert Lou
-Seth Klarman
-David Tepper
-Robert Olstein",2550016000,1.74,577,10,109.829,2.85,-41.973431425215566,59.56,238.59,2.329218566720658,True,10.4,Deep Discount
-MNDY,monday.com Ltd.,114.75,"Dennis Hong
-Polen Capital Management",96851000,5.43,979,2,193.69,10.78,-40.75584697196551,113.8,342.64,0.415137213773817,True,10.3,Deep Discount
-FLUT,Flutter Entertainment Plc,165.15,"Tom Bancroft
-Lee Ainslie
-Daniel Loeb
-Henry Ellenbogen
-Stephen Mandel
-Chase Coleman
-AKO Capital
-John Armitage
-William Von Mueffling",3750722000,4.57,587,9,254.1488888888889,11.33,-35.018405658975055,160.72,313.69,2.89599267830294,True,10.2,Deep Discount
-GWRE,Guidewire Software Inc.,140.76,"Bryan Lawrence
-Polen Capital Management",15305000,3.26,689,2,229.675,6.52,-38.71339936867314,140.25,272.6,0.3853418964865817,True,9.7,Deep Discount
-JELD,JELD-WEN Holding Inc.,2.72,Bill Miller,10158000,3.73,819,1,4.91,3.73,-44.60285132382892,1.7,9.3,13.42105263157895,False,9.6,Deep Discount
-WIX,Wix.com Ltd.,86.84,"Robert Vinall
-Henry Ellenbogen",216011000,4.49,1582,2,140.76,7.62,-38.30633702756464,75.0,246.78,6.892536965886602,False,9.6,Deep Discount
-INTU,Intuit Inc.,498.92,"Torray Funds
-David Katz
-Lee Ainslie
-Viking Global Investors
-Henry Ellenbogen
-Valley Forge Capital Management
-Terry Smith
-Dennis Hong
-AKO Capital
-Lindsell Train",2860208000,3.81,782,12,679.4433333333333,11.61,-26.56929937743152,491.72,810.72,2.2570532915360464,True,9.5,Deep Discount
-ORCL,Oracle Corp.,164.58,"Charles Bobrinskoy
-Sarah Ketterer
-First Eagle Investment Management
-Lindsell Train
-Thomas Russo
-Polen Capital Management
-Christopher Davis
-Wallace Weitz
-Jensen Investment Management
-William Von Mueffling",5469647000,1.96,1113,10,281.235,8.48,-41.47954557576404,117.67,344.21,20.707159883464296,False,9.5,Deep Discount
-BLND,Blend Labs Inc.,2.38,Dennis Hong,35918000,5.34,228,1,3.65,5.34,-34.794520547945204,2.3,4.49,3.652968036529683,True,9.5,Deep Discount
-MOH,Molina Healthcare Inc.,179.59,"Bill Nygren
-Michael Burry",189829000,22.9,986,2,191.36,43.49,-6.150710702341142,133.4,359.97,20.386635476894558,False,9.4,Value Play
-CPNG,Coupang Inc.,20.16,"Lee Ainslie
-Henry Ellenbogen
-Bill & Melinda Gates Foundation Trust
-Chase Coleman
-David Abrams",2093339000,3.2,385,5,32.2,6.79,-37.39130434782609,18.55,34.08,10.367031551835156,True,9.4,Deep Discount
-BRZE,Braze Inc A,20.82,Dennis Hong,52564000,7.82,250,1,28.44,7.82,-26.79324894514768,20.75,47.6,0.260707635009312,True,9.3,Deep Discount
-FOUR,Shift4 Payments Inc. CL A,59.04,"Henry Ellenbogen
-Dennis Hong",532346000,8.82,600,2,77.4,14.4,-23.720930232558143,58.44,127.5,0.8688097306689855,True,9.3,Deep Discount
-MSFT,Microsoft Corp.,430.29,"Robert Vinall
-Torray Funds
-Mairs & Power Growth Fund
-Dodge & Cox
-David Katz
-Hillman Value Fund
-Francois Rochon
-Lee Ainslie
-Viking Global Investors
-Daniel Loeb",32620415000,5.88,1000,35,512.3148571428571,24.33,-16.01063408551214,342.95,553.5,41.48183329375447,False,9.2,Deep Discount
-ENOV,Enovis Corp.,22.04,Pat Dorsey,72795000,6.54,511,1,30.34,6.54,-27.35662491760053,21.0,47.85,3.8733705772811886,True,8.9,Deep Discount
-COIN,Coinbase Global Inc.,194.74,Samantha McLemore,57959000,2.32,370,1,337.49,2.32,-42.29754955702391,142.58,444.65,17.267520773330688,False,8.9,Deep Discount
-PENN,Penn National Gaming Inc.,12.84,"Lee Ainslie
-David Einhorn
-Prem Watsa",133973000,1.74,1153,3,19.256666666666668,5.13,-33.32179331833132,12.67,23.08,1.6330451488952926,True,8.9,Deep Discount
-PSKY,Paramount Skydance Corp.,11.21,Christopher Bloomstran,12474000,1.56,1197,1,18.92,1.56,-40.75052854122622,9.89,20.78,12.121212121212125,True,8.9,Deep Discount
-SE,Sea Ltd,116.49,"Viking Global Investors
-Stephen Mandel
-Chase Coleman
-Leon Cooperman
-Howard Marks
-Sarah Ketterer
-Polen Capital Management
-Christopher Davis",3946656000,1.98,1305,8,178.73,8.86,-34.82347675264365,99.5,199.3,17.02404809619238,False,8.8,Deep Discount
-NFLX,Netflix Inc.,83.49,"Viking Global Investors
-Chase Coleman
-Thomas Russo
-Polen Capital Management",2033389000,2.7,1033,4,119.89,6.61,-30.361164400700645,81.93,134.12,2.9890783675033306,True,8.8,Deep Discount
-NOW,ServiceNow Inc.,117.01,"Torray Funds
-Chase Coleman
-Polen Capital Management",1316772000,1.72,1049,3,173.76999999999998,3.36,-32.663866029809505,113.13,211.48,3.945094051855628,True,8.7,Deep Discount
-CSGP,CoStar Group Inc.,61.5,"Viking Global Investors
-Daniel Loeb
-Chase Coleman
-Dennis Hong
-Chuck Akre
-Polen Capital Management
-Wallace Weitz",2144273000,4.06,405,7,84.37,11.24,-27.106791513571174,57.01,97.43,11.108362196932214,True,8.7,Deep Discount
+ticker,company_name,current_price,manager_count,managers,total_value,avg_portfolio_pct,index,avg_reported_price,max_portfolio_pct,price_change_pct,52_week_low,52_week_high,52_week_position_pct,near_52w_low,value_score,recent_buys,value_type,_analysis_type,_generated,_periods,_window_quarters
+BRZE,Braze Inc A,15.92,1,Dennis Hong,50509000,9.51,34,34.29,9.51,-53.57247010790317,15.92,43.89,0.0,True,12.0,1.0,Deep Discount,deep_value_plays,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+BL,BlackLine Inc.,35.76,1,Glenn Welling,59913000,15.28,29,55.29,15.28,-35.32284319045036,35.76,59.57,0.0,True,11.7,2.0,Deep Discount,deep_value_plays,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+INTU,Intuit Inc.,376.43,10,"Valley Forge Capital Management, AKO Capital, Terry Smith, Lee Ainslie, Dennis Hong, +5 more",1697062000,3.13,109,662.396,10.25,-43.17145634937409,375.4,810.72,0.2366075530644191,True,10.9,11.0,Deep Discount,deep_value_plays,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+MNDY,monday.com Ltd.,71.61,2,"Dennis Hong, Polen Capital Management",49180000,3.56,136,147.56,7.06,-51.47058823529412,68.68,316.98,1.180024164317355,True,10.9,4.0,Deep Discount,deep_value_plays,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+BLND,Blend Labs Inc.,1.62,1,Dennis Hong,27433000,5.17,31,3.04,5.17,-46.710526315789465,1.62,4.49,0.0,True,10.8,1.0,Deep Discount,deep_value_plays,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+FLUT,Flutter Entertainment Plc,120.84,5,"Chase Coleman, AKO Capital, Lee Ainslie, Tom Bancroft, William Von Mueffling",2066790000,4.62,86,215.118,10.2,-43.82617912029677,119.47,313.69,0.7053856451446836,True,10.8,12.0,Deep Discount,deep_value_plays,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+KD,Kyndryl Holdings Inc,12.43,2,"David Einhorn, Harry Burn",180358000,3.04,116,26.56,3.56,-53.20030120481928,10.1,44.2,6.832844574780059,True,10.5,5.0,Deep Discount,deep_value_plays,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+SLM,SLM Corp.,22.5,2,"Glenn Greenberg, Michael Burry",360521000,16.14,180,27.37,24.16,-17.793204238217015,22.46,34.67,0.3276003276003206,True,10.2,4.0,Deep Discount,deep_value_plays,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+MSFT,Microsoft Corp.,395.14,35,"Viking Global Investors, Daniel Loeb, Bill & Melinda Gates Foundation Trust, Stephen Mandel, David Rolfe, +5 more",29014352000,5.41,142,483.87971428571433,19.75,-18.339209449337773,342.17,552.24,25.215404389013173,False,10.2,32.0,Deep Discount,deep_value_plays,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+CVI,CVR Energy Inc.,20.8,1,Carl Icahn,1791446000,21.21,66,25.44,21.21,-18.238993710691823,15.1,41.67,21.452766277756872,True,10.1,1.0,Deep Discount,deep_value_plays,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+GWRE,Guidewire Software Inc.,126.9,1,Bryan Lawrence,16721000,7.17,97,201.01,7.17,-36.8688124968907,120.37,272.6,4.289561847204888,True,10.0,2.0,Deep Discount,deep_value_plays,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+OKTA,Okta Inc.,71.45,1,Dennis Hong,76391000,14.38,148,86.47,14.38,-17.370186191742796,71.45,127.57,0.0,True,9.7,2.0,Deep Discount,deep_value_plays,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+BRCC,BRC Inc.,0.69,1,Glenn Welling,15468000,3.95,33,1.11,3.95,-37.837837837837846,0.66,2.78,1.4150943396226376,True,9.6,1.0,Deep Discount,deep_value_plays,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+WIX,Wix.com Ltd.,66.4,2,"Daniel Loeb, Robert Vinall",56100000,3.97,207,103.89,7.62,-36.08624506689768,65.45,207.45,0.6690140845070442,True,9.6,3.0,Deep Discount,deep_value_plays,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+CCC,CCC Intelligent Solutions Hldgs Inc.,4.92,3,"Chuck Akre, Triple Frond Partners, Torray Funds",237330000,2.13,43,7.95,3.97,-38.11320754716981,4.91,10.79,0.1700680272108807,True,9.5,10.0,Deep Discount,deep_value_plays,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+MOH,Molina Healthcare Inc.,154.85,3,"Seth Klarman, Bill Nygren, Michael Burry",298292000,15.95,137,185.42,43.49,-16.486894617624852,121.06,359.97,14.14340128081704,True,9.4,5.0,Deep Discount,deep_value_plays,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+CRM,Salesforce.com,182.55,10,"ValueAct Capital, AKO Capital, Wallace Weitz, Polen Capital Management, Harry Burn, +5 more",2555224000,2.78,63,258.697,11.29,-29.43482143202279,180.24,316.9,1.690326357383289,True,9.4,11.0,Deep Discount,deep_value_plays,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+AMR,Alpha Metallurgical Resources Inc.,173.74,1,Mohnish Pabrai,108535000,27.0,10,199.88,27.0,-13.07784670802481,97.41,253.82,48.80122754299598,False,9.4,3.0,Deep Discount,deep_value_plays,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+HNST,The Honest Company inc.,2.23,1,Meridian Contrarian Fund,11038000,2.02,101,3.68,2.02,-39.40217391304349,2.07,6.22,3.855421686746991,True,9.3,3.0,Deep Discount,deep_value_plays,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+PYPL,PayPal Holdings Inc.,41.3,7,"Norbert Lou, David Rolfe, Francis Chou, Polen Capital Management, Lindsell Train, +2 more",350047000,3.83,161,59.63857142857143,12.2,-30.74951493520493,38.46,79.32,6.950562897699454,True,9.2,8.0,Deep Discount,deep_value_plays,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+FIS,Fidelity National Information Services,46.92,5,"Seth Klarman, Harry Burn, Robert Olstein, Dodge & Cox, Mason Hawkins",2647644000,3.15,85,66.356,5.67,-29.290493700645,46.16,81.76,2.1348314606741714,True,9.0,8.0,Deep Discount,deep_value_plays,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+FICO,Fair Isaac Corp.,1341.25,6,"Valley Forge Capital Management, AKO Capital, Chuck Akre, Lindsell Train, Jensen Investment Management, +1 more",2333463000,7.82,84,1690.58,29.49,-20.66332264666564,1280.86,2217.6,6.446826227128136,True,8.9,8.0,Deep Discount,deep_value_plays,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+NOW,ServiceNow Inc.,101.91,3,"Chase Coleman, Polen Capital Management, Torray Funds",1202282000,1.92,146,153.19,3.72,-33.47476989359619,98.0,211.48,3.445541064504756,True,8.9,4.0,Deep Discount,deep_value_plays,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+DKNG,DraftKings Inc.,22.12,1,Viking Global Investors,658872000,1.76,75,34.46,1.76,-35.809634358676725,21.01,49.59,3.883834849545134,True,8.8,2.0,Deep Discount,deep_value_plays,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+ORCL,Oracle Corp.,142.49,9,"Thomas Russo, Wallace Weitz, Polen Capital Management, Lindsell Train, Jensen Investment Management, +4 more",3242084000,1.55,150,204.49777777777777,5.98,-30.32198122228983,117.67,344.21,10.956122539065952,True,8.7,2.0,Deep Discount,deep_value_plays,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+CSGP,CoStar Group Inc.,49.07,7,"Viking Global Investors, Daniel Loeb, Chase Coleman, Chuck Akre, Dennis Hong, +2 more",1550073000,3.88,64,67.24,12.12,-27.02260559190957,43.8,97.43,9.826589595375726,True,8.7,7.0,Deep Discount,deep_value_plays,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+EVH,Evolent Health Inc.,2.79,2,"Glenn Welling, Lee Ainslie",32416000,2.9,81,4.0,5.68,-30.25,2.56,12.07,2.4185068349106205,True,8.7,5.0,Deep Discount,deep_value_plays,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+CVNA,Carvana Co.,334.5,7,"Viking Global Investors, Stephen Mandel, Henry Ellenbogen, Clifford Sosin, Lee Ainslie, +2 more",3861633000,17.94,67,422.01714285714286,83.25,-20.737817014880918,148.25,486.89,54.999409402315145,False,8.6,6.0,Deep Discount,deep_value_plays,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+BKNG,Booking Holdings Inc.,4034.98,8,"Stephen Mandel, Henry Ellenbogen, David Rolfe, AKO Capital, Pat Dorsey, +3 more",2484039000,2.94,28,5355.36625,7.6,-24.655386548025543,3871.01,5818.25,8.42063638791314,True,8.4,10.0,Deep Discount,deep_value_plays,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+CTSH,Cognizant Technology Solutions,61.98,5,"Sarah Ketterer, Jensen Investment Management, Yacktman Asset Management, Dodge & Cox, Richard Pzena",1367826000,1.87,65,83.0,3.47,-25.32530120481928,61.98,86.59,0.0,True,8.4,3.0,Deep Discount,deep_value_plays,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3

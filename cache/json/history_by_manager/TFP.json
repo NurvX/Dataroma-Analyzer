@@ -2,6 +2,138 @@
   "manager_id": "TFP",
   "activities": [
     {
+      "symbol": "TDG",
+      "manager_id": "TFP",
+      "action": "Add 82.39%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 46930,
+      "portfolio_percentage": 6.49,
+      "company_name": "TransDigm Group Inc."
+    },
+    {
+      "symbol": "CCC",
+      "manager_id": "TFP",
+      "action": "Add 31.12%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1140536,
+      "portfolio_percentage": 0.94,
+      "company_name": "CCC Intelligent Solutions Hldgs Inc."
+    },
+    {
+      "symbol": "TRU",
+      "manager_id": "TFP",
+      "action": "Add 28.04%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 120683,
+      "portfolio_percentage": 1.08,
+      "company_name": "TransUnion"
+    },
+    {
+      "symbol": "LYV",
+      "manager_id": "TFP",
+      "action": "Buy",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 255858,
+      "portfolio_percentage": 3.79,
+      "company_name": "Live Nation Inc."
+    },
+    {
+      "symbol": "ASML",
+      "manager_id": "TFP",
+      "action": "Reduce 4.21%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 4692,
+      "portfolio_percentage": 0.52,
+      "company_name": "ASML Holding NV"
+    },
+    {
+      "symbol": "META",
+      "manager_id": "TFP",
+      "action": "Reduce 4.21%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 4279,
+      "portfolio_percentage": 0.29,
+      "company_name": "Meta Platforms Inc."
+    },
+    {
+      "symbol": "ILMN",
+      "manager_id": "TFP",
+      "action": "Reduce 4.21%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 16440,
+      "portfolio_percentage": 0.22,
+      "company_name": "Illumina Inc."
+    },
+    {
+      "symbol": "CHTR",
+      "manager_id": "TFP",
+      "action": "Reduce 4.21%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 6755,
+      "portfolio_percentage": 0.15,
+      "company_name": "Charter Communications"
+    },
+    {
+      "symbol": "MSFT",
+      "manager_id": "TFP",
+      "action": "Reduce 8.48%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 32674,
+      "portfolio_percentage": 1.64,
+      "company_name": "Microsoft Corp."
+    },
+    {
+      "symbol": "AMZN",
+      "manager_id": "TFP",
+      "action": "Reduce 11.46%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 61917,
+      "portfolio_percentage": 1.49,
+      "company_name": "Amazon.com Inc."
+    },
+    {
+      "symbol": "LRCX",
+      "manager_id": "TFP",
+      "action": "Reduce 30.97%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 132513,
+      "portfolio_percentage": 2.36,
+      "company_name": "Lam Research"
+    },
+    {
+      "symbol": "GOOG",
+      "manager_id": "TFP",
+      "action": "Reduce 35.84%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 197415,
+      "portfolio_percentage": 6.44,
+      "company_name": "Alphabet Inc. CL C"
+    },
+    {
       "symbol": "ASML",
       "manager_id": "TFP",
       "action": "Add 40.57%",
@@ -2081,6 +2213,6 @@
       "company_name": "TransDigm Group Inc."
     }
   ],
-  "timestamp": "2026-02-01T06:24:51.951942",
-  "scraped_date": "2026-02-01"
+  "timestamp": "2026-02-23T15:44:40.905381",
+  "scraped_date": "2026-02-23"
 }

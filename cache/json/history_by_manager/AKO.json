@@ -2,6 +2,281 @@
   "manager_id": "AKO",
   "activities": [
     {
+      "symbol": "CP",
+      "manager_id": "AKO",
+      "action": "Add 269.87%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 2157801,
+      "portfolio_percentage": 2.42,
+      "company_name": "Canadian Pacific Kansas City"
+    },
+    {
+      "symbol": "RACE",
+      "manager_id": "AKO",
+      "action": "Add 49.28%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 311907,
+      "portfolio_percentage": 1.77,
+      "company_name": "Ferrari NV"
+    },
+    {
+      "symbol": "CPRT",
+      "manager_id": "AKO",
+      "action": "Add 8.74%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 482889,
+      "portfolio_percentage": 0.29,
+      "company_name": "Copart Inc."
+    },
+    {
+      "symbol": "ADI",
+      "manager_id": "AKO",
+      "action": "Add 2.03%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 24862,
+      "portfolio_percentage": 0.1,
+      "company_name": "Analog Devices"
+    },
+    {
+      "symbol": "ICE",
+      "manager_id": "AKO",
+      "action": "Add 0.01%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 184,
+      "portfolio_percentage": 0.0,
+      "company_name": "Intercontinental Exchange Inc."
+    },
+    {
+      "symbol": "CSCO",
+      "manager_id": "AKO",
+      "action": "Buy",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 3113706,
+      "portfolio_percentage": 3.65,
+      "company_name": "Cisco Systems"
+    },
+    {
+      "symbol": "MA",
+      "manager_id": "AKO",
+      "action": "Buy",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 100109,
+      "portfolio_percentage": 0.87,
+      "company_name": "Mastercard Inc."
+    },
+    {
+      "symbol": "FLUT",
+      "manager_id": "AKO",
+      "action": "Reduce 0.34%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 10690,
+      "portfolio_percentage": 0.04,
+      "company_name": "Flutter Entertainment Plc"
+    },
+    {
+      "symbol": "ALC",
+      "manager_id": "AKO",
+      "action": "Reduce 3.61%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 287664,
+      "portfolio_percentage": 0.35,
+      "company_name": "Alcon Inc."
+    },
+    {
+      "symbol": "AMZN",
+      "manager_id": "AKO",
+      "action": "Reduce 3.90%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 70430,
+      "portfolio_percentage": 0.25,
+      "company_name": "Amazon.com Inc."
+    },
+    {
+      "symbol": "MCO",
+      "manager_id": "AKO",
+      "action": "Reduce 3.99%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 30575,
+      "portfolio_percentage": 0.24,
+      "company_name": "Moody's Corp."
+    },
+    {
+      "symbol": "CRM",
+      "manager_id": "AKO",
+      "action": "Reduce 4.15%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 13520,
+      "portfolio_percentage": 0.05,
+      "company_name": "Salesforce.com"
+    },
+    {
+      "symbol": "MSFT",
+      "manager_id": "AKO",
+      "action": "Reduce 4.52%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 48281,
+      "portfolio_percentage": 0.36,
+      "company_name": "Microsoft Corp."
+    },
+    {
+      "symbol": "WAT",
+      "manager_id": "AKO",
+      "action": "Reduce 6.63%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 53493,
+      "portfolio_percentage": 0.31,
+      "company_name": "Waters Corp."
+    },
+    {
+      "symbol": "FICO",
+      "manager_id": "AKO",
+      "action": "Reduce 8.78%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 10861,
+      "portfolio_percentage": 0.28,
+      "company_name": "Fair Isaac Corp."
+    },
+    {
+      "symbol": "V",
+      "manager_id": "AKO",
+      "action": "Reduce 9.27%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 146890,
+      "portfolio_percentage": 0.78,
+      "company_name": "Visa Inc."
+    },
+    {
+      "symbol": "GE",
+      "manager_id": "AKO",
+      "action": "Reduce 16.01%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 211487,
+      "portfolio_percentage": 0.99,
+      "company_name": "GE Aerospace"
+    },
+    {
+      "symbol": "MRSH",
+      "manager_id": "AKO",
+      "action": "Reduce 17.50%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 314893,
+      "portfolio_percentage": 0.89,
+      "company_name": "Marsh"
+    },
+    {
+      "symbol": "EFX",
+      "manager_id": "AKO",
+      "action": "Reduce 18.37%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 172393,
+      "portfolio_percentage": 0.57,
+      "company_name": "Equifax Inc."
+    },
+    {
+      "symbol": "BKNG",
+      "manager_id": "AKO",
+      "action": "Reduce 33.76%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 21817,
+      "portfolio_percentage": 1.78,
+      "company_name": "Booking Holdings Inc."
+    },
+    {
+      "symbol": "INTU",
+      "manager_id": "AKO",
+      "action": "Reduce 64.58%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 435549,
+      "portfolio_percentage": 4.39,
+      "company_name": "Intuit Inc."
+    },
+    {
+      "symbol": "LIN",
+      "manager_id": "AKO",
+      "action": "Reduce 82.96%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 65609,
+      "portfolio_percentage": 0.44,
+      "company_name": "Linde plc"
+    },
+    {
+      "symbol": "ZTS",
+      "manager_id": "AKO",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 683704,
+      "portfolio_percentage": 1.42,
+      "company_name": "Zoetis Inc."
+    },
+    {
+      "symbol": "CDNS",
+      "manager_id": "AKO",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 168767,
+      "portfolio_percentage": 0.84,
+      "company_name": "Cadence Design Systems"
+    },
+    {
+      "symbol": "BAH",
+      "manager_id": "AKO",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 86866,
+      "portfolio_percentage": 0.12,
+      "company_name": "Booz Allen Hamilton Hldg Corp."
+    },
+    {
       "symbol": "CDNS",
       "manager_id": "AKO",
       "action": "Add 28.04%",
@@ -7471,6 +7746,6 @@
       "company_name": "Fair Isaac Corp."
     }
   ],
-  "timestamp": "2026-02-01T06:24:52.055638",
-  "scraped_date": "2026-02-01"
+  "timestamp": "2026-02-23T15:44:40.784352",
+  "scraped_date": "2026-02-23"
 }

@@ -5491,7 +5491,7 @@
       "company_name": "Mohawk Industries"
     },
     {
-      "symbol": "PX",
+      "symbol": "RPC",
       "manager_id": "SEQUX",
       "action": "Sell 100.00%",
       "date": "Q4 2016",
@@ -5499,7 +5499,7 @@
       "action_type": "Sell",
       "shares": 685147,
       "portfolio_percentage": 2.01,
-      "company_name": "Praxair Inc."
+      "company_name": "Ridgepost Capital Inc."
     },
     {
       "symbol": "CFRHF",
@@ -6327,7 +6327,7 @@
       "company_name": "Perrigo Co."
     },
     {
-      "symbol": "PX",
+      "symbol": "RPC",
       "manager_id": "SEQUX",
       "action": "Reduce 0.00%",
       "date": "Q3 2015",
@@ -6335,7 +6335,7 @@
       "action_type": "Reduce",
       "shares": 33,
       "portfolio_percentage": 0.0,
-      "company_name": "Praxair Inc."
+      "company_name": "Ridgepost Capital Inc."
     },
     {
       "symbol": "SIRO-OLD",
@@ -7185,7 +7185,7 @@
       "company_name": "TJX Companies Inc."
     },
     {
-      "symbol": "PX",
+      "symbol": "RPC",
       "manager_id": "SEQUX",
       "action": "Reduce 0.68%",
       "date": "Q3 2014",
@@ -7193,7 +7193,7 @@
       "action_type": "Reduce",
       "shares": 4716,
       "portfolio_percentage": 0.01,
-      "company_name": "Praxair Inc."
+      "company_name": "Ridgepost Capital Inc."
     },
     {
       "symbol": "RYCEF",
@@ -7273,7 +7273,7 @@
       "company_name": "Berkshire Hathaway CL B"
     },
     {
-      "symbol": "PX",
+      "symbol": "RPC",
       "manager_id": "SEQUX",
       "action": "Add 0.34%",
       "date": "Q2 2014",
@@ -7281,7 +7281,7 @@
       "action_type": "Add",
       "shares": 2361,
       "portfolio_percentage": 0.0,
-      "company_name": "Praxair Inc."
+      "company_name": "Ridgepost Capital Inc."
     },
     {
       "symbol": "GOOG",
@@ -8285,17 +8285,6 @@
       "company_name": "Perrigo Co."
     },
     {
-      "symbol": "PX",
-      "manager_id": "SEQUX",
-      "action": "Reduce 0.16%",
-      "date": "Q1 2013",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 1126,
-      "portfolio_percentage": 0.0,
-      "company_name": "Praxair Inc."
-    },
-    {
       "symbol": "QNTQF",
       "manager_id": "SEQUX",
       "action": "Reduce 0.16%",
@@ -8316,6 +8305,17 @@
       "shares": 2488,
       "portfolio_percentage": 0.0,
       "company_name": "Ritchie Bros. Auctioneers Inc."
+    },
+    {
+      "symbol": "RPC",
+      "manager_id": "SEQUX",
+      "action": "Reduce 0.16%",
+      "date": "Q1 2013",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1126,
+      "portfolio_percentage": 0.0,
+      "company_name": "Ridgepost Capital Inc."
     },
     {
       "symbol": "SIRO-OLD",
@@ -8835,7 +8835,7 @@
       "company_name": "Mettler-Toledo International Inc."
     },
     {
-      "symbol": "PX",
+      "symbol": "RPC",
       "manager_id": "SEQUX",
       "action": "Add 50.79%",
       "date": "Q4 2011",
@@ -8843,7 +8843,7 @@
       "action_type": "Add",
       "shares": 231969,
       "portfolio_percentage": 0.68,
-      "company_name": "Praxair Inc."
+      "company_name": "Ridgepost Capital Inc."
     },
     {
       "symbol": "TRMB",
@@ -8945,7 +8945,7 @@
       "company_name": "Berkshire Hathaway CL B"
     },
     {
-      "symbol": "PX",
+      "symbol": "RPC",
       "manager_id": "SEQUX",
       "action": "Add 27.21%",
       "date": "Q3 2011",
@@ -8953,7 +8953,7 @@
       "action_type": "Add",
       "shares": 97675,
       "portfolio_percentage": 0.3,
-      "company_name": "Praxair Inc."
+      "company_name": "Ridgepost Capital Inc."
     },
     {
       "symbol": "TJX",
@@ -9583,7 +9583,7 @@
       "company_name": "Becton Dickinson"
     },
     {
-      "symbol": "PX",
+      "symbol": "RPC",
       "manager_id": "SEQUX",
       "action": "Buy",
       "date": "Q4 2009",
@@ -9591,7 +9591,7 @@
       "action_type": "Buy",
       "shares": 359017,
       "portfolio_percentage": 1.2,
-      "company_name": "Praxair Inc."
+      "company_name": "Ridgepost Capital Inc."
     },
     {
       "symbol": "WRB",
@@ -11002,6 +11002,6 @@
       "company_name": "Berkshire Hathaway CL B"
     }
   ],
-  "timestamp": "2026-02-01T06:24:51.755991",
-  "scraped_date": "2026-02-01"
+  "timestamp": "2026-02-23T15:44:41.126572",
+  "scraped_date": "2026-02-23"
 }

@@ -2,6 +2,94 @@
   "manager_id": "AP",
   "activities": [
     {
+      "symbol": "TDG",
+      "manager_id": "AP",
+      "action": "Reduce 0.72%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 6992,
+      "portfolio_percentage": 0.18,
+      "company_name": "TransDigm Group Inc."
+    },
+    {
+      "symbol": "V",
+      "manager_id": "AP",
+      "action": "Reduce 3.16%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 16845,
+      "portfolio_percentage": 0.12,
+      "company_name": "Visa Inc."
+    },
+    {
+      "symbol": "AMZN",
+      "manager_id": "AP",
+      "action": "Reduce 3.22%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 243719,
+      "portfolio_percentage": 1.1,
+      "company_name": "Amazon.com Inc."
+    },
+    {
+      "symbol": "MA",
+      "manager_id": "AP",
+      "action": "Reduce 7.23%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 42250,
+      "portfolio_percentage": 0.47,
+      "company_name": "Mastercard Inc."
+    },
+    {
+      "symbol": "MCO",
+      "manager_id": "AP",
+      "action": "Reduce 14.15%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 134232,
+      "portfolio_percentage": 1.34,
+      "company_name": "Moody's Corp."
+    },
+    {
+      "symbol": "MSFT",
+      "manager_id": "AP",
+      "action": "Reduce 18.95%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 486910,
+      "portfolio_percentage": 4.62,
+      "company_name": "Microsoft Corp."
+    },
+    {
+      "symbol": "GOOGL",
+      "manager_id": "AP",
+      "action": "Reduce 50.81%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 175000,
+      "portfolio_percentage": 1.07,
+      "company_name": "Alphabet Inc."
+    },
+    {
+      "symbol": "FICO",
+      "manager_id": "AP",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 667,
+      "portfolio_percentage": 0.02,
+      "company_name": "Fair Isaac Corp."
+    },
+    {
       "symbol": "AMZN",
       "manager_id": "AP",
       "action": "Add 20.43%",
@@ -1773,6 +1861,6 @@
       "company_name": "TransDigm Group Inc."
     }
   ],
-  "timestamp": "2026-02-01T06:24:51.996026",
-  "scraped_date": "2026-02-01"
+  "timestamp": "2026-02-23T15:44:40.854437",
+  "scraped_date": "2026-02-23"
 }

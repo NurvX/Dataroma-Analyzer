@@ -3698,7 +3698,7 @@
       "company_name": "Rogers Corp."
     },
     {
-      "symbol": "HI",
+      "symbol": "HI-OLD",
       "manager_id": "MVALX",
       "action": "Sell 100.00%",
       "date": "Q1 2024",
@@ -5557,7 +5557,7 @@
       "company_name": "American Superconductor Corp."
     },
     {
-      "symbol": "HI",
+      "symbol": "HI-OLD",
       "manager_id": "MVALX",
       "action": "Buy",
       "date": "Q1 2023",
@@ -8703,7 +8703,7 @@
       "company_name": "Covanta Holding Corp."
     },
     {
-      "symbol": "THS",
+      "symbol": "THS-OLD",
       "manager_id": "MVALX",
       "action": "Sell 100.00%",
       "date": "Q4 2021",
@@ -9165,7 +9165,7 @@
       "company_name": "Ambarella Inc."
     },
     {
-      "symbol": "THS",
+      "symbol": "THS-OLD",
       "manager_id": "MVALX",
       "action": "Reduce 17.72%",
       "date": "Q3 2021",
@@ -9671,7 +9671,7 @@
       "company_name": "Wells Fargo"
     },
     {
-      "symbol": "THS",
+      "symbol": "THS-OLD",
       "manager_id": "MVALX",
       "action": "Reduce 11.68%",
       "date": "Q2 2021",
@@ -9748,7 +9748,7 @@
       "company_name": "Teva Pharmaceutical Industries Ltd."
     },
     {
-      "symbol": "HI",
+      "symbol": "HI-OLD",
       "manager_id": "MVALX",
       "action": "Sell 100.00%",
       "date": "Q2 2021",
@@ -10122,7 +10122,7 @@
       "company_name": "VICI Properties Inc."
     },
     {
-      "symbol": "HI",
+      "symbol": "HI-OLD",
       "manager_id": "MVALX",
       "action": "Reduce 9.62%",
       "date": "Q1 2021",
@@ -10243,7 +10243,7 @@
       "company_name": "Advanced Drainage Systems"
     },
     {
-      "symbol": "THS",
+      "symbol": "THS-OLD",
       "manager_id": "MVALX",
       "action": "Reduce 27.33%",
       "date": "Q1 2021",
@@ -10540,7 +10540,7 @@
       "company_name": "Change Healthcare Inc."
     },
     {
-      "symbol": "THS",
+      "symbol": "THS-OLD",
       "manager_id": "MVALX",
       "action": "Add 21.44%",
       "date": "Q4 2020",
@@ -11002,6 +11002,6 @@
       "company_name": "Hanesbrands Inc."
     }
   ],
-  "timestamp": "2026-02-01T06:24:51.772304",
-  "scraped_date": "2026-02-01"
+  "timestamp": "2026-02-23T15:44:41.143410",
+  "scraped_date": "2026-02-23"
 }

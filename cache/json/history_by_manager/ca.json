@@ -2,6 +2,83 @@
   "manager_id": "ca",
   "activities": [
     {
+      "symbol": "GOOG",
+      "manager_id": "ca",
+      "action": "Reduce 12.14%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 10000,
+      "portfolio_percentage": 1.56,
+      "company_name": "Alphabet Inc. CL C"
+    },
+    {
+      "symbol": "SIRI",
+      "manager_id": "ca",
+      "action": "Reduce 41.69%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 292873,
+      "portfolio_percentage": 2.9,
+      "company_name": "SiriusXM Holdings Inc"
+    },
+    {
+      "symbol": "C",
+      "manager_id": "ca",
+      "action": "Reduce 43.33%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 25000,
+      "portfolio_percentage": 1.45,
+      "company_name": "Citigroup Inc."
+    },
+    {
+      "symbol": "MCO",
+      "manager_id": "ca",
+      "action": "Reduce 74.57%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 4399,
+      "portfolio_percentage": 1.11,
+      "company_name": "Moody's Corp."
+    },
+    {
+      "symbol": "LEA",
+      "manager_id": "ca",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 4000,
+      "portfolio_percentage": 0.19,
+      "company_name": "Lear Corp."
+    },
+    {
+      "symbol": "SNREY-OLD",
+      "manager_id": "ca",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 2400,
+      "portfolio_percentage": 0.07,
+      "company_name": "Sunrise Communicat Cl A"
+    },
+    {
+      "symbol": "CACC",
+      "manager_id": "ca",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 262,
+      "portfolio_percentage": 0.06,
+      "company_name": "Credit Acceptance Corp."
+    },
+    {
       "symbol": "STLA",
       "manager_id": "ca",
       "action": "Add 101.47%",
@@ -2241,7 +2318,7 @@
       "date": "Q1 2017",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 13000,
+      "shares": 6500,
       "portfolio_percentage": 0.23,
       "company_name": "AstraZeneca PLC"
     },
@@ -2494,7 +2571,7 @@
       "date": "Q3 2015",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 13000,
+      "shares": 6500,
       "portfolio_percentage": 0.28,
       "company_name": "AstraZeneca PLC"
     },
@@ -2725,7 +2802,7 @@
       "date": "Q4 2013",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 26000,
+      "shares": 13000,
       "portfolio_percentage": 0.25,
       "company_name": "AstraZeneca PLC"
     },
@@ -2873,6 +2950,6 @@
       "company_name": "Sprint Corp."
     }
   ],
-  "timestamp": "2026-02-01T06:24:51.953846",
-  "scraped_date": "2026-02-01"
+  "timestamp": "2026-02-23T15:44:40.878477",
+  "scraped_date": "2026-02-23"
 }

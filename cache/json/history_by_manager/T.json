@@ -1938,7 +1938,7 @@
       "company_name": "Lantheus Holdings Inc."
     },
     {
-      "symbol": "CYBR",
+      "symbol": "CYBR-OLD",
       "manager_id": "T",
       "action": "Sell 100.00%",
       "date": "Q3 2025",
@@ -3258,7 +3258,7 @@
       "company_name": "Bloom Energy Corp."
     },
     {
-      "symbol": "CYBR",
+      "symbol": "CYBR-OLD",
       "manager_id": "T",
       "action": "Buy",
       "date": "Q1 2025",
@@ -11002,6 +11002,6 @@
       "company_name": "Tyler Technologies Inc."
     }
   ],
-  "timestamp": "2026-02-01T06:24:51.668273",
-  "scraped_date": "2026-02-01"
+  "timestamp": "2026-02-23T15:44:41.037315",
+  "scraped_date": "2026-02-23"
 }

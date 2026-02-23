@@ -2,6 +2,94 @@
   "manager_id": "MP",
   "activities": [
     {
+      "symbol": "LMB",
+      "manager_id": "MP",
+      "action": "Add 95.71%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 50000,
+      "portfolio_percentage": 3.04,
+      "company_name": "Limbach Holdings Inc."
+    },
+    {
+      "symbol": "LAMR",
+      "manager_id": "MP",
+      "action": "Reduce 29.41%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 50000,
+      "portfolio_percentage": 4.95,
+      "company_name": "Lamar Advertising Co."
+    },
+    {
+      "symbol": "BELFB",
+      "manager_id": "MP",
+      "action": "Reduce 45.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 45000,
+      "portfolio_percentage": 5.96,
+      "company_name": "Bel Fuse Inc. CL B"
+    },
+    {
+      "symbol": "WHD",
+      "manager_id": "MP",
+      "action": "Reduce 46.36%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 122123,
+      "portfolio_percentage": 4.37,
+      "company_name": "Cactus Inc."
+    },
+    {
+      "symbol": "BBWI",
+      "manager_id": "MP",
+      "action": "Reduce 46.40%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 635645,
+      "portfolio_percentage": 9.98,
+      "company_name": "Bath & Body Works Inc."
+    },
+    {
+      "symbol": "FLUT",
+      "manager_id": "MP",
+      "action": "Reduce 49.13%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 40000,
+      "portfolio_percentage": 6.72,
+      "company_name": "Flutter Entertainment Plc"
+    },
+    {
+      "symbol": "SVV",
+      "manager_id": "MP",
+      "action": "Reduce 79.60%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 620890,
+      "portfolio_percentage": 4.53,
+      "company_name": "Savers Value Village Inc"
+    },
+    {
+      "symbol": "BELFA",
+      "manager_id": "MP",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 4001,
+      "portfolio_percentage": 0.24,
+      "company_name": "Bel Fuse Inc. CL A"
+    },
+    {
       "symbol": "CHTR",
       "manager_id": "MP",
       "action": "Reduce 18.07%",
@@ -1520,6 +1608,6 @@
       "company_name": "Qurate Group Series A"
     }
   ],
-  "timestamp": "2026-02-01T06:24:51.817537",
-  "scraped_date": "2026-02-01"
+  "timestamp": "2026-02-23T15:44:40.948795",
+  "scraped_date": "2026-02-23"
 }

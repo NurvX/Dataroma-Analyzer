@@ -2,6 +2,72 @@
   "manager_id": "ic",
   "activities": [
     {
+      "symbol": "MNRO",
+      "manager_id": "ic",
+      "action": "Add 246.66%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 3613573,
+      "portfolio_percentage": 0.86,
+      "company_name": "Monro Inc."
+    },
+    {
+      "symbol": "CTRI",
+      "manager_id": "ic",
+      "action": "Add 32.16%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 3488372,
+      "portfolio_percentage": 1.04,
+      "company_name": "Centuri Holdings Inc"
+    },
+    {
+      "symbol": "IEP",
+      "manager_id": "ic",
+      "action": "Add 5.87%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 30467595,
+      "portfolio_percentage": 2.72,
+      "company_name": "Icahn Enterprises"
+    },
+    {
+      "symbol": "SD",
+      "manager_id": "ic",
+      "action": "Add 0.85%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 41331,
+      "portfolio_percentage": 0.01,
+      "company_name": "SandRidge Energy Inc."
+    },
+    {
+      "symbol": "IFF",
+      "manager_id": "ic",
+      "action": "Reduce 10.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 475000,
+      "portfolio_percentage": 0.38,
+      "company_name": "International Flavors & Fragrances Inc."
+    },
+    {
+      "symbol": "SATS",
+      "manager_id": "ic",
+      "action": "Reduce 22.96%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1000000,
+      "portfolio_percentage": 1.29,
+      "company_name": "EchoStar Corp."
+    },
+    {
       "symbol": "CTRI",
       "manager_id": "ic",
       "action": "Add 69.39%",
@@ -3500,6 +3566,6 @@
       "company_name": "WebMD Health Corp."
     }
   ],
-  "timestamp": "2026-02-01T06:24:51.922408",
-  "scraped_date": "2026-02-01"
+  "timestamp": "2026-02-23T15:44:40.658129",
+  "scraped_date": "2026-02-23"
 }

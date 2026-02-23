@@ -2,6 +2,204 @@
   "manager_id": "LT",
   "activities": [
     {
+      "symbol": "ADBE",
+      "manager_id": "LT",
+      "action": "Add 17.78%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 800,
+      "portfolio_percentage": 0.01,
+      "company_name": "Adobe Inc."
+    },
+    {
+      "symbol": "CP",
+      "manager_id": "LT",
+      "action": "Add 5.26%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1500,
+      "portfolio_percentage": 0.0,
+      "company_name": "Canadian Pacific Kansas City"
+    },
+    {
+      "symbol": "EFX",
+      "manager_id": "LT",
+      "action": "Add 4.76%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 500,
+      "portfolio_percentage": 0.0,
+      "company_name": "Equifax Inc."
+    },
+    {
+      "symbol": "SPGI",
+      "manager_id": "LT",
+      "action": "Add 4.62%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 300,
+      "portfolio_percentage": 0.0,
+      "company_name": "S&P Global Inc."
+    },
+    {
+      "symbol": "INTU",
+      "manager_id": "LT",
+      "action": "Reduce 0.25%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1559,
+      "portfolio_percentage": 0.03,
+      "company_name": "Intuit Inc."
+    },
+    {
+      "symbol": "CL",
+      "manager_id": "LT",
+      "action": "Reduce 2.67%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 400,
+      "portfolio_percentage": 0.0,
+      "company_name": "Colgate-Palmolive"
+    },
+    {
+      "symbol": "FICO",
+      "manager_id": "LT",
+      "action": "Reduce 2.85%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 6362,
+      "portfolio_percentage": 0.27,
+      "company_name": "Fair Isaac Corp."
+    },
+    {
+      "symbol": "AXP",
+      "manager_id": "LT",
+      "action": "Reduce 3.92%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 400,
+      "portfolio_percentage": 0.0,
+      "company_name": "American Express"
+    },
+    {
+      "symbol": "PYPL",
+      "manager_id": "LT",
+      "action": "Reduce 4.13%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 185000,
+      "portfolio_percentage": 0.27,
+      "company_name": "PayPal Holdings Inc."
+    },
+    {
+      "symbol": "TKO",
+      "manager_id": "LT",
+      "action": "Reduce 4.55%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 134500,
+      "portfolio_percentage": 0.71,
+      "company_name": "TKO Group Holdings Inc."
+    },
+    {
+      "symbol": "GOOGL",
+      "manager_id": "LT",
+      "action": "Reduce 6.51%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 145500,
+      "portfolio_percentage": 1.16,
+      "company_name": "Alphabet Inc."
+    },
+    {
+      "symbol": "DIS",
+      "manager_id": "LT",
+      "action": "Reduce 6.55%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 244000,
+      "portfolio_percentage": 0.7,
+      "company_name": "Walt Disney Co."
+    },
+    {
+      "symbol": "KO",
+      "manager_id": "LT",
+      "action": "Reduce 8.11%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1500,
+      "portfolio_percentage": 0.0,
+      "company_name": "Coca Cola Co."
+    },
+    {
+      "symbol": "MDLZ",
+      "manager_id": "LT",
+      "action": "Reduce 10.92%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 548933,
+      "portfolio_percentage": 0.75,
+      "company_name": "Mondelez International"
+    },
+    {
+      "symbol": "EBAY",
+      "manager_id": "LT",
+      "action": "Reduce 15.32%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 376000,
+      "portfolio_percentage": 0.83,
+      "company_name": "eBay Inc."
+    },
+    {
+      "symbol": "TMO",
+      "manager_id": "LT",
+      "action": "Reduce 15.66%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 128026,
+      "portfolio_percentage": 1.88,
+      "company_name": "Thermo Fisher Scientific"
+    },
+    {
+      "symbol": "MANU",
+      "manager_id": "LT",
+      "action": "Reduce 17.82%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 780000,
+      "portfolio_percentage": 0.31,
+      "company_name": "Manchester United plc"
+    },
+    {
+      "symbol": "PEP",
+      "manager_id": "LT",
+      "action": "Reduce 18.15%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 399700,
+      "portfolio_percentage": 1.46,
+      "company_name": "PepsiCo Inc."
+    },
+    {
       "symbol": "CP",
       "manager_id": "LT",
       "action": "Add 114.29%",
@@ -3885,6 +4083,6 @@
       "company_name": "Keurig Dr Pepper Inc."
     }
   ],
-  "timestamp": "2026-02-01T06:24:52.083944",
-  "scraped_date": "2026-02-01"
+  "timestamp": "2026-02-23T15:44:40.950374",
+  "scraped_date": "2026-02-23"
 }

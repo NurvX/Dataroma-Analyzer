@@ -2,6 +2,50 @@
   "manager_id": "CAS",
   "activities": [
     {
+      "symbol": "CVNA",
+      "manager_id": "CAS",
+      "action": "Reduce 5.72%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 279474,
+      "portfolio_percentage": 5.05,
+      "company_name": "Carvana Co."
+    },
+    {
+      "symbol": "SWIM",
+      "manager_id": "CAS",
+      "action": "Reduce 5.76%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 57603,
+      "portfolio_percentage": 0.02,
+      "company_name": "Latham Group Inc"
+    },
+    {
+      "symbol": "HGV",
+      "manager_id": "CAS",
+      "action": "Reduce 5.78%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 326396,
+      "portfolio_percentage": 0.62,
+      "company_name": "Hilton Grand Vacations Inc."
+    },
+    {
+      "symbol": "COF",
+      "manager_id": "CAS",
+      "action": "Reduce 12.22%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 81345,
+      "portfolio_percentage": 0.84,
+      "company_name": "Capital One Financial"
+    },
+    {
       "symbol": "SWIM",
       "manager_id": "CAS",
       "action": "Buy",
@@ -1201,6 +1245,6 @@
       "company_name": "United Rentals"
     }
   ],
-  "timestamp": "2026-02-01T06:24:51.966648",
-  "scraped_date": "2026-02-01"
+  "timestamp": "2026-02-23T15:44:40.800298",
+  "scraped_date": "2026-02-23"
 }

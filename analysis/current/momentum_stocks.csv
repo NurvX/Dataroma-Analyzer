@@ -1,312 +1,51 @@
-ticker,company_name,current_price,managers,avg_portfolio_pct,buy_count,activities,periods,shares_accumulated,current_total_value,current_holders,momentum_score,recency_bonus,momentum_type
-META,Meta Platforms Inc.,716.5,"Mairs & Power Growth Fund
-Dodge & Cox
-David Katz
-Francois Rochon
-Viking Global Investors
-Daniel Loeb
-ValueAct Capital
-David Rolfe
-Glenn Greenberg
-Chase Coleman",4.93,21,Add 22.50%; Add 14.29%; Buy; Add 28.28%; Add 19.84%,"Q4 2025, Q3 2025, Q2 2025",3032423,14441940000.0,29.0,80.93,5,Recent Surge
-MSFT,Microsoft Corp.,430.29,"David Katz
-Francois Rochon
-Lee Ainslie
-Viking Global Investors
-Daniel Loeb
-David Rolfe
-Chase Coleman
-Chris Hohn
-AKO Capital
-First Eagle Investment Management",5.88,17,Add 0.55%; Add 15.90%; Add 23.69%; Add 80.89%; Buy,"Q4 2025, Q2 2025, Q3 2025",4881493,32620415000.0,35.0,79.88371428571429,5,Recent Surge
-AMZN,Amazon.com Inc.,239.3,"David Katz
-Francois Rochon
-Lee Ainslie
-Viking Global Investors
-Daniel Loeb
-ValueAct Capital
-Bill Ackman
-Stephen Mandel
-Chase Coleman
-Triple Frond Partners",7.0,20,Add 5.47%; Buy; Add 8.55%; Add 5.52%; Add 43.19%,"Q2 2025, Q3 2025",19893204,18761380000.0,25.0,76.0048,4,Recent Surge
-GOOGL,Alphabet Inc.,338.0,"Robert Vinall
-David Katz
-Francois Rochon
-Lee Ainslie
-David Rolfe
-Bill Ackman
-Warren Buffett
-Chase Coleman
-Lindsell Train
-Thomas Russo",4.59,17,Buy; Add 1.52%; Add 17.57%; Add 5.57%; Add 2.95%,"Q2 2025, Q3 2025",21861899,18768532000.0,31.0,73.58935483870968,4,Recent Surge
-UNH,United Health Group Inc.,286.93,"Torray Funds
-Mairs & Power Growth Fund
-Dodge & Cox
-David Katz
-Hillman Value Fund
-Lee Ainslie
-Glenn Greenberg
-Stephen Mandel
-Warren Buffett
-David Tepper",1.44,23,Add 3.58%; Add 15.75%; Add 126.34%; Add 22.59%; Add 8.62%,"Q4 2025, Q3 2025, Q2 2025",14754861,4953253000.0,17.0,69.44294117647058,5,Recent Surge
-V,Visa Inc.,321.83,"David Katz
-Francois Rochon
-Viking Global Investors
-ValueAct Capital
-David Rolfe
-Chris Hohn
-Terry Smith
-John Armitage",4.42,13,Add 0.97%; Add 0.44%; Add 16.92%; Add 1.05%; Add 1.97%,"Q4 2025, Q3 2025, Q2 2025",14457318,21068684000.0,24.0,59.41666666666666,5,Recent Surge
-GOOG,Alphabet Inc. CL C,338.53,"David Katz
-Francois Rochon
-Duan Yongping
-Pat Dorsey
-Seth Klarman
-Sarah Ketterer
-First Eagle Investment Management
-Kahn Brothers Group
-Christopher Davis",5.88,11,Add 2.61%; Add 0.35%; Add 75.17%; Add 3.64%; Add 26.76%,"Q2 2025, Q3 2025",1933184,13611788000.0,27.0,58.88222222222223,4,Recent Surge
-NVDA,NVIDIA Corp.,191.13,"Torray Funds
-Lee Ainslie
-Daniel Loeb
-Chase Coleman
-Duan Yongping
-David Tepper
-Sarah Ketterer
-Kahn Brothers Group
-Polen Capital Management
-Christopher Davis",3.39,18,Add 28.63%; Buy; Add 4.61%; Add 1.79%; Add 93.10%,"Q3 2025, Q2 2025",12751782,5818490000.0,14.0,57.385714285714286,4,Recent Surge
-IEP,Icahn Enterprises,7.78,Carl Icahn,47.8,2,Add 4.88%; Add 9.76%,"Q3 2025, Q2 2025",68144774,4369415000.0,1.0,56.8,4,Moderate
-TSM,Taiwan Semiconductor S.A.,330.56,"Torray Funds
-Mairs & Power Growth Fund
-Dodge & Cox
-Hillman Value Fund
-Lee Ainslie
-Chase Coleman
-David Tepper
-First Eagle Investment Management
-Polen Capital Management
-Christopher Davis",2.82,14,Buy; Add 11.70%; Add 24.76%; Add 165.82%; Add 20.70%,"Q2 2025, Q3 2025",39352594,9959228000.0,21.0,55.81857142857143,4,Recent Surge
-BRK.B,Berkshire Hathaway CL B,480.53,"Tweedy Browne Co.
-David Katz
-Francois Rochon
-Bill & Melinda Gates Foundation Trust
-Christopher Bloomstran
-Duan Yongping
-First Eagle Investment Management
-Thomas Russo
-Harry Burn
-Robert Olstein",8.05,11,Buy; Add 0.09%; Add 1.68%; Add 40.48%; Add 1.45%,"Q2 2025, Q3 2025",8870709,16544058000.0,19.0,53.04736842105263,4,Recent Surge
-FISV,Fiserv Inc.,63.73,"Dodge & Cox
-David Katz
-Hillman Value Fund
-Charles Bobrinskoy
-John Rogers
-Francois Rochon
-Norbert Lou
-Leon Cooperman
-Seth Klarman
-David Tepper",1.74,17,Add 20.10%; Add 31.09%; Add 706.36%; Buy; Add 72.87%,"Q4 2025, Q3 2025, Q2 2025",13804980,2550016000.0,10.0,50.741,5,Recent Surge
-AAPL,Apple Inc.,259.48,"Mairs & Power Growth Fund
-David Katz
-Francois Rochon
-Lee Ainslie
-David Rolfe
-Duan Yongping
-Kahn Brothers Group
-Polen Capital Management
-Christopher Davis
-Robert Olstein",6.2,10,Add 3.93%; Add 4.54%; Add 81.23%; Buy; Add 3.11%,"Q4 2025, Q2 2025, Q3 2025",966050,70793773000.0,19.0,50.2021052631579,5,Recent Surge
-DIS,Walt Disney Co.,112.8,"Mason Hawkins
-Francois Rochon
-Lee Ainslie
-Viking Global Investors
-Christopher Bloomstran
-First Eagle Investment Management
-Kahn Brothers Group
-Harry Burn",3.08,12,Buy; Add 5.24%; Add 7.42%; Add 78.69%; Add 0.79%,"Q2 2025, Q3 2025",12387122,3453859000.0,17.0,48.07529411764706,4,Recent Surge
-INTU,Intuit Inc.,498.92,"Torray Funds
-David Katz
-Lee Ainslie
-Viking Global Investors
-Henry Ellenbogen
-Terry Smith
-AKO Capital
-Polen Capital Management",3.81,9,Buy; Add 0.22%; Add 12.15%; Add 64.01%; Add 102.91%,"Q4 2025, Q3 2025, Q2 2025",1577382,2860208000.0,12.0,38.810833333333335,5,Recent Surge
-COF,Capital One Financial,218.93,"David Katz
-Lee Ainslie
-Viking Global Investors
-Daniel Loeb
-Glenn Greenberg
-John Armitage",3.44,7,Add 32.39%; Add 134.71%; Add 30.28%; Add 23.53%; Add 71.83%,"Q2 2025, Q3 2025",6835743,8968872000.0,17.0,38.44294117647059,4,Recent Surge
-BN,Brookfield Corp.,45.55,"Dodge & Cox
-Daniel Loeb
-Bill Ackman
-Stephen Mandel
-Josh Tarasoff
-Chuck Akre
-Kahn Brothers Group",7.87,8,Buy; Add 10.26%; Add 0.38%; Add 81.12%; Add 0.66%,"Q4 2025, Q2 2025, Q3 2025",38111877,6771837000.0,9.0,37.87,5,Recent Surge
-MOH,Molina Healthcare Inc.,179.59,"Bill Nygren
-Viking Global Investors
-Michael Burry",22.9,4,Add 75.39%; Add 23.45%; Buy,"Q3 2025, Q2 2025",858985,189829000.0,2.0,36.900000000000006,4,Recent Surge
-FERG,Ferguson Enterprises Inc.,252.46,"Francois Rochon
-Lee Ainslie
-Henry Ellenbogen
-Nelson Peltz
-Seth Klarman
-First Eagle Investment Management
-John Armitage
-Thomas Gayner",2.44,10,Add 3.76%; Buy; Add 7.69%; Add 2.08%; Add 16.43%,"Q2 2025, Q3 2025",4430313,2081704000.0,10.0,36.444,4,Recent Surge
-FLUT,Flutter Entertainment Plc,165.15,"Lee Ainslie
-Daniel Loeb
-Henry Ellenbogen
-Chase Coleman
-AKO Capital",4.57,9,Add 29.40%; Add 4.67%; Add 10.31%; Add 274.15%; Add 57.56%,"Q2 2025, Q3 2025",2060471,3750722000.0,9.0,35.574444444444445,4,Recent Surge
-HCC,Warrior Met Coal Inc.,89.3,"Third Avenue Management
-Mohnish Pabrai",20.97,4,Add 0.04%; Add 4.64%; Add 0.00%; Add 0.01%,"Q3 2025, Q2 2025",28961,156856000.0,2.0,34.97,4,Recent Surge
-AMR,Alpha Metallurgical Resources Inc.,209.8,Mohnish Pabrai,25.91,2,Add 15.57%; Add 11.02%,"Q3 2025, Q2 2025",117384,87296000.0,1.0,34.91,4,Moderate
-CVNA,Carvana Co.,401.11,"Lee Ainslie
-Viking Global Investors
-Polen Capital Management",17.51,3,Buy; Add 94.92%,"Q3 2025, Q2 2025",1252512,3853924000.0,7.0,34.511428571428574,4,Recent Surge
-BKNG,Booking Holdings Inc.,5001.84,"Dodge & Cox
-Francois Rochon
-Lee Ainslie
-Henry Ellenbogen
-David Rolfe
-Stephen Mandel
-Pat Dorsey
-Sarah Ketterer",3.51,9,Add 4.52%; Add 0.25%; Add 0.75%; Buy; Add 48.28%,"Q4 2025, Q3 2025, Q2 2025",97687,2956356000.0,8.0,34.5075,5,Recent Surge
-TXN,Texas Instruments,215.55,"Torray Funds
-David Katz
-Glenn Greenberg
-Terry Smith
-First Eagle Investment Management
-Robert Olstein",1.71,9,Add 22.56%; Add 30.36%; Add 30.84%; Add 1.08%; Add 6.57%,"Q4 2025, Q2 2025, Q3 2025",342661,1809997000.0,9.0,33.70666666666666,5,Recent Surge
-PYPL,PayPal Holdings Inc.,52.69,"David Katz
-Mason Hawkins
-Norbert Lou
-David Rolfe
-Lindsell Train
-Harry Burn",4.4,8,Add 6.53%; Add 3.65%; Add 7.70%; Add 0.53%; Buy,"Q4 2025, Q3 2025, Q2 2025",1217904,498672000.0,8.0,33.40375,5,Recent Surge
-ADBE,Adobe Inc.,293.25,"Dodge & Cox
-Lindsell Train
-Polen Capital Management
-Thomas Gayner
-William Von Mueffling
-Robert Olstein",0.99,9,Add 34.89%; Buy; Add 26.40%; Add 19.09%; Add 16.77%,"Q4 2025, Q3 2025, Q2 2025",2411868,1616753000.0,9.0,32.986666666666665,5,Recent Surge
-BAC,Bank of America Corp.,53.2,"David Katz
-Charles Bobrinskoy
-Francois Rochon
-Lee Ainslie
-Glenn Greenberg
-Harry Burn",3.53,6,Add 0.00%; Add 4.32%; Add 0.61%; Add 3.81%; Add 82.58%,"Q2 2025, Q3 2025",2242971,30799561000.0,13.0,32.53076923076923,4,Recent Surge
-MA,Mastercard Inc.,538.79,"Francois Rochon
-John Armitage
-Yacktman Asset Management",6.34,4,Add 2.95%; Add 9.55%; Add 10.47%; Add 4.85%,"Q2 2025, Q3 2025",81272,8564969000.0,14.0,32.34428571428572,4,Recent Surge
-CPRT,Copart Inc.,40.58,"Torray Funds
-David Rolfe
-Chuck Akre
-AKO Capital
-Jensen Investment Management
-Yacktman Asset Management",1.93,9,Add 12.29%; Add 1.11%; Add 3.48%; Add 253.06%; Buy,"Q4 2025, Q2 2025, Q3 2025",6297623,709027000.0,7.0,31.928571428571427,5,Recent Surge
-CRM,Salesforce.com,212.29,"Robert Vinall
-Mairs & Power Growth Fund
-Bill Nygren
-Stephen Mandel
-AKO Capital
-First Eagle Investment Management",2.68,8,Buy; Add 22.85%; Add 60.25%; Add 7.59%; Add 30.38%,"Q3 2025, Q2 2025",3134709,2071384000.0,9.0,31.677777777777777,4,Recent Surge
-PEP,PepsiCo Inc.,153.63,"Torray Funds
-David Katz
-Lee Ainslie
-Polen Capital Management
-Robert Olstein",1.67,7,Add 10.64%; Buy; Add 3.90%; Add 59.62%; Add 33.33%,"Q4 2025, Q3 2025, Q2 2025",253303,682509000.0,11.0,31.665454545454544,5,Recent Surge
-MCO,Moody's Corp.,515.56,"Chris Hohn
-AltaRock Partners
-AKO Capital
-Yacktman Asset Management",5.65,5,Add 0.46%; Add 0.64%; Add 0.14%; Add 0.10%; Add 61.99%,"Q3 2025, Q2 2025",152296,20884528000.0,12.0,31.65083333333333,4,Recent Surge
-TMO,Thermo Fisher Scientific,578.61,"David Katz
-Steven Romick
-Lindsell Train
-Wallace Weitz
-Thomas Gayner
-Robert Olstein",2.42,8,Add 0.63%; Add 36.06%; Buy; Add 67.97%; Add 19.26%,"Q3 2025, Q2 2025, Q4 2025",529191,1066660000.0,8.0,31.41875,5,Recent Surge
-AON,Aon Plc,349.64,"Dodge & Cox
-Viking Global Investors
-Jensen Investment Management
-Yacktman Asset Management
-Thomas Gayner",1.39,7,Add 104.83%; Buy; Add 3.06%; Add 10.99%; Add 10.67%,"Q4 2025, Q3 2025, Q2 2025",5101683,4893771000.0,11.0,31.38909090909091,5,Recent Surge
-CMCSA,Comcast Corp.,29.75,"Dodge & Cox
-David Katz
-First Eagle Investment Management
-Kahn Brothers Group",1.08,7,Add 1.12%; Add 20.67%; Add 2.90%; Add 13.02%; Add 0.06%,"Q3 2025, Q2 2025",14246597,3687089000.0,12.0,31.08416666666667,4,Recent Surge
-TSN,Tyson Foods,65.33,"David Katz
-Richard Pzena
-Lee Ainslie
-Christopher Davis
-Thomas Gayner",1.7,9,Add 2.51%; Add 81.67%; Add 1.38%; Add 22.58%; Buy,"Q4 2025, Q3 2025, Q2 2025",5630167,767827000.0,6.0,30.701666666666668,5,Recent Surge
-LEN,Lennar Corp.,109.35,"Greenhaven Associates
-Viking Global Investors
-Warren Buffett
-Bryan Lawrence",7.36,7,Add 4.57%; Add 1.68%; Add 0.57%; Add 86.72%; Add 0.03%,"Q4 2025, Q3 2025, Q2 2025",6961238,2194027000.0,4.0,30.36,5,Recent Surge
-ELV,Elevance Health Inc.,345.74,"Ruane Cunniff
-Glenn Greenberg
-Leon Cooperman
-Seth Klarman
-First Eagle Investment Management",5.78,7,Add 27.29%; Add 65.28%; Add 21.36%; Add 0.90%; Add 114.12%,"Q3 2025, Q2 2025",2772657,2701348000.0,6.0,29.77833333333333,4,Recent Surge
-EFX,Equifax Inc.,201.4,"Bill Nygren
-Lee Ainslie
-AKO Capital
-Lindsell Train
-Wallace Weitz
-Robert Olstein",2.07,7,Add 7.44%; Buy; Add 2.91%; Add 19.52%; Add 1.94%,"Q3 2025, Q2 2025",290621,1385979000.0,9.0,29.066666666666663,4,Recent Surge
-IFF,International Flavors & Fragrances Inc.,69.81,"Dodge & Cox
-Steven Romick
-Carl Icahn
-Sarah Ketterer
-First Eagle Investment Management
-Robert Olstein",2.0,8,Add 7.60%; Add 5.52%; Add 15.46%; Add 26.67%; Buy,"Q3 2025, Q4 2025, Q2 2025",7924455,2122180000.0,6.0,29.00333333333333,5,Recent Surge
-UBER,Uber Technologies Inc.,80.05,"Lee Ainslie
-Thomas Russo
-Polen Capital Management
-Thomas Gayner
-Robert Olstein",3.77,6,Add 140.07%; Add 10.49%; Add 24571.56%; Buy; Add 1.23%,"Q2 2025, Q3 2025",5075736,4689473000.0,9.0,28.772222222222226,4,Recent Surge
-AVGO,Broadcom Inc.,331.3,"Torray Funds
-David Katz
-Stephen Mandel
-Chase Coleman
-Polen Capital Management",3.59,7,Add 107.95%; Add 2.47%; Buy; Add 6.90%; Add 19.01%,"Q2 2025, Q3 2025",6731682,4544630000.0,7.0,28.59,4,Recent Surge
-CP,Canadian Pacific Kansas City,74.34,"AKO Capital
-First Eagle Investment Management
-Lindsell Train
-John Armitage
-Thomas Gayner
-William Von Mueffling",3.52,7,Buy; Add 0.74%; Add 114.29%; Add 9.47%; Add 9.40%,"Q3 2025, Q2 2025",1845083,5246726000.0,7.0,28.515714285714285,4,Recent Surge
-XOM,Exxon Mobil Corp.,141.4,"David Katz
-Christopher Bloomstran
-First Eagle Investment Management
-Kahn Brothers Group
-Thomas Russo
-Christopher Davis
-Thomas Gayner",0.51,9,Add 1.95%; Add 1.77%; Add 1.00%; Add 0.02%; Add 38.54%,"Q2 2025, Q3 2025",15550,909893000.0,6.0,28.511666666666667,4,Recent Surge
-ENTG,Entegris Inc.,118.07,"Torray Funds
-Mairs & Power Growth Fund
-Henry Ellenbogen
-First Eagle Investment Management",1.34,9,Add 2.88%; Add 5.50%; Add 35.44%; Add 29.27%; Add 10.49%,"Q4 2025, Q3 2025, Q2 2025",1283403,644443000.0,4.0,28.34,5,Recent Surge
-UNP,Union Pacific,235.1,"David Katz
-Lee Ainslie
-Daniel Loeb
-Seth Klarman
-Thomas Russo
-Thomas Gayner",2.29,8,Add 0.66%; Buy; Add 0.52%; Add 30.33%; Add 13.41%,"Q2 2025, Q3 2025",3528525,860488000.0,6.0,28.293333333333333,4,Recent Surge
-FTV,Fortive Corp.,52.81,"Dodge & Cox
-Viking Global Investors
-Wallace Weitz
-Robert Olstein",1.25,9,Add 3.82%; Add 28.92%; Add 43.42%; Add 28.73%; Add 22.88%,"Q4 2025, Q3 2025, Q2 2025",21245033,2587899000.0,4.0,28.25,5,Recent Surge
-SCHW,Charles Schwab Corp.,103.92,"Francois Rochon
-Lee Ainslie
-Viking Global Investors
-Christopher Davis",3.1,5,Add 0.53%; Add 65.16%; Buy; Add 5.13%; Add 0.00%,"Q3 2025, Q2 2025",2306661,8157003000.0,11.0,28.097272727272728,4,Recent Surge
-FDX,FedEx Corp.,322.25,"Dodge & Cox
-David Katz
-Lee Ainslie
-Robert Olstein",2.04,7,Add 13.53%; Add 5.66%; Add 1.49%; Add 12.44%; Add 59.71%,"Q3 2025, Q2 2025",1861564,3761973000.0,8.0,28.03625,4,Recent Surge
+ticker,company_name,current_price,managers,total_value,avg_portfolio_pct,buy_count,activities,periods,shares_accumulated,current_holders,momentum_score,recency_bonus,momentum_type,_analysis_type,_generated,_periods,_window_quarters
+MSFT,Microsoft Corp.,395.14,"Viking Global Investors, Daniel Loeb, Stephen Mandel, David Rolfe, David Tepper, +5 more",29014352000.0,5.41,32,Add 32.45%; Buy; Add 175.00%; Add 26.98%; Add 2.11%,"Q4 2025, Q3 2025, Q2 2025",6755885,35.0,109.41428571428573,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+AMZN,Amazon.com Inc.,207.87,"Viking Global Investors, Daniel Loeb, ValueAct Capital, Bill Ackman, Stephen Mandel, +5 more",19440349000.0,6.74,31,Buy; Add 43.19%; Add 3.69%; Add 15.32%; Add 587.71%,"Q4 2025, Q2 2025, Q3 2025",32514491,31.0,104.73548387096774,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+META,Meta Platforms Inc.,649.92,"Viking Global Investors, Daniel Loeb, ValueAct Capital, Bill Ackman, David Rolfe, +5 more",13022653000.0,5.22,28,Add 249.91%; Add 46.67%; Buy; Add 36.34%; Add 23.31%,"Q3 2025, Q2 2025, Q4 2025",6278559,25.0,91.2208,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+GOOGL,Alphabet Inc.,317.1,"Viking Global Investors, Bill Ackman, Christopher Bloomstran, David Rolfe, Warren Buffett, +5 more",20966014000.0,4.92,23,Buy; Add 20.84%; Add 2.95%; Add 3.13%; Add 0.05%,"Q4 2025, Q2 2025, Q3 2025",24936514,32.0,87.92125,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+V,Visa Inc.,318.31,"Viking Global Investors, ValueAct Capital, Stephen Mandel, David Rolfe, Valley Forge Capital Management, +5 more",21936818000.0,4.44,21,Add 37.53%; Add 78.75%; Add 9.73%; Add 25.78%; Buy,"Q4 2025, Q3 2025, Q2 2025",17397463,26.0,77.4423076923077,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+GOOG,Alphabet Inc. CL C,317.17,"David Tepper, Duan Yongping, Pat Dorsey, Lee Ainslie, Seth Klarman, +5 more",16670836000.0,6.23,18,Add 28.79%; Add 2.48%; Add 75.17%; Add 3.64%; Buy,"Q4 2025, Q2 2025, Q3 2025",4664686,29.0,76.23448275862069,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+UNH,United Health Group Inc.,288.55,"Viking Global Investors, Stephen Mandel, Warren Buffett, Glenn Greenberg, David Tepper, +5 more",5245889000.0,1.44,25,Buy; Add 200.40%; Add 1300.00%; Add 93.49%; Add 53.93%,"Q4 2025, Q2 2025, Q3 2025",16086231,17.0,73.44294117647058,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+TSM,Taiwan Semiconductor S.A.,367.61,"Viking Global Investors, David Tepper, Chase Coleman, Duan Yongping, Lee Ainslie, +5 more",10710050000.0,3.08,22,Add 24.61%; Add 6.60%; Add 3.41%; Add 279.63%; Add 7.94%,"Q4 2025, Q3 2025, Q2 2025",42053418,21.0,73.07619047619048,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+NVDA,NVIDIA Corp.,190.63,"Daniel Loeb, David Tepper, Chase Coleman, Duan Yongping, Samantha McLemore, +5 more",6904670000.0,4.15,24,Add 3.51%; Add 1.79%; Add 93.10%; Add 8.57%; Add 483.33%,"Q4 2025, Q3 2025, Q2 2025",20454952,14.0,71.14785714285715,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+BRK.B,Berkshire Hathaway CL B,497.78,"Bill & Melinda Gates Foundation Trust, Christopher Bloomstran, Duan Yongping, Francois Rochon, Thomas Russo, +5 more",16472611000.0,7.58,15,Add 40.48%; Add 1.45%; Add 3.06%; Add 38.24%; Add 53.53%,"Q2 2025, Q3 2025, Q4 2025",11129069,20.0,62.576,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+IEP,Icahn Enterprises,7.87,Carl Icahn,4147974000.0,49.12,3,Add 5.87%; Add 4.88%; Add 9.76%,"Q4 2025, Q3 2025, Q2 2025",98612369,1.0,61.12,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+DIS,Walt Disney Co.,105.18,"Viking Global Investors, Christopher Bloomstran, Lee Ainslie, Francois Rochon, Kahn Brothers Group, +3 more",3287640000.0,2.83,17,Add 7.12%; Add 78.69%; Buy; Add 0.17%; Add 0.79%,"Q4 2025, Q3 2025, Q2 2025",13675790,17.0,58.82705882352941,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+FISV,Fiserv Inc.,59.62,"Norbert Lou, David Tepper, Leon Cooperman, Samantha McLemore, Seth Klarman, +5 more",2422550000.0,1.41,20,Buy; Add 2.63%; Add 145.81%; Add 0.41%; Add 3.01%,"Q3 2025, Q2 2025, Q4 2025",15938123,8.0,54.40875,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+AAPL,Apple Inc.,262.87,"David Rolfe, Duan Yongping, Lee Ainslie, Francois Rochon, Kahn Brothers Group, +5 more",71994648000.0,6.05,11,Add 3.11%; Add 2.61%; Buy; Add 81.23%; Add 3.34%,"Q3 2025, Q2 2025, Q4 2025",966150,18.0,51.04777777777778,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+FERG,Ferguson Enterprises Inc.,251.43,"Nelson Peltz, Henry Ellenbogen, Lee Ainslie, Seth Klarman, Francois Rochon, +4 more",1826960000.0,2.17,15,Add 7.69%; Add 43.38%; Buy; Add 50.09%; Add 2.08%,"Q2 2025, Q4 2025, Q3 2025",4372615,10.0,47.166,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+COF,Capital One Financial,206.81,"Viking Global Investors, Daniel Loeb, Glenn Greenberg, Lee Ainslie, John Armitage, +2 more",8792708000.0,3.42,10,Add 30.28%; Add 23.53%; Add 71.83%; Add 4.57%; Add 190.24%,"Q3 2025, Q2 2025, Q4 2025",7326987,17.0,45.42235294117647,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+MA,Mastercard Inc.,521.5,"Stephen Mandel, Valley Forge Capital Management, AKO Capital, Francois Rochon, John Armitage, +1 more",8175410000.0,5.67,8,Buy; Add 0.18%; Add 3.73%; Add 2.95%; Add 9.55%,"Q4 2025, Q2 2025, Q3 2025",281391,16.0,42.670625,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+CVNA,Carvana Co.,334.5,"Viking Global Investors, Stephen Mandel, Henry Ellenbogen, Lee Ainslie, Polen Capital Management",3861633000.0,17.94,6,Add 94.92%; Add 0.80%; Add 3.65%; Add 112.31%; Buy,"Q3 2025, Q4 2025, Q2 2025",1543439,7.0,41.94,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+TXN,Texas Instruments,221.27,"Glenn Greenberg, Terry Smith, Wallace Weitz, First Eagle Investment Management, Robert Olstein, +3 more",1791433000.0,1.72,13,Buy; Add 0.06%; Add 0.32%; Add 0.51%; Add 6.64%,"Q2 2025, Q3 2025, Q4 2025",900594,9.0,41.723333333333336,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+TMO,Thermo Fisher Scientific,510.79,"Viking Global Investors, Daniel Loeb, Wallace Weitz, Lindsell Train, William Von Mueffling, +4 more",1604080000.0,2.24,12,Buy; Add 19.26%; Add 67.97%; Add 0.76%; Add 12.54%,"Q4 2025, Q2 2025, Q3 2025",1385930,10.0,41.241,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+ADBE,Adobe Inc.,248.91,"Lee Ainslie, Polen Capital Management, Lindsell Train, William Von Mueffling, Thomas Gayner, +2 more",1481807000.0,1.02,13,Buy; Add 19.09%; Add 17.78%; Add 26.40%; Add 15.69%,"Q4 2025, Q2 2025, Q3 2025",2584450,9.0,41.01777777777778,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+EFX,Equifax Inc.,196.51,"Valley Forge Capital Management, AKO Capital, Lee Ainslie, Wallace Weitz, Lindsell Train, +3 more",1150655000.0,1.64,12,Add 1.63%; Add 2.91%; Add 19.52%; Buy; Add 0.13%,"Q4 2025, Q3 2025, Q2 2025",329644,10.0,40.642,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+INTU,Intuit Inc.,376.43,"Viking Global Investors, Henry Ellenbogen, AKO Capital, Terry Smith, Lee Ainslie, +3 more",1697062000.0,3.13,11,Buy; Add 12.15%; Add 21.59%; Add 3.50%; Add 64.01%,"Q3 2025, Q2 2025, Q4 2025",1605447,10.0,40.131,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+RKT,Rocket Companies Inc.,17.87,"Daniel Loeb, ValueAct Capital, Henry Ellenbogen, Leon Cooperman, First Eagle Investment Management, +1 more",1754215000.0,6.07,12,Add 137.88%; Buy; Add 55.07%; Add 67.90%; Add 124.80%,"Q4 2025, Q2 2025, Q3 2025",81506568,5.0,40.074,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+UBER,Uber Technologies Inc.,73.0,"Lee Ainslie, Thomas Russo, Polen Capital Management, William Von Mueffling, John Armitage, +2 more",4047124000.0,3.01,11,Add 140.07%; Add 9.22%; Add 10.49%; Add 24571.56%; Buy,"Q2 2025, Q4 2025, Q3 2025",8264232,10.0,40.013,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+BN,Brookfield Corp.,45.85,"Daniel Loeb, Bill Ackman, Stephen Mandel, Josh Tarasoff, Chuck Akre, +2 more",6688137000.0,7.78,9,Add 10.26%; Add 0.38%; Add 4.26%; Add 81.12%; Buy,"Q2 2025, Q4 2025, Q3 2025",38763215,9.0,39.784444444444446,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+CRM,Salesforce.com,182.55,"ValueAct Capital, Stephen Mandel, AKO Capital, Harry Burn, First Eagle Investment Management, +3 more",2555224000.0,2.78,11,Add 3.31%; Add 7.59%; Add 30.38%; Buy; Add 17.03%,"Q4 2025, Q2 2025, Q3 2025",4237630,10.0,39.782,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+UNP,Union Pacific,265.77,"Daniel Loeb, Lee Ainslie, Seth Klarman, Thomas Russo, Thomas Gayner, +1 more",1137806000.0,2.75,13,Add 106.86%; Buy; Add 17.71%; Add 8.76%; Add 0.57%,"Q4 2025, Q3 2025, Q2 2025",4806813,6.0,39.748333333333335,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+MCO,Moody's Corp.,445.8,"Valley Forge Capital Management, AKO Capital, Chris Hohn, AltaRock Partners, William Von Mueffling, +2 more",22505981000.0,5.57,8,Add 0.24%; Add 0.10%; Add 0.46%; Add 0.64%; Add 0.14%,"Q4 2025, Q2 2025, Q3 2025",932248,13.0,39.565384615384616,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+AON,Aon Plc,325.22,"Viking Global Investors, Wallace Weitz, Jensen Investment Management, William Von Mueffling, Thomas Gayner, +2 more",4239799000.0,1.36,11,Buy; Add 2.48%; Add 4.98%; Add 3.06%; Add 10.99%,"Q3 2025, Q4 2025, Q2 2025",5120998,11.0,39.35727272727273,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+CP,Canadian Pacific Kansas City,85.09,"AKO Capital, Lindsell Train, William Von Mueffling, John Armitage, Thomas Gayner, +1 more",4970689000.0,4.08,12,Add 269.87%; Buy; Add 5.26%; Add 114.29%; Add 9.47%,"Q4 2025, Q3 2025, Q2 2025",4057785,6.0,39.075,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+AMR,Alpha Metallurgical Resources Inc.,173.74,Mohnish Pabrai,108535000.0,27.0,3,Add 2.07%; Add 15.57%; Add 11.02%,"Q4 2025, Q3 2025, Q2 2025",128384,1.0,39.0,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+SPGI,S&P Global Inc.,417.38,"David Rolfe, Valley Forge Capital Management, Glenn Greenberg, Chris Hohn, Lindsell Train, +2 more",8105741000.0,4.7,10,Add 3.71%; Add 0.18%; Buy; Add 5.37%; Add 0.89%,"Q3 2025, Q4 2025, Q2 2025",1450274,9.0,38.70444444444445,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+FLUT,Flutter Entertainment Plc,120.84,"Daniel Loeb, Henry Ellenbogen, Chase Coleman, AKO Capital, Lee Ainslie, +1 more",2066790000.0,4.62,12,Add 4.67%; Add 10.31%; Add 274.15%; Add 57.56%; Add 9.44%,"Q3 2025, Q2 2025, Q4 2025",2475820,5.0,38.624,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+HCC,Warrior Met Coal Inc.,85.79,"Mohnish Pabrai, Third Avenue Management",210122000.0,24.41,4,Add 0.00%; Add 0.01%; Add 0.04%; Add 4.64%,"Q3 2025, Q2 2025",28961,2.0,38.41,4,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+AMAT,Applied Materials,373.95,"Glenn Greenberg, Lee Ainslie, William Von Mueffling, Harry Burn, Thomas Gayner, +2 more",2464559000.0,1.88,11,Buy; Add 0.76%; Add 9.53%; Add 29.90%; Add 59.09%,"Q4 2025, Q3 2025, Q2 2025",2256889,9.0,37.88333333333333,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+CPRT,Copart Inc.,36.29,"David Rolfe, AKO Capital, Chuck Akre, Jensen Investment Management, Yacktman Asset Management, +1 more",658510000.0,1.84,12,Add 3.48%; Add 8.74%; Add 3.49%; Add 5.11%; Add 85.71%,"Q3 2025, Q4 2025, Q2 2025",10436694,7.0,37.84285714285714,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+RIG,Transocean Ltd.,6.78,Mohnish Pabrai,111676000.0,27.78,2,Add 10.63%; Buy,"Q4 2025, Q3 2025",27040133,1.0,37.78,5,Moderate,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+SCHW,Charles Schwab Corp.,93.6,"Viking Global Investors, Lee Ainslie, Francois Rochon, Thomas Gayner, Christopher Davis",8011806000.0,3.1,9,Add 5.13%; Add 44.02%; Buy; Add 0.63%; Add 0.53%,"Q3 2025, Q4 2025, Q2 2025",2715818,11.0,37.09909090909091,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+AVGO,Broadcom Inc.,330.89,"Stephen Mandel, Chase Coleman, Sarah Ketterer, Polen Capital Management, Jensen Investment Management, +2 more",4521702000.0,3.08,10,Add 11.67%; Buy; Add 6.90%; Add 19.01%; Add 107.95%,"Q4 2025, Q3 2025, Q2 2025",7091754,9.0,37.07555555555555,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+ASML,ASML Holding NV,1469.28,"Stephen Mandel, Valley Forge Capital Management, Duan Yongping, Pat Dorsey, Lee Ainslie, +1 more",1473578000.0,4.93,9,Buy; Add 0.49%; Add 11.04%; Add 23.74%; Add 98.37%,"Q4 2025, Q3 2025, Q2 2025",1100577,9.0,36.92777777777778,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+LPLA,LPL Financial Holdings Inc.,319.22,"Stephen Mandel, William Von Mueffling, John Armitage, Thomas Gayner, First Eagle Investment Management, +1 more",2424076000.0,1.92,11,Add 20.48%; Add 6.14%; Buy; Add 1.20%; Add 1.60%,"Q3 2025, Q2 2025, Q4 2025",3786364,8.0,36.91875,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+BKNG,Booking Holdings Inc.,4034.98,"Stephen Mandel, Henry Ellenbogen, David Rolfe, Pat Dorsey, Lee Ainslie, +3 more",2484039000.0,2.94,10,Buy; Add 48.28%; Add 4.33%; Add 14.53%; Add 0.48%,"Q2 2025, Q3 2025, Q4 2025",97789,8.0,35.94,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+XOM,Exxon Mobil Corp.,147.62,"Christopher Bloomstran, Thomas Russo, Kahn Brothers Group, Thomas Gayner, First Eagle Investment Management, +2 more",970833000.0,0.54,12,Add 1.77%; Add 1.00%; Add 0.67%; Add 0.76%; Add 0.44%,"Q3 2025, Q2 2025, Q4 2025",54115,6.0,35.535,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+CMCSA,Comcast Corp.,31.33,"Kahn Brothers Group, First Eagle Investment Management, Dodge & Cox, David Katz",3610947000.0,1.01,9,Add 10.11%; Buy; Add 0.68%; Add 0.06%; Add 1.39%,"Q4 2025, Q2 2025, Q3 2025",14492513,11.0,35.011818181818185,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+TSN,Tyson Foods,63.06,"Lee Ainslie, Thomas Gayner, Christopher Davis, David Katz, Richard Pzena",990419000.0,1.82,11,Buy; Add 4.24%; Add 3.98%; Add 2.19%; Add 28.76%,"Q3 2025, Q4 2025, Q2 2025",8531580,6.0,34.818333333333335,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+FICO,Fair Isaac Corp.,1341.25,"Valley Forge Capital Management, AKO Capital, Chuck Akre, Jensen Investment Management, Yacktman Asset Management",2333463000.0,7.82,8,Add 0.13%; Add 1.73%; Add 6.36%; Add 2751.43%; Buy,"Q4 2025, Q2 2025, Q3 2025",285424,6.0,34.81833333333333,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+ENTG,Entegris Inc.,133.0,"Stephen Mandel, Henry Ellenbogen, William Von Mueffling, First Eagle Investment Management, Torray Funds, +1 more",535255000.0,1.14,12,Buy; Add 23.20%; Add 4.86%; Add 0.80%; Add 91.69%,"Q4 2025, Q3 2025, Q2 2025",4362110,4.0,34.1375,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+MOH,Molina Healthcare Inc.,154.85,"Viking Global Investors, Seth Klarman, Bill Nygren, Michael Burry",298292000.0,15.95,5,Buy; Add 75.39%; Add 23.45%,"Q2 2025, Q4 2025, Q3 2025",1483985,3.0,33.95,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+GEHC,GE HealthCare Technologies Inc.,83.69,"Nelson Peltz, Leon Cooperman, Harry Burn, First Eagle Investment Management, Dodge & Cox",1869849000.0,1.2,11,Add 0.37%; Add 11.67%; Add 50.00%; Buy; Add 3.79%,"Q4 2025, Q3 2025, Q2 2025",11310457,5.0,33.2,5,Recent Surge,momentum_stocks,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3

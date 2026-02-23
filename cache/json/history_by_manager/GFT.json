@@ -2,6 +2,28 @@
   "manager_id": "GFT",
   "activities": [
     {
+      "symbol": "BRK.B",
+      "manager_id": "GFT",
+      "action": "Reduce 10.84%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 2358460,
+      "portfolio_percentage": 3.35,
+      "company_name": "Berkshire Hathaway CL B"
+    },
+    {
+      "symbol": "MSFT",
+      "manager_id": "GFT",
+      "action": "Reduce 16.32%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1500000,
+      "portfolio_percentage": 2.05,
+      "company_name": "Microsoft Corp."
+    },
+    {
       "symbol": "HRL",
       "manager_id": "GFT",
       "action": "Reduce 5.01%",
@@ -7042,6 +7064,6 @@
       "company_name": "Time Warner Cable Inc."
     }
   ],
-  "timestamp": "2026-02-01T06:24:51.859635",
-  "scraped_date": "2026-02-01"
+  "timestamp": "2026-02-23T15:44:40.676306",
+  "scraped_date": "2026-02-23"
 }

@@ -387,7 +387,7 @@
       "company_name": "Brookfield Asset Management"
     },
     {
-      "symbol": "THS",
+      "symbol": "THS-OLD",
       "manager_id": "FPPTX",
       "action": "Sell 100.00%",
       "date": "Q3 2025",
@@ -453,7 +453,7 @@
       "company_name": "Synaptics Inc."
     },
     {
-      "symbol": "REVG",
+      "symbol": "REVG-OLD",
       "manager_id": "FPPTX",
       "action": "Add 47.85%",
       "date": "Q2 2025",
@@ -893,7 +893,7 @@
       "company_name": "AGCO Corp."
     },
     {
-      "symbol": "REVG",
+      "symbol": "REVG-OLD",
       "manager_id": "FPPTX",
       "action": "Buy",
       "date": "Q1 2025",
@@ -915,7 +915,7 @@
       "company_name": "IAC Inc."
     },
     {
-      "symbol": "THS",
+      "symbol": "THS-OLD",
       "manager_id": "FPPTX",
       "action": "Reduce 11.43%",
       "date": "Q1 2025",
@@ -2180,7 +2180,7 @@
       "company_name": "Sprouts Farmers Market Inc."
     },
     {
-      "symbol": "THS",
+      "symbol": "THS-OLD",
       "manager_id": "FPPTX",
       "action": "Add 28.56%",
       "date": "Q3 2023",
@@ -2950,7 +2950,7 @@
       "company_name": "Darling Ingredients Inc."
     },
     {
-      "symbol": "THS",
+      "symbol": "THS-OLD",
       "manager_id": "FPPTX",
       "action": "Add 27.27%",
       "date": "Q4 2022",
@@ -3533,7 +3533,7 @@
       "company_name": "Enstar Group Ltd."
     },
     {
-      "symbol": "THS",
+      "symbol": "THS-OLD",
       "manager_id": "FPPTX",
       "action": "Reduce 5.80%",
       "date": "Q2 2022",
@@ -3819,7 +3819,7 @@
       "company_name": "South Jersey Industries"
     },
     {
-      "symbol": "THS",
+      "symbol": "THS-OLD",
       "manager_id": "FPPTX",
       "action": "Reduce 25.25%",
       "date": "Q1 2022",
@@ -3940,7 +3940,7 @@
       "company_name": "Crawford & Co. CL B"
     },
     {
-      "symbol": "THS",
+      "symbol": "THS-OLD",
       "manager_id": "FPPTX",
       "action": "Reduce 23.78%",
       "date": "Q4 2021",
@@ -4116,7 +4116,7 @@
       "company_name": "Safety Insurance Group"
     },
     {
-      "symbol": "THS",
+      "symbol": "THS-OLD",
       "manager_id": "FPPTX",
       "action": "Reduce 0.85%",
       "date": "Q2 2021",
@@ -4644,7 +4644,7 @@
       "company_name": "CSW Industrials Inc."
     },
     {
-      "symbol": "THS",
+      "symbol": "THS-OLD",
       "manager_id": "FPPTX",
       "action": "Add 28.85%",
       "date": "Q1 2021",
@@ -5447,7 +5447,7 @@
       "company_name": "ACI Worldwide Inc."
     },
     {
-      "symbol": "THS",
+      "symbol": "THS-OLD",
       "manager_id": "FPPTX",
       "action": "Add 41.66%",
       "date": "Q3 2020",
@@ -5711,7 +5711,7 @@
       "company_name": "Graphic Packaging Hldg Co."
     },
     {
-      "symbol": "THS",
+      "symbol": "THS-OLD",
       "manager_id": "FPPTX",
       "action": "Reduce 8.05%",
       "date": "Q2 2020",
@@ -5986,7 +5986,7 @@
       "company_name": "Vonage Holdings Corp."
     },
     {
-      "symbol": "THS",
+      "symbol": "THS-OLD",
       "manager_id": "FPPTX",
       "action": "Buy",
       "date": "Q1 2020",
@@ -11002,6 +11002,6 @@
       "company_name": "Western Digital Corp."
     }
   ],
-  "timestamp": "2026-02-01T06:24:51.723415",
-  "scraped_date": "2026-02-01"
+  "timestamp": "2026-02-23T15:44:41.093458",
+  "scraped_date": "2026-02-23"
 }

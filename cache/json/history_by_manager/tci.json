@@ -2,6 +2,72 @@
   "manager_id": "tci",
   "activities": [
     {
+      "symbol": "FER",
+      "manager_id": "tci",
+      "action": "Add 6.52%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1269548,
+      "portfolio_percentage": 0.15,
+      "company_name": "Ferrovial Se"
+    },
+    {
+      "symbol": "SPGI",
+      "manager_id": "tci",
+      "action": "Add 5.37%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 600440,
+      "portfolio_percentage": 0.58,
+      "company_name": "S&P Global Inc."
+    },
+    {
+      "symbol": "MSFT",
+      "manager_id": "tci",
+      "action": "Add 1.14%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 189749,
+      "portfolio_percentage": 0.17,
+      "company_name": "Microsoft Corp."
+    },
+    {
+      "symbol": "V",
+      "manager_id": "tci",
+      "action": "Reduce 1.19%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 333118,
+      "portfolio_percentage": 0.22,
+      "company_name": "Visa Inc."
+    },
+    {
+      "symbol": "CP",
+      "manager_id": "tci",
+      "action": "Reduce 4.43%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 2211312,
+      "portfolio_percentage": 0.3,
+      "company_name": "Canadian Pacific Kansas City"
+    },
+    {
+      "symbol": "CNI",
+      "manager_id": "tci",
+      "action": "Reduce 47.52%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 8917840,
+      "portfolio_percentage": 1.65,
+      "company_name": "Canadian Natl Railway Co."
+    },
+    {
       "symbol": "V",
       "manager_id": "tci",
       "action": "Add 47.15%",
@@ -3819,6 +3885,6 @@
       "company_name": "American Express"
     }
   ],
-  "timestamp": "2026-02-01T06:24:51.986940",
-  "scraped_date": "2026-02-01"
+  "timestamp": "2026-02-23T15:44:40.801504",
+  "scraped_date": "2026-02-23"
 }

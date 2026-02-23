@@ -2,6 +2,61 @@
   "manager_id": "TF",
   "activities": [
     {
+      "symbol": "GEHC",
+      "manager_id": "TF",
+      "action": "Add 0.37%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 15,
+      "portfolio_percentage": 0.0,
+      "company_name": "GE HealthCare Technologies Inc."
+    },
+    {
+      "symbol": "GE",
+      "manager_id": "TF",
+      "action": "Add 0.01%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 552,
+      "portfolio_percentage": 0.0,
+      "company_name": "GE Aerospace"
+    },
+    {
+      "symbol": "WEN",
+      "manager_id": "TF",
+      "action": "Add 0.01%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 3295,
+      "portfolio_percentage": 0.0,
+      "company_name": "Wendy's Co."
+    },
+    {
+      "symbol": "SOLV",
+      "manager_id": "TF",
+      "action": "Reduce 2.67%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 226066,
+      "portfolio_percentage": 0.45,
+      "company_name": "Solventum Corp"
+    },
+    {
+      "symbol": "IVZ",
+      "manager_id": "TF",
+      "action": "Reduce 79.69%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 11657511,
+      "portfolio_percentage": 7.69,
+      "company_name": "Invesco Ltd"
+    },
+    {
       "symbol": "WEN",
       "manager_id": "TF",
       "action": "Add 0.01%",
@@ -3005,6 +3060,6 @@
       "company_name": "Allegion Plc"
     }
   ],
-  "timestamp": "2026-02-01T06:24:51.856490",
-  "scraped_date": "2026-02-01"
+  "timestamp": "2026-02-23T15:44:40.646164",
+  "scraped_date": "2026-02-23"
 }

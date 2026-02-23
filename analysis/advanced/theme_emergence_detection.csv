@@ -1,26 +1,26 @@
-ticker,company_name,total_recent_managers,new_managers_count,recent_buy_activities,emergence_score,new_managers,total_managers,new_manager_names
-TSM,Taiwan Semiconductor S.A.,21,9,28,252,"['vg', 'mc', 'pcm', 'HH', 'DAV', 'FE', 'T', 'MPGFX', 'DODGX']",24,"Viking Global Investors, Lee Ainslie, Polen Capital Management, Duan Yongping, Christopher Davis, First Eagle Investment Management, Torray Funds, Mairs & Power Growth Fund, Dodge & Cox"
-UNH,United Health Group Inc.,25,7,33,231,"['YAM', 'mc', 'hcmax', 'CAU', 'FE', 'SAM', 'PTNT']",31,"Yacktman Asset Management, Lee Ainslie, Hillman Value Fund, Sarah Ketterer, First Eagle Investment Management, Michael Burry, Samantha McLemore"
-MSFT,Microsoft Corp.,36,4,42,168,"['RVC', 'FE', 'mc', 'HH']",43,"Robert Vinall, First Eagle Investment Management, Lee Ainslie, Duan Yongping"
-NVDA,NVIDIA Corp.,15,6,27,162,"['pcm', 'mc', 'KB', 'HH', 'DAV', 'JIM']",19,"Polen Capital Management, Lee Ainslie, Kahn Brothers Group, Duan Yongping, Christopher Davis, Jensen Investment Management"
-META,Meta Platforms Inc.,30,4,34,136,"['JIM', 'MPGFX', 'FE', 'mc']",43,"Jensen Investment Management, Mairs & Power Growth Fund, First Eagle Investment Management, Lee Ainslie"
-AMZN,Amazon.com Inc.,25,4,30,120,"['VA', 'psc', 'mc', 'OFALX']",40,"ValueAct Capital, Bill Ackman, Lee Ainslie, Robert Olstein"
-FERG,Ferguson Enterprises Inc.,12,6,20,120,"['pcm', 'mc', 'DCP', 'EC', 'FE', 'BAUPOST']",15,"Polen Capital Management, Lee Ainslie, Henry Ellenbogen, John Armitage, First Eagle Investment Management, Seth Klarman"
-ICLR,ICON plc,10,7,15,105,"['mc', 'SEQUX', 'cc', 'CAU', 'GA', 'oaklx', 'BAUPOST']",10,"Lee Ainslie, Ruane Cunniff, William Von Mueffling, Sarah Ketterer, Greenhaven Associates, Bill Nygren, Seth Klarman"
-FISV,Fiserv Inc.,17,5,20,100,"['ARFFX', 'PC', 'AM', 'CAAPX', 'hcmax']",23,"Charles Bobrinskoy, Norbert Lou, David Tepper, John Rogers, Hillman Value Fund"
-GOOGL,Alphabet Inc.,34,3,32,96,"['BRK', 'FE', 'mc']",43,"Warren Buffett, First Eagle Investment Management, Lee Ainslie"
-COF,Capital One Financial,17,6,16,96,"['vg', 'mc', 'KB', 'EC', 'tp', 'CCM']",22,"Viking Global Investors, Lee Ainslie, Kahn Brothers Group, John Armitage, Daniel Loeb, Glenn Greenberg"
-FLUT,Flutter Entertainment Plc,10,4,20,80,"['DCP', 'LPC', 'mc', 'AKO']",11,"Henry Ellenbogen, Stephen Mandel, Lee Ainslie, AKO Capital"
-CP,Canadian Pacific Kansas City,11,5,13,65,"['mc', 'FE', 'AKO', 'MKL', 'LT']",14,"Lee Ainslie, First Eagle Investment Management, AKO Capital, Thomas Gayner, Lindsell Train"
-INTU,Intuit Inc.,14,4,16,64,"['pcm', 'mc', 'MAVFX', 'T']",16,"Polen Capital Management, Lee Ainslie, David Katz, Torray Funds"
-UBER,Uber Technologies Inc.,11,4,16,64,"['pcm', 'OFALX', 'mc', 'psc']",18,"Polen Capital Management, Robert Olstein, Lee Ainslie, Bill Ackman"
-LLY,Eli Lilly & Co.,9,4,15,60,"['JIM', 'LPC', 'EC', 'mc']",13,"Jensen Investment Management, Stephen Mandel, John Armitage, Lee Ainslie"
-PEP,PepsiCo Inc.,12,5,11,55,"['pcm', 'mc', 'FE', 'T', 'OFALX']",17,"Polen Capital Management, Lee Ainslie, First Eagle Investment Management, Torray Funds, Robert Olstein"
-EFX,Equifax Inc.,10,3,17,51,"['oaklx', 'VFC', 'mc']",15,"Bill Nygren, Valley Forge Capital Management, Lee Ainslie"
-DIS,Walt Disney Co.,17,3,17,51,"['FE', 'vg', 'mc']",32,"First Eagle Investment Management, Viking Global Investors, Lee Ainslie"
-TMO,Thermo Fisher Scientific,11,3,16,48,"['OFALX', 'tp', 'LT']",21,"Robert Olstein, Daniel Loeb, Lindsell Train"
-NU,Nu Holdings Ltd,7,5,9,45,"['oc', 'pcm', 'mc', 'VA', 'LPC']",7,"Howard Marks, Polen Capital Management, Lee Ainslie, ValueAct Capital, Stephen Mandel"
-LEN,Lennar Corp.,7,3,15,45,"['BRK', 'OCL', 'vg']",11,"Warren Buffett, Bryan Lawrence, Viking Global Investors"
-SE,Sea Ltd,8,5,9,45,"['oc', 'vg', 'pcm', 'CAU', 'tp']",11,"Howard Marks, Viking Global Investors, Polen Capital Management, Sarah Ketterer, Daniel Loeb"
-AVTR,Avantor Inc.,8,4,11,44,"['LLPFX', 'FE', 'GA', 'FPACX']",11,"Mason Hawkins, First Eagle Investment Management, Greenhaven Associates, Steven Romick"
-SLB,Schlumberger Ltd.,6,4,11,44,"['CAAPX', 'ARFFX', 'FE', 'GA']",12,"John Rogers, Charles Bobrinskoy, First Eagle Investment Management, Greenhaven Associates"
+ticker,company_name,total_recent_managers,new_managers_count,recent_buy_activities,emergence_score,new_managers,total_managers,new_manager_names,_analysis_type,_generated,_periods,_window_quarters
+AMZN,Amazon.com Inc.,31,8,40,320,"JIM, VA, pcm, GR, psc, SP, OFALX, mc",43,"Jensen Investment Management, ValueAct Capital, Polen Capital Management, Thomas Russo, Bill Ackm...",theme_emergence_detection,2026-02-23,"Q4 2025, Q3 2025, Q2 2025, Q1 2025, Q4 2024",5
+TSM,Taiwan Semiconductor S.A.,21,9,35,315,"MPGFX, vg, pcm, FE, T, HH, mc, DODGX, DAV",24,"Mairs & Power Growth Fund, Viking Global Investors, Polen Capital Management, First Eagle Investm...",theme_emergence_detection,2026-02-23,"Q4 2025, Q3 2025, Q2 2025, Q1 2025, Q4 2024",5
+UNH,United Health Group Inc.,25,8,35,280,"YAM, pcm, FE, SAM, CAU, mc, hcmax, PTNT",31,"Yacktman Asset Management, Polen Capital Management, First Eagle Investment Management, Michael B...",theme_emergence_detection,2026-02-23,"Q4 2025, Q3 2025, Q2 2025, Q1 2025, Q4 2024",5
+MSFT,Microsoft Corp.,37,5,56,280,"pcm, FE, RVC, HH, mc",43,"Polen Capital Management, First Eagle Investment Management, Robert Vinall, Duan Yongping, Lee Ai...",theme_emergence_detection,2026-02-23,"Q4 2025, Q3 2025, Q2 2025, Q1 2025, Q4 2024",5
+META,Meta Platforms Inc.,31,6,41,246,"MPGFX, JIM, pcm, FE, psc, mc",44,"Mairs & Power Growth Fund, Jensen Investment Management, Polen Capital Management, First Eagle In...",theme_emergence_detection,2026-02-23,"Q4 2025, Q3 2025, Q2 2025, Q1 2025, Q4 2024",5
+NVDA,NVIDIA Corp.,15,6,33,198,"JIM, pcm, KB, HH, mc, DAV",19,"Jensen Investment Management, Polen Capital Management, Kahn Brothers Group, Duan Yongping, Lee A...",theme_emergence_detection,2026-02-23,"Q4 2025, Q3 2025, Q2 2025, Q1 2025, Q4 2024",5
+GOOGL,Alphabet Inc.,36,4,38,152,"FE, mc, BRK, pcm",43,"First Eagle Investment Management, Lee Ainslie, Warren Buffett, Polen Capital Management",theme_emergence_detection,2026-02-23,"Q4 2025, Q3 2025, Q2 2025, Q1 2025, Q4 2024",5
+FERG,Ferguson Enterprises Inc.,12,6,24,144,"EC, BAUPOST, pcm, FE, mc, DCP",15,"John Armitage, Seth Klarman, Polen Capital Management, First Eagle Investment Management, Lee Ain...",theme_emergence_detection,2026-02-23,"Q4 2025, Q3 2025, Q2 2025, Q1 2025, Q4 2024",5
+FISV,Fiserv Inc.,18,6,23,138,"hcmax, CAAPX, PC, ARFFX, AM, DAV",24,"Hillman Value Fund, John Rogers, Norbert Lou, Charles Bobrinskoy, David Tepper, Christopher Davis",theme_emergence_detection,2026-02-23,"Q4 2025, Q3 2025, Q2 2025, Q1 2025, Q4 2024",5
+COF,Capital One Financial,17,6,19,114,"EC, vg, tp, KB, CCM, mc",22,"John Armitage, Viking Global Investors, Daniel Loeb, Kahn Brothers Group, Glenn Greenberg, Lee Ai...",theme_emergence_detection,2026-02-23,"Q4 2025, Q3 2025, Q2 2025, Q1 2025, Q4 2024",5
+ICLR,ICON plc,10,8,14,112,"cc, BAUPOST, oaklx, GA, pcm, SEQUX, mc, CAU",10,"William Von Mueffling, Seth Klarman, Bill Nygren, Greenhaven Associates, Polen Capital Management...",theme_emergence_detection,2026-02-23,"Q4 2025, Q3 2025, Q2 2025, Q1 2025, Q4 2024",5
+GOOG,Alphabet Inc. CL C,28,4,26,104,"KB, mc, FE, pcm",40,"Kahn Brothers Group, Lee Ainslie, First Eagle Investment Management, Polen Capital Management",theme_emergence_detection,2026-02-23,"Q4 2025, Q3 2025, Q2 2025, Q1 2025, Q4 2024",5
+ADBE,Adobe Inc.,13,5,18,90,"pcm, OFALX, mc, DODGX, MKL",25,"Polen Capital Management, Robert Olstein, Lee Ainslie, Dodge & Cox, Thomas Gayner",theme_emergence_detection,2026-02-23,"Q4 2025, Q3 2025, Q2 2025, Q1 2025, Q4 2024",5
+CP,Canadian Pacific Kansas City,11,5,18,90,"AKO, LT, FE, mc, MKL",14,"AKO Capital, Lindsell Train, First Eagle Investment Management, Lee Ainslie, Thomas Gayner",theme_emergence_detection,2026-02-23,"Q4 2025, Q3 2025, Q2 2025, Q1 2025, Q4 2024",5
+FLUT,Flutter Entertainment Plc,10,4,22,88,"LPC, AKO, DCP, mc",11,"Stephen Mandel, AKO Capital, Henry Ellenbogen, Lee Ainslie",theme_emergence_detection,2026-02-23,"Q4 2025, Q3 2025, Q2 2025, Q1 2025, Q4 2024",5
+UBER,Uber Technologies Inc.,11,4,20,80,"mc, psc, OFALX, pcm",17,"Lee Ainslie, Bill Ackman, Robert Olstein, Polen Capital Management",theme_emergence_detection,2026-02-23,"Q4 2025, Q3 2025, Q2 2025, Q1 2025, Q4 2024",5
+TMO,Thermo Fisher Scientific,12,4,20,80,"LT, OFALX, tp, pcm",20,"Lindsell Train, Robert Olstein, Daniel Loeb, Polen Capital Management",theme_emergence_detection,2026-02-23,"Q4 2025, Q3 2025, Q2 2025, Q1 2025, Q4 2024",5
+LLY,Eli Lilly & Co.,9,5,15,75,"LPC, JIM, EC, pcm, mc",13,"Stephen Mandel, Jensen Investment Management, John Armitage, Polen Capital Management, Lee Ainslie",theme_emergence_detection,2026-02-23,"Q4 2025, Q3 2025, Q2 2025, Q1 2025, Q4 2024",5
+INTU,Intuit Inc.,14,4,18,72,"mc, MAVFX, T, pcm",16,"Lee Ainslie, David Katz, Torray Funds, Polen Capital Management",theme_emergence_detection,2026-02-23,"Q4 2025, Q3 2025, Q2 2025, Q1 2025, Q4 2024",5
+ASML,ASML Holding NV,9,5,14,70,"TFP, pcm, DA, HH, mc",10,"Triple Frond Partners, Polen Capital Management, Pat Dorsey, Duan Yongping, Lee Ainslie",theme_emergence_detection,2026-02-23,"Q4 2025, Q3 2025, Q2 2025, Q1 2025, Q4 2024",5
+AVGO,Broadcom Inc.,10,5,14,70,"LPC, MAVFX, JIM, pcm, CAU",12,"Stephen Mandel, David Katz, Jensen Investment Management, Polen Capital Management, Sarah Ketterer",theme_emergence_detection,2026-02-23,"Q4 2025, Q3 2025, Q2 2025, Q1 2025, Q4 2024",5
+LPLA,LPL Financial Holdings Inc.,10,4,17,68,"FE, mc, DODGX, cc",12,"First Eagle Investment Management, Lee Ainslie, Dodge & Cox, William Von Mueffling",theme_emergence_detection,2026-02-23,"Q4 2025, Q3 2025, Q2 2025, Q1 2025, Q4 2024",5
+EFX,Equifax Inc.,10,3,22,66,"mc, oaklx, VFC",15,"Lee Ainslie, Bill Nygren, Valley Forge Capital Management",theme_emergence_detection,2026-02-23,"Q4 2025, Q3 2025, Q2 2025, Q1 2025, Q4 2024",5
+DIS,Walt Disney Co.,17,3,22,66,"FE, mc, vg",32,"First Eagle Investment Management, Lee Ainslie, Viking Global Investors",theme_emergence_detection,2026-02-23,"Q4 2025, Q3 2025, Q2 2025, Q1 2025, Q4 2024",5
+SE,Sea Ltd,10,6,11,66,"tp, pcm, FE, vg, oc, CAU",12,"Daniel Loeb, Polen Capital Management, First Eagle Investment Management, Viking Global Investors...",theme_emergence_detection,2026-02-23,"Q4 2025, Q3 2025, Q2 2025, Q1 2025, Q4 2024",5
