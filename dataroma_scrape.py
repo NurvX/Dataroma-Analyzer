@@ -21,7 +21,7 @@ from bs4 import BeautifulSoup, Tag
 
 from lib.models import Manager, Holding, Activity, ScraperProgress
 from lib.clients import CachedHTTPClient
-from lib.utils import DataromaParser
+from lib.utils import DataromaParser, setup_logging
 from lib.services import CacheService
 
 
@@ -317,63 +317,21 @@ def main() -> None:
     """Main entry point."""
     import sys
 
-    logging.basicConfig(
-        level=logging.INFO,
-        format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
-    )
+    setup_logging(level=logging.INFO)
 
-    # Check for command line flags
-    skip_enrichment = "--skip-enrichment" in sys.argv
     force_refresh = "--force-refresh" in sys.argv
 
     if force_refresh:
         logging.info("Force refresh enabled - will ignore cache and fetch fresh data")
 
-    # Use context manager for proper cleanup
     with DataromaScraper() as scraper:
-        if skip_enrichment:
-            # Just scrape without enrichment
-            managers = scraper._scrape_managers()
-            all_holdings = []
-            all_activities = []
+        result = scraper.scrape_all(force_refresh=force_refresh)
 
-            for i, manager in enumerate(managers):
-                holdings = scraper._scrape_manager_holdings(manager)
-                all_holdings.extend(holdings)
-
-                activities = scraper._scrape_manager_activities(manager)
-                all_activities.extend(activities)
-
-                scraper.progress.managers_processed += 1
-
-                if scraper.progress.managers_processed % 5 == 0:
-                    logging.info(
-                        "Progress: %d/%d managers, %d holdings, %d activities",
-                        scraper.progress.managers_processed,
-                        len(managers),
-                        len(all_holdings),
-                        len(all_activities),
-                    )
-
-                # Save intermediate results
-                if scraper.progress.managers_processed % 10 == 0:
-                    scraper._save_all_to_cache(managers[: i + 1], all_holdings, all_activities)
-
-            # Save final results
-            scraper._save_all_to_cache(managers, all_holdings, all_activities)
-
-            print("\nScraping Results (without enrichment):")
-            print(f"- Managers: {len(managers)}")
-            print(f"- Holdings: {len(all_holdings)}")
-            print(f"- Activities: {len(all_activities)}")
-        else:
-            result = scraper.scrape_all(force_refresh=force_refresh)
-
-            print("\nScraping Results:")
-            print(f"- Managers: {len(result['managers'])}")
-            print(f"- Holdings: {len(result['holdings'])}")
-            print(f"- Activities: {len(result['activities'])}")
-            print(f"- Duration: {result['progress'].get('duration_seconds', 0):.1f}s")
+        print("\nScraping Results:")
+        print(f"- Managers: {len(result['managers'])}")
+        print(f"- Holdings: {len(result['holdings'])}")
+        print(f"- Activities: {len(result['activities'])}")
+        print(f"- Duration: {result['progress'].get('duration_seconds', 0):.1f}s")
 
 
 if __name__ == "__main__":

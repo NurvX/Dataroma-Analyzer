@@ -25,15 +25,12 @@ from pathlib import Path
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 from lib.analysis.orchestrator import AnalysisOrchestrator
+from lib.utils.logging_config import setup_logging as _setup_logging
 
 
 def setup_logging():
     """Setup logging configuration."""
-    logging.basicConfig(
-        level=logging.INFO,
-        format="%(asctime)s - %(levelname)s - %(message)s",
-        handlers=[logging.StreamHandler(), logging.FileHandler("analysis.log")],
-    )
+    _setup_logging(level=logging.INFO, log_file="analysis.log")
 
 
 def create_all_visualizations(results: dict, output_dir: str = "analysis"):
@@ -127,8 +124,8 @@ def create_all_visualizations(results: dict, output_dir: str = "analysis"):
             }
             if historical_results:
                 return {"historical": viz.create_all_visualizations(historical_results)}
-        except Exception:
-            pass
+        except (ImportError, ValueError) as e:
+            logging.debug(f"Historical visualizer fallback also failed: {e}")
         return {}
     except Exception as e:
         logging.error(f"Error creating visualizations: {e}")
