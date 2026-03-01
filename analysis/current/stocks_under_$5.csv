@@ -1,40 +1,35 @@
 ticker,company_name,current_price,manager_count,managers,total_value,avg_portfolio_pct,index,total_shares,max_portfolio_pct,recent_buys,latest_buy_quarter,price_opportunity_score,price_category,_analysis_type,_generated,_periods,_window_quarters
-CCC,CCC Intelligent Solutions Hldgs Inc.,4.92,3,"Chuck Akre, Triple Frond Partners, Torray Funds",237330000,2.13,15,29852877,3.97,10.0,Q4 2025,18.130000000000003,Ultra-Low Price,stocks_under_$5,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-PTON,Peloton Interactive Inc.,4.37,3,"David Einhorn, Samantha McLemore, Polen Capital Management",13328000,0.17,53,2163611,0.45,3.0,Q3 2025,9.166666666666668,Ultra-Low Price,stocks_under_$5,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-EVH,Evolent Health Inc.,2.79,2,"Glenn Welling, Lee Ainslie",32416000,2.9,26,8103842,5.68,5.0,Q4 2025,11.895,Ultra-Low Price,stocks_under_$5,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-PGEN,Precigen Inc.,4.2,2,"Samantha McLemore, Polen Capital Management",78231000,1.5,50,18715561,3.01,2.0,Q4 2025,7.505,Ultra-Low Price,stocks_under_$5,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-GRAB,Grab Holdings Ltd   Cl A,4.33,2,"Chase Coleman, Howard Marks",519616000,1.4,32,104131487,1.56,2.0,Q3 2025,7.395,Ultra-Low Price,stocks_under_$5,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-SRTA,Strata Critical Medical Inc.,4.48,2,"Daniel Loeb, First Eagle Investment Management",34293000,0.18,63,7129550,0.33,4.0,Q4 2025,8.175,Ultra-Low Price,stocks_under_$5,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-AUR,Aurora Innovation Inc.,4.67,2,"Daniel Loeb, Henry Ellenbogen",29956000,0.15,6,7801048,0.25,2.0,Q3 2025,6.15,Ultra-Low Price,stocks_under_$5,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-GTN,Gray Television Inc.,4.85,1,Bill Miller,19304000,6.8,33,3988495,6.8,2.0,Q4 2025,10.8,Ultra-Low Price,stocks_under_$5,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BLND,Blend Labs Inc.,1.62,1,Dennis Hong,27433000,5.17,11,9024099,5.17,1.0,Q3 2025,8.17,Ultra-Low Price,stocks_under_$5,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-FOSL,Fossil Inc.,4.68,1,Bill Miller,11973000,4.22,29,3184415,4.22,2.0,Q2 2025,8.219999999999999,Ultra-Low Price,stocks_under_$5,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BRCC,BRC Inc.,0.69,1,Glenn Welling,15468000,3.95,12,13935560,3.95,1.0,Q3 2025,6.95,Ultra-Low Price,stocks_under_$5,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CNDT,Conduent Inc.,1.57,1,Bill Miller,10720000,3.78,19,5583385,3.78,3.0,Q4 2025,8.78,Ultra-Low Price,stocks_under_$5,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-JELD,JELD-WEN Holding Inc.,2.18,1,Bill Miller,10170000,3.58,42,4134210,3.58,3.0,Q4 2025,8.58,Ultra-Low Price,stocks_under_$5,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-HNST,The Honest Company inc.,2.23,1,Meridian Contrarian Fund,11038000,2.02,36,2999546,2.02,3.0,Q3 2025,7.02,Ultra-Low Price,stocks_under_$5,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-DNN,Denison Mines Corp.,4.21,1,Meridian Contrarian Fund,7953000,1.45,24,2892000,1.45,2.0,Q3 2025,5.45,Ultra-Low Price,stocks_under_$5,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-PAHGF,Pets at Home Group Plc,3.04,1,Tweedy Browne Co.,3718000,0.86,49,1396111,0.86,1.0,Q2 2025,3.86,Ultra-Low Price,stocks_under_$5,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-HTZ,Hertz Global Hldgs Inc.,4.64,1,Bill Ackman,78339000,0.5,37,15241127,0.5,1.0,Q2 2025,3.5,Ultra-Low Price,stocks_under_$5,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-IVVD,Invivyd Inc.,1.58,1,Lee Ainslie,46858000,0.5,41,18970913,0.5,1.0,Q3 2025,3.5,Ultra-Low Price,stocks_under_$5,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-COYA,Coya Therapeutics Inc,4.6,1,David Einhorn,11751000,0.41,20,2025940,0.41,1.0,Q4 2025,3.41,Ultra-Low Price,stocks_under_$5,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-SOPH,Sophia Genetics SA,4.8,1,Chuck Akre,17368000,0.19,62,3719140,0.19,2.0,Q4 2025,4.19,Ultra-Low Price,stocks_under_$5,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-SABR,Sabre Corp.,0.91,1,Terry Smith,29239000,0.17,58,21499095,0.17,1.0,Q2 2025,3.17,Ultra-Low Price,stocks_under_$5,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-EVLV,Evolv Technologies Holdings,4.94,1,Torray Funds,933000,0.14,27,130325,0.14,1.0,Q3 2025,3.14,Ultra-Low Price,stocks_under_$5,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-RCKT,Rocket Pharmaceuticals Inc.,4.0,1,Lee Ainslie,8821000,0.09,54,2513110,0.09,2.0,Q3 2025,4.09,Ultra-Low Price,stocks_under_$5,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BATL,Battalion Oil Corp.,4.48,1,Howard Marks,3401000,0.07,8,3009912,0.07,1.0,Q3 2025,3.07,Ultra-Low Price,stocks_under_$5,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-PIFYF,Pine Cliff Energy Ltd,0.5,1,Kahn Brothers Group,307000,0.05,52,520000,0.05,1.0,Q2 2025,3.05,Ultra-Low Price,stocks_under_$5,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-TDUP,ThredUp Inc.,4.34,1,Lee Ainslie,4420000,0.05,65,691689,0.05,5.0,Q4 2025,7.05,Ultra-Low Price,stocks_under_$5,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-SKYX,Skyx Platforms Corp,2.09,1,David Katz,438000,0.04,60,201666,0.04,1.0,Q2 2025,3.04,Ultra-Low Price,stocks_under_$5,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-SSPPF,Ssp Group Plc,2.51,1,Thomas Russo,1829000,0.02,64,660000,0.02,1.0,Q3 2025,3.02,Ultra-Low Price,stocks_under_$5,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-ACCO,ACCO Brands Corp.,4.04,1,First Eagle Investment Management,3217000,0.01,2,862369,0.01,2.0,Q3 2025,4.01,Ultra-Low Price,stocks_under_$5,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BFLY,Butterfly Network Inc,2.94,1,Polen Capital Management,1797000,0.01,10,472971,0.01,2.0,Q4 2025,4.01,Ultra-Low Price,stocks_under_$5,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BTAI,Bioxcel Therapeutics Inc,1.57,1,Howard Marks,386000,0.01,13,241188,0.01,1.0,Q2 2025,3.01,Ultra-Low Price,stocks_under_$5,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-ABCL,AbCellera Biologics Inc.,3.04,1,Polen Capital Management,351000,0.0,0,102508,0.0,1.0,Q3 2025,3.0,Ultra-Low Price,stocks_under_$5,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CCO,Clear Channel Outdoor Holdings,2.41,1,Polen Capital Management,212000,0.0,16,95912,0.0,1.0,Q4 2025,3.0,Ultra-Low Price,stocks_under_$5,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-ESPR,Esperion Therapeutics Inc.,3.37,1,Polen Capital Management,430000,0.0,25,116292,0.0,1.0,Q4 2025,3.0,Ultra-Low Price,stocks_under_$5,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-HLLY,Holley Inc,4.12,1,Polen Capital Management,318000,0.0,35,77032,0.0,3.0,Q4 2025,5.0,Ultra-Low Price,stocks_under_$5,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-IHRT,iHeartMedia Inc.,3.44,1,Polen Capital Management,647000,0.0,39,155516,0.0,2.0,Q4 2025,4.0,Ultra-Low Price,stocks_under_$5,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-INN,Summit Hotel Properties Inc.,4.18,1,Sarah Ketterer,72000,0.0,40,14838,0.0,1.0,Q2 2025,3.0,Ultra-Low Price,stocks_under_$5,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-PACB,Pacific Biosciences of California,1.58,1,Polen Capital Management,256000,0.0,48,137149,0.0,1.0,Q4 2025,3.0,Ultra-Low Price,stocks_under_$5,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-SCWO,374water Inc,2.38,1,David Katz,20000,0.0,59,10000,0.0,1.0,Q4 2025,3.0,Ultra-Low Price,stocks_under_$5,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+PTON,Peloton Interactive Inc.,4.02,3,"David Einhorn, Samantha McLemore, Polen Capital Management",13328000,0.17,49,2163611,0.45,3.0,Q3 2025,9.166666666666668,Ultra-Low Price,stocks_under_$5,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+EVH,Evolent Health Inc.,3.25,2,"Glenn Welling, Lee Ainslie",32416000,2.9,24,8103842,5.68,5.0,Q4 2025,11.895,Ultra-Low Price,stocks_under_$5,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+PGEN,Precigen Inc.,3.79,2,"Samantha McLemore, Polen Capital Management",78231000,1.5,46,18715561,3.01,2.0,Q4 2025,7.505,Ultra-Low Price,stocks_under_$5,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+GRAB,Grab Holdings Ltd   Cl A,4.22,2,"Chase Coleman, Howard Marks",519616000,1.4,29,104131487,1.56,2.0,Q3 2025,7.395,Ultra-Low Price,stocks_under_$5,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+SRTA,Strata Critical Medical Inc.,4.28,2,"Daniel Loeb, First Eagle Investment Management",34293000,0.18,58,7129550,0.33,4.0,Q4 2025,8.175,Ultra-Low Price,stocks_under_$5,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+AUR,Aurora Innovation Inc.,4.68,2,"Daniel Loeb, Henry Ellenbogen",29956000,0.15,6,7801048,0.25,2.0,Q3 2025,6.15,Ultra-Low Price,stocks_under_$5,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BLND,Blend Labs Inc.,1.68,1,Dennis Hong,27433000,5.17,10,9024099,5.17,1.0,Q3 2025,8.17,Ultra-Low Price,stocks_under_$5,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+FOSL,Fossil Inc.,4.68,1,Bill Miller,11973000,4.22,26,3184415,4.22,2.0,Q2 2025,8.219999999999999,Ultra-Low Price,stocks_under_$5,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BRCC,BRC Inc.,0.63,1,Glenn Welling,15468000,3.95,11,13935560,3.95,1.0,Q3 2025,6.95,Ultra-Low Price,stocks_under_$5,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+CNDT,Conduent Inc.,1.46,1,Bill Miller,10720000,3.78,17,5583385,3.78,3.0,Q4 2025,8.78,Ultra-Low Price,stocks_under_$5,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+JELD,JELD-WEN Holding Inc.,1.96,1,Bill Miller,10170000,3.58,38,4134210,3.58,3.0,Q4 2025,8.58,Ultra-Low Price,stocks_under_$5,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+HNST,The Honest Company inc.,2.8,1,Meridian Contrarian Fund,11038000,2.02,32,2999546,2.02,3.0,Q3 2025,7.02,Ultra-Low Price,stocks_under_$5,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+DNN,Denison Mines Corp.,4.18,1,Meridian Contrarian Fund,7953000,1.45,22,2892000,1.45,2.0,Q3 2025,5.45,Ultra-Low Price,stocks_under_$5,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+PAHGF,Pets at Home Group Plc,3.04,1,Tweedy Browne Co.,3718000,0.86,45,1396111,0.86,1.0,Q2 2025,3.86,Ultra-Low Price,stocks_under_$5,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+HTZ,Hertz Global Hldgs Inc.,4.54,1,Bill Ackman,78339000,0.5,33,15241127,0.5,1.0,Q2 2025,3.5,Ultra-Low Price,stocks_under_$5,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+IVVD,Invivyd Inc.,1.69,1,Lee Ainslie,46858000,0.5,37,18970913,0.5,1.0,Q3 2025,3.5,Ultra-Low Price,stocks_under_$5,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+COYA,Coya Therapeutics Inc,4.96,1,David Einhorn,11751000,0.41,18,2025940,0.41,1.0,Q4 2025,3.41,Ultra-Low Price,stocks_under_$5,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+SOPH,Sophia Genetics SA,4.5,1,Chuck Akre,17368000,0.19,57,3719140,0.19,2.0,Q4 2025,4.19,Ultra-Low Price,stocks_under_$5,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+SABR,Sabre Corp.,1.18,1,Terry Smith,29239000,0.17,53,21499095,0.17,1.0,Q2 2025,3.17,Ultra-Low Price,stocks_under_$5,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+PIFYF,Pine Cliff Energy Ltd,0.53,1,Kahn Brothers Group,307000,0.05,48,520000,0.05,1.0,Q2 2025,3.05,Ultra-Low Price,stocks_under_$5,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+TDUP,ThredUp Inc.,4.88,1,Lee Ainslie,4420000,0.05,60,691689,0.05,5.0,Q4 2025,7.05,Ultra-Low Price,stocks_under_$5,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+SKYX,Skyx Platforms Corp,1.93,1,David Katz,438000,0.04,55,201666,0.04,1.0,Q2 2025,3.04,Ultra-Low Price,stocks_under_$5,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+SSPPF,Ssp Group Plc,2.51,1,Thomas Russo,1829000,0.02,59,660000,0.02,1.0,Q3 2025,3.02,Ultra-Low Price,stocks_under_$5,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+ACCO,ACCO Brands Corp.,4.07,1,First Eagle Investment Management,3217000,0.01,2,862369,0.01,2.0,Q3 2025,4.01,Ultra-Low Price,stocks_under_$5,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BFLY,Butterfly Network Inc,3.79,1,Polen Capital Management,1797000,0.01,9,472971,0.01,2.0,Q4 2025,4.01,Ultra-Low Price,stocks_under_$5,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BTAI,Bioxcel Therapeutics Inc,1.67,1,Howard Marks,386000,0.01,12,241188,0.01,1.0,Q2 2025,3.01,Ultra-Low Price,stocks_under_$5,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+ABCL,AbCellera Biologics Inc.,3.61,1,Polen Capital Management,351000,0.0,0,102508,0.0,1.0,Q3 2025,3.0,Ultra-Low Price,stocks_under_$5,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+CCO,Clear Channel Outdoor Holdings,2.4,1,Polen Capital Management,212000,0.0,14,95912,0.0,1.0,Q4 2025,3.0,Ultra-Low Price,stocks_under_$5,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+ESPR,Esperion Therapeutics Inc.,3.35,1,Polen Capital Management,430000,0.0,23,116292,0.0,1.0,Q4 2025,3.0,Ultra-Low Price,stocks_under_$5,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+HLLY,Holley Inc,4.08,1,Polen Capital Management,318000,0.0,31,77032,0.0,3.0,Q4 2025,5.0,Ultra-Low Price,stocks_under_$5,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+IHRT,iHeartMedia Inc.,3.27,1,Polen Capital Management,647000,0.0,35,155516,0.0,2.0,Q4 2025,4.0,Ultra-Low Price,stocks_under_$5,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+INN,Summit Hotel Properties Inc.,4.51,1,Sarah Ketterer,72000,0.0,36,14838,0.0,1.0,Q2 2025,3.0,Ultra-Low Price,stocks_under_$5,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+PACB,Pacific Biosciences of California,1.68,1,Polen Capital Management,256000,0.0,44,137149,0.0,1.0,Q4 2025,3.0,Ultra-Low Price,stocks_under_$5,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+SCWO,374water Inc,2.59,1,David Katz,20000,0.0,54,10000,0.0,1.0,Q4 2025,3.0,Ultra-Low Price,stocks_under_$5,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3

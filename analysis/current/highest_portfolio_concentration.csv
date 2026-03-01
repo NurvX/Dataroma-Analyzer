@@ -1,101 +1,101 @@
 ticker,company_name,current_price,manager,total_value,portfolio_pct,risk_level,_analysis_type,_generated,_periods,_window_quarters
-CVNA,Carvana Co.,334.5,Clifford Sosin,1945597000,83.25,Extreme,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-JOE,St. Joe Co.,71.0,Bruce Berkowitz,1153112000,80.43,Extreme,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-AAPL,Apple Inc.,262.87,Duan Yongping,8796984000,50.3,Extreme,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-IEP,Icahn Enterprises,7.87,Carl Icahn,4147974000,49.12,Extreme,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-MOH,Molina Healthcare Inc.,154.85,Michael Burry,23920000,43.49,Extreme,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-HCC,Warrior Met Coal Inc.,85.79,Mohnish Pabrai,158691000,39.47,Extreme,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-LOAR,Loar Holdings Inc,65.97,David Abrams,2179416000,38.41,Extreme,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-JHG,Janus Henderson Group,50.24,Nelson Peltz,1515951000,38.05,Extreme,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-GPI,Group 1 Automotive,331.64,Greg Alexander,223561000,37.04,Extreme,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BRK.A,Berkshire Hathaway CL A,746450.19,Norbert Lou,109446000,36.38,Extreme,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BRK.B,Berkshire Hathaway CL B,497.32,Guy Spier - Aquamarine Capital,49059000,33.25,Extreme,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-EQH,Equitable Holdings Inc.,42.13,Greg Alexander,200130000,33.16,Extreme,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-AMZN,Amazon.com Inc.,204.92,AltaRock Partners,1688341000,33.1,Extreme,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-LULU,Lululemon Athletica Inc.,177.97,Michael Burry,17793000,32.35,Extreme,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BRK.A,Berkshire Hathaway CL A,747884.75,Francis Chou,64913000,32.21,Extreme,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-GE,GE Aerospace,342.99,Nelson Peltz,1241597000,31.16,Extreme,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CVNA,Carvana Co.,324.25,Robert Vinall,128042000,29.81,Very High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-FICO,Fair Isaac Corp.,1341.25,Valley Forge Capital Management,1300804000,29.49,Very High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-IBKR,Interactive Brokers Group Inc.,74.0,Bryan Lawrence,66287000,28.42,Very High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-RIG,Transocean Ltd.,6.78,Mohnish Pabrai,111676000,27.78,Very High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BRK.B,Berkshire Hathaway CL B,497.78,Bill & Melinda Gates Foundation Trust,9754810000,27.59,Very High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-GE,GE Aerospace,342.99,Chris Hohn,14634638000,27.28,Very High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-AMR,Alpha Metallurgical Resources Inc.,173.74,Mohnish Pabrai,108535000,27.0,Very High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CHTR,Charter Communications,225.65,Tom Bancroft,34235000,26.77,Very High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-TDG,TransDigm Group Inc.,1314.45,AltaRock Partners,1289157000,25.28,Very High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-VFC,V.F. Corp.,20.21,Glenn Welling,95942000,24.47,Very High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-SLM,SLM Corp.,21.17,Michael Burry,13288000,24.16,Very High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-YETI,YETI Holdings Inc.,47.58,Glenn Welling,89784000,22.9,Very High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-AAPL,Apple Inc.,262.87,Warren Buffett,61961735000,22.6,Very High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-GOOGL,Alphabet Inc.,317.1,Li Lu,796053000,22.31,Very High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-LAD,Lithia Motors Inc.,285.8,Greg Alexander,132932000,22.02,Very High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-GOOG,Alphabet Inc. CL C,317.17,Li Lu,769218000,21.55,Very High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-AMZN,Amazon.com Inc.,207.87,Josh Tarasoff,73005000,21.31,Very High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CVI,CVR Energy Inc.,20.8,Carl Icahn,1791446000,21.21,Very High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-META,Meta Platforms Inc.,649.42,Robert Vinall,89978000,20.95,Very High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-SPGI,S&P Global Inc.,417.38,Valley Forge Capital Management,918807000,20.83,Very High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-GRBK,Green Brick Partners,78.5,David Einhorn,593226000,20.82,Very High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BRK.B,Berkshire Hathaway CL B,497.78,Duan Yongping,3607115000,20.63,Very High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-AXP,American Express,343.88,Warren Buffett,56088379000,20.46,Very High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-ORLA,Orla Mining Ltd,18.99,Prem Watsa,423611000,20.33,Very High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-GM,General Motors,79.63,Greenhaven Associates,1234353000,20.01,Very High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-MSFT,Microsoft Corp.,389.54,AltaRock Partners,1007069000,19.75,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-MA,Mastercard Inc.,521.5,Valley Forge Capital Management,849132000,19.25,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BN,Brookfield Corp.,45.85,Josh Tarasoff,64864000,18.93,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-SGOV,Ishares 0 3 Month Treasury B,100.59,Norbert Lou,56815000,18.88,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-MA,Mastercard Inc.,508.4,Chuck Akre,1715654000,18.81,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-AXTA,Axalta Coating Systems Ltd.,34.5,Alex Roepers,33085000,18.63,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-GIL,Gildan Activewear Inc.,71.56,Bryan Lawrence,42578000,18.25,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-RYCEF,Rolls Royce Holdings plc,17.8,Ruane Cunniff,670673000,18.19,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BN,Brookfield Corp.,45.85,Bill Ackman,2817788000,18.15,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-V,Visa Inc.,318.31,Chris Hohn,9723166000,18.12,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-C,Citigroup Inc.,111.69,Kahn Brothers Group,102253000,18.11,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-WM,Waste Management Inc.,230.21,Bill & Melinda Gates Foundation Trust,6357165000,17.98,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-ASML,ASML Holding NV,1469.28,Pat Dorsey,205780000,17.89,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-MSFT,Microsoft Corp.,389.54,Triple Frond Partners,170478000,17.72,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CROX,Crocs Inc.,99.4,Norbert Lou,50848000,16.9,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-LEN,Lennar Corp.,113.93,Greenhaven Associates,1037678000,16.82,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-GOOGL,Alphabet Inc.,316.33,Lindsell Train,653731000,16.58,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-DHR,Danaher Corp.,208.99,Pat Dorsey,189436000,16.47,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-SOLV,Solventum Corp,73.0,Nelson Peltz,652680000,16.38,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-AXP,American Express,324.06,Guy Spier - Aquamarine Capital,24047000,16.3,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BAC,Bank of America Corp.,52.8,Li Lu,573726000,16.08,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-UBER,Uber Technologies Inc.,73.0,Bill Ackman,2468274000,15.9,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-GOOG,Alphabet Inc. CL C,317.17,Bryan Lawrence,37079000,15.9,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-PDD,Pinduoduo Inc.,108.0,Norbert Lou,47057000,15.64,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-MA,Mastercard Inc.,508.4,Guy Spier - Aquamarine Capital,22835000,15.48,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BRK.A,Berkshire Hathaway CL A,747884.75,Guy Spier - Aquamarine Capital,22644000,15.35,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BL,BlackLine Inc.,35.76,Glenn Welling,59913000,15.28,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-MCO,Moody's Corp.,445.8,Valley Forge Capital Management,672939000,15.25,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-AER,AerCap Holdings N.V.,151.18,Pat Dorsey,174677000,15.18,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-MSFT,Microsoft Corp.,395.14,Chris Hohn,8116088000,15.13,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-TKO,TKO Group Holdings Inc.,205.72,Lindsell Train,589423000,14.95,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-AMZN,Amazon.com Inc.,204.92,John Armitage,1360106000,14.78,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BRK.A,Berkshire Hathaway CL A,746450.19,Josh Tarasoff,50572000,14.76,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-PDD,Pinduoduo Inc.,108.0,Li Lu,522501000,14.64,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-LAD,Lithia Motors Inc.,285.8,David Abrams,827679000,14.59,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CNI,Canadian Natl Railway Co.,110.16,Bill & Melinda Gates Foundation Trust,5123078000,14.49,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BRK.B,Berkshire Hathaway CL B,497.78,Christopher Bloomstran,125266000,14.41,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-OKTA,Okta Inc.,71.45,Dennis Hong,76391000,14.38,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-MKL,Markel Group Inc.,2080.25,Josh Tarasoff,49238000,14.37,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-TDG,TransDigm Group Inc.,1314.45,Triple Frond Partners,138163000,14.36,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CCL,Carnival Corp.,30.54,Sarah Ketterer,1036674000,14.32,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-AMZN,Amazon.com Inc.,207.87,Bill Ackman,2217678000,14.28,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-DG,Dollar General,150.1,Christopher Bloomstran,122939000,14.14,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-KEX,Kirby Corp.,130.96,Alex Roepers,24570000,13.83,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-TDG,TransDigm Group Inc.,1337.97,Bryan Lawrence,32142000,13.78,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-FOUR,Shift4 Payments Inc. CL A,57.54,Dennis Hong,72344000,13.62,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BN,Brookfield Corp.,44.73,Chuck Akre,1231854000,13.51,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-RKT,Rocket Companies Inc.,17.87,Leon Cooperman,406881000,13.5,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CACC,Credit Acceptance Corp.,476.33,Robert Vinall,57841000,13.47,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-GOOG,Alphabet Inc. CL C,316.39,Thomas Russo,1233610000,13.32,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BAYRY,Bayer Ag Sponsored ADR,13.28,Kahn Brothers Group,73082000,12.94,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CP,Canadian Pacific Kansas City,85.52,Sarah Ketterer,928557000,12.82,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-MCO,Moody's Corp.,445.8,Chris Hohn,6798636000,12.67,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BRK.B,Berkshire Hathaway CL B,497.78,Li Lu,451254000,12.64,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-V,Visa Inc.,311.96,John Armitage,1147172000,12.47,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-GOOG,Alphabet Inc. CL C,317.17,Bill Ackman,1934223000,12.46,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-EXE,Expand Energy Corp.,108.2,Howard Marks,558682000,12.31,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-TOL,Toll Brothers,157.58,Greenhaven Associates,757663000,12.28,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-FLS,Flowserve Corp.,88.7,Alex Roepers,21785000,12.26,High,highest_portfolio_concentration,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+CVNA,Carvana Co.,334.16,Clifford Sosin,1945597000,83.25,Extreme,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+JOE,St. Joe Co.,72.17,Bruce Berkowitz,1153112000,80.43,Extreme,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+AAPL,Apple Inc.,264.18,Duan Yongping,8796984000,50.3,Extreme,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+IEP,Icahn Enterprises,8.06,Carl Icahn,4147974000,49.12,Extreme,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+MOH,Molina Healthcare Inc.,154.05,Michael Burry,23920000,43.49,Extreme,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+HCC,Warrior Met Coal Inc.,83.24,Mohnish Pabrai,158691000,39.47,Extreme,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+LOAR,Loar Holdings Inc,70.79,David Abrams,2179416000,38.41,Extreme,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+JHG,Janus Henderson Group,52.1,Nelson Peltz,1515951000,38.05,Extreme,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+GPI,Group 1 Automotive,325.74,Greg Alexander,223561000,37.04,Extreme,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BRK.A,Berkshire Hathaway CL A,757000.0,Norbert Lou,109446000,36.38,Extreme,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BRK.B,Berkshire Hathaway CL B,504.95,Guy Spier - Aquamarine Capital,49059000,33.25,Extreme,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+EQH,Equitable Holdings Inc.,40.22,Greg Alexander,200130000,33.16,Extreme,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+AMZN,Amazon.com Inc.,210.0,AltaRock Partners,1688341000,33.1,Extreme,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+LULU,Lululemon Athletica Inc.,185.17,Michael Burry,17793000,32.35,Extreme,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BRK.A,Berkshire Hathaway CL A,757000.0,Francis Chou,64913000,32.21,Extreme,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+GE,GE Aerospace,342.26,Nelson Peltz,1241597000,31.16,Extreme,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+CVNA,Carvana Co.,334.16,Robert Vinall,128042000,29.81,Very High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+FICO,Fair Isaac Corp.,1409.36,Valley Forge Capital Management,1300804000,29.49,Very High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+IBKR,Interactive Brokers Group Inc.,71.19,Bryan Lawrence,66287000,28.42,Very High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+RIG,Transocean Ltd.,6.48,Mohnish Pabrai,111676000,27.78,Very High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BRK.B,Berkshire Hathaway CL B,504.95,Bill & Melinda Gates Foundation Trust,9754810000,27.59,Very High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+GE,GE Aerospace,342.26,Chris Hohn,14634638000,27.28,Very High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+AMR,Alpha Metallurgical Resources Inc.,162.65,Mohnish Pabrai,108535000,27.0,Very High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+CHTR,Charter Communications,234.63,Tom Bancroft,34235000,26.77,Very High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+TDG,TransDigm Group Inc.,1302.79,AltaRock Partners,1289157000,25.28,Very High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+VFC,V.F. Corp.,19.42,Glenn Welling,95942000,24.47,Very High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+SLM,SLM Corp.,18.74,Michael Burry,13288000,24.16,Very High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+YETI,YETI Holdings Inc.,43.71,Glenn Welling,89784000,22.9,Very High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+AAPL,Apple Inc.,264.18,Warren Buffett,61961735000,22.6,Very High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+GOOGL,Alphabet Inc.,311.76,Li Lu,796053000,22.31,Very High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+LAD,Lithia Motors Inc.,279.58,Greg Alexander,132932000,22.02,Very High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+GOOG,Alphabet Inc. CL C,311.43,Li Lu,769218000,21.55,Very High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+AMZN,Amazon.com Inc.,210.0,Josh Tarasoff,73005000,21.31,Very High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+CVI,CVR Energy Inc.,24.16,Carl Icahn,1791446000,21.21,Very High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+META,Meta Platforms Inc.,648.18,Robert Vinall,89978000,20.95,Very High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+SPGI,S&P Global Inc.,441.88,Valley Forge Capital Management,918807000,20.83,Very High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+GRBK,Green Brick Partners,73.66,David Einhorn,593226000,20.82,Very High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BRK.B,Berkshire Hathaway CL B,504.95,Duan Yongping,3607115000,20.63,Very High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+AXP,American Express,308.9,Warren Buffett,56088379000,20.46,Very High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+ORLA,Orla Mining Ltd,21.62,Prem Watsa,423611000,20.33,Very High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+GM,General Motors,78.71,Greenhaven Associates,1234353000,20.01,Very High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+MSFT,Microsoft Corp.,392.74,AltaRock Partners,1007069000,19.75,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+MA,Mastercard Inc.,517.21,Valley Forge Capital Management,849132000,19.25,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BN,Brookfield Corp.,43.84,Josh Tarasoff,64864000,18.93,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+SGOV,Ishares 0 3 Month Treasury B,100.64,Norbert Lou,56815000,18.88,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+MA,Mastercard Inc.,517.21,Chuck Akre,1715654000,18.81,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+AXTA,Axalta Coating Systems Ltd.,33.41,Alex Roepers,33085000,18.63,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+GIL,Gildan Activewear Inc.,68.09,Bryan Lawrence,42578000,18.25,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BN,Brookfield Corp.,43.84,Bill Ackman,2817788000,18.15,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+V,Visa Inc.,320.14,Chris Hohn,9723166000,18.12,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+C,Citigroup Inc.,110.19,Kahn Brothers Group,102253000,18.11,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+WM,Waste Management Inc.,240.84,Bill & Melinda Gates Foundation Trust,6357165000,17.98,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+ASML,ASML Holding NV,1450.56,Pat Dorsey,205780000,17.89,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+MSFT,Microsoft Corp.,392.74,Triple Frond Partners,170478000,17.72,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+CROX,Crocs Inc.,90.71,Norbert Lou,50848000,16.9,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+LEN,Lennar Corp.,114.36,Greenhaven Associates,1037678000,16.82,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+GOOGL,Alphabet Inc.,311.76,Lindsell Train,653731000,16.58,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+DHR,Danaher Corp.,210.64,Pat Dorsey,189436000,16.47,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+SOLV,Solventum Corp,74.2,Nelson Peltz,652680000,16.38,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+AXP,American Express,308.9,Guy Spier - Aquamarine Capital,24047000,16.3,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BAC,Bank of America Corp.,49.83,Li Lu,573726000,16.08,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+UBER,Uber Technologies Inc.,75.42,Bill Ackman,2468274000,15.9,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+GOOG,Alphabet Inc. CL C,311.43,Bryan Lawrence,37079000,15.9,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+PDD,Pinduoduo Inc.,103.73,Norbert Lou,47057000,15.64,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+MA,Mastercard Inc.,517.21,Guy Spier - Aquamarine Capital,22835000,15.48,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BRK.A,Berkshire Hathaway CL A,757000.0,Guy Spier - Aquamarine Capital,22644000,15.35,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BL,BlackLine Inc.,35.25,Glenn Welling,59913000,15.28,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+MCO,Moody's Corp.,477.59,Valley Forge Capital Management,672939000,15.25,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+AER,AerCap Holdings N.V.,149.44,Pat Dorsey,174677000,15.18,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+MSFT,Microsoft Corp.,392.74,Chris Hohn,8116088000,15.13,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+TKO,TKO Group Holdings Inc.,223.87,Lindsell Train,589423000,14.95,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+AMZN,Amazon.com Inc.,210.0,John Armitage,1360106000,14.78,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BRK.A,Berkshire Hathaway CL A,757000.0,Josh Tarasoff,50572000,14.76,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+PDD,Pinduoduo Inc.,103.73,Li Lu,522501000,14.64,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+LAD,Lithia Motors Inc.,279.58,David Abrams,827679000,14.59,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+CNI,Canadian Natl Railway Co.,112.19,Bill & Melinda Gates Foundation Trust,5123078000,14.49,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BRK.B,Berkshire Hathaway CL B,504.95,Christopher Bloomstran,125266000,14.41,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+OKTA,Okta Inc.,72.5,Dennis Hong,76391000,14.38,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+MKL,Markel Group Inc.,2072.47,Josh Tarasoff,49238000,14.37,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+TDG,TransDigm Group Inc.,1302.79,Triple Frond Partners,138163000,14.36,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+CCL,Carnival Corp.,31.55,Sarah Ketterer,1036674000,14.32,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+AMZN,Amazon.com Inc.,210.0,Bill Ackman,2217678000,14.28,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+DG,Dollar General,156.24,Christopher Bloomstran,122939000,14.14,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+KEX,Kirby Corp.,129.8,Alex Roepers,24570000,13.83,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+TDG,TransDigm Group Inc.,1302.79,Bryan Lawrence,32142000,13.78,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+FOUR,Shift4 Payments Inc. CL A,44.07,Dennis Hong,72344000,13.62,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BN,Brookfield Corp.,43.84,Chuck Akre,1231854000,13.51,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+RKT,Rocket Companies Inc.,18.19,Leon Cooperman,406881000,13.5,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+CACC,Credit Acceptance Corp.,473.18,Robert Vinall,57841000,13.47,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+GOOG,Alphabet Inc. CL C,311.43,Thomas Russo,1233610000,13.32,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BAYRY,Bayer Ag Sponsored ADR,12.3,Kahn Brothers Group,73082000,12.94,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+RYCEF,Rolls Royce Holdings plc,18.4,Ruane Cunniff,470883000,12.93,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+CP,Canadian Pacific Kansas City,87.59,Sarah Ketterer,928557000,12.82,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+MCO,Moody's Corp.,477.59,Chris Hohn,6798636000,12.67,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BRK.B,Berkshire Hathaway CL B,504.95,Li Lu,451254000,12.64,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+V,Visa Inc.,320.14,John Armitage,1147172000,12.47,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+GOOG,Alphabet Inc. CL C,311.43,Bill Ackman,1934223000,12.46,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+EXE,Expand Energy Corp.,107.92,Howard Marks,558682000,12.31,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+TOL,Toll Brothers,157.24,Greenhaven Associates,757663000,12.28,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+FLS,Flowserve Corp.,88.52,Alex Roepers,21785000,12.26,High,highest_portfolio_concentration,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3

@@ -1,201 +1,201 @@
 ticker,company_name,top_managers,managers_shown,manager_count,trend,momentum,buys,adds,reduces,sells,recent_activity,_analysis_type,_generated,_periods,_window_quarters
-MSFT,Microsoft Corp.,"Terry Smith, Stephen Mandel, Chris Hohn",3,43,Slight Distribute,-19.9,27,201,324,17,117,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-META,Meta Platforms Inc.,"Pat Dorsey, David Rolfe, Stephen Mandel",3,44,Slight Distribute,-16.5,38,193,286,36,102,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-GOOGL,Alphabet Inc.,"David Rolfe, Glenn Greenberg, Bill Nygren",3,43,Distributing,-25.6,39,147,284,30,97,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-AMZN,Amazon.com Inc.,"Stephen Mandel, David Tepper, John Armitage",3,43,Slight Distribute,-5.8,40,154,192,26,87,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-GOOG,Alphabet Inc. CL C,"Pat Dorsey, David Tepper, John Armitage",3,40,Distributing,-32.2,20,153,321,16,87,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-V,Visa Inc.,"David Rolfe, Terry Smith, AKO Capital",3,32,Slight Distribute,-15.1,17,146,210,11,70,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-UNH,United Health Group Inc.,"Stephen Mandel, Mairs & Power Growth Fund, David Tepper",3,31,Slight Distribute,-19.4,25,87,144,22,66,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-TSM,Taiwan Semiconductor S.A.,"William Von Mueffling, David Rolfe, Francois Rochon",3,24,Slight Distribute,-7.2,21,69,98,6,62,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-COF,Capital One Financial,"Bill Nygren, Richard Pzena, Harry Burn",3,22,Distributing,-24.6,17,61,123,6,55,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BRK.B,Berkshire Hathaway CL B,"Bill & Melinda Gates Foundation Trust, Ruane Cunniff, Chuck Akre",3,30,Distributing,-29.3,15,150,285,17,54,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-DIS,Walt Disney Co.,"Lindsell Train, Christopher Bloomstran, Francois Rochon",3,32,Slight Distribute,-7.7,22,104,126,21,53,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-AAPL,Apple Inc.,"David Rolfe, Warren Buffett, Francois Rochon",3,31,Slight Distribute,-15.7,21,86,132,15,53,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-NVDA,NVIDIA Corp.,"Mairs & Power Growth Fund, David Tepper, David Katz",3,19,Slight Accumulate,5.8,20,44,48,9,50,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-INTU,Intuit Inc.,"Lindsell Train, Terry Smith, Jensen Investment Management",3,16,Slight Distribute,-20.0,11,53,87,9,45,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BAC,Bank of America Corp.,"Bill Nygren, Richard Pzena, Francois Rochon",3,29,Distributing,-22.5,20,85,143,23,43,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-WFC,Wells Fargo,"Warren Buffett, Richard Pzena, Mairs & Power Growth Fund",3,29,Distributing,-36.9,20,75,185,21,42,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-MA,Mastercard Inc.,"Chuck Akre, John Armitage, Bill Nygren",3,28,Distributing,-27.2,17,101,187,19,40,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-FISV,Fiserv Inc.,"John Armitage, Samantha McLemore, Mairs & Power Growth Fund",3,24,Slight Distribute,-14.6,20,59,86,20,39,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-SCHW,Charles Schwab Corp.,"Glenn Greenberg, Francois Rochon, John Rogers",3,16,Slight Distribute,-8.3,11,94,117,7,37,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-FLUT,Flutter Entertainment Plc,"William Von Mueffling, John Armitage, Daniel Loeb",3,11,Slight Accumulate,17.0,10,21,16,6,36,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BKNG,Booking Holdings Inc.,"David Rolfe, AKO Capital, Stephen Mandel",3,21,Distributing,-25.5,23,50,102,21,35,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-JPM,JPMorgan Chase & Co.,"Glenn Greenberg, Francois Rochon, Bill Nygren",3,23,Distributing,-32.6,9,79,161,12,35,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-ORCL,Oracle Corp.,"Charles Bobrinskoy, Harry Burn, Bill Nygren",3,22,Distributing,-32.6,13,49,108,14,35,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-TMO,Thermo Fisher Scientific,"William Von Mueffling, AKO Capital, Thomas Gayner",3,20,Slight Distribute,-16.2,15,47,72,14,33,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-FERG,Ferguson Enterprises Inc.,"Nelson Peltz, William Von Mueffling, Francois Rochon",3,15,Slight Accumulate,9.3,14,33,32,7,32,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-TXN,Texas Instruments,"Jensen Investment Management, David Katz, Bill Nygren",3,11,Slight Accumulate,4.8,6,38,35,5,31,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CP,Canadian Pacific Kansas City,"John Armitage, Bill Ackman, Chris Hohn",3,14,Slight Accumulate,8.3,11,48,42,8,30,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-C,Citigroup Inc.,"Richard Pzena, Kahn Brothers Group, Greenhaven Associates",3,25,Distributing,-20.3,16,84,129,22,30,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-PEP,PepsiCo Inc.,"Lindsell Train, Terry Smith, Yacktman Asset Management",3,17,Distributing,-28.9,10,38,79,8,30,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-UBER,Uber Technologies Inc.,"David Tepper, Chase Coleman, Samantha McLemore",3,17,Slight Accumulate,10.2,15,50,44,9,29,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-ADBE,Adobe Inc.,"Stephen Mandel, William Von Mueffling, David Tepper",3,25,Slight Distribute,-4.7,20,62,70,20,29,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CMCSA,Comcast Corp.,"Steven Romick, Thomas Russo, Kahn Brothers Group",3,25,Slight Distribute,-13.7,16,69,94,18,28,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-AVGO,Broadcom Inc.,"Steven Romick, William Von Mueffling, Torray Funds",3,12,Distributing,-38.8,13,17,62,6,28,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-ASML,ASML Holding NV,"Stephen Mandel, Hillman Value Fund, David Tepper",3,10,Slight Accumulate,8.3,11,15,19,3,27,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CRM,Salesforce.com,"Stephen Mandel, Josh Tarasoff, Robert Vinall",3,19,Slight Accumulate,4.6,23,45,45,17,27,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-EFX,Equifax Inc.,"William Von Mueffling, Terry Smith, AKO Capital",3,15,Slight Accumulate,3.0,13,55,56,8,27,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-NKE,NIKE Inc.,"Christopher Bloomstran, Terry Smith, AKO Capital",3,14,Slight Accumulate,2.5,12,50,47,12,27,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-MCO,Moody's Corp.,"Chuck Akre, AKO Capital, William Von Mueffling",3,18,Slight Distribute,-7.0,6,101,117,6,27,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-PYPL,PayPal Holdings Inc.,"David Rolfe, Pat Dorsey, Lindsell Train",3,21,Slight Distribute,-17.6,14,63,92,18,27,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-PDD,Pinduoduo Inc.,"David Tepper, Chase Coleman, Duan Yongping",3,10,Slight Accumulate,1.5,12,21,23,9,26,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-LPLA,LPL Financial Holdings Inc.,"Steven Romick, Stephen Mandel, Thomas Gayner",3,12,Slight Distribute,-4.8,11,29,39,5,26,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-AON,Aon Plc,"William Von Mueffling, Steven Romick, Thomas Gayner",3,15,Slight Distribute,-9.2,10,54,69,8,26,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-PG,Procter & Gamble,"AKO Capital, Terry Smith, Nelson Peltz",3,14,Distributing,-25.6,10,48,89,9,26,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-PM,Philip Morris Intl.,"Terry Smith, Thomas Russo, Viking Global Investors",3,10,Distributing,-39.3,5,22,58,4,26,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CSGP,CoStar Group Inc.,"Chuck Akre, Daniel Loeb, Wallace Weitz",3,8,Accumulating,24.1,9,27,19,3,25,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-SE,Sea Ltd,"Dennis Hong, Chase Coleman, Stephen Mandel",3,12,Slight Accumulate,10.3,10,33,28,7,25,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CVS,CVS Health Corp.,"Dodge & Cox, Robert Olstein, Hillman Value Fund",3,17,Slight Accumulate,1.7,16,45,45,14,25,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-SBUX,Starbucks Corp.,"Christopher Bloomstran, David Rolfe, Hillman Value Fund",3,15,Slight Distribute,-6.6,9,55,62,11,25,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-ADI,Analog Devices,"Steven Romick, William Von Mueffling, Francois Rochon",3,10,Slight Distribute,-14.5,6,47,68,3,25,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-ZBH,Zimmer Biomet Holdings,"Charles Bobrinskoy, John Rogers, Dodge & Cox",3,11,Slight Distribute,-16.7,4,46,65,5,25,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CVNA,Carvana Co.,"Clifford Sosin, Robert Vinall, Stephen Mandel",3,13,Neutral,0.0,13,33,37,9,24,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-ZTS,Zoetis Inc.,"AKO Capital, William Von Mueffling, Terry Smith",3,9,Slight Distribute,-7.8,7,40,50,5,24,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-DHR,Danaher Corp.,"Daniel Loeb, Chuck Akre, Viking Global Investors",3,13,Slight Distribute,-10.3,10,29,39,9,24,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CHTR,Charter Communications,"Warren Buffett, Bill Nygren, Chris Hohn",3,19,Slight Distribute,-12.7,14,75,103,12,24,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-LLY,Eli Lilly & Co.,"Mairs & Power Growth Fund, Chase Coleman, Viking Global Investors",3,13,Slight Accumulate,6.7,11,21,19,9,23,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BABA,Alibaba Group Holdings,"David Tepper, Samantha McLemore, Duan Yongping",3,29,Slight Distribute,-1.6,26,67,67,29,23,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-ICE,Intercontinental Exchange Inc.,"William Von Mueffling, AKO Capital, Francois Rochon",3,10,Slight Distribute,-1.9,10,41,47,6,23,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-XOM,Exxon Mobil Corp.,"Christopher Bloomstran, Kahn Brothers Group, Charles Bobrinskoy",3,15,Slight Distribute,-2.4,11,69,69,15,23,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BN,Brookfield Corp.,"Chuck Akre, Josh Tarasoff, Third Avenue Management",3,15,Slight Distribute,-7.8,11,48,62,7,23,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-USB,U.S. Bancorp,"Warren Buffett, David Rolfe, Mairs & Power Growth Fund",3,14,Slight Distribute,-8.3,6,60,68,10,23,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-GS,Goldman Sachs Group,"Charles Bobrinskoy, Greenhaven Associates, John Rogers",3,20,Distributing,-34.6,11,56,121,17,23,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-AXP,American Express,"Christopher Bloomstran, Thomas Russo, Hillman Value Fund",3,25,Distributing,-55.6,10,20,89,16,23,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-ICLR,ICON plc,"Glenn Greenberg, Steven Romick, Polen Capital Management",3,10,Slight Accumulate,13.3,9,8,7,6,22,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CPRT,Copart Inc.,"David Rolfe, AKO Capital, Jensen Investment Management",3,8,Slight Distribute,-9.9,5,27,38,1,22,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-PFE,Pfizer Inc.,"Kahn Brothers Group, Hillman Value Fund, Harry Burn",3,14,Slight Distribute,-11.3,14,49,64,15,22,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-SPGI,S&P Global Inc.,"William Von Mueffling, David Rolfe, Chris Hohn",3,15,Slight Distribute,-14.3,10,47,67,9,22,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-GM,General Motors,"Greenhaven Associates, Warren Buffett, Harry Burn",3,17,Slight Accumulate,2.7,13,62,58,13,21,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-AMAT,Applied Materials,"William Von Mueffling, Harry Burn, Christopher Davis",3,13,Distributing,-21.4,14,19,43,8,21,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-WTW,Willis Towers Watson plc,"Seth Klarman, William Von Mueffling, ValueAct Capital",3,16,Distributing,-24.1,11,30,58,9,21,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-JNJ,Johnson & Johnson,"Terry Smith, Charles Bobrinskoy, Yacktman Asset Management",3,17,Distributing,-34.9,5,50,106,8,21,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-TSN,Tyson Foods,"Yacktman Asset Management, Thomas Gayner, David Katz",3,7,Accumulating,39.4,4,42,18,2,20,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-UNP,Union Pacific,"Chris Hohn, Thomas Russo, Torray Funds",3,13,Accumulating,39.1,9,55,18,10,20,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-ENTG,Entegris Inc.,"William Von Mueffling, Torray Funds, Mairs & Power Growth Fund",3,7,Accumulating,31.2,5,37,20,2,20,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-WCC,WESCO International Inc.,"Alex Roepers, Robert Olstein, Christopher Davis",3,9,Accumulating,28.8,6,32,16,5,20,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-SHW,Sherwin-Williams,"Torray Funds, Mairs & Power Growth Fund, Viking Global Investors",3,9,Slight Accumulate,5.7,7,21,22,3,20,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-HD,Home Depot,"Terry Smith, Jensen Investment Management, Torray Funds",3,12,Neutral,0.0,4,38,34,8,20,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BMY,Bristol-Myers Squibb,"Kahn Brothers Group, Hillman Value Fund, David Rolfe",3,17,Distributing,-24.0,13,36,66,14,20,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-ACN,Accenture,"AKO Capital, Jensen Investment Management, Wallace Weitz",3,10,Distributing,-27.0,3,20,35,5,20,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-RTX,RTX Corp.,"Mason Hawkins, Dodge & Cox, Robert Olstein",3,14,Distributing,-27.3,11,25,53,10,20,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CBRE,CBRE Group,"Bill Nygren, ValueAct Capital, William Von Mueffling",3,8,Distributing,-30.0,5,51,100,4,20,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BAX,Baxter International Inc.,"Robert Olstein, Richard Pzena, Mairs & Power Growth Fund",3,10,Slight Accumulate,4.9,6,26,24,5,19,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-FDX,FedEx Corp.,"Mason Hawkins, Thomas Gayner, Dodge & Cox",3,16,Slight Accumulate,3.6,12,60,56,11,19,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-KMX,CarMax Inc.,"Chuck Akre, Francois Rochon, John Rogers",3,15,Slight Accumulate,1.2,9,72,68,11,19,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-LEN,Lennar Corp.,"Greenhaven Associates, Glenn Greenberg, Harry Burn",3,10,Slight Distribute,-11.8,7,38,50,7,19,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-VRSK,Verisk Analytics Inc.,"Chuck Akre, Terry Smith, Jensen Investment Management",3,12,Slight Distribute,-12.2,7,54,71,7,19,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-FICO,Fair Isaac Corp.,"AKO Capital, Valley Forge Capital Management, Lindsell Train",3,8,Slight Distribute,-19.4,6,23,41,2,19,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-AMT,American Tower Corp.,"Chuck Akre, William Von Mueffling, Torray Funds",3,7,Slight Distribute,-20.0,2,42,62,4,19,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CSCO,Cisco Systems,"Yacktman Asset Management, Dodge & Cox, Tweedy Browne Co.",3,14,Distributing,-25.5,9,26,48,11,19,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-WRBY,Warby Parker Inc.,"Henry Ellenbogen, Chase Coleman, Lee Ainslie",3,6,Distributing,-27.3,3,9,18,3,19,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-KO,Coca Cola Co.,"Yacktman Asset Management, Jensen Investment Management, Thomas Russo",3,9,Distributing,-44.1,3,16,46,3,19,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CRH,CRH plc,"Greenhaven Associates, Seth Klarman, John Armitage",3,6,Slight Accumulate,7.0,4,19,19,1,18,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-FIS,Fidelity National Information Services,"William Von Mueffling, Seth Klarman, Dodge & Cox",3,10,Slight Distribute,-1.2,9,33,36,7,18,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-APP,Applovin Corp.,"Chase Coleman, Stephen Mandel, Viking Global Investors",3,6,Slight Distribute,-3.2,8,7,12,4,18,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-GNRC,Generac Holdings Inc.,"Mairs & Power Growth Fund, John Rogers, Charles Bobrinskoy",3,9,Slight Distribute,-5.9,7,17,21,6,18,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BK,Bank of New York Mellon Corp.,"Warren Buffett, Nelson Peltz, Yacktman Asset Management",3,12,Distributing,-21.0,5,57,88,7,18,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-QCOM,QUALCOMM Inc.,"David Tepper, Mairs & Power Growth Fund, David Rolfe",3,11,Distributing,-21.4,9,24,41,10,18,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-JD,JD.com Inc.,"Chase Coleman, Michael Burry, David Tepper",3,14,Distributing,-22.4,11,27,47,13,18,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-DHI,D.R. Horton,"Greenhaven Associates, Glenn Greenberg, John Armitage",3,11,Distributing,-26.7,11,26,55,9,18,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BRK.A,Berkshire Hathaway CL A,"Ruane Cunniff, Bruce Berkowitz, Christopher Bloomstran",3,16,Distributing,-54.7,6,28,108,8,18,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CCC,CCC Intelligent Solutions Hldgs Inc.,"Chuck Akre, Torray Funds, Triple Frond Partners",3,6,Accumulating,52.0,5,14,3,3,17,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-IAC,IAC Inc.,"Dennis Hong, Mason Hawkins, Samantha McLemore",3,11,Accumulating,24.4,6,50,26,8,17,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-MRSH,Marsh,"Thomas Gayner, Jensen Investment Management, AKO Capital",3,10,Accumulating,21.2,4,36,21,5,17,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-IFF,International Flavors & Fragrances Inc.,"Steven Romick, Robert Olstein, Daniel Loeb",3,13,Slight Accumulate,16.2,10,33,23,8,17,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-DG,Dollar General,"Christopher Bloomstran, Thomas Gayner, Pat Dorsey",3,13,Slight Accumulate,13.0,13,39,30,10,17,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-MELI,Mercadolibre Inc.,"Stephen Mandel, Terry Smith, Henry Ellenbogen",3,9,Slight Accumulate,10.5,7,14,11,6,17,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-MDT,Medtronic plc,"Mairs & Power Growth Fund, Bill Nygren, David Katz",3,10,Slight Accumulate,7.7,3,39,32,4,17,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-LYV,Live Nation Inc.,"William Von Mueffling, Chuck Akre, Daniel Loeb",3,10,Slight Accumulate,1.9,11,16,20,6,17,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-PGR,Progressive Corp.,"Francois Rochon, John Rogers, Charles Bobrinskoy",3,14,Slight Distribute,-10.8,9,49,62,10,17,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-ELV,Elevance Health Inc.,"Glenn Greenberg, Yacktman Asset Management, Harry Burn",3,14,Slight Distribute,-11.5,10,36,49,9,17,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-RKT,Rocket Companies Inc.,"Christopher Davis, Samantha McLemore, ValueAct Capital",3,8,Slight Distribute,-12.2,6,12,19,4,17,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-DAL,Delta Air Lines Inc.,"Samantha McLemore, Robert Olstein, Warren Buffett",3,10,Slight Distribute,-12.9,5,22,30,5,17,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-NFLX,Netflix Inc.,"Josh Tarasoff, Thomas Russo, Steven Romick",3,15,Distributing,-22.0,17,31,57,18,17,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-TEVA,Teva Pharmaceutical Industries Ltd.,"Bill Miller, David Abrams, Harry Burn",3,12,Distributing,-24.7,8,21,37,11,17,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-VST,Vistra Corp.,"Harry Burn, Daniel Loeb, David Tepper",3,8,Distributing,-33.3,8,13,35,7,17,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-FTV,Fortive Corp.,"Viking Global Investors, Robert Olstein, Dodge & Cox",3,7,Accumulating,33.3,4,16,7,3,16,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-ABNB,Airbnb Inc.,"Thomas Gayner, Lee Ainslie, Chuck Akre",3,8,Accumulating,28.6,8,10,6,4,16,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-B,Barrick Mining Corp.,"Charles Bobrinskoy, Harry Burn, Howard Marks",3,6,Slight Accumulate,9.1,6,18,18,2,16,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-TLN,Talen Energy Corp,"Howard Marks, Daniel Loeb, Stephen Mandel",3,5,Slight Accumulate,4.8,5,6,9,1,16,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-DB,Deutsche Bank AG,"Third Avenue Management, Viking Global Investors, David Tepper",3,6,Slight Accumulate,3.2,9,7,10,5,16,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-WBD,Warner Bros. Discovery Inc.,"Bill Nygren, Yacktman Asset Management, Hillman Value Fund",3,13,Slight Distribute,-2.0,17,33,39,13,16,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-NU,Nu Holdings Ltd,"Chase Coleman, Polen Capital Management, Warren Buffett",3,7,Slight Distribute,-9.7,6,8,15,2,16,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-PNC,PNC Financial Services,"David Katz, Christopher Davis, Thomas Russo",3,10,Distributing,-22.0,4,19,31,5,16,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-IDXX,IDEXX Laboratories,"Terry Smith, Ruane Cunniff, Jensen Investment Management",3,7,Distributing,-42.0,4,16,46,3,16,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CTSH,Cognizant Technology Solutions,"Richard Pzena, Yacktman Asset Management, Jensen Investment Management",3,6,Distributing,-42.1,2,20,53,1,16,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-TEL,TE Connectivity plc,"Bill Nygren, Steven Romick, Dodge & Cox",3,8,Distributing,-66.3,3,12,71,3,16,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-LULU,Lululemon Athletica Inc.,"Francois Rochon, Viking Global Investors, Lee Ainslie",3,6,Accumulating,26.7,4,15,9,2,15,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-DASH,DoorDash Inc.,"Chase Coleman, Viking Global Investors, Stephen Mandel",3,7,Accumulating,21.7,10,18,13,5,15,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-FND,Floor & Decor Holdings,"Francois Rochon, Stephen Mandel, Henry Ellenbogen",3,7,Slight Accumulate,17.9,8,15,9,7,15,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-MCD,McDonald's Corp.,"Bill & Melinda Gates Foundation Trust, David Katz, Thomas Russo",3,13,Slight Accumulate,16.7,10,32,20,10,15,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-DEO,Diageo ADR,"Tweedy Browne Co., Sarah Ketterer, AKO Capital",3,9,Slight Accumulate,12.0,4,24,20,2,15,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-TSLA,Tesla Inc.,"David Katz, Viking Global Investors, Josh Tarasoff",3,8,Slight Accumulate,5.9,11,7,9,7,15,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-WIX,Wix.com Ltd.,"Pat Dorsey, Robert Vinall, Henry Ellenbogen",3,7,Slight Accumulate,3.4,7,23,22,6,15,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-KHC,Kraft Heinz Co.,"David Rolfe, Hillman Value Fund, Harry Burn",3,13,Slight Accumulate,3.1,10,23,23,8,15,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-POOL,Pool Corp.,"David Rolfe, Torray Funds, Jensen Investment Management",3,7,Slight Accumulate,2.2,4,19,18,4,15,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-GE,GE Aerospace,"Nelson Peltz, Richard Pzena, Mason Hawkins",3,16,Slight Distribute,-5.3,14,75,85,14,15,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CPNG,Coupang Inc.,"Dennis Hong, Henry Ellenbogen, Christopher Davis",3,9,Slight Distribute,-5.5,7,19,23,6,15,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CB,Chubb Limited,"Christopher Davis, Harry Burn, Warren Buffett",3,9,Slight Distribute,-7.0,8,12,16,7,15,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-EBAY,eBay Inc.,"Lindsell Train, Pat Dorsey, Yacktman Asset Management",3,14,Slight Distribute,-10.9,12,49,63,13,15,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-UPS,United Parcel Service,"Jensen Investment Management, Robert Olstein, Bill & Melinda Gates Foundation Trust",3,11,Slight Distribute,-13.3,8,18,26,8,15,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CSX,CSX Corp.,"John Armitage, Viking Global Investors, Chuck Akre",3,12,Slight Distribute,-14.3,12,18,28,12,15,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CME,CME Group,"William Von Mueffling, John Armitage, AKO Capital",3,6,Slight Distribute,-15.4,5,17,27,3,15,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-LMT,Lockheed Martin Corp.,"Charles Bobrinskoy, Yacktman Asset Management, Thomas Gayner",3,9,Slight Distribute,-15.8,7,25,39,5,15,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-KKR,KKR & Co. L.P.,"Chuck Akre, Charles Bobrinskoy, ValueAct Capital",3,16,Slight Distribute,-19.8,12,57,89,14,15,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-LHX,L3Harris Technologies Inc.,"Yacktman Asset Management, David Katz, Robert Olstein",3,5,Distributing,-20.8,2,17,28,1,15,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-JLL,Jones Lang Lasalle Inc.,"John Rogers, Robert Olstein, Sarah Ketterer",3,5,Distributing,-43.5,3,10,32,1,15,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-COST,Costco Co.,"Christopher Bloomstran, Thomas Russo, Ruane Cunniff",3,9,Distributing,-46.5,3,16,47,5,15,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-ORLY,O'Reilly Automotive,"Chuck Akre, Ruane Cunniff, Torray Funds",3,7,Distributing,-58.8,3,18,77,4,15,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-SUI,Sun Communities Inc.,"Third Avenue Management, Christopher Davis, Dodge & Cox",3,4,Accumulating,50.0,4,17,6,1,14,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BUD,Anheuser-Busch InBev,"Dodge & Cox, Hillman Value Fund, Sarah Ketterer",3,7,Accumulating,36.6,6,22,10,3,14,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-TCOM,Trip.com Group Ltd,"William Von Mueffling, Christopher Davis, Sarah Ketterer",3,6,Slight Accumulate,18.5,7,9,6,5,14,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-HDB,HDFC Bank Ltd.,"John Armitage, Sarah Ketterer, Howard Marks",3,7,Slight Accumulate,11.6,5,19,13,6,14,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-MKL,Markel Group Inc.,"Chuck Akre, Francois Rochon, Thomas Russo",3,7,Slight Accumulate,10.5,2,56,44,3,14,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-TECH,Bio-Techne Corp.,"Mairs & Power Growth Fund, Jensen Investment Management, Wallace Weitz",3,7,Slight Accumulate,6.7,6,18,17,4,14,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-NOV,Nov Inc.,"Richard Pzena, Charles Bobrinskoy, John Rogers",3,12,Slight Accumulate,4.3,11,38,37,8,14,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CASY,Casey's Gen'l Stores,"Torray Funds, Daniel Loeb, Lee Ainslie",3,5,Neutral,0.0,4,5,8,1,14,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-LRCX,Lam Research,"David Tepper, Chase Coleman, Hillman Value Fund",3,7,Slight Distribute,-4.0,10,14,18,8,14,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-MAR,Marriott Int'l.,"Terry Smith, AKO Capital, Steven Romick",3,9,Slight Distribute,-4.4,11,32,39,8,14,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-LUV,Southwest Airlines,"Robert Olstein, Warren Buffett, Harry Burn",3,6,Slight Distribute,-5.9,5,11,15,3,14,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-GSK,GSK plc,"Kahn Brothers Group, Dodge & Cox, Sarah Ketterer",3,7,Slight Distribute,-9.9,5,27,34,5,14,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CL,Colgate-Palmolive,"Yacktman Asset Management, Terry Smith, Jensen Investment Management",3,10,Slight Distribute,-11.5,8,19,26,8,14,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-PVH,PVH Corp.,"Richard Pzena, Harry Burn, Mason Hawkins",3,10,Slight Distribute,-11.8,9,21,31,7,14,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-AMD,Advanced Micro Devices,"Meridian Contrarian Fund, David Tepper, Viking Global Investors",3,7,Slight Distribute,-14.9,8,12,20,7,14,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BDX,Becton Dickinson,"William Von Mueffling, Jensen Investment Management, Terry Smith",3,10,Slight Distribute,-16.0,5,29,41,6,14,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-YOU,Clear Secure Inc.,"Henry Ellenbogen, Christopher Davis, Meridian Contrarian Fund",3,6,Slight Distribute,-16.1,5,8,15,3,14,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-OMF,OneMain Holdings,"Glenn Greenberg, Samantha McLemore, Bill Miller",3,4,Slight Distribute,-17.0,3,19,30,1,14,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-ROST,Ross Stores Inc.,"David Rolfe, Chuck Akre, Viking Global Investors",3,6,Slight Distribute,-18.9,3,12,20,2,14,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-APH,Amphenol Corp.,"Jensen Investment Management, Torray Funds, John Armitage",3,7,Distributing,-25.0,6,9,22,3,14,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-MRK,Merck & Co.,"Kahn Brothers Group, Harry Burn, Thomas Russo",3,12,Distributing,-30.3,8,30,61,10,14,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-MEDP,Medpace Holdings Inc.,"Francois Rochon, Polen Capital Management, Terry Smith",3,5,Accumulating,52.4,4,12,4,1,13,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BIO,Bio-Rad Laboratories Inc.,"John Rogers, Charles Bobrinskoy, Mason Hawkins",3,5,Accumulating,46.2,5,14,4,3,13,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-GEHC,GE HealthCare Technologies Inc.,"Harry Burn, Dodge & Cox, John Armitage",3,8,Accumulating,35.1,8,17,10,2,13,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-RPRX,Royalty Pharma plc,"Torray Funds, Viking Global Investors, Samantha McLemore",3,5,Accumulating,33.3,3,21,10,2,13,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-DLTR,Dollar Tree Inc.,"Chuck Akre, Christopher Bloomstran, Glenn Greenberg",3,9,Slight Accumulate,8.9,9,40,32,9,13,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-RAL,Ralliant Corp.,"Viking Global Investors, Robert Olstein, Dodge & Cox",3,5,Slight Accumulate,7.7,5,2,4,2,13,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-DGX,Quest Diagnostics,"Christopher Davis, Robert Olstein, Sarah Ketterer",3,5,Slight Accumulate,6.2,1,16,14,1,13,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-SPY,SPDR S&P 500 ETF Trust,"Yacktman Asset Management, Samantha McLemore, Francois Rochon",3,10,Slight Accumulate,5.5,10,19,17,9,13,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-XYZ,Block Inc.,"Stephen Mandel, Chase Coleman, David Tepper",3,8,Slight Accumulate,4.5,14,21,17,15,13,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-KVUE,Kenvue Inc,"Yacktman Asset Management, Daniel Loeb, Lee Ainslie",3,8,Slight Accumulate,3.2,8,8,9,6,13,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-HCA,HCA Healthcare Inc.,"Glenn Greenberg, David Tepper, Thomas Gayner",3,9,Slight Distribute,-4.9,12,27,34,9,13,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-MHK,Mohawk Industries,"Ruane Cunniff, Charles Bobrinskoy, Third Avenue Management",3,16,Slight Distribute,-5.9,11,37,39,15,13,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-ILMN,Illumina Inc.,"Samantha McLemore, Carl Icahn, ValueAct Capital",3,8,Slight Distribute,-7.1,6,7,9,6,13,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-UBS,UBS AG,"Richard Pzena, Samantha McLemore, Dodge & Cox",3,7,Slight Distribute,-14.8,6,17,26,5,13,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-LIN,Linde plc,"AKO Capital, John Armitage, Thomas Gayner",3,8,Slight Distribute,-18.4,4,27,40,5,13,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-HOLX,Hologic Inc.,"Kahn Brothers Group, Harry Burn, Robert Olstein",3,6,Distributing,-29.4,3,15,28,5,13,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-NVS,Novartis AG,"Kahn Brothers Group, Tweedy Browne Co., Dodge & Cox",3,5,Distributing,-32.1,3,16,36,1,13,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-ADP,Automatic Data Processing Inc.,"Terry Smith, Bill Ackman, Jensen Investment Management",3,6,Distributing,-33.3,5,18,41,5,13,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-FIVE,Five Below Inc.,"Francois Rochon, Christopher Bloomstran, Lee Ainslie",3,4,Accumulating,54.3,2,25,6,2,12,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-MIR,Mirion Technologies Inc,"Leon Cooperman, Meridian Contrarian Fund, Lee Ainslie",3,4,Accumulating,53.8,3,17,5,1,12,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-IWF,iShares Russell 1000 Growth ETF,"David Katz, David Rolfe, Polen Capital Management",3,4,Accumulating,52.0,3,16,4,2,12,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-SDRL,Seadrill Ltd,"David Einhorn, Samantha McLemore, First Eagle Investment Management",3,5,Accumulating,46.2,4,15,3,4,12,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-APD,Air Products & Chemicals,"Bill Ackman, Jensen Investment Management, Thomas Gayner",3,8,Accumulating,40.5,8,18,7,4,12,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-ODFL,Old Dominion Freight Line,"David Rolfe, Thomas Gayner, Henry Ellenbogen",3,6,Accumulating,27.3,6,29,18,2,12,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BIIB,Biogen Inc.,"Hillman Value Fund, Samantha McLemore, Sarah Ketterer",3,7,Accumulating,24.3,6,17,9,5,12,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-OXY,Occidental Petroleum,"Warren Buffett, Duan Yongping, Dodge & Cox",3,12,Accumulating,23.9,15,29,19,8,12,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-VEEV,Veeva Systems Inc.,"Torray Funds, Henry Ellenbogen, Jensen Investment Management",3,5,Accumulating,22.6,5,14,10,2,12,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-MTB,M&T Bank Corp.,"Francois Rochon, David Katz, Christopher Davis",3,6,Accumulating,21.6,4,27,16,4,12,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-REGN,Regeneron Pharmaceuticals,"Bill Nygren, Dodge & Cox, Thomas Gayner",3,8,Slight Accumulate,19.0,9,16,11,6,12,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-AVTR,Avantor Inc.,"Robert Olstein, Harry Burn, Dodge & Cox",3,10,Slight Accumulate,17.4,10,17,12,7,12,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CVX,Chevron Corp.,"Warren Buffett, Thomas Russo, Kahn Brothers Group",3,9,Slight Accumulate,16.2,9,34,26,5,12,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CRS,Carpenter Technology,"Daniel Loeb, John Armitage, Polen Capital Management",3,5,Slight Accumulate,14.3,4,4,5,1,12,stock_timelines,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+MSFT,Microsoft Corp.,"Terry Smith, Stephen Mandel, Chris Hohn",3,43,Slight Distribute,-19.7,27,201,323,17,117,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+META,Meta Platforms Inc.,"Pat Dorsey, David Rolfe, Stephen Mandel",3,44,Slight Distribute,-16.6,38,193,287,36,103,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+GOOGL,Alphabet Inc.,"David Rolfe, Glenn Greenberg, Bill Nygren",3,43,Distributing,-25.9,39,147,286,30,99,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+AMZN,Amazon.com Inc.,"Stephen Mandel, David Tepper, John Armitage",3,43,Slight Distribute,-5.8,40,154,192,26,87,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+GOOG,Alphabet Inc. CL C,"Pat Dorsey, David Tepper, John Armitage",3,40,Distributing,-32.2,20,153,321,16,87,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+V,Visa Inc.,"David Rolfe, Terry Smith, AKO Capital",3,32,Slight Distribute,-15.1,17,146,210,11,70,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+UNH,United Health Group Inc.,"Stephen Mandel, Mairs & Power Growth Fund, David Tepper",3,31,Slight Distribute,-19.7,25,87,145,22,67,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+TSM,Taiwan Semiconductor S.A.,"William Von Mueffling, David Rolfe, Francois Rochon",3,24,Slight Distribute,-7.7,21,69,99,6,63,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+COF,Capital One Financial,"Bill Nygren, Richard Pzena, Harry Burn",3,22,Distributing,-26.0,16,61,125,6,57,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BRK.B,Berkshire Hathaway CL B,"Bill & Melinda Gates Foundation Trust, Ruane Cunniff, Chuck Akre",3,30,Distributing,-29.2,15,150,284,17,55,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+DIS,Walt Disney Co.,"Lindsell Train, Christopher Bloomstran, Francois Rochon",3,32,Slight Distribute,-7.7,22,104,126,21,53,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+AAPL,Apple Inc.,"David Rolfe, Warren Buffett, Francois Rochon",3,31,Slight Distribute,-15.7,21,86,132,15,53,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+NVDA,NVIDIA Corp.,"Mairs & Power Growth Fund, David Tepper, David Katz",3,19,Slight Accumulate,5.8,20,44,48,9,50,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+INTU,Intuit Inc.,"Lindsell Train, Terry Smith, Jensen Investment Management",3,16,Slight Distribute,-20.0,11,53,87,9,45,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BAC,Bank of America Corp.,"Bill Nygren, Richard Pzena, Francois Rochon",3,29,Distributing,-22.5,20,85,143,23,43,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+WFC,Wells Fargo,"Warren Buffett, Richard Pzena, Mairs & Power Growth Fund",3,29,Distributing,-36.9,20,75,185,21,42,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+FISV,Fiserv Inc.,"John Armitage, Samantha McLemore, Mairs & Power Growth Fund",3,24,Slight Distribute,-13.4,20,61,86,20,41,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+MA,Mastercard Inc.,"Chuck Akre, John Armitage, Bill Nygren",3,28,Distributing,-26.9,17,101,186,19,40,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+SCHW,Charles Schwab Corp.,"Glenn Greenberg, Francois Rochon, John Rogers",3,16,Slight Distribute,-9.1,11,94,119,7,39,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+FLUT,Flutter Entertainment Plc,"William Von Mueffling, John Armitage, Daniel Loeb",3,11,Slight Accumulate,17.0,10,21,16,6,36,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BKNG,Booking Holdings Inc.,"David Rolfe, AKO Capital, Stephen Mandel",3,21,Distributing,-25.5,23,50,102,21,35,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+JPM,JPMorgan Chase & Co.,"Glenn Greenberg, Francois Rochon, Bill Nygren",3,23,Distributing,-32.0,9,79,159,12,35,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+ORCL,Oracle Corp.,"Charles Bobrinskoy, Harry Burn, Bill Nygren",3,22,Distributing,-32.6,13,49,108,14,35,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+TMO,Thermo Fisher Scientific,"William Von Mueffling, AKO Capital, Thomas Gayner",3,20,Slight Distribute,-15.1,15,47,70,14,33,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+FERG,Ferguson Enterprises Inc.,"Nelson Peltz, William Von Mueffling, Francois Rochon",3,15,Slight Accumulate,9.3,14,33,32,7,32,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+TXN,Texas Instruments,"Jensen Investment Management, Bill Nygren, David Katz",3,11,Slight Accumulate,4.8,6,38,35,5,31,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+CP,Canadian Pacific Kansas City,"John Armitage, Bill Ackman, Chris Hohn",3,14,Slight Accumulate,8.3,11,48,42,8,30,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+C,Citigroup Inc.,"Richard Pzena, Kahn Brothers Group, Greenhaven Associates",3,25,Distributing,-20.3,16,84,129,22,30,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+PEP,PepsiCo Inc.,"Lindsell Train, Terry Smith, Yacktman Asset Management",3,17,Distributing,-28.9,10,38,79,8,30,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+UBER,Uber Technologies Inc.,"David Tepper, Chase Coleman, Samantha McLemore",3,17,Slight Accumulate,10.2,15,50,44,9,29,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+ADBE,Adobe Inc.,"Stephen Mandel, William Von Mueffling, David Tepper",3,25,Slight Distribute,-4.7,20,62,70,20,29,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+CRM,Salesforce.com,"Stephen Mandel, Bill Nygren, Josh Tarasoff",3,19,Slight Accumulate,5.3,23,46,45,17,28,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+CMCSA,Comcast Corp.,"Steven Romick, Thomas Russo, Kahn Brothers Group",3,25,Slight Distribute,-13.3,16,69,93,18,28,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+AVGO,Broadcom Inc.,"Steven Romick, William Von Mueffling, Torray Funds",3,12,Distributing,-38.8,13,17,62,6,28,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+ASML,ASML Holding NV,"Stephen Mandel, Hillman Value Fund, David Tepper",3,10,Slight Accumulate,8.3,11,15,19,3,27,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+EFX,Equifax Inc.,"William Von Mueffling, Terry Smith, AKO Capital",3,15,Slight Accumulate,3.0,13,55,56,8,27,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+NKE,NIKE Inc.,"Christopher Bloomstran, Terry Smith, AKO Capital",3,14,Slight Accumulate,2.5,12,50,47,12,27,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+MCO,Moody's Corp.,"Chuck Akre, AKO Capital, William Von Mueffling",3,18,Slight Distribute,-7.0,6,101,117,6,27,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+PYPL,PayPal Holdings Inc.,"David Rolfe, Pat Dorsey, Lindsell Train",3,21,Slight Distribute,-17.6,14,63,92,18,27,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+PDD,Pinduoduo Inc.,"David Tepper, Chase Coleman, Duan Yongping",3,10,Slight Accumulate,1.5,12,21,23,9,26,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+LPLA,LPL Financial Holdings Inc.,"Steven Romick, Stephen Mandel, Thomas Gayner",3,12,Slight Distribute,-4.8,11,29,39,5,26,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+AON,Aon Plc,"William Von Mueffling, Steven Romick, Thomas Gayner",3,15,Slight Distribute,-9.2,10,54,69,8,26,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+CHTR,Charter Communications,"Bill Nygren, Warren Buffett, Chris Hohn",3,19,Slight Distribute,-13.6,14,75,104,13,26,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+PG,Procter & Gamble,"AKO Capital, Terry Smith, Nelson Peltz",3,14,Distributing,-25.6,10,48,89,9,26,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+PM,Philip Morris Intl.,"Terry Smith, Thomas Russo, Viking Global Investors",3,10,Distributing,-39.3,5,22,58,4,26,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+CSGP,CoStar Group Inc.,"Chuck Akre, Daniel Loeb, Wallace Weitz",3,8,Accumulating,24.1,9,27,19,3,25,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+SE,Sea Ltd,"Dennis Hong, Chase Coleman, Stephen Mandel",3,12,Slight Accumulate,10.3,10,33,28,7,25,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+CVS,CVS Health Corp.,"Dodge & Cox, Robert Olstein, Hillman Value Fund",3,17,Slight Accumulate,1.7,16,45,45,14,25,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+ICE,Intercontinental Exchange Inc.,"William Von Mueffling, AKO Capital, Francois Rochon",3,10,Slight Distribute,-1.9,10,42,48,6,25,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+SBUX,Starbucks Corp.,"Christopher Bloomstran, David Rolfe, Hillman Value Fund",3,15,Slight Distribute,-6.6,9,55,62,11,25,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+ADI,Analog Devices,"Steven Romick, William Von Mueffling, Francois Rochon",3,10,Slight Distribute,-14.5,6,47,68,3,25,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+ZBH,Zimmer Biomet Holdings,"Charles Bobrinskoy, John Rogers, Dodge & Cox",3,11,Slight Distribute,-16.0,4,46,64,5,25,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+ICLR,ICON plc,"Glenn Greenberg, Steven Romick, Polen Capital Management",3,10,Slight Accumulate,18.8,9,10,7,6,24,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+CVNA,Carvana Co.,"Clifford Sosin, Robert Vinall, Stephen Mandel",3,13,Neutral,0.0,13,33,37,9,24,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+ZTS,Zoetis Inc.,"AKO Capital, William Von Mueffling, Terry Smith",3,9,Slight Distribute,-7.8,7,40,50,5,24,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+DHR,Danaher Corp.,"Daniel Loeb, Chuck Akre, Ruane Cunniff",3,13,Slight Distribute,-10.3,10,29,39,9,24,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+LLY,Eli Lilly & Co.,"Mairs & Power Growth Fund, Chase Coleman, Viking Global Investors",3,13,Slight Accumulate,6.7,11,21,19,9,23,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BABA,Alibaba Group Holdings,"David Tepper, Samantha McLemore, Duan Yongping",3,29,Slight Distribute,-1.6,26,67,67,29,23,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+XOM,Exxon Mobil Corp.,"Christopher Bloomstran, Kahn Brothers Group, Charles Bobrinskoy",3,15,Slight Distribute,-1.8,11,69,68,15,23,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BN,Brookfield Corp.,"Chuck Akre, Josh Tarasoff, Third Avenue Management",3,15,Slight Distribute,-7.8,11,48,62,7,23,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+USB,U.S. Bancorp,"Warren Buffett, David Rolfe, Mairs & Power Growth Fund",3,14,Slight Distribute,-8.3,6,60,68,10,23,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+GS,Goldman Sachs Group,"Charles Bobrinskoy, Greenhaven Associates, John Rogers",3,20,Distributing,-34.6,11,56,121,17,23,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+AXP,American Express,"Christopher Bloomstran, Thomas Russo, Hillman Value Fund",3,25,Distributing,-55.6,10,20,89,16,23,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+CPRT,Copart Inc.,"David Rolfe, AKO Capital, Jensen Investment Management",3,8,Slight Distribute,-9.9,5,27,38,1,22,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+PFE,Pfizer Inc.,"Kahn Brothers Group, Hillman Value Fund, Harry Burn",3,14,Slight Distribute,-11.3,14,49,64,15,22,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+SPGI,S&P Global Inc.,"William Von Mueffling, David Rolfe, Chris Hohn",3,15,Slight Distribute,-14.3,10,47,67,9,22,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+JNJ,Johnson & Johnson,"Charles Bobrinskoy, Terry Smith, Yacktman Asset Management",3,17,Distributing,-35.3,5,50,107,8,22,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+GM,General Motors,"Greenhaven Associates, Warren Buffett, Harry Burn",3,17,Slight Accumulate,2.7,13,62,58,13,21,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+AMAT,Applied Materials,"William Von Mueffling, Harry Burn, Christopher Davis",3,13,Distributing,-21.4,14,19,43,8,21,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+ACN,Accenture,"AKO Capital, Jensen Investment Management, Wallace Weitz",3,11,Distributing,-23.8,4,20,34,5,21,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+WTW,Willis Towers Watson plc,"Seth Klarman, William Von Mueffling, ValueAct Capital",3,16,Distributing,-25.2,11,29,58,9,21,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+CBRE,CBRE Group,"Bill Nygren, ValueAct Capital, William Von Mueffling",3,8,Distributing,-30.4,5,51,101,4,21,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+TSN,Tyson Foods,"Yacktman Asset Management, Thomas Gayner, David Katz",3,7,Accumulating,39.4,4,42,18,2,20,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+UNP,Union Pacific,"Chris Hohn, Thomas Russo, Torray Funds",3,13,Accumulating,39.1,9,55,18,10,20,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+ENTG,Entegris Inc.,"William Von Mueffling, Torray Funds, Mairs & Power Growth Fund",3,7,Accumulating,31.2,5,37,20,2,20,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+WCC,WESCO International Inc.,"Alex Roepers, Robert Olstein, Christopher Davis",3,9,Accumulating,28.8,6,32,16,5,20,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+SHW,Sherwin-Williams,"Torray Funds, Mairs & Power Growth Fund, Viking Global Investors",3,9,Slight Accumulate,5.7,7,21,22,3,20,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+HD,Home Depot,"Terry Smith, Jensen Investment Management, Torray Funds",3,11,Slight Accumulate,1.2,4,38,34,7,20,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+GNRC,Generac Holdings Inc.,"John Rogers, Mairs & Power Growth Fund, Charles Bobrinskoy",3,9,Slight Distribute,-5.7,7,18,22,6,20,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BMY,Bristol-Myers Squibb,"Kahn Brothers Group, Hillman Value Fund, David Rolfe",3,17,Distributing,-23.4,13,36,65,14,20,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+RTX,RTX Corp.,"Mason Hawkins, Dodge & Cox, Robert Olstein",3,14,Distributing,-27.3,11,25,53,10,20,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BAX,Baxter International Inc.,"Robert Olstein, Richard Pzena, Charles Bobrinskoy",3,10,Slight Accumulate,4.9,6,26,24,5,19,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+FDX,FedEx Corp.,"Mason Hawkins, Thomas Gayner, Dodge & Cox",3,16,Slight Accumulate,3.6,12,60,56,11,19,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+KMX,CarMax Inc.,"Chuck Akre, John Rogers, Francois Rochon",3,15,Slight Accumulate,1.2,9,72,68,11,19,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+LEN,Lennar Corp.,"Greenhaven Associates, Glenn Greenberg, Harry Burn",3,10,Slight Distribute,-11.8,7,38,50,7,19,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+VRSK,Verisk Analytics Inc.,"Chuck Akre, Terry Smith, Jensen Investment Management",3,12,Slight Distribute,-12.2,7,54,71,7,19,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+FICO,Fair Isaac Corp.,"AKO Capital, Valley Forge Capital Management, Lindsell Train",3,8,Slight Distribute,-19.4,6,23,41,2,19,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+AMT,American Tower Corp.,"Chuck Akre, William Von Mueffling, Torray Funds",3,7,Slight Distribute,-20.0,2,42,62,4,19,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+CSCO,Cisco Systems,"Yacktman Asset Management, Dodge & Cox, Tweedy Browne Co.",3,14,Distributing,-25.5,9,26,48,11,19,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+WRBY,Warby Parker Inc.,"Henry Ellenbogen, Chase Coleman, Lee Ainslie",3,6,Distributing,-27.3,3,9,18,3,19,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+KO,Coca Cola Co.,"Yacktman Asset Management, Jensen Investment Management, Thomas Russo",3,9,Distributing,-44.1,3,16,46,3,19,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+CRH,CRH plc,"Greenhaven Associates, Seth Klarman, John Armitage",3,6,Slight Accumulate,7.0,4,19,19,1,18,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+FIS,Fidelity National Information Services,"William Von Mueffling, Seth Klarman, Dodge & Cox",3,10,Slight Distribute,-1.2,9,33,36,7,18,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+APP,Applovin Corp.,"Chase Coleman, Stephen Mandel, Viking Global Investors",3,6,Slight Distribute,-3.2,8,7,12,4,18,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+ELV,Elevance Health Inc.,"Glenn Greenberg, Yacktman Asset Management, Harry Burn",3,14,Slight Distribute,-12.4,10,36,50,9,18,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BK,Bank of New York Mellon Corp.,"Warren Buffett, Nelson Peltz, Charles Bobrinskoy",3,12,Distributing,-21.0,5,57,88,7,18,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+QCOM,QUALCOMM Inc.,"David Tepper, Mairs & Power Growth Fund, David Rolfe",3,11,Distributing,-21.4,9,24,41,10,18,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+JD,JD.com Inc.,"Chase Coleman, Michael Burry, David Tepper",3,14,Distributing,-22.4,11,27,47,13,18,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+DHI,D.R. Horton,"Greenhaven Associates, Glenn Greenberg, John Armitage",3,11,Distributing,-26.7,11,26,55,9,18,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BRK.A,Berkshire Hathaway CL A,"Ruane Cunniff, Bruce Berkowitz, Christopher Bloomstran",3,16,Distributing,-53.4,6,28,104,8,18,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+CCC,CCC Intelligent Solutions Hldgs Inc.,"Chuck Akre, Torray Funds, Triple Frond Partners",3,6,Accumulating,52.0,5,14,3,3,17,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+IAC,IAC Inc.,"Dennis Hong, Mason Hawkins, Samantha McLemore",3,11,Accumulating,24.4,6,50,26,8,17,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+ABNB,Airbnb Inc.,"Thomas Gayner, Bill Nygren, Lee Ainslie",3,8,Accumulating,24.1,8,10,7,4,17,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+MRSH,Marsh,"Thomas Gayner, Jensen Investment Management, AKO Capital",3,10,Accumulating,21.2,4,36,21,5,17,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+IFF,International Flavors & Fragrances Inc.,"Steven Romick, Robert Olstein, Daniel Loeb",3,13,Slight Accumulate,16.2,10,33,23,8,17,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+DG,Dollar General,"Christopher Bloomstran, Thomas Gayner, Pat Dorsey",3,13,Slight Accumulate,13.0,13,39,30,10,17,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+MELI,Mercadolibre Inc.,"Stephen Mandel, Terry Smith, Henry Ellenbogen",3,9,Slight Accumulate,10.5,7,14,11,6,17,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+MDT,Medtronic plc,"Mairs & Power Growth Fund, Bill Nygren, David Katz",3,10,Slight Accumulate,7.7,3,39,32,4,17,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+B,Barrick Mining Corp.,"Charles Bobrinskoy, Harry Burn, Howard Marks",3,6,Slight Accumulate,6.7,6,18,19,2,17,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+LYV,Live Nation Inc.,"William Von Mueffling, Chuck Akre, Daniel Loeb",3,10,Slight Accumulate,1.9,11,16,20,6,17,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+WBD,Warner Bros. Discovery Inc.,"Bill Nygren, Yacktman Asset Management, Hillman Value Fund",3,13,Slight Distribute,-2.9,17,33,40,13,17,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+PGR,Progressive Corp.,"Francois Rochon, John Rogers, Charles Bobrinskoy",3,14,Slight Distribute,-6.5,9,49,56,10,17,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+RKT,Rocket Companies Inc.,"Christopher Davis, Samantha McLemore, ValueAct Capital",3,8,Slight Distribute,-12.2,6,12,19,4,17,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+DAL,Delta Air Lines Inc.,"Samantha McLemore, Robert Olstein, Warren Buffett",3,10,Slight Distribute,-12.9,5,22,30,5,17,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+NFLX,Netflix Inc.,"Josh Tarasoff, Thomas Russo, Steven Romick",3,15,Distributing,-22.0,17,31,57,18,17,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+TEVA,Teva Pharmaceutical Industries Ltd.,"Bill Miller, David Abrams, Harry Burn",3,12,Distributing,-24.7,8,21,37,11,17,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+VST,Vistra Corp.,"Harry Burn, Daniel Loeb, David Tepper",3,8,Distributing,-33.3,8,13,35,7,17,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+FTV,Fortive Corp.,"Viking Global Investors, Robert Olstein, Dodge & Cox",3,7,Accumulating,33.3,4,16,7,3,16,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+TLN,Talen Energy Corp,"Howard Marks, Daniel Loeb, Stephen Mandel",3,5,Slight Accumulate,4.8,5,6,9,1,16,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+DB,Deutsche Bank AG,"Third Avenue Management, Viking Global Investors, David Tepper",3,6,Slight Accumulate,3.2,9,7,10,5,16,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+NU,Nu Holdings Ltd,"Chase Coleman, Polen Capital Management, Warren Buffett",3,7,Slight Distribute,-9.7,6,8,15,2,16,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+LMT,Lockheed Martin Corp.,"Charles Bobrinskoy, Yacktman Asset Management, Thomas Gayner",3,9,Slight Distribute,-18.4,7,24,40,5,16,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+KKR,KKR & Co. L.P.,"Chuck Akre, Charles Bobrinskoy, ValueAct Capital",3,16,Slight Distribute,-19.1,12,58,89,14,16,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+PNC,PNC Financial Services,"David Katz, Christopher Davis, Thomas Russo",3,10,Distributing,-22.0,4,19,31,5,16,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+IDXX,IDEXX Laboratories,"Terry Smith, Ruane Cunniff, Jensen Investment Management",3,7,Distributing,-41.2,4,16,45,3,16,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+CTSH,Cognizant Technology Solutions,"Richard Pzena, Yacktman Asset Management, Jensen Investment Management",3,6,Distributing,-42.1,2,20,53,1,16,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+JLL,Jones Lang Lasalle Inc.,"John Rogers, Robert Olstein, Sarah Ketterer",3,5,Distributing,-44.7,3,10,33,1,16,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+TEL,TE Connectivity plc,"Bill Nygren, Steven Romick, Dodge & Cox",3,8,Distributing,-66.3,3,12,71,3,16,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+LULU,Lululemon Athletica Inc.,"Francois Rochon, Viking Global Investors, Lee Ainslie",3,6,Accumulating,26.7,4,15,9,2,15,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+DASH,DoorDash Inc.,"Chase Coleman, Viking Global Investors, Stephen Mandel",3,7,Accumulating,21.7,10,18,13,5,15,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+MCD,McDonald's Corp.,"Bill & Melinda Gates Foundation Trust, David Katz, Thomas Russo",3,13,Slight Accumulate,18.3,10,32,19,10,15,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+FND,Floor & Decor Holdings,"Francois Rochon, Stephen Mandel, Henry Ellenbogen",3,7,Slight Accumulate,17.9,8,15,9,7,15,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+DEO,Diageo ADR,"Tweedy Browne Co., Sarah Ketterer, AKO Capital",3,9,Slight Accumulate,12.0,4,24,20,2,15,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+TSLA,Tesla Inc.,"David Katz, Viking Global Investors, Josh Tarasoff",3,8,Slight Accumulate,5.9,11,7,9,7,15,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+WIX,Wix.com Ltd.,"Pat Dorsey, Robert Vinall, Henry Ellenbogen",3,7,Slight Accumulate,3.4,7,23,22,6,15,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+KHC,Kraft Heinz Co.,"David Rolfe, Hillman Value Fund, Harry Burn",3,13,Slight Accumulate,3.1,10,23,23,8,15,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+POOL,Pool Corp.,"David Rolfe, Torray Funds, Jensen Investment Management",3,7,Slight Accumulate,2.2,4,19,18,4,15,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+GE,GE Aerospace,"Nelson Peltz, Richard Pzena, Bill Nygren",3,16,Slight Distribute,-5.3,14,75,85,14,15,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+CPNG,Coupang Inc.,"Dennis Hong, Henry Ellenbogen, Christopher Davis",3,9,Slight Distribute,-5.5,7,19,23,6,15,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+CB,Chubb Limited,"Christopher Davis, Harry Burn, Warren Buffett",3,9,Slight Distribute,-7.0,8,12,16,7,15,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+EBAY,eBay Inc.,"Lindsell Train, Pat Dorsey, Yacktman Asset Management",3,14,Slight Distribute,-10.9,12,49,63,13,15,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+UPS,United Parcel Service,"Jensen Investment Management, Robert Olstein, Bill & Melinda Gates Foundation Trust",3,11,Slight Distribute,-13.3,8,18,26,8,15,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+CSX,CSX Corp.,"John Armitage, Viking Global Investors, Chuck Akre",3,12,Slight Distribute,-14.3,12,18,28,12,15,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+CME,CME Group,"William Von Mueffling, John Armitage, AKO Capital",3,6,Slight Distribute,-15.4,5,17,27,3,15,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+LHX,L3Harris Technologies Inc.,"Yacktman Asset Management, David Katz, Robert Olstein",3,5,Distributing,-20.8,2,17,28,1,15,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+COST,Costco Co.,"Christopher Bloomstran, Thomas Russo, Ruane Cunniff",3,9,Distributing,-45.7,3,16,46,5,15,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+ORLY,O'Reilly Automotive,"Chuck Akre, Ruane Cunniff, Torray Funds",3,7,Distributing,-58.4,3,18,76,4,15,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+SUI,Sun Communities Inc.,"Third Avenue Management, Christopher Davis, Dodge & Cox",3,4,Accumulating,50.0,4,17,6,1,14,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BIO,Bio-Rad Laboratories Inc.,"John Rogers, Charles Bobrinskoy, Mason Hawkins",3,5,Accumulating,46.2,5,14,4,3,14,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BUD,Anheuser-Busch InBev,"Dodge & Cox, Hillman Value Fund, Sarah Ketterer",3,7,Accumulating,36.6,6,22,10,3,14,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+TCOM,Trip.com Group Ltd,"William Von Mueffling, Christopher Davis, Sarah Ketterer",3,6,Slight Accumulate,18.5,7,9,6,5,14,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+HDB,HDFC Bank Ltd.,"John Armitage, Sarah Ketterer, Howard Marks",3,7,Slight Accumulate,11.6,5,19,13,6,14,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+MKL,Markel Group Inc.,"Chuck Akre, Francois Rochon, Thomas Russo",3,7,Slight Accumulate,10.5,2,56,44,3,14,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+TECH,Bio-Techne Corp.,"Mairs & Power Growth Fund, Jensen Investment Management, Wallace Weitz",3,7,Slight Accumulate,6.7,6,18,17,4,14,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+NOV,Nov Inc.,"Richard Pzena, Charles Bobrinskoy, John Rogers",3,12,Slight Accumulate,5.4,11,38,36,8,14,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+CASY,Casey's Gen'l Stores,"Torray Funds, Daniel Loeb, Lee Ainslie",3,5,Neutral,0.0,4,5,8,1,14,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+LRCX,Lam Research,"David Tepper, Chase Coleman, Hillman Value Fund",3,7,Slight Distribute,-4.0,10,14,18,8,14,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+MAR,Marriott Int'l.,"Terry Smith, AKO Capital, Steven Romick",3,9,Slight Distribute,-4.4,11,32,39,8,14,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+LUV,Southwest Airlines,"Robert Olstein, Warren Buffett, Harry Burn",3,6,Slight Distribute,-5.9,5,11,15,3,14,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+GSK,GSK plc,"Kahn Brothers Group, Dodge & Cox, Sarah Ketterer",3,7,Slight Distribute,-9.9,5,27,34,5,14,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+CL,Colgate-Palmolive,"Yacktman Asset Management, Terry Smith, Jensen Investment Management",3,10,Slight Distribute,-11.5,8,19,26,8,14,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+PVH,PVH Corp.,"Richard Pzena, Harry Burn, Mason Hawkins",3,10,Slight Distribute,-11.8,9,21,31,7,14,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+AMD,Advanced Micro Devices,"Meridian Contrarian Fund, David Tepper, Viking Global Investors",3,7,Slight Distribute,-14.9,8,12,20,7,14,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BDX,Becton Dickinson,"William Von Mueffling, Jensen Investment Management, Terry Smith",3,10,Slight Distribute,-16.0,5,29,41,6,14,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+YOU,Clear Secure Inc.,"Henry Ellenbogen, Christopher Davis, Meridian Contrarian Fund",3,6,Slight Distribute,-16.1,5,8,15,3,14,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+OMF,OneMain Holdings,"Glenn Greenberg, Samantha McLemore, Bill Miller",3,4,Slight Distribute,-17.0,3,19,30,1,14,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+LBRDK,Liberty Broadband Corp. CL C,"Ruane Cunniff, Tom Bancroft, Bill Nygren",3,13,Slight Distribute,-18.5,10,23,35,13,14,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+ROST,Ross Stores Inc.,"David Rolfe, Chuck Akre, Viking Global Investors",3,6,Slight Distribute,-18.9,3,12,20,2,14,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+APH,Amphenol Corp.,"Jensen Investment Management, Torray Funds, John Armitage",3,7,Distributing,-25.0,6,9,22,3,14,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+MRK,Merck & Co.,"Kahn Brothers Group, Harry Burn, Thomas Russo",3,12,Distributing,-30.3,8,30,61,10,14,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+MEDP,Medpace Holdings Inc.,"Francois Rochon, Polen Capital Management, Terry Smith",3,5,Accumulating,52.4,4,12,4,1,13,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+GEHC,GE HealthCare Technologies Inc.,"Harry Burn, Dodge & Cox, John Armitage",3,8,Accumulating,35.1,8,17,10,2,13,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+RPRX,Royalty Pharma plc,"Torray Funds, Viking Global Investors, Samantha McLemore",3,5,Accumulating,33.3,3,21,10,2,13,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+DLTR,Dollar Tree Inc.,"Chuck Akre, Christopher Bloomstran, Glenn Greenberg",3,9,Slight Accumulate,8.9,9,40,32,9,13,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+RAL,Ralliant Corp.,"Viking Global Investors, Robert Olstein, Dodge & Cox",3,5,Slight Accumulate,7.7,5,2,4,2,13,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+DGX,Quest Diagnostics,"Christopher Davis, Robert Olstein, Sarah Ketterer",3,5,Slight Accumulate,6.2,1,16,14,1,13,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+SPY,SPDR S&P 500 ETF Trust,"Yacktman Asset Management, Samantha McLemore, Francois Rochon",3,10,Slight Accumulate,5.5,10,19,17,9,13,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+XYZ,Block Inc.,"Stephen Mandel, Chase Coleman, David Tepper",3,8,Slight Accumulate,4.5,14,21,17,15,13,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+KVUE,Kenvue Inc,"Yacktman Asset Management, Daniel Loeb, Lee Ainslie",3,8,Slight Accumulate,3.2,8,8,9,6,13,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+HCA,HCA Healthcare Inc.,"Glenn Greenberg, David Tepper, Thomas Gayner",3,9,Slight Distribute,-4.9,12,27,34,9,13,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+MHK,Mohawk Industries,"Charles Bobrinskoy, Ruane Cunniff, Third Avenue Management",3,16,Slight Distribute,-5.0,11,37,38,15,13,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+ILMN,Illumina Inc.,"Samantha McLemore, Carl Icahn, ValueAct Capital",3,8,Slight Distribute,-7.1,6,7,9,6,13,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+UBS,UBS AG,"Richard Pzena, Samantha McLemore, Dodge & Cox",3,7,Slight Distribute,-14.8,6,17,26,5,13,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+LIN,Linde plc,"AKO Capital, John Armitage, Thomas Gayner",3,8,Slight Distribute,-18.4,4,27,40,5,13,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+COP,ConocoPhillips,"Yacktman Asset Management, Warren Buffett, Bill Nygren",3,6,Distributing,-26.2,2,22,39,2,13,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+HOLX,Hologic Inc.,"Kahn Brothers Group, Harry Burn, Robert Olstein",3,6,Distributing,-29.4,3,15,28,5,13,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+NVS,Novartis AG,"Kahn Brothers Group, Tweedy Browne Co., Dodge & Cox",3,5,Distributing,-32.1,3,16,36,1,13,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+ADP,Automatic Data Processing Inc.,"Terry Smith, Bill Ackman, Jensen Investment Management",3,6,Distributing,-33.3,5,18,41,5,13,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+SAP,SAP SE,"Sarah Ketterer, Christopher Davis, Ruane Cunniff",3,4,Distributing,-37.9,1,8,20,0,13,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+FIVE,Five Below Inc.,"Francois Rochon, Christopher Bloomstran, Lee Ainslie",3,4,Accumulating,54.3,2,25,6,2,12,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+MIR,Mirion Technologies Inc,"Leon Cooperman, Meridian Contrarian Fund, Lee Ainslie",3,4,Accumulating,53.8,3,17,5,1,12,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+IWF,iShares Russell 1000 Growth ETF,"David Katz, David Rolfe, Polen Capital Management",3,4,Accumulating,52.0,3,16,4,2,12,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+SDRL,Seadrill Ltd,"David Einhorn, Samantha McLemore, First Eagle Investment Management",3,5,Accumulating,46.2,4,15,3,4,12,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+APD,Air Products & Chemicals,"Bill Ackman, Jensen Investment Management, Thomas Gayner",3,8,Accumulating,40.5,8,18,7,4,12,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+ODFL,Old Dominion Freight Line,"David Rolfe, Thomas Gayner, Henry Ellenbogen",3,6,Accumulating,27.3,6,29,18,2,12,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BIIB,Biogen Inc.,"Hillman Value Fund, Samantha McLemore, Sarah Ketterer",3,7,Accumulating,24.3,6,17,9,5,12,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+OXY,Occidental Petroleum,"Warren Buffett, Duan Yongping, Dodge & Cox",3,12,Accumulating,23.9,15,29,19,8,12,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+VEEV,Veeva Systems Inc.,"Torray Funds, Henry Ellenbogen, Jensen Investment Management",3,5,Accumulating,22.6,5,14,10,2,12,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+MTB,M&T Bank Corp.,"Francois Rochon, David Katz, Christopher Davis",3,6,Accumulating,21.6,4,27,16,4,12,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+REGN,Regeneron Pharmaceuticals,"Bill Nygren, Dodge & Cox, Thomas Gayner",3,8,Slight Accumulate,19.0,9,16,11,6,12,stock_timelines,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3

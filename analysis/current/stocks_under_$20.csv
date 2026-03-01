@@ -1,51 +1,51 @@
 ticker,company_name,current_price,manager_count,managers,total_value,avg_portfolio_pct,index,total_shares,max_portfolio_pct,recent_buys,latest_buy_quarter,price_opportunity_score,price_category,_analysis_type,_generated,_periods,_window_quarters
-RKT,Rocket Companies Inc.,17.87,5,"Daniel Loeb, ValueAct Capital, Henry Ellenbogen, Leon Cooperman, Christopher Davis",1754215000,6.07,257,90610359,13.5,12.0,Q4 2025,28.074,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CPNG,Coupang Inc.,18.78,5,"Bill & Melinda Gates Foundation Trust, Henry Ellenbogen, Chase Coleman, Lee Ainslie, David Abrams",1754034000,2.79,72,74354973,5.46,5.0,Q4 2025,17.786,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-ET,Energy Transfer LP,18.96,5,"Bruce Berkowitz, David Tepper, Leon Cooperman, Samantha McLemore, David Abrams",446322000,2.63,100,27066242,7.29,4.0,Q4 2025,16.63,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-AVTR,Avantor Inc.,8.99,5,"Robert Olstein, Dodge & Cox, Steven Romick, Greenhaven Associates, Mason Hawkins",1176311000,2.32,30,102321004,4.73,8.0,Q4 2025,20.318,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-NU,Nu Holdings Ltd,17.35,5,"Stephen Mandel, Chase Coleman, Howard Marks, Lee Ainslie, Polen Capital Management",971160000,1.62,200,58014367,3.64,4.0,Q4 2025,15.62,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-NOV,Nov Inc.,19.88,5,"First Eagle Investment Management, Robert Olstein, Richard Pzena, Steven Romick, Greenhaven Associates",768186000,1.17,197,49148079,2.08,6.0,Q4 2025,17.168,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-STLA,Stellantis N.V.,7.74,4,"Viking Global Investors, Bill Miller, Francis Chou, Greenhaven Associates",454567000,2.59,289,40921745,7.53,4.0,Q4 2025,14.5875,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-PCG,PG&E Corp.,18.28,3,"Daniel Loeb, David Einhorn, Steven Romick",687873000,4.05,223,42804813,7.59,3.0,Q4 2025,13.046666666666669,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-MAT,Mattel Inc.,17.25,3,"Samantha McLemore, Mason Hawkins, John Rogers",148548000,4.03,178,8326607,6.86,3.0,Q4 2025,13.03,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CNH,CNH Industrial NV,12.96,3,"David Einhorn, Tweedy Browne Co., Mason Hawkins",101880000,2.86,67,10464929,3.74,1.0,Q4 2025,9.863333333333332,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CCC,CCC Intelligent Solutions Hldgs Inc.,4.92,3,"Chuck Akre, Triple Frond Partners, Torray Funds",237330000,2.13,54,29852877,3.97,10.0,Q4 2025,18.130000000000003,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-GPK,Graphic Packaging Hldg Co.,12.53,3,"David Einhorn, Sarah Ketterer, FPA Queens Road Small Cap Value Fund",200411000,1.99,120,13307516,4.45,7.0,Q4 2025,14.99,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-LBTYA,Liberty Global Ltd CL A,12.56,3,"David Einhorn, Howard Marks, Seth Klarman",174185000,1.5,165,15636079,2.1,2.0,Q3 2025,9.5,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-MANU,Manchester United plc,17.51,3,"Leon Cooperman, Lindsell Train, John Rogers",117152000,1.5,177,7402104,1.54,2.0,Q4 2025,9.5,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-VSH,Vishay Intertechnology,19.29,3,"First Eagle Investment Management, Robert Olstein, FPA Queens Road Small Cap Value Fund",40058000,0.93,312,2764494,2.53,4.0,Q4 2025,10.93,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-TME,Tencent Music Entertainment Grp,14.98,3,"Sarah Ketterer, Polen Capital Management, William Von Mueffling",364809000,0.74,300,20810545,1.77,3.0,Q4 2025,9.736666666666666,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BLCO,Bausch + Lomb Corp,17.95,3,"Carl Icahn, Howard Marks, Lee Ainslie",120156000,0.67,38,7034922,1.27,4.0,Q4 2025,10.67,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-DEI,Douglas Emmett Inc.,10.47,3,"First Eagle Investment Management, Christopher Davis, Steven Romick",197671000,0.35,84,17986388,0.79,3.0,Q4 2025,9.35,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-VALE,Vale SA,16.84,3,"Howard Marks, Sarah Ketterer, Christopher Davis",76342000,0.3,308,5858904,0.58,2.0,Q4 2025,8.303333333333335,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-MAMA,Mama's Creations Inc,16.14,3,"Polen Capital Management, First Eagle Investment Management, Meridian Contrarian Fund",21672000,0.25,176,1690459,0.73,4.0,Q4 2025,10.253333333333334,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-PTON,Peloton Interactive Inc.,4.37,3,"David Einhorn, Samantha McLemore, Polen Capital Management",13328000,0.17,243,2163611,0.45,3.0,Q3 2025,9.166666666666668,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-DCH,Dauch Corp.,6.98,2,"Alex Roepers, Bill Miller",23190000,5.36,83,3617780,6.8,4.0,Q4 2025,13.36,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-FLG,Flagstar Financial Inc.,13.5,2,"Third Avenue Management, Kahn Brothers Group",55327000,4.9,108,4394517,9.31,2.0,Q4 2025,10.905,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-ACI,Albertsons Co Inc.,18.01,2,"Harry Burn, Mason Hawkins",138661000,4.41,6,8007013,6.34,4.0,Q3 2025,12.41,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-TDAY,Gannett Co.,6.22,2,"Leon Cooperman, Bill Miller",49276000,3.62,295,9568156,6.18,6.0,Q4 2025,13.615,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-VTRS,Viatris Inc.,15.82,2,"Bill Miller, Christopher Davis",981023000,3.54,314,78796984,4.37,3.0,Q4 2025,10.545,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-KD,Kyndryl Holdings Inc,12.43,2,"David Einhorn, Harry Burn",180358000,3.04,156,6790576,3.56,5.0,Q4 2025,12.035,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-EVH,Evolent Health Inc.,2.79,2,"Glenn Welling, Lee Ainslie",32416000,2.9,101,8103842,5.68,5.0,Q4 2025,11.895,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-AAL,American Airlines Group Inc.,13.38,2,"David Tepper, Lee Ainslie",219447000,1.6,0,14314825,3.17,4.0,Q4 2025,9.6,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-PENN,Penn National Gaming Inc.,12.94,2,"David Einhorn, Prem Watsa",89965000,1.58,225,6099340,3.13,3.0,Q3 2025,8.585,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-PGEN,Precigen Inc.,4.2,2,"Samantha McLemore, Polen Capital Management",78231000,1.5,228,18715561,3.01,2.0,Q4 2025,7.505,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-STKL,SunOpta Inc.,6.44,2,"Howard Marks, Leon Cooperman",113286000,1.44,288,29779426,1.74,5.0,Q4 2025,10.44,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-GRAB,Grab Holdings Ltd   Cl A,4.33,2,"Chase Coleman, Howard Marks",519616000,1.4,122,104131487,1.56,2.0,Q3 2025,7.395,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-KVUE,Kenvue Inc,18.72,2,"Daniel Loeb, Yacktman Asset Management",191605000,1.34,162,11107496,1.9,3.0,Q3 2025,8.335,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-MBI,MBIA Inc.,6.07,2,"Francis Chou, Kahn Brothers Group",9664000,1.22,180,1349784,1.3,1.0,Q3 2025,6.22,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CAG,Conagra Brands Inc.,18.68,2,"Lee Ainslie, Hillman Value Fund",4769000,1.21,50,271502,2.39,1.0,Q4 2025,6.21,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-ACHC,Acadia Healthcare Co.,16.96,2,"David Einhorn, Lee Ainslie",71328000,1.1,5,5026622,2.05,5.0,Q4 2025,10.095,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-ADT,ADT Inc.,7.76,2,"Polen Capital Management, John Rogers",16783000,0.92,10,1930509,1.85,4.0,Q3 2025,8.925,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-SD,SandRidge Energy Inc.,17.61,2,"Carl Icahn, Third Avenue Management",75648000,0.86,266,5242382,0.87,3.0,Q4 2025,7.855,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-YMM,Full Truck Alliance  Spn ADR,9.62,2,"Howard Marks, Christopher Davis",225945000,0.84,323,21057288,0.85,5.0,Q4 2025,9.84,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-MICC,Magnum Ice Cream Co NV,15.87,2,"First Eagle Investment Management, Steven Romick",342053000,0.8,183,21419863,1.15,2.0,Q4 2025,6.805,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-VFC,V.F. Corp.,19.59,2,"Dodge & Cox, Meridian Contrarian Fund",501045000,0.77,309,27798275,1.12,3.0,Q4 2025,7.77,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-ADPT,Adaptive Biotechnologies Corp.,15.18,2,"Viking Global Investors, Polen Capital Management",492388000,0.66,9,30319475,1.3,3.0,Q4 2025,7.66,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-SOFI,SoFi Technologies Inc.,18.09,2,"Samantha McLemore, Polen Capital Management",34451000,0.61,280,1315934,1.21,1.0,Q2 2025,5.61,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-SVV,Savers Value Village Inc,10.05,2,"Lee Ainslie, Tom Bancroft",2602000,0.58,291,278589,1.16,2.0,Q4 2025,6.585,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-PLAY,Dave & Buster's Ent. Inc.,14.51,2,"Samantha McLemore, Lee Ainslie",32239000,0.55,233,1988828,1.04,5.0,Q4 2025,9.55,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-LYFT,Lyft Inc.,13.81,2,"David Tepper, Polen Capital Management",73959000,0.54,173,3818239,1.07,2.0,Q4 2025,6.535,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-INFY,Infosys Ltd.,14.29,2,"Howard Marks, Sarah Ketterer",63743000,0.52,144,3577070,0.61,2.0,Q4 2025,6.52,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-LILAK,Liberty LiLAC Group C,8.09,2,"Warren Buffett, Howard Marks",52465000,0.48,169,7032800,0.95,2.0,Q3 2025,6.475,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-JBS,Jbs Nv A,16.21,2,"Sarah Ketterer, Christopher Davis",171248000,0.38,152,11875735,0.77,4.0,Q4 2025,8.385,Affordable,stocks_under_$20,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+RKT,Rocket Companies Inc.,18.19,5,"Daniel Loeb, ValueAct Capital, Henry Ellenbogen, Leon Cooperman, Christopher Davis",1754215000,6.07,259,90610359,13.5,12.0,Q4 2025,28.074,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+CPNG,Coupang Inc.,19.08,5,"Bill & Melinda Gates Foundation Trust, Henry Ellenbogen, Chase Coleman, Lee Ainslie, David Abrams",1754034000,2.79,69,74354973,5.46,5.0,Q4 2025,17.786,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+ET,Energy Transfer LP,18.84,5,"Bruce Berkowitz, David Tepper, Leon Cooperman, Samantha McLemore, David Abrams",446322000,2.63,100,27066242,7.29,4.0,Q4 2025,16.63,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+AVTR,Avantor Inc.,9.05,5,"Robert Olstein, Dodge & Cox, Steven Romick, Greenhaven Associates, Mason Hawkins",1176311000,2.32,29,102321004,4.73,8.0,Q4 2025,20.318,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+NU,Nu Holdings Ltd,14.98,5,"Stephen Mandel, Chase Coleman, Howard Marks, Lee Ainslie, Polen Capital Management",971160000,1.62,203,58014367,3.64,4.0,Q4 2025,15.62,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+STLA,Stellantis N.V.,8.09,4,"Viking Global Investors, Bill Miller, Francis Chou, Greenhaven Associates",454567000,2.59,290,40921745,7.53,4.0,Q4 2025,14.5875,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+VFC,V.F. Corp.,19.42,3,"Glenn Welling, Dodge & Cox, Meridian Contrarian Fund",596987000,8.67,309,33104823,24.47,3.0,Q4 2025,17.67,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+MAT,Mattel Inc.,16.95,3,"John Rogers, Samantha McLemore, Mason Hawkins",150986000,4.12,182,8203486,6.86,3.0,Q4 2025,13.12,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+PCG,PG&E Corp.,19.0,3,"Daniel Loeb, David Einhorn, Steven Romick",687873000,4.05,225,42804813,7.59,3.0,Q4 2025,13.046666666666669,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+CNH,CNH Industrial NV,12.3,3,"David Einhorn, Tweedy Browne Co., Mason Hawkins",101880000,2.86,64,10464929,3.74,1.0,Q4 2025,9.863333333333332,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+CCC,CCC Intelligent Solutions Hldgs Inc.,5.83,3,"Chuck Akre, Triple Frond Partners, Torray Funds",237330000,2.13,53,29852877,3.97,10.0,Q4 2025,18.130000000000003,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+GPK,Graphic Packaging Hldg Co.,12.23,3,"David Einhorn, Sarah Ketterer, FPA Queens Road Small Cap Value Fund",200411000,1.99,123,13307516,4.45,7.0,Q4 2025,14.99,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+MANU,Manchester United plc,18.01,3,"John Rogers, Leon Cooperman, Lindsell Train",118723000,1.56,181,7457525,1.69,3.0,Q4 2025,10.56,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+LBTYA,Liberty Global Ltd CL A,12.74,3,"David Einhorn, Howard Marks, Seth Klarman",174185000,1.5,168,15636079,2.1,2.0,Q3 2025,9.5,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+VSH,Vishay Intertechnology,18.72,3,"First Eagle Investment Management, Robert Olstein, FPA Queens Road Small Cap Value Fund",40058000,0.93,312,2764494,2.53,4.0,Q4 2025,10.93,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+ADT,ADT Inc.,8.02,3,"Charles Bobrinskoy, John Rogers, Polen Capital Management",16351000,0.92,8,2026119,1.72,5.0,Q4 2025,11.92,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+TME,Tencent Music Entertainment Grp,14.6,3,"Sarah Ketterer, Polen Capital Management, William Von Mueffling",364809000,0.74,301,20810545,1.77,3.0,Q4 2025,9.736666666666666,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BLCO,Bausch + Lomb Corp,18.3,3,"Carl Icahn, Howard Marks, Lee Ainslie",120156000,0.67,37,7034922,1.27,4.0,Q4 2025,10.67,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+DEI,Douglas Emmett Inc.,9.89,3,"First Eagle Investment Management, Christopher Davis, Steven Romick",197671000,0.35,85,17986388,0.79,3.0,Q4 2025,9.35,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+VALE,Vale SA,17.18,3,"Howard Marks, Sarah Ketterer, Christopher Davis",76342000,0.3,308,5858904,0.58,2.0,Q4 2025,8.303333333333335,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+MAMA,Mama's Creations Inc,17.14,3,"Polen Capital Management, First Eagle Investment Management, Meridian Contrarian Fund",21672000,0.25,180,1690459,0.73,4.0,Q4 2025,10.253333333333334,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+PTON,Peloton Interactive Inc.,4.02,3,"David Einhorn, Samantha McLemore, Polen Capital Management",13328000,0.17,244,2163611,0.45,3.0,Q3 2025,9.166666666666668,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+SLM,SLM Corp.,18.74,2,"Glenn Greenberg, Michael Burry",360521000,16.14,278,13312019,24.16,4.0,Q4 2025,24.145,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+DCH,Dauch Corp.,6.6,2,"Alex Roepers, Bill Miller",23190000,5.36,84,3617780,6.8,4.0,Q4 2025,13.36,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+FLG,Flagstar Financial Inc.,12.69,2,"Third Avenue Management, Kahn Brothers Group",55327000,4.9,109,4394517,9.31,2.0,Q4 2025,10.905,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+ACI,Albertsons Co Inc.,17.9,2,"Harry Burn, Mason Hawkins",138661000,4.41,5,8007013,6.34,4.0,Q3 2025,12.41,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+TDAY,Gannett Co.,5.95,2,"Leon Cooperman, Bill Miller",49276000,3.62,296,9568156,6.18,6.0,Q4 2025,13.615,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+VTRS,Viatris Inc.,14.93,2,"Bill Miller, Christopher Davis",981023000,3.54,314,78796984,4.37,3.0,Q4 2025,10.545,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+KD,Kyndryl Holdings Inc,12.33,2,"David Einhorn, Harry Burn",180358000,3.04,158,6790576,3.56,5.0,Q4 2025,12.035,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+EVH,Evolent Health Inc.,3.25,2,"Glenn Welling, Lee Ainslie",32416000,2.9,101,8103842,5.68,5.0,Q4 2025,11.895,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+AERO,Grupo Aeromexico Sab De Cv,18.91,2,"Howard Marks, Seth Klarman",189563000,1.92,12,8632166,2.02,2.0,Q4 2025,7.925,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+AAL,American Airlines Group Inc.,13.07,2,"David Tepper, Lee Ainslie",219447000,1.6,0,14314825,3.17,4.0,Q4 2025,9.6,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+PENN,Penn National Gaming Inc.,15.64,2,"David Einhorn, Prem Watsa",89965000,1.58,226,6099340,3.13,3.0,Q3 2025,8.585,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+PGEN,Precigen Inc.,3.79,2,"Samantha McLemore, Polen Capital Management",78231000,1.5,229,18715561,3.01,2.0,Q4 2025,7.505,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+STKL,SunOpta Inc.,6.48,2,"Howard Marks, Leon Cooperman",113286000,1.44,289,29779426,1.74,5.0,Q4 2025,10.44,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+GRAB,Grab Holdings Ltd   Cl A,4.22,2,"Chase Coleman, Howard Marks",519616000,1.4,125,104131487,1.56,2.0,Q3 2025,7.395,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+KVUE,Kenvue Inc,19.12,2,"Daniel Loeb, Yacktman Asset Management",191605000,1.34,165,11107496,1.9,3.0,Q3 2025,8.335,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+MBI,MBIA Inc.,6.55,2,"Francis Chou, Kahn Brothers Group",9664000,1.22,184,1349784,1.3,1.0,Q3 2025,6.22,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+CAG,Conagra Brands Inc.,19.25,2,"Lee Ainslie, Hillman Value Fund",4769000,1.21,49,271502,2.39,1.0,Q4 2025,6.21,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+SD,SandRidge Energy Inc.,17.53,2,"Carl Icahn, Third Avenue Management",75648000,0.86,268,5242382,0.87,3.0,Q4 2025,7.855,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+YMM,Full Truck Alliance  Spn ADR,9.38,2,"Howard Marks, Christopher Davis",225945000,0.84,324,21057288,0.85,5.0,Q4 2025,9.84,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+MICC,Magnum Ice Cream Co NV,15.87,2,"First Eagle Investment Management, Steven Romick",342053000,0.8,187,21419863,1.15,2.0,Q4 2025,6.805,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+ADPT,Adaptive Biotechnologies Corp.,16.02,2,"Viking Global Investors, Polen Capital Management",492388000,0.66,7,30319475,1.3,3.0,Q4 2025,7.66,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+SOFI,SoFi Technologies Inc.,17.76,2,"Samantha McLemore, Polen Capital Management",34451000,0.61,282,1315934,1.21,1.0,Q2 2025,5.61,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+SVV,Savers Value Village Inc,9.43,2,"Lee Ainslie, Tom Bancroft",2602000,0.58,292,278589,1.16,2.0,Q4 2025,6.585,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+PLAY,Dave & Buster's Ent. Inc.,14.72,2,"Samantha McLemore, Lee Ainslie",32239000,0.55,235,1988828,1.04,5.0,Q4 2025,9.55,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+LYFT,Lyft Inc.,13.84,2,"David Tepper, Polen Capital Management",73959000,0.54,177,3818239,1.07,2.0,Q4 2025,6.535,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+INFY,Infosys Ltd.,14.44,2,"Howard Marks, Sarah Ketterer",63743000,0.52,146,3577070,0.61,2.0,Q4 2025,6.52,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+LILAK,Liberty LiLAC Group C,7.94,2,"Warren Buffett, Howard Marks",52465000,0.48,173,7032800,0.95,2.0,Q3 2025,6.475,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+JBS,Jbs Nv A,16.89,2,"Sarah Ketterer, Christopher Davis",171248000,0.38,154,11875735,0.77,4.0,Q4 2025,8.385,Affordable,stocks_under_$20,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3

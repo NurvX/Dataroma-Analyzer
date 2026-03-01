@@ -1,5 +1,41 @@
 [
   {
+    "id": "ARFFX",
+    "name": "Charles Bobrinskoy",
+    "firm": "Ariel Focus Fund Updated 26 Feb 2026",
+    "portfolio_value": 0,
+    "num_holdings": 0,
+    "url": "",
+    "last_updated": null
+  },
+  {
+    "id": "CAAPX",
+    "name": "John Rogers",
+    "firm": "Ariel Appreciation Fund Updated 26 Feb 2026",
+    "portfolio_value": 0,
+    "num_holdings": 0,
+    "url": "",
+    "last_updated": null
+  },
+  {
+    "id": "oaklx",
+    "name": "Bill Nygren",
+    "firm": "Oakmark Select Fund Updated 25 Feb 2026",
+    "portfolio_value": 0,
+    "num_holdings": 0,
+    "url": "",
+    "last_updated": null
+  },
+  {
+    "id": "SEQUX",
+    "name": "Ruane Cunniff",
+    "firm": "Sequoia Fund Updated 23 Feb 2026",
+    "portfolio_value": 0,
+    "num_holdings": 0,
+    "url": "",
+    "last_updated": null
+  },
+  {
     "id": "vg",
     "name": "Viking Global Investors Updated 17 Feb 2026",
     "firm": "",
@@ -675,15 +711,6 @@
     "last_updated": null
   },
   {
-    "id": "SEQUX",
-    "name": "Ruane Cunniff",
-    "firm": "Sequoia Fund Updated 26 Nov 2025",
-    "portfolio_value": 0,
-    "num_holdings": 0,
-    "url": "",
-    "last_updated": null
-  },
-  {
     "id": "LLPFX",
     "name": "Mason Hawkins",
     "firm": "Longleaf Partners Updated 26 Nov 2025",
@@ -696,33 +723,6 @@
     "id": "MVALX",
     "name": "Meridian Contrarian Fund Updated 25 Nov 2025",
     "firm": "",
-    "portfolio_value": 0,
-    "num_holdings": 0,
-    "url": "",
-    "last_updated": null
-  },
-  {
-    "id": "oaklx",
-    "name": "Bill Nygren",
-    "firm": "Oakmark Select Fund Updated 25 Nov 2025",
-    "portfolio_value": 0,
-    "num_holdings": 0,
-    "url": "",
-    "last_updated": null
-  },
-  {
-    "id": "ARFFX",
-    "name": "Charles Bobrinskoy",
-    "firm": "Ariel Focus Fund Updated 17 Nov 2025",
-    "portfolio_value": 0,
-    "num_holdings": 0,
-    "url": "",
-    "last_updated": null
-  },
-  {
-    "id": "CAAPX",
-    "name": "John Rogers",
-    "firm": "Ariel Appreciation Fund Updated 17 Nov 2025",
     "portfolio_value": 0,
     "num_holdings": 0,
     "url": "",

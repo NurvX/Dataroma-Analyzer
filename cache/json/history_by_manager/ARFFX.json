@@ -2,6 +2,138 @@
   "manager_id": "ARFFX",
   "activities": [
     {
+      "symbol": "FISV",
+      "manager_id": "ARFFX",
+      "action": "Add 855.32%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 25745,
+      "portfolio_percentage": 2.33,
+      "company_name": "Fiserv Inc."
+    },
+    {
+      "symbol": "PBH",
+      "manager_id": "ARFFX",
+      "action": "Add 25.16%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 13545,
+      "portfolio_percentage": 1.12,
+      "company_name": "Prestige Consumer Healthcare"
+    },
+    {
+      "symbol": "AJG",
+      "manager_id": "ARFFX",
+      "action": "Add 13.15%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 834,
+      "portfolio_percentage": 0.29,
+      "company_name": "Arthur J. Gallagher & Co."
+    },
+    {
+      "symbol": "ADT",
+      "manager_id": "ARFFX",
+      "action": "Buy",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 95610,
+      "portfolio_percentage": 1.04,
+      "company_name": "ADT Inc."
+    },
+    {
+      "symbol": "LMT",
+      "manager_id": "ARFFX",
+      "action": "Reduce 2.39%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 157,
+      "portfolio_percentage": 0.1,
+      "company_name": "Lockheed Martin Corp."
+    },
+    {
+      "symbol": "BOKF",
+      "manager_id": "ARFFX",
+      "action": "Reduce 3.47%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1242,
+      "portfolio_percentage": 0.2,
+      "company_name": "BOK Financial Corp."
+    },
+    {
+      "symbol": "B",
+      "manager_id": "ARFFX",
+      "action": "Reduce 12.23%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 13721,
+      "portfolio_percentage": 0.8,
+      "company_name": "Barrick Mining Corp."
+    },
+    {
+      "symbol": "AMG",
+      "manager_id": "ARFFX",
+      "action": "Reduce 13.33%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 2187,
+      "portfolio_percentage": 0.85,
+      "company_name": "Affiliated Managers Group"
+    },
+    {
+      "symbol": "JNJ",
+      "manager_id": "ARFFX",
+      "action": "Reduce 17.48%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 4168,
+      "portfolio_percentage": 1.16,
+      "company_name": "Johnson & Johnson"
+    },
+    {
+      "symbol": "GNRC",
+      "manager_id": "ARFFX",
+      "action": "Reduce 21.52%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 984,
+      "portfolio_percentage": 0.18,
+      "company_name": "Generac Holdings Inc."
+    },
+    {
+      "symbol": "REZI",
+      "manager_id": "ARFFX",
+      "action": "Reduce 22.94%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 22189,
+      "portfolio_percentage": 1.05,
+      "company_name": "Resideo Technologies Inc."
+    },
+    {
+      "symbol": "MSGE",
+      "manager_id": "ARFFX",
+      "action": "Reduce 36.93%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 12482,
+      "portfolio_percentage": 0.91,
+      "company_name": "Madison Square Garden Entertainment Corp."
+    },
+    {
       "symbol": "SLB",
       "manager_id": "ARFFX",
       "action": "Add 89.44%",
@@ -10868,140 +11000,8 @@
       "shares": 12400,
       "portfolio_percentage": 1.27,
       "company_name": "Northern Trust Corp."
-    },
-    {
-      "symbol": "EXE",
-      "manager_id": "ARFFX",
-      "action": "Add 29.00%",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 91,
-      "portfolio_percentage": 0.92,
-      "company_name": "Expand Energy Corp."
-    },
-    {
-      "symbol": "APOL",
-      "manager_id": "ARFFX",
-      "action": "Add 17.99%",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 3400,
-      "portfolio_percentage": 0.29,
-      "company_name": "Apollo Education Group Inc."
-    },
-    {
-      "symbol": "WBA-OLD",
-      "manager_id": "ARFFX",
-      "action": "Add 15.90%",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 6200,
-      "portfolio_percentage": 0.45,
-      "company_name": "Walgreens Boots Alliance"
-    },
-    {
-      "symbol": "ATGE",
-      "manager_id": "ARFFX",
-      "action": "Add 12.96%",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 4900,
-      "portfolio_percentage": 0.36,
-      "company_name": "Adtalem Global Education"
-    },
-    {
-      "symbol": "TGT",
-      "manager_id": "ARFFX",
-      "action": "Add 10.48%",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 4400,
-      "portfolio_percentage": 0.55,
-      "company_name": "Target Corp."
-    },
-    {
-      "symbol": "LMT",
-      "manager_id": "ARFFX",
-      "action": "Add 10.09%",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 2200,
-      "portfolio_percentage": 0.43,
-      "company_name": "Lockheed Martin Corp."
-    },
-    {
-      "symbol": "SNA",
-      "manager_id": "ARFFX",
-      "action": "Buy",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 7700,
-      "portfolio_percentage": 1.02,
-      "company_name": "Snap-On Inc."
-    },
-    {
-      "symbol": "DELL-OLD",
-      "manager_id": "ARFFX",
-      "action": "Reduce 5.46%",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 9100,
-      "portfolio_percentage": 0.33,
-      "company_name": "Dell Inc."
-    },
-    {
-      "symbol": "MSFT",
-      "manager_id": "ARFFX",
-      "action": "Reduce 7.39%",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 7500,
-      "portfolio_percentage": 0.52,
-      "company_name": "Microsoft Corp."
-    },
-    {
-      "symbol": "JPM",
-      "manager_id": "ARFFX",
-      "action": "Reduce 8.56%",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 2800,
-      "portfolio_percentage": 0.28,
-      "company_name": "JPMorgan Chase & Co."
-    },
-    {
-      "symbol": "ACN",
-      "manager_id": "ARFFX",
-      "action": "Reduce 10.89%",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 2700,
-      "portfolio_percentage": 0.38,
-      "company_name": "Accenture"
-    },
-    {
-      "symbol": "XOM",
-      "manager_id": "ARFFX",
-      "action": "Reduce 11.96%",
-      "date": "Q1 2012",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 3300,
-      "portfolio_percentage": 0.62,
-      "company_name": "Exxon Mobil Corp."
     }
   ],
-  "timestamp": "2026-02-23T15:44:41.161894",
-  "scraped_date": "2026-02-23"
+  "timestamp": "2026-03-01T06:25:41.940094",
+  "scraped_date": "2026-03-01"
 }

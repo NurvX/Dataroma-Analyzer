@@ -1,101 +1,101 @@
 ticker,manager,total_value,portfolio_pct,recent_actions,action_details,periods,change_type,concentration_score,_analysis_type,_generated,_periods,_window_quarters
-MOH,Michael Burry,23920000,43.49,Buy,Buy,Q3 2025,New High Conviction,86.98,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CVNA,Clifford Sosin,1945597000,83.25,"Reduce, Reduce, Reduce",Reduce 5.72%; Reduce 0.66%; Reduce 13.42%,"Q4 2025, Q3 2025, Q2 2025",Reduced,83.25,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-JOE,Bruce Berkowitz,1153112000,80.43,"Reduce, Reduce, Reduce",Reduce 0.80%; Reduce 3.10%; Reduce 0.01%,"Q4 2025, Q3 2025, Q2 2025",Reduced,80.43,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-IEP,Carl Icahn,4147974000,49.12,"Add, Add, Add",Add 5.87%; Add 4.88%; Add 9.76%,"Q4 2025, Q3 2025, Q2 2025",Increased,73.67999999999999,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-LULU,Michael Burry,17793000,32.35,"Add, Buy",Add 100.00%; Buy,"Q3 2025, Q2 2025",New High Conviction,64.7,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-HCC,Mohnish Pabrai,158691000,39.47,"Add, Add",Add 0.00%; Add 0.01%,"Q3 2025, Q2 2025",Increased,59.205,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-RIG,Mohnish Pabrai,111676000,27.78,"Add, Buy",Add 10.63%; Buy,"Q4 2025, Q3 2025",New High Conviction,55.56,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-AAPL,Duan Yongping,8796984000,50.3,"Reduce, Reduce, Add",Reduce 7.09%; Reduce 0.82%; Add 2.61%,"Q4 2025, Q3 2025, Q2 2025",Reduced,50.3,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-SLM,Michael Burry,13288000,24.16,Buy,Buy,Q3 2025,New High Conviction,48.32,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-GE,Nelson Peltz,1241597000,31.16,Add,Add 0.01%,Q4 2025,Increased,46.74,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-FICO,Valley Forge Capital Management,1300804000,29.49,Add,Add 0.13%,Q4 2025,Increased,44.235,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-AMR,Mohnish Pabrai,108535000,27.0,"Add, Add, Add",Add 2.07%; Add 15.57%; Add 11.02%,"Q4 2025, Q3 2025, Q2 2025",Increased,40.5,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-LOAR,David Abrams,2179416000,38.41,Reduce,Reduce 14.37%,Q2 2025,Reduced,38.41,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-JHG,Nelson Peltz,1515951000,38.05,,,,Maintained,38.05,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-AXTA,Alex Roepers,33085000,18.63,"Add, Buy",Add 34.03%; Buy,"Q4 2025, Q3 2025",New High Conviction,37.26,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-GPI,Greg Alexander,223561000,37.04,,,,Maintained,37.04,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BRK.A,Norbert Lou,109446000,36.38,,,,Maintained,36.38,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BRK.B,Guy Spier - Aquamarine Capital,49059000,33.25,Reduce,Reduce 30.58%,Q4 2025,Reduced,33.25,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-EQH,Greg Alexander,200130000,33.16,Reduce,Reduce 16.00%,Q3 2025,Reduced,33.16,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-AMZN,AltaRock Partners,1688341000,33.1,"Reduce, Add, Add",Reduce 3.22%; Add 20.43%; Add 20.63%,"Q4 2025, Q3 2025, Q2 2025",Reduced,33.1,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BRK.A,Francis Chou,64913000,32.21,,,,Maintained,32.21,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CVI,Carl Icahn,1791446000,21.21,Add,Add 2.75%,Q2 2025,Increased,31.815,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-SPGI,Valley Forge Capital Management,918807000,20.83,Add,Add 0.18%,Q4 2025,Increased,31.245,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BRK.B,Duan Yongping,3607115000,20.63,"Add, Add",Add 38.24%; Add 53.53%,"Q4 2025, Q3 2025",Increased,30.945,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BL,Glenn Welling,59913000,15.28,"Add, Buy",Add 138.79%; Buy,"Q4 2025, Q3 2025",New High Conviction,30.56,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CVNA,Robert Vinall,128042000,29.81,"Reduce, Reduce, Reduce",Reduce 31.86%; Reduce 12.76%; Reduce 6.79%,"Q4 2025, Q3 2025, Q2 2025",Reduced,29.81,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-PDD,Li Lu,522501000,14.64,Buy,Buy,Q2 2025,New High Conviction,29.28,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-MA,Valley Forge Capital Management,849132000,19.25,Add,Add 0.18%,Q4 2025,Increased,28.875,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-AMZN,Bill Ackman,2217678000,14.28,"Add, Buy",Add 64.99%; Buy,"Q4 2025, Q2 2025",New High Conviction,28.56,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-IBKR,Bryan Lawrence,66287000,28.42,,,,Maintained,28.42,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-KEX,Alex Roepers,24570000,13.83,Buy,Buy,Q4 2025,New High Conviction,27.66,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BRK.B,Bill & Melinda Gates Foundation Trust,9754810000,27.59,"Reduce, Reduce, Add",Reduce 10.84%; Reduce 9.78%; Add 40.48%,"Q4 2025, Q3 2025, Q2 2025",Reduced,27.59,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-GIL,Bryan Lawrence,42578000,18.25,Add,Add 11.44%,Q2 2025,Increased,27.375,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-GE,Chris Hohn,14634638000,27.28,Reduce,Reduce 0.13%,Q2 2025,Reduced,27.28,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-RKT,Leon Cooperman,406881000,13.5,Buy,Buy,Q4 2025,New High Conviction,27.0,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-ASML,Pat Dorsey,205780000,17.89,"Add, Add, Add",Add 11.04%; Add 23.74%; Add 98.37%,"Q4 2025, Q3 2025, Q2 2025",Increased,26.835,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CHTR,Tom Bancroft,34235000,26.77,Reduce,Reduce 18.07%,Q3 2025,Reduced,26.77,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-TDG,AltaRock Partners,1289157000,25.28,"Reduce, Reduce",Reduce 0.72%; Reduce 0.36%,"Q4 2025, Q3 2025",Reduced,25.28,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-LEN,Greenhaven Associates,1037678000,16.82,"Add, Add, Add",Add 4.57%; Add 1.68%; Add 0.57%,"Q4 2025, Q3 2025, Q2 2025",Increased,25.23,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-FLS,Alex Roepers,21785000,12.26,Buy,Buy,Q4 2025,New High Conviction,24.52,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-VFC,Glenn Welling,95942000,24.47,"Reduce, Add, Reduce",Reduce 9.48%; Add 8.21%; Reduce 1.22%,"Q4 2025, Q3 2025, Q2 2025",Reduced,24.47,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-PDD,Norbert Lou,47057000,15.64,Add,Add 35.29%,Q2 2025,Increased,23.46,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-YETI,Glenn Welling,89784000,22.9,"Reduce, Add, Add",Reduce 6.31%; Add 0.33%; Add 40.10%,"Q4 2025, Q3 2025, Q2 2025",Reduced,22.9,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-MCO,Valley Forge Capital Management,672939000,15.25,Add,Add 0.24%,Q4 2025,Increased,22.875,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-META,Bill Ackman,1764796000,11.37,Buy,Buy,Q4 2025,New High Conviction,22.74,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-AAPL,Warren Buffett,61961735000,22.6,"Reduce, Reduce, Reduce",Reduce 4.32%; Reduce 14.92%; Reduce 6.67%,"Q4 2025, Q3 2025, Q2 2025",Reduced,22.6,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-GOOGL,Li Lu,796053000,22.31,,,,Maintained,22.31,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-LAD,Greg Alexander,132932000,22.02,Reduce,Reduce 20.00%,Q3 2025,Reduced,22.02,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-LAD,David Abrams,827679000,14.59,Add,Add 1.88%,Q3 2025,Increased,21.885,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-MKL,Josh Tarasoff,49238000,14.37,Add,Add 2.00%,Q4 2025,Increased,21.555,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-GOOG,Li Lu,769218000,21.55,,,,Maintained,21.55,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CCL,Sarah Ketterer,1036674000,14.32,"Add, Add, Add",Add 6.37%; Add 9.56%; Add 9.65%,"Q4 2025, Q3 2025, Q2 2025",Increased,21.48,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-AMZN,Josh Tarasoff,73005000,21.31,"Reduce, Reduce",Reduce 1.74%; Reduce 0.85%,"Q4 2025, Q3 2025",Reduced,21.31,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BLK,ValueAct Capital,743886000,10.59,Buy,Buy,Q4 2025,New High Conviction,21.18,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-META,Robert Vinall,89978000,20.95,"Reduce, Reduce",Reduce 2.43%; Reduce 2.29%,"Q4 2025, Q3 2025",Reduced,20.95,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BABA,Dennis Hong,55430000,10.44,Buy,Buy,Q4 2025,New High Conviction,20.88,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-GRBK,David Einhorn,593226000,20.82,,,,Maintained,20.82,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-TDG,Bryan Lawrence,32142000,13.78,Add,Add 13.51%,Q3 2025,Increased,20.67,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-AXP,Warren Buffett,56088379000,20.46,,,,Maintained,20.46,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-ORLA,Prem Watsa,423611000,20.33,Reduce,Reduce 44.00%,Q4 2025,Reduced,20.33,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CACC,Robert Vinall,57841000,13.47,Add,Add 1.16%,Q3 2025,Increased,20.205,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-GM,Greenhaven Associates,1234353000,20.01,"Reduce, Reduce, Reduce",Reduce 34.19%; Reduce 2.49%; Reduce 0.53%,"Q4 2025, Q3 2025, Q2 2025",Reduced,20.01,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-MSFT,AltaRock Partners,1007069000,19.75,"Reduce, Reduce",Reduce 18.95%; Reduce 0.36%,"Q4 2025, Q3 2025",Reduced,19.75,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-MCO,Chris Hohn,6798636000,12.67,"Add, Add",Add 0.46%; Add 0.64%,"Q3 2025, Q2 2025",Increased,19.005,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BN,Josh Tarasoff,64864000,18.93,"Reduce, Buy, Sell",Reduce 1.04%; Buy; Sell 100.00%,"Q4 2025, Q3 2025, Q2 2025",Partial Exit,18.93,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-SGOV,Norbert Lou,56815000,18.88,Reduce,Reduce 2.60%,Q2 2025,Reduced,18.88,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-MA,Chuck Akre,1715654000,18.81,"Reduce, Reduce, Reduce",Reduce 4.76%; Reduce 4.24%; Reduce 1.07%,"Q4 2025, Q3 2025, Q2 2025",Reduced,18.81,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-V,John Armitage,1147172000,12.47,"Add, Add, Add",Add 37.24%; Add 24.76%; Add 99.20%,"Q4 2025, Q3 2025, Q2 2025",Increased,18.705,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-AMZN,Seth Klarman,489659000,9.28,Buy,Buy,Q4 2025,New High Conviction,18.56,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-RYCEF,Ruane Cunniff,670673000,18.19,,,,Maintained,18.19,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BN,Bill Ackman,2817788000,18.15,"Reduce, Reduce, Add",Reduce 0.21%; Reduce 0.34%; Add 0.38%,"Q4 2025, Q3 2025, Q2 2025",Reduced,18.15,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-V,Chris Hohn,9723166000,18.12,"Reduce, Add, Add",Reduce 1.19%; Add 47.15%; Add 14.61%,"Q4 2025, Q3 2025, Q2 2025",Reduced,18.12,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-C,Kahn Brothers Group,102253000,18.11,"Reduce, Reduce, Add",Reduce 0.04%; Reduce 1.13%; Add 1.13%,"Q4 2025, Q3 2025, Q2 2025",Reduced,18.11,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-WM,Bill & Melinda Gates Foundation Trust,6357165000,17.98,Reduce,Reduce 10.24%,Q3 2025,Reduced,17.98,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-OXY,Prem Watsa,248733000,11.94,Add,Add 0.50%,Q2 2025,Increased,17.91,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-MSFT,Triple Frond Partners,170478000,17.72,"Reduce, Reduce",Reduce 8.48%; Reduce 4.43%,"Q4 2025, Q3 2025",Reduced,17.72,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-SPGI,Chris Hohn,6161498000,11.48,"Add, Add, Add",Add 5.37%; Add 0.89%; Add 7.05%,"Q4 2025, Q3 2025, Q2 2025",Increased,17.22,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CGNX,Glenn Welling,33569000,8.56,"Add, Buy",Add 9.12%; Buy,"Q4 2025, Q3 2025",New High Conviction,17.12,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CRM,ValueAct Capital,793275000,11.29,Add,Add 3.31%,Q4 2025,Increased,16.935,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-CROX,Norbert Lou,50848000,16.9,"Reduce, Add, Buy",Reduce 5.96%; Add 19.04%; Buy,"Q4 2025, Q3 2025, Q2 2025",Reduced,16.9,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-GOOGL,Chase Coleman,3327629000,11.2,Add,Add 3.13%,Q2 2025,Increased,16.799999999999997,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-GOOGL,Lindsell Train,653731000,16.58,"Reduce, Add, Add",Reduce 6.51%; Add 10.15%; Add 11028.80%,"Q4 2025, Q3 2025, Q2 2025",Reduced,16.58,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-DHR,Pat Dorsey,189436000,16.47,"Reduce, Reduce, Add",Reduce 3.87%; Reduce 7.14%; Add 34.09%,"Q4 2025, Q3 2025, Q2 2025",Reduced,16.47,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-SOLV,Nelson Peltz,652680000,16.38,Reduce,Reduce 2.67%,Q4 2025,Reduced,16.38,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-AXP,Guy Spier - Aquamarine Capital,24047000,16.3,Reduce,Reduce 69.05%,Q4 2025,Reduced,16.3,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-RKT,ValueAct Capital,762409000,10.85,"Add, Add, Add",Add 55.07%; Add 67.90%; Add 124.80%,"Q4 2025, Q3 2025, Q2 2025",Increased,16.275,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BAC,Li Lu,573726000,16.08,Reduce,Reduce 24.66%,Q2 2025,Reduced,16.08,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-UBER,Bill Ackman,2468274000,15.9,"Reduce, Reduce",Reduce 0.21%; Reduce 0.10%,"Q4 2025, Q3 2025",Reduced,15.9,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-GOOG,Bryan Lawrence,37079000,15.9,,,,Maintained,15.9,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-MA,Guy Spier - Aquamarine Capital,22835000,15.48,Reduce,Reduce 39.16%,Q4 2025,Reduced,15.48,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-FLR,David Einhorn,220181000,7.73,"Add, Add, Buy",Add 0.77%; Add 44.35%; Buy,"Q4 2025, Q3 2025, Q2 2025",New High Conviction,15.46,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-BRK.A,Guy Spier - Aquamarine Capital,22644000,15.35,,,,Maintained,15.35,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-SW,Sarah Ketterer,739868000,10.22,"Add, Add, Add",Add 154.33%; Add 7.23%; Add 160.43%,"Q4 2025, Q3 2025, Q2 2025",Increased,15.330000000000002,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-DECK,Christopher Bloomstran,66317000,7.63,"Add, Add, Buy",Add 70.66%; Add 78.05%; Buy,"Q4 2025, Q3 2025, Q2 2025",New High Conviction,15.26,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-AER,Pat Dorsey,174677000,15.18,"Reduce, Reduce, Add",Reduce 3.87%; Reduce 7.14%; Add 19.55%,"Q4 2025, Q3 2025, Q2 2025",Reduced,15.18,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-MSFT,Chris Hohn,8116088000,15.13,"Add, Reduce, Add",Add 1.14%; Reduce 5.54%; Add 1.53%,"Q4 2025, Q3 2025, Q2 2025",Reduced,15.13,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-GOOG,Kahn Brothers Group,42494000,7.53,"Add, Add, Buy",Add 0.52%; Add 89.51%; Buy,"Q4 2025, Q3 2025, Q2 2025",New High Conviction,15.06,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-UAA,Prem Watsa,208536000,10.01,Add,Add 564.77%,Q4 2025,Increased,15.015,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-TKO,Lindsell Train,589423000,14.95,"Reduce, Reduce, Reduce",Reduce 4.55%; Reduce 6.90%; Reduce 6.50%,"Q4 2025, Q3 2025, Q2 2025",Reduced,14.95,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
-LYV,Pat Dorsey,85924000,7.47,Buy,Buy,Q4 2025,New High Conviction,14.94,concentration_changes,2026-02-23,"Q4 2025, Q3 2025, Q2 2025",3
+MOH,Michael Burry,23920000,43.49,Buy,Buy,Q3 2025,New High Conviction,86.98,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+CVNA,Clifford Sosin,1945597000,83.25,"Reduce, Reduce, Reduce",Reduce 5.72%; Reduce 0.66%; Reduce 13.42%,"Q4 2025, Q3 2025, Q2 2025",Reduced,83.25,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+JOE,Bruce Berkowitz,1153112000,80.43,"Reduce, Reduce, Reduce",Reduce 0.80%; Reduce 3.10%; Reduce 0.01%,"Q4 2025, Q3 2025, Q2 2025",Reduced,80.43,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+IEP,Carl Icahn,4147974000,49.12,"Add, Add, Add",Add 5.87%; Add 4.88%; Add 9.76%,"Q4 2025, Q3 2025, Q2 2025",Increased,73.67999999999999,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+LULU,Michael Burry,17793000,32.35,"Add, Buy",Add 100.00%; Buy,"Q3 2025, Q2 2025",New High Conviction,64.7,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+HCC,Mohnish Pabrai,158691000,39.47,"Add, Add",Add 0.00%; Add 0.01%,"Q3 2025, Q2 2025",Increased,59.205,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+RIG,Mohnish Pabrai,111676000,27.78,"Add, Buy",Add 10.63%; Buy,"Q4 2025, Q3 2025",New High Conviction,55.56,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+AAPL,Duan Yongping,8796984000,50.3,"Reduce, Reduce, Add",Reduce 7.09%; Reduce 0.82%; Add 2.61%,"Q4 2025, Q3 2025, Q2 2025",Reduced,50.3,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+SLM,Michael Burry,13288000,24.16,Buy,Buy,Q3 2025,New High Conviction,48.32,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+GE,Nelson Peltz,1241597000,31.16,Add,Add 0.01%,Q4 2025,Increased,46.74,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+FICO,Valley Forge Capital Management,1300804000,29.49,Add,Add 0.13%,Q4 2025,Increased,44.235,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+AMR,Mohnish Pabrai,108535000,27.0,"Add, Add, Add",Add 2.07%; Add 15.57%; Add 11.02%,"Q4 2025, Q3 2025, Q2 2025",Increased,40.5,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+LOAR,David Abrams,2179416000,38.41,Reduce,Reduce 14.37%,Q2 2025,Reduced,38.41,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+JHG,Nelson Peltz,1515951000,38.05,,,,Maintained,38.05,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+AXTA,Alex Roepers,33085000,18.63,"Add, Buy",Add 34.03%; Buy,"Q4 2025, Q3 2025",New High Conviction,37.26,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+GPI,Greg Alexander,223561000,37.04,,,,Maintained,37.04,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BRK.A,Norbert Lou,109446000,36.38,,,,Maintained,36.38,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BRK.B,Guy Spier - Aquamarine Capital,49059000,33.25,Reduce,Reduce 30.58%,Q4 2025,Reduced,33.25,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+EQH,Greg Alexander,200130000,33.16,Reduce,Reduce 16.00%,Q3 2025,Reduced,33.16,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+AMZN,AltaRock Partners,1688341000,33.1,"Reduce, Add, Add",Reduce 3.22%; Add 20.43%; Add 20.63%,"Q4 2025, Q3 2025, Q2 2025",Reduced,33.1,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BRK.A,Francis Chou,64913000,32.21,,,,Maintained,32.21,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+CVI,Carl Icahn,1791446000,21.21,Add,Add 2.75%,Q2 2025,Increased,31.815,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+SPGI,Valley Forge Capital Management,918807000,20.83,Add,Add 0.18%,Q4 2025,Increased,31.245,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BRK.B,Duan Yongping,3607115000,20.63,"Add, Add",Add 38.24%; Add 53.53%,"Q4 2025, Q3 2025",Increased,30.945,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BL,Glenn Welling,59913000,15.28,"Add, Buy",Add 138.79%; Buy,"Q4 2025, Q3 2025",New High Conviction,30.56,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+CVNA,Robert Vinall,128042000,29.81,"Reduce, Reduce, Reduce",Reduce 31.86%; Reduce 12.76%; Reduce 6.79%,"Q4 2025, Q3 2025, Q2 2025",Reduced,29.81,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+PDD,Li Lu,522501000,14.64,Buy,Buy,Q2 2025,New High Conviction,29.28,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+MA,Valley Forge Capital Management,849132000,19.25,Add,Add 0.18%,Q4 2025,Increased,28.875,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+AMZN,Bill Ackman,2217678000,14.28,"Add, Buy",Add 64.99%; Buy,"Q4 2025, Q2 2025",New High Conviction,28.56,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+IBKR,Bryan Lawrence,66287000,28.42,,,,Maintained,28.42,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+KEX,Alex Roepers,24570000,13.83,Buy,Buy,Q4 2025,New High Conviction,27.66,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BRK.B,Bill & Melinda Gates Foundation Trust,9754810000,27.59,"Reduce, Reduce, Add",Reduce 10.84%; Reduce 9.78%; Add 40.48%,"Q4 2025, Q3 2025, Q2 2025",Reduced,27.59,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+GIL,Bryan Lawrence,42578000,18.25,Add,Add 11.44%,Q2 2025,Increased,27.375,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+GE,Chris Hohn,14634638000,27.28,Reduce,Reduce 0.13%,Q2 2025,Reduced,27.28,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+RKT,Leon Cooperman,406881000,13.5,Buy,Buy,Q4 2025,New High Conviction,27.0,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+ASML,Pat Dorsey,205780000,17.89,"Add, Add, Add",Add 11.04%; Add 23.74%; Add 98.37%,"Q4 2025, Q3 2025, Q2 2025",Increased,26.835,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+CHTR,Tom Bancroft,34235000,26.77,Reduce,Reduce 18.07%,Q3 2025,Reduced,26.77,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+TDG,AltaRock Partners,1289157000,25.28,"Reduce, Reduce",Reduce 0.72%; Reduce 0.36%,"Q4 2025, Q3 2025",Reduced,25.28,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+LEN,Greenhaven Associates,1037678000,16.82,"Add, Add, Add",Add 4.57%; Add 1.68%; Add 0.57%,"Q4 2025, Q3 2025, Q2 2025",Increased,25.23,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+FLS,Alex Roepers,21785000,12.26,Buy,Buy,Q4 2025,New High Conviction,24.52,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+VFC,Glenn Welling,95942000,24.47,"Reduce, Add, Reduce",Reduce 9.48%; Add 8.21%; Reduce 1.22%,"Q4 2025, Q3 2025, Q2 2025",Reduced,24.47,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+PDD,Norbert Lou,47057000,15.64,Add,Add 35.29%,Q2 2025,Increased,23.46,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+YETI,Glenn Welling,89784000,22.9,"Reduce, Add, Add",Reduce 6.31%; Add 0.33%; Add 40.10%,"Q4 2025, Q3 2025, Q2 2025",Reduced,22.9,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+MCO,Valley Forge Capital Management,672939000,15.25,Add,Add 0.24%,Q4 2025,Increased,22.875,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+META,Bill Ackman,1764796000,11.37,Buy,Buy,Q4 2025,New High Conviction,22.74,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+AAPL,Warren Buffett,61961735000,22.6,"Reduce, Reduce, Reduce",Reduce 4.32%; Reduce 14.92%; Reduce 6.67%,"Q4 2025, Q3 2025, Q2 2025",Reduced,22.6,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+GOOGL,Li Lu,796053000,22.31,,,,Maintained,22.31,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+LAD,Greg Alexander,132932000,22.02,Reduce,Reduce 20.00%,Q3 2025,Reduced,22.02,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+LAD,David Abrams,827679000,14.59,Add,Add 1.88%,Q3 2025,Increased,21.885,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+MKL,Josh Tarasoff,49238000,14.37,Add,Add 2.00%,Q4 2025,Increased,21.555,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+GOOG,Li Lu,769218000,21.55,,,,Maintained,21.55,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+CCL,Sarah Ketterer,1036674000,14.32,"Add, Add, Add",Add 6.37%; Add 9.56%; Add 9.65%,"Q4 2025, Q3 2025, Q2 2025",Increased,21.48,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+AMZN,Josh Tarasoff,73005000,21.31,"Reduce, Reduce",Reduce 1.74%; Reduce 0.85%,"Q4 2025, Q3 2025",Reduced,21.31,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BLK,ValueAct Capital,743886000,10.59,Buy,Buy,Q4 2025,New High Conviction,21.18,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+META,Robert Vinall,89978000,20.95,"Reduce, Reduce",Reduce 2.43%; Reduce 2.29%,"Q4 2025, Q3 2025",Reduced,20.95,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BABA,Dennis Hong,55430000,10.44,Buy,Buy,Q4 2025,New High Conviction,20.88,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+GRBK,David Einhorn,593226000,20.82,,,,Maintained,20.82,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+TDG,Bryan Lawrence,32142000,13.78,Add,Add 13.51%,Q3 2025,Increased,20.67,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+AXP,Warren Buffett,56088379000,20.46,,,,Maintained,20.46,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+ORLA,Prem Watsa,423611000,20.33,Reduce,Reduce 44.00%,Q4 2025,Reduced,20.33,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+CACC,Robert Vinall,57841000,13.47,Add,Add 1.16%,Q3 2025,Increased,20.205,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+GM,Greenhaven Associates,1234353000,20.01,"Reduce, Reduce, Reduce",Reduce 34.19%; Reduce 2.49%; Reduce 0.53%,"Q4 2025, Q3 2025, Q2 2025",Reduced,20.01,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+MSFT,AltaRock Partners,1007069000,19.75,"Reduce, Reduce",Reduce 18.95%; Reduce 0.36%,"Q4 2025, Q3 2025",Reduced,19.75,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+MCO,Chris Hohn,6798636000,12.67,"Add, Add",Add 0.46%; Add 0.64%,"Q3 2025, Q2 2025",Increased,19.005,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BN,Josh Tarasoff,64864000,18.93,"Reduce, Buy, Sell",Reduce 1.04%; Buy; Sell 100.00%,"Q4 2025, Q3 2025, Q2 2025",Partial Exit,18.93,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+SGOV,Norbert Lou,56815000,18.88,Reduce,Reduce 2.60%,Q2 2025,Reduced,18.88,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+MA,Chuck Akre,1715654000,18.81,"Reduce, Reduce, Reduce",Reduce 4.76%; Reduce 4.24%; Reduce 1.07%,"Q4 2025, Q3 2025, Q2 2025",Reduced,18.81,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+V,John Armitage,1147172000,12.47,"Add, Add, Add",Add 37.24%; Add 24.76%; Add 99.20%,"Q4 2025, Q3 2025, Q2 2025",Increased,18.705,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+AMZN,Seth Klarman,489659000,9.28,Buy,Buy,Q4 2025,New High Conviction,18.56,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BN,Bill Ackman,2817788000,18.15,"Reduce, Reduce, Add",Reduce 0.21%; Reduce 0.34%; Add 0.38%,"Q4 2025, Q3 2025, Q2 2025",Reduced,18.15,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+V,Chris Hohn,9723166000,18.12,"Reduce, Add, Add",Reduce 1.19%; Add 47.15%; Add 14.61%,"Q4 2025, Q3 2025, Q2 2025",Reduced,18.12,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+C,Kahn Brothers Group,102253000,18.11,"Reduce, Reduce, Add",Reduce 0.04%; Reduce 1.13%; Add 1.13%,"Q4 2025, Q3 2025, Q2 2025",Reduced,18.11,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+WM,Bill & Melinda Gates Foundation Trust,6357165000,17.98,Reduce,Reduce 10.24%,Q3 2025,Reduced,17.98,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+OXY,Prem Watsa,248733000,11.94,Add,Add 0.50%,Q2 2025,Increased,17.91,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+MSFT,Triple Frond Partners,170478000,17.72,"Reduce, Reduce",Reduce 8.48%; Reduce 4.43%,"Q4 2025, Q3 2025",Reduced,17.72,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+SPGI,Chris Hohn,6161498000,11.48,"Add, Add, Add",Add 5.37%; Add 0.89%; Add 7.05%,"Q4 2025, Q3 2025, Q2 2025",Increased,17.22,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+CGNX,Glenn Welling,33569000,8.56,"Add, Buy",Add 9.12%; Buy,"Q4 2025, Q3 2025",New High Conviction,17.12,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+CRM,ValueAct Capital,793275000,11.29,Add,Add 3.31%,Q4 2025,Increased,16.935,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+CROX,Norbert Lou,50848000,16.9,"Reduce, Add, Buy",Reduce 5.96%; Add 19.04%; Buy,"Q4 2025, Q3 2025, Q2 2025",Reduced,16.9,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+GOOGL,Chase Coleman,3327629000,11.2,Add,Add 3.13%,Q2 2025,Increased,16.799999999999997,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+GOOGL,Lindsell Train,653731000,16.58,"Reduce, Add, Add",Reduce 6.51%; Add 10.15%; Add 11028.80%,"Q4 2025, Q3 2025, Q2 2025",Reduced,16.58,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+DHR,Pat Dorsey,189436000,16.47,"Reduce, Reduce, Add",Reduce 3.87%; Reduce 7.14%; Add 34.09%,"Q4 2025, Q3 2025, Q2 2025",Reduced,16.47,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+SOLV,Nelson Peltz,652680000,16.38,Reduce,Reduce 2.67%,Q4 2025,Reduced,16.38,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+AXP,Guy Spier - Aquamarine Capital,24047000,16.3,Reduce,Reduce 69.05%,Q4 2025,Reduced,16.3,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+RKT,ValueAct Capital,762409000,10.85,"Add, Add, Add",Add 55.07%; Add 67.90%; Add 124.80%,"Q4 2025, Q3 2025, Q2 2025",Increased,16.275,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BAC,Li Lu,573726000,16.08,Reduce,Reduce 24.66%,Q2 2025,Reduced,16.08,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+UBER,Bill Ackman,2468274000,15.9,"Reduce, Reduce",Reduce 0.21%; Reduce 0.10%,"Q4 2025, Q3 2025",Reduced,15.9,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+GOOG,Bryan Lawrence,37079000,15.9,,,,Maintained,15.9,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+MA,Guy Spier - Aquamarine Capital,22835000,15.48,Reduce,Reduce 39.16%,Q4 2025,Reduced,15.48,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+FLR,David Einhorn,220181000,7.73,"Add, Add, Buy",Add 0.77%; Add 44.35%; Buy,"Q4 2025, Q3 2025, Q2 2025",New High Conviction,15.46,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+BRK.A,Guy Spier - Aquamarine Capital,22644000,15.35,,,,Maintained,15.35,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+SW,Sarah Ketterer,739868000,10.22,"Add, Add, Add",Add 154.33%; Add 7.23%; Add 160.43%,"Q4 2025, Q3 2025, Q2 2025",Increased,15.330000000000002,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+DECK,Christopher Bloomstran,66317000,7.63,"Add, Add, Buy",Add 70.66%; Add 78.05%; Buy,"Q4 2025, Q3 2025, Q2 2025",New High Conviction,15.26,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+AER,Pat Dorsey,174677000,15.18,"Reduce, Reduce, Add",Reduce 3.87%; Reduce 7.14%; Add 19.55%,"Q4 2025, Q3 2025, Q2 2025",Reduced,15.18,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+MSFT,Chris Hohn,8116088000,15.13,"Add, Reduce, Add",Add 1.14%; Reduce 5.54%; Add 1.53%,"Q4 2025, Q3 2025, Q2 2025",Reduced,15.13,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+GOOG,Kahn Brothers Group,42494000,7.53,"Add, Add, Buy",Add 0.52%; Add 89.51%; Buy,"Q4 2025, Q3 2025, Q2 2025",New High Conviction,15.06,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+UAA,Prem Watsa,208536000,10.01,Add,Add 564.77%,Q4 2025,Increased,15.015,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+TKO,Lindsell Train,589423000,14.95,"Reduce, Reduce, Reduce",Reduce 4.55%; Reduce 6.90%; Reduce 6.50%,"Q4 2025, Q3 2025, Q2 2025",Reduced,14.95,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+LYV,Pat Dorsey,85924000,7.47,Buy,Buy,Q4 2025,New High Conviction,14.94,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+AMZN,John Armitage,1360106000,14.78,"Add, Add, Reduce",Add 45.38%; Add 21.45%; Reduce 20.95%,"Q4 2025, Q3 2025, Q2 2025",Reduced,14.78,concentration_changes,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
