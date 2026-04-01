@@ -2796,7 +2796,7 @@
       "company_name": "Hologic Inc."
     },
     {
-      "symbol": "TGNA",
+      "symbol": "TGNA-OLD",
       "manager_id": "ic",
       "action": "Sell 100.00%",
       "date": "Q1 2016",
@@ -2939,7 +2939,7 @@
       "company_name": "Apple Inc."
     },
     {
-      "symbol": "TGNA",
+      "symbol": "TGNA-OLD",
       "manager_id": "ic",
       "action": "Reduce 14.67%",
       "date": "Q4 2015",
@@ -3038,7 +3038,7 @@
       "company_name": "Icahn Enterprises"
     },
     {
-      "symbol": "TGNA",
+      "symbol": "TGNA-OLD",
       "manager_id": "ic",
       "action": "Buy",
       "date": "Q2 2015",
@@ -3566,6 +3566,6 @@
       "company_name": "WebMD Health Corp."
     }
   ],
-  "timestamp": "2026-03-01T06:25:41.996683",
-  "scraped_date": "2026-03-01"
+  "timestamp": "2026-04-01T06:39:58.093195",
+  "scraped_date": "2026-04-01"
 }

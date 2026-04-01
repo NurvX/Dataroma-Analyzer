@@ -5546,7 +5546,7 @@
       "company_name": "Meta Platforms Inc."
     },
     {
-      "symbol": "ALEX",
+      "symbol": "ALEX-OLD",
       "manager_id": "SAM",
       "action": "Sell 100.00%",
       "date": "Q1 2019",
@@ -5601,6 +5601,6 @@
       "company_name": "Mohawk Industries"
     }
   ],
-  "timestamp": "2026-03-01T06:25:42.473456",
-  "scraped_date": "2026-03-01"
+  "timestamp": "2026-04-01T06:39:58.537418",
+  "scraped_date": "2026-04-01"
 }

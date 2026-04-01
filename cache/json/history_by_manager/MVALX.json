@@ -2,6 +2,600 @@
   "manager_id": "MVALX",
   "activities": [
     {
+      "symbol": "GO",
+      "manager_id": "MVALX",
+      "action": "Add 143.64%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 158000,
+      "portfolio_percentage": 0.29,
+      "company_name": "Grocery Outlet Holding Corp."
+    },
+    {
+      "symbol": "KRNT",
+      "manager_id": "MVALX",
+      "action": "Add 128.06%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 251000,
+      "portfolio_percentage": 0.65,
+      "company_name": "Kornit Digital Ltd"
+    },
+    {
+      "symbol": "TFX",
+      "manager_id": "MVALX",
+      "action": "Add 52.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 26000,
+      "portfolio_percentage": 0.57,
+      "company_name": "Teleflex"
+    },
+    {
+      "symbol": "UHAL",
+      "manager_id": "MVALX",
+      "action": "Add 38.02%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 60000,
+      "portfolio_percentage": 0.55,
+      "company_name": "U-Haul Holding Co."
+    },
+    {
+      "symbol": "CSTM",
+      "manager_id": "MVALX",
+      "action": "Add 33.52%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 151466,
+      "portfolio_percentage": 0.51,
+      "company_name": "Constellium SE"
+    },
+    {
+      "symbol": "ADEA",
+      "manager_id": "MVALX",
+      "action": "Add 31.76%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 141000,
+      "portfolio_percentage": 0.44,
+      "company_name": "Adeia Inc"
+    },
+    {
+      "symbol": "CEVA",
+      "manager_id": "MVALX",
+      "action": "Add 29.37%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 116000,
+      "portfolio_percentage": 0.45,
+      "company_name": "CEVA Inc."
+    },
+    {
+      "symbol": "CRC",
+      "manager_id": "MVALX",
+      "action": "Add 29.21%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 52000,
+      "portfolio_percentage": 0.42,
+      "company_name": "California Resources Corp."
+    },
+    {
+      "symbol": "JHX",
+      "manager_id": "MVALX",
+      "action": "Add 21.28%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 40000,
+      "portfolio_percentage": 0.15,
+      "company_name": "James Hardie Industries PLC"
+    },
+    {
+      "symbol": "PSN",
+      "manager_id": "MVALX",
+      "action": "Add 15.69%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 19613,
+      "portfolio_percentage": 0.22,
+      "company_name": "Parsons Corp."
+    },
+    {
+      "symbol": "DNN",
+      "manager_id": "MVALX",
+      "action": "Add 15.04%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 435000,
+      "portfolio_percentage": 0.21,
+      "company_name": "Denison Mines Corp."
+    },
+    {
+      "symbol": "PDFS",
+      "manager_id": "MVALX",
+      "action": "Add 14.67%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 44000,
+      "portfolio_percentage": 0.23,
+      "company_name": "PDF Solutions Inc."
+    },
+    {
+      "symbol": "VSEC",
+      "manager_id": "MVALX",
+      "action": "Add 14.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 7000,
+      "portfolio_percentage": 0.22,
+      "company_name": "VSE Corp."
+    },
+    {
+      "symbol": "CNM",
+      "manager_id": "MVALX",
+      "action": "Add 12.85%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 23000,
+      "portfolio_percentage": 0.22,
+      "company_name": "Core & Main Inc Class A"
+    },
+    {
+      "symbol": "NXE",
+      "manager_id": "MVALX",
+      "action": "Add 11.16%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 55000,
+      "portfolio_percentage": 0.09,
+      "company_name": "Nexgen Energy Ltd"
+    },
+    {
+      "symbol": "RRX",
+      "manager_id": "MVALX",
+      "action": "Add 7.18%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 5000,
+      "portfolio_percentage": 0.13,
+      "company_name": "Regal Rexnord Corp."
+    },
+    {
+      "symbol": "BB",
+      "manager_id": "MVALX",
+      "action": "Add 3.92%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 50000,
+      "portfolio_percentage": 0.03,
+      "company_name": "BlackBerry Ltd."
+    },
+    {
+      "symbol": "TCBI",
+      "manager_id": "MVALX",
+      "action": "Add 2.11%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 3737,
+      "portfolio_percentage": 0.06,
+      "company_name": "Texas Capital Bancshares"
+    },
+    {
+      "symbol": "FCNCA",
+      "manager_id": "MVALX",
+      "action": "Add 1.95%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 179,
+      "portfolio_percentage": 0.07,
+      "company_name": "First Citizens Bancshares"
+    },
+    {
+      "symbol": "FND",
+      "manager_id": "MVALX",
+      "action": "Buy",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 94000,
+      "portfolio_percentage": 1.03,
+      "company_name": "Floor & Decor Holdings"
+    },
+    {
+      "symbol": "PVH",
+      "manager_id": "MVALX",
+      "action": "Buy",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 79000,
+      "portfolio_percentage": 0.95,
+      "company_name": "PVH Corp."
+    },
+    {
+      "symbol": "ERII",
+      "manager_id": "MVALX",
+      "action": "Buy",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 377000,
+      "portfolio_percentage": 0.92,
+      "company_name": "Energy Recovery Inc."
+    },
+    {
+      "symbol": "TFIN",
+      "manager_id": "MVALX",
+      "action": "Buy",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 50314,
+      "portfolio_percentage": 0.57,
+      "company_name": "Triumph Financial Inc."
+    },
+    {
+      "symbol": "TNDM",
+      "manager_id": "MVALX",
+      "action": "Buy",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 139000,
+      "portfolio_percentage": 0.55,
+      "company_name": "Tandem Diabetes Care Inc."
+    },
+    {
+      "symbol": "TRNS",
+      "manager_id": "MVALX",
+      "action": "Buy",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 54000,
+      "portfolio_percentage": 0.55,
+      "company_name": "Transcat Inc."
+    },
+    {
+      "symbol": "BBY",
+      "manager_id": "MVALX",
+      "action": "Buy",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 45000,
+      "portfolio_percentage": 0.54,
+      "company_name": "Best Buy Co. Inc."
+    },
+    {
+      "symbol": "BRKR",
+      "manager_id": "MVALX",
+      "action": "Buy",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 33000,
+      "portfolio_percentage": 0.28,
+      "company_name": "Bruker Corp."
+    },
+    {
+      "symbol": "FRMI",
+      "manager_id": "MVALX",
+      "action": "Buy",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 193000,
+      "portfolio_percentage": 0.28,
+      "company_name": "Fermi Inc."
+    },
+    {
+      "symbol": "PENG",
+      "manager_id": "MVALX",
+      "action": "Reduce 3.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 18000,
+      "portfolio_percentage": 0.06,
+      "company_name": "Penguin Solutions Inc."
+    },
+    {
+      "symbol": "DLTR",
+      "manager_id": "MVALX",
+      "action": "Reduce 7.80%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 11437,
+      "portfolio_percentage": 0.25,
+      "company_name": "Dollar Tree Inc."
+    },
+    {
+      "symbol": "EVRG",
+      "manager_id": "MVALX",
+      "action": "Reduce 10.87%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 20000,
+      "portfolio_percentage": 0.26,
+      "company_name": "Evergy Inc."
+    },
+    {
+      "symbol": "CCK",
+      "manager_id": "MVALX",
+      "action": "Reduce 11.22%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 15000,
+      "portfolio_percentage": 0.28,
+      "company_name": "Crown Holdings"
+    },
+    {
+      "symbol": "UVE",
+      "manager_id": "MVALX",
+      "action": "Reduce 11.89%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 29000,
+      "portfolio_percentage": 0.18,
+      "company_name": "Universal Insurance Holdings Inc."
+    },
+    {
+      "symbol": "AXS",
+      "manager_id": "MVALX",
+      "action": "Reduce 12.16%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 18000,
+      "portfolio_percentage": 0.35,
+      "company_name": "Axis Capital Holdings Ltd."
+    },
+    {
+      "symbol": "LEGN",
+      "manager_id": "MVALX",
+      "action": "Reduce 14.84%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 35000,
+      "portfolio_percentage": 0.14,
+      "company_name": "Legend Biotech Corp."
+    },
+    {
+      "symbol": "HNST",
+      "manager_id": "MVALX",
+      "action": "Reduce 15.04%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 451000,
+      "portfolio_percentage": 0.21,
+      "company_name": "The Honest Company inc."
+    },
+    {
+      "symbol": "AMBA",
+      "manager_id": "MVALX",
+      "action": "Reduce 15.38%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 10000,
+      "portfolio_percentage": 0.13,
+      "company_name": "Ambarella Inc."
+    },
+    {
+      "symbol": "CCJ",
+      "manager_id": "MVALX",
+      "action": "Reduce 15.46%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 23000,
+      "portfolio_percentage": 0.38,
+      "company_name": "Cameco Corp."
+    },
+    {
+      "symbol": "BWXT",
+      "manager_id": "MVALX",
+      "action": "Reduce 16.15%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 10497,
+      "portfolio_percentage": 0.33,
+      "company_name": "BWX Technologies Inc."
+    },
+    {
+      "symbol": "CRSR",
+      "manager_id": "MVALX",
+      "action": "Reduce 21.76%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 136000,
+      "portfolio_percentage": 0.14,
+      "company_name": "Corsair Gaming Inc."
+    },
+    {
+      "symbol": "ATZ.TO",
+      "manager_id": "MVALX",
+      "action": "Reduce 24.16%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 52000,
+      "portfolio_percentage": 0.8,
+      "company_name": "Aritzia Inc."
+    },
+    {
+      "symbol": "BEPC",
+      "manager_id": "MVALX",
+      "action": "Reduce 24.67%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 99000,
+      "portfolio_percentage": 0.68,
+      "company_name": "Brookfield Renewable Corp."
+    },
+    {
+      "symbol": "NGD-OLD",
+      "manager_id": "MVALX",
+      "action": "Reduce 26.92%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 414000,
+      "portfolio_percentage": 0.65,
+      "company_name": "New Gold Inc."
+    },
+    {
+      "symbol": "ZVIA",
+      "manager_id": "MVALX",
+      "action": "Reduce 32.27%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 387237,
+      "portfolio_percentage": 0.16,
+      "company_name": "Zevia PBC"
+    },
+    {
+      "symbol": "SUI",
+      "manager_id": "MVALX",
+      "action": "Reduce 34.16%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 31288,
+      "portfolio_percentage": 0.7,
+      "company_name": "Sun Communities Inc."
+    },
+    {
+      "symbol": "AMD",
+      "manager_id": "MVALX",
+      "action": "Reduce 53.70%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 29000,
+      "portfolio_percentage": 1.11,
+      "company_name": "Advanced Micro Devices"
+    },
+    {
+      "symbol": "DBRG",
+      "manager_id": "MVALX",
+      "action": "Reduce 56.24%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 513000,
+      "portfolio_percentage": 1.41,
+      "company_name": "DigitalBridge Group Inc."
+    },
+    {
+      "symbol": "PL",
+      "manager_id": "MVALX",
+      "action": "Reduce 56.83%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 411958,
+      "portfolio_percentage": 1.46,
+      "company_name": "Planet Labs PBC"
+    },
+    {
+      "symbol": "PRGO",
+      "manager_id": "MVALX",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 307000,
+      "portfolio_percentage": 1.25,
+      "company_name": "Perrigo Co."
+    },
+    {
+      "symbol": "LUCK",
+      "manager_id": "MVALX",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 578803,
+      "portfolio_percentage": 1.08,
+      "company_name": "Lucky Strike Entertainment Corp."
+    },
+    {
+      "symbol": "KNX",
+      "manager_id": "MVALX",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 54813,
+      "portfolio_percentage": 0.4,
+      "company_name": "Knight-Swift Transportation"
+    },
+    {
+      "symbol": "SG",
+      "manager_id": "MVALX",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 222157,
+      "portfolio_percentage": 0.32,
+      "company_name": "Sweetgreen Inc   Class A"
+    },
+    {
+      "symbol": "SNBR",
+      "manager_id": "MVALX",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 213000,
+      "portfolio_percentage": 0.27,
+      "company_name": "Sleep Number Corp."
+    },
+    {
+      "symbol": "NVTS",
+      "manager_id": "MVALX",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 106000,
+      "portfolio_percentage": 0.14,
+      "company_name": "Navitas Semiconductor Corp."
+    },
+    {
       "symbol": "PDFS",
       "manager_id": "MVALX",
       "action": "Add 361.54%",
@@ -277,7 +871,7 @@
       "company_name": "Legend Biotech Corp."
     },
     {
-      "symbol": "NGD",
+      "symbol": "NGD-OLD",
       "manager_id": "MVALX",
       "action": "Reduce 13.01%",
       "date": "Q3 2025",
@@ -827,7 +1421,7 @@
       "company_name": "Brookfield Renewable Corp."
     },
     {
-      "symbol": "NGD",
+      "symbol": "NGD-OLD",
       "manager_id": "MVALX",
       "action": "Reduce 5.35%",
       "date": "Q2 2025",
@@ -1190,7 +1784,7 @@
       "company_name": "BWX Technologies Inc."
     },
     {
-      "symbol": "NGD",
+      "symbol": "NGD-OLD",
       "manager_id": "MVALX",
       "action": "Add 10.21%",
       "date": "Q1 2025",
@@ -1630,7 +2224,7 @@
       "company_name": "Levi Strauss & Co."
     },
     {
-      "symbol": "ALEX",
+      "symbol": "ALEX-OLD",
       "manager_id": "MVALX",
       "action": "Sell 100.00%",
       "date": "Q1 2025",
@@ -1861,7 +2455,7 @@
       "company_name": "QuidelOrtho Corp."
     },
     {
-      "symbol": "NGD",
+      "symbol": "NGD-OLD",
       "manager_id": "MVALX",
       "action": "Add 1.99%",
       "date": "Q4 2024",
@@ -2114,7 +2708,7 @@
       "company_name": "Navitas Semiconductor Corp."
     },
     {
-      "symbol": "ALEX",
+      "symbol": "ALEX-OLD",
       "manager_id": "MVALX",
       "action": "Reduce 51.37%",
       "date": "Q4 2024",
@@ -2367,7 +2961,7 @@
       "company_name": "LPL Financial Holdings Inc."
     },
     {
-      "symbol": "NGD",
+      "symbol": "NGD-OLD",
       "manager_id": "MVALX",
       "action": "Buy",
       "date": "Q3 2024",
@@ -3126,7 +3720,7 @@
       "company_name": "MP Materials Corp."
     },
     {
-      "symbol": "ALEX",
+      "symbol": "ALEX-OLD",
       "manager_id": "MVALX",
       "action": "Reduce 30.99%",
       "date": "Q2 2024",
@@ -3500,7 +4094,7 @@
       "company_name": "ACV Auctions Inc."
     },
     {
-      "symbol": "ALEX",
+      "symbol": "ALEX-OLD",
       "manager_id": "MVALX",
       "action": "Reduce 8.65%",
       "date": "Q1 2024",
@@ -3962,7 +4556,7 @@
       "company_name": "nLight Inc."
     },
     {
-      "symbol": "ALEX",
+      "symbol": "ALEX-OLD",
       "manager_id": "MVALX",
       "action": "Add 3.85%",
       "date": "Q4 2023",
@@ -4479,7 +5073,7 @@
       "company_name": "Pinterest Inc."
     },
     {
-      "symbol": "ALEX",
+      "symbol": "ALEX-OLD",
       "manager_id": "MVALX",
       "action": "Add 4.01%",
       "date": "Q3 2023",
@@ -5535,7 +6129,7 @@
       "company_name": "APA Corp."
     },
     {
-      "symbol": "ALEX",
+      "symbol": "ALEX-OLD",
       "manager_id": "MVALX",
       "action": "Add 3.45%",
       "date": "Q1 2023",
@@ -7845,7 +8439,7 @@
       "company_name": "VICI Properties Inc."
     },
     {
-      "symbol": "ALEX",
+      "symbol": "ALEX-OLD",
       "manager_id": "MVALX",
       "action": "Add 4.17%",
       "date": "Q1 2022",
@@ -9825,7 +10419,7 @@
       "company_name": "Monro Inc."
     },
     {
-      "symbol": "ALEX",
+      "symbol": "ALEX-OLD",
       "manager_id": "MVALX",
       "action": "Add 63.53%",
       "date": "Q1 2021",
@@ -10406,602 +11000,8 @@
       "shares": 16875,
       "portfolio_percentage": 0.53,
       "company_name": "Spruce Power Holding Corp."
-    },
-    {
-      "symbol": "AEGN",
-      "manager_id": "MVALX",
-      "action": "Sell 100.00%",
-      "date": "Q1 2021",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 165000,
-      "portfolio_percentage": 0.52,
-      "company_name": "Aegion Corp."
-    },
-    {
-      "symbol": "DBRG",
-      "manager_id": "MVALX",
-      "action": "Add 158.92%",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 476750,
-      "portfolio_percentage": 1.53,
-      "company_name": "DigitalBridge Group Inc."
-    },
-    {
-      "symbol": "AXS",
-      "manager_id": "MVALX",
-      "action": "Add 141.74%",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 163000,
-      "portfolio_percentage": 1.37,
-      "company_name": "Axis Capital Holdings Ltd."
-    },
-    {
-      "symbol": "NWL",
-      "manager_id": "MVALX",
-      "action": "Add 91.91%",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 284000,
-      "portfolio_percentage": 1.01,
-      "company_name": "Newell Brands Inc."
-    },
-    {
-      "symbol": "PRGO",
-      "manager_id": "MVALX",
-      "action": "Add 85.62%",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 131000,
-      "portfolio_percentage": 0.98,
-      "company_name": "Perrigo Co."
-    },
-    {
-      "symbol": "PENG",
-      "manager_id": "MVALX",
-      "action": "Add 79.41%",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 270000,
-      "portfolio_percentage": 0.85,
-      "company_name": "Penguin Solutions Inc."
-    },
-    {
-      "symbol": "VRMMQ-OLD",
-      "manager_id": "MVALX",
-      "action": "Add 78.10%",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 520,
-      "portfolio_percentage": 0.29,
-      "company_name": "Vroom Inc."
-    },
-    {
-      "symbol": "WFC",
-      "manager_id": "MVALX",
-      "action": "Add 57.94%",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 135000,
-      "portfolio_percentage": 0.68,
-      "company_name": "Wells Fargo"
-    },
-    {
-      "symbol": "TEVA",
-      "manager_id": "MVALX",
-      "action": "Add 53.99%",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 291000,
-      "portfolio_percentage": 0.47,
-      "company_name": "Teva Pharmaceutical Industries Ltd."
-    },
-    {
-      "symbol": "APG",
-      "manager_id": "MVALX",
-      "action": "Add 39.06%",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 249000,
-      "portfolio_percentage": 0.5,
-      "company_name": "APi Group Corp."
-    },
-    {
-      "symbol": "AGR-OLD",
-      "manager_id": "MVALX",
-      "action": "Add 29.90%",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 61000,
-      "portfolio_percentage": 0.46,
-      "company_name": "Avangrid Inc."
-    },
-    {
-      "symbol": "CHNG-OLD",
-      "manager_id": "MVALX",
-      "action": "Add 25.98%",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 99000,
-      "portfolio_percentage": 0.31,
-      "company_name": "Change Healthcare Inc."
-    },
-    {
-      "symbol": "THS-OLD",
-      "manager_id": "MVALX",
-      "action": "Add 21.44%",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 104000,
-      "portfolio_percentage": 0.74,
-      "company_name": "TreeHouse Foods"
-    },
-    {
-      "symbol": "XEC",
-      "manager_id": "MVALX",
-      "action": "Add 19.15%",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 18000,
-      "portfolio_percentage": 0.11,
-      "company_name": "Cimarex Energy Co."
-    },
-    {
-      "symbol": "AMBA",
-      "manager_id": "MVALX",
-      "action": "Add 15.38%",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 10000,
-      "portfolio_percentage": 0.15,
-      "company_name": "Ambarella Inc."
-    },
-    {
-      "symbol": "WBT-OLD",
-      "manager_id": "MVALX",
-      "action": "Add 13.99%",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 153000,
-      "portfolio_percentage": 0.34,
-      "company_name": "Welbilt Inc."
-    },
-    {
-      "symbol": "LEA",
-      "manager_id": "MVALX",
-      "action": "Add 11.43%",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 8000,
-      "portfolio_percentage": 0.21,
-      "company_name": "Lear Corp."
-    },
-    {
-      "symbol": "AMSC",
-      "manager_id": "MVALX",
-      "action": "Add 9.09%",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 20000,
-      "portfolio_percentage": 0.08,
-      "company_name": "American Superconductor Corp."
-    },
-    {
-      "symbol": "NTST",
-      "manager_id": "MVALX",
-      "action": "Add 8.80%",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 22000,
-      "portfolio_percentage": 0.07,
-      "company_name": "Netstreit Corp."
-    },
-    {
-      "symbol": "APA",
-      "manager_id": "MVALX",
-      "action": "Add 8.08%",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 50000,
-      "portfolio_percentage": 0.12,
-      "company_name": "APA Corp."
-    },
-    {
-      "symbol": "AIG",
-      "manager_id": "MVALX",
-      "action": "Add 4.08%",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 15000,
-      "portfolio_percentage": 0.09,
-      "company_name": "American International Group"
-    },
-    {
-      "symbol": "CNH",
-      "manager_id": "MVALX",
-      "action": "Buy",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 930000,
-      "portfolio_percentage": 1.99,
-      "company_name": "CNH Industrial NV"
-    },
-    {
-      "symbol": "USB",
-      "manager_id": "MVALX",
-      "action": "Buy",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 218000,
-      "portfolio_percentage": 1.69,
-      "company_name": "U.S. Bancorp"
-    },
-    {
-      "symbol": "CVA",
-      "manager_id": "MVALX",
-      "action": "Buy",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 634000,
-      "portfolio_percentage": 1.39,
-      "company_name": "Covanta Holding Corp."
-    },
-    {
-      "symbol": "ALEX",
-      "manager_id": "MVALX",
-      "action": "Buy",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 425000,
-      "portfolio_percentage": 1.22,
-      "company_name": "Alexander & Baldwin"
-    },
-    {
-      "symbol": "SABR",
-      "manager_id": "MVALX",
-      "action": "Buy",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 584000,
-      "portfolio_percentage": 1.17,
-      "company_name": "Sabre Corp."
-    },
-    {
-      "symbol": "CMA",
-      "manager_id": "MVALX",
-      "action": "Buy",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 112000,
-      "portfolio_percentage": 1.04,
-      "company_name": "Comerica Inc."
-    },
-    {
-      "symbol": "ALGM",
-      "manager_id": "MVALX",
-      "action": "Buy",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 142000,
-      "portfolio_percentage": 0.63,
-      "company_name": "Allegro MicroSystems Inc."
-    },
-    {
-      "symbol": "JWN-OLD",
-      "manager_id": "MVALX",
-      "action": "Buy",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 120000,
-      "portfolio_percentage": 0.62,
-      "company_name": "Nordstrom"
-    },
-    {
-      "symbol": "MNRO",
-      "manager_id": "MVALX",
-      "action": "Buy",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 65000,
-      "portfolio_percentage": 0.58,
-      "company_name": "Monro Inc."
-    },
-    {
-      "symbol": "BTWNU",
-      "manager_id": "MVALX",
-      "action": "Buy",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 200000,
-      "portfolio_percentage": 0.57,
-      "company_name": "Bridgetown Holdings Ltd"
-    },
-    {
-      "symbol": "LEGN",
-      "manager_id": "MVALX",
-      "action": "Buy",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 112821,
-      "portfolio_percentage": 0.53,
-      "company_name": "Legend Biotech Corp."
-    },
-    {
-      "symbol": "SPRU",
-      "manager_id": "MVALX",
-      "action": "Buy",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 16875,
-      "portfolio_percentage": 0.53,
-      "company_name": "Spruce Power Holding Corp."
-    },
-    {
-      "symbol": "AEGN",
-      "manager_id": "MVALX",
-      "action": "Buy",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 165000,
-      "portfolio_percentage": 0.52,
-      "company_name": "Aegion Corp."
-    },
-    {
-      "symbol": "AGS-OLD",
-      "manager_id": "MVALX",
-      "action": "Buy",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 200000,
-      "portfolio_percentage": 0.24,
-      "company_name": "PlayAGS Inc."
-    },
-    {
-      "symbol": "SBH",
-      "manager_id": "MVALX",
-      "action": "Reduce 1.85%",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 15000,
-      "portfolio_percentage": 0.03,
-      "company_name": "Sally Beauty Holdings"
-    },
-    {
-      "symbol": "PENN",
-      "manager_id": "MVALX",
-      "action": "Reduce 5.00%",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 5000,
-      "portfolio_percentage": 0.07,
-      "company_name": "Penn National Gaming Inc."
-    },
-    {
-      "symbol": "CACI",
-      "manager_id": "MVALX",
-      "action": "Reduce 5.66%",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 3000,
-      "portfolio_percentage": 0.12,
-      "company_name": "CACI International Inc."
-    },
-    {
-      "symbol": "VCTR",
-      "manager_id": "MVALX",
-      "action": "Reduce 9.46%",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 14000,
-      "portfolio_percentage": 0.06,
-      "company_name": "Victory Capital Holdings"
-    },
-    {
-      "symbol": "AMD",
-      "manager_id": "MVALX",
-      "action": "Reduce 10.75%",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 10000,
-      "portfolio_percentage": 0.15,
-      "company_name": "Advanced Micro Devices"
-    },
-    {
-      "symbol": "AQUA-OLD",
-      "manager_id": "MVALX",
-      "action": "Reduce 13.48%",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 50000,
-      "portfolio_percentage": 0.22,
-      "company_name": "Evoqua Water Technologies Corp."
-    },
-    {
-      "symbol": "ACHC",
-      "manager_id": "MVALX",
-      "action": "Reduce 15.44%",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 69000,
-      "portfolio_percentage": 0.58,
-      "company_name": "Acadia Healthcare Co."
-    },
-    {
-      "symbol": "ZUO-OLD",
-      "manager_id": "MVALX",
-      "action": "Reduce 15.86%",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 79000,
-      "portfolio_percentage": 0.18,
-      "company_name": "Zuora Inc."
-    },
-    {
-      "symbol": "NOMD",
-      "manager_id": "MVALX",
-      "action": "Reduce 17.01%",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 50000,
-      "portfolio_percentage": 0.21,
-      "company_name": "Nomad Foods Ltd"
-    },
-    {
-      "symbol": "TRMB",
-      "manager_id": "MVALX",
-      "action": "Reduce 18.48%",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 32000,
-      "portfolio_percentage": 0.36,
-      "company_name": "Trimble Inc."
-    },
-    {
-      "symbol": "VICI",
-      "manager_id": "MVALX",
-      "action": "Reduce 18.67%",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 143000,
-      "portfolio_percentage": 0.61,
-      "company_name": "VICI Properties Inc."
-    },
-    {
-      "symbol": "RNR",
-      "manager_id": "MVALX",
-      "action": "Reduce 19.15%",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 9000,
-      "portfolio_percentage": 0.25,
-      "company_name": "RenaissanceRe Holdings Ltd."
-    },
-    {
-      "symbol": "MATX",
-      "manager_id": "MVALX",
-      "action": "Reduce 23.29%",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 54000,
-      "portfolio_percentage": 0.51,
-      "company_name": "Matson Inc."
-    },
-    {
-      "symbol": "MU",
-      "manager_id": "MVALX",
-      "action": "Reduce 25.11%",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 55000,
-      "portfolio_percentage": 0.69,
-      "company_name": "Micron Technology Inc."
-    },
-    {
-      "symbol": "WMS",
-      "manager_id": "MVALX",
-      "action": "Reduce 27.22%",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 38000,
-      "portfolio_percentage": 0.53,
-      "company_name": "Advanced Drainage Systems"
-    },
-    {
-      "symbol": "NUAN-OLD",
-      "manager_id": "MVALX",
-      "action": "Reduce 27.59%",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 80000,
-      "portfolio_percentage": 0.59,
-      "company_name": "Nuance Communications Inc."
-    },
-    {
-      "symbol": "NEM",
-      "manager_id": "MVALX",
-      "action": "Reduce 28.38%",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 42000,
-      "portfolio_percentage": 0.42,
-      "company_name": "Newmont Corp."
-    },
-    {
-      "symbol": "ON",
-      "manager_id": "MVALX",
-      "action": "Reduce 28.96%",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 137000,
-      "portfolio_percentage": 0.75,
-      "company_name": "ON Semiconductor Corp."
-    },
-    {
-      "symbol": "HBI-OLD",
-      "manager_id": "MVALX",
-      "action": "Reduce 29.55%",
-      "date": "Q4 2020",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 125000,
-      "portfolio_percentage": 0.3,
-      "company_name": "Hanesbrands Inc."
     }
   ],
-  "timestamp": "2026-03-01T06:25:42.464249",
-  "scraped_date": "2026-03-01"
+  "timestamp": "2026-04-01T06:39:58.021789",
+  "scraped_date": "2026-04-01"
 }

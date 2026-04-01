@@ -2208,7 +2208,7 @@
       "date": "Q4 2025",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 803533,
+      "shares": 66961,
       "portfolio_percentage": 0.0,
       "company_name": "fuboTV Inc."
     },
@@ -11002,6 +11002,6 @@
       "company_name": "Mayville Engineering Co. Inc."
     }
   ],
-  "timestamp": "2026-03-01T06:25:42.331513",
-  "scraped_date": "2026-03-01"
+  "timestamp": "2026-04-01T06:39:58.416234",
+  "scraped_date": "2026-04-01"
 }

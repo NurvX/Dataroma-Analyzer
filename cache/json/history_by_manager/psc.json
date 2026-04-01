@@ -2785,7 +2785,7 @@
       "company_name": "Mondelez International"
     },
     {
-      "symbol": "ALEX",
+      "symbol": "ALEX-OLD",
       "manager_id": "psc",
       "action": "Sell 100.00%",
       "date": "Q4 2012",
@@ -2840,7 +2840,7 @@
       "company_name": "Matson Inc."
     },
     {
-      "symbol": "ALEX",
+      "symbol": "ALEX-OLD",
       "manager_id": "psc",
       "action": "Reduce 61.40%",
       "date": "Q3 2012",
@@ -2917,7 +2917,7 @@
       "company_name": "Family Dollar Stores"
     },
     {
-      "symbol": "ALEX",
+      "symbol": "ALEX-OLD",
       "manager_id": "psc",
       "action": "Add 2.33%",
       "date": "Q1 2012",
@@ -3236,7 +3236,7 @@
       "company_name": "CoreCivic Inc."
     },
     {
-      "symbol": "ALEX",
+      "symbol": "ALEX-OLD",
       "manager_id": "psc",
       "action": "Add 1970.89%",
       "date": "Q1 2011",
@@ -3412,7 +3412,7 @@
       "company_name": "Howard Hughes Holdings Inc."
     },
     {
-      "symbol": "ALEX",
+      "symbol": "ALEX-OLD",
       "manager_id": "psc",
       "action": "Buy",
       "date": "Q4 2010",
@@ -4490,6 +4490,6 @@
       "company_name": "Staples Inc."
     }
   ],
-  "timestamp": "2026-03-01T06:25:42.020482",
-  "scraped_date": "2026-03-01"
+  "timestamp": "2026-04-01T06:39:58.116196",
+  "scraped_date": "2026-04-01"
 }

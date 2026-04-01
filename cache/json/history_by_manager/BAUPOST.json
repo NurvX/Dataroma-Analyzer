@@ -1817,7 +1817,7 @@
       "company_name": "Liberty Media Corp. Series C Live"
     },
     {
-      "symbol": "FNCH",
+      "symbol": "FNCHQ",
       "manager_id": "BAUPOST",
       "action": "Sell 100.00%",
       "date": "Q1 2024",
@@ -2010,7 +2010,7 @@
       "date": "Q4 2023",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 6153982,
+      "shares": 246160,
       "portfolio_percentage": 0.34,
       "company_name": "Advantage Solutions Inc."
     },
@@ -2208,7 +2208,7 @@
       "date": "Q3 2023",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 4497387,
+      "shares": 179896,
       "portfolio_percentage": 0.25,
       "company_name": "Advantage Solutions Inc."
     },
@@ -2389,7 +2389,7 @@
       "company_name": "CRH plc"
     },
     {
-      "symbol": "FNCH",
+      "symbol": "FNCHQ",
       "manager_id": "BAUPOST",
       "action": "Reduce 0.01%",
       "date": "Q2 2023",
@@ -2406,7 +2406,7 @@
       "date": "Q2 2023",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 350255,
+      "shares": 14011,
       "portfolio_percentage": 0.01,
       "company_name": "Advantage Solutions Inc."
     },
@@ -2543,7 +2543,7 @@
       "company_name": "Fidelity National Information Services"
     },
     {
-      "symbol": "FNCH",
+      "symbol": "FNCHQ",
       "manager_id": "BAUPOST",
       "action": "Add 98.13%",
       "date": "Q1 2023",
@@ -2989,12 +2989,12 @@
       "date": "Q4 2022",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 839703,
+      "shares": 33589,
       "portfolio_percentage": 0.03,
       "company_name": "Advantage Solutions Inc."
     },
     {
-      "symbol": "FNCH",
+      "symbol": "FNCHQ",
       "manager_id": "BAUPOST",
       "action": "Reduce 9.27%",
       "date": "Q4 2022",
@@ -3671,7 +3671,7 @@
       "date": "Q2 2022",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 198625,
+      "shares": 7945,
       "portfolio_percentage": 0.01,
       "company_name": "Advantage Solutions Inc."
     },
@@ -4105,7 +4105,7 @@
       "company_name": "Ermenegildo Zegna Hold  WTS27"
     },
     {
-      "symbol": "FNCH",
+      "symbol": "FNCHQ",
       "manager_id": "BAUPOST",
       "action": "Reduce 0.81%",
       "date": "Q1 2022",
@@ -4177,7 +4177,7 @@
       "date": "Q1 2022",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 155048,
+      "shares": 6202,
       "portfolio_percentage": 0.01,
       "company_name": "Advantage Solutions Inc."
     },
@@ -4556,7 +4556,7 @@
       "company_name": "Trilogy Metals Inc."
     },
     {
-      "symbol": "FNCH",
+      "symbol": "FNCHQ",
       "manager_id": "BAUPOST",
       "action": "Reduce 6.28%",
       "date": "Q4 2021",
@@ -5189,7 +5189,7 @@
       "date": "Q2 2021",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 305000,
+      "shares": 12200,
       "portfolio_percentage": 0.03,
       "company_name": "Advantage Solutions Inc."
     },
@@ -5601,7 +5601,7 @@
       "company_name": "Investindustrial Acquisition Corp."
     },
     {
-      "symbol": "FNCH",
+      "symbol": "FNCHQ",
       "manager_id": "BAUPOST",
       "action": "Buy",
       "date": "Q1 2021",
@@ -6036,7 +6036,7 @@
       "date": "Q4 2020",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 12500000,
+      "shares": 500000,
       "portfolio_percentage": 1.49,
       "company_name": "Advantage Solutions Inc."
     },
@@ -11002,6 +11002,6 @@
       "company_name": "PayPal Holdings Inc."
     }
   ],
-  "timestamp": "2026-03-01T06:25:42.200616",
-  "scraped_date": "2026-03-01"
+  "timestamp": "2026-04-01T06:39:58.290137",
+  "scraped_date": "2026-04-01"
 }

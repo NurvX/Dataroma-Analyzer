@@ -9077,7 +9077,7 @@
       "company_name": "ZoomInfo Technologies Inc."
     },
     {
-      "symbol": "CFLT",
+      "symbol": "CFLT-OLD",
       "manager_id": "vg",
       "action": "Sell 100.00%",
       "date": "Q4 2023",
@@ -9583,7 +9583,7 @@
       "company_name": "Boston Scientific"
     },
     {
-      "symbol": "CFLT",
+      "symbol": "CFLT-OLD",
       "manager_id": "vg",
       "action": "Buy",
       "date": "Q3 2023",
@@ -11002,6 +11002,6 @@
       "company_name": "Catalent Inc."
     }
   ],
-  "timestamp": "2026-03-01T06:25:41.976084",
-  "scraped_date": "2026-03-01"
+  "timestamp": "2026-04-01T06:39:58.073005",
+  "scraped_date": "2026-04-01"
 }

@@ -2411,7 +2411,7 @@
       "company_name": "Intuit Inc."
     },
     {
-      "symbol": "CFLT",
+      "symbol": "CFLT-OLD",
       "manager_id": "TGM",
       "action": "Sell 100.00%",
       "date": "Q4 2023",
@@ -2565,7 +2565,7 @@
       "company_name": "NVIDIA Corp."
     },
     {
-      "symbol": "CFLT",
+      "symbol": "CFLT-OLD",
       "manager_id": "TGM",
       "action": "Add 71.89%",
       "date": "Q3 2023",
@@ -3126,7 +3126,7 @@
       "company_name": "Pagaya Technologies Ltd  A"
     },
     {
-      "symbol": "CFLT",
+      "symbol": "CFLT-OLD",
       "manager_id": "TGM",
       "action": "Reduce 47.48%",
       "date": "Q2 2023",
@@ -3489,7 +3489,7 @@
       "company_name": "Alphabet Inc."
     },
     {
-      "symbol": "CFLT",
+      "symbol": "CFLT-OLD",
       "manager_id": "TGM",
       "action": "Add 84.37%",
       "date": "Q1 2023",
@@ -4061,7 +4061,7 @@
       "company_name": "Take-Two Interactive Software"
     },
     {
-      "symbol": "CFLT",
+      "symbol": "CFLT-OLD",
       "manager_id": "TGM",
       "action": "Buy",
       "date": "Q4 2022",
@@ -5898,7 +5898,7 @@
       "company_name": "Salesforce.com"
     },
     {
-      "symbol": "CFLT",
+      "symbol": "CFLT-OLD",
       "manager_id": "TGM",
       "action": "Sell 100.00%",
       "date": "Q2 2022",
@@ -6624,7 +6624,7 @@
       "company_name": "Elastic NV"
     },
     {
-      "symbol": "CFLT",
+      "symbol": "CFLT-OLD",
       "manager_id": "TGM",
       "action": "Reduce 65.25%",
       "date": "Q1 2022",
@@ -7713,7 +7713,7 @@
       "company_name": "Li Auto Inc."
     },
     {
-      "symbol": "CFLT",
+      "symbol": "CFLT-OLD",
       "manager_id": "TGM",
       "action": "Add 875.99%",
       "date": "Q4 2021",
@@ -9704,7 +9704,7 @@
       "company_name": "TCV Acquisition Corp."
     },
     {
-      "symbol": "CFLT",
+      "symbol": "CFLT-OLD",
       "manager_id": "TGM",
       "action": "Buy",
       "date": "Q2 2021",
@@ -11002,6 +11002,6 @@
       "company_name": "Sunrun Inc."
     }
   ],
-  "timestamp": "2026-03-01T06:25:42.102917",
-  "scraped_date": "2026-03-01"
+  "timestamp": "2026-04-01T06:39:58.195677",
+  "scraped_date": "2026-04-01"
 }

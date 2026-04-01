@@ -9275,7 +9275,7 @@
       "company_name": "Jacobs Solutions Inc."
     },
     {
-      "symbol": "NGD",
+      "symbol": "NGD-OLD",
       "manager_id": "GC",
       "action": "Sell 100.00%",
       "date": "Q3 2021",
@@ -9605,7 +9605,7 @@
       "company_name": "Ishares U.S. Home Constructi"
     },
     {
-      "symbol": "NGD",
+      "symbol": "NGD-OLD",
       "manager_id": "GC",
       "action": "Buy",
       "date": "Q2 2021",
@@ -11002,6 +11002,6 @@
       "company_name": "Lululemon Athletica Inc."
     }
   ],
-  "timestamp": "2026-03-01T06:25:42.216068",
-  "scraped_date": "2026-03-01"
+  "timestamp": "2026-04-01T06:39:58.305000",
+  "scraped_date": "2026-04-01"
 }

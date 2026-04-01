@@ -4996,7 +4996,7 @@
       "company_name": "NetEase.com Inc."
     },
     {
-      "symbol": "CFLT",
+      "symbol": "CFLT-OLD",
       "manager_id": "LPC",
       "action": "Sell 100.00%",
       "date": "Q1 2022",
@@ -5062,7 +5062,7 @@
       "company_name": "NetEase.com Inc."
     },
     {
-      "symbol": "CFLT",
+      "symbol": "CFLT-OLD",
       "manager_id": "LPC",
       "action": "Add 215.39%",
       "date": "Q4 2021",
@@ -5502,7 +5502,7 @@
       "company_name": "Twitter Inc."
     },
     {
-      "symbol": "CFLT",
+      "symbol": "CFLT-OLD",
       "manager_id": "LPC",
       "action": "Add 114.56%",
       "date": "Q3 2021",
@@ -6063,7 +6063,7 @@
       "company_name": "FIGS Inc."
     },
     {
-      "symbol": "CFLT",
+      "symbol": "CFLT-OLD",
       "manager_id": "LPC",
       "action": "Buy",
       "date": "Q2 2021",
@@ -11002,6 +11002,6 @@
       "company_name": "ServiceNow Inc."
     }
   ],
-  "timestamp": "2026-03-01T06:25:42.030979",
-  "scraped_date": "2026-03-01"
+  "timestamp": "2026-04-01T06:39:58.126213",
+  "scraped_date": "2026-04-01"
 }

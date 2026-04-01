@@ -2,6 +2,138 @@
   "manager_id": "LLPFX",
   "activities": [
     {
+      "symbol": "PCH-OLD",
+      "manager_id": "LLPFX",
+      "action": "Add 22.28%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 235096,
+      "portfolio_percentage": 0.94,
+      "company_name": "PotlatchDeltic Corp."
+    },
+    {
+      "symbol": "EXXRF",
+      "manager_id": "LLPFX",
+      "action": "Add 19.70%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 127780,
+      "portfolio_percentage": 1.09,
+      "company_name": "Exor NV"
+    },
+    {
+      "symbol": "RYN",
+      "manager_id": "LLPFX",
+      "action": "Add 6.51%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 146399,
+      "portfolio_percentage": 0.32,
+      "company_name": "Rayonier Inc."
+    },
+    {
+      "symbol": "IAC",
+      "manager_id": "LLPFX",
+      "action": "Add 3.96%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 73839,
+      "portfolio_percentage": 0.29,
+      "company_name": "IAC Inc."
+    },
+    {
+      "symbol": "MICC",
+      "manager_id": "LLPFX",
+      "action": "Buy",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 3418974,
+      "portfolio_percentage": 5.47,
+      "company_name": "Magnum Ice Cream Co NV"
+    },
+    {
+      "symbol": "LPX",
+      "manager_id": "LLPFX",
+      "action": "Buy",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 139811,
+      "portfolio_percentage": 1.13,
+      "company_name": "Louisiana-Pacific Corp."
+    },
+    {
+      "symbol": "REGN",
+      "manager_id": "LLPFX",
+      "action": "Reduce 12.55%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 12383,
+      "portfolio_percentage": 0.96,
+      "company_name": "Regeneron Pharmaceuticals"
+    },
+    {
+      "symbol": "MAT",
+      "manager_id": "LLPFX",
+      "action": "Reduce 13.65%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 533875,
+      "portfolio_percentage": 1.06,
+      "company_name": "Mattel Inc."
+    },
+    {
+      "symbol": "AVTR",
+      "manager_id": "LLPFX",
+      "action": "Reduce 15.20%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 553218,
+      "portfolio_percentage": 0.63,
+      "company_name": "Avantor Inc."
+    },
+    {
+      "symbol": "BIO",
+      "manager_id": "LLPFX",
+      "action": "Reduce 16.90%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 28666,
+      "portfolio_percentage": 0.87,
+      "company_name": "Bio-Rad Laboratories Inc."
+    },
+    {
+      "symbol": "CNX",
+      "manager_id": "LLPFX",
+      "action": "Reduce 18.03%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 396880,
+      "portfolio_percentage": 1.46,
+      "company_name": "CNX Resources Corp."
+    },
+    {
+      "symbol": "FDX",
+      "manager_id": "LLPFX",
+      "action": "Reduce 30.94%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 81644,
+      "portfolio_percentage": 2.36,
+      "company_name": "FedEx Corp."
+    },
+    {
       "symbol": "ACI",
       "manager_id": "LLPFX",
       "action": "Add 41.65%",
@@ -8824,6 +8956,6 @@
       "company_name": "Comcast Corp."
     }
   ],
-  "timestamp": "2026-03-01T06:25:42.456951",
-  "scraped_date": "2026-03-01"
+  "timestamp": "2026-04-01T06:39:58.030663",
+  "scraped_date": "2026-04-01"
 }

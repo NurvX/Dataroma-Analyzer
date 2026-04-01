@@ -4996,7 +4996,7 @@
       "company_name": "Jaws Mustang Acquisition Corp."
     },
     {
-      "symbol": "VTYX",
+      "symbol": "VTYX-OLD",
       "manager_id": "tp",
       "action": "Sell 100.00%",
       "date": "Q1 2023",
@@ -5172,7 +5172,7 @@
       "company_name": "Walt Disney Co."
     },
     {
-      "symbol": "VTYX",
+      "symbol": "VTYX-OLD",
       "manager_id": "tp",
       "action": "Reduce 76.81%",
       "date": "Q4 2022",
@@ -7240,7 +7240,7 @@
       "company_name": "Grab Holdings Ltd   Cl A"
     },
     {
-      "symbol": "VTYX",
+      "symbol": "VTYX-OLD",
       "manager_id": "tp",
       "action": "Buy",
       "date": "Q4 2021",
@@ -11002,6 +11002,6 @@
       "company_name": "Meta Platforms Inc."
     }
   ],
-  "timestamp": "2026-03-01T06:25:41.987682",
-  "scraped_date": "2026-03-01"
+  "timestamp": "2026-04-01T06:39:58.084338",
+  "scraped_date": "2026-04-01"
 }

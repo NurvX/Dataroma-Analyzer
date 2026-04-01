@@ -1,30 +1,31 @@
 ticker,company_name,current_price,manager_count,managers,total_value,avg_portfolio_pct,index,max_portfolio_pct,total_shares,conviction_price_score,recent_buys,opportunity_type,_analysis_type,_generated,_periods,_window_quarters
-IEP,Icahn Enterprises,8.06,1,Carl Icahn,4147974000,49.12,16,49.12,549400539,116.18,3.0,Deep Conviction Bargain,high_conviction_low_price,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
-RIG,Transocean Ltd.,6.48,1,Mohnish Pabrai,111676000,27.78,24,27.78,27040133,75.08,2.0,Deep Conviction Bargain,high_conviction_low_price,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
-SLM,SLM Corp.,18.74,2,"Glenn Greenberg, Michael Burry",360521000,16.14,29,24.16,13312019,56.58,4.0,High Conviction Low Price,high_conviction_low_price,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
-VFC,V.F. Corp.,19.42,1,Glenn Welling,95942000,24.47,34,24.47,5306548,55.52,3.0,High Conviction Low Price,high_conviction_low_price,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
-CVI,CVR Energy Inc.,24.16,1,Carl Icahn,1791446000,21.21,9,21.21,70418471,44.260000000000005,1.0,High Conviction Low Price,high_conviction_low_price,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
-BAYRY,Bayer Ag Sponsored ADR,12.3,1,Kahn Brothers Group,73082000,12.94,2,12.94,6754291,39.58,2.0,High Conviction Low Price,high_conviction_low_price,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
-UAA,Under Armour Inc.,7.42,1,Prem Watsa,208536000,10.01,32,10.01,41958923,38.6,1.0,Deep Conviction Bargain,high_conviction_low_price,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
-RKT,Rocket Companies Inc.,18.19,2,"ValueAct Capital, Leon Cooperman",1169290000,12.18,25,13.5,60397252,35.81,12.0,High Conviction Low Price,high_conviction_low_price,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
-BLND,Blend Labs Inc.,1.68,1,Dennis Hong,27433000,5.17,5,5.17,9024099,34.66,1.0,High Conviction Low Price,high_conviction_low_price,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
-GTN,Gray Television Inc.,5.19,1,Bill Miller,19304000,6.8,14,6.8,3988495,34.41,2.0,High Conviction Low Price,high_conviction_low_price,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
-EVH,Evolent Health Inc.,3.25,1,Glenn Welling,22256000,5.68,12,5.68,5563912,34.11,5.0,High Conviction Low Price,high_conviction_low_price,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
-DCH,Dauch Corp.,6.6,1,Alex Roepers,12070000,6.8,10,6.8,1883000,33.0,4.0,High Conviction Low Price,high_conviction_low_price,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
-STLA,Stellantis N.V.,8.09,1,Francis Chou,15183000,7.53,30,7.53,1394194,32.97,4.0,High Conviction Low Price,high_conviction_low_price,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
-TDAY,Gannett Co.,5.95,1,Bill Miller,17527000,6.18,31,6.18,3403345,32.41,6.0,High Conviction Low Price,high_conviction_low_price,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
-FLG,Flagstar Financial Inc.,12.69,1,Kahn Brothers Group,52591000,9.31,13,9.31,4177212,31.93,2.0,High Conviction Low Price,high_conviction_low_price,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
-QUAD,Quad/Graphics Inc.,6.91,1,Bill Miller,17167000,6.05,23,6.05,2737890,31.19,2.0,High Conviction Low Price,high_conviction_low_price,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
-WEN,Wendy's Co.,7.66,1,Nelson Peltz,253568000,6.36,35,6.36,30440318,31.06,3.0,High Conviction Low Price,high_conviction_low_price,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
-BBWI,Bath & Body Works Inc.,22.76,1,Tom Bancroft,14746000,11.53,4,11.53,734355,26.3,3.0,High Conviction Low Price,high_conviction_low_price,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
-BRZE,Braze Inc A,18.99,1,Dennis Hong,50509000,9.51,6,9.51,1473005,26.03,1.0,High Conviction Low Price,high_conviction_low_price,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
-MAT,Mattel Inc.,16.95,1,Mason Hawkins,65814000,6.86,19,6.86,3910545,22.770000000000003,3.0,High Conviction Low Price,high_conviction_low_price,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
-PCG,PG&E Corp.,19.0,1,Daniel Loeb,551201000,7.59,22,7.59,34300000,22.18,3.0,High Conviction Low Price,high_conviction_low_price,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
-ET,Energy Transfer LP,18.84,1,Leon Cooperman,219648000,7.29,11,7.29,13320100,21.74,4.0,High Conviction Low Price,high_conviction_low_price,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
-ACI,Albertsons Co Inc.,17.9,1,Mason Hawkins,60827000,6.34,0,6.34,3473855,20.78,4.0,High Conviction Low Price,high_conviction_low_price,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
-CPNG,Coupang Inc.,19.08,2,"Henry Ellenbogen, David Abrams",883940000,5.44,8,5.46,37470949,18.840000000000003,5.0,High Conviction Low Price,high_conviction_low_price,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
-MIR,Mirion Technologies Inc,21.61,1,Leon Cooperman,196340000,6.51,20,6.51,8383441,17.41,6.0,High Conviction Low Price,high_conviction_low_price,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
-RYN,Rayonier Inc.,21.49,1,Mason Hawkins,59689000,6.22,27,6.22,2249038,16.950000000000003,1.0,High Conviction Low Price,high_conviction_low_price,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
-KHC,Kraft Heinz Co.,24.61,2,"Prem Watsa, Mason Hawkins",189742000,6.4,17,6.84,7640389,16.07,5.0,High Conviction Low Price,high_conviction_low_price,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
-UMGNF,Universal Music Grp NV,22.49,1,Ruane Cunniff,226901000,6.23,33,6.23,8685297,15.970000000000002,1.0,High Conviction Low Price,high_conviction_low_price,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
-BAX,Baxter International Inc.,20.37,1,Richard Pzena,27741000,5.12,1,5.12,1451625,15.87,8.0,High Conviction Low Price,high_conviction_low_price,2026-03-01,"Q4 2025, Q3 2025, Q2 2025",3
+IEP,Icahn Enterprises,7.55,1,Carl Icahn,4147974000,49.12,16,49.12,549400539,116.69,3.0,Deep Conviction Bargain,high_conviction_low_price,2026-04-01,"Q4 2025, Q3 2025, Q2 2025",3
+RIG,Transocean Ltd.,6.63,1,Mohnish Pabrai,111676000,27.78,25,27.78,27040133,74.93,2.0,Deep Conviction Bargain,high_conviction_low_price,2026-04-01,"Q4 2025, Q3 2025, Q2 2025",3
+VFC,V.F. Corp.,16.99,1,Glenn Welling,95942000,24.47,35,24.47,5306548,57.95,3.0,High Conviction Low Price,high_conviction_low_price,2026-04-01,"Q4 2025, Q3 2025, Q2 2025",3
+SLM,SLM Corp.,21.41,2,"Glenn Greenberg, Michael Burry",360521000,16.14,30,24.16,13312019,53.91,4.0,High Conviction Low Price,high_conviction_low_price,2026-04-01,"Q4 2025, Q3 2025, Q2 2025",3
+BAYRY,Bayer Ag Sponsored ADR,11.1,1,Kahn Brothers Group,73082000,12.94,2,12.94,6754291,40.78,2.0,High Conviction Low Price,high_conviction_low_price,2026-04-01,"Q4 2025, Q3 2025, Q2 2025",3
+UAA,Under Armour Inc.,5.91,1,Prem Watsa,208536000,10.01,33,10.01,41958923,40.11,1.0,Deep Conviction Bargain,high_conviction_low_price,2026-04-01,"Q4 2025, Q3 2025, Q2 2025",3
+RKT,Rocket Companies Inc.,14.25,2,"ValueAct Capital, Leon Cooperman",1169290000,12.18,26,13.5,60397252,39.75,12.0,High Conviction Low Price,high_conviction_low_price,2026-04-01,"Q4 2025, Q3 2025, Q2 2025",3
+BB,BlackBerry Ltd.,3.24,1,Prem Watsa,132225000,6.35,3,6.35,34980220,35.459999999999994,1.0,High Conviction Low Price,high_conviction_low_price,2026-04-01,"Q4 2025, Q3 2025, Q2 2025",3
+GTN,Gray Television Inc.,4.34,1,Bill Miller,19304000,6.8,14,6.8,3988495,35.26,2.0,High Conviction Low Price,high_conviction_low_price,2026-04-01,"Q4 2025, Q3 2025, Q2 2025",3
+EVH,Evolent Health Inc.,2.28,1,Glenn Welling,22256000,5.68,12,5.68,5563912,35.08,5.0,High Conviction Low Price,high_conviction_low_price,2026-04-01,"Q4 2025, Q3 2025, Q2 2025",3
+BLND,Blend Labs Inc.,1.7,1,Dennis Hong,27433000,5.17,5,5.17,9024099,34.64,1.0,High Conviction Low Price,high_conviction_low_price,2026-04-01,"Q4 2025, Q3 2025, Q2 2025",3
+STLA,Stellantis N.V.,7.09,1,Francis Chou,15183000,7.53,31,7.53,1394194,33.97,4.0,High Conviction Low Price,high_conviction_low_price,2026-04-01,"Q4 2025, Q3 2025, Q2 2025",3
+DCH,Dauch Corp.,5.93,1,Alex Roepers,12070000,6.8,9,6.8,1883000,33.67,4.0,High Conviction Low Price,high_conviction_low_price,2026-04-01,"Q4 2025, Q3 2025, Q2 2025",3
+WEN,Wendy's Co.,6.95,1,Nelson Peltz,253568000,6.36,36,6.36,30440318,31.770000000000003,3.0,High Conviction Low Price,high_conviction_low_price,2026-04-01,"Q4 2025, Q3 2025, Q2 2025",3
+QUAD,Quad/Graphics Inc.,6.61,1,Bill Miller,17167000,6.05,24,6.05,2737890,31.49,2.0,High Conviction Low Price,high_conviction_low_price,2026-04-01,"Q4 2025, Q3 2025, Q2 2025",3
+FLG,Flagstar Financial Inc.,13.17,1,Kahn Brothers Group,52591000,9.31,13,9.31,4177212,31.450000000000003,2.0,High Conviction Low Price,high_conviction_low_price,2026-04-01,"Q4 2025, Q3 2025, Q2 2025",3
+TDAY,Gannett Co.,7.05,1,Bill Miller,17527000,6.18,32,6.18,3403345,31.31,6.0,High Conviction Low Price,high_conviction_low_price,2026-04-01,"Q4 2025, Q3 2025, Q2 2025",3
+BBWI,Bath & Body Works Inc.,18.67,1,Tom Bancroft,14746000,11.53,4,11.53,734355,30.39,3.0,High Conviction Low Price,high_conviction_low_price,2026-04-01,"Q4 2025, Q3 2025, Q2 2025",3
+MAT,Mattel Inc.,14.53,1,Mason Hawkins,66993000,6.71,19,6.71,3376670,24.89,3.0,High Conviction Low Price,high_conviction_low_price,2026-04-01,"Q4 2025, Q3 2025, Q2 2025",3
+PCG,PG&E Corp.,17.57,1,Daniel Loeb,551201000,7.59,23,7.59,34300000,23.61,3.0,High Conviction Low Price,high_conviction_low_price,2026-04-01,"Q4 2025, Q3 2025, Q2 2025",3
+MICC,Magnum Ice Cream Co NV,14.95,1,Mason Hawkins,54592000,5.47,20,5.47,3418974,21.99,3.0,High Conviction Low Price,high_conviction_low_price,2026-04-01,"Q4 2025, Q3 2025, Q2 2025",3
+BRZE,Braze Inc A,23.61,1,Dennis Hong,50509000,9.51,6,9.51,1473005,21.41,1.0,High Conviction Low Price,high_conviction_low_price,2026-04-01,"Q4 2025, Q3 2025, Q2 2025",3
+ET,Energy Transfer LP,19.3,1,Leon Cooperman,219648000,7.29,11,7.29,13320100,21.28,4.0,High Conviction Low Price,high_conviction_low_price,2026-04-01,"Q4 2025, Q3 2025, Q2 2025",3
+ACI,Albertsons Co Inc.,17.04,1,Mason Hawkins,59646000,5.97,0,5.97,3473855,20.9,4.0,High Conviction Low Price,high_conviction_low_price,2026-04-01,"Q4 2025, Q3 2025, Q2 2025",3
+MIR,Mirion Technologies Inc,18.59,1,Leon Cooperman,196340000,6.51,21,6.51,8383441,20.43,6.0,High Conviction Low Price,high_conviction_low_price,2026-04-01,"Q4 2025, Q3 2025, Q2 2025",3
+UMGNF,Universal Music Grp NV,18.55,1,Ruane Cunniff,226901000,6.23,34,6.23,8685297,19.91,1.0,High Conviction Low Price,high_conviction_low_price,2026-04-01,"Q4 2025, Q3 2025, Q2 2025",3
+BAX,Baxter International Inc.,16.8,1,Richard Pzena,27741000,5.12,1,5.12,1451625,19.44,8.0,High Conviction Low Price,high_conviction_low_price,2026-04-01,"Q4 2025, Q3 2025, Q2 2025",3
+CPNG,Coupang Inc.,18.88,2,"Henry Ellenbogen, David Abrams",883940000,5.44,8,5.46,37470949,19.04,5.0,High Conviction Low Price,high_conviction_low_price,2026-04-01,"Q4 2025, Q3 2025, Q2 2025",3
+KHC,Kraft Heinz Co.,22.49,2,"Mason Hawkins, Prem Watsa",185229000,6.04,17,6.12,7640389,16.75,5.0,High Conviction Low Price,high_conviction_low_price,2026-04-01,"Q4 2025, Q3 2025, Q2 2025",3
+RYN,Rayonier Inc.,20.62,1,Mason Hawkins,51861000,5.19,28,5.19,2395437,15.76,2.0,High Conviction Low Price,high_conviction_low_price,2026-04-01,"Q4 2025, Q3 2025, Q2 2025",3

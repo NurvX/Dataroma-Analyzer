@@ -9539,7 +9539,7 @@
       "company_name": "Western Union Co."
     },
     {
-      "symbol": "TGNA",
+      "symbol": "TGNA-OLD",
       "manager_id": "CAAPX",
       "action": "Sell 100.00%",
       "date": "Q4 2018",
@@ -10078,7 +10078,7 @@
       "company_name": "Madison Square Garden Co."
     },
     {
-      "symbol": "TGNA",
+      "symbol": "TGNA-OLD",
       "manager_id": "CAAPX",
       "action": "Add 95.23%",
       "date": "Q1 2018",
@@ -10397,7 +10397,7 @@
       "company_name": "J.M. Smucker Co"
     },
     {
-      "symbol": "TGNA",
+      "symbol": "TGNA-OLD",
       "manager_id": "CAAPX",
       "action": "Buy",
       "date": "Q4 2017",
@@ -11002,6 +11002,6 @@
       "company_name": "Northern Trust Corp."
     }
   ],
-  "timestamp": "2026-03-01T06:25:41.949198",
-  "scraped_date": "2026-03-01"
+  "timestamp": "2026-04-01T06:39:58.046607",
+  "scraped_date": "2026-04-01"
 }

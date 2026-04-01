@@ -2516,7 +2516,7 @@
       "date": "Q4 2022",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 5035,
+      "shares": 10070,
       "portfolio_percentage": 0.05,
       "company_name": "Deutsche Post AG"
     },
@@ -2736,7 +2736,7 @@
       "date": "Q3 2022",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 79271,
+      "shares": 158542,
       "portfolio_percentage": 0.7,
       "company_name": "Deutsche Post AG"
     },
@@ -2956,7 +2956,7 @@
       "date": "Q2 2022",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 106575,
+      "shares": 213150,
       "portfolio_percentage": 1.05,
       "company_name": "Deutsche Post AG"
     },
@@ -10672,6 +10672,6 @@
       "company_name": "Commonwealth Telephone Enterprises Inc."
     }
   ],
-  "timestamp": "2026-03-01T06:25:42.377978",
-  "scraped_date": "2026-03-01"
+  "timestamp": "2026-04-01T06:39:58.461383",
+  "scraped_date": "2026-04-01"
 }

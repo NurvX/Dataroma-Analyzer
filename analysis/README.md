@@ -1,6 +1,6 @@
 # 📊 Dataroma Investment Analysis
 
-*Generated: 2026-03-01 06:29:56*
+*Generated: 2026-04-01 06:44:11*
 
 ## 🎯 Overview
 
@@ -48,12 +48,12 @@ Immediate opportunities and recent market activity recent quarters.
 | [concentration_changes.csv](current/concentration_changes.csv) | Portfolio shifts (100 items) | Major allocation adjustments |
 | [contrarian_opportunities.csv](current/contrarian_opportunities.csv) | Against-the-trend plays (30 items) | Institutional contrarian bets |
 | [deep_value_plays.csv](current/deep_value_plays.csv) | Deep value opportunities (30 items) | Undervalued institutional picks |
-| [high_conviction_low_price.csv](current/high_conviction_low_price.csv) | Best value + conviction combo (29 items) | High conviction meets low price |
+| [high_conviction_low_price.csv](current/high_conviction_low_price.csv) | Best value + conviction combo (30 items) | High conviction meets low price |
 | [highest_portfolio_concentration.csv](current/highest_portfolio_concentration.csv) | Most focused positions (100 items) | Highest concentration institutional bets |
 | [momentum_stocks.csv](current/momentum_stocks.csv) | Recent buying activity (50 items) | Tracks institutional accumulation patterns |
 | [most_sold_stocks.csv](current/most_sold_stocks.csv) | Recent exit activity (50 items) | Most divested institutional positions |
 | [new_positions.csv](current/new_positions.csv) | Fresh acquisitions (100 items) | Identifies emerging manager interests |
-| [stocks_under_$5.csv](current/stocks_under_$5.csv) | Ultra-low price opportunities (34 items) | Deep value plays under $5 |
+| [stocks_under_$5.csv](current/stocks_under_$5.csv) | Ultra-low price opportunities (50 items) | Deep value plays under $5 |
 | [stocks_under_$10.csv](current/stocks_under_$10.csv) | Sub-$10 opportunities (50 items) | Manager favorites under $10 |
 | [stocks_under_$20.csv](current/stocks_under_$20.csv) | Affordable growth plays (50 items) | Quality stocks at accessible prices |
 | [stocks_under_$50.csv](current/stocks_under_$50.csv) | Mid-price value plays (50 items) | Institutional picks under $50 |
@@ -125,15 +125,15 @@ Deep insights into manager strategies, performance patterns, and decision-making
 
 | Report | Description | Key Insight |
 | ------ | ----------- | ----------- |
-| [position_building_timeline.csv](advanced/position_building_timeline.csv) | 📈 Position buildup/reduction over time (45191 items) | Quarter-by-quarter view of how managers accumulate & distribute positions |
+| [position_building_timeline.csv](advanced/position_building_timeline.csv) | 📈 Position buildup/reduction over time (45170 items) | Quarter-by-quarter view of how managers accumulate & distribute positions |
 | [accumulation_vs_distribution.csv](advanced/accumulation_vs_distribution.csv) | 🔄 Current phase tracking (100 items) | Identifies which positions are being built vs reduced RIGHT NOW |
 | [position_flip_points.csv](advanced/position_flip_points.csv) | 🔀 Accumulation→Distribution transitions (96 items) | Pinpoints when managers switched from building to reducing |
 | [action_sequence_patterns.csv](advanced/action_sequence_patterns.csv) | Trading pattern analysis (30 items) | Institutional buy/sell sequence patterns |
 | [catalyst_timing_masters.csv](advanced/catalyst_timing_masters.csv) | Market timing excellence (30 items) | Managers with exceptional timing skills |
 | [crisis_alpha_generators.csv](advanced/crisis_alpha_generators.csv) | Crisis period outperformers (30 items) | Managers who buy during crashes |
-| [high_conviction_stocks.csv](advanced/high_conviction_stocks.csv) | Highest conviction positions (261 items) | Stocks with strongest institutional backing |
+| [high_conviction_stocks.csv](advanced/high_conviction_stocks.csv) | Highest conviction positions (262 items) | Stocks with strongest institutional backing |
 | [interesting_stocks_overview.csv](advanced/interesting_stocks_overview.csv) | Top-tier opportunities (100 items) | Multi-factor scoring of elite picks |
-| [long_term_winners.csv](advanced/long_term_winners.csv) | Sustained institutional interest (116 items) | Stocks with long-term institutional backing |
+| [long_term_winners.csv](advanced/long_term_winners.csv) | Sustained institutional interest (115 items) | Stocks with long-term institutional backing |
 | [manager_evolution_patterns.csv](advanced/manager_evolution_patterns.csv) | Strategy adaptation over time (30 items) | How managers evolve their approaches |
 | [manager_performance.csv](advanced/manager_performance.csv) | Comprehensive manager evaluation (82 items) | Multi-dimensional performance metrics |
 | [manager_track_records.csv](advanced/manager_track_records.csv) | 18+ year performance history (82 items) | Comprehensive manager scoring with consistency |
@@ -148,7 +148,7 @@ Deep insights into manager strategies, performance patterns, and decision-making
 
 | Rank | Manager | Annual Return | Score | Years Active |
 | ---- | ------- | ------------- | ----- | ------------ |
-| 1 | **Mason Hawkins** | 26.9% | 31.49 | 19 |
+| 1 | **Mason Hawkins** | 26.9% | 31.33 | 19 |
 | 2 | **Bill Ackman** | 26.9% | 28.37 | 19 |
 | 3 | **Tweedy Browne Co.** | 26.9% | 27.73 | 19 |
 | 4 | **Bruce Berkowitz** | 26.9% | 25.07 | 19 |
@@ -271,7 +271,7 @@ The 52-week high/low analyses use specific filter criteria that may initially se
 This report shows stocks being **bought near their 52-week lows**. The `near_52w_low=True` filter is **intentional** - these are the exact stocks we want to highlight as potential value opportunities.
 
 - **40 stocks** currently meet this criterion
-- Examples: MSFT, UNH, ORCL
+- Examples: MSFT, V, KHC
 - These are being accumulated by value-focused managers
 
 #### 52-Week High Sells (`52_week_high_sells.csv`)
@@ -279,8 +279,8 @@ This report shows stocks being **bought near their 52-week lows**. The `near_52w
 This report shows stocks being **sold near their 52-week highs**. The `near_52w_high=True` filter is **intentional** - these represent profit-taking opportunities where managers are locking in gains.
 
 - **40 stocks** currently meet this criterion
-- Examples: AAPL, KO, GOOGL
-- 25 stocks show "Heavy Distribution" patterns
+- Examples: CVX, OXY, CB
+- 17 stocks show "Heavy Distribution" patterns
 
 
 ### New Positions Context
@@ -311,22 +311,22 @@ Some stocks appear in multiple analysis files with seemingly contradictory signa
 
 These tickers appear in both `contrarian_opportunities.csv` and `momentum_stocks.csv`. This happens when different managers take opposite positions on the same stock:
 
-- **NVDA**: Contrarian signal: Net Buying (buys: 24.0, sells: 15.0) | Momentum score: 71.14785714285715
+- **ADBE**: Contrarian signal: Net Buying (buys: 13.0, sells: 10.0) | Momentum score: 41.01777777777778
 
-- **MA**: Contrarian signal: Net Selling (buys: 8.0, sells: 22.0) | Momentum score: 42.670625
+- **DIS**: Contrarian signal: Net Selling (buys: 17.0, sells: 25.0) | Momentum score: 58.821176470588235
 
-- **AMZN**: Contrarian signal: Net Selling (buys: 31.0, sells: 34.0) | Momentum score: 104.73548387096774
+- **FISV**: Contrarian signal: Net Buying (buys: 22.0, sells: 11.0) | Momentum score: 58.55875
 
-- **MSFT**: Contrarian signal: Net Selling (buys: 32.0, sells: 58.0) | Momentum score: 109.41428571428571
+- **TMO**: Contrarian signal: Net Selling (buys: 12.0, sells: 13.0) | Momentum score: 41.241
 
-- **UBER**: Contrarian signal: Net Selling (buys: 11.0, sells: 12.0) | Momentum score: 40.013
+- **V**: Contrarian signal: Net Selling (buys: 21.0, sells: 31.0) | Momentum score: 77.4423076923077
 
 #### New Positions with Contrarian Signals
 
 These newly initiated positions also show contrarian patterns, suggesting managers are taking bold positions against the crowd:
+- **UNH**: New position initiated amid contrarian activity
+- **GOOG**: New position initiated amid contrarian activity
 - **MA**: New position initiated amid contrarian activity
-- **META**: New position initiated amid contrarian activity
-- **TMO**: New position initiated amid contrarian activity
 
 
 ### Data Freshness Notes
@@ -343,7 +343,7 @@ All current analysis reports are based on manager filings within this window. Ke
 
 4. **Manager Activity**: A single manager may have multiple entries for the same stock if they made multiple transactions (Buy, Add, Reduce) within the analysis window.
 
-**Report Generated**: 2026-03-01 06:29:57
+**Report Generated**: 2026-04-01 06:44:11
 
 
 ---

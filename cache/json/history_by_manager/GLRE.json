@@ -5772,7 +5772,7 @@
       "date": "Q4 2021",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 322580,
+      "shares": 26882,
       "portfolio_percentage": 0.52,
       "company_name": "fuboTV Inc."
     },
@@ -6234,7 +6234,7 @@
       "date": "Q3 2021",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 150000,
+      "shares": 12500,
       "portfolio_percentage": 0.24,
       "company_name": "fuboTV Inc."
     },
@@ -6608,7 +6608,7 @@
       "date": "Q2 2021",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 41129,
+      "shares": 3427,
       "portfolio_percentage": 0.08,
       "company_name": "fuboTV Inc."
     },
@@ -7708,7 +7708,7 @@
       "date": "Q1 2021",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 786421,
+      "shares": 65536,
       "portfolio_percentage": 1.2,
       "company_name": "fuboTV Inc."
     },
@@ -7939,7 +7939,7 @@
       "date": "Q4 2020",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 1217872,
+      "shares": 101489,
       "portfolio_percentage": 2.08,
       "company_name": "fuboTV Inc."
     },
@@ -11002,6 +11002,6 @@
       "company_name": "Apple Inc."
     }
   ],
-  "timestamp": "2026-03-01T06:25:41.999710",
-  "scraped_date": "2026-03-01"
+  "timestamp": "2026-04-01T06:39:58.096151",
+  "scraped_date": "2026-04-01"
 }

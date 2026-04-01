@@ -662,7 +662,7 @@
       "company_name": "Restaurant Brands International"
     },
     {
-      "symbol": "TGNA",
+      "symbol": "TGNA-OLD",
       "manager_id": "FFH",
       "action": "Sell 100.00%",
       "date": "Q4 2024",
@@ -2191,7 +2191,7 @@
       "company_name": "Sierra Wireless Inc."
     },
     {
-      "symbol": "TGNA",
+      "symbol": "TGNA-OLD",
       "manager_id": "FFH",
       "action": "Buy",
       "date": "Q4 2022",
@@ -11002,6 +11002,6 @@
       "company_name": "SandRidge Energy Inc."
     }
   ],
-  "timestamp": "2026-03-01T06:25:42.166161",
-  "scraped_date": "2026-03-01"
+  "timestamp": "2026-04-01T06:39:58.256603",
+  "scraped_date": "2026-04-01"
 }

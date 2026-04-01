@@ -1,5 +1,23 @@
 [
   {
+    "id": "MVALX",
+    "name": "Meridian Contrarian Fund Updated 02 Mar 2026",
+    "firm": "",
+    "portfolio_value": 0,
+    "num_holdings": 0,
+    "url": "",
+    "last_updated": null
+  },
+  {
+    "id": "LLPFX",
+    "name": "Mason Hawkins",
+    "firm": "Longleaf Partners Updated 02 Mar 2026",
+    "portfolio_value": 0,
+    "num_holdings": 0,
+    "url": "",
+    "last_updated": null
+  },
+  {
     "id": "ARFFX",
     "name": "Charles Bobrinskoy",
     "firm": "Ariel Focus Fund Updated 26 Feb 2026",
@@ -704,24 +722,6 @@
   {
     "id": "GA",
     "name": "Greenhaven Associates Updated 07 Jan 2026",
-    "firm": "",
-    "portfolio_value": 0,
-    "num_holdings": 0,
-    "url": "",
-    "last_updated": null
-  },
-  {
-    "id": "LLPFX",
-    "name": "Mason Hawkins",
-    "firm": "Longleaf Partners Updated 26 Nov 2025",
-    "portfolio_value": 0,
-    "num_holdings": 0,
-    "url": "",
-    "last_updated": null
-  },
-  {
-    "id": "MVALX",
-    "name": "Meridian Contrarian Fund Updated 25 Nov 2025",
     "firm": "",
     "portfolio_value": 0,
     "num_holdings": 0,
