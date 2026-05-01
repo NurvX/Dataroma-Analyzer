@@ -30,7 +30,7 @@
       "date": "Q4 2025",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 855,
+      "shares": 3420,
       "portfolio_percentage": 0.06,
       "company_name": "iShares Russell 1000 Growth ETF"
     },
@@ -767,7 +767,7 @@
       "date": "Q4 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 2222,
+      "shares": 13332,
       "portfolio_percentage": 0.17,
       "company_name": "Vanguard Growth ETF"
     },
@@ -1372,7 +1372,7 @@
       "date": "Q3 2025",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 8658,
+      "shares": 51948,
       "portfolio_percentage": 0.58,
       "company_name": "Vanguard Growth ETF"
     },
@@ -5827,7 +5827,7 @@
       "date": "Q3 2024",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 160,
+      "shares": 640,
       "portfolio_percentage": 0.01,
       "company_name": "iShares Russell 1000 Growth ETF"
     },
@@ -9666,7 +9666,7 @@
       "date": "Q3 2023",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 138,
+      "shares": 552,
       "portfolio_percentage": 0.01,
       "company_name": "iShares Russell 1000 Growth ETF"
     },
@@ -11002,6 +11002,6 @@
       "company_name": "Tyler Technologies Inc."
     }
   ],
-  "timestamp": "2026-04-01T06:39:58.452602",
-  "scraped_date": "2026-04-01"
+  "timestamp": "2026-05-01T06:59:18.021235",
+  "scraped_date": "2026-05-01"
 }

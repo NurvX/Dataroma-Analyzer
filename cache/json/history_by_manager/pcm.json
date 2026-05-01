@@ -41,7 +41,7 @@
       "date": "Q4 2025",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 548235,
+      "shares": 2192940,
       "portfolio_percentage": 1.11,
       "company_name": "iShares Russell 1000 Growth ETF"
     },
@@ -63,7 +63,7 @@
       "date": "Q4 2025",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 21499,
+      "shares": 128994,
       "portfolio_percentage": 0.05,
       "company_name": "Vanguard Growth ETF"
     },
@@ -1350,7 +1350,7 @@
       "date": "Q4 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 3016,
+      "shares": 9048,
       "portfolio_percentage": 0.0,
       "company_name": "Powell Industries"
     },
@@ -2538,7 +2538,7 @@
       "date": "Q4 2025",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 8690,
+      "shares": 34760,
       "portfolio_percentage": 0.01,
       "company_name": "Vanguard Mid Cap ETF"
     },
@@ -2917,6 +2917,17 @@
       "company_name": "Nayax Ltd"
     },
     {
+      "symbol": "P",
+      "manager_id": "pcm",
+      "action": "Sell 100.00%",
+      "date": "Q4 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 5963,
+      "portfolio_percentage": 0.0,
+      "company_name": "Pure Storage Inc."
+    },
+    {
       "symbol": "PCT",
       "manager_id": "pcm",
       "action": "Sell 100.00%",
@@ -2948,17 +2959,6 @@
       "shares": 4850,
       "portfolio_percentage": 0.0,
       "company_name": "Procter & Gamble"
-    },
-    {
-      "symbol": "PSTG",
-      "manager_id": "pcm",
-      "action": "Sell 100.00%",
-      "date": "Q4 2025",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 5963,
-      "portfolio_percentage": 0.0,
-      "company_name": "Pure Storage Inc."
     },
     {
       "symbol": "RBBN",
@@ -3704,7 +3704,7 @@
       "date": "Q3 2025",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 2242,
+      "shares": 8968,
       "portfolio_percentage": 0.0,
       "company_name": "iShares Russell 1000 Growth ETF"
     },
@@ -3935,7 +3935,7 @@
       "date": "Q3 2025",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 8690,
+      "shares": 34760,
       "portfolio_percentage": 0.01,
       "company_name": "Vanguard Mid Cap ETF"
     },
@@ -4237,6 +4237,17 @@
       "company_name": "Nexgen Energy Ltd"
     },
     {
+      "symbol": "P",
+      "manager_id": "pcm",
+      "action": "Buy",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 5963,
+      "portfolio_percentage": 0.0,
+      "company_name": "Pure Storage Inc."
+    },
+    {
       "symbol": "PEP",
       "manager_id": "pcm",
       "action": "Buy",
@@ -4257,17 +4268,6 @@
       "shares": 4850,
       "portfolio_percentage": 0.0,
       "company_name": "Procter & Gamble"
-    },
-    {
-      "symbol": "PSTG",
-      "manager_id": "pcm",
-      "action": "Buy",
-      "date": "Q3 2025",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 5963,
-      "portfolio_percentage": 0.0,
-      "company_name": "Pure Storage Inc."
     },
     {
       "symbol": "RBRK",
@@ -4573,7 +4573,7 @@
       "date": "Q3 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 1816,
+      "shares": 5448,
       "portfolio_percentage": 0.0,
       "company_name": "Powell Industries"
     },
@@ -4727,7 +4727,7 @@
       "date": "Q3 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 1282,
+      "shares": 7692,
       "portfolio_percentage": 0.0,
       "company_name": "Vanguard Growth ETF"
     },
@@ -6443,7 +6443,7 @@
       "date": "Q2 2025",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 25173,
+      "shares": 75519,
       "portfolio_percentage": 0.02,
       "company_name": "Powell Industries"
     },
@@ -8280,7 +8280,7 @@
       "date": "Q2 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 1682,
+      "shares": 10092,
       "portfolio_percentage": 0.0,
       "company_name": "Vanguard Growth ETF"
     },
@@ -8445,7 +8445,7 @@
       "date": "Q2 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 159913,
+      "shares": 639652,
       "portfolio_percentage": 0.21,
       "company_name": "iShares Russell 1000 Growth ETF"
     },
@@ -9165,7 +9165,7 @@
       "company_name": "Morningstar Inc."
     },
     {
-      "symbol": "PSTG",
+      "symbol": "P",
       "manager_id": "pcm",
       "action": "Sell 100.00%",
       "date": "Q2 2025",
@@ -10034,7 +10034,7 @@
       "company_name": "LGI Homes Inc."
     },
     {
-      "symbol": "PSTG",
+      "symbol": "P",
       "manager_id": "pcm",
       "action": "Reduce 9.83%",
       "date": "Q1 2025",
@@ -10194,7 +10194,7 @@
       "date": "Q1 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 118097,
+      "shares": 472388,
       "portfolio_percentage": 0.13,
       "company_name": "iShares Russell 1000 Growth ETF"
     },
@@ -10436,7 +10436,7 @@
       "date": "Q1 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 24457,
+      "shares": 146742,
       "portfolio_percentage": 0.03,
       "company_name": "Vanguard Growth ETF"
     },
@@ -10711,7 +10711,7 @@
       "date": "Q4 2024",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 341413,
+      "shares": 1365652,
       "portfolio_percentage": 0.37,
       "company_name": "iShares Russell 1000 Growth ETF"
     },
@@ -10722,7 +10722,7 @@
       "date": "Q4 2024",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 25232,
+      "shares": 151392,
       "portfolio_percentage": 0.03,
       "company_name": "Vanguard Growth ETF"
     },
@@ -11002,6 +11002,6 @@
       "company_name": "monday.com Ltd."
     }
   ],
-  "timestamp": "2026-04-01T06:39:58.359923",
-  "scraped_date": "2026-04-01"
+  "timestamp": "2026-05-01T06:59:17.932999",
+  "scraped_date": "2026-05-01"
 }

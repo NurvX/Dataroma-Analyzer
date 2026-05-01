@@ -2785,7 +2785,7 @@
       "company_name": "Apple Inc."
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "ic",
       "action": "Sell 100.00%",
       "date": "Q1 2016",
@@ -3005,7 +3005,7 @@
       "company_name": "American International Group"
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "ic",
       "action": "Reduce 17.57%",
       "date": "Q3 2015",
@@ -3423,7 +3423,7 @@
       "company_name": "Icahn Enterprises"
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "ic",
       "action": "Buy",
       "date": "Q4 2013",
@@ -3566,6 +3566,6 @@
       "company_name": "WebMD Health Corp."
     }
   ],
-  "timestamp": "2026-04-01T06:39:58.093195",
-  "scraped_date": "2026-04-01"
+  "timestamp": "2026-05-01T06:59:17.633000",
+  "scraped_date": "2026-05-01"
 }

@@ -1559,7 +1559,7 @@
       "date": "Q4 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 558,
+      "shares": 13950,
       "portfolio_percentage": 0.03,
       "company_name": "Booking Holdings Inc."
     },
@@ -3550,7 +3550,7 @@
       "date": "Q3 2025",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 1588,
+      "shares": 39700,
       "portfolio_percentage": 0.11,
       "company_name": "Booking Holdings Inc."
     },
@@ -11002,6 +11002,6 @@
       "company_name": "Caesars Entertainment"
     }
   ],
-  "timestamp": "2026-04-01T06:39:58.270961",
-  "scraped_date": "2026-04-01"
+  "timestamp": "2026-05-01T06:59:17.822304",
+  "scraped_date": "2026-05-01"
 }

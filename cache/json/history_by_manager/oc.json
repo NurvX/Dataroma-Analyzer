@@ -3885,7 +3885,7 @@
       "company_name": "Golden Star Acquisition Corp"
     },
     {
-      "symbol": "OAKU",
+      "symbol": "OAKU-OLD",
       "manager_id": "oc",
       "action": "Sell 100.00%",
       "date": "Q1 2024",
@@ -5458,7 +5458,7 @@
       "company_name": "Golden Star Acquisition Corp"
     },
     {
-      "symbol": "OAKU",
+      "symbol": "OAKU-OLD",
       "manager_id": "oc",
       "action": "Buy",
       "date": "Q2 2023",
@@ -6250,7 +6250,7 @@
       "company_name": "Motive Capital Corp Ii Cl A"
     },
     {
-      "symbol": "OAKUU",
+      "symbol": "OAKUU-OLD",
       "manager_id": "oc",
       "action": "Sell 100.00%",
       "date": "Q2 2023",
@@ -6679,7 +6679,7 @@
       "company_name": "Plutonian Acquisition Corp"
     },
     {
-      "symbol": "OAKUU",
+      "symbol": "OAKUU-OLD",
       "manager_id": "oc",
       "action": "Buy",
       "date": "Q1 2023",
@@ -11002,6 +11002,6 @@
       "company_name": "Expand Energy Corp."
     }
   ],
-  "timestamp": "2026-04-01T06:39:58.204408",
-  "scraped_date": "2026-04-01"
+  "timestamp": "2026-05-01T06:59:17.755005",
+  "scraped_date": "2026-05-01"
 }

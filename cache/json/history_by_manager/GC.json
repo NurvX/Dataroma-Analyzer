@@ -206,7 +206,7 @@
       "date": "Q4 2025",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 102,
+      "shares": 2550,
       "portfolio_percentage": 0.02,
       "company_name": "Booking Holdings Inc."
     },
@@ -591,7 +591,7 @@
       "date": "Q3 2025",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 53,
+      "shares": 1325,
       "portfolio_percentage": 0.01,
       "company_name": "Booking Holdings Inc."
     },
@@ -1284,7 +1284,7 @@
       "date": "Q2 2025",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 158,
+      "shares": 3950,
       "portfolio_percentage": 0.03,
       "company_name": "Booking Holdings Inc."
     },
@@ -1724,7 +1724,7 @@
       "date": "Q1 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 45,
+      "shares": 1125,
       "portfolio_percentage": 0.01,
       "company_name": "Booking Holdings Inc."
     },
@@ -2153,7 +2153,7 @@
       "date": "Q4 2024",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 662,
+      "shares": 16550,
       "portfolio_percentage": 0.12,
       "company_name": "Booking Holdings Inc."
     },
@@ -2846,7 +2846,7 @@
       "date": "Q3 2024",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 512,
+      "shares": 12800,
       "portfolio_percentage": 0.08,
       "company_name": "Booking Holdings Inc."
     },
@@ -3165,7 +3165,7 @@
       "date": "Q2 2024",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 8709,
+      "shares": 217725,
       "portfolio_percentage": 1.46,
       "company_name": "Booking Holdings Inc."
     },
@@ -3924,7 +3924,7 @@
       "date": "Q1 2024",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 11294,
+      "shares": 282350,
       "portfolio_percentage": 1.66,
       "company_name": "Booking Holdings Inc."
     },
@@ -11002,6 +11002,6 @@
       "company_name": "Lululemon Athletica Inc."
     }
   ],
-  "timestamp": "2026-04-01T06:39:58.305000",
-  "scraped_date": "2026-04-01"
+  "timestamp": "2026-05-01T06:59:17.874953",
+  "scraped_date": "2026-05-01"
 }

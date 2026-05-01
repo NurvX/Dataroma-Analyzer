@@ -338,7 +338,7 @@
       "date": "Q4 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 26521,
+      "shares": 663025,
       "portfolio_percentage": 1.03,
       "company_name": "Booking Holdings Inc."
     },
@@ -668,7 +668,7 @@
       "date": "Q3 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 28821,
+      "shares": 720525,
       "portfolio_percentage": 1.13,
       "company_name": "Booking Holdings Inc."
     },
@@ -822,7 +822,7 @@
       "date": "Q2 2025",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 59972,
+      "shares": 1499300,
       "portfolio_percentage": 2.51,
       "company_name": "Booking Holdings Inc."
     },
@@ -1702,7 +1702,7 @@
       "date": "Q4 2024",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 76414,
+      "shares": 1910350,
       "portfolio_percentage": 2.4,
       "company_name": "Booking Holdings Inc."
     },
@@ -1966,7 +1966,7 @@
       "date": "Q3 2024",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 28763,
+      "shares": 719075,
       "portfolio_percentage": 0.9,
       "company_name": "Booking Holdings Inc."
     },
@@ -2153,7 +2153,7 @@
       "date": "Q2 2024",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 883,
+      "shares": 22075,
       "portfolio_percentage": 0.03,
       "company_name": "Booking Holdings Inc."
     },
@@ -2582,7 +2582,7 @@
       "date": "Q1 2024",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 48207,
+      "shares": 1205175,
       "portfolio_percentage": 1.38,
       "company_name": "Booking Holdings Inc."
     },
@@ -2703,7 +2703,7 @@
       "date": "Q4 2023",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 3052,
+      "shares": 76300,
       "portfolio_percentage": 0.09,
       "company_name": "Booking Holdings Inc."
     },
@@ -3088,7 +3088,7 @@
       "date": "Q3 2023",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 61101,
+      "shares": 1527525,
       "portfolio_percentage": 1.82,
       "company_name": "Booking Holdings Inc."
     },
@@ -3253,7 +3253,7 @@
       "date": "Q2 2023",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 5950,
+      "shares": 148750,
       "portfolio_percentage": 0.15,
       "company_name": "Booking Holdings Inc."
     },
@@ -3528,7 +3528,7 @@
       "date": "Q1 2023",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 15775,
+      "shares": 394375,
       "portfolio_percentage": 0.39,
       "company_name": "Booking Holdings Inc."
     },
@@ -3913,7 +3913,7 @@
       "date": "Q4 2022",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 33195,
+      "shares": 829875,
       "portfolio_percentage": 0.64,
       "company_name": "Booking Holdings Inc."
     },
@@ -4067,7 +4067,7 @@
       "date": "Q3 2022",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 16409,
+      "shares": 410225,
       "portfolio_percentage": 0.25,
       "company_name": "Booking Holdings Inc."
     },
@@ -4419,7 +4419,7 @@
       "date": "Q2 2022",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 237161,
+      "shares": 5929025,
       "portfolio_percentage": 3.91,
       "company_name": "Booking Holdings Inc."
     },
@@ -6745,7 +6745,7 @@
       "company_name": "Howmet Aerospace Inc."
     },
     {
-      "symbol": "FOLD",
+      "symbol": "FOLD-OLD",
       "manager_id": "LPC",
       "action": "Sell 100.00%",
       "date": "Q1 2021",
@@ -6976,7 +6976,7 @@
       "company_name": "Argenx SE"
     },
     {
-      "symbol": "FOLD",
+      "symbol": "FOLD-OLD",
       "manager_id": "LPC",
       "action": "Buy",
       "date": "Q4 2020",
@@ -7257,7 +7257,7 @@
       "date": "Q4 2020",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 58920,
+      "shares": 1473000,
       "portfolio_percentage": 0.43,
       "company_name": "Booking Holdings Inc."
     },
@@ -7587,7 +7587,7 @@
       "date": "Q3 2020",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 537213,
+      "shares": 13430325,
       "portfolio_percentage": 3.92,
       "company_name": "Booking Holdings Inc."
     },
@@ -7752,7 +7752,7 @@
       "date": "Q2 2020",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 596133,
+      "shares": 14903325,
       "portfolio_percentage": 4.88,
       "company_name": "Booking Holdings Inc."
     },
@@ -9149,7 +9149,7 @@
       "date": "Q4 2019",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 211257,
+      "shares": 5281425,
       "portfolio_percentage": 2.44,
       "company_name": "Booking Holdings Inc."
     },
@@ -9545,7 +9545,7 @@
       "date": "Q3 2019",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 110139,
+      "shares": 2753475,
       "portfolio_percentage": 1.27,
       "company_name": "Booking Holdings Inc."
     },
@@ -10150,7 +10150,7 @@
       "date": "Q1 2019",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 32100,
+      "shares": 802500,
       "portfolio_percentage": 0.33,
       "company_name": "Booking Holdings Inc."
     },
@@ -10370,7 +10370,7 @@
       "date": "Q4 2018",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 353496,
+      "shares": 8837400,
       "portfolio_percentage": 4.12,
       "company_name": "Booking Holdings Inc."
     },
@@ -10876,7 +10876,7 @@
       "date": "Q3 2018",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 531060,
+      "shares": 13276500,
       "portfolio_percentage": 5.69,
       "company_name": "Booking Holdings Inc."
     },
@@ -11002,6 +11002,6 @@
       "company_name": "ServiceNow Inc."
     }
   ],
-  "timestamp": "2026-04-01T06:39:58.126213",
-  "scraped_date": "2026-04-01"
+  "timestamp": "2026-05-01T06:59:17.666591",
+  "scraped_date": "2026-05-01"
 }

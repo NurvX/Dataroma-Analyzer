@@ -3390,7 +3390,7 @@
       "company_name": "Shopify Inc."
     },
     {
-      "symbol": "ONTF",
+      "symbol": "ONTF-OLD",
       "manager_id": "TGM",
       "action": "Sell 100.00%",
       "date": "Q2 2023",
@@ -5755,7 +5755,7 @@
       "company_name": "Warby Parker Inc."
     },
     {
-      "symbol": "ONTF",
+      "symbol": "ONTF-OLD",
       "manager_id": "TGM",
       "action": "Reduce 95.98%",
       "date": "Q2 2022",
@@ -6327,7 +6327,7 @@
       "company_name": "Nu Holdings Ltd"
     },
     {
-      "symbol": "ONTF",
+      "symbol": "ONTF-OLD",
       "manager_id": "TGM",
       "action": "Reduce 7.81%",
       "date": "Q1 2022",
@@ -7669,7 +7669,7 @@
       "company_name": "Oak Street Health Inc."
     },
     {
-      "symbol": "SEMR",
+      "symbol": "SEMR-OLD",
       "manager_id": "TGM",
       "action": "Sell 100.00%",
       "date": "Q1 2022",
@@ -8549,7 +8549,7 @@
       "company_name": "KE Holdings Inc."
     },
     {
-      "symbol": "ONTF",
+      "symbol": "ONTF-OLD",
       "manager_id": "TGM",
       "action": "Add 41.25%",
       "date": "Q3 2021",
@@ -10221,7 +10221,7 @@
       "company_name": "Playtika Holding Corp."
     },
     {
-      "symbol": "ONTF",
+      "symbol": "ONTF-OLD",
       "manager_id": "TGM",
       "action": "Buy",
       "date": "Q1 2021",
@@ -10430,7 +10430,7 @@
       "company_name": "SVF Investment Corp. 2"
     },
     {
-      "symbol": "SEMR",
+      "symbol": "SEMR-OLD",
       "manager_id": "TGM",
       "action": "Buy",
       "date": "Q1 2021",
@@ -11002,6 +11002,6 @@
       "company_name": "Sunrun Inc."
     }
   ],
-  "timestamp": "2026-04-01T06:39:58.195677",
-  "scraped_date": "2026-04-01"
+  "timestamp": "2026-05-01T06:59:17.746166",
+  "scraped_date": "2026-05-01"
 }

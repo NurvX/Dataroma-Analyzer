@@ -4193,7 +4193,7 @@
       "company_name": "Warby Parker Inc."
     },
     {
-      "symbol": "AL",
+      "symbol": "AL-OLD",
       "manager_id": "FE",
       "action": "Reduce 36.31%",
       "date": "Q4 2025",
@@ -8978,7 +8978,7 @@
       "company_name": "Donaldson Co."
     },
     {
-      "symbol": "AL",
+      "symbol": "AL-OLD",
       "manager_id": "FE",
       "action": "Reduce 71.57%",
       "date": "Q3 2025",
@@ -11002,6 +11002,6 @@
       "company_name": "Mayville Engineering Co. Inc."
     }
   ],
-  "timestamp": "2026-04-01T06:39:58.416234",
-  "scraped_date": "2026-04-01"
+  "timestamp": "2026-05-01T06:59:17.989536",
+  "scraped_date": "2026-05-01"
 }

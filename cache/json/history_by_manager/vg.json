@@ -5238,7 +5238,7 @@
       "company_name": "Zai Lab Ltd"
     },
     {
-      "symbol": "DAWN",
+      "symbol": "DAWN-OLD",
       "manager_id": "vg",
       "action": "Sell 100.00%",
       "date": "Q4 2024",
@@ -10210,7 +10210,7 @@
       "company_name": "Newamsterdam Pharma Co Nv"
     },
     {
-      "symbol": "DAWN",
+      "symbol": "DAWN-OLD",
       "manager_id": "vg",
       "action": "Add 64.16%",
       "date": "Q2 2023",
@@ -11002,6 +11002,6 @@
       "company_name": "Catalent Inc."
     }
   ],
-  "timestamp": "2026-04-01T06:39:58.073005",
-  "scraped_date": "2026-04-01"
+  "timestamp": "2026-05-01T06:59:17.612558",
+  "scraped_date": "2026-05-01"
 }

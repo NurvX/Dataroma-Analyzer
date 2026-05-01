@@ -365,7 +365,7 @@
       "company_name": "GCI Liberty Inc. Series C"
     },
     {
-      "symbol": "GLBAV",
+      "symbol": "GLBAV-OLD",
       "manager_id": "WIM",
       "action": "Sell 100.00%",
       "date": "Q4 2025",
@@ -519,7 +519,7 @@
       "company_name": "GCI Liberty Inc. Series C"
     },
     {
-      "symbol": "GLBAV",
+      "symbol": "GLBAV-OLD",
       "manager_id": "WIM",
       "action": "Buy",
       "date": "Q3 2025",
@@ -3709,6 +3709,6 @@
       "company_name": "Ingersoll Rand Inc."
     }
   ],
-  "timestamp": "2026-04-01T06:39:58.356832",
-  "scraped_date": "2026-04-01"
+  "timestamp": "2026-05-01T06:59:17.929936",
+  "scraped_date": "2026-05-01"
 }

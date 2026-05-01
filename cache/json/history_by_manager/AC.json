@@ -4655,7 +4655,7 @@
       "company_name": "AMTD IDEA Group"
     },
     {
-      "symbol": "DHIL",
+      "symbol": "DHIL-OLD",
       "manager_id": "AC",
       "action": "Sell 100.00%",
       "date": "Q3 2019",
@@ -4963,7 +4963,7 @@
       "company_name": "Verisk Analytics Inc."
     },
     {
-      "symbol": "DHIL",
+      "symbol": "DHIL-OLD",
       "manager_id": "AC",
       "action": "Reduce 13.90%",
       "date": "Q1 2019",
@@ -5458,7 +5458,7 @@
       "company_name": "Enstar Group Ltd."
     },
     {
-      "symbol": "DHIL",
+      "symbol": "DHIL-OLD",
       "manager_id": "AC",
       "action": "Reduce 54.74%",
       "date": "Q2 2018",
@@ -10881,7 +10881,7 @@
       "company_name": "Visa Inc."
     },
     {
-      "symbol": "DHIL",
+      "symbol": "DHIL-OLD",
       "manager_id": "AC",
       "action": "Add 23.60%",
       "date": "Q2 2012",
@@ -11002,6 +11002,6 @@
       "company_name": "Artio Global Investors Inc."
     }
   ],
-  "timestamp": "2026-04-01T06:39:58.281309",
-  "scraped_date": "2026-04-01"
+  "timestamp": "2026-05-01T06:59:17.835414",
+  "scraped_date": "2026-05-01"
 }

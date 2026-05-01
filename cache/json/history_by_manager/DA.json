@@ -63,7 +63,7 @@
       "date": "Q4 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 658,
+      "shares": 16450,
       "portfolio_percentage": 0.31,
       "company_name": "Booking Holdings Inc."
     },
@@ -173,7 +173,7 @@
       "date": "Q3 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 1315,
+      "shares": 32875,
       "portfolio_percentage": 0.64,
       "company_name": "Booking Holdings Inc."
     },
@@ -222,7 +222,7 @@
       "company_name": "Wix.com Ltd."
     },
     {
-      "symbol": "SEMR",
+      "symbol": "SEMR-OLD",
       "manager_id": "DA",
       "action": "Sell 100.00%",
       "date": "Q3 2025",
@@ -272,7 +272,7 @@
       "date": "Q2 2025",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 2321,
+      "shares": 58025,
       "portfolio_percentage": 1.2,
       "company_name": "Booking Holdings Inc."
     },
@@ -288,7 +288,7 @@
       "company_name": "Alphabet Inc. CL C"
     },
     {
-      "symbol": "SEMR",
+      "symbol": "SEMR-OLD",
       "manager_id": "DA",
       "action": "Add 1.23%",
       "date": "Q2 2025",
@@ -404,7 +404,7 @@
       "date": "Q1 2025",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 15969,
+      "shares": 399225,
       "portfolio_percentage": 7.8,
       "company_name": "Booking Holdings Inc."
     },
@@ -442,7 +442,7 @@
       "company_name": "Alphabet Inc. CL C"
     },
     {
-      "symbol": "SEMR",
+      "symbol": "SEMR-OLD",
       "manager_id": "DA",
       "action": "Reduce 0.08%",
       "date": "Q1 2025",
@@ -585,7 +585,7 @@
       "company_name": "PayPal Holdings Inc."
     },
     {
-      "symbol": "SEMR",
+      "symbol": "SEMR-OLD",
       "manager_id": "DA",
       "action": "Add 6.84%",
       "date": "Q4 2024",
@@ -772,7 +772,7 @@
       "company_name": "Smartsheet Inc."
     },
     {
-      "symbol": "SEMR",
+      "symbol": "SEMR-OLD",
       "manager_id": "DA",
       "action": "Reduce 40.60%",
       "date": "Q3 2024",
@@ -860,7 +860,7 @@
       "company_name": "Upwork Inc."
     },
     {
-      "symbol": "SEMR",
+      "symbol": "SEMR-OLD",
       "manager_id": "DA",
       "action": "Reduce 6.47%",
       "date": "Q2 2024",
@@ -904,7 +904,7 @@
       "company_name": "Alphabet Inc. CL C"
     },
     {
-      "symbol": "SEMR",
+      "symbol": "SEMR-OLD",
       "manager_id": "DA",
       "action": "Add 37.86%",
       "date": "Q1 2024",
@@ -1069,7 +1069,7 @@
       "company_name": "PayPal Holdings Inc."
     },
     {
-      "symbol": "SEMR",
+      "symbol": "SEMR-OLD",
       "manager_id": "DA",
       "action": "Reduce 7.59%",
       "date": "Q4 2023",
@@ -1179,7 +1179,7 @@
       "company_name": "Dollar General"
     },
     {
-      "symbol": "SEMR",
+      "symbol": "SEMR-OLD",
       "manager_id": "DA",
       "action": "Reduce 1.16%",
       "date": "Q3 2023",
@@ -1333,7 +1333,7 @@
       "company_name": "Wix.com Ltd."
     },
     {
-      "symbol": "SEMR",
+      "symbol": "SEMR-OLD",
       "manager_id": "DA",
       "action": "Reduce 9.82%",
       "date": "Q2 2023",
@@ -1443,7 +1443,7 @@
       "company_name": "Smartsheet Inc."
     },
     {
-      "symbol": "SEMR",
+      "symbol": "SEMR-OLD",
       "manager_id": "DA",
       "action": "Reduce 5.58%",
       "date": "Q1 2023",
@@ -1498,7 +1498,7 @@
       "company_name": "Smartsheet Inc."
     },
     {
-      "symbol": "SEMR",
+      "symbol": "SEMR-OLD",
       "manager_id": "DA",
       "action": "Add 2.79%",
       "date": "Q4 2022",
@@ -1608,7 +1608,7 @@
       "company_name": "PayPal Holdings Inc."
     },
     {
-      "symbol": "SEMR",
+      "symbol": "SEMR-OLD",
       "manager_id": "DA",
       "action": "Add 0.13%",
       "date": "Q3 2022",
@@ -1773,7 +1773,7 @@
       "company_name": "PayPal Holdings Inc."
     },
     {
-      "symbol": "SEMR",
+      "symbol": "SEMR-OLD",
       "manager_id": "DA",
       "action": "Add 0.08%",
       "date": "Q2 2022",
@@ -1806,7 +1806,7 @@
       "company_name": "eBay Inc."
     },
     {
-      "symbol": "SEMR",
+      "symbol": "SEMR-OLD",
       "manager_id": "DA",
       "action": "Add 31.66%",
       "date": "Q1 2022",
@@ -1938,7 +1938,7 @@
       "company_name": "Wix.com Ltd."
     },
     {
-      "symbol": "SEMR",
+      "symbol": "SEMR-OLD",
       "manager_id": "DA",
       "action": "Add 2.59%",
       "date": "Q4 2021",
@@ -2081,7 +2081,7 @@
       "company_name": "Alphabet Inc. CL C"
     },
     {
-      "symbol": "SEMR",
+      "symbol": "SEMR-OLD",
       "manager_id": "DA",
       "action": "Buy",
       "date": "Q3 2021",
@@ -4160,6 +4160,6 @@
       "company_name": "Roper Technologies Inc."
     }
   ],
-  "timestamp": "2026-04-01T06:39:58.242372",
-  "scraped_date": "2026-04-01"
+  "timestamp": "2026-05-01T06:59:17.793324",
+  "scraped_date": "2026-05-01"
 }

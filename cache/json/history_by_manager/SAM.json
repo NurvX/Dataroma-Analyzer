@@ -569,7 +569,7 @@
       "date": "Q3 2024",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 633959,
+      "shares": 12680,
       "portfolio_percentage": 1.66,
       "company_name": "Bioatla Inc"
     },
@@ -646,7 +646,7 @@
       "date": "Q2 2024",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 633959,
+      "shares": 12679,
       "portfolio_percentage": 1.66,
       "company_name": "Bioatla Inc"
     },
@@ -1042,7 +1042,7 @@
       "date": "Q1 2024",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 1250,
+      "shares": 31250,
       "portfolio_percentage": 4.69,
       "company_name": "Booking Holdings Inc."
     },
@@ -1372,7 +1372,7 @@
       "date": "Q4 2023",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 250,
+      "shares": 6250,
       "portfolio_percentage": 0.94,
       "company_name": "Booking Holdings Inc."
     },
@@ -1515,7 +1515,7 @@
       "date": "Q3 2023",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 1500,
+      "shares": 37500,
       "portfolio_percentage": 10.54,
       "company_name": "Booking Holdings Inc."
     },
@@ -2846,7 +2846,7 @@
       "date": "Q2 2022",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 8000,
+      "shares": 200000,
       "portfolio_percentage": 11.36,
       "company_name": "Booking Holdings Inc."
     },
@@ -2956,7 +2956,7 @@
       "date": "Q1 2022",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 8000,
+      "shares": 200000,
       "portfolio_percentage": 11.36,
       "company_name": "Booking Holdings Inc."
     },
@@ -5601,6 +5601,6 @@
       "company_name": "Mohawk Industries"
     }
   ],
-  "timestamp": "2026-04-01T06:39:58.537418",
-  "scraped_date": "2026-04-01"
+  "timestamp": "2026-05-01T06:59:18.030101",
+  "scraped_date": "2026-05-01"
 }

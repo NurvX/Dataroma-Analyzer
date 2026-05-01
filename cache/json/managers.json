@@ -1,7 +1,7 @@
 [
   {
-    "id": "MVALX",
-    "name": "Meridian Contrarian Fund Updated 02 Mar 2026",
+    "id": "LT",
+    "name": "Lindsell Train Updated 24 Apr 2026",
     "firm": "",
     "portfolio_value": 0,
     "num_holdings": 0,
@@ -9,45 +9,72 @@
     "last_updated": null
   },
   {
-    "id": "LLPFX",
-    "name": "Mason Hawkins",
-    "firm": "Longleaf Partners Updated 02 Mar 2026",
+    "id": "PIM",
+    "name": "Richard Pzena",
+    "firm": "Pzena Investment Management Updated 24 Apr 2026",
     "portfolio_value": 0,
     "num_holdings": 0,
     "url": "",
     "last_updated": null
   },
   {
-    "id": "ARFFX",
-    "name": "Charles Bobrinskoy",
-    "firm": "Ariel Focus Fund Updated 26 Feb 2026",
+    "id": "MAVFX",
+    "name": "David Katz",
+    "firm": "Matrix Asset Advisors Updated 22 Apr 2026",
     "portfolio_value": 0,
     "num_holdings": 0,
     "url": "",
     "last_updated": null
   },
   {
-    "id": "CAAPX",
-    "name": "John Rogers",
-    "firm": "Ariel Appreciation Fund Updated 26 Feb 2026",
+    "id": "OFALX",
+    "name": "Robert Olstein",
+    "firm": "Olstein Capital Management Updated 21 Apr 2026",
     "portfolio_value": 0,
     "num_holdings": 0,
     "url": "",
     "last_updated": null
   },
   {
-    "id": "oaklx",
+    "id": "aq",
+    "name": "Guy Spier",
+    "firm": "Aquamarine Capital Updated 17 Apr 2026",
+    "portfolio_value": 0,
+    "num_holdings": 0,
+    "url": "",
+    "last_updated": null
+  },
+  {
+    "id": "hcmax",
+    "name": "Hillman Value Fund Updated 09 Apr 2026",
+    "firm": "",
+    "portfolio_value": 0,
+    "num_holdings": 0,
+    "url": "",
+    "last_updated": null
+  },
+  {
+    "id": "GA",
+    "name": "Greenhaven Associates Updated 06 Apr 2026",
+    "firm": "",
+    "portfolio_value": 0,
+    "num_holdings": 0,
+    "url": "",
+    "last_updated": null
+  },
+  {
+    "id": "FPA",
+    "name": "First Pacific Advisors Updated 17 Feb 2026",
+    "firm": "",
+    "portfolio_value": 0,
+    "num_holdings": 0,
+    "url": "",
+    "last_updated": null
+  },
+  {
+    "id": "HA",
     "name": "Bill Nygren",
-    "firm": "Oakmark Select Fund Updated 25 Feb 2026",
-    "portfolio_value": 0,
-    "num_holdings": 0,
-    "url": "",
-    "last_updated": null
-  },
-  {
-    "id": "SEQUX",
-    "name": "Ruane Cunniff",
-    "firm": "Sequoia Fund Updated 23 Feb 2026",
+    "firm": "Oakmark Funds Updated 17 Feb 2026",
     "portfolio_value": 0,
     "num_holdings": 0,
     "url": "",
@@ -234,6 +261,15 @@
     "last_updated": null
   },
   {
+    "id": "MPF",
+    "name": "Mairs & Power Funds Updated 17 Feb 2026",
+    "firm": "",
+    "portfolio_value": 0,
+    "num_holdings": 0,
+    "url": "",
+    "last_updated": null
+  },
+  {
     "id": "OCL",
     "name": "Bryan Lawrence",
     "firm": "Oakcliff Capital Updated 17 Feb 2026",
@@ -387,6 +423,15 @@
     "last_updated": null
   },
   {
+    "id": "SE",
+    "name": "Mason Hawkins",
+    "firm": "Southeastern Asset Management Updated 13 Feb 2026",
+    "portfolio_value": 0,
+    "num_holdings": 0,
+    "url": "",
+    "last_updated": null
+  },
+  {
     "id": "AC",
     "name": "Chuck Akre",
     "firm": "Akre Capital Management Updated 13 Feb 2026",
@@ -417,6 +462,24 @@
     "id": "ca",
     "name": "Francis Chou",
     "firm": "Chou Associates Updated 13 Feb 2026",
+    "portfolio_value": 0,
+    "num_holdings": 0,
+    "url": "",
+    "last_updated": null
+  },
+  {
+    "id": "DAC",
+    "name": "Dodge & Cox Funds Updated 13 Feb 2026",
+    "firm": "",
+    "portfolio_value": 0,
+    "num_holdings": 0,
+    "url": "",
+    "last_updated": null
+  },
+  {
+    "id": "AI",
+    "name": "Ariel Investments Updated 13 Feb 2026",
+    "firm": "",
     "portfolio_value": 0,
     "num_holdings": 0,
     "url": "",
@@ -477,6 +540,15 @@
     "last_updated": null
   },
   {
+    "id": "RC",
+    "name": "Ruane Cunniff LP Updated 12 Feb 2026",
+    "firm": "",
+    "portfolio_value": 0,
+    "num_holdings": 0,
+    "url": "",
+    "last_updated": null
+  },
+  {
     "id": "TA",
     "name": "Third Avenue Management Updated 12 Feb 2026",
     "firm": "",
@@ -531,15 +603,6 @@
     "last_updated": null
   },
   {
-    "id": "LT",
-    "name": "Lindsell Train Updated 11 Feb 2026",
-    "firm": "",
-    "portfolio_value": 0,
-    "num_holdings": 0,
-    "url": "",
-    "last_updated": null
-  },
-  {
     "id": "JIM",
     "name": "Jensen Investment Management Updated 11 Feb 2026",
     "firm": "",
@@ -576,6 +639,15 @@
     "last_updated": null
   },
   {
+    "id": "VVP",
+    "name": "Vulcan Value Partners Updated 09 Feb 2026",
+    "firm": "",
+    "portfolio_value": 0,
+    "num_holdings": 0,
+    "url": "",
+    "last_updated": null
+  },
+  {
     "id": "MKL",
     "name": "Thomas Gayner",
     "firm": "Markel Group Updated 06 Feb 2026",
@@ -594,8 +666,8 @@
     "last_updated": null
   },
   {
-    "id": "YAM",
-    "name": "Yacktman Asset Management Updated 03 Feb 2026",
+    "id": "TB",
+    "name": "Tweedy Browne Updated 03 Feb 2026",
     "firm": "",
     "portfolio_value": 0,
     "num_holdings": 0,
@@ -603,9 +675,9 @@
     "last_updated": null
   },
   {
-    "id": "OFALX",
-    "name": "Robert Olstein",
-    "firm": "Olstein Capital Management Updated 03 Feb 2026",
+    "id": "YAM",
+    "name": "Yacktman Asset Management Updated 03 Feb 2026",
+    "firm": "",
     "portfolio_value": 0,
     "num_holdings": 0,
     "url": "",
@@ -632,96 +704,6 @@
   {
     "id": "T",
     "name": "Torray Funds Updated 28 Jan 2026",
-    "firm": "",
-    "portfolio_value": 0,
-    "num_holdings": 0,
-    "url": "",
-    "last_updated": null
-  },
-  {
-    "id": "TWEBX",
-    "name": "Tweedy Browne Co.",
-    "firm": "Tweedy Browne Value Fund Updated 22 Jan 2026",
-    "portfolio_value": 0,
-    "num_holdings": 0,
-    "url": "",
-    "last_updated": null
-  },
-  {
-    "id": "MPGFX",
-    "name": "Mairs & Power Growth Fund Updated 21 Jan 2026",
-    "firm": "",
-    "portfolio_value": 0,
-    "num_holdings": 0,
-    "url": "",
-    "last_updated": null
-  },
-  {
-    "id": "DODGX",
-    "name": "Dodge & Cox Updated 20 Jan 2026",
-    "firm": "",
-    "portfolio_value": 0,
-    "num_holdings": 0,
-    "url": "",
-    "last_updated": null
-  },
-  {
-    "id": "MAVFX",
-    "name": "David Katz",
-    "firm": "Matrix Asset Advisors Updated 16 Jan 2026",
-    "portfolio_value": 0,
-    "num_holdings": 0,
-    "url": "",
-    "last_updated": null
-  },
-  {
-    "id": "pzfvx",
-    "name": "Richard Pzena",
-    "firm": "Hancock Classic Value Updated 15 Jan 2026",
-    "portfolio_value": 0,
-    "num_holdings": 0,
-    "url": "",
-    "last_updated": null
-  },
-  {
-    "id": "aq",
-    "name": "Guy Spier",
-    "firm": "Aquamarine Capital Updated 15 Jan 2026",
-    "portfolio_value": 0,
-    "num_holdings": 0,
-    "url": "",
-    "last_updated": null
-  },
-  {
-    "id": "FPPTX",
-    "name": "FPA Queens Road Small Cap Value Fund Updated 14 Jan 2026",
-    "firm": "",
-    "portfolio_value": 0,
-    "num_holdings": 0,
-    "url": "",
-    "last_updated": null
-  },
-  {
-    "id": "FPACX",
-    "name": "Steven Romick",
-    "firm": "FPA Crescent Fund Updated 14 Jan 2026",
-    "portfolio_value": 0,
-    "num_holdings": 0,
-    "url": "",
-    "last_updated": null
-  },
-  {
-    "id": "hcmax",
-    "name": "Hillman Value Fund Updated 08 Jan 2026",
-    "firm": "",
-    "portfolio_value": 0,
-    "num_holdings": 0,
-    "url": "",
-    "last_updated": null
-  },
-  {
-    "id": "GA",
-    "name": "Greenhaven Associates Updated 07 Jan 2026",
     "firm": "",
     "portfolio_value": 0,
     "num_holdings": 0,

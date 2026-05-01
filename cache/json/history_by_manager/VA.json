@@ -3341,7 +3341,7 @@
       "date": "Q3 2019",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 35000,
+      "shares": 875000,
       "portfolio_percentage": 0.69,
       "company_name": "Booking Holdings Inc."
     },
@@ -3451,7 +3451,7 @@
       "date": "Q2 2019",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 35000,
+      "shares": 875000,
       "portfolio_percentage": 0.69,
       "company_name": "Booking Holdings Inc."
     },
@@ -6954,6 +6954,6 @@
       "company_name": "New York Times CL A"
     }
   ],
-  "timestamp": "2026-04-01T06:39:58.104914",
-  "scraped_date": "2026-04-01"
+  "timestamp": "2026-05-01T06:59:17.644817",
+  "scraped_date": "2026-05-01"
 }

@@ -398,7 +398,7 @@
       "company_name": "Warner Bros. Discovery Inc."
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "SSHFX",
       "action": "Sell 100.00%",
       "date": "Q4 2025",
@@ -607,7 +607,7 @@
       "company_name": "Kyndryl Holdings Inc"
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "SSHFX",
       "action": "Reduce 3.26%",
       "date": "Q3 2025",
@@ -1135,7 +1135,7 @@
       "company_name": "Albertsons Co Inc."
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "SSHFX",
       "action": "Reduce 0.07%",
       "date": "Q2 2025",
@@ -1410,7 +1410,7 @@
       "company_name": "CSX Corp."
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "SSHFX",
       "action": "Add 42.61%",
       "date": "Q1 2025",
@@ -2103,7 +2103,7 @@
       "company_name": "Organon & Co."
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "SSHFX",
       "action": "Reduce 4.60%",
       "date": "Q4 2024",
@@ -2642,7 +2642,7 @@
       "company_name": "Teva Pharmaceutical Industries Ltd."
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "SSHFX",
       "action": "Reduce 12.79%",
       "date": "Q3 2024",
@@ -2939,7 +2939,7 @@
       "company_name": "Kroger Co."
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "SSHFX",
       "action": "Add 5.20%",
       "date": "Q2 2024",
@@ -3335,7 +3335,7 @@
       "company_name": "Kraft Heinz Co."
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "SSHFX",
       "action": "Add 10.98%",
       "date": "Q1 2024",
@@ -3852,7 +3852,7 @@
       "company_name": "Cleveland-Cliffs Inc."
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "SSHFX",
       "action": "Add 7.84%",
       "date": "Q4 2023",
@@ -4193,7 +4193,7 @@
       "company_name": "Conagra Brands Inc."
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "SSHFX",
       "action": "Add 43.31%",
       "date": "Q3 2023",
@@ -4875,7 +4875,7 @@
       "company_name": "PVH Corp."
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "SSHFX",
       "action": "Reduce 2.77%",
       "date": "Q2 2023",
@@ -5348,7 +5348,7 @@
       "company_name": "Micron Technology Inc."
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "SSHFX",
       "action": "Add 122.46%",
       "date": "Q1 2023",
@@ -5766,7 +5766,7 @@
       "company_name": "Lennar Corp."
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "SSHFX",
       "action": "Reduce 14.73%",
       "date": "Q4 2022",
@@ -6668,7 +6668,7 @@
       "company_name": "General Motors"
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "SSHFX",
       "action": "Buy",
       "date": "Q1 2022",
@@ -7818,7 +7818,7 @@
       "date": "Q2 2021",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 10255,
+      "shares": 256375,
       "portfolio_percentage": 2.0,
       "company_name": "Booking Holdings Inc."
     },
@@ -8104,7 +8104,7 @@
       "date": "Q1 2021",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 2620,
+      "shares": 65500,
       "portfolio_percentage": 0.51,
       "company_name": "Booking Holdings Inc."
     },
@@ -8456,7 +8456,7 @@
       "date": "Q4 2020",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 2600,
+      "shares": 65000,
       "portfolio_percentage": 0.51,
       "company_name": "Booking Holdings Inc."
     },
@@ -8610,7 +8610,7 @@
       "date": "Q3 2020",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 9155,
+      "shares": 228875,
       "portfolio_percentage": 1.52,
       "company_name": "Booking Holdings Inc."
     },
@@ -9171,7 +9171,7 @@
       "date": "Q2 2020",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 6320,
+      "shares": 158000,
       "portfolio_percentage": 1.01,
       "company_name": "Booking Holdings Inc."
     },
@@ -11002,6 +11002,6 @@
       "company_name": "Merck & Co."
     }
   ],
-  "timestamp": "2026-04-01T06:39:58.398685",
-  "scraped_date": "2026-04-01"
+  "timestamp": "2026-05-01T06:59:17.968742",
+  "scraped_date": "2026-05-01"
 }

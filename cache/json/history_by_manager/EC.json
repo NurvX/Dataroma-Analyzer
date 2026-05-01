@@ -1350,7 +1350,7 @@
       "date": "Q1 2025",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 12235,
+      "shares": 305875,
       "portfolio_percentage": 0.7,
       "company_name": "Booking Holdings Inc."
     },
@@ -1680,7 +1680,7 @@
       "date": "Q4 2024",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 52077,
+      "shares": 1301925,
       "portfolio_percentage": 2.98,
       "company_name": "Booking Holdings Inc."
     },
@@ -2065,7 +2065,7 @@
       "date": "Q3 2024",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 46815,
+      "shares": 1170375,
       "portfolio_percentage": 1.99,
       "company_name": "Booking Holdings Inc."
     },
@@ -2131,7 +2131,7 @@
       "date": "Q2 2024",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 30306,
+      "shares": 757650,
       "portfolio_percentage": 1.21,
       "company_name": "Booking Holdings Inc."
     },
@@ -2626,7 +2626,7 @@
       "date": "Q1 2024",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 26982,
+      "shares": 674550,
       "portfolio_percentage": 0.94,
       "company_name": "Booking Holdings Inc."
     },
@@ -2879,7 +2879,7 @@
       "date": "Q4 2023",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 14783,
+      "shares": 369575,
       "portfolio_percentage": 0.57,
       "company_name": "Booking Holdings Inc."
     },
@@ -3110,7 +3110,7 @@
       "date": "Q3 2023",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 4595,
+      "shares": 114875,
       "portfolio_percentage": 0.16,
       "company_name": "Booking Holdings Inc."
     },
@@ -3297,7 +3297,7 @@
       "date": "Q2 2023",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 54638,
+      "shares": 1365950,
       "portfolio_percentage": 1.52,
       "company_name": "Booking Holdings Inc."
     },
@@ -3825,7 +3825,7 @@
       "date": "Q1 2023",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 144275,
+      "shares": 3606875,
       "portfolio_percentage": 4.14,
       "company_name": "Booking Holdings Inc."
     },
@@ -3869,7 +3869,7 @@
       "date": "Q4 2022",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 7507,
+      "shares": 187675,
       "portfolio_percentage": 0.13,
       "company_name": "Booking Holdings Inc."
     },
@@ -4155,7 +4155,7 @@
       "date": "Q3 2022",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 100111,
+      "shares": 2502775,
       "portfolio_percentage": 1.28,
       "company_name": "Booking Holdings Inc."
     },
@@ -4595,7 +4595,7 @@
       "date": "Q2 2022",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 109200,
+      "shares": 2730000,
       "portfolio_percentage": 1.29,
       "company_name": "Booking Holdings Inc."
     },
@@ -7312,7 +7312,7 @@
       "date": "Q4 2020",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 150726,
+      "shares": 3768150,
       "portfolio_percentage": 1.59,
       "company_name": "Booking Holdings Inc."
     },
@@ -7543,7 +7543,7 @@
       "date": "Q3 2020",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 150726,
+      "shares": 3768150,
       "portfolio_percentage": 1.59,
       "company_name": "Booking Holdings Inc."
     },
@@ -9803,6 +9803,6 @@
       "company_name": "TransUnion"
     }
   ],
-  "timestamp": "2026-04-01T06:39:58.390882",
-  "scraped_date": "2026-04-01"
+  "timestamp": "2026-05-01T06:59:17.960718",
+  "scraped_date": "2026-05-01"
 }

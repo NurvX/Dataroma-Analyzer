@@ -3495,7 +3495,7 @@
       "date": "Q3 2021",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 3500,
+      "shares": 87500,
       "portfolio_percentage": 0.25,
       "company_name": "Booking Holdings Inc."
     },
@@ -3726,7 +3726,7 @@
       "date": "Q2 2021",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 3000,
+      "shares": 75000,
       "portfolio_percentage": 0.21,
       "company_name": "Booking Holdings Inc."
     },
@@ -5299,7 +5299,7 @@
       "date": "Q1 2020",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 6500,
+      "shares": 162500,
       "portfolio_percentage": 0.61,
       "company_name": "Booking Holdings Inc."
     },
@@ -8758,7 +8758,7 @@
       "company_name": "Flagstar Financial Inc."
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "FFH",
       "action": "Sell 100.00%",
       "date": "Q4 2015",
@@ -11002,6 +11002,6 @@
       "company_name": "SandRidge Energy Inc."
     }
   ],
-  "timestamp": "2026-04-01T06:39:58.256603",
-  "scraped_date": "2026-04-01"
+  "timestamp": "2026-05-01T06:59:17.807786",
+  "scraped_date": "2026-05-01"
 }

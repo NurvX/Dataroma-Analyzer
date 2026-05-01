@@ -393,7 +393,7 @@
       "date": "Q4 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 37045,
+      "shares": 926125,
       "portfolio_percentage": 1.89,
       "company_name": "Booking Holdings Inc."
     },
@@ -657,7 +657,7 @@
       "date": "Q3 2025",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 18013,
+      "shares": 450325,
       "portfolio_percentage": 0.72,
       "company_name": "Booking Holdings Inc."
     },
@@ -1603,7 +1603,7 @@
       "date": "Q2 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 55577,
+      "shares": 1389425,
       "portfolio_percentage": 2.44,
       "company_name": "Booking Holdings Inc."
     },
@@ -2054,7 +2054,7 @@
       "date": "Q1 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 1413,
+      "shares": 35325,
       "portfolio_percentage": 0.06,
       "company_name": "Booking Holdings Inc."
     },
@@ -2681,7 +2681,7 @@
       "date": "Q4 2024",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 28111,
+      "shares": 702775,
       "portfolio_percentage": 1.14,
       "company_name": "Booking Holdings Inc."
     },
@@ -2928,7 +2928,7 @@
       "company_name": "Clear Secure Inc."
     },
     {
-      "symbol": "OS",
+      "symbol": "OS-OLD",
       "manager_id": "DCP",
       "action": "Sell 100.00%",
       "date": "Q4 2024",
@@ -3247,7 +3247,7 @@
       "company_name": "APi Group Corp."
     },
     {
-      "symbol": "OS",
+      "symbol": "OS-OLD",
       "manager_id": "DCP",
       "action": "Buy",
       "date": "Q3 2024",
@@ -3308,7 +3308,7 @@
       "date": "Q3 2024",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 8090,
+      "shares": 202250,
       "portfolio_percentage": 0.25,
       "company_name": "Booking Holdings Inc."
     },
@@ -3781,7 +3781,7 @@
       "date": "Q2 2024",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 4768,
+      "shares": 119200,
       "portfolio_percentage": 0.15,
       "company_name": "Booking Holdings Inc."
     },
@@ -4177,7 +4177,7 @@
       "date": "Q2 2024",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 976133,
+      "shares": 39046,
       "portfolio_percentage": 0.05,
       "company_name": "Agilon Health Inc"
     },
@@ -4507,7 +4507,7 @@
       "date": "Q1 2024",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 9855,
+      "shares": 246375,
       "portfolio_percentage": 0.28,
       "company_name": "Booking Holdings Inc."
     },
@@ -4694,7 +4694,7 @@
       "date": "Q1 2024",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 1113127,
+      "shares": 44526,
       "portfolio_percentage": 0.06,
       "company_name": "Agilon Health Inc"
     },
@@ -5145,7 +5145,7 @@
       "date": "Q4 2023",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 9530,
+      "shares": 238250,
       "portfolio_percentage": 0.27,
       "company_name": "Booking Holdings Inc."
     },
@@ -5266,7 +5266,7 @@
       "date": "Q4 2023",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 3724248,
+      "shares": 148970,
       "portfolio_percentage": 0.37,
       "company_name": "Agilon Health Inc"
     },
@@ -5607,7 +5607,7 @@
       "date": "Q3 2023",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 3839,
+      "shares": 95975,
       "portfolio_percentage": 0.11,
       "company_name": "Booking Holdings Inc."
     },
@@ -5629,7 +5629,7 @@
       "date": "Q3 2023",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 222121,
+      "shares": 8885,
       "portfolio_percentage": 0.04,
       "company_name": "Agilon Health Inc"
     },
@@ -5981,7 +5981,7 @@
       "date": "Q2 2023",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 532490,
+      "shares": 21299,
       "portfolio_percentage": 0.08,
       "company_name": "Agilon Health Inc"
     },
@@ -5992,7 +5992,7 @@
       "date": "Q2 2023",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 12822,
+      "shares": 320550,
       "portfolio_percentage": 0.3,
       "company_name": "Booking Holdings Inc."
     },
@@ -6404,6 +6404,6 @@
       "company_name": "Upwork Inc."
     }
   ],
-  "timestamp": "2026-04-01T06:39:58.142895",
-  "scraped_date": "2026-04-01"
+  "timestamp": "2026-05-01T06:59:17.683300",
+  "scraped_date": "2026-05-01"
 }

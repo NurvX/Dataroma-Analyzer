@@ -1267,7 +1267,7 @@
       "company_name": "Assured Guaranty Ltd."
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "KB",
       "action": "Sell 100.00%",
       "date": "Q2 2025",
@@ -1806,7 +1806,7 @@
       "company_name": "Verizon Communications"
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "KB",
       "action": "Reduce 33.23%",
       "date": "Q1 2025",
@@ -1894,7 +1894,7 @@
       "company_name": "Novartis AG"
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "KB",
       "action": "Add 15.63%",
       "date": "Q4 2024",
@@ -2950,7 +2950,7 @@
       "company_name": "IDW Media Holdings"
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "KB",
       "action": "Reduce 3.40%",
       "date": "Q2 2024",
@@ -3566,7 +3566,7 @@
       "company_name": "Exxon Mobil Corp."
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "KB",
       "action": "Reduce 7.02%",
       "date": "Q1 2024",
@@ -4413,7 +4413,7 @@
       "company_name": "Patterson-UTI Energy Inc."
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "KB",
       "action": "Reduce 5.14%",
       "date": "Q3 2023",
@@ -4941,7 +4941,7 @@
       "company_name": "VOXX International Corp."
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "KB",
       "action": "Reduce 1.15%",
       "date": "Q1 2023",
@@ -5513,7 +5513,7 @@
       "company_name": "BlackBerry Ltd."
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "KB",
       "action": "Reduce 5.00%",
       "date": "Q4 2022",
@@ -6514,7 +6514,7 @@
       "company_name": "BP plc"
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "KB",
       "action": "Reduce 1.70%",
       "date": "Q1 2022",
@@ -6943,7 +6943,7 @@
       "company_name": "Verizon Communications"
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "KB",
       "action": "Reduce 8.65%",
       "date": "Q4 2021",
@@ -7273,7 +7273,7 @@
       "company_name": "Viatris Inc."
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "KB",
       "action": "Reduce 10.41%",
       "date": "Q3 2021",
@@ -7603,7 +7603,7 @@
       "company_name": "Bank of America Corp."
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "KB",
       "action": "Reduce 10.52%",
       "date": "Q2 2021",
@@ -7790,7 +7790,7 @@
       "company_name": "Patterson-UTI Energy Inc."
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "KB",
       "action": "Reduce 2.88%",
       "date": "Q1 2021",
@@ -7922,7 +7922,7 @@
       "company_name": "VOXX International Corp."
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "KB",
       "action": "Add 7.77%",
       "date": "Q4 2020",
@@ -8648,7 +8648,7 @@
       "company_name": "First National Bank Alaska"
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "KB",
       "action": "Reduce 48.56%",
       "date": "Q3 2020",
@@ -9055,7 +9055,7 @@
       "company_name": "Coal Creek Company"
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "KB",
       "action": "Reduce 69.04%",
       "date": "Q2 2020",
@@ -9396,7 +9396,7 @@
       "company_name": "Verizon Communications"
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "KB",
       "action": "Reduce 9.53%",
       "date": "Q1 2020",
@@ -9726,7 +9726,7 @@
       "company_name": "Patterson-UTI Energy Inc."
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "KB",
       "action": "Reduce 4.93%",
       "date": "Q4 2019",
@@ -10188,7 +10188,7 @@
       "company_name": "Alcon Inc."
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "KB",
       "action": "Reduce 8.79%",
       "date": "Q3 2019",
@@ -10705,7 +10705,7 @@
       "company_name": "Valhi Inc."
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "KB",
       "action": "Reduce 0.22%",
       "date": "Q2 2019",
@@ -11002,6 +11002,6 @@
       "company_name": "Merck & Co."
     }
   ],
-  "timestamp": "2026-04-01T06:39:58.348104",
-  "scraped_date": "2026-04-01"
+  "timestamp": "2026-05-01T06:59:17.921127",
+  "scraped_date": "2026-05-01"
 }

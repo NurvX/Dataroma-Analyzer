@@ -2406,7 +2406,7 @@
       "date": "Q3 2025",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 37,
+      "shares": 925,
       "portfolio_percentage": 0.0,
       "company_name": "Booking Holdings Inc."
     },
@@ -3066,7 +3066,7 @@
       "date": "Q2 2025",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 37,
+      "shares": 925,
       "portfolio_percentage": 0.0,
       "company_name": "Booking Holdings Inc."
     },
@@ -11002,6 +11002,6 @@
       "company_name": "Infosys Ltd."
     }
   ],
-  "timestamp": "2026-04-01T06:39:58.313659",
-  "scraped_date": "2026-04-01"
+  "timestamp": "2026-05-01T06:59:17.883956",
+  "scraped_date": "2026-05-01"
 }

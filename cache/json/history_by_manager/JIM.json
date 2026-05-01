@@ -717,7 +717,7 @@
       "company_name": "Lululemon Athletica Inc."
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "JIM",
       "action": "Reduce 54.14%",
       "date": "Q4 2025",
@@ -1014,7 +1014,7 @@
       "company_name": "Toro Co."
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "JIM",
       "action": "Add 4.84%",
       "date": "Q3 2025",
@@ -1795,7 +1795,7 @@
       "company_name": "MSCI Inc."
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "JIM",
       "action": "Add 13.44%",
       "date": "Q2 2025",
@@ -2565,7 +2565,7 @@
       "company_name": "Campbell's Co."
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "JIM",
       "action": "Add 1.12%",
       "date": "Q1 2025",
@@ -3511,7 +3511,7 @@
       "company_name": "Ross Stores Inc."
     },
     {
-      "symbol": "HOLX",
+      "symbol": "HOLX-OLD",
       "manager_id": "JIM",
       "action": "Buy",
       "date": "Q4 2024",
@@ -11002,6 +11002,6 @@
       "company_name": "Emerson Electric"
     }
   ],
-  "timestamp": "2026-04-01T06:39:58.373315",
-  "scraped_date": "2026-04-01"
+  "timestamp": "2026-05-01T06:59:17.943092",
+  "scraped_date": "2026-05-01"
 }

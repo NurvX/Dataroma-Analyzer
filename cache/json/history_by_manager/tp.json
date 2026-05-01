@@ -7741,7 +7741,7 @@
       "date": "Q4 2021",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 250000,
+      "shares": 12500,
       "portfolio_percentage": 0.09,
       "company_name": "Wheels Up Experience Inc."
     },
@@ -8313,7 +8313,7 @@
       "date": "Q3 2021",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 250000,
+      "shares": 12500,
       "portfolio_percentage": 0.09,
       "company_name": "Wheels Up Experience Inc."
     },
@@ -11002,6 +11002,6 @@
       "company_name": "Meta Platforms Inc."
     }
   ],
-  "timestamp": "2026-04-01T06:39:58.084338",
-  "scraped_date": "2026-04-01"
+  "timestamp": "2026-05-01T06:59:17.624102",
+  "scraped_date": "2026-05-01"
 }

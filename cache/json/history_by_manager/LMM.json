@@ -3847,7 +3847,7 @@
       "date": "Q2 2023",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 1000,
+      "shares": 50,
       "portfolio_percentage": 0.0,
       "company_name": "Wheels Up Experience Inc."
     },
@@ -4276,7 +4276,7 @@
       "date": "Q1 2023",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 1000,
+      "shares": 50,
       "portfolio_percentage": 0.0,
       "company_name": "Wheels Up Experience Inc."
     },
@@ -5728,7 +5728,7 @@
       "date": "Q4 2022",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 1000,
+      "shares": 50,
       "portfolio_percentage": 0.0,
       "company_name": "Wheels Up Experience Inc."
     },
@@ -6256,7 +6256,7 @@
       "date": "Q3 2022",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 1000,
+      "shares": 50,
       "portfolio_percentage": 0.0,
       "company_name": "Wheels Up Experience Inc."
     },
@@ -11002,6 +11002,6 @@
       "company_name": "Amazon.com Inc."
     }
   ],
-  "timestamp": "2026-04-01T06:39:58.233627",
-  "scraped_date": "2026-04-01"
+  "timestamp": "2026-05-01T06:59:17.784514",
+  "scraped_date": "2026-05-01"
 }
