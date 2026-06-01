@@ -2,6 +2,39 @@
   "manager_id": "CM",
   "activities": [
     {
+      "symbol": "GPI",
+      "manager_id": "CM",
+      "action": "Add 32.83%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 186608,
+      "portfolio_percentage": 11.78,
+      "company_name": "Group 1 Automotive"
+    },
+    {
+      "symbol": "MNDY",
+      "manager_id": "CM",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 400000,
+      "portfolio_percentage": 5.28,
+      "company_name": "monday.com Ltd."
+    },
+    {
+      "symbol": "LAD",
+      "manager_id": "CM",
+      "action": "Reduce 47.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 188000,
+      "portfolio_percentage": 8.97,
+      "company_name": "Lithia Motors Inc."
+    },
+    {
       "symbol": "SDHC",
       "manager_id": "CM",
       "action": "Add 68.32%",
@@ -1487,6 +1520,6 @@
       "company_name": "Alibaba Group Holdings"
     }
   ],
-  "timestamp": "2026-05-01T06:59:17.899956",
-  "scraped_date": "2026-05-01"
+  "timestamp": "2026-06-01T07:45:15.987475",
+  "scraped_date": "2026-06-01"
 }

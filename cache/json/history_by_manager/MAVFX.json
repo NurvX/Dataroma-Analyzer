@@ -772,7 +772,7 @@
       "company_name": "Eli Lilly & Co."
     },
     {
-      "symbol": "BK",
+      "symbol": "BNY",
       "manager_id": "MAVFX",
       "action": "Reduce 6.47%",
       "date": "Q1 2026",
@@ -1872,7 +1872,7 @@
       "company_name": "Amgen"
     },
     {
-      "symbol": "BK",
+      "symbol": "BNY",
       "manager_id": "MAVFX",
       "action": "Reduce 2.67%",
       "date": "Q4 2025",
@@ -2983,7 +2983,7 @@
       "company_name": "iShares MSCI EAFE ETF"
     },
     {
-      "symbol": "BK",
+      "symbol": "BNY",
       "manager_id": "MAVFX",
       "action": "Reduce 6.50%",
       "date": "Q3 2025",
@@ -4149,7 +4149,7 @@
       "company_name": "International Business Machines"
     },
     {
-      "symbol": "BK",
+      "symbol": "BNY",
       "manager_id": "MAVFX",
       "action": "Reduce 28.59%",
       "date": "Q2 2025",
@@ -5073,7 +5073,7 @@
       "company_name": "SPDR Gold Trust"
     },
     {
-      "symbol": "BK",
+      "symbol": "BNY",
       "manager_id": "MAVFX",
       "action": "Reduce 17.78%",
       "date": "Q1 2025",
@@ -6162,7 +6162,7 @@
       "company_name": "PayPal Holdings Inc."
     },
     {
-      "symbol": "BK",
+      "symbol": "BNY",
       "manager_id": "MAVFX",
       "action": "Reduce 4.87%",
       "date": "Q4 2024",
@@ -7086,7 +7086,7 @@
       "company_name": "Gilead Sciences"
     },
     {
-      "symbol": "BK",
+      "symbol": "BNY",
       "manager_id": "MAVFX",
       "action": "Reduce 1.03%",
       "date": "Q3 2024",
@@ -7977,7 +7977,7 @@
       "company_name": "TE Connectivity plc"
     },
     {
-      "symbol": "BK",
+      "symbol": "BNY",
       "manager_id": "MAVFX",
       "action": "Reduce 1.28%",
       "date": "Q2 2024",
@@ -8736,7 +8736,7 @@
       "company_name": "Colgate-Palmolive"
     },
     {
-      "symbol": "BK",
+      "symbol": "BNY",
       "manager_id": "MAVFX",
       "action": "Reduce 1.90%",
       "date": "Q1 2024",
@@ -9682,7 +9682,7 @@
       "company_name": "SPDR S&P  Midcap 400 ETF Trst"
     },
     {
-      "symbol": "BK",
+      "symbol": "BNY",
       "manager_id": "MAVFX",
       "action": "Reduce 0.43%",
       "date": "Q4 2023",
@@ -10342,7 +10342,7 @@
       "company_name": "CVS Health Corp."
     },
     {
-      "symbol": "BK",
+      "symbol": "BNY",
       "manager_id": "MAVFX",
       "action": "Add 0.52%",
       "date": "Q3 2023",
@@ -11002,6 +11002,6 @@
       "company_name": "Ishares Russell Mid Cap ETF"
     }
   ],
-  "timestamp": "2026-05-01T06:59:17.567928",
-  "scraped_date": "2026-05-01"
+  "timestamp": "2026-06-01T07:45:16.222928",
+  "scraped_date": "2026-06-01"
 }

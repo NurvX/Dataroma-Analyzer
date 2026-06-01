@@ -1,21 +1,17 @@
 ticker,company_name,manager_count,managers,total_value,avg_portfolio_pct,max_portfolio_pct,total_shares,manager_quality,under_radar_score,first_established,recent_additions,pick_type,_analysis_type,_generated,_periods,_window_quarters
-GPI,Group 1 Automotive,2,"Greg Alexander, Ruane Cunniff LP",224981000,18.53,37.04,572034,1.8,66.672,Q2 2016,1.0,Premium Pick,under_radar_picks,2026-05-01,"Q1 2026, Q4 2025, Q3 2025",3
-SLM,SLM Corp.,2,"Glenn Greenberg, Michael Burry",360521000,16.14,24.16,13312019,1.8,43.488,Q1 2018,3.0,Premium Pick,under_radar_picks,2026-05-01,"Q1 2026, Q4 2025, Q3 2025",3
-GRBK,Green Brick Partners,2,"David Einhorn, Polen Capital Management",593635000,10.41,20.82,9473909,1.8,37.476,Q4 2025,1.0,Premium Pick,under_radar_picks,2026-05-01,"Q1 2026, Q4 2025, Q3 2025",3
-MDB,MongoDB Inc.,1,ValueAct Capital,590420000,8.4,8.4,1406800,1.5,25.200000000000003,Q2 2025,3.0,Growing Interest,under_radar_picks,2026-05-01,"Q1 2026, Q4 2025, Q3 2025",3
-SNX,SYNNEX Corp.,2,"David Einhorn, Glenn Greenberg",483699000,5.72,11.13,3219729,1.8,20.034,Q4 2024,2.0,Premium Pick,under_radar_picks,2026-05-01,"Q1 2026, Q4 2025, Q3 2025",3
-PRI,Primerica Inc.,1,Glenn Greenberg,201553000,4.72,4.72,780125,1.8,16.992,Q1 2020,1.0,Premium Pick,under_radar_picks,2026-05-01,"Q1 2026, Q4 2025, Q3 2025",3
-AN,AutoNation Inc.,2,"Glenn Greenberg, Tweedy Browne",321858000,3.8,7.51,1558785,1.8,13.518,Q1 2008,4.0,Premium Pick,under_radar_picks,2026-05-01,"Q1 2026, Q4 2025, Q3 2025",3
-BELFB,Bel Fuse Inc. CL B,2,"Polen Capital Management, Tom Bancroft",13150000,3.66,7.29,77522,1.8,13.122,Q2 2025,1.0,Premium Pick,under_radar_picks,2026-05-01,"Q1 2026, Q4 2025, Q3 2025",3
-MNDY,monday.com Ltd.,2,"Dennis Hong, Polen Capital Management",49180000,3.56,7.06,333291,1.8,12.708,Q2 2024,2.0,Premium Pick,under_radar_picks,2026-05-01,"Q1 2026, Q4 2025, Q3 2025",3
-MIR,Mirion Technologies Inc,2,"Leon Cooperman, Polen Capital Management",198200000,3.26,6.51,8462860,1.8,11.718,Q4 2021,3.0,Premium Pick,under_radar_picks,2026-05-01,"Q1 2026, Q4 2025, Q3 2025",3
-LMB,Limbach Holdings Inc.,2,"Polen Capital Management, Tom Bancroft",8418000,3.11,6.22,108131,1.8,11.196,Q2 2025,2.0,Premium Pick,under_radar_picks,2026-05-01,"Q1 2026, Q4 2025, Q3 2025",3
-MRP,Millrose Properties,2,"Glenn Greenberg, Bill Miller",259362000,3.44,6.02,8683024,1.8,10.836,Q1 2025,2.0,Premium Pick,under_radar_picks,2026-05-01,"Q1 2026, Q4 2025, Q3 2025",3
-BLDR,Builders FirstSource Inc.,2,"Glenn Greenberg, Francois Rochon",254048000,3.02,5.73,2469129,1.8,10.314000000000002,Q2 2025,2.0,Premium Pick,under_radar_picks,2026-05-01,"Q1 2026, Q4 2025, Q3 2025",3
-MPLX,MPLX LP,2,"Glenn Greenberg, David Tepper",272274000,3.04,5.59,5101615,1.8,10.062,Q2 2023,3.0,Premium Pick,under_radar_picks,2026-05-01,"Q1 2026, Q4 2025, Q3 2025",3
-SDHC,Smith Douglas Homes Corp,2,"Greg Alexander, Ruane Cunniff LP",24242000,1.99,3.98,1445559,1.8,7.164,Q2 2025,5.0,Premium Pick,under_radar_picks,2026-05-01,"Q1 2026, Q4 2025, Q3 2025",3
-LLYVK,Liberty Media Corp. Series C Live,2,"ValueAct Capital, Warren Buffett",1207620000,2.3,4.27,14521649,1.5,6.404999999999999,Q3 2024,1.0,Growing Interest,under_radar_picks,2026-05-01,"Q1 2026, Q4 2025, Q3 2025",3
-TOST,Toast Inc.,2,"ValueAct Capital, Henry Ellenbogen",366260000,2.41,4.05,10314300,1.5,6.074999999999999,Q3 2025,2.0,Growing Interest,under_radar_picks,2026-05-01,"Q1 2026, Q4 2025, Q3 2025",3
-SPHR,Sphere Entertainment Co.,2,"Ariel Investments, Polen Capital Management",303531000,1.63,3.25,3192362,1.8,5.8500000000000005,Q2 2020,1.0,Premium Pick,under_radar_picks,2026-05-01,"Q1 2026, Q4 2025, Q3 2025",3
-PGEN,Precigen Inc.,2,"Samantha McLemore, Polen Capital Management",78231000,1.5,3.01,18715561,1.8,5.418,Q1 2023,2.0,Premium Pick,under_radar_picks,2026-05-01,"Q1 2026, Q4 2025, Q3 2025",3
-SSD,Simpson Manufacturing,2,"ValueAct Capital, Ariel Investments",252464000,1.77,3.38,1563531,1.5,5.07,Q2 2025,1.0,Growing Interest,under_radar_picks,2026-05-01,"Q1 2026, Q4 2025, Q3 2025",3
+GPI,Group 1 Automotive,2,"Ruane Cunniff LP, Greg Alexander",250963000,23.84,47.66,759045,1.8,85.788,Q2 2016,3.0,Premium Pick,under_radar_picks,2026-06-01,"Q1 2026, Q4 2025, Q3 2025",3
+GRBK,Green Brick Partners,2,"David Einhorn, Polen Capital Management",611023000,9.57,19.12,9480567,1.8,34.416000000000004,Q4 2025,2.0,Premium Pick,under_radar_picks,2026-06-01,"Q1 2026, Q4 2025, Q3 2025",3
+AN,AutoNation Inc.,1,Glenn Greenberg,302209000,7.48,7.48,1547728,1.8,26.928,Q1 2008,4.0,Premium Pick,under_radar_picks,2026-06-01,"Q1 2026, Q4 2025, Q3 2025",3
+PRI,Primerica Inc.,1,Glenn Greenberg,220253000,5.45,5.45,879323,1.8,19.62,Q1 2020,2.0,Premium Pick,under_radar_picks,2026-06-01,"Q1 2026, Q4 2025, Q3 2025",3
+MNDY,monday.com Ltd.,1,Greg Alexander,27644000,5.28,5.28,400000,1.8,19.008000000000003,Q2 2024,3.0,Premium Pick,under_radar_picks,2026-06-01,"Q1 2026, Q4 2025, Q3 2025",3
+TOST,Toast Inc.,1,ValueAct Capital,341858000,5.98,5.98,12895438,1.5,17.94,Q3 2025,3.0,Growing Interest,under_radar_picks,2026-06-01,"Q1 2026, Q4 2025, Q3 2025",3
+MDB,MongoDB Inc.,1,ValueAct Capital,254022000,4.45,4.45,1037800,1.5,13.35,Q3 2025,3.0,Growing Interest,under_radar_picks,2026-06-01,"Q1 2026, Q4 2025, Q3 2025",3
+FG,F&G Annuities & Life Inc.,1,Glenn Greenberg,135542000,3.35,3.35,5353141,1.8,12.06,Q4 2022,3.0,Premium Pick,under_radar_picks,2026-06-01,"Q1 2026, Q4 2025, Q3 2025",3
+MRP,Millrose Properties,2,"Glenn Greenberg, Bill Miller",243507000,3.61,5.9,8696697,1.8,10.62,Q1 2025,3.0,Premium Pick,under_radar_picks,2026-06-01,"Q1 2026, Q4 2025, Q3 2025",3
+LLYVK,Liberty Media Corp. Series C Live,2,"ValueAct Capital, Warren Buffett",1331501000,3.12,5.87,14148351,1.5,8.805,Q3 2024,1.0,Growing Interest,under_radar_picks,2026-06-01,"Q1 2026, Q4 2025, Q3 2025",3
+ARES,Ares Management LP,2,"Glenn Greenberg, Vulcan Value Partners",185053000,2.45,4.89,1696176,1.8,8.802,Q1 2026,3.0,Premium Pick,under_radar_picks,2026-06-01,"Q1 2026, Q4 2025, Q3 2025",3
+MPLX,MPLX LP,2,"Glenn Greenberg, David Tepper",214354000,2.54,4.6,3755984,1.8,8.28,Q2 2023,3.0,Premium Pick,under_radar_picks,2026-06-01,"Q1 2026, Q4 2025, Q3 2025",3
+DD,DuPont de Nemours Inc.,2,"Hillman Capital Management, Dodge & Cox Funds",6072000,1.88,3.75,132578,1.8,6.75,Q3 2017,1.0,Premium Pick,under_radar_picks,2026-06-01,"Q1 2026, Q4 2025, Q3 2025",3
+SSD,Simpson Manufacturing,2,"ValueAct Capital, John Rogers",255678000,2.19,4.2,1489792,1.5,6.300000000000001,Q2 2025,2.0,Growing Interest,under_radar_picks,2026-06-01,"Q1 2026, Q4 2025, Q3 2025",3
+SDHC,Smith Douglas Homes Corp,2,"Ruane Cunniff LP, Greg Alexander",18532000,1.75,3.5,1447840,1.8,6.3,Q3 2025,7.0,Premium Pick,under_radar_picks,2026-06-01,"Q1 2026, Q4 2025, Q3 2025",3
+SPHR,Sphere Entertainment Co.,2,"John Rogers, Polen Capital Management",294745000,1.64,3.24,2510602,1.8,5.832000000000001,Q2 2020,2.0,Premium Pick,under_radar_picks,2026-06-01,"Q1 2026, Q4 2025, Q3 2025",3

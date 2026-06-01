@@ -2,6 +2,171 @@
   "manager_id": "AIM",
   "activities": [
     {
+      "symbol": "NOMD",
+      "manager_id": "AIM",
+      "action": "Add 147.37%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 794000,
+      "portfolio_percentage": 4.44,
+      "company_name": "Nomad Foods Ltd"
+    },
+    {
+      "symbol": "DCH",
+      "manager_id": "AIM",
+      "action": "Add 103.93%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1957000,
+      "portfolio_percentage": 6.76,
+      "company_name": "Dauch Corp."
+    },
+    {
+      "symbol": "APTV",
+      "manager_id": "AIM",
+      "action": "Add 17.03%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 47000,
+      "portfolio_percentage": 1.9,
+      "company_name": "Aptiv PLC"
+    },
+    {
+      "symbol": "KEX",
+      "manager_id": "AIM",
+      "action": "Add 15.25%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 34000,
+      "portfolio_percentage": 2.63,
+      "company_name": "Kirby Corp."
+    },
+    {
+      "symbol": "ABM",
+      "manager_id": "AIM",
+      "action": "Add 10.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 20000,
+      "portfolio_percentage": 0.45,
+      "company_name": "ABM Industries"
+    },
+    {
+      "symbol": "DOLE",
+      "manager_id": "AIM",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 675948,
+      "portfolio_percentage": 5.63,
+      "company_name": "Dole Food Company"
+    },
+    {
+      "symbol": "PVH",
+      "manager_id": "AIM",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 128000,
+      "portfolio_percentage": 5.2,
+      "company_name": "PVH Corp."
+    },
+    {
+      "symbol": "XRAY",
+      "manager_id": "AIM",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 610000,
+      "portfolio_percentage": 4.12,
+      "company_name": "DENTSPLY SIRONA Inc."
+    },
+    {
+      "symbol": "MHK",
+      "manager_id": "AIM",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 40000,
+      "portfolio_percentage": 2.29,
+      "company_name": "Mohawk Industries"
+    },
+    {
+      "symbol": "NESR",
+      "manager_id": "AIM",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 60000,
+      "portfolio_percentage": 0.75,
+      "company_name": "National Energy Services Reunited Corp."
+    },
+    {
+      "symbol": "WFRD",
+      "manager_id": "AIM",
+      "action": "Reduce 7.72%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 17765,
+      "portfolio_percentage": 0.98,
+      "company_name": "Weatherford International plc"
+    },
+    {
+      "symbol": "OSK",
+      "manager_id": "AIM",
+      "action": "Reduce 11.84%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 18300,
+      "portfolio_percentage": 1.57,
+      "company_name": "Oshkosh Corp."
+    },
+    {
+      "symbol": "AXTA",
+      "manager_id": "AIM",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 1024000,
+      "portfolio_percentage": 18.63,
+      "company_name": "Axalta Coating Systems Ltd."
+    },
+    {
+      "symbol": "FLS",
+      "manager_id": "AIM",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 314000,
+      "portfolio_percentage": 12.26,
+      "company_name": "Flowserve Corp."
+    },
+    {
+      "symbol": "ASH",
+      "manager_id": "AIM",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 212977,
+      "portfolio_percentage": 7.03,
+      "company_name": "Ashland Global Holdings Inc."
+    },
+    {
       "symbol": "AXTA",
       "manager_id": "AIM",
       "action": "Add 34.03%",
@@ -10023,6 +10188,6 @@
       "company_name": "GEO Group Inc."
     }
   ],
-  "timestamp": "2026-05-01T06:59:17.699020",
-  "scraped_date": "2026-05-01"
+  "timestamp": "2026-06-01T07:45:15.862223",
+  "scraped_date": "2026-06-01"
 }

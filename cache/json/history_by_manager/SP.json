@@ -2,6 +2,171 @@
   "manager_id": "SP",
   "activities": [
     {
+      "symbol": "AMZN",
+      "manager_id": "SP",
+      "action": "Add 57.47%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 68061,
+      "portfolio_percentage": 5.3,
+      "company_name": "Amazon.com Inc."
+    },
+    {
+      "symbol": "ZS",
+      "manager_id": "SP",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 200416,
+      "portfolio_percentage": 10.51,
+      "company_name": "Zscaler Inc."
+    },
+    {
+      "symbol": "CPNG",
+      "manager_id": "SP",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 906291,
+      "portfolio_percentage": 6.39,
+      "company_name": "Coupang Inc."
+    },
+    {
+      "symbol": "GDS",
+      "manager_id": "SP",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 221782,
+      "portfolio_percentage": 3.34,
+      "company_name": "GDS Holdings Ltd"
+    },
+    {
+      "symbol": "CEG",
+      "manager_id": "SP",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 23167,
+      "portfolio_percentage": 2.42,
+      "company_name": "Constellation Energy Corp."
+    },
+    {
+      "symbol": "INTU",
+      "manager_id": "SP",
+      "action": "Reduce 19.29%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 9782,
+      "portfolio_percentage": 1.58,
+      "company_name": "Intuit Inc."
+    },
+    {
+      "symbol": "BABA",
+      "manager_id": "SP",
+      "action": "Reduce 23.24%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 87894,
+      "portfolio_percentage": 4.12,
+      "company_name": "Alibaba Group Holdings"
+    },
+    {
+      "symbol": "BRZE",
+      "manager_id": "SP",
+      "action": "Reduce 24.50%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 360906,
+      "portfolio_percentage": 3.18,
+      "company_name": "Braze Inc A"
+    },
+    {
+      "symbol": "OKTA",
+      "manager_id": "SP",
+      "action": "Reduce 36.04%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 318405,
+      "portfolio_percentage": 9.37,
+      "company_name": "Okta Inc."
+    },
+    {
+      "symbol": "FWONK",
+      "manager_id": "SP",
+      "action": "Reduce 45.42%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 168901,
+      "portfolio_percentage": 5.37,
+      "company_name": "Liberty Media Corp Formula One Series C"
+    },
+    {
+      "symbol": "CSGP",
+      "manager_id": "SP",
+      "action": "Reduce 64.59%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 618476,
+      "portfolio_percentage": 9.32,
+      "company_name": "CoStar Group Inc."
+    },
+    {
+      "symbol": "PCOR",
+      "manager_id": "SP",
+      "action": "Reduce 68.20%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 464780,
+      "portfolio_percentage": 9.91,
+      "company_name": "Procore Technologies Inc."
+    },
+    {
+      "symbol": "FOUR",
+      "manager_id": "SP",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 1148861,
+      "portfolio_percentage": 13.62,
+      "company_name": "Shift4 Payments Inc. CL A"
+    },
+    {
+      "symbol": "MNDY",
+      "manager_id": "SP",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 253959,
+      "portfolio_percentage": 7.06,
+      "company_name": "monday.com Ltd."
+    },
+    {
+      "symbol": "BLND",
+      "manager_id": "SP",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 9024099,
+      "portfolio_percentage": 5.17,
+      "company_name": "Blend Labs Inc."
+    },
+    {
       "symbol": "FWONK",
       "manager_id": "SP",
       "action": "Add 70.94%",
@@ -1889,7 +2054,7 @@
       "date": "Q3 2020",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 227057,
+      "shares": 1135285,
       "portfolio_percentage": 6.11,
       "company_name": "Carvana Co."
     },
@@ -1933,7 +2098,7 @@
       "date": "Q2 2020",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 127564,
+      "shares": 637820,
       "portfolio_percentage": 3.43,
       "company_name": "Carvana Co."
     },
@@ -2010,7 +2175,7 @@
       "date": "Q1 2020",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 286164,
+      "shares": 1430820,
       "portfolio_percentage": 5.58,
       "company_name": "Carvana Co."
     },
@@ -2065,7 +2230,7 @@
       "date": "Q4 2019",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 35780,
+      "shares": 178900,
       "portfolio_percentage": 1.32,
       "company_name": "Carvana Co."
     },
@@ -2109,7 +2274,7 @@
       "date": "Q3 2019",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 151880,
+      "shares": 759400,
       "portfolio_percentage": 6.55,
       "company_name": "Carvana Co."
     },
@@ -2153,7 +2318,7 @@
       "date": "Q2 2019",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 119621,
+      "shares": 598105,
       "portfolio_percentage": 4.39,
       "company_name": "Carvana Co."
     },
@@ -2180,6 +2345,6 @@
       "company_name": "JD.com Inc."
     }
   ],
-  "timestamp": "2026-05-01T06:59:17.892912",
-  "scraped_date": "2026-05-01"
+  "timestamp": "2026-06-01T07:45:16.030082",
+  "scraped_date": "2026-06-01"
 }

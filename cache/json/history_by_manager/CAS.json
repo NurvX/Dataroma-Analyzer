@@ -2,13 +2,57 @@
   "manager_id": "CAS",
   "activities": [
     {
+      "symbol": "HGV",
+      "manager_id": "CAS",
+      "action": "Reduce 1.46%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 77489,
+      "portfolio_percentage": 0.17,
+      "company_name": "Hilton Grand Vacations Inc."
+    },
+    {
+      "symbol": "COF",
+      "manager_id": "CAS",
+      "action": "Reduce 1.47%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 8577,
+      "portfolio_percentage": 0.09,
+      "company_name": "Capital One Financial"
+    },
+    {
+      "symbol": "SWIM",
+      "manager_id": "CAS",
+      "action": "Reduce 1.47%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 13852,
+      "portfolio_percentage": 0.0,
+      "company_name": "Latham Group Inc"
+    },
+    {
+      "symbol": "CVNA",
+      "manager_id": "CAS",
+      "action": "Reduce 1.49%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 344545,
+      "portfolio_percentage": 1.24,
+      "company_name": "Carvana Co."
+    },
+    {
       "symbol": "CVNA",
       "manager_id": "CAS",
       "action": "Reduce 5.72%",
       "date": "Q4 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 279474,
+      "shares": 1397370,
       "portfolio_percentage": 5.05,
       "company_name": "Carvana Co."
     },
@@ -74,7 +118,7 @@
       "date": "Q3 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 32594,
+      "shares": 162970,
       "portfolio_percentage": 0.55,
       "company_name": "Carvana Co."
     },
@@ -129,7 +173,7 @@
       "date": "Q2 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 762761,
+      "shares": 3813805,
       "portfolio_percentage": 12.52,
       "company_name": "Carvana Co."
     },
@@ -140,7 +184,7 @@
       "date": "Q1 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 692768,
+      "shares": 3463840,
       "portfolio_percentage": 9.41,
       "company_name": "Carvana Co."
     },
@@ -217,7 +261,7 @@
       "date": "Q4 2024",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 75797,
+      "shares": 378985,
       "portfolio_percentage": 0.9,
       "company_name": "Carvana Co."
     },
@@ -261,7 +305,7 @@
       "date": "Q3 2024",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 77300,
+      "shares": 386500,
       "portfolio_percentage": 0.89,
       "company_name": "Carvana Co."
     },
@@ -349,7 +393,7 @@
       "date": "Q1 2024",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 296909,
+      "shares": 1484545,
       "portfolio_percentage": 2.34,
       "company_name": "Carvana Co."
     },
@@ -492,7 +536,7 @@
       "date": "Q3 2022",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 100000,
+      "shares": 500000,
       "portfolio_percentage": 0.37,
       "company_name": "Carvana Co."
     },
@@ -503,7 +547,7 @@
       "date": "Q2 2022",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 2564900,
+      "shares": 12824500,
       "portfolio_percentage": 8.78,
       "company_name": "Carvana Co."
     },
@@ -536,7 +580,7 @@
       "date": "Q1 2022",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 848600,
+      "shares": 4243000,
       "portfolio_percentage": 6.78,
       "company_name": "Carvana Co."
     },
@@ -624,7 +668,7 @@
       "date": "Q4 2021",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 9275,
+      "shares": 46375,
       "portfolio_percentage": 0.11,
       "company_name": "Carvana Co."
     },
@@ -723,7 +767,7 @@
       "date": "Q1 2021",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 100000,
+      "shares": 500000,
       "portfolio_percentage": 1.34,
       "company_name": "Carvana Co."
     },
@@ -756,7 +800,7 @@
       "date": "Q4 2020",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 401946,
+      "shares": 2009730,
       "portfolio_percentage": 5.33,
       "company_name": "Carvana Co."
     },
@@ -789,7 +833,7 @@
       "date": "Q3 2020",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 232690,
+      "shares": 1163450,
       "portfolio_percentage": 3.6,
       "company_name": "Carvana Co."
     },
@@ -822,7 +866,7 @@
       "date": "Q2 2020",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 450000,
+      "shares": 2250000,
       "portfolio_percentage": 6.51,
       "company_name": "Carvana Co."
     },
@@ -844,7 +888,7 @@
       "date": "Q1 2020",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 1049366,
+      "shares": 5246830,
       "portfolio_percentage": 12.71,
       "company_name": "Carvana Co."
     },
@@ -932,7 +976,7 @@
       "date": "Q4 2019",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 170087,
+      "shares": 850435,
       "portfolio_percentage": 2.57,
       "company_name": "Carvana Co."
     },
@@ -976,7 +1020,7 @@
       "date": "Q3 2019",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 69500,
+      "shares": 347500,
       "portfolio_percentage": 1.01,
       "company_name": "Carvana Co."
     },
@@ -1031,7 +1075,7 @@
       "date": "Q2 2019",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 10000,
+      "shares": 50000,
       "portfolio_percentage": 0.16,
       "company_name": "Carvana Co."
     },
@@ -1075,7 +1119,7 @@
       "date": "Q1 2019",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 357565,
+      "shares": 1787825,
       "portfolio_percentage": 6.2,
       "company_name": "Carvana Co."
     },
@@ -1108,7 +1152,7 @@
       "date": "Q4 2018",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 111607,
+      "shares": 558035,
       "portfolio_percentage": 1.38,
       "company_name": "Carvana Co."
     },
@@ -1141,7 +1185,7 @@
       "date": "Q2 2018",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 48091,
+      "shares": 240455,
       "portfolio_percentage": 0.75,
       "company_name": "Carvana Co."
     },
@@ -1196,7 +1240,7 @@
       "date": "Q1 2018",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 2008068,
+      "shares": 10040340,
       "portfolio_percentage": 20.1,
       "company_name": "Carvana Co."
     },
@@ -1245,6 +1289,6 @@
       "company_name": "United Rentals"
     }
   ],
-  "timestamp": "2026-05-01T06:59:17.779054",
-  "scraped_date": "2026-05-01"
+  "timestamp": "2026-06-01T07:45:15.903590",
+  "scraped_date": "2026-06-01"
 }

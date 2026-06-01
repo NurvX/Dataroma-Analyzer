@@ -4,6 +4,28 @@
     {
       "symbol": "GWRE",
       "manager_id": "OCL",
+      "action": "Add 73.33%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 61000,
+      "portfolio_percentage": 4.02,
+      "company_name": "Guidewire Software Inc."
+    },
+    {
+      "symbol": "NRP",
+      "manager_id": "OCL",
+      "action": "Reduce 19.86%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 25294,
+      "portfolio_percentage": 1.35,
+      "company_name": "Natural Resource Partners"
+    },
+    {
+      "symbol": "GWRE",
+      "manager_id": "OCL",
       "action": "Add 26.64%",
       "date": "Q4 2025",
       "percentage_change": 0.0,
@@ -701,7 +723,7 @@
       "date": "Q2 2022",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 180928,
+      "shares": 904640,
       "portfolio_percentage": 11.19,
       "company_name": "Carvana Co."
     },
@@ -712,7 +734,7 @@
       "date": "Q1 2022",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 89500,
+      "shares": 447500,
       "portfolio_percentage": 5.54,
       "company_name": "Carvana Co."
     },
@@ -910,7 +932,7 @@
       "date": "Q1 2021",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 107459,
+      "shares": 537295,
       "portfolio_percentage": 13.38,
       "company_name": "Carvana Co."
     },
@@ -943,7 +965,7 @@
       "date": "Q4 2020",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 11336,
+      "shares": 56680,
       "portfolio_percentage": 1.08,
       "company_name": "Carvana Co."
     },
@@ -1064,7 +1086,7 @@
       "date": "Q3 2020",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 50000,
+      "shares": 250000,
       "portfolio_percentage": 4.83,
       "company_name": "Carvana Co."
     },
@@ -1086,7 +1108,7 @@
       "date": "Q2 2020",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 45728,
+      "shares": 228640,
       "portfolio_percentage": 2.92,
       "company_name": "Carvana Co."
     },
@@ -1119,7 +1141,7 @@
       "date": "Q1 2020",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 70222,
+      "shares": 351110,
       "portfolio_percentage": 2.71,
       "company_name": "Carvana Co."
     },
@@ -1278,6 +1300,6 @@
       "company_name": "Bread Financial Holdings Inc."
     }
   ],
-  "timestamp": "2026-05-01T06:59:17.742973",
-  "scraped_date": "2026-05-01"
+  "timestamp": "2026-06-01T07:45:15.932117",
+  "scraped_date": "2026-06-01"
 }

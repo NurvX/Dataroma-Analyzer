@@ -4,6 +4,83 @@
     {
       "symbol": "CROX",
       "manager_id": "HC",
+      "action": "Add 41.22%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 258934,
+      "portfolio_percentage": 0.67,
+      "company_name": "Crocs Inc."
+    },
+    {
+      "symbol": "TME",
+      "manager_id": "HC",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 6590836,
+      "portfolio_percentage": 1.91,
+      "company_name": "Tencent Music Entertainment Grp"
+    },
+    {
+      "symbol": "HRB",
+      "manager_id": "HC",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 1626906,
+      "portfolio_percentage": 1.61,
+      "company_name": "H&R Block Inc."
+    },
+    {
+      "symbol": "MCO",
+      "manager_id": "HC",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 117784,
+      "portfolio_percentage": 1.61,
+      "company_name": "Moody's Corp."
+    },
+    {
+      "symbol": "SPGI",
+      "manager_id": "HC",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 121463,
+      "portfolio_percentage": 1.61,
+      "company_name": "S&P Global Inc."
+    },
+    {
+      "symbol": "MSCI",
+      "manager_id": "HC",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 18939,
+      "portfolio_percentage": 0.32,
+      "company_name": "MSCI Inc."
+    },
+    {
+      "symbol": "BAC",
+      "manager_id": "HC",
+      "action": "Reduce 71.26%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 7433400,
+      "portfolio_percentage": 11.33,
+      "company_name": "Bank of America Corp."
+    },
+    {
+      "symbol": "CROX",
+      "manager_id": "HC",
       "action": "Buy",
       "date": "Q4 2025",
       "percentage_change": 0.0,
@@ -387,6 +464,6 @@
       "company_name": "Alibaba Group Holdings"
     }
   ],
-  "timestamp": "2026-05-01T06:59:17.697445",
-  "scraped_date": "2026-05-01"
+  "timestamp": "2026-06-01T07:45:15.768632",
+  "scraped_date": "2026-06-01"
 }

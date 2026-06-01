@@ -2,6 +2,105 @@
   "manager_id": "GLC",
   "activities": [
     {
+      "symbol": "SGOV",
+      "manager_id": "GLC",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 383000,
+      "portfolio_percentage": 11.2,
+      "company_name": "Ishares 0 3 Month Treasury B"
+    },
+    {
+      "symbol": "NFLX",
+      "manager_id": "GLC",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 279480,
+      "portfolio_percentage": 7.8,
+      "company_name": "Netflix Inc."
+    },
+    {
+      "symbol": "GOOGL",
+      "manager_id": "GLC",
+      "action": "Reduce 1.11%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1120,
+      "portfolio_percentage": 0.09,
+      "company_name": "Alphabet Inc."
+    },
+    {
+      "symbol": "AMZN",
+      "manager_id": "GLC",
+      "action": "Reduce 1.19%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 3755,
+      "portfolio_percentage": 0.23,
+      "company_name": "Amazon.com Inc."
+    },
+    {
+      "symbol": "BN",
+      "manager_id": "GLC",
+      "action": "Reduce 1.47%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 20720,
+      "portfolio_percentage": 0.24,
+      "company_name": "Brookfield Corp."
+    },
+    {
+      "symbol": "MKL",
+      "manager_id": "GLC",
+      "action": "Reduce 1.53%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 350,
+      "portfolio_percentage": 0.19,
+      "company_name": "Markel Group Inc."
+    },
+    {
+      "symbol": "BRK.A",
+      "manager_id": "GLC",
+      "action": "Reduce 5.97%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 4,
+      "portfolio_percentage": 0.83,
+      "company_name": "Berkshire Hathaway CL A"
+    },
+    {
+      "symbol": "TSLA",
+      "manager_id": "GLC",
+      "action": "Reduce 11.86%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 7365,
+      "portfolio_percentage": 0.8,
+      "company_name": "Tesla Inc."
+    },
+    {
+      "symbol": "BUR",
+      "manager_id": "GLC",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 1835072,
+      "portfolio_percentage": 4.78,
+      "company_name": "Burford Capital Ltd"
+    },
+    {
       "symbol": "MKL",
       "manager_id": "GLC",
       "action": "Add 2.00%",
@@ -2576,6 +2675,6 @@
       "company_name": "Stitch Fix Inc."
     }
   ],
-  "timestamp": "2026-05-01T06:59:17.796813",
-  "scraped_date": "2026-05-01"
+  "timestamp": "2026-06-01T07:45:16.124091",
+  "scraped_date": "2026-06-01"
 }

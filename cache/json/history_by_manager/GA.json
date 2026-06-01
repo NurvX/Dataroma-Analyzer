@@ -5392,7 +5392,7 @@
       "company_name": "Equitrans Mid.stream Corp"
     },
     {
-      "symbol": "TPH",
+      "symbol": "TPH-OLD",
       "manager_id": "GA",
       "action": "Sell 100.00%",
       "date": "Q3 2020",
@@ -5678,7 +5678,7 @@
       "company_name": "D.R. Horton"
     },
     {
-      "symbol": "TPH",
+      "symbol": "TPH-OLD",
       "manager_id": "GA",
       "action": "Reduce 10.37%",
       "date": "Q2 2020",
@@ -6030,7 +6030,7 @@
       "company_name": "Taylor Morrison Home Corp."
     },
     {
-      "symbol": "TPH",
+      "symbol": "TPH-OLD",
       "manager_id": "GA",
       "action": "Reduce 98.66%",
       "date": "Q1 2020",
@@ -6184,7 +6184,7 @@
       "company_name": "Quanta Services"
     },
     {
-      "symbol": "TPH",
+      "symbol": "TPH-OLD",
       "manager_id": "GA",
       "action": "Reduce 45.05%",
       "date": "Q4 2019",
@@ -6415,7 +6415,7 @@
       "company_name": "PulteGroup Inc."
     },
     {
-      "symbol": "TPH",
+      "symbol": "TPH-OLD",
       "manager_id": "GA",
       "action": "Reduce 53.64%",
       "date": "Q3 2019",
@@ -6690,7 +6690,7 @@
       "company_name": "Taylor Morrison Home Corp."
     },
     {
-      "symbol": "TPH",
+      "symbol": "TPH-OLD",
       "manager_id": "GA",
       "action": "Reduce 0.90%",
       "date": "Q2 2019",
@@ -6756,6 +6756,6 @@
       "company_name": "Stellantis N.V."
     }
   ],
-  "timestamp": "2026-05-01T06:59:17.595221",
-  "scraped_date": "2026-05-01"
+  "timestamp": "2026-06-01T07:45:16.243278",
+  "scraped_date": "2026-06-01"
 }

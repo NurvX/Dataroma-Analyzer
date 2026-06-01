@@ -2,6 +2,83 @@
   "manager_id": "tci",
   "activities": [
     {
+      "symbol": "SPGI",
+      "manager_id": "tci",
+      "action": "Add 19.04%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 2245000,
+      "portfolio_percentage": 2.11,
+      "company_name": "S&P Global Inc."
+    },
+    {
+      "symbol": "GOOG",
+      "manager_id": "tci",
+      "action": "Add 16.55%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1257200,
+      "portfolio_percentage": 0.8,
+      "company_name": "Alphabet Inc. CL C"
+    },
+    {
+      "symbol": "V",
+      "manager_id": "tci",
+      "action": "Add 9.90%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 2743900,
+      "portfolio_percentage": 1.84,
+      "company_name": "Visa Inc."
+    },
+    {
+      "symbol": "MCO",
+      "manager_id": "tci",
+      "action": "Add 7.71%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1025548,
+      "portfolio_percentage": 0.99,
+      "company_name": "Moody's Corp."
+    },
+    {
+      "symbol": "GOOGL",
+      "manager_id": "tci",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 2457000,
+      "portfolio_percentage": 1.56,
+      "company_name": "Alphabet Inc."
+    },
+    {
+      "symbol": "CP",
+      "manager_id": "tci",
+      "action": "Reduce 2.38%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1132500,
+      "portfolio_percentage": 0.2,
+      "company_name": "Canadian Pacific Kansas City"
+    },
+    {
+      "symbol": "MSFT",
+      "manager_id": "tci",
+      "action": "Reduce 83.74%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 14053541,
+      "portfolio_percentage": 11.54,
+      "company_name": "Microsoft Corp."
+    },
+    {
       "symbol": "FER",
       "manager_id": "tci",
       "action": "Add 6.52%",
@@ -3885,6 +3962,6 @@
       "company_name": "American Express"
     }
   ],
-  "timestamp": "2026-05-01T06:59:17.780228",
-  "scraped_date": "2026-05-01"
+  "timestamp": "2026-06-01T07:45:15.946916",
+  "scraped_date": "2026-06-01"
 }

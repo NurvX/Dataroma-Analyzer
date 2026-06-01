@@ -4,6 +4,50 @@
     {
       "symbol": "SGI",
       "manager_id": "abc",
+      "action": "Reduce 0.09%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 5360,
+      "portfolio_percentage": 0.01,
+      "company_name": "Somnigroup International Inc."
+    },
+    {
+      "symbol": "GOOGL",
+      "manager_id": "abc",
+      "action": "Reduce 2.65%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 50862,
+      "portfolio_percentage": 0.32,
+      "company_name": "Alphabet Inc."
+    },
+    {
+      "symbol": "NUVB",
+      "manager_id": "abc",
+      "action": "Reduce 66.67%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 2541009,
+      "portfolio_percentage": 0.24,
+      "company_name": "Nuvation Bio Inc."
+    },
+    {
+      "symbol": "ET",
+      "manager_id": "abc",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 6115417,
+      "portfolio_percentage": 1.78,
+      "company_name": "Energy Transfer LP"
+    },
+    {
+      "symbol": "SGI",
+      "manager_id": "abc",
       "action": "Reduce 0.70%",
       "date": "Q4 2025",
       "percentage_change": 0.0,
@@ -101,7 +145,7 @@
       "company_name": "Loar Holdings Inc"
     },
     {
-      "symbol": "CTLP",
+      "symbol": "CTLP-OLD",
       "manager_id": "abc",
       "action": "Sell 100.00%",
       "date": "Q2 2025",
@@ -475,7 +519,7 @@
       "company_name": "Meta Platforms Inc."
     },
     {
-      "symbol": "CTLP",
+      "symbol": "CTLP-OLD",
       "manager_id": "abc",
       "action": "Add 132.36%",
       "date": "Q1 2023",
@@ -739,7 +783,7 @@
       "company_name": "Kinder Morgan"
     },
     {
-      "symbol": "CTLP",
+      "symbol": "CTLP-OLD",
       "manager_id": "abc",
       "action": "Add 47.85%",
       "date": "Q1 2022",
@@ -904,7 +948,7 @@
       "company_name": "Nuvation Bio Inc."
     },
     {
-      "symbol": "CTLP",
+      "symbol": "CTLP-OLD",
       "manager_id": "abc",
       "action": "Buy",
       "date": "Q1 2021",
@@ -4149,6 +4193,6 @@
       "company_name": "Silgan Holdings Inc."
     }
   ],
-  "timestamp": "2026-05-01T06:59:17.853249",
-  "scraped_date": "2026-05-01"
+  "timestamp": "2026-06-01T07:45:15.997555",
+  "scraped_date": "2026-06-01"
 }

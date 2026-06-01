@@ -2246,7 +2246,7 @@
       "company_name": "Western Alliance Bancorp"
     },
     {
-      "symbol": "CTRA",
+      "symbol": "CTRA-OLD",
       "manager_id": "SAM",
       "action": "Sell 100.00%",
       "date": "Q2 2023",
@@ -2444,7 +2444,7 @@
       "company_name": "Western Alliance Bancorp"
     },
     {
-      "symbol": "CTRA",
+      "symbol": "CTRA-OLD",
       "manager_id": "SAM",
       "action": "Buy",
       "date": "Q1 2023",
@@ -5601,6 +5601,6 @@
       "company_name": "Mohawk Industries"
     }
   ],
-  "timestamp": "2026-05-01T06:59:18.030101",
-  "scraped_date": "2026-05-01"
+  "timestamp": "2026-06-01T07:45:16.249563",
+  "scraped_date": "2026-06-01"
 }

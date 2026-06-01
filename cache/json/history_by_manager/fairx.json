@@ -4,6 +4,182 @@
     {
       "symbol": "PGR",
       "manager_id": "fairx",
+      "action": "Add 159.38%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 40800,
+      "portfolio_percentage": 0.53,
+      "company_name": "Progressive Corp."
+    },
+    {
+      "symbol": "BRK.A",
+      "manager_id": "fairx",
+      "action": "Add 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1,
+      "portfolio_percentage": 0.05,
+      "company_name": "Berkshire Hathaway CL A"
+    },
+    {
+      "symbol": "BRK.B",
+      "manager_id": "fairx",
+      "action": "Add 5.08%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 2440,
+      "portfolio_percentage": 0.08,
+      "company_name": "Berkshire Hathaway CL B"
+    },
+    {
+      "symbol": "OZK",
+      "manager_id": "fairx",
+      "action": "Add 0.83%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 7600,
+      "portfolio_percentage": 0.02,
+      "company_name": "Bank OZK"
+    },
+    {
+      "symbol": "EPD",
+      "manager_id": "fairx",
+      "action": "Add 0.10%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 5400,
+      "portfolio_percentage": 0.01,
+      "company_name": "Enterprise Products Partners LP"
+    },
+    {
+      "symbol": "KHC",
+      "manager_id": "fairx",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 105300,
+      "portfolio_percentage": 0.16,
+      "company_name": "Kraft Heinz Co."
+    },
+    {
+      "symbol": "HOMB",
+      "manager_id": "fairx",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 12100,
+      "portfolio_percentage": 0.02,
+      "company_name": "Home Bancshares Inc."
+    },
+    {
+      "symbol": "JOE",
+      "manager_id": "fairx",
+      "action": "Reduce 1.09%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 212300,
+      "portfolio_percentage": 0.88,
+      "company_name": "St. Joe Co."
+    },
+    {
+      "symbol": "WRB",
+      "manager_id": "fairx",
+      "action": "Reduce 1.46%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 3800,
+      "portfolio_percentage": 0.02,
+      "company_name": "W.R. Berkley Corp."
+    },
+    {
+      "symbol": "CF",
+      "manager_id": "fairx",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 54700,
+      "portfolio_percentage": 0.3,
+      "company_name": "CF Industries Holdings Inc."
+    },
+    {
+      "symbol": "OXY",
+      "manager_id": "fairx",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 69100,
+      "portfolio_percentage": 0.2,
+      "company_name": "Occidental Petroleum"
+    },
+    {
+      "symbol": "ET",
+      "manager_id": "fairx",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 166600,
+      "portfolio_percentage": 0.19,
+      "company_name": "Energy Transfer LP"
+    },
+    {
+      "symbol": "TGT",
+      "manager_id": "fairx",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 23000,
+      "portfolio_percentage": 0.16,
+      "company_name": "Target Corp."
+    },
+    {
+      "symbol": "NRP",
+      "manager_id": "fairx",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 12000,
+      "portfolio_percentage": 0.09,
+      "company_name": "Natural Resource Partners"
+    },
+    {
+      "symbol": "FANG",
+      "manager_id": "fairx",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 4000,
+      "portfolio_percentage": 0.04,
+      "company_name": "Diamondback Energy Inc."
+    },
+    {
+      "symbol": "EOG",
+      "manager_id": "fairx",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 2000,
+      "portfolio_percentage": 0.01,
+      "company_name": "EOG Resources"
+    },
+    {
+      "symbol": "PGR",
+      "manager_id": "fairx",
       "action": "Buy",
       "date": "Q4 2025",
       "percentage_change": 0.0,
@@ -9176,6 +9352,6 @@
       "company_name": "Duke Energy"
     }
   ],
-  "timestamp": "2026-05-01T06:59:17.675350",
-  "scraped_date": "2026-05-01"
+  "timestamp": "2026-06-01T07:45:15.781677",
+  "scraped_date": "2026-06-01"
 }

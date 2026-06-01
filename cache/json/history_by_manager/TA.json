@@ -2,6 +2,512 @@
   "manager_id": "TA",
   "activities": [
     {
+      "symbol": "FSV",
+      "manager_id": "TA",
+      "action": "Add 169.59%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 31738,
+      "portfolio_percentage": 0.72,
+      "company_name": "Firstservice Corp"
+    },
+    {
+      "symbol": "OSG",
+      "manager_id": "TA",
+      "action": "Add 71.49%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 559118,
+      "portfolio_percentage": 0.42,
+      "company_name": "Octave Specialty Group Inc."
+    },
+    {
+      "symbol": "FLG",
+      "manager_id": "TA",
+      "action": "Add 52.43%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 113936,
+      "portfolio_percentage": 0.24,
+      "company_name": "Flagstar Financial Inc."
+    },
+    {
+      "symbol": "ALG",
+      "manager_id": "TA",
+      "action": "Add 43.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 10323,
+      "portfolio_percentage": 0.28,
+      "company_name": "Alamo Group Inc."
+    },
+    {
+      "symbol": "ICFI",
+      "manager_id": "TA",
+      "action": "Add 35.70%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 18872,
+      "portfolio_percentage": 0.2,
+      "company_name": "ICF International Inc."
+    },
+    {
+      "symbol": "BCC",
+      "manager_id": "TA",
+      "action": "Add 30.70%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 132022,
+      "portfolio_percentage": 1.63,
+      "company_name": "Boise Cascade Company"
+    },
+    {
+      "symbol": "OCFC",
+      "manager_id": "TA",
+      "action": "Add 27.93%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 53855,
+      "portfolio_percentage": 0.16,
+      "company_name": "OceanFirst Financial Corp."
+    },
+    {
+      "symbol": "UHAL.B",
+      "manager_id": "TA",
+      "action": "Add 9.69%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 25129,
+      "portfolio_percentage": 0.18,
+      "company_name": "U Haul Holding Co Non Voting"
+    },
+    {
+      "symbol": "TDW",
+      "manager_id": "TA",
+      "action": "Add 5.51%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 48110,
+      "portfolio_percentage": 0.65,
+      "company_name": "Tidewater Inc."
+    },
+    {
+      "symbol": "BXC",
+      "manager_id": "TA",
+      "action": "Add 0.05%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 30,
+      "portfolio_percentage": 0.0,
+      "company_name": "BlueLinx Holdings Inc."
+    },
+    {
+      "symbol": "HOG",
+      "manager_id": "TA",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 1462670,
+      "portfolio_percentage": 4.8,
+      "company_name": "Harley-Davidson"
+    },
+    {
+      "symbol": "RHI",
+      "manager_id": "TA",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 903905,
+      "portfolio_percentage": 3.73,
+      "company_name": "Robert Half International"
+    },
+    {
+      "symbol": "BKD",
+      "manager_id": "TA",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 463664,
+      "portfolio_percentage": 1.03,
+      "company_name": "Brookdale Senior Living Inc."
+    },
+    {
+      "symbol": "CPRX",
+      "manager_id": "TA",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 210161,
+      "portfolio_percentage": 0.84,
+      "company_name": "Catalyst Pharmaceuticals Inc."
+    },
+    {
+      "symbol": "QLYS",
+      "manager_id": "TA",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 39120,
+      "portfolio_percentage": 0.56,
+      "company_name": "Qualys Inc."
+    },
+    {
+      "symbol": "COMP",
+      "manager_id": "TA",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 187469,
+      "portfolio_percentage": 0.22,
+      "company_name": "Compass Inc."
+    },
+    {
+      "symbol": "FRPH",
+      "manager_id": "TA",
+      "action": "Reduce 0.25%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 269,
+      "portfolio_percentage": 0.0,
+      "company_name": "FRP Holdings Inc."
+    },
+    {
+      "symbol": "LEN.B",
+      "manager_id": "TA",
+      "action": "Reduce 3.49%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 5165,
+      "portfolio_percentage": 0.07,
+      "company_name": "Lennar Corp. CL B"
+    },
+    {
+      "symbol": "WCC",
+      "manager_id": "TA",
+      "action": "Reduce 5.18%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1052,
+      "portfolio_percentage": 0.05,
+      "company_name": "WESCO International Inc."
+    },
+    {
+      "symbol": "SKY",
+      "manager_id": "TA",
+      "action": "Reduce 5.31%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 5652,
+      "portfolio_percentage": 0.07,
+      "company_name": "Skyline Champion Corp."
+    },
+    {
+      "symbol": "WY",
+      "manager_id": "TA",
+      "action": "Reduce 5.36%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 9205,
+      "portfolio_percentage": 0.04,
+      "company_name": "Weyerhaeuser Co."
+    },
+    {
+      "symbol": "PHM",
+      "manager_id": "TA",
+      "action": "Reduce 5.52%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 5556,
+      "portfolio_percentage": 0.11,
+      "company_name": "PulteGroup Inc."
+    },
+    {
+      "symbol": "DHI",
+      "manager_id": "TA",
+      "action": "Reduce 5.57%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 4358,
+      "portfolio_percentage": 0.1,
+      "company_name": "D.R. Horton"
+    },
+    {
+      "symbol": "SUI",
+      "manager_id": "TA",
+      "action": "Reduce 5.64%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 5467,
+      "portfolio_percentage": 0.11,
+      "company_name": "Sun Communities Inc."
+    },
+    {
+      "symbol": "JLL",
+      "manager_id": "TA",
+      "action": "Reduce 5.66%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1944,
+      "portfolio_percentage": 0.1,
+      "company_name": "Jones Lang Lasalle Inc."
+    },
+    {
+      "symbol": "AMH",
+      "manager_id": "TA",
+      "action": "Reduce 5.74%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 15992,
+      "portfolio_percentage": 0.07,
+      "company_name": "American Homes 4 Rent"
+    },
+    {
+      "symbol": "FNF",
+      "manager_id": "TA",
+      "action": "Reduce 5.78%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 11865,
+      "portfolio_percentage": 0.09,
+      "company_name": "Fidelity National Financial Inc."
+    },
+    {
+      "symbol": "FPH",
+      "manager_id": "TA",
+      "action": "Reduce 6.14%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 252755,
+      "portfolio_percentage": 0.2,
+      "company_name": "Five Point Holdings LLC"
+    },
+    {
+      "symbol": "CBRE",
+      "manager_id": "TA",
+      "action": "Reduce 7.15%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 10505,
+      "portfolio_percentage": 0.23,
+      "company_name": "CBRE Group"
+    },
+    {
+      "symbol": "PRA",
+      "manager_id": "TA",
+      "action": "Reduce 11.05%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 32382,
+      "portfolio_percentage": 0.13,
+      "company_name": "ProAssurance Corp."
+    },
+    {
+      "symbol": "BN",
+      "manager_id": "TA",
+      "action": "Reduce 12.16%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 66624,
+      "portfolio_percentage": 0.44,
+      "company_name": "Brookfield Corp."
+    },
+    {
+      "symbol": "VAL",
+      "manager_id": "TA",
+      "action": "Reduce 13.04%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 76187,
+      "portfolio_percentage": 1.21,
+      "company_name": "Valaris plc"
+    },
+    {
+      "symbol": "PLD",
+      "manager_id": "TA",
+      "action": "Reduce 13.41%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 19506,
+      "portfolio_percentage": 0.42,
+      "company_name": "Prologis Inc."
+    },
+    {
+      "symbol": "ECPG",
+      "manager_id": "TA",
+      "action": "Reduce 16.67%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 28510,
+      "portfolio_percentage": 0.32,
+      "company_name": "Encore Capital Group Inc."
+    },
+    {
+      "symbol": "MYRG",
+      "manager_id": "TA",
+      "action": "Reduce 18.94%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 6735,
+      "portfolio_percentage": 0.31,
+      "company_name": "MYR Group Inc."
+    },
+    {
+      "symbol": "SUPN",
+      "manager_id": "TA",
+      "action": "Reduce 19.40%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 36769,
+      "portfolio_percentage": 0.31,
+      "company_name": "Supernus Pharmaceuticals"
+    },
+    {
+      "symbol": "FR",
+      "manager_id": "TA",
+      "action": "Reduce 22.64%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 23712,
+      "portfolio_percentage": 0.22,
+      "company_name": "First Industrial Realty Trust Inc."
+    },
+    {
+      "symbol": "COLL",
+      "manager_id": "TA",
+      "action": "Reduce 23.73%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 48258,
+      "portfolio_percentage": 0.26,
+      "company_name": "Collegium Pharmaceutical Inc."
+    },
+    {
+      "symbol": "ROG",
+      "manager_id": "TA",
+      "action": "Reduce 24.29%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 48449,
+      "portfolio_percentage": 0.84,
+      "company_name": "Rogers Corp."
+    },
+    {
+      "symbol": "HCC",
+      "manager_id": "TA",
+      "action": "Reduce 37.60%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 219318,
+      "portfolio_percentage": 3.31,
+      "company_name": "Warrior Met Coal Inc."
+    },
+    {
+      "symbol": "LXU",
+      "manager_id": "TA",
+      "action": "Reduce 51.73%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 408351,
+      "portfolio_percentage": 0.99,
+      "company_name": "LSB Industries Inc."
+    },
+    {
+      "symbol": "KALU",
+      "manager_id": "TA",
+      "action": "Reduce 65.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 55482,
+      "portfolio_percentage": 1.08,
+      "company_name": "Kaiser Aluminum Corp."
+    },
+    {
+      "symbol": "DB",
+      "manager_id": "TA",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 337193,
+      "portfolio_percentage": 2.36,
+      "company_name": "Deutsche Bank AG"
+    },
+    {
+      "symbol": "RYN",
+      "manager_id": "TA",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 188340,
+      "portfolio_percentage": 0.74,
+      "company_name": "Rayonier Inc."
+    },
+    {
+      "symbol": "CTLP-OLD",
+      "manager_id": "TA",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 370013,
+      "portfolio_percentage": 0.71,
+      "company_name": "Cantaloupe Inc."
+    },
+    {
+      "symbol": "FG",
+      "manager_id": "TA",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 12319,
+      "portfolio_percentage": 0.07,
+      "company_name": "F&G Annuities & Life Inc."
+    },
+    {
       "symbol": "FNF",
       "manager_id": "TA",
       "action": "Add 73.04%",
@@ -486,7 +992,7 @@
       "company_name": "Warrior Met Coal Inc."
     },
     {
-      "symbol": "TPH",
+      "symbol": "TPH-OLD",
       "manager_id": "TA",
       "action": "Add 0.02%",
       "date": "Q3 2025",
@@ -926,7 +1432,7 @@
       "company_name": "Lennar Corp. CL B"
     },
     {
-      "symbol": "CTLP",
+      "symbol": "CTLP-OLD",
       "manager_id": "TA",
       "action": "Buy",
       "date": "Q2 2025",
@@ -2081,7 +2587,7 @@
       "company_name": "Comerica Inc."
     },
     {
-      "symbol": "TPH",
+      "symbol": "TPH-OLD",
       "manager_id": "TA",
       "action": "Reduce 0.11%",
       "date": "Q3 2024",
@@ -4204,7 +4710,7 @@
       "company_name": "Lennar Corp. CL B"
     },
     {
-      "symbol": "TPH",
+      "symbol": "TPH-OLD",
       "manager_id": "TA",
       "action": "Reduce 39.88%",
       "date": "Q2 2023",
@@ -4512,7 +5018,7 @@
       "company_name": "Five Point Holdings LLC"
     },
     {
-      "symbol": "TPH",
+      "symbol": "TPH-OLD",
       "manager_id": "TA",
       "action": "Reduce 21.42%",
       "date": "Q1 2023",
@@ -4600,7 +5106,7 @@
       "company_name": "ProAssurance Corp."
     },
     {
-      "symbol": "TPH",
+      "symbol": "TPH-OLD",
       "manager_id": "TA",
       "action": "Add 7.44%",
       "date": "Q4 2022",
@@ -4985,7 +5491,7 @@
       "company_name": "Cal-Maine Foods Inc."
     },
     {
-      "symbol": "TPH",
+      "symbol": "TPH-OLD",
       "manager_id": "TA",
       "action": "Add 25.11%",
       "date": "Q3 2022",
@@ -5381,7 +5887,7 @@
       "company_name": "Sphere Entertainment Co."
     },
     {
-      "symbol": "TPH",
+      "symbol": "TPH-OLD",
       "manager_id": "TA",
       "action": "Add 25.87%",
       "date": "Q2 2022",
@@ -6349,7 +6855,7 @@
       "company_name": "Brookfield Corp."
     },
     {
-      "symbol": "TPH",
+      "symbol": "TPH-OLD",
       "manager_id": "TA",
       "action": "Reduce 16.23%",
       "date": "Q4 2021",
@@ -8505,7 +9011,7 @@
       "company_name": "Eagle Materials Inc."
     },
     {
-      "symbol": "TPH",
+      "symbol": "TPH-OLD",
       "manager_id": "TA",
       "action": "Reduce 18.85%",
       "date": "Q3 2020",
@@ -8670,7 +9176,7 @@
       "company_name": "Old Republic International"
     },
     {
-      "symbol": "TPH",
+      "symbol": "TPH-OLD",
       "manager_id": "TA",
       "action": "Add 33.29%",
       "date": "Q2 2020",
@@ -9682,7 +10188,7 @@
       "company_name": "First Industrial Realty Trust Inc."
     },
     {
-      "symbol": "TPH",
+      "symbol": "TPH-OLD",
       "manager_id": "TA",
       "action": "Reduce 57.14%",
       "date": "Q1 2020",
@@ -10111,7 +10617,7 @@
       "company_name": "ICF International Inc."
     },
     {
-      "symbol": "TPH",
+      "symbol": "TPH-OLD",
       "manager_id": "TA",
       "action": "Reduce 17.16%",
       "date": "Q4 2019",
@@ -10494,514 +11000,8 @@
       "shares": 7221,
       "portfolio_percentage": 0.04,
       "company_name": "Pursuit Attractions and Hospitality"
-    },
-    {
-      "symbol": "RYN",
-      "manager_id": "TA",
-      "action": "Reduce 9.08%",
-      "date": "Q3 2019",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 184173,
-      "portfolio_percentage": 0.47,
-      "company_name": "Rayonier Inc."
-    },
-    {
-      "symbol": "CMA",
-      "manager_id": "TA",
-      "action": "Reduce 15.06%",
-      "date": "Q3 2019",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 67193,
-      "portfolio_percentage": 0.4,
-      "company_name": "Comerica Inc."
-    },
-    {
-      "symbol": "FCN",
-      "manager_id": "TA",
-      "action": "Reduce 16.26%",
-      "date": "Q3 2019",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 16870,
-      "portfolio_percentage": 0.16,
-      "company_name": "FTI Consulting Inc."
-    },
-    {
-      "symbol": "AKR",
-      "manager_id": "TA",
-      "action": "Reduce 18.49%",
-      "date": "Q3 2019",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 211951,
-      "portfolio_percentage": 0.55,
-      "company_name": "Acadia Realty Trust"
-    },
-    {
-      "symbol": "UNF",
-      "manager_id": "TA",
-      "action": "Reduce 18.83%",
-      "date": "Q3 2019",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 5648,
-      "portfolio_percentage": 0.1,
-      "company_name": "UniFirst Corp."
-    },
-    {
-      "symbol": "UMBF",
-      "manager_id": "TA",
-      "action": "Reduce 19.26%",
-      "date": "Q3 2019",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 29043,
-      "portfolio_percentage": 0.17,
-      "company_name": "UMB Financial Corp."
-    },
-    {
-      "symbol": "MAC",
-      "manager_id": "TA",
-      "action": "Reduce 21.47%",
-      "date": "Q3 2019",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 305689,
-      "portfolio_percentage": 0.87,
-      "company_name": "Macerich Co."
-    },
-    {
-      "symbol": "WY",
-      "manager_id": "TA",
-      "action": "Reduce 21.95%",
-      "date": "Q3 2019",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 899448,
-      "portfolio_percentage": 2.25,
-      "company_name": "Weyerhaeuser Co."
-    },
-    {
-      "symbol": "FNF",
-      "manager_id": "TA",
-      "action": "Reduce 27.08%",
-      "date": "Q3 2019",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 125884,
-      "portfolio_percentage": 0.5,
-      "company_name": "Fidelity National Financial Inc."
-    },
-    {
-      "symbol": "LEN",
-      "manager_id": "TA",
-      "action": "Reduce 27.75%",
-      "date": "Q3 2019",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 362415,
-      "portfolio_percentage": 1.83,
-      "company_name": "Lennar Corp."
-    },
-    {
-      "symbol": "TRC",
-      "manager_id": "TA",
-      "action": "Reduce 30.35%",
-      "date": "Q3 2019",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 298968,
-      "portfolio_percentage": 0.46,
-      "company_name": "Tejon Ranch Co."
-    },
-    {
-      "symbol": "VC",
-      "manager_id": "TA",
-      "action": "Reduce 40.62%",
-      "date": "Q3 2019",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 76667,
-      "portfolio_percentage": 0.57,
-      "company_name": "Visteon Corp."
-    },
-    {
-      "symbol": "PB",
-      "manager_id": "TA",
-      "action": "Reduce 44.85%",
-      "date": "Q3 2019",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 49737,
-      "portfolio_percentage": 0.32,
-      "company_name": "Prosperity Bancshares Inc."
-    },
-    {
-      "symbol": "RIG",
-      "manager_id": "TA",
-      "action": "Sell 100.00%",
-      "date": "Q3 2019",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 1521285,
-      "portfolio_percentage": 0.82,
-      "company_name": "Transocean Ltd."
-    },
-    {
-      "symbol": "SAFM-OLD",
-      "manager_id": "TA",
-      "action": "Sell 100.00%",
-      "date": "Q3 2019",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 25755,
-      "portfolio_percentage": 0.3,
-      "company_name": "Sanderson Farms"
-    },
-    {
-      "symbol": "ASIX",
-      "manager_id": "TA",
-      "action": "Sell 100.00%",
-      "date": "Q3 2019",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 30709,
-      "portfolio_percentage": 0.06,
-      "company_name": "AdvanSix Inc."
-    },
-    {
-      "symbol": "AGX",
-      "manager_id": "TA",
-      "action": "Add 49.60%",
-      "date": "Q2 2019",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 44142,
-      "portfolio_percentage": 0.15,
-      "company_name": "Argan Inc."
-    },
-    {
-      "symbol": "MHK",
-      "manager_id": "TA",
-      "action": "Add 38.80%",
-      "date": "Q2 2019",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 34452,
-      "portfolio_percentage": 0.43,
-      "company_name": "Mohawk Industries"
-    },
-    {
-      "symbol": "VC",
-      "manager_id": "TA",
-      "action": "Add 38.65%",
-      "date": "Q2 2019",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 52615,
-      "portfolio_percentage": 0.26,
-      "company_name": "Visteon Corp."
-    },
-    {
-      "symbol": "TPHS",
-      "manager_id": "TA",
-      "action": "Add 12.87%",
-      "date": "Q2 2019",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 647578,
-      "portfolio_percentage": 0.21,
-      "company_name": "Trinity Place Holdings"
-    },
-    {
-      "symbol": "SRG",
-      "manager_id": "TA",
-      "action": "Add 12.32%",
-      "date": "Q2 2019",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 34837,
-      "portfolio_percentage": 0.13,
-      "company_name": "Seritage Growth Properties"
-    },
-    {
-      "symbol": "TDW",
-      "manager_id": "TA",
-      "action": "Add 6.47%",
-      "date": "Q2 2019",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 158043,
-      "portfolio_percentage": 0.31,
-      "company_name": "Tidewater Inc."
-    },
-    {
-      "symbol": "CUBI",
-      "manager_id": "TA",
-      "action": "Add 4.98%",
-      "date": "Q2 2019",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 25877,
-      "portfolio_percentage": 0.05,
-      "company_name": "Customers Bancorp Inc."
-    },
-    {
-      "symbol": "HA-OLD",
-      "manager_id": "TA",
-      "action": "Add 3.44%",
-      "date": "Q2 2019",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 47019,
-      "portfolio_percentage": 0.11,
-      "company_name": "Hawaiian Holdings Inc."
-    },
-    {
-      "symbol": "LEN.B",
-      "manager_id": "TA",
-      "action": "Add 1.45%",
-      "date": "Q2 2019",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 18121,
-      "portfolio_percentage": 0.06,
-      "company_name": "Lennar Corp. CL B"
-    },
-    {
-      "symbol": "MAC",
-      "manager_id": "TA",
-      "action": "Add 1.45%",
-      "date": "Q2 2019",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 20402,
-      "portfolio_percentage": 0.06,
-      "company_name": "Macerich Co."
-    },
-    {
-      "symbol": "PNC",
-      "manager_id": "TA",
-      "action": "Add 0.34%",
-      "date": "Q2 2019",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 895,
-      "portfolio_percentage": 0.01,
-      "company_name": "PNC Financial Services"
-    },
-    {
-      "symbol": "FPH",
-      "manager_id": "TA",
-      "action": "Add 0.30%",
-      "date": "Q2 2019",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 34718,
-      "portfolio_percentage": 0.02,
-      "company_name": "Five Point Holdings LLC"
-    },
-    {
-      "symbol": "JBGS",
-      "manager_id": "TA",
-      "action": "Reduce 1.00%",
-      "date": "Q2 2019",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 13084,
-      "portfolio_percentage": 0.04,
-      "company_name": "JBG Smith Properties"
-    },
-    {
-      "symbol": "CMA",
-      "manager_id": "TA",
-      "action": "Reduce 1.13%",
-      "date": "Q2 2019",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 5101,
-      "portfolio_percentage": 0.03,
-      "company_name": "Comerica Inc."
-    },
-    {
-      "symbol": "RYN",
-      "manager_id": "TA",
-      "action": "Reduce 3.40%",
-      "date": "Q2 2019",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 71307,
-      "portfolio_percentage": 0.18,
-      "company_name": "Rayonier Inc."
-    },
-    {
-      "symbol": "FNF",
-      "manager_id": "TA",
-      "action": "Reduce 3.80%",
-      "date": "Q2 2019",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 18350,
-      "portfolio_percentage": 0.06,
-      "company_name": "Fidelity National Financial Inc."
-    },
-    {
-      "symbol": "UHAL",
-      "manager_id": "TA",
-      "action": "Reduce 3.88%",
-      "date": "Q2 2019",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 3023,
-      "portfolio_percentage": 0.1,
-      "company_name": "U-Haul Holding Co."
-    },
-    {
-      "symbol": "VNO",
-      "manager_id": "TA",
-      "action": "Reduce 3.91%",
-      "date": "Q2 2019",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 16192,
-      "portfolio_percentage": 0.09,
-      "company_name": "Vornado Realty Trust"
-    },
-    {
-      "symbol": "BN",
-      "manager_id": "TA",
-      "action": "Reduce 4.52%",
-      "date": "Q2 2019",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 173505,
-      "portfolio_percentage": 0.31,
-      "company_name": "Brookfield Corp."
-    },
-    {
-      "symbol": "WY",
-      "manager_id": "TA",
-      "action": "Reduce 4.62%",
-      "date": "Q2 2019",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 198675,
-      "portfolio_percentage": 0.44,
-      "company_name": "Weyerhaeuser Co."
-    },
-    {
-      "symbol": "FCN",
-      "manager_id": "TA",
-      "action": "Reduce 5.98%",
-      "date": "Q2 2019",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 6604,
-      "portfolio_percentage": 0.05,
-      "company_name": "FTI Consulting Inc."
-    },
-    {
-      "symbol": "AKR",
-      "manager_id": "TA",
-      "action": "Reduce 7.38%",
-      "date": "Q2 2019",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 91311,
-      "portfolio_percentage": 0.21,
-      "company_name": "Acadia Realty Trust"
-    },
-    {
-      "symbol": "HCC",
-      "manager_id": "TA",
-      "action": "Reduce 10.29%",
-      "date": "Q2 2019",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 202324,
-      "portfolio_percentage": 0.44,
-      "company_name": "Warrior Met Coal Inc."
-    },
-    {
-      "symbol": "LOW",
-      "manager_id": "TA",
-      "action": "Reduce 15.84%",
-      "date": "Q2 2019",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 43734,
-      "portfolio_percentage": 0.37,
-      "company_name": "Lowe's Cos."
-    },
-    {
-      "symbol": "FR",
-      "manager_id": "TA",
-      "action": "Reduce 21.19%",
-      "date": "Q2 2019",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 192570,
-      "portfolio_percentage": 0.59,
-      "company_name": "First Industrial Realty Trust Inc."
-    },
-    {
-      "symbol": "PRSU",
-      "manager_id": "TA",
-      "action": "Reduce 22.60%",
-      "date": "Q2 2019",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 24457,
-      "portfolio_percentage": 0.14,
-      "company_name": "Pursuit Attractions and Hospitality"
-    },
-    {
-      "symbol": "LEN",
-      "manager_id": "TA",
-      "action": "Reduce 32.88%",
-      "date": "Q2 2019",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 639832,
-      "portfolio_percentage": 2.6,
-      "company_name": "Lennar Corp."
-    },
-    {
-      "symbol": "SAFM-OLD",
-      "manager_id": "TA",
-      "action": "Reduce 47.73%",
-      "date": "Q2 2019",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 23516,
-      "portfolio_percentage": 0.27,
-      "company_name": "Sanderson Farms"
-    },
-    {
-      "symbol": "ASIX",
-      "manager_id": "TA",
-      "action": "Reduce 83.01%",
-      "date": "Q2 2019",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 150027,
-      "portfolio_percentage": 0.29,
-      "company_name": "AdvanSix Inc."
-    },
-    {
-      "symbol": "CUB",
-      "manager_id": "TA",
-      "action": "Sell 100.00%",
-      "date": "Q2 2019",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 10064,
-      "portfolio_percentage": 0.05,
-      "company_name": "Cubic Corp."
     }
   ],
-  "timestamp": "2026-05-01T06:59:17.903447",
-  "scraped_date": "2026-05-01"
+  "timestamp": "2026-06-01T07:45:16.091571",
+  "scraped_date": "2026-06-01"
 }

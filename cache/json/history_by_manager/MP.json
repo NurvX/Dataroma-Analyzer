@@ -2,6 +2,127 @@
   "manager_id": "MP",
   "activities": [
     {
+      "symbol": "CHTR",
+      "manager_id": "MP",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 164000,
+      "portfolio_percentage": 26.77,
+      "company_name": "Charter Communications"
+    },
+    {
+      "symbol": "DPZ",
+      "manager_id": "MP",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 37000,
+      "portfolio_percentage": 12.06,
+      "company_name": "Dominos Pizza Inc."
+    },
+    {
+      "symbol": "LAMR",
+      "manager_id": "MP",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 120000,
+      "portfolio_percentage": 11.88,
+      "company_name": "Lamar Advertising Co."
+    },
+    {
+      "symbol": "BBWI",
+      "manager_id": "MP",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 734355,
+      "portfolio_percentage": 11.53,
+      "company_name": "Bath & Body Works Inc."
+    },
+    {
+      "symbol": "CDW",
+      "manager_id": "MP",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 100000,
+      "portfolio_percentage": 10.65,
+      "company_name": "CDW Corp."
+    },
+    {
+      "symbol": "BELFB",
+      "manager_id": "MP",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 55000,
+      "portfolio_percentage": 7.29,
+      "company_name": "Bel Fuse Inc. CL B"
+    },
+    {
+      "symbol": "FLUT",
+      "manager_id": "MP",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 41422,
+      "portfolio_percentage": 6.96,
+      "company_name": "Flutter Entertainment Plc"
+    },
+    {
+      "symbol": "LMB",
+      "manager_id": "MP",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 102239,
+      "portfolio_percentage": 6.22,
+      "company_name": "Limbach Holdings Inc."
+    },
+    {
+      "symbol": "WHD",
+      "manager_id": "MP",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 141286,
+      "portfolio_percentage": 5.05,
+      "company_name": "Cactus Inc."
+    },
+    {
+      "symbol": "SVV",
+      "manager_id": "MP",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 159110,
+      "portfolio_percentage": 1.16,
+      "company_name": "Savers Value Village Inc"
+    },
+    {
+      "symbol": "HEI.A",
+      "manager_id": "MP",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 2171,
+      "portfolio_percentage": 0.43,
+      "company_name": "HEICO Corp. CL A"
+    },
+    {
       "symbol": "LMB",
       "manager_id": "MP",
       "action": "Add 95.71%",
@@ -1608,6 +1729,6 @@
       "company_name": "Qurate Group Series A"
     }
   ],
-  "timestamp": "2026-05-01T06:59:17.941667",
-  "scraped_date": "2026-05-01"
+  "timestamp": "2026-06-01T07:45:15.983182",
+  "scraped_date": "2026-06-01"
 }

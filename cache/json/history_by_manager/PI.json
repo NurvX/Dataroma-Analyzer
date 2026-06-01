@@ -2,6 +2,50 @@
   "manager_id": "PI",
   "activities": [
     {
+      "symbol": "AMR",
+      "manager_id": "PI",
+      "action": "Add 6.77%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 36738,
+      "portfolio_percentage": 1.78,
+      "company_name": "Alpha Metallurgical Resources Inc."
+    },
+    {
+      "symbol": "HCC",
+      "manager_id": "PI",
+      "action": "Add 0.61%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 11000,
+      "portfolio_percentage": 0.24,
+      "company_name": "Warrior Met Coal Inc."
+    },
+    {
+      "symbol": "RIG",
+      "manager_id": "PI",
+      "action": "Reduce 24.58%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 6647461,
+      "portfolio_percentage": 10.42,
+      "company_name": "Transocean Ltd."
+    },
+    {
+      "symbol": "VAL",
+      "manager_id": "PI",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 459098,
+      "portfolio_percentage": 5.76,
+      "company_name": "Valaris plc"
+    },
+    {
       "symbol": "RIG",
       "manager_id": "PI",
       "action": "Add 10.63%",
@@ -3852,6 +3896,6 @@
       "company_name": "CryptoLogic Ltd."
     }
   ],
-  "timestamp": "2026-05-01T06:59:17.894814",
-  "scraped_date": "2026-05-01"
+  "timestamp": "2026-06-01T07:45:16.074797",
+  "scraped_date": "2026-06-01"
 }

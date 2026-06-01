@@ -2,6 +2,50 @@
   "manager_id": "ic",
   "activities": [
     {
+      "symbol": "CVI",
+      "manager_id": "ic",
+      "action": "Add 1.11%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 783404,
+      "portfolio_percentage": 0.31,
+      "company_name": "CVR Energy Inc."
+    },
+    {
+      "symbol": "SD",
+      "manager_id": "ic",
+      "action": "Add 0.74%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 36137,
+      "portfolio_percentage": 0.01,
+      "company_name": "SandRidge Energy Inc."
+    },
+    {
+      "symbol": "SATS",
+      "manager_id": "ic",
+      "action": "Reduce 58.13%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1950000,
+      "portfolio_percentage": 2.67,
+      "company_name": "EchoStar Corp."
+    },
+    {
+      "symbol": "SWX",
+      "manager_id": "ic",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 6032604,
+      "portfolio_percentage": 5.72,
+      "company_name": "Southwest Gas Holdings Inc."
+    },
+    {
       "symbol": "MNRO",
       "manager_id": "ic",
       "action": "Add 246.66%",
@@ -3566,6 +3610,6 @@
       "company_name": "WebMD Health Corp."
     }
   ],
-  "timestamp": "2026-05-01T06:59:17.633000",
-  "scraped_date": "2026-05-01"
+  "timestamp": "2026-06-01T07:45:15.778505",
+  "scraped_date": "2026-06-01"
 }

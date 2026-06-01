@@ -2,6 +2,105 @@
   "manager_id": "VFC",
   "activities": [
     {
+      "symbol": "ASML",
+      "manager_id": "VFC",
+      "action": "Add 35.52%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 44841,
+      "portfolio_percentage": 1.75,
+      "company_name": "ASML Holding NV"
+    },
+    {
+      "symbol": "MA",
+      "manager_id": "VFC",
+      "action": "Add 0.01%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 87,
+      "portfolio_percentage": 0.0,
+      "company_name": "Mastercard Inc."
+    },
+    {
+      "symbol": "FICO",
+      "manager_id": "VFC",
+      "action": "Reduce 0.01%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 82,
+      "portfolio_percentage": 0.0,
+      "company_name": "Fair Isaac Corp."
+    },
+    {
+      "symbol": "MCO",
+      "manager_id": "VFC",
+      "action": "Reduce 0.01%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 104,
+      "portfolio_percentage": 0.0,
+      "company_name": "Moody's Corp."
+    },
+    {
+      "symbol": "SPGI",
+      "manager_id": "VFC",
+      "action": "Reduce 0.01%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 105,
+      "portfolio_percentage": 0.0,
+      "company_name": "S&P Global Inc."
+    },
+    {
+      "symbol": "INTU",
+      "manager_id": "VFC",
+      "action": "Reduce 14.54%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 32164,
+      "portfolio_percentage": 0.41,
+      "company_name": "Intuit Inc."
+    },
+    {
+      "symbol": "V",
+      "manager_id": "VFC",
+      "action": "Reduce 34.66%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 317657,
+      "portfolio_percentage": 2.84,
+      "company_name": "Visa Inc."
+    },
+    {
+      "symbol": "MSCI",
+      "manager_id": "VFC",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 60770,
+      "portfolio_percentage": 0.79,
+      "company_name": "MSCI Inc."
+    },
+    {
+      "symbol": "EFX",
+      "manager_id": "VFC",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 146352,
+      "portfolio_percentage": 0.72,
+      "company_name": "Equifax Inc."
+    },
+    {
       "symbol": "MSCI",
       "manager_id": "VFC",
       "action": "Add 1.79%",
@@ -1267,6 +1366,6 @@
       "company_name": "S&P Global Inc."
     }
   ],
-  "timestamp": "2026-05-01T06:59:17.697921",
-  "scraped_date": "2026-05-01"
+  "timestamp": "2026-06-01T07:45:15.870874",
+  "scraped_date": "2026-06-01"
 }

@@ -2,6 +2,83 @@
   "manager_id": "ENG",
   "activities": [
     {
+      "symbol": "PTLO",
+      "manager_id": "ENG",
+      "action": "Add 124.30%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1908000,
+      "portfolio_percentage": 3.33,
+      "company_name": "Portillo's Inc Cl A"
+    },
+    {
+      "symbol": "BL",
+      "manager_id": "ENG",
+      "action": "Add 26.21%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 284000,
+      "portfolio_percentage": 3.46,
+      "company_name": "BlackLine Inc."
+    },
+    {
+      "symbol": "GXO",
+      "manager_id": "ENG",
+      "action": "Reduce 0.96%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 8000,
+      "portfolio_percentage": 0.14,
+      "company_name": "Gxo Logistics Inc."
+    },
+    {
+      "symbol": "VFC",
+      "manager_id": "ENG",
+      "action": "Reduce 11.83%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 627559,
+      "portfolio_percentage": 3.51,
+      "company_name": "V.F. Corp."
+    },
+    {
+      "symbol": "YETI",
+      "manager_id": "ENG",
+      "action": "Reduce 12.23%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 248600,
+      "portfolio_percentage": 3.0,
+      "company_name": "YETI Holdings Inc."
+    },
+    {
+      "symbol": "CGNX",
+      "manager_id": "ENG",
+      "action": "Reduce 48.12%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 449000,
+      "portfolio_percentage": 7.25,
+      "company_name": "Cognex Corp."
+    },
+    {
+      "symbol": "FRPT",
+      "manager_id": "ENG",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 401130,
+      "portfolio_percentage": 6.23,
+      "company_name": "Freshpet Inc."
+    },
+    {
       "symbol": "BL",
       "manager_id": "ENG",
       "action": "Add 138.79%",
@@ -1003,7 +1080,7 @@
       "company_name": "Evolent Health Inc."
     },
     {
-      "symbol": "STKL",
+      "symbol": "STKL-OLD",
       "manager_id": "ENG",
       "action": "Sell 100.00%",
       "date": "Q2 2023",
@@ -1036,7 +1113,7 @@
       "company_name": "iShares Russell 2000 ETF"
     },
     {
-      "symbol": "STKL",
+      "symbol": "STKL-OLD",
       "manager_id": "ENG",
       "action": "Add 452.49%",
       "date": "Q1 2023",
@@ -1201,7 +1278,7 @@
       "company_name": "BellRing Brands Inc. CL A"
     },
     {
-      "symbol": "STKL",
+      "symbol": "STKL-OLD",
       "manager_id": "ENG",
       "action": "Reduce 46.25%",
       "date": "Q4 2022",
@@ -1289,7 +1366,7 @@
       "company_name": "Evolent Health Inc."
     },
     {
-      "symbol": "STKL",
+      "symbol": "STKL-OLD",
       "manager_id": "ENG",
       "action": "Reduce 67.30%",
       "date": "Q3 2022",
@@ -1322,7 +1399,7 @@
       "company_name": "Evolent Health Inc."
     },
     {
-      "symbol": "STKL",
+      "symbol": "STKL-OLD",
       "manager_id": "ENG",
       "action": "Reduce 14.59%",
       "date": "Q2 2022",
@@ -1388,7 +1465,7 @@
       "company_name": "Evolent Health Inc."
     },
     {
-      "symbol": "STKL",
+      "symbol": "STKL-OLD",
       "manager_id": "ENG",
       "action": "Reduce 27.44%",
       "date": "Q1 2022",
@@ -1740,7 +1817,7 @@
       "company_name": "NCR Corp."
     },
     {
-      "symbol": "STKL",
+      "symbol": "STKL-OLD",
       "manager_id": "ENG",
       "action": "Add 0.05%",
       "date": "Q4 2020",
@@ -1828,7 +1905,7 @@
       "company_name": "NCR Corp."
     },
     {
-      "symbol": "STKL",
+      "symbol": "STKL-OLD",
       "manager_id": "ENG",
       "action": "Add 0.95%",
       "date": "Q3 2020",
@@ -1916,7 +1993,7 @@
       "company_name": "NCR Corp."
     },
     {
-      "symbol": "STKL",
+      "symbol": "STKL-OLD",
       "manager_id": "ENG",
       "action": "Add 11.45%",
       "date": "Q2 2020",
@@ -2114,6 +2191,6 @@
       "company_name": "Del Frisco's Restaurant Group"
     }
   ],
-  "timestamp": "2026-05-01T06:59:17.744287",
-  "scraped_date": "2026-05-01"
+  "timestamp": "2026-06-01T07:45:15.901490",
+  "scraped_date": "2026-06-01"
 }

@@ -2,6 +2,105 @@
   "manager_id": "TFP",
   "activities": [
     {
+      "symbol": "TRU",
+      "manager_id": "TFP",
+      "action": "Add 48.38%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 266675,
+      "portfolio_percentage": 1.92,
+      "company_name": "TransUnion"
+    },
+    {
+      "symbol": "META",
+      "manager_id": "TFP",
+      "action": "Add 20.80%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 20252,
+      "portfolio_percentage": 1.2,
+      "company_name": "Meta Platforms Inc."
+    },
+    {
+      "symbol": "CCC",
+      "manager_id": "TFP",
+      "action": "Add 12.65%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 608000,
+      "portfolio_percentage": 0.38,
+      "company_name": "CCC Intelligent Solutions Hldgs Inc."
+    },
+    {
+      "symbol": "ASML",
+      "manager_id": "TFP",
+      "action": "Add 11.37%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 12139,
+      "portfolio_percentage": 1.66,
+      "company_name": "ASML Holding NV"
+    },
+    {
+      "symbol": "TDG",
+      "manager_id": "TFP",
+      "action": "Add 2.55%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 2650,
+      "portfolio_percentage": 0.32,
+      "company_name": "TransDigm Group Inc."
+    },
+    {
+      "symbol": "MA",
+      "manager_id": "TFP",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 175472,
+      "portfolio_percentage": 9.11,
+      "company_name": "Mastercard Inc."
+    },
+    {
+      "symbol": "LYV",
+      "manager_id": "TFP",
+      "action": "Reduce 8.24%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 21093,
+      "portfolio_percentage": 0.33,
+      "company_name": "Live Nation Inc."
+    },
+    {
+      "symbol": "ILMN",
+      "manager_id": "TFP",
+      "action": "Reduce 18.09%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 67700,
+      "portfolio_percentage": 0.87,
+      "company_name": "Illumina Inc."
+    },
+    {
+      "symbol": "LRCX",
+      "manager_id": "TFP",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 295377,
+      "portfolio_percentage": 5.26,
+      "company_name": "Lam Research"
+    },
+    {
       "symbol": "TDG",
       "manager_id": "TFP",
       "action": "Add 82.39%",
@@ -2213,6 +2312,6 @@
       "company_name": "TransDigm Group Inc."
     }
   ],
-  "timestamp": "2026-05-01T06:59:17.898070",
-  "scraped_date": "2026-05-01"
+  "timestamp": "2026-06-01T07:45:15.981043",
+  "scraped_date": "2026-06-01"
 }

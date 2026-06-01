@@ -2,6 +2,39 @@
   "manager_id": "GFT",
   "activities": [
     {
+      "symbol": "WM",
+      "manager_id": "GFT",
+      "action": "Reduce 4.47%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1292000,
+      "portfolio_percentage": 0.94,
+      "company_name": "Waste Management Inc."
+    },
+    {
+      "symbol": "BRK.B",
+      "manager_id": "GFT",
+      "action": "Reduce 12.15%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 2358460,
+      "portfolio_percentage": 3.57,
+      "company_name": "Berkshire Hathaway CL B"
+    },
+    {
+      "symbol": "MSFT",
+      "manager_id": "GFT",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 7691207,
+      "portfolio_percentage": 10.52,
+      "company_name": "Microsoft Corp."
+    },
+    {
       "symbol": "BRK.B",
       "manager_id": "GFT",
       "action": "Reduce 10.84%",
@@ -327,7 +360,7 @@
       "date": "Q2 2024",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 520000,
+      "shares": 2600000,
       "portfolio_percentage": 0.1,
       "company_name": "Carvana Co."
     },
@@ -1801,7 +1834,7 @@
       "date": "Q2 2022",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 520000,
+      "shares": 2600000,
       "portfolio_percentage": 0.07,
       "company_name": "Carvana Co."
     },
@@ -4446,7 +4479,7 @@
       "company_name": "Devon Energy Corp."
     },
     {
-      "symbol": "CTRA",
+      "symbol": "CTRA-OLD",
       "manager_id": "GFT",
       "action": "Sell 100.00%",
       "date": "Q4 2010",
@@ -5051,7 +5084,7 @@
       "company_name": "America Movil SAB de CV"
     },
     {
-      "symbol": "CTRA",
+      "symbol": "CTRA-OLD",
       "manager_id": "GFT",
       "action": "Buy",
       "date": "Q2 2009",
@@ -7064,6 +7097,6 @@
       "company_name": "Time Warner Cable Inc."
     }
   ],
-  "timestamp": "2026-05-01T06:59:17.650606",
-  "scraped_date": "2026-05-01"
+  "timestamp": "2026-06-01T07:45:15.798763",
+  "scraped_date": "2026-06-01"
 }

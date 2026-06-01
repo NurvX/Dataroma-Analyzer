@@ -4,6 +4,105 @@
     {
       "symbol": "AMZN",
       "manager_id": "psc",
+      "action": "Add 19.19%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1844157,
+      "portfolio_percentage": 2.8,
+      "company_name": "Amazon.com Inc."
+    },
+    {
+      "symbol": "MSFT",
+      "manager_id": "psc",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 5654078,
+      "portfolio_percentage": 15.26,
+      "company_name": "Microsoft Corp."
+    },
+    {
+      "symbol": "META",
+      "manager_id": "psc",
+      "action": "Reduce 0.48%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 12708,
+      "portfolio_percentage": 0.05,
+      "company_name": "Meta Platforms Inc."
+    },
+    {
+      "symbol": "UBER",
+      "manager_id": "psc",
+      "action": "Reduce 0.82%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 248963,
+      "portfolio_percentage": 0.13,
+      "company_name": "Uber Technologies Inc."
+    },
+    {
+      "symbol": "QSR",
+      "manager_id": "psc",
+      "action": "Reduce 0.97%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 221290,
+      "portfolio_percentage": 0.12,
+      "company_name": "Restaurant Brands International"
+    },
+    {
+      "symbol": "BN",
+      "manager_id": "psc",
+      "action": "Reduce 2.78%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1705881,
+      "portfolio_percentage": 0.5,
+      "company_name": "Brookfield Corp."
+    },
+    {
+      "symbol": "GOOG",
+      "manager_id": "psc",
+      "action": "Reduce 94.94%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 5852145,
+      "portfolio_percentage": 12.2,
+      "company_name": "Alphabet Inc. CL C"
+    },
+    {
+      "symbol": "GOOGL",
+      "manager_id": "psc",
+      "action": "Reduce 95.23%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 645921,
+      "portfolio_percentage": 1.4,
+      "company_name": "Alphabet Inc."
+    },
+    {
+      "symbol": "HLT",
+      "manager_id": "psc",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 3028664,
+      "portfolio_percentage": 5.6,
+      "company_name": "Hilton Worldwide Holdings"
+    },
+    {
+      "symbol": "AMZN",
+      "manager_id": "psc",
       "action": "Add 64.99%",
       "date": "Q4 2025",
       "percentage_change": 0.0,
@@ -4490,6 +4589,6 @@
       "company_name": "Staples Inc."
     }
   ],
-  "timestamp": "2026-05-01T06:59:17.656356",
-  "scraped_date": "2026-05-01"
+  "timestamp": "2026-06-01T07:45:15.804748",
+  "scraped_date": "2026-06-01"
 }

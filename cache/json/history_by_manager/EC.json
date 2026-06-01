@@ -2,6 +2,336 @@
   "manager_id": "EC",
   "activities": [
     {
+      "symbol": "GOOG",
+      "manager_id": "EC",
+      "action": "Add 220.70%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 2380881,
+      "portfolio_percentage": 7.58,
+      "company_name": "Alphabet Inc. CL C"
+    },
+    {
+      "symbol": "MCO",
+      "manager_id": "EC",
+      "action": "Add 99.85%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 772261,
+      "portfolio_percentage": 3.74,
+      "company_name": "Moody's Corp."
+    },
+    {
+      "symbol": "VMC",
+      "manager_id": "EC",
+      "action": "Add 84.26%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 809043,
+      "portfolio_percentage": 2.45,
+      "company_name": "Vulcan Materials"
+    },
+    {
+      "symbol": "UBER",
+      "manager_id": "EC",
+      "action": "Add 73.52%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1971191,
+      "portfolio_percentage": 1.57,
+      "company_name": "Uber Technologies Inc."
+    },
+    {
+      "symbol": "LAMR",
+      "manager_id": "EC",
+      "action": "Add 50.78%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 366661,
+      "portfolio_percentage": 0.52,
+      "company_name": "Lamar Advertising Co."
+    },
+    {
+      "symbol": "V",
+      "manager_id": "EC",
+      "action": "Add 25.68%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 839971,
+      "portfolio_percentage": 2.82,
+      "company_name": "Visa Inc."
+    },
+    {
+      "symbol": "CRH",
+      "manager_id": "EC",
+      "action": "Add 22.04%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 498271,
+      "portfolio_percentage": 0.58,
+      "company_name": "CRH plc"
+    },
+    {
+      "symbol": "MA",
+      "manager_id": "EC",
+      "action": "Add 0.29%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1310,
+      "portfolio_percentage": 0.01,
+      "company_name": "Mastercard Inc."
+    },
+    {
+      "symbol": "CME",
+      "manager_id": "EC",
+      "action": "Add 0.26%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 3115,
+      "portfolio_percentage": 0.01,
+      "company_name": "CME Group"
+    },
+    {
+      "symbol": "LIN",
+      "manager_id": "EC",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 1068371,
+      "portfolio_percentage": 5.88,
+      "company_name": "Linde plc"
+    },
+    {
+      "symbol": "NVDA",
+      "manager_id": "EC",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 2675018,
+      "portfolio_percentage": 5.18,
+      "company_name": "NVIDIA Corp."
+    },
+    {
+      "symbol": "DVN",
+      "manager_id": "EC",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 6525140,
+      "portfolio_percentage": 3.64,
+      "company_name": "Devon Energy Corp."
+    },
+    {
+      "symbol": "CNQ",
+      "manager_id": "EC",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 5690211,
+      "portfolio_percentage": 3.07,
+      "company_name": "Canadian Natural Resources"
+    },
+    {
+      "symbol": "MDLN",
+      "manager_id": "EC",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 4365802,
+      "portfolio_percentage": 2.16,
+      "company_name": "Medline Inc Cl A"
+    },
+    {
+      "symbol": "ACGL",
+      "manager_id": "EC",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 1116922,
+      "portfolio_percentage": 1.19,
+      "company_name": "Arch Capital Group Ltd."
+    },
+    {
+      "symbol": "AWI",
+      "manager_id": "EC",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 448036,
+      "portfolio_percentage": 0.82,
+      "company_name": "Armstrong World Industries Inc."
+    },
+    {
+      "symbol": "EMBJ",
+      "manager_id": "EC",
+      "action": "Reduce 9.24%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 302909,
+      "portfolio_percentage": 0.2,
+      "company_name": "Embraer SA"
+    },
+    {
+      "symbol": "IBKR",
+      "manager_id": "EC",
+      "action": "Reduce 9.57%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 664402,
+      "portfolio_percentage": 0.49,
+      "company_name": "Interactive Brokers Group Inc."
+    },
+    {
+      "symbol": "CRS",
+      "manager_id": "EC",
+      "action": "Reduce 14.30%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 222092,
+      "portfolio_percentage": 0.97,
+      "company_name": "Carpenter Technology"
+    },
+    {
+      "symbol": "APH",
+      "manager_id": "EC",
+      "action": "Reduce 22.56%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 836558,
+      "portfolio_percentage": 1.17,
+      "company_name": "Amphenol Corp."
+    },
+    {
+      "symbol": "NYT",
+      "manager_id": "EC",
+      "action": "Reduce 31.07%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 438119,
+      "portfolio_percentage": 0.41,
+      "company_name": "New York Times CL A"
+    },
+    {
+      "symbol": "RNR",
+      "manager_id": "EC",
+      "action": "Reduce 35.33%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 173318,
+      "portfolio_percentage": 0.57,
+      "company_name": "RenaissanceRe Holdings Ltd."
+    },
+    {
+      "symbol": "FERG",
+      "manager_id": "EC",
+      "action": "Reduce 37.10%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 374056,
+      "portfolio_percentage": 0.97,
+      "company_name": "Ferguson Enterprises Inc."
+    },
+    {
+      "symbol": "AMZN",
+      "manager_id": "EC",
+      "action": "Reduce 59.89%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 3529162,
+      "portfolio_percentage": 8.15,
+      "company_name": "Amazon.com Inc."
+    },
+    {
+      "symbol": "MSFT",
+      "manager_id": "EC",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 1748656,
+      "portfolio_percentage": 9.19,
+      "company_name": "Microsoft Corp."
+    },
+    {
+      "symbol": "BSX",
+      "manager_id": "EC",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 5385084,
+      "portfolio_percentage": 5.58,
+      "company_name": "Boston Scientific"
+    },
+    {
+      "symbol": "COF",
+      "manager_id": "EC",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 2069130,
+      "portfolio_percentage": 5.45,
+      "company_name": "Capital One Financial"
+    },
+    {
+      "symbol": "WYNN",
+      "manager_id": "EC",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 2069751,
+      "portfolio_percentage": 2.71,
+      "company_name": "Wynn Resorts Ltd."
+    },
+    {
+      "symbol": "STX",
+      "manager_id": "EC",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 729325,
+      "portfolio_percentage": 2.18,
+      "company_name": "Seagate Technology"
+    },
+    {
+      "symbol": "LPLA",
+      "manager_id": "EC",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 254813,
+      "portfolio_percentage": 0.99,
+      "company_name": "LPL Financial Holdings Inc."
+    },
+    {
       "symbol": "EMBJ",
       "manager_id": "EC",
       "action": "Add 54.85%",
@@ -9803,6 +10133,6 @@
       "company_name": "TransUnion"
     }
   ],
-  "timestamp": "2026-05-01T06:59:17.960718",
-  "scraped_date": "2026-05-01"
+  "timestamp": "2026-06-01T07:45:16.100908",
+  "scraped_date": "2026-06-01"
 }

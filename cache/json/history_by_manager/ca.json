@@ -2,6 +2,116 @@
   "manager_id": "ca",
   "activities": [
     {
+      "symbol": "JEF",
+      "manager_id": "ca",
+      "action": "Add 1258.31%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 138250,
+      "portfolio_percentage": 2.74,
+      "company_name": "Jefferies Financial Group Inc."
+    },
+    {
+      "symbol": "PYPL",
+      "manager_id": "ca",
+      "action": "Add 308.29%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 126400,
+      "portfolio_percentage": 2.75,
+      "company_name": "PayPal Holdings Inc."
+    },
+    {
+      "symbol": "AGO",
+      "manager_id": "ca",
+      "action": "Add 54.60%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 6000,
+      "portfolio_percentage": 0.24,
+      "company_name": "Assured Guaranty Ltd."
+    },
+    {
+      "symbol": "SYF",
+      "manager_id": "ca",
+      "action": "Add 3.48%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 7500,
+      "portfolio_percentage": 0.25,
+      "company_name": "Synchrony Financial"
+    },
+    {
+      "symbol": "KHC",
+      "manager_id": "ca",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 69500,
+      "portfolio_percentage": 0.75,
+      "company_name": "Kraft Heinz Co."
+    },
+    {
+      "symbol": "BRK.B",
+      "manager_id": "ca",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 3100,
+      "portfolio_percentage": 0.72,
+      "company_name": "Berkshire Hathaway CL B"
+    },
+    {
+      "symbol": "ATKR",
+      "manager_id": "ca",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 8400,
+      "portfolio_percentage": 0.24,
+      "company_name": "Atkore International Group Inc."
+    },
+    {
+      "symbol": "HPQ",
+      "manager_id": "ca",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 26500,
+      "portfolio_percentage": 0.24,
+      "company_name": "HP Inc."
+    },
+    {
+      "symbol": "VTS",
+      "manager_id": "ca",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 1293,
+      "portfolio_percentage": 0.01,
+      "company_name": "Vitesse Energy Inc."
+    },
+    {
+      "symbol": "HTZWW",
+      "manager_id": "ca",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 1000,
+      "portfolio_percentage": 0.0,
+      "company_name": "Hertz Global Hldgs Inc. WTS"
+    },
+    {
       "symbol": "GOOG",
       "manager_id": "ca",
       "action": "Reduce 12.14%",
@@ -2950,6 +3060,6 @@
       "company_name": "Sprint Corp."
     }
   ],
-  "timestamp": "2026-05-01T06:59:17.856758",
-  "scraped_date": "2026-05-01"
+  "timestamp": "2026-06-01T07:45:16.055564",
+  "scraped_date": "2026-06-01"
 }

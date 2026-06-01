@@ -2,6 +2,17 @@
   "manager_id": "PC",
   "activities": [
     {
+      "symbol": "SGOV",
+      "manager_id": "PC",
+      "action": "Reduce 18.73%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 106000,
+      "portfolio_percentage": 3.94,
+      "company_name": "Ishares 0 3 Month Treasury B"
+    },
+    {
       "symbol": "PYPL",
       "manager_id": "PC",
       "action": "Reduce 3.31%",
@@ -420,6 +431,6 @@
       "company_name": "Baidu Inc."
     }
   ],
-  "timestamp": "2026-05-01T06:59:17.682797",
-  "scraped_date": "2026-05-01"
+  "timestamp": "2026-06-01T07:45:15.808875",
+  "scraped_date": "2026-06-01"
 }

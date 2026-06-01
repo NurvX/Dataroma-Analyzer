@@ -2,6 +2,149 @@
   "manager_id": "FFH",
   "activities": [
     {
+      "symbol": "UA",
+      "manager_id": "FFH",
+      "action": "Add 132.61%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 12541773,
+      "portfolio_percentage": 3.72,
+      "company_name": "Under Armour CL C"
+    },
+    {
+      "symbol": "BRSL",
+      "manager_id": "FFH",
+      "action": "Add 87.63%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 32100,
+      "portfolio_percentage": 0.02,
+      "company_name": "Brightstar Lottery"
+    },
+    {
+      "symbol": "CNI",
+      "manager_id": "FFH",
+      "action": "Add 25.25%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 5000,
+      "portfolio_percentage": 0.03,
+      "company_name": "Canadian Natl Railway Co."
+    },
+    {
+      "symbol": "CIGI",
+      "manager_id": "FFH",
+      "action": "Add 13.64%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 3000,
+      "portfolio_percentage": 0.02,
+      "company_name": "Colliers International Group Inc."
+    },
+    {
+      "symbol": "PFE",
+      "manager_id": "FFH",
+      "action": "Add 11.22%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 100000,
+      "portfolio_percentage": 0.14,
+      "company_name": "Pfizer Inc."
+    },
+    {
+      "symbol": "TAP",
+      "manager_id": "FFH",
+      "action": "Add 7.47%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 100000,
+      "portfolio_percentage": 0.22,
+      "company_name": "Molson Coors Beverage Co."
+    },
+    {
+      "symbol": "KHC",
+      "manager_id": "FFH",
+      "action": "Add 2.91%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 149200,
+      "portfolio_percentage": 0.17,
+      "company_name": "Kraft Heinz Co."
+    },
+    {
+      "symbol": "UAA",
+      "manager_id": "FFH",
+      "action": "Add 2.48%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1041949,
+      "portfolio_percentage": 0.32,
+      "company_name": "Under Armour Inc."
+    },
+    {
+      "symbol": "WEN",
+      "manager_id": "FFH",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 3268902,
+      "portfolio_percentage": 1.17,
+      "company_name": "Wendy's Co."
+    },
+    {
+      "symbol": "WBD",
+      "manager_id": "FFH",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 57900,
+      "portfolio_percentage": 0.08,
+      "company_name": "Warner Bros. Discovery Inc."
+    },
+    {
+      "symbol": "GTX",
+      "manager_id": "FFH",
+      "action": "Reduce 29.18%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 76000,
+      "portfolio_percentage": 0.07,
+      "company_name": "Garrett Motion Inc."
+    },
+    {
+      "symbol": "OXY",
+      "manager_id": "FFH",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 6050418,
+      "portfolio_percentage": 11.94,
+      "company_name": "Occidental Petroleum"
+    },
+    {
+      "symbol": "VOO",
+      "manager_id": "FFH",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 58248,
+      "portfolio_percentage": 1.75,
+      "company_name": "Vanguard S&P 500 ETF"
+    },
+    {
       "symbol": "UAA",
       "manager_id": "FFH",
       "action": "Add 564.77%",
@@ -10857,151 +11000,8 @@
       "shares": 57500,
       "portfolio_percentage": 0.08,
       "company_name": "Nexen Inc."
-    },
-    {
-      "symbol": "FSIN",
-      "manager_id": "FFH",
-      "action": "Buy",
-      "date": "Q3 2012",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 87000,
-      "portfolio_percentage": 0.04,
-      "company_name": "Fushi Copperweld Inc."
-    },
-    {
-      "symbol": "EDU",
-      "manager_id": "FFH",
-      "action": "Buy",
-      "date": "Q3 2012",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 22200,
-      "portfolio_percentage": 0.02,
-      "company_name": "New Oriental Education & Technology"
-    },
-    {
-      "symbol": "USB",
-      "manager_id": "FFH",
-      "action": "Reduce 30.03%",
-      "date": "Q3 2012",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 1335731,
-      "portfolio_percentage": 2.45,
-      "company_name": "U.S. Bancorp"
-    },
-    {
-      "symbol": "WFC",
-      "manager_id": "FFH",
-      "action": "Reduce 40.65%",
-      "date": "Q3 2012",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 1201973,
-      "portfolio_percentage": 2.23,
-      "company_name": "Wells Fargo"
-    },
-    {
-      "symbol": "USG",
-      "manager_id": "FFH",
-      "action": "Reduce 99.37%",
-      "date": "Q3 2012",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 6751200,
-      "portfolio_percentage": 7.89,
-      "company_name": "USG Corp."
-    },
-    {
-      "symbol": "INMD-OLD",
-      "manager_id": "FFH",
-      "action": "Sell 100.00%",
-      "date": "Q3 2012",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 33000,
-      "portfolio_percentage": 0.03,
-      "company_name": "Integramed America Inc."
-    },
-    {
-      "symbol": "GIG",
-      "manager_id": "FFH",
-      "action": "Sell 100.00%",
-      "date": "Q3 2012",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 84748,
-      "portfolio_percentage": 0.01,
-      "company_name": "GigOptix Inc."
-    },
-    {
-      "symbol": "JAKK",
-      "manager_id": "FFH",
-      "action": "Sell 100.00%",
-      "date": "Q3 2012",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 10301,
-      "portfolio_percentage": 0.01,
-      "company_name": "JAKKS Pacific"
-    },
-    {
-      "symbol": "TWN",
-      "manager_id": "FFH",
-      "action": "Sell 100.00%",
-      "date": "Q3 2012",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 11438,
-      "portfolio_percentage": 0.01,
-      "company_name": "Taiwan Fund"
-    },
-    {
-      "symbol": "FLG",
-      "manager_id": "FFH",
-      "action": "Add 33.33%",
-      "date": "Q2 2012",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 3333,
-      "portfolio_percentage": 0.01,
-      "company_name": "Flagstar Financial Inc."
-    },
-    {
-      "symbol": "NYT",
-      "manager_id": "FFH",
-      "action": "Add 28.57%",
-      "date": "Q2 2012",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 10000,
-      "portfolio_percentage": 0.0,
-      "company_name": "New York Times CL A"
-    },
-    {
-      "symbol": "BRK.B",
-      "manager_id": "FFH",
-      "action": "Add 5.71%",
-      "date": "Q2 2012",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 600,
-      "portfolio_percentage": 0.0,
-      "company_name": "Berkshire Hathaway CL B"
-    },
-    {
-      "symbol": "SD",
-      "manager_id": "FFH",
-      "action": "Add 0.16%",
-      "date": "Q2 2012",
-      "percentage_change": 0.0,
-      "action_type": "Add",
-      "shares": 7000,
-      "portfolio_percentage": 0.0,
-      "company_name": "SandRidge Energy Inc."
     }
   ],
-  "timestamp": "2026-05-01T06:59:17.807786",
-  "scraped_date": "2026-05-01"
+  "timestamp": "2026-06-01T07:45:15.967156",
+  "scraped_date": "2026-06-01"
 }

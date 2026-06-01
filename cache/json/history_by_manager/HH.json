@@ -2,6 +2,248 @@
   "manager_id": "HH",
   "activities": [
     {
+      "symbol": "CRDO",
+      "manager_id": "HH",
+      "action": "Add 431.63%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 609900,
+      "portfolio_percentage": 0.28,
+      "company_name": "Credo Technology Group Holdi"
+    },
+    {
+      "symbol": "DIS",
+      "manager_id": "HH",
+      "action": "Add 112.33%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 799800,
+      "portfolio_percentage": 0.39,
+      "company_name": "Walt Disney Co."
+    },
+    {
+      "symbol": "GOOG",
+      "manager_id": "HH",
+      "action": "Add 99.74%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1850600,
+      "portfolio_percentage": 2.65,
+      "company_name": "Alphabet Inc. CL C"
+    },
+    {
+      "symbol": "NVDA",
+      "manager_id": "HH",
+      "action": "Add 91.29%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 6606675,
+      "portfolio_percentage": 5.76,
+      "company_name": "NVIDIA Corp."
+    },
+    {
+      "symbol": "PDD",
+      "manager_id": "HH",
+      "action": "Add 71.18%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 8211600,
+      "portfolio_percentage": 4.2,
+      "company_name": "Pinduoduo Inc."
+    },
+    {
+      "symbol": "BRK.B",
+      "manager_id": "HH",
+      "action": "Add 27.47%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1971600,
+      "portfolio_percentage": 4.72,
+      "company_name": "Berkshire Hathaway CL B"
+    },
+    {
+      "symbol": "MSFT",
+      "manager_id": "HH",
+      "action": "Add 18.28%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 157000,
+      "portfolio_percentage": 0.29,
+      "company_name": "Microsoft Corp."
+    },
+    {
+      "symbol": "TSLA",
+      "manager_id": "HH",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 3408900,
+      "portfolio_percentage": 6.34,
+      "company_name": "Tesla Inc."
+    },
+    {
+      "symbol": "UNH",
+      "manager_id": "HH",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 601400,
+      "portfolio_percentage": 0.81,
+      "company_name": "United Health Group Inc."
+    },
+    {
+      "symbol": "CRCL",
+      "manager_id": "HH",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 200000,
+      "portfolio_percentage": 0.1,
+      "company_name": "Circle Internet Group Inc"
+    },
+    {
+      "symbol": "PLTR",
+      "manager_id": "HH",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 60000,
+      "portfolio_percentage": 0.04,
+      "company_name": "Palantir Technologies Inc."
+    },
+    {
+      "symbol": "CRWD",
+      "manager_id": "HH",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 10000,
+      "portfolio_percentage": 0.02,
+      "company_name": "CrowdStrike Holdings Inc."
+    },
+    {
+      "symbol": "SNPS",
+      "manager_id": "HH",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 10000,
+      "portfolio_percentage": 0.02,
+      "company_name": "Synopsys Inc."
+    },
+    {
+      "symbol": "SNOW",
+      "manager_id": "HH",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 10000,
+      "portfolio_percentage": 0.01,
+      "company_name": "Snowflake Inc."
+    },
+    {
+      "symbol": "INOD",
+      "manager_id": "HH",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 10000,
+      "portfolio_percentage": 0.0,
+      "company_name": "Innodata Inc."
+    },
+    {
+      "symbol": "AAPL",
+      "manager_id": "HH",
+      "action": "Reduce 10.55%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 3412900,
+      "portfolio_percentage": 4.33,
+      "company_name": "Apple Inc."
+    },
+    {
+      "symbol": "OXY",
+      "manager_id": "HH",
+      "action": "Reduce 22.10%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 2911100,
+      "portfolio_percentage": 0.94,
+      "company_name": "Occidental Petroleum"
+    },
+    {
+      "symbol": "TEM",
+      "manager_id": "HH",
+      "action": "Reduce 81.82%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 90000,
+      "portfolio_percentage": 0.0,
+      "company_name": "Tempus Ai Inc"
+    },
+    {
+      "symbol": "TSM",
+      "manager_id": "HH",
+      "action": "Reduce 87.65%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 1073184,
+      "portfolio_percentage": 1.85,
+      "company_name": "Taiwan Semiconductor S.A."
+    },
+    {
+      "symbol": "BABA",
+      "manager_id": "HH",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 2560500,
+      "portfolio_percentage": 2.15,
+      "company_name": "Alibaba Group Holdings"
+    },
+    {
+      "symbol": "CRWV",
+      "manager_id": "HH",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 299900,
+      "portfolio_percentage": 0.12,
+      "company_name": "Coreweave Inc Cl A"
+    },
+    {
+      "symbol": "ASML",
+      "manager_id": "HH",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 9900,
+      "portfolio_percentage": 0.06,
+      "company_name": "ASML Holding NV"
+    },
+    {
       "symbol": "NVDA",
       "manager_id": "HH",
       "action": "Add 1110.62%",
@@ -1223,6 +1465,6 @@
       "company_name": "Zoom Video Communications Inc."
     }
   ],
-  "timestamp": "2026-05-01T06:59:17.783399",
-  "scraped_date": "2026-05-01"
+  "timestamp": "2026-06-01T07:45:15.739440",
+  "scraped_date": "2026-06-01"
 }

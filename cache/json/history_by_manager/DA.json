@@ -2,6 +2,160 @@
   "manager_id": "DA",
   "activities": [
     {
+      "symbol": "BKNG",
+      "manager_id": "DA",
+      "action": "Add 0.78%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 3175,
+      "portfolio_percentage": 0.04,
+      "company_name": "Booking Holdings Inc."
+    },
+    {
+      "symbol": "LYV",
+      "manager_id": "DA",
+      "action": "Add 0.77%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 4636,
+      "portfolio_percentage": 0.06,
+      "company_name": "Live Nation Inc."
+    },
+    {
+      "symbol": "META",
+      "manager_id": "DA",
+      "action": "Add 0.77%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1233,
+      "portfolio_percentage": 0.06,
+      "company_name": "Meta Platforms Inc."
+    },
+    {
+      "symbol": "RPRX",
+      "manager_id": "DA",
+      "action": "Add 0.76%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 17101,
+      "portfolio_percentage": 0.07,
+      "company_name": "Royalty Pharma plc"
+    },
+    {
+      "symbol": "SUNB",
+      "manager_id": "DA",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 2204996,
+      "portfolio_percentage": 11.43,
+      "company_name": "Sunbelt Rentals Holdings Inc"
+    },
+    {
+      "symbol": "APP",
+      "manager_id": "DA",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 316952,
+      "portfolio_percentage": 10.04,
+      "company_name": "Applovin Corp."
+    },
+    {
+      "symbol": "SPGI",
+      "manager_id": "DA",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 222683,
+      "portfolio_percentage": 7.54,
+      "company_name": "S&P Global Inc."
+    },
+    {
+      "symbol": "UBER",
+      "manager_id": "DA",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 1090281,
+      "portfolio_percentage": 6.24,
+      "company_name": "Uber Technologies Inc."
+    },
+    {
+      "symbol": "AER",
+      "manager_id": "DA",
+      "action": "Reduce 7.54%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 91570,
+      "portfolio_percentage": 1.0,
+      "company_name": "AerCap Holdings N.V."
+    },
+    {
+      "symbol": "ASML",
+      "manager_id": "DA",
+      "action": "Reduce 27.06%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 52048,
+      "portfolio_percentage": 5.48,
+      "company_name": "ASML Holding NV"
+    },
+    {
+      "symbol": "DHR",
+      "manager_id": "DA",
+      "action": "Reduce 29.88%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 247280,
+      "portfolio_percentage": 3.73,
+      "company_name": "Danaher Corp."
+    },
+    {
+      "symbol": "AZO",
+      "manager_id": "DA",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 25121,
+      "portfolio_percentage": 7.41,
+      "company_name": "AutoZone Inc."
+    },
+    {
+      "symbol": "GOOG",
+      "manager_id": "DA",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 216906,
+      "portfolio_percentage": 5.92,
+      "company_name": "Alphabet Inc. CL C"
+    },
+    {
+      "symbol": "ENOV",
+      "manager_id": "DA",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 2279200,
+      "portfolio_percentage": 5.28,
+      "company_name": "Enovis Corp."
+    },
+    {
       "symbol": "ASML",
       "manager_id": "DA",
       "action": "Add 11.04%",
@@ -4160,6 +4314,6 @@
       "company_name": "Roper Technologies Inc."
     }
   ],
-  "timestamp": "2026-05-01T06:59:17.793324",
-  "scraped_date": "2026-05-01"
+  "timestamp": "2026-06-01T07:45:15.942991",
+  "scraped_date": "2026-06-01"
 }

@@ -79,7 +79,7 @@
       "company_name": "Petroleo Brasil Sp Pref  ADR"
     },
     {
-      "symbol": "AMWD",
+      "symbol": "AMWD-OLD",
       "manager_id": "PIM",
       "action": "Add 42.89%",
       "date": "Q1 2026",
@@ -2466,7 +2466,7 @@
       "company_name": "Elevance Health Inc."
     },
     {
-      "symbol": "AMWD",
+      "symbol": "AMWD-OLD",
       "manager_id": "PIM",
       "action": "Reduce 0.22%",
       "date": "Q4 2025",
@@ -4039,7 +4039,7 @@
       "company_name": "Bristol-Myers Squibb"
     },
     {
-      "symbol": "AMWD",
+      "symbol": "AMWD-OLD",
       "manager_id": "PIM",
       "action": "Add 0.38%",
       "date": "Q3 2025",
@@ -5194,7 +5194,7 @@
       "company_name": "Orion SA"
     },
     {
-      "symbol": "AMWD",
+      "symbol": "AMWD-OLD",
       "manager_id": "PIM",
       "action": "Add 36.60%",
       "date": "Q2 2025",
@@ -6690,7 +6690,7 @@
       "company_name": "Corebridge Financial Inc."
     },
     {
-      "symbol": "AMWD",
+      "symbol": "AMWD-OLD",
       "manager_id": "PIM",
       "action": "Add 71.74%",
       "date": "Q1 2025",
@@ -8736,7 +8736,7 @@
       "company_name": "Spectrum Brands Holdings Inc."
     },
     {
-      "symbol": "AMWD",
+      "symbol": "AMWD-OLD",
       "manager_id": "PIM",
       "action": "Add 1.23%",
       "date": "Q4 2024",
@@ -10067,7 +10067,7 @@
       "company_name": "ABM Industries"
     },
     {
-      "symbol": "AMWD",
+      "symbol": "AMWD-OLD",
       "manager_id": "PIM",
       "action": "Add 59.11%",
       "date": "Q3 2024",
@@ -11002,6 +11002,6 @@
       "company_name": "HSBC Holdings plc"
     }
   ],
-  "timestamp": "2026-05-01T06:59:17.559196",
-  "scraped_date": "2026-05-01"
+  "timestamp": "2026-06-01T07:45:16.213327",
+  "scraped_date": "2026-06-01"
 }

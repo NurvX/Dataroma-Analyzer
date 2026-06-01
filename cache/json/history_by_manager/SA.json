@@ -2,6 +2,336 @@
   "manager_id": "SA",
   "activities": [
     {
+      "symbol": "ALK",
+      "manager_id": "SA",
+      "action": "Add 314.16%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 1285780,
+      "portfolio_percentage": 5.65,
+      "company_name": "Alaska Air Group"
+    },
+    {
+      "symbol": "SGOV",
+      "manager_id": "SA",
+      "action": "Add 180.03%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 6375,
+      "portfolio_percentage": 0.08,
+      "company_name": "Ishares 0 3 Month Treasury B"
+    },
+    {
+      "symbol": "DIS",
+      "manager_id": "SA",
+      "action": "Add 4.67%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 6801,
+      "portfolio_percentage": 0.08,
+      "company_name": "Walt Disney Co."
+    },
+    {
+      "symbol": "OLN",
+      "manager_id": "SA",
+      "action": "Add 4.42%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 85879,
+      "portfolio_percentage": 0.31,
+      "company_name": "Olin Corp."
+    },
+    {
+      "symbol": "SBUX",
+      "manager_id": "SA",
+      "action": "Add 4.07%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 9830,
+      "portfolio_percentage": 0.11,
+      "company_name": "Starbucks Corp."
+    },
+    {
+      "symbol": "DECK",
+      "manager_id": "SA",
+      "action": "Add 3.33%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 21331,
+      "portfolio_percentage": 0.25,
+      "company_name": "Deckers Outdoor"
+    },
+    {
+      "symbol": "BRK.B",
+      "manager_id": "SA",
+      "action": "Add 1.53%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 3814,
+      "portfolio_percentage": 0.22,
+      "company_name": "Berkshire Hathaway CL B"
+    },
+    {
+      "symbol": "DINO",
+      "manager_id": "SA",
+      "action": "Add 0.60%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 2151,
+      "portfolio_percentage": 0.02,
+      "company_name": "HF Sinclair Corp."
+    },
+    {
+      "symbol": "MRK",
+      "manager_id": "SA",
+      "action": "Add 0.43%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 190,
+      "portfolio_percentage": 0.0,
+      "company_name": "Merck & Co."
+    },
+    {
+      "symbol": "DLTR",
+      "manager_id": "SA",
+      "action": "Add 0.16%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Add",
+      "shares": 825,
+      "portfolio_percentage": 0.01,
+      "company_name": "Dollar Tree Inc."
+    },
+    {
+      "symbol": "BLDR",
+      "manager_id": "SA",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 228210,
+      "portfolio_percentage": 2.24,
+      "company_name": "Builders FirstSource Inc."
+    },
+    {
+      "symbol": "GOOG",
+      "manager_id": "SA",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 2432,
+      "portfolio_percentage": 0.08,
+      "company_name": "Alphabet Inc. CL C"
+    },
+    {
+      "symbol": "MA",
+      "manager_id": "SA",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 658,
+      "portfolio_percentage": 0.04,
+      "company_name": "Mastercard Inc."
+    },
+    {
+      "symbol": "NFLX",
+      "manager_id": "SA",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 2980,
+      "portfolio_percentage": 0.03,
+      "company_name": "Netflix Inc."
+    },
+    {
+      "symbol": "PM",
+      "manager_id": "SA",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 1762,
+      "portfolio_percentage": 0.03,
+      "company_name": "Philip Morris Intl."
+    },
+    {
+      "symbol": "PSX",
+      "manager_id": "SA",
+      "action": "Buy",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 1472,
+      "portfolio_percentage": 0.03,
+      "company_name": "Phillips 66"
+    },
+    {
+      "symbol": "XOM",
+      "manager_id": "SA",
+      "action": "Reduce 0.07%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 39,
+      "portfolio_percentage": 0.0,
+      "company_name": "Exxon Mobil Corp."
+    },
+    {
+      "symbol": "AXP",
+      "manager_id": "SA",
+      "action": "Reduce 0.15%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 5,
+      "portfolio_percentage": 0.0,
+      "company_name": "American Express"
+    },
+    {
+      "symbol": "CMI",
+      "manager_id": "SA",
+      "action": "Reduce 0.61%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 244,
+      "portfolio_percentage": 0.02,
+      "company_name": "Cummins Inc."
+    },
+    {
+      "symbol": "PSKY",
+      "manager_id": "SA",
+      "action": "Reduce 0.96%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 6354,
+      "portfolio_percentage": 0.01,
+      "company_name": "Paramount Skydance Corp."
+    },
+    {
+      "symbol": "NXPI",
+      "manager_id": "SA",
+      "action": "Reduce 2.27%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 302,
+      "portfolio_percentage": 0.01,
+      "company_name": "NXP Semiconductors NV"
+    },
+    {
+      "symbol": "COST",
+      "manager_id": "SA",
+      "action": "Reduce 2.32%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 80,
+      "portfolio_percentage": 0.01,
+      "company_name": "Costco Co."
+    },
+    {
+      "symbol": "CVX",
+      "manager_id": "SA",
+      "action": "Reduce 5.10%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 326,
+      "portfolio_percentage": 0.01,
+      "company_name": "Chevron Corp."
+    },
+    {
+      "symbol": "FIVE",
+      "manager_id": "SA",
+      "action": "Reduce 27.36%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 72568,
+      "portfolio_percentage": 1.98,
+      "company_name": "Five Below Inc."
+    },
+    {
+      "symbol": "NEM",
+      "manager_id": "SA",
+      "action": "Reduce 27.76%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 184101,
+      "portfolio_percentage": 2.38,
+      "company_name": "Newmont Corp."
+    },
+    {
+      "symbol": "KGC",
+      "manager_id": "SA",
+      "action": "Reduce 28.59%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 603992,
+      "portfolio_percentage": 2.2,
+      "company_name": "Kinross Gold Corp."
+    },
+    {
+      "symbol": "DG",
+      "manager_id": "SA",
+      "action": "Reduce 29.99%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 277728,
+      "portfolio_percentage": 3.94,
+      "company_name": "Dollar General"
+    },
+    {
+      "symbol": "EQNR",
+      "manager_id": "SA",
+      "action": "Reduce 70.60%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 422431,
+      "portfolio_percentage": 2.14,
+      "company_name": "Equinor ASA"
+    },
+    {
+      "symbol": "VLO",
+      "manager_id": "SA",
+      "action": "Reduce 77.82%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 154602,
+      "portfolio_percentage": 4.56,
+      "company_name": "Valero Energy"
+    },
+    {
+      "symbol": "OVV",
+      "manager_id": "SA",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 16487,
+      "portfolio_percentage": 0.07,
+      "company_name": "Ovintiv Inc."
+    },
+    {
       "symbol": "DECK",
       "manager_id": "SA",
       "action": "Add 70.66%",
@@ -8010,6 +8340,6 @@
       "company_name": "Sanofi Aventis"
     }
   ],
-  "timestamp": "2026-05-01T06:59:17.660145",
-  "scraped_date": "2026-05-01"
+  "timestamp": "2026-06-01T07:45:15.815333",
+  "scraped_date": "2026-06-01"
 }
