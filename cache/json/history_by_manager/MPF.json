@@ -2114,7 +2114,7 @@
       "company_name": "MGP Ingredients Inc."
     },
     {
-      "symbol": "CWAN",
+      "symbol": "CWAN-OLD",
       "manager_id": "MPF",
       "action": "Sell 100.00%",
       "date": "Q1 2026",
@@ -3269,7 +3269,7 @@
       "company_name": "Emerson Electric"
     },
     {
-      "symbol": "CWAN",
+      "symbol": "CWAN-OLD",
       "manager_id": "MPF",
       "action": "Reduce 1.87%",
       "date": "Q4 2025",
@@ -5271,7 +5271,7 @@
       "company_name": "Philip Morris Intl."
     },
     {
-      "symbol": "CWAN",
+      "symbol": "CWAN-OLD",
       "manager_id": "MPF",
       "action": "Add 0.14%",
       "date": "Q3 2025",
@@ -7977,7 +7977,7 @@
       "company_name": "Eli Lilly & Co."
     },
     {
-      "symbol": "CWAN",
+      "symbol": "CWAN-OLD",
       "manager_id": "MPF",
       "action": "Add 0.14%",
       "date": "Q2 2025",
@@ -9259,7 +9259,7 @@
       "date": "Q2 2025",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 10081,
+      "shares": 3361,
       "portfolio_percentage": 0.01,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -9363,7 +9363,7 @@
       "company_name": "Kraft Heinz Co."
     },
     {
-      "symbol": "CWAN",
+      "symbol": "CWAN-OLD",
       "manager_id": "MPF",
       "action": "Add 59.77%",
       "date": "Q1 2025",
@@ -10612,7 +10612,7 @@
       "date": "Q1 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 618,
+      "shares": 206,
       "portfolio_percentage": 0.0,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -11002,6 +11002,6 @@
       "company_name": "Oshkosh Corp."
     }
   ],
-  "timestamp": "2026-06-01T07:45:16.082379",
-  "scraped_date": "2026-06-01"
+  "timestamp": "2026-07-01T07:32:14.213392",
+  "scraped_date": "2026-07-01"
 }

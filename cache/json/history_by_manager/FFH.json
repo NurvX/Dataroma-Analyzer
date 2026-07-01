@@ -7130,7 +7130,7 @@
       "company_name": "Carbo Ceramics"
     },
     {
-      "symbol": "KW",
+      "symbol": "KW-OLD",
       "manager_id": "FFH",
       "action": "Add 8.12%",
       "date": "Q1 2018",
@@ -8175,7 +8175,7 @@
       "company_name": "Johnson & Johnson"
     },
     {
-      "symbol": "KW",
+      "symbol": "KW-OLD",
       "manager_id": "FFH",
       "action": "Add 37.60%",
       "date": "Q4 2016",
@@ -8725,7 +8725,7 @@
       "company_name": "EXCO Resources Inc."
     },
     {
-      "symbol": "KW",
+      "symbol": "KW-OLD",
       "manager_id": "FFH",
       "action": "Add 0.00%",
       "date": "Q4 2015",
@@ -9132,7 +9132,7 @@
       "company_name": "Yodlee Inc."
     },
     {
-      "symbol": "KW",
+      "symbol": "KW-OLD",
       "manager_id": "FFH",
       "action": "Reduce 0.00%",
       "date": "Q3 2015",
@@ -9275,7 +9275,7 @@
       "company_name": "NewMarket Corp."
     },
     {
-      "symbol": "KW",
+      "symbol": "KW-OLD",
       "manager_id": "FFH",
       "action": "Add 2138.74%",
       "date": "Q2 2015",
@@ -11002,6 +11002,6 @@
       "company_name": "Nexen Inc."
     }
   ],
-  "timestamp": "2026-06-01T07:45:15.967156",
-  "scraped_date": "2026-06-01"
+  "timestamp": "2026-07-01T07:32:14.100963",
+  "scraped_date": "2026-07-01"
 }

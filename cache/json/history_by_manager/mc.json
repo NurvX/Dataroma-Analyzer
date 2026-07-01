@@ -288,7 +288,7 @@
       "company_name": "Newamsterdam Pharma Co Nv"
     },
     {
-      "symbol": "CNTA",
+      "symbol": "CNTA-OLD",
       "manager_id": "mc",
       "action": "Add 12.82%",
       "date": "Q1 2026",
@@ -4193,7 +4193,7 @@
       "company_name": "Centuri Holdings Inc"
     },
     {
-      "symbol": "CNTA",
+      "symbol": "CNTA-OLD",
       "manager_id": "mc",
       "action": "Buy",
       "date": "Q4 2025",
@@ -6063,7 +6063,7 @@
       "company_name": "Tractor Supply"
     },
     {
-      "symbol": "VSCO",
+      "symbol": "VSXY",
       "manager_id": "mc",
       "action": "Sell 100.00%",
       "date": "Q4 2025",
@@ -7669,7 +7669,7 @@
       "company_name": "QuidelOrtho Corp."
     },
     {
-      "symbol": "VSCO",
+      "symbol": "VSXY",
       "manager_id": "mc",
       "action": "Buy",
       "date": "Q3 2025",
@@ -8824,17 +8824,6 @@
       "company_name": "Progressive Corp."
     },
     {
-      "symbol": "SCVL",
-      "manager_id": "mc",
-      "action": "Sell 100.00%",
-      "date": "Q3 2025",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 101599,
-      "portfolio_percentage": 0.03,
-      "company_name": "Shoe Carnival Inc."
-    },
-    {
       "symbol": "SEZL",
       "manager_id": "mc",
       "action": "Sell 100.00%",
@@ -8855,6 +8844,17 @@
       "shares": 10419,
       "portfolio_percentage": 0.03,
       "company_name": "Sprouts Farmers Market Inc."
+    },
+    {
+      "symbol": "SHOE",
+      "manager_id": "mc",
+      "action": "Sell 100.00%",
+      "date": "Q3 2025",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 101599,
+      "portfolio_percentage": 0.03,
+      "company_name": "Shoe Carnival Inc."
     },
     {
       "symbol": "UAA",
@@ -10980,17 +10980,6 @@
       "company_name": "RealReal Inc."
     },
     {
-      "symbol": "SCVL",
-      "manager_id": "mc",
-      "action": "Buy",
-      "date": "Q2 2025",
-      "percentage_change": 0.0,
-      "action_type": "Buy",
-      "shares": 101599,
-      "portfolio_percentage": 0.03,
-      "company_name": "Shoe Carnival Inc."
-    },
-    {
       "symbol": "SEZL",
       "manager_id": "mc",
       "action": "Buy",
@@ -11000,8 +10989,19 @@
       "shares": 10399,
       "portfolio_percentage": 0.03,
       "company_name": "Sezzle Inc"
+    },
+    {
+      "symbol": "SHOE",
+      "manager_id": "mc",
+      "action": "Buy",
+      "date": "Q2 2025",
+      "percentage_change": 0.0,
+      "action_type": "Buy",
+      "shares": 101599,
+      "portfolio_percentage": 0.03,
+      "company_name": "Shoe Carnival Inc."
     }
   ],
-  "timestamp": "2026-06-01T07:45:15.744307",
-  "scraped_date": "2026-06-01"
+  "timestamp": "2026-07-01T07:32:13.878592",
+  "scraped_date": "2026-07-01"
 }

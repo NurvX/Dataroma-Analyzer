@@ -745,7 +745,7 @@
       "date": "Q1 2026",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 2191,
+      "shares": 21910,
       "portfolio_percentage": 0.51,
       "company_name": "KLA Corp."
     },
@@ -1526,7 +1526,7 @@
       "date": "Q4 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 463,
+      "shares": 4630,
       "portfolio_percentage": 0.09,
       "company_name": "KLA Corp."
     },
@@ -2527,7 +2527,7 @@
       "date": "Q3 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 327,
+      "shares": 3270,
       "portfolio_percentage": 0.05,
       "company_name": "KLA Corp."
     },
@@ -3484,7 +3484,7 @@
       "date": "Q2 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 453,
+      "shares": 4530,
       "portfolio_percentage": 0.06,
       "company_name": "KLA Corp."
     },
@@ -4375,7 +4375,7 @@
       "date": "Q1 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 99,
+      "shares": 990,
       "portfolio_percentage": 0.01,
       "company_name": "KLA Corp."
     },
@@ -5013,7 +5013,7 @@
       "date": "Q4 2024",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 170,
+      "shares": 1700,
       "portfolio_percentage": 0.02,
       "company_name": "KLA Corp."
     },
@@ -6564,7 +6564,7 @@
       "date": "Q3 2024",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 54,
+      "shares": 540,
       "portfolio_percentage": 0.01,
       "company_name": "KLA Corp."
     },
@@ -7752,7 +7752,7 @@
       "date": "Q2 2024",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 2199,
+      "shares": 21990,
       "portfolio_percentage": 0.27,
       "company_name": "KLA Corp."
     },
@@ -8467,7 +8467,7 @@
       "date": "Q1 2024",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 318,
+      "shares": 3180,
       "portfolio_percentage": 0.03,
       "company_name": "KLA Corp."
     },
@@ -9391,7 +9391,7 @@
       "date": "Q4 2023",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 14,
+      "shares": 140,
       "portfolio_percentage": 0.0,
       "company_name": "KLA Corp."
     },
@@ -10513,7 +10513,7 @@
       "date": "Q3 2023",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 488,
+      "shares": 4880,
       "portfolio_percentage": 0.04,
       "company_name": "KLA Corp."
     },
@@ -11002,6 +11002,6 @@
       "company_name": "Sapiens International Corp"
     }
   ],
-  "timestamp": "2026-06-01T07:45:16.189810",
-  "scraped_date": "2026-06-01"
+  "timestamp": "2026-07-01T07:32:14.321468",
+  "scraped_date": "2026-07-01"
 }

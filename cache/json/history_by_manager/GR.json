@@ -4991,7 +4991,7 @@
       "date": "Q3 2024",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 15555,
+      "shares": 5185,
       "portfolio_percentage": 0.01,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -5156,7 +5156,7 @@
       "date": "Q2 2024",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 73,
+      "shares": 24,
       "portfolio_percentage": 0.0,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -6311,7 +6311,7 @@
       "date": "Q1 2024",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 2717,
+      "shares": 906,
       "portfolio_percentage": 0.0,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -6652,7 +6652,7 @@
       "date": "Q4 2023",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 92,
+      "shares": 30,
       "portfolio_percentage": 0.0,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -7323,7 +7323,7 @@
       "date": "Q3 2023",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 81,
+      "shares": 27,
       "portfolio_percentage": 0.0,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -8148,7 +8148,7 @@
       "date": "Q2 2023",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 97,
+      "shares": 32,
       "portfolio_percentage": 0.0,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -8808,7 +8808,7 @@
       "date": "Q1 2023",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 93,
+      "shares": 31,
       "portfolio_percentage": 0.0,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -9490,7 +9490,7 @@
       "date": "Q4 2022",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 82,
+      "shares": 27,
       "portfolio_percentage": 0.0,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -10172,7 +10172,7 @@
       "date": "Q3 2022",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 101,
+      "shares": 33,
       "portfolio_percentage": 0.0,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -10865,7 +10865,7 @@
       "date": "Q2 2022",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 94,
+      "shares": 31,
       "portfolio_percentage": 0.0,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -11002,6 +11002,6 @@
       "company_name": "Compagnie Financiere Richemont WTS 23"
     }
   ],
-  "timestamp": "2026-06-01T07:45:16.109708",
-  "scraped_date": "2026-06-01"
+  "timestamp": "2026-07-01T07:32:14.240773",
+  "scraped_date": "2026-07-01"
 }

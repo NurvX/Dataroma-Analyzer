@@ -7658,7 +7658,7 @@
       "company_name": "Mueller Water Products CL B"
     },
     {
-      "symbol": "SATS",
+      "symbol": "ECHO",
       "manager_id": "fairx",
       "action": "Sell 100.00%",
       "date": "Q1 2009",
@@ -7911,7 +7911,7 @@
       "company_name": "Dish Network Corp."
     },
     {
-      "symbol": "SATS",
+      "symbol": "ECHO",
       "manager_id": "fairx",
       "action": "Reduce 88.91%",
       "date": "Q4 2008",
@@ -8120,7 +8120,7 @@
       "company_name": "IDT Corp. CL B"
     },
     {
-      "symbol": "SATS",
+      "symbol": "ECHO",
       "manager_id": "fairx",
       "action": "Reduce 11.82%",
       "date": "Q3 2008",
@@ -8285,7 +8285,7 @@
       "company_name": "Mohawk Industries"
     },
     {
-      "symbol": "SATS",
+      "symbol": "ECHO",
       "manager_id": "fairx",
       "action": "Add 4.08%",
       "date": "Q2 2008",
@@ -8494,7 +8494,7 @@
       "company_name": "Sears Holdings Corp."
     },
     {
-      "symbol": "SATS",
+      "symbol": "ECHO",
       "manager_id": "fairx",
       "action": "Add 76.03%",
       "date": "Q1 2008",
@@ -9352,6 +9352,6 @@
       "company_name": "Duke Energy"
     }
   ],
-  "timestamp": "2026-06-01T07:45:15.781677",
-  "scraped_date": "2026-06-01"
+  "timestamp": "2026-07-01T07:32:13.916044",
+  "scraped_date": "2026-07-01"
 }

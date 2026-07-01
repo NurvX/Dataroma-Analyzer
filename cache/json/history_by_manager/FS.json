@@ -4083,7 +4083,7 @@
       "company_name": "Estee Lauder Cos."
     },
     {
-      "symbol": "MASI",
+      "symbol": "MASI-OLD",
       "manager_id": "FS",
       "action": "Sell 100.00%",
       "date": "Q3 2023",
@@ -4380,7 +4380,7 @@
       "company_name": "Philip Morris Intl."
     },
     {
-      "symbol": "MASI",
+      "symbol": "MASI-OLD",
       "manager_id": "FS",
       "action": "Reduce 4.44%",
       "date": "Q2 2023",
@@ -4919,7 +4919,7 @@
       "company_name": "IPG Photonics Corp."
     },
     {
-      "symbol": "MASI",
+      "symbol": "MASI-OLD",
       "manager_id": "FS",
       "action": "Reduce 0.11%",
       "date": "Q4 2022",
@@ -5249,7 +5249,7 @@
       "company_name": "Fortinet Inc."
     },
     {
-      "symbol": "MASI",
+      "symbol": "MASI-OLD",
       "manager_id": "FS",
       "action": "Add 1.17%",
       "date": "Q3 2022",
@@ -5931,7 +5931,7 @@
       "company_name": "Meta Platforms Inc."
     },
     {
-      "symbol": "MASI",
+      "symbol": "MASI-OLD",
       "manager_id": "FS",
       "action": "Reduce 0.63%",
       "date": "Q2 2022",
@@ -6107,7 +6107,7 @@
       "company_name": "Starbucks Corp."
     },
     {
-      "symbol": "MASI",
+      "symbol": "MASI-OLD",
       "manager_id": "FS",
       "action": "Add 74.59%",
       "date": "Q1 2022",
@@ -6899,7 +6899,7 @@
       "company_name": "Fortinet Inc."
     },
     {
-      "symbol": "MASI",
+      "symbol": "MASI-OLD",
       "manager_id": "FS",
       "action": "Add 0.21%",
       "date": "Q4 2021",
@@ -7207,7 +7207,7 @@
       "company_name": "Equifax Inc."
     },
     {
-      "symbol": "MASI",
+      "symbol": "MASI-OLD",
       "manager_id": "FS",
       "action": "Add 0.36%",
       "date": "Q3 2021",
@@ -7669,7 +7669,7 @@
       "company_name": "IPG Photonics Corp."
     },
     {
-      "symbol": "MASI",
+      "symbol": "MASI-OLD",
       "manager_id": "FS",
       "action": "Add 0.55%",
       "date": "Q2 2021",
@@ -8153,7 +8153,7 @@
       "company_name": "IPG Photonics Corp."
     },
     {
-      "symbol": "MASI",
+      "symbol": "MASI-OLD",
       "manager_id": "FS",
       "action": "Add 0.42%",
       "date": "Q1 2021",
@@ -8571,7 +8571,7 @@
       "company_name": "Becton Dickinson"
     },
     {
-      "symbol": "MASI",
+      "symbol": "MASI-OLD",
       "manager_id": "FS",
       "action": "Add 0.08%",
       "date": "Q4 2020",
@@ -9385,7 +9385,7 @@
       "company_name": "PayPal Holdings Inc."
     },
     {
-      "symbol": "MASI",
+      "symbol": "MASI-OLD",
       "manager_id": "FS",
       "action": "Reduce 9.87%",
       "date": "Q2 2020",
@@ -9781,7 +9781,7 @@
       "company_name": "Equifax Inc."
     },
     {
-      "symbol": "MASI",
+      "symbol": "MASI-OLD",
       "manager_id": "FS",
       "action": "Reduce 17.24%",
       "date": "Q1 2020",
@@ -10441,7 +10441,7 @@
       "company_name": "Johnson & Johnson"
     },
     {
-      "symbol": "MASI",
+      "symbol": "MASI-OLD",
       "manager_id": "FS",
       "action": "Add 17.18%",
       "date": "Q2 2019",
@@ -10815,7 +10815,7 @@
       "company_name": "Meta Platforms Inc."
     },
     {
-      "symbol": "MASI",
+      "symbol": "MASI-OLD",
       "manager_id": "FS",
       "action": "Add 2.36%",
       "date": "Q1 2019",
@@ -11002,6 +11002,6 @@
       "company_name": "Intuit Inc."
     }
   ],
-  "timestamp": "2026-06-01T07:45:15.957623",
-  "scraped_date": "2026-06-01"
+  "timestamp": "2026-07-01T07:32:14.091428",
+  "scraped_date": "2026-07-01"
 }

@@ -1014,7 +1014,7 @@
       "company_name": "Floor & Decor Holdings"
     },
     {
-      "symbol": "MASI",
+      "symbol": "MASI-OLD",
       "manager_id": "DCP",
       "action": "Sell 100.00%",
       "date": "Q4 2025",
@@ -1531,7 +1531,7 @@
       "company_name": "HubSpot Inc."
     },
     {
-      "symbol": "MASI",
+      "symbol": "MASI-OLD",
       "manager_id": "DCP",
       "action": "Reduce 46.68%",
       "date": "Q3 2025",
@@ -1861,7 +1861,7 @@
       "company_name": "Entegris Inc."
     },
     {
-      "symbol": "MASI",
+      "symbol": "MASI-OLD",
       "manager_id": "DCP",
       "action": "Add 3.40%",
       "date": "Q2 2025",
@@ -2411,7 +2411,7 @@
       "company_name": "Acuity Brands Inc."
     },
     {
-      "symbol": "MASI",
+      "symbol": "MASI-OLD",
       "manager_id": "DCP",
       "action": "Buy",
       "date": "Q1 2025",
@@ -4622,7 +4622,7 @@
       "company_name": "DoorDash Inc."
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "DCP",
       "action": "Sell 100.00%",
       "date": "Q2 2024",
@@ -4630,7 +4630,7 @@
       "action_type": "Sell",
       "shares": 601567,
       "portfolio_percentage": 0.25,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "IWM",
@@ -5161,7 +5161,7 @@
       "company_name": "Gartner Inc."
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "DCP",
       "action": "Reduce 52.41%",
       "date": "Q1 2024",
@@ -5169,7 +5169,7 @@
       "action_type": "Reduce",
       "shares": 662516,
       "portfolio_percentage": 0.28,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "AGL",
@@ -5227,7 +5227,7 @@
       "company_name": "Guidewire Software Inc."
     },
     {
-      "symbol": "CWAN",
+      "symbol": "CWAN-OLD",
       "manager_id": "DCP",
       "action": "Sell 100.00%",
       "date": "Q1 2024",
@@ -5304,7 +5304,7 @@
       "company_name": "SS&C Technologies Holdings Inc."
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "DCP",
       "action": "Add 42.44%",
       "date": "Q4 2023",
@@ -5312,7 +5312,7 @@
       "action_type": "Add",
       "shares": 376645,
       "portfolio_percentage": 0.15,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "ODFL",
@@ -5755,7 +5755,7 @@
       "company_name": "Agilon Health Inc"
     },
     {
-      "symbol": "CWAN",
+      "symbol": "CWAN-OLD",
       "manager_id": "DCP",
       "action": "Reduce 87.46%",
       "date": "Q4 2023",
@@ -6173,7 +6173,7 @@
       "company_name": "Firstservice Corp"
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "DCP",
       "action": "Reduce 10.58%",
       "date": "Q3 2023",
@@ -6181,7 +6181,7 @@
       "action_type": "Reduce",
       "shares": 105055,
       "portfolio_percentage": 0.05,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "MSCI",
@@ -6206,7 +6206,7 @@
       "company_name": "Goosehead Insurance Inc."
     },
     {
-      "symbol": "CWAN",
+      "symbol": "CWAN-OLD",
       "manager_id": "DCP",
       "action": "Reduce 17.12%",
       "date": "Q3 2023",
@@ -6404,7 +6404,7 @@
       "company_name": "Bright Horizons Family Solutions Inc."
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "DCP",
       "action": "Add 47.98%",
       "date": "Q2 2023",
@@ -6412,7 +6412,7 @@
       "action_type": "Add",
       "shares": 321815,
       "portfolio_percentage": 0.18,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "JBHT",
@@ -6679,7 +6679,7 @@
       "company_name": "Warby Parker Inc."
     },
     {
-      "symbol": "CWAN",
+      "symbol": "CWAN-OLD",
       "manager_id": "DCP",
       "action": "Reduce 13.16%",
       "date": "Q2 2023",
@@ -6888,6 +6888,6 @@
       "company_name": "Upwork Inc."
     }
   ],
-  "timestamp": "2026-06-01T07:45:15.809386",
-  "scraped_date": "2026-06-01"
+  "timestamp": "2026-07-01T07:32:13.943810",
+  "scraped_date": "2026-07-01"
 }

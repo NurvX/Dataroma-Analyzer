@@ -24,7 +24,7 @@
       "company_name": "SandRidge Energy Inc."
     },
     {
-      "symbol": "SATS",
+      "symbol": "ECHO",
       "manager_id": "ic",
       "action": "Reduce 58.13%",
       "date": "Q1 2026",
@@ -101,7 +101,7 @@
       "company_name": "International Flavors & Fragrances Inc."
     },
     {
-      "symbol": "SATS",
+      "symbol": "ECHO",
       "manager_id": "ic",
       "action": "Reduce 22.96%",
       "date": "Q4 2025",
@@ -156,7 +156,7 @@
       "company_name": "SandRidge Energy Inc."
     },
     {
-      "symbol": "SATS",
+      "symbol": "ECHO",
       "manager_id": "ic",
       "action": "Buy",
       "date": "Q3 2025",
@@ -3610,6 +3610,6 @@
       "company_name": "WebMD Health Corp."
     }
   ],
-  "timestamp": "2026-06-01T07:45:15.778505",
-  "scraped_date": "2026-06-01"
+  "timestamp": "2026-07-01T07:32:13.912879",
+  "scraped_date": "2026-07-01"
 }

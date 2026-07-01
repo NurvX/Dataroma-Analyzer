@@ -1256,7 +1256,7 @@
       "company_name": "Ishares S&P  Small Cap 600 Va"
     },
     {
-      "symbol": "KW",
+      "symbol": "KW-OLD",
       "manager_id": "VAN",
       "action": "Sell 100.00%",
       "date": "Q1 2026",
@@ -2411,7 +2411,7 @@
       "company_name": "Alphabet Inc. CL C"
     },
     {
-      "symbol": "KW",
+      "symbol": "KW-OLD",
       "manager_id": "VAN",
       "action": "Reduce 8.16%",
       "date": "Q4 2025",
@@ -2664,7 +2664,7 @@
       "company_name": "Columbus McKinnon Corp."
     },
     {
-      "symbol": "KW",
+      "symbol": "KW-OLD",
       "manager_id": "VAN",
       "action": "Add 21.87%",
       "date": "Q3 2025",
@@ -3753,7 +3753,7 @@
       "company_name": "Arch Capital Group Ltd."
     },
     {
-      "symbol": "KW",
+      "symbol": "KW-OLD",
       "manager_id": "VAN",
       "action": "Add 27.04%",
       "date": "Q2 2025",
@@ -4787,7 +4787,7 @@
       "company_name": "Sensata Technologies Holding"
     },
     {
-      "symbol": "KW",
+      "symbol": "KW-OLD",
       "manager_id": "VAN",
       "action": "Add 23.85%",
       "date": "Q1 2025",
@@ -6514,7 +6514,7 @@
       "company_name": "Bank of America Corp."
     },
     {
-      "symbol": "KW",
+      "symbol": "KW-OLD",
       "manager_id": "VAN",
       "action": "Reduce 3.71%",
       "date": "Q4 2024",
@@ -7042,7 +7042,7 @@
       "company_name": "AZZ Inc."
     },
     {
-      "symbol": "KW",
+      "symbol": "KW-OLD",
       "manager_id": "VAN",
       "action": "Reduce 0.75%",
       "date": "Q3 2024",
@@ -7746,6 +7746,6 @@
       "company_name": "Cencora Inc."
     }
   ],
-  "timestamp": "2026-06-01T07:45:15.925359",
-  "scraped_date": "2026-06-01"
+  "timestamp": "2026-07-01T07:32:14.059494",
+  "scraped_date": "2026-07-01"
 }

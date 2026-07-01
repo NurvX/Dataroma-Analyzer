@@ -1498,7 +1498,7 @@
       "company_name": "Sharkninja Inc"
     },
     {
-      "symbol": "THR",
+      "symbol": "THR-OLD",
       "manager_id": "pcm",
       "action": "Buy",
       "date": "Q1 2026",
@@ -9121,7 +9121,7 @@
       "company_name": "CCC Intelligent Solutions Hldgs Inc."
     },
     {
-      "symbol": "CWAN",
+      "symbol": "CWAN-OLD",
       "manager_id": "pcm",
       "action": "Sell 100.00%",
       "date": "Q3 2025",
@@ -11002,6 +11002,6 @@
       "company_name": "Peloton Interactive Inc."
     }
   ],
-  "timestamp": "2026-06-01T07:45:16.065119",
-  "scraped_date": "2026-06-01"
+  "timestamp": "2026-07-01T07:32:14.196853",
+  "scraped_date": "2026-07-01"
 }

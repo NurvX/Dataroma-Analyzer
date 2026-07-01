@@ -7790,7 +7790,7 @@
       "company_name": "General Cable Corp."
     },
     {
-      "symbol": "NVRI",
+      "symbol": "NVRI-OLD",
       "manager_id": "AIM",
       "action": "Sell 100.00%",
       "date": "Q2 2015",
@@ -7889,7 +7889,7 @@
       "company_name": "Lear Corp."
     },
     {
-      "symbol": "NVRI",
+      "symbol": "NVRI-OLD",
       "manager_id": "AIM",
       "action": "Add 5.96%",
       "date": "Q1 2015",
@@ -8120,7 +8120,7 @@
       "company_name": "O-I Glass Inc."
     },
     {
-      "symbol": "NVRI",
+      "symbol": "NVRI-OLD",
       "manager_id": "AIM",
       "action": "Add 5.57%",
       "date": "Q4 2014",
@@ -8351,7 +8351,7 @@
       "company_name": "O-I Glass Inc."
     },
     {
-      "symbol": "NVRI",
+      "symbol": "NVRI-OLD",
       "manager_id": "AIM",
       "action": "Add 16.75%",
       "date": "Q3 2014",
@@ -8527,7 +8527,7 @@
       "company_name": "Taminco Corp."
     },
     {
-      "symbol": "NVRI",
+      "symbol": "NVRI-OLD",
       "manager_id": "AIM",
       "action": "Add 16.75%",
       "date": "Q2 2014",
@@ -8725,7 +8725,7 @@
       "company_name": "Harman Int'l Industries"
     },
     {
-      "symbol": "NVRI",
+      "symbol": "NVRI-OLD",
       "manager_id": "AIM",
       "action": "Buy",
       "date": "Q1 2014",
@@ -10188,6 +10188,6 @@
       "company_name": "GEO Group Inc."
     }
   ],
-  "timestamp": "2026-06-01T07:45:15.862223",
-  "scraped_date": "2026-06-01"
+  "timestamp": "2026-07-01T07:32:13.997140",
+  "scraped_date": "2026-07-01"
 }

@@ -970,7 +970,7 @@
       "company_name": "Terreno Realty Corp."
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "DAV",
       "action": "Reduce 4.01%",
       "date": "Q1 2026",
@@ -978,7 +978,7 @@
       "action_type": "Reduce",
       "shares": 100825,
       "portfolio_percentage": 0.02,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "CVS",
@@ -1509,7 +1509,7 @@
       "company_name": "ConocoPhillips"
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "DAV",
       "action": "Add 12.05%",
       "date": "Q4 2025",
@@ -1517,7 +1517,7 @@
       "action_type": "Add",
       "shares": 270383,
       "portfolio_percentage": 0.05,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "MGM",
@@ -3148,7 +3148,7 @@
       "company_name": "CVS Health Corp."
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "DAV",
       "action": "Reduce 1.63%",
       "date": "Q3 2025",
@@ -3156,7 +3156,7 @@
       "action_type": "Reduce",
       "shares": 37086,
       "portfolio_percentage": 0.01,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "SE",
@@ -4391,7 +4391,7 @@
       "company_name": "Simon Property Group Inc."
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "DAV",
       "action": "Reduce 14.19%",
       "date": "Q2 2025",
@@ -4399,7 +4399,7 @@
       "action_type": "Reduce",
       "shares": 377007,
       "portfolio_percentage": 0.08,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "BRK.B",
@@ -4864,7 +4864,7 @@
       "company_name": "RenaissanceRe Holdings Ltd."
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "DAV",
       "action": "Add 0.84%",
       "date": "Q1 2025",
@@ -4872,7 +4872,7 @@
       "action_type": "Add",
       "shares": 22158,
       "portfolio_percentage": 0.01,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "GOOGL",
@@ -6426,7 +6426,7 @@
       "company_name": "Humana Inc."
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "DAV",
       "action": "Reduce 2.46%",
       "date": "Q4 2024",
@@ -6434,7 +6434,7 @@
       "action_type": "Reduce",
       "shares": 66518,
       "portfolio_percentage": 0.02,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "AGCO",
@@ -7075,7 +7075,7 @@
       "company_name": "Humana Inc."
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "DAV",
       "action": "Reduce 0.08%",
       "date": "Q3 2024",
@@ -7083,7 +7083,7 @@
       "action_type": "Reduce",
       "shares": 2065,
       "portfolio_percentage": 0.0,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "INTC",
@@ -8065,7 +8065,7 @@
       "company_name": "AGCO Corp."
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "DAV",
       "action": "Add 0.04%",
       "date": "Q2 2024",
@@ -8073,7 +8073,7 @@
       "action_type": "Add",
       "shares": 970,
       "portfolio_percentage": 0.0,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "BRK.B",
@@ -9451,7 +9451,7 @@
       "company_name": "Truist Financial Corp."
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "DAV",
       "action": "Reduce 7.12%",
       "date": "Q1 2024",
@@ -9459,7 +9459,7 @@
       "action_type": "Reduce",
       "shares": 207218,
       "portfolio_percentage": 0.06,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "USB",
@@ -10452,7 +10452,7 @@
       "company_name": "Noah Holdings Ltd"
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "DAV",
       "action": "Reduce 1.70%",
       "date": "Q4 2023",
@@ -10460,7 +10460,7 @@
       "action_type": "Reduce",
       "shares": 50463,
       "portfolio_percentage": 0.01,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "TFC",
@@ -11002,6 +11002,6 @@
       "company_name": "Bank of America Corp."
     }
   ],
-  "timestamp": "2026-06-01T07:45:16.155778",
-  "scraped_date": "2026-06-01"
+  "timestamp": "2026-07-01T07:32:14.285849",
+  "scraped_date": "2026-07-01"
 }

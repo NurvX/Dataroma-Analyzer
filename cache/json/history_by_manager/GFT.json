@@ -4094,7 +4094,7 @@
       "company_name": "Monsanto Co."
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "GFT",
       "action": "Sell 100.00%",
       "date": "Q4 2011",
@@ -4102,7 +4102,7 @@
       "action_type": "Sell",
       "shares": 535000,
       "portfolio_percentage": 0.14,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "EK-OLD",
@@ -6217,7 +6217,7 @@
       "company_name": "LendingTree Inc."
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "GFT",
       "action": "Reduce 50.00%",
       "date": "Q3 2008",
@@ -6225,7 +6225,7 @@
       "action_type": "Reduce",
       "shares": 535000,
       "portfolio_percentage": 0.08,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "ANSS-OLD",
@@ -6393,7 +6393,7 @@
       "company_name": "American International Group"
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "GFT",
       "action": "Add 59.70%",
       "date": "Q1 2008",
@@ -6401,7 +6401,7 @@
       "action_type": "Add",
       "shares": 400000,
       "portfolio_percentage": 0.09,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "MCD",
@@ -6525,7 +6525,7 @@
       "company_name": "Quadramed Corp."
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "GFT",
       "action": "Add 1240.00%",
       "date": "Q4 2007",
@@ -6533,7 +6533,7 @@
       "action_type": "Add",
       "shares": 620000,
       "portfolio_percentage": 0.17,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "MCD",
@@ -7097,6 +7097,6 @@
       "company_name": "Time Warner Cable Inc."
     }
   ],
-  "timestamp": "2026-06-01T07:45:15.798763",
-  "scraped_date": "2026-06-01"
+  "timestamp": "2026-07-01T07:32:13.933259",
+  "scraped_date": "2026-07-01"
 }

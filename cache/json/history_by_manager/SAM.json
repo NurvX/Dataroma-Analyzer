@@ -3220,7 +3220,7 @@
       "date": "Q4 2021",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 174030,
+      "shares": 21754,
       "portfolio_percentage": 2.21,
       "company_name": "SCYNEXIS Inc."
     },
@@ -3253,7 +3253,7 @@
       "date": "Q3 2021",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 174030,
+      "shares": 21753,
       "portfolio_percentage": 2.21,
       "company_name": "SCYNEXIS Inc."
     },
@@ -5601,6 +5601,6 @@
       "company_name": "Mohawk Industries"
     }
   ],
-  "timestamp": "2026-06-01T07:45:16.249563",
-  "scraped_date": "2026-06-01"
+  "timestamp": "2026-07-01T07:32:14.378808",
+  "scraped_date": "2026-07-01"
 }

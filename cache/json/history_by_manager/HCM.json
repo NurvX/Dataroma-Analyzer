@@ -525,7 +525,7 @@
       "date": "Q1 2026",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 15347,
+      "shares": 5116,
       "portfolio_percentage": 0.49,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -679,7 +679,7 @@
       "date": "Q4 2025",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 62074,
+      "shares": 20691,
       "portfolio_percentage": 1.57,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -1724,7 +1724,7 @@
       "date": "Q3 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 11048,
+      "shares": 3683,
       "portfolio_percentage": 0.5,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -2021,7 +2021,7 @@
       "date": "Q2 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 1521,
+      "shares": 507,
       "portfolio_percentage": 0.06,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -2791,7 +2791,7 @@
       "date": "Q1 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 28157,
+      "shares": 9386,
       "portfolio_percentage": 1.04,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -3352,7 +3352,7 @@
       "date": "Q4 2024",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 1344,
+      "shares": 448,
       "portfolio_percentage": 0.04,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -3869,7 +3869,7 @@
       "date": "Q3 2024",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 546,
+      "shares": 182,
       "portfolio_percentage": 0.02,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -4694,7 +4694,7 @@
       "date": "Q2 2024",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 17503,
+      "shares": 5835,
       "portfolio_percentage": 0.5,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -4809,6 +4809,6 @@
       "company_name": "Taiwan Semiconductor S.A."
     }
   ],
-  "timestamp": "2026-06-01T07:45:15.976792",
-  "scraped_date": "2026-06-01"
+  "timestamp": "2026-07-01T07:32:14.110365",
+  "scraped_date": "2026-07-01"
 }

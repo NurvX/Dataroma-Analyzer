@@ -904,7 +904,7 @@
       "company_name": "CoStar Group Inc."
     },
     {
-      "symbol": "MASI",
+      "symbol": "MASI-OLD",
       "manager_id": "vg",
       "action": "Sell 100.00%",
       "date": "Q1 2026",
@@ -1586,7 +1586,7 @@
       "company_name": "Carvana Co."
     },
     {
-      "symbol": "MASI",
+      "symbol": "MASI-OLD",
       "manager_id": "vg",
       "action": "Reduce 52.08%",
       "date": "Q4 2025",
@@ -2081,7 +2081,7 @@
       "company_name": "Camden Property Trust"
     },
     {
-      "symbol": "MASI",
+      "symbol": "MASI-OLD",
       "manager_id": "vg",
       "action": "Add 39.87%",
       "date": "Q3 2025",
@@ -3401,7 +3401,7 @@
       "company_name": "Johnson Controls Intl. plc"
     },
     {
-      "symbol": "MASI",
+      "symbol": "MASI-OLD",
       "manager_id": "vg",
       "action": "Buy",
       "date": "Q2 2025",
@@ -11002,6 +11002,6 @@
       "company_name": "Dell Technologies Inc."
     }
   ],
-  "timestamp": "2026-06-01T07:45:15.753316",
-  "scraped_date": "2026-06-01"
+  "timestamp": "2026-07-01T07:32:13.887710",
+  "scraped_date": "2026-07-01"
 }

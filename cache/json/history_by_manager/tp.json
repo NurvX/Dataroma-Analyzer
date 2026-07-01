@@ -74,7 +74,7 @@
       "date": "Q1 2026",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 11000,
+      "shares": 110000,
       "portfolio_percentage": 0.78,
       "company_name": "KLA Corp."
     },
@@ -3847,7 +3847,7 @@
       "date": "Q1 2024",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 3465000,
+      "shares": 1155000,
       "portfolio_percentage": 4.05,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -4100,7 +4100,7 @@
       "date": "Q4 2023",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 685000,
+      "shares": 228334,
       "portfolio_percentage": 0.8,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -4507,7 +4507,7 @@
       "date": "Q3 2023",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 450000,
+      "shares": 150000,
       "portfolio_percentage": 0.52,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -4782,7 +4782,7 @@
       "date": "Q2 2023",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 600000,
+      "shares": 200000,
       "portfolio_percentage": 0.63,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -5167,7 +5167,7 @@
       "date": "Q1 2023",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 1000000,
+      "shares": 333333,
       "portfolio_percentage": 1.18,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -5574,7 +5574,7 @@
       "date": "Q4 2022",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 625000,
+      "shares": 208333,
       "portfolio_percentage": 0.72,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -6135,7 +6135,7 @@
       "date": "Q3 2022",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 705000,
+      "shares": 235000,
       "portfolio_percentage": 0.64,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -6454,7 +6454,7 @@
       "date": "Q2 2022",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 280000,
+      "shares": 93334,
       "portfolio_percentage": 0.37,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -6795,7 +6795,7 @@
       "date": "Q1 2022",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 49393,
+      "shares": 16464,
       "portfolio_percentage": 0.05,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -7532,7 +7532,7 @@
       "date": "Q4 2021",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 335607,
+      "shares": 111869,
       "portfolio_percentage": 0.19,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -9457,7 +9457,7 @@
       "date": "Q2 2021",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 300000,
+      "shares": 100000,
       "portfolio_percentage": 0.14,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -10535,7 +10535,7 @@
       "date": "Q1 2021",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 2675000,
+      "shares": 891666,
       "portfolio_percentage": 1.39,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -11002,6 +11002,6 @@
       "company_name": "Levere Holdings Corp. Units"
     }
   ],
-  "timestamp": "2026-06-01T07:45:15.834610",
-  "scraped_date": "2026-06-01"
+  "timestamp": "2026-07-01T07:32:13.969083",
+  "scraped_date": "2026-07-01"
 }

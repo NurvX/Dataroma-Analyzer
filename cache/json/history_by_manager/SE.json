@@ -123,7 +123,7 @@
       "company_name": "Graham Holdings Co."
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "SE",
       "action": "Add 0.84%",
       "date": "Q1 2026",
@@ -131,7 +131,7 @@
       "action_type": "Add",
       "shares": 33389,
       "portfolio_percentage": 0.07,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "GLBAV-OLD",
@@ -398,7 +398,7 @@
       "company_name": "Clearwater Paper Corp."
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "SE",
       "action": "Add 44.15%",
       "date": "Q4 2025",
@@ -406,7 +406,7 @@
       "action_type": "Add",
       "shares": 1221829,
       "portfolio_percentage": 2.13,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "ESRT",
@@ -1157,7 +1157,7 @@
       "company_name": "Jsc Kaspi.kz ADR"
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "SE",
       "action": "Reduce 5.58%",
       "date": "Q3 2025",
@@ -1165,7 +1165,7 @@
       "action_type": "Reduce",
       "shares": 163469,
       "portfolio_percentage": 0.28,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "TRIP",
@@ -1443,7 +1443,7 @@
       "company_name": "Melco Resorts & Entertainment"
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "SE",
       "action": "Add 19.36%",
       "date": "Q2 2025",
@@ -1451,7 +1451,7 @@
       "action_type": "Add",
       "shares": 475488,
       "portfolio_percentage": 0.9,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "PCH-OLD",
@@ -2026,7 +2026,7 @@
       "company_name": "Fidelity National Information Services"
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "SE",
       "action": "Reduce 10.77%",
       "date": "Q1 2025",
@@ -2034,7 +2034,7 @@
       "action_type": "Reduce",
       "shares": 296448,
       "portfolio_percentage": 0.73,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "ACI",
@@ -2224,7 +2224,7 @@
       "company_name": "Dole Food Company"
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "SE",
       "action": "Add 21.32%",
       "date": "Q4 2024",
@@ -2232,7 +2232,7 @@
       "action_type": "Add",
       "shares": 483613,
       "portfolio_percentage": 0.98,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "MGM",
@@ -2774,7 +2774,7 @@
       "company_name": "Hyatt Hotels Corp."
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "SE",
       "action": "Reduce 6.83%",
       "date": "Q3 2024",
@@ -2782,7 +2782,7 @@
       "action_type": "Reduce",
       "shares": 166355,
       "portfolio_percentage": 0.42,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "WEST",
@@ -3291,7 +3291,7 @@
       "company_name": "FedEx Corp."
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "SE",
       "action": "Reduce 5.97%",
       "date": "Q2 2024",
@@ -3299,7 +3299,7 @@
       "action_type": "Reduce",
       "shares": 154696,
       "portfolio_percentage": 0.32,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "WMG",
@@ -3456,6 +3456,6 @@
       "company_name": "Douglas Emmett Inc."
     }
   ],
-  "timestamp": "2026-06-01T07:45:15.822346",
-  "scraped_date": "2026-06-01"
+  "timestamp": "2026-07-01T07:32:13.956706",
+  "scraped_date": "2026-07-01"
 }

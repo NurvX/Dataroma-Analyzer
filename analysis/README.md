@@ -1,6 +1,6 @@
 # 📊 Dataroma Investment Analysis
 
-*Generated: 2026-06-01 07:49:21*
+*Generated: 2026-07-01 07:36:16*
 
 ## 🎯 Overview
 
@@ -48,12 +48,12 @@ Immediate opportunities and recent market activity recent quarters.
 | [concentration_changes.csv](current/concentration_changes.csv) | Portfolio shifts (100 items) | Major allocation adjustments |
 | [contrarian_opportunities.csv](current/contrarian_opportunities.csv) | Against-the-trend plays (30 items) | Institutional contrarian bets |
 | [deep_value_plays.csv](current/deep_value_plays.csv) | Deep value opportunities (30 items) | Undervalued institutional picks |
-| [high_conviction_low_price.csv](current/high_conviction_low_price.csv) | Best value + conviction combo (29 items) | High conviction meets low price |
+| [high_conviction_low_price.csv](current/high_conviction_low_price.csv) | Best value + conviction combo (30 items) | High conviction meets low price |
 | [highest_portfolio_concentration.csv](current/highest_portfolio_concentration.csv) | Most focused positions (100 items) | Highest concentration institutional bets |
 | [momentum_stocks.csv](current/momentum_stocks.csv) | Recent buying activity (50 items) | Tracks institutional accumulation patterns |
 | [most_sold_stocks.csv](current/most_sold_stocks.csv) | Recent exit activity (50 items) | Most divested institutional positions |
 | [new_positions.csv](current/new_positions.csv) | Fresh acquisitions (100 items) | Identifies emerging manager interests |
-| [stocks_under_$5.csv](current/stocks_under_$5.csv) | Ultra-low price opportunities (33 items) | Deep value plays under $5 |
+| [stocks_under_$5.csv](current/stocks_under_$5.csv) | Ultra-low price opportunities (28 items) | Deep value plays under $5 |
 | [stocks_under_$10.csv](current/stocks_under_$10.csv) | Sub-$10 opportunities (50 items) | Manager favorites under $10 |
 | [stocks_under_$20.csv](current/stocks_under_$20.csv) | Affordable growth plays (50 items) | Quality stocks at accessible prices |
 | [stocks_under_$50.csv](current/stocks_under_$50.csv) | Mid-price value plays (50 items) | Institutional picks under $50 |
@@ -78,7 +78,7 @@ Immediate opportunities and recent market activity recent quarters.
 | 10 | **LLYVK** | 8.8 | $1.3B | Limited recognition; Growing institutional interest |
 | 11 | **ARES** | 8.8 | $185.1M | Limited recognition |
 | 12 | **MPLX** | 8.3 | $214.4M | Limited recognition |
-| 13 | **DD** | 6.8 | $6.1M | Limited recognition; Low price entry |
+| 13 | **DD** | 6.8 | $6.1M | Limited recognition |
 | 14 | **SSD** | 6.3 | $255.7M | Limited recognition; Growing institutional interest |
 | 15 | **SDHC** | 6.3 | $18.5M | Limited recognition; Low price entry |
 
@@ -125,18 +125,18 @@ Deep insights into manager strategies, performance patterns, and decision-making
 
 | Report | Description | Key Insight |
 | ------ | ----------- | ----------- |
-| [position_building_timeline.csv](advanced/position_building_timeline.csv) | 📈 Position buildup/reduction over time (40503 items) | Quarter-by-quarter view of how managers accumulate & distribute positions |
+| [position_building_timeline.csv](advanced/position_building_timeline.csv) | 📈 Position buildup/reduction over time (40713 items) | Quarter-by-quarter view of how managers accumulate & distribute positions |
 | [accumulation_vs_distribution.csv](advanced/accumulation_vs_distribution.csv) | 🔄 Current phase tracking (100 items) | Identifies which positions are being built vs reduced RIGHT NOW |
 | [position_flip_points.csv](advanced/position_flip_points.csv) | 🔀 Accumulation→Distribution transitions (96 items) | Pinpoints when managers switched from building to reducing |
 | [action_sequence_patterns.csv](advanced/action_sequence_patterns.csv) | Trading pattern analysis (30 items) | Institutional buy/sell sequence patterns |
 | [catalyst_timing_masters.csv](advanced/catalyst_timing_masters.csv) | Market timing excellence (30 items) | Managers with exceptional timing skills |
 | [crisis_alpha_generators.csv](advanced/crisis_alpha_generators.csv) | Crisis period outperformers (30 items) | Managers who buy during crashes |
-| [high_conviction_stocks.csv](advanced/high_conviction_stocks.csv) | Highest conviction positions (241 items) | Stocks with strongest institutional backing |
+| [high_conviction_stocks.csv](advanced/high_conviction_stocks.csv) | Highest conviction positions (246 items) | Stocks with strongest institutional backing |
 | [interesting_stocks_overview.csv](advanced/interesting_stocks_overview.csv) | Top-tier opportunities (100 items) | Multi-factor scoring of elite picks |
 | [long_term_winners.csv](advanced/long_term_winners.csv) | Sustained institutional interest (63 items) | Stocks with long-term institutional backing |
 | [manager_evolution_patterns.csv](advanced/manager_evolution_patterns.csv) | Strategy adaptation over time (30 items) | How managers evolve their approaches |
-| [manager_performance.csv](advanced/manager_performance.csv) | Comprehensive manager evaluation (81 items) | Multi-dimensional performance metrics |
-| [manager_track_records.csv](advanced/manager_track_records.csv) | 18+ year performance history (82 items) | Comprehensive manager scoring with consistency |
+| [manager_performance.csv](advanced/manager_performance.csv) | Comprehensive manager evaluation (82 items) | Multi-dimensional performance metrics |
+| [manager_track_records.csv](advanced/manager_track_records.csv) | 18+ year performance history (83 items) | Comprehensive manager scoring with consistency |
 | [multi_manager_favorites.csv](advanced/multi_manager_favorites.csv) | Consensus high-conviction picks (50 items) | Stocks held by multiple elite managers |
 | [position_sizing_mastery.csv](advanced/position_sizing_mastery.csv) | Optimal allocation patterns (40 items) | Advanced portfolio construction analysis |
 | [sector_rotation_excellence.csv](advanced/sector_rotation_excellence.csv) | Elite sector allocation (30 items) | Superior sector rotation strategies |
@@ -192,7 +192,7 @@ Long-term trends and patterns from 2007 to 2026.
 | [crisis_response_analysis.csv](historical/crisis_response_analysis.csv) | 2008 vs 2020 comparison (3 items) | Crisis behavior patterns across decades |
 | [multi_decade_conviction.csv](historical/multi_decade_conviction.csv) | Stocks held 10+ years (50 items) | Ultimate long-term conviction plays |
 | [quarterly_activity_timeline.csv](historical/quarterly_activity_timeline.csv) | 18-year activity map (77 items) | 73 quarters of market timing insights |
-| [stock_life_cycles.csv](historical/stock_life_cycles.csv) | Complete holding patterns (1713 items) | Entry/exit patterns and optimal holding periods |
+| [stock_life_cycles.csv](historical/stock_life_cycles.csv) | Complete holding patterns (1717 items) | Entry/exit patterns and optimal holding periods |
 
 ---
 
@@ -235,19 +235,19 @@ The momentum analysis tracks institutional accumulation and distribution pattern
 
 | Ticker | Company | Score | Buy Actions | Holders | Type |
 | ------ | ------- | ----- | ----------- | ------- | ---- |
-| **MSFT** | Microsoft Corp. | 134.9 | 44 | 38 | Recent Surge |
+| **MSFT** | Microsoft Corp. | 139.9 | 46 | 39 | Recent Surge |
 | **AMZN** | Amazon.com Inc. | 126.2 | 40 | 34 | Recent Surge |
 | **META** | Meta Platforms Inc. | 109.5 | 35 | 30 | Recent Surge |
 | **V** | Visa Inc. | 98.7 | 31 | 27 | Recent Surge |
 | **GOOGL** | Alphabet Inc. | 92.3 | 22 | 39 | Recent Surge |
 | **DIS** | Walt Disney Co. | 82.8 | 27 | 22 | Recent Surge |
 | **UNH** | United Health Group Inc. | 78.5 | 27 | 18 | Recent Surge |
+| **BRK.B** | Berkshire Hathaway CL B | 77.3 | 20 | 26 | Recent Surge |
 | **GOOG** | Alphabet Inc. CL C | 75.2 | 15 | 35 | Recent Surge |
 | **NVDA** | NVIDIA Corp. | 72.5 | 23 | 18 | Recent Surge |
-| **BRK.B** | Berkshire Hathaway CL B | 72.3 | 18 | 25 | Recent Surge |
 | **FISV** | Fiserv Inc. | 72.2 | 28 | 10 | Recent Surge |
 | **TSM** | Taiwan Semiconductor S.A. | 67.8 | 18 | 24 | Recent Surge |
-| **AAPL** | Apple Inc. | 62.1 | 15 | 23 | Recent Surge |
+| **AAPL** | Apple Inc. | 67.1 | 17 | 24 | Recent Surge |
 | **ELV** | Elevance Health Inc. | 57.8 | 19 | 12 | Recent Surge |
 | **ADBE** | Adobe Inc. | 57.8 | 20 | 12 | Recent Surge |
 | **IEP** | Icahn Enterprises | 57.5 | 2 | 1 | Moderate |
@@ -271,7 +271,7 @@ The 52-week high/low analyses use specific filter criteria that may initially se
 This report shows stocks being **bought near their 52-week lows**. The `near_52w_low=True` filter is **intentional** - these are the exact stocks we want to highlight as potential value opportunities.
 
 - **40 stocks** currently meet this criterion
-- Examples: SCHW, COF, SPGI
+- Examples: MSFT, META, SPGI
 - These are being accumulated by value-focused managers
 
 #### 52-Week High Sells (`52_week_high_sells.csv`)
@@ -280,7 +280,7 @@ This report shows stocks being **sold near their 52-week highs**. The `near_52w_
 
 - **40 stocks** currently meet this criterion
 - Examples: AAPL, GOOGL, KO
-- 33 stocks show "Heavy Distribution" patterns
+- 31 stocks show "Heavy Distribution" patterns
 
 
 ### New Positions Context
@@ -311,22 +311,22 @@ Some stocks appear in multiple analysis files with seemingly contradictory signa
 
 These tickers appear in both `contrarian_opportunities.csv` and `momentum_stocks.csv`. This happens when different managers take opposite positions on the same stock:
 
-- **GOOGL**: Contrarian signal: Net Selling (buys: 22.0, sells: 65.0) | Momentum score: 92.25461538461539
+- **MCO**: Contrarian signal: Net Selling (buys: 8.0, sells: 22.0) | Momentum score: 42.58882352941176
 
-- **BRK.B**: Contrarian signal: Net Selling (buys: 18.0, sells: 37.0) | Momentum score: 72.3468
+- **NVDA**: Contrarian signal: Mixed Signal (buys: 23.0, sells: 23.0) | Momentum score: 72.51388888888889
 
-- **MA**: Contrarian signal: Net Selling (buys: 12.0, sells: 34.0) | Momentum score: 54.3235
+- **BRK.B**: Contrarian signal: Net Selling (buys: 20.0, sells: 38.0) | Momentum score: 77.28884615384615
 
-- **UNH**: Contrarian signal: Net Selling (buys: 27.0, sells: 40.0) | Momentum score: 78.46777777777778
+- **GOOG**: Contrarian signal: Net Selling (buys: 15.0, sells: 71.0) | Momentum score: 75.18285714285715
 
-- **CRM**: Contrarian signal: Net Buying (buys: 17.0, sells: 12.0) | Momentum score: 52.11363636363637
+- **META**: Contrarian signal: Net Selling (buys: 35.0, sells: 50.0) | Momentum score: 109.48466666666667
 
 #### New Positions with Contrarian Signals
 
 These newly initiated positions also show contrarian patterns, suggesting managers are taking bold positions against the crowd:
-- **GOOGL**: New position initiated amid contrarian activity
-- **FISV**: New position initiated amid contrarian activity
-- **V**: New position initiated amid contrarian activity
+- **MCO**: New position initiated amid contrarian activity
+- **AMZN**: New position initiated amid contrarian activity
+- **GOOG**: New position initiated amid contrarian activity
 
 
 ### Data Freshness Notes
@@ -343,7 +343,7 @@ All current analysis reports are based on manager filings within this window. Ke
 
 4. **Manager Activity**: A single manager may have multiple entries for the same stock if they made multiple transactions (Buy, Add, Reduce) within the analysis window.
 
-**Report Generated**: 2026-06-01 07:49:21
+**Report Generated**: 2026-07-01 07:36:16
 
 
 ---

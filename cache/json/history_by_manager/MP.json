@@ -1707,7 +1707,7 @@
       "company_name": "Cactus Inc."
     },
     {
-      "symbol": "VSCO",
+      "symbol": "VSXY",
       "manager_id": "MP",
       "action": "Sell 100.00%",
       "date": "Q1 2022",
@@ -1729,6 +1729,6 @@
       "company_name": "Qurate Group Series A"
     }
   ],
-  "timestamp": "2026-06-01T07:45:15.983182",
-  "scraped_date": "2026-06-01"
+  "timestamp": "2026-07-01T07:32:14.117082",
+  "scraped_date": "2026-07-01"
 }

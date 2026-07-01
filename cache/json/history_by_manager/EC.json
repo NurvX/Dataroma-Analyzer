@@ -3594,7 +3594,7 @@
       "date": "Q3 2023",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 191191,
+      "shares": 1911910,
       "portfolio_percentage": 0.96,
       "company_name": "KLA Corp."
     },
@@ -3715,7 +3715,7 @@
       "date": "Q2 2023",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 191191,
+      "shares": 1911910,
       "portfolio_percentage": 0.96,
       "company_name": "KLA Corp."
     },
@@ -5491,7 +5491,7 @@
       "company_name": "CIT Group"
     },
     {
-      "symbol": "VSCO",
+      "symbol": "VSXY",
       "manager_id": "EC",
       "action": "Sell 100.00%",
       "date": "Q1 2022",
@@ -5865,7 +5865,7 @@
       "company_name": "Blackstone Mortgage Trust Inc."
     },
     {
-      "symbol": "VSCO",
+      "symbol": "VSXY",
       "manager_id": "EC",
       "action": "Reduce 22.98%",
       "date": "Q4 2021",
@@ -6129,7 +6129,7 @@
       "company_name": "PVH Corp."
     },
     {
-      "symbol": "VSCO",
+      "symbol": "VSXY",
       "manager_id": "EC",
       "action": "Buy",
       "date": "Q3 2021",
@@ -10133,6 +10133,6 @@
       "company_name": "TransUnion"
     }
   ],
-  "timestamp": "2026-06-01T07:45:16.100908",
-  "scraped_date": "2026-06-01"
+  "timestamp": "2026-07-01T07:32:14.232087",
+  "scraped_date": "2026-07-01"
 }

@@ -68,7 +68,7 @@
       "company_name": "Slide Insurance Holdings Inc"
     },
     {
-      "symbol": "VSCO",
+      "symbol": "VSXY",
       "manager_id": "GLRE",
       "action": "Add 29.87%",
       "date": "Q1 2026",
@@ -772,7 +772,7 @@
       "company_name": "Roivant Sciences Ltd"
     },
     {
-      "symbol": "VSCO",
+      "symbol": "VSXY",
       "manager_id": "GLRE",
       "action": "Reduce 10.07%",
       "date": "Q4 2025",
@@ -882,7 +882,7 @@
       "company_name": "Vaneck Oil Services ETF"
     },
     {
-      "symbol": "VSCO",
+      "symbol": "VSXY",
       "manager_id": "GLRE",
       "action": "Add 117.68%",
       "date": "Q3 2025",
@@ -1234,7 +1234,7 @@
       "company_name": "Cigna Group"
     },
     {
-      "symbol": "VSCO",
+      "symbol": "VSXY",
       "manager_id": "GLRE",
       "action": "Buy",
       "date": "Q2 2025",
@@ -1971,7 +1971,7 @@
       "company_name": "ODP Corp."
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "GLRE",
       "action": "Sell 100.00%",
       "date": "Q4 2024",
@@ -1979,7 +1979,7 @@
       "action_type": "Sell",
       "shares": 636270,
       "portfolio_percentage": 1.43,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "LIVN",
@@ -2026,7 +2026,7 @@
       "company_name": "Danimer Scientific Inc."
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "GLRE",
       "action": "Add 118.30%",
       "date": "Q3 2024",
@@ -2034,7 +2034,7 @@
       "action_type": "Add",
       "shares": 344810,
       "portfolio_percentage": 0.77,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "LBTYA",
@@ -2378,7 +2378,7 @@
       "company_name": "Capri Holdings Ltd"
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "GLRE",
       "action": "Buy",
       "date": "Q2 2024",
@@ -2386,7 +2386,7 @@
       "action_type": "Buy",
       "shares": 291460,
       "portfolio_percentage": 0.67,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "BHF",
@@ -4380,7 +4380,7 @@
       "company_name": "Resideo Technologies Inc."
     },
     {
-      "symbol": "VSCO",
+      "symbol": "VSXY",
       "manager_id": "GLRE",
       "action": "Sell 100.00%",
       "date": "Q1 2023",
@@ -4754,7 +4754,7 @@
       "company_name": "Weatherford International plc"
     },
     {
-      "symbol": "VSCO",
+      "symbol": "VSXY",
       "manager_id": "GLRE",
       "action": "Reduce 39.96%",
       "date": "Q4 2022",
@@ -4963,7 +4963,7 @@
       "company_name": "Brighthouse Financial Inc."
     },
     {
-      "symbol": "VSCO",
+      "symbol": "VSXY",
       "manager_id": "GLRE",
       "action": "Reduce 7.78%",
       "date": "Q3 2022",
@@ -5095,7 +5095,7 @@
       "company_name": "Kyndryl Holdings Inc"
     },
     {
-      "symbol": "VSCO",
+      "symbol": "VSXY",
       "manager_id": "GLRE",
       "action": "Add 70.26%",
       "date": "Q2 2022",
@@ -5645,7 +5645,7 @@
       "company_name": "Brighthouse Financial Inc."
     },
     {
-      "symbol": "VSCO",
+      "symbol": "VSXY",
       "manager_id": "GLRE",
       "action": "Reduce 4.13%",
       "date": "Q1 2022",
@@ -5843,7 +5843,7 @@
       "company_name": "FREYR Battery"
     },
     {
-      "symbol": "SATS",
+      "symbol": "ECHO",
       "manager_id": "GLRE",
       "action": "Sell 100.00%",
       "date": "Q1 2022",
@@ -5909,7 +5909,7 @@
       "company_name": "Microvast Holdings Inc. WTS"
     },
     {
-      "symbol": "VSCO",
+      "symbol": "VSXY",
       "manager_id": "GLRE",
       "action": "Add 602.76%",
       "date": "Q4 2021",
@@ -6239,7 +6239,7 @@
       "company_name": "Concentrix Corp."
     },
     {
-      "symbol": "SATS",
+      "symbol": "ECHO",
       "manager_id": "GLRE",
       "action": "Reduce 92.70%",
       "date": "Q4 2021",
@@ -6547,7 +6547,7 @@
       "company_name": "FREYR Battery"
     },
     {
-      "symbol": "VSCO",
+      "symbol": "VSXY",
       "manager_id": "GLRE",
       "action": "Buy",
       "date": "Q3 2021",
@@ -6679,7 +6679,7 @@
       "company_name": "Gulfport Energy Corp."
     },
     {
-      "symbol": "SATS",
+      "symbol": "ECHO",
       "manager_id": "GLRE",
       "action": "Reduce 19.90%",
       "date": "Q3 2021",
@@ -6806,7 +6806,7 @@
       "date": "Q3 2021",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 81600,
+      "shares": 8160,
       "portfolio_percentage": 0.76,
       "company_name": "Offerpad Solutions Inc."
     },
@@ -7075,7 +7075,7 @@
       "company_name": "NeuBase Therapeutics Inc."
     },
     {
-      "symbol": "SATS",
+      "symbol": "ECHO",
       "manager_id": "GLRE",
       "action": "Add 25.79%",
       "date": "Q2 2021",
@@ -7592,7 +7592,7 @@
       "company_name": "dMY Technology Group II WTS"
     },
     {
-      "symbol": "SATS",
+      "symbol": "ECHO",
       "manager_id": "GLRE",
       "action": "Add 103.87%",
       "date": "Q1 2021",
@@ -7686,7 +7686,7 @@
       "date": "Q1 2021",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 81600,
+      "shares": 8160,
       "portfolio_percentage": 0.86,
       "company_name": "Offerpad Solutions Inc."
     },
@@ -8483,7 +8483,7 @@
       "company_name": "Clover Health Investments Corp."
     },
     {
-      "symbol": "SATS",
+      "symbol": "ECHO",
       "manager_id": "GLRE",
       "action": "Buy",
       "date": "Q4 2020",
@@ -8692,7 +8692,7 @@
       "company_name": "Artivion Inc."
     },
     {
-      "symbol": "KW",
+      "symbol": "KW-OLD",
       "manager_id": "GLRE",
       "action": "Sell 100.00%",
       "date": "Q4 2020",
@@ -8912,7 +8912,7 @@
       "company_name": "Artivion Inc."
     },
     {
-      "symbol": "KW",
+      "symbol": "KW-OLD",
       "manager_id": "GLRE",
       "action": "Buy",
       "date": "Q3 2020",
@@ -9077,7 +9077,7 @@
       "company_name": "Somnigroup International Inc."
     },
     {
-      "symbol": "SATS",
+      "symbol": "ECHO",
       "manager_id": "GLRE",
       "action": "Sell 100.00%",
       "date": "Q3 2020",
@@ -9242,7 +9242,7 @@
       "company_name": "Somnigroup International Inc."
     },
     {
-      "symbol": "SATS",
+      "symbol": "ECHO",
       "manager_id": "GLRE",
       "action": "Buy",
       "date": "Q2 2020",
@@ -9671,7 +9671,7 @@
       "company_name": "Light & Wonder Inc."
     },
     {
-      "symbol": "SATS",
+      "symbol": "ECHO",
       "manager_id": "GLRE",
       "action": "Sell 100.00%",
       "date": "Q1 2020",
@@ -9715,7 +9715,7 @@
       "company_name": "Core Natural Resources Inc."
     },
     {
-      "symbol": "SATS",
+      "symbol": "ECHO",
       "manager_id": "GLRE",
       "action": "Add 14.34%",
       "date": "Q4 2019",
@@ -10045,7 +10045,7 @@
       "company_name": "Cars.com Inc."
     },
     {
-      "symbol": "SATS",
+      "symbol": "ECHO",
       "manager_id": "GLRE",
       "action": "Reduce 1.32%",
       "date": "Q2 2019",
@@ -10342,7 +10342,7 @@
       "company_name": "Hilton Grand Vacations Inc."
     },
     {
-      "symbol": "SATS",
+      "symbol": "ECHO",
       "manager_id": "GLRE",
       "action": "Buy",
       "date": "Q4 2018",
@@ -10452,7 +10452,7 @@
       "company_name": "Altaba Inc."
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "GLRE",
       "action": "Sell 100.00%",
       "date": "Q4 2018",
@@ -10460,7 +10460,7 @@
       "action_type": "Sell",
       "shares": 435150,
       "portfolio_percentage": 3.98,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "PRGO",
@@ -10518,7 +10518,7 @@
       "company_name": "Adient plc"
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "GLRE",
       "action": "Add 33.42%",
       "date": "Q3 2018",
@@ -10526,7 +10526,7 @@
       "action_type": "Add",
       "shares": 109003,
       "portfolio_percentage": 1.0,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "OPTU",
@@ -10815,7 +10815,7 @@
       "company_name": "Venator Materials PLC"
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "GLRE",
       "action": "Add 30.62%",
       "date": "Q2 2018",
@@ -10823,7 +10823,7 @@
       "action_type": "Add",
       "shares": 76447,
       "portfolio_percentage": 0.37,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "BHF",
@@ -11002,6 +11002,6 @@
       "company_name": "Adient plc"
     }
   ],
-  "timestamp": "2026-06-01T07:45:15.769176",
-  "scraped_date": "2026-06-01"
+  "timestamp": "2026-07-01T07:32:13.903530",
+  "scraped_date": "2026-07-01"
 }

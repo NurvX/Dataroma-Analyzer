@@ -140,7 +140,7 @@
       "date": "Q3 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 415855,
+      "shares": 41586,
       "portfolio_percentage": 0.04,
       "company_name": "Cardlytics Inc."
     },
@@ -195,7 +195,7 @@
       "date": "Q1 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 754988,
+      "shares": 75499,
       "portfolio_percentage": 0.09,
       "company_name": "Cardlytics Inc."
     },
@@ -250,7 +250,7 @@
       "date": "Q4 2024",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 50823,
+      "shares": 5083,
       "portfolio_percentage": 0.01,
       "company_name": "Cardlytics Inc."
     },
@@ -294,7 +294,7 @@
       "date": "Q3 2024",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 45126,
+      "shares": 4513,
       "portfolio_percentage": 0.01,
       "company_name": "Cardlytics Inc."
     },
@@ -349,7 +349,7 @@
       "date": "Q2 2024",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 91183,
+      "shares": 9118,
       "portfolio_percentage": 0.06,
       "company_name": "Cardlytics Inc."
     },
@@ -382,7 +382,7 @@
       "date": "Q1 2024",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 957560,
+      "shares": 95756,
       "portfolio_percentage": 1.24,
       "company_name": "Cardlytics Inc."
     },
@@ -602,7 +602,7 @@
       "date": "Q1 2022",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 229650,
+      "shares": 22965,
       "portfolio_percentage": 0.85,
       "company_name": "Cardlytics Inc."
     },
@@ -657,7 +657,7 @@
       "date": "Q4 2021",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 36875,
+      "shares": 3687,
       "portfolio_percentage": 0.13,
       "company_name": "Cardlytics Inc."
     },
@@ -690,7 +690,7 @@
       "date": "Q3 2021",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 660619,
+      "shares": 66061,
       "portfolio_percentage": 2.64,
       "company_name": "Cardlytics Inc."
     },
@@ -789,7 +789,7 @@
       "date": "Q4 2020",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 97386,
+      "shares": 9738,
       "portfolio_percentage": 0.77,
       "company_name": "Cardlytics Inc."
     },
@@ -822,7 +822,7 @@
       "date": "Q3 2020",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 377337,
+      "shares": 37733,
       "portfolio_percentage": 1.85,
       "company_name": "Cardlytics Inc."
     },
@@ -844,7 +844,7 @@
       "date": "Q2 2020",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 62734,
+      "shares": 6273,
       "portfolio_percentage": 0.47,
       "company_name": "Cardlytics Inc."
     },
@@ -877,7 +877,7 @@
       "date": "Q1 2020",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 1129805,
+      "shares": 112980,
       "portfolio_percentage": 8.69,
       "company_name": "Cardlytics Inc."
     },
@@ -965,7 +965,7 @@
       "date": "Q4 2019",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 502299,
+      "shares": 50229,
       "portfolio_percentage": 5.19,
       "company_name": "Cardlytics Inc."
     },
@@ -1009,7 +1009,7 @@
       "date": "Q3 2019",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 157391,
+      "shares": 15739,
       "portfolio_percentage": 1.17,
       "company_name": "Cardlytics Inc."
     },
@@ -1086,7 +1086,7 @@
       "date": "Q2 2019",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 2162020,
+      "shares": 216202,
       "portfolio_percentage": 14.39,
       "company_name": "Cardlytics Inc."
     },
@@ -1289,6 +1289,6 @@
       "company_name": "United Rentals"
     }
   ],
-  "timestamp": "2026-06-01T07:45:15.903590",
-  "scraped_date": "2026-06-01"
+  "timestamp": "2026-07-01T07:32:14.037431",
+  "scraped_date": "2026-07-01"
 }

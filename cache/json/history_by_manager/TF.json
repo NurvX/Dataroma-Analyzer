@@ -2285,7 +2285,7 @@
       "date": "Q4 2017",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 12526545,
+      "shares": 4175515,
       "portfolio_percentage": 6.68,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -2329,7 +2329,7 @@
       "date": "Q3 2017",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 12526545,
+      "shares": 4175515,
       "portfolio_percentage": 6.68,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -3082,6 +3082,6 @@
       "company_name": "Allegion Plc"
     }
   ],
-  "timestamp": "2026-06-01T07:45:15.741627",
-  "scraped_date": "2026-06-01"
+  "timestamp": "2026-07-01T07:32:13.875913",
+  "scraped_date": "2026-07-01"
 }

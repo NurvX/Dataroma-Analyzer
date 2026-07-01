@@ -1163,7 +1163,7 @@
       "date": "Q3 2022",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 155441,
+      "shares": 1554410,
       "portfolio_percentage": 0.16,
       "company_name": "KLA Corp."
     },
@@ -1251,7 +1251,7 @@
       "date": "Q2 2022",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 155441,
+      "shares": 1554410,
       "portfolio_percentage": 0.16,
       "company_name": "KLA Corp."
     },
@@ -1647,7 +1647,7 @@
       "date": "Q2 2021",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 30600,
+      "shares": 306000,
       "portfolio_percentage": 0.03,
       "company_name": "KLA Corp."
     },
@@ -1713,7 +1713,7 @@
       "date": "Q1 2021",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 30600,
+      "shares": 306000,
       "portfolio_percentage": 0.03,
       "company_name": "KLA Corp."
     },
@@ -3962,6 +3962,6 @@
       "company_name": "American Express"
     }
   ],
-  "timestamp": "2026-06-01T07:45:15.946916",
-  "scraped_date": "2026-06-01"
+  "timestamp": "2026-07-01T07:32:14.080823",
+  "scraped_date": "2026-07-01"
 }

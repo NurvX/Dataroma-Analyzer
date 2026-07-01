@@ -10056,7 +10056,7 @@
       "company_name": "Twitter Inc."
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "MKL",
       "action": "Sell 100.00%",
       "date": "Q4 2021",
@@ -10064,7 +10064,7 @@
       "action_type": "Sell",
       "shares": 2454,
       "portfolio_percentage": 0.0,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "ROP",
@@ -10430,7 +10430,7 @@
       "company_name": "Eastman Chemical"
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "MKL",
       "action": "Add 25.59%",
       "date": "Q2 2021",
@@ -10438,7 +10438,7 @@
       "action_type": "Add",
       "shares": 500,
       "portfolio_percentage": 0.0,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "TWTR-OLD",
@@ -11002,6 +11002,6 @@
       "company_name": "Otis Worldwide Corp."
     }
   ],
-  "timestamp": "2026-06-01T07:45:16.179995",
-  "scraped_date": "2026-06-01"
+  "timestamp": "2026-07-01T07:32:14.312232",
+  "scraped_date": "2026-07-01"
 }

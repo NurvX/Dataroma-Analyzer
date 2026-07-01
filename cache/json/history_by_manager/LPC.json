@@ -5095,7 +5095,7 @@
       "company_name": "DATADOG Inc."
     },
     {
-      "symbol": "VSCO",
+      "symbol": "VSXY",
       "manager_id": "LPC",
       "action": "Sell 100.00%",
       "date": "Q2 2022",
@@ -5304,7 +5304,7 @@
       "company_name": "DATADOG Inc."
     },
     {
-      "symbol": "VSCO",
+      "symbol": "VSXY",
       "manager_id": "LPC",
       "action": "Reduce 9.75%",
       "date": "Q1 2022",
@@ -5711,7 +5711,7 @@
       "company_name": "Shopify Inc."
     },
     {
-      "symbol": "VSCO",
+      "symbol": "VSXY",
       "manager_id": "LPC",
       "action": "Reduce 4.81%",
       "date": "Q4 2021",
@@ -6085,7 +6085,7 @@
       "company_name": "Bilibili Inc."
     },
     {
-      "symbol": "VSCO",
+      "symbol": "VSXY",
       "manager_id": "LPC",
       "action": "Buy",
       "date": "Q3 2021",
@@ -8516,7 +8516,7 @@
       "company_name": "Under Armour Inc."
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "LPC",
       "action": "Sell 100.00%",
       "date": "Q2 2020",
@@ -8524,7 +8524,7 @@
       "action_type": "Sell",
       "shares": 812017,
       "portfolio_percentage": 0.89,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "LYV",
@@ -8670,7 +8670,7 @@
       "company_name": "Luckin Coffee Inc."
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "LPC",
       "action": "Add 104.16%",
       "date": "Q1 2020",
@@ -8678,7 +8678,7 @@
       "action_type": "Add",
       "shares": 414278,
       "portfolio_percentage": 0.45,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "UAA",
@@ -9374,7 +9374,7 @@
       "company_name": "Illumina Inc."
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "LPC",
       "action": "Buy",
       "date": "Q4 2019",
@@ -9382,7 +9382,7 @@
       "action_type": "Buy",
       "shares": 397739,
       "portfolio_percentage": 0.53,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "CVNA",
@@ -11002,6 +11002,6 @@
       "company_name": "Alibaba Group Holdings"
     }
   ],
-  "timestamp": "2026-06-01T07:45:15.853137",
-  "scraped_date": "2026-06-01"
+  "timestamp": "2026-07-01T07:32:13.987765",
+  "scraped_date": "2026-07-01"
 }

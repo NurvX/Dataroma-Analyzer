@@ -101,7 +101,7 @@
       "company_name": "Energy Transfer LP"
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "PTNT",
       "action": "Add 13.71%",
       "date": "Q1 2026",
@@ -109,7 +109,7 @@
       "action_type": "Add",
       "shares": 325514,
       "portfolio_percentage": 0.49,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "UAL",
@@ -519,7 +519,7 @@
       "company_name": "Norwegian Cruise Line Hlgs Ltd."
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "PTNT",
       "action": "Add 12.61%",
       "date": "Q4 2025",
@@ -527,7 +527,7 @@
       "action_type": "Add",
       "shares": 265805,
       "portfolio_percentage": 0.4,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "ET",
@@ -926,7 +926,7 @@
       "company_name": "Biogen Inc."
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "PTNT",
       "action": "Add 21.23%",
       "date": "Q3 2025",
@@ -934,7 +934,7 @@
       "action_type": "Add",
       "shares": 369239,
       "portfolio_percentage": 0.5,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "ET",
@@ -1377,7 +1377,7 @@
       "company_name": "Kosmos Energy Ltd."
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "PTNT",
       "action": "Add 3.23%",
       "date": "Q2 2025",
@@ -1385,7 +1385,7 @@
       "action_type": "Add",
       "shares": 54343,
       "portfolio_percentage": 0.09,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "GOOGL",
@@ -1883,7 +1883,7 @@
       "company_name": "Alphabet Inc."
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "PTNT",
       "action": "Add 1.04%",
       "date": "Q1 2025",
@@ -1891,7 +1891,7 @@
       "action_type": "Add",
       "shares": 17402,
       "portfolio_percentage": 0.04,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "COIN",
@@ -2356,7 +2356,7 @@
       "company_name": "UBS AG"
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "PTNT",
       "action": "Add 0.22%",
       "date": "Q4 2024",
@@ -2364,7 +2364,7 @@
       "action_type": "Add",
       "shares": 3727,
       "portfolio_percentage": 0.01,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "EXE",
@@ -2697,7 +2697,7 @@
       "company_name": "Seadrill Ltd"
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "PTNT",
       "action": "Add 4.14%",
       "date": "Q3 2024",
@@ -2705,7 +2705,7 @@
       "action_type": "Add",
       "shares": 66065,
       "portfolio_percentage": 0.17,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "CVS",
@@ -3148,7 +3148,7 @@
       "company_name": "Kosmos Energy Ltd."
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "PTNT",
       "action": "Add 11.14%",
       "date": "Q2 2024",
@@ -3156,7 +3156,7 @@
       "action_type": "Add",
       "shares": 160158,
       "portfolio_percentage": 0.4,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "PGEN",
@@ -3610,7 +3610,7 @@
       "company_name": "Canada Goose Holdings Inc."
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "PTNT",
       "action": "Add 5.15%",
       "date": "Q1 2024",
@@ -3618,7 +3618,7 @@
       "action_type": "Add",
       "shares": 70373,
       "portfolio_percentage": 0.18,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "ILMN",
@@ -4072,7 +4072,7 @@
       "company_name": "United Airlines Holdings Inc."
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "PTNT",
       "action": "Add 7.72%",
       "date": "Q4 2023",
@@ -4080,7 +4080,7 @@
       "action_type": "Add",
       "shares": 97938,
       "portfolio_percentage": 0.27,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "DAL",
@@ -4479,7 +4479,7 @@
       "company_name": "Brilliant Earth Group Inc A"
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "PTNT",
       "action": "Add 85.34%",
       "date": "Q3 2023",
@@ -4487,7 +4487,7 @@
       "action_type": "Add",
       "shares": 584328,
       "portfolio_percentage": 1.74,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "PTON",
@@ -5282,7 +5282,7 @@
       "company_name": "Stitch Fix Inc."
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "PTNT",
       "action": "Buy",
       "date": "Q2 2023",
@@ -5290,7 +5290,7 @@
       "action_type": "Buy",
       "shares": 684672,
       "portfolio_percentage": 2.39,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "WAL",
@@ -7306,6 +7306,6 @@
       "company_name": "RealReal Inc."
     }
   ],
-  "timestamp": "2026-06-01T07:45:16.058425",
-  "scraped_date": "2026-06-01"
+  "timestamp": "2026-07-01T07:32:14.190591",
+  "scraped_date": "2026-07-01"
 }

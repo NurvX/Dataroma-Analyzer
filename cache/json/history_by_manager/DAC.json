@@ -888,7 +888,7 @@
       "date": "Q1 2026",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 166,
+      "shares": 56,
       "portfolio_percentage": 0.0,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -1850,6 +1850,17 @@
       "company_name": "Grupo Cibest SA ADR"
     },
     {
+      "symbol": "ECHO",
+      "manager_id": "DAC",
+      "action": "Sell 100.00%",
+      "date": "Q1 2026",
+      "percentage_change": 0.0,
+      "action_type": "Sell",
+      "shares": 32443,
+      "portfolio_percentage": 0.0,
+      "company_name": "EchoStar Corp."
+    },
+    {
       "symbol": "PYPL",
       "manager_id": "DAC",
       "action": "Sell 100.00%",
@@ -1859,17 +1870,6 @@
       "shares": 4475,
       "portfolio_percentage": 0.0,
       "company_name": "PayPal Holdings Inc."
-    },
-    {
-      "symbol": "SATS",
-      "manager_id": "DAC",
-      "action": "Sell 100.00%",
-      "date": "Q1 2026",
-      "percentage_change": 0.0,
-      "action_type": "Sell",
-      "shares": 32443,
-      "portfolio_percentage": 0.0,
-      "company_name": "EchoStar Corp."
     },
     {
       "symbol": "VOO",
@@ -2835,7 +2835,7 @@
       "date": "Q4 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 332,
+      "shares": 111,
       "portfolio_percentage": 0.0,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -3698,7 +3698,7 @@
       "company_name": "Baidu Inc."
     },
     {
-      "symbol": "SATS",
+      "symbol": "ECHO",
       "manager_id": "DAC",
       "action": "Reduce 99.72%",
       "date": "Q4 2025",
@@ -4903,7 +4903,7 @@
       "date": "Q3 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 376,
+      "shares": 126,
       "portfolio_percentage": 0.0,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -5271,7 +5271,7 @@
       "company_name": "Berkshire Hathaway CL B"
     },
     {
-      "symbol": "SATS",
+      "symbol": "ECHO",
       "manager_id": "DAC",
       "action": "Reduce 12.00%",
       "date": "Q3 2025",
@@ -6404,7 +6404,7 @@
       "company_name": "Caterpillar Inc."
     },
     {
-      "symbol": "SATS",
+      "symbol": "ECHO",
       "manager_id": "DAC",
       "action": "Reduce 0.07%",
       "date": "Q2 2025",
@@ -7136,7 +7136,7 @@
       "date": "Q2 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 1499,
+      "shares": 500,
       "portfolio_percentage": 0.0,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -8142,7 +8142,7 @@
       "company_name": "Caterpillar Inc."
     },
     {
-      "symbol": "SATS",
+      "symbol": "ECHO",
       "manager_id": "DAC",
       "action": "Reduce 0.06%",
       "date": "Q1 2025",
@@ -8709,7 +8709,7 @@
       "date": "Q1 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 333,
+      "shares": 111,
       "portfolio_percentage": 0.0,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -10287,7 +10287,7 @@
       "company_name": "Baker Hughes Co."
     },
     {
-      "symbol": "SATS",
+      "symbol": "ECHO",
       "manager_id": "DAC",
       "action": "Reduce 0.38%",
       "date": "Q4 2024",
@@ -10502,7 +10502,7 @@
       "date": "Q4 2024",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 200,
+      "shares": 67,
       "portfolio_percentage": 0.0,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -11002,6 +11002,6 @@
       "company_name": "Dell Technologies Inc."
     }
   ],
-  "timestamp": "2026-06-01T07:45:16.045929",
-  "scraped_date": "2026-06-01"
+  "timestamp": "2026-07-01T07:32:14.178407",
+  "scraped_date": "2026-07-01"
 }

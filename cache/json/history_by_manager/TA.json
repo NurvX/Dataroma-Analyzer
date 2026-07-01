@@ -321,7 +321,7 @@
       "company_name": "CBRE Group"
     },
     {
-      "symbol": "PRA",
+      "symbol": "PRA-OLD",
       "manager_id": "TA",
       "action": "Reduce 11.05%",
       "date": "Q1 2026",
@@ -860,7 +860,7 @@
       "company_name": "Rayonier Inc."
     },
     {
-      "symbol": "PRA",
+      "symbol": "PRA-OLD",
       "manager_id": "TA",
       "action": "Reduce 19.51%",
       "date": "Q4 2025",
@@ -1146,7 +1146,7 @@
       "company_name": "UMB Financial Corp."
     },
     {
-      "symbol": "PRA",
+      "symbol": "PRA-OLD",
       "manager_id": "TA",
       "action": "Reduce 5.36%",
       "date": "Q3 2025",
@@ -1608,7 +1608,7 @@
       "company_name": "Deutsche Bank AG"
     },
     {
-      "symbol": "PRA",
+      "symbol": "PRA-OLD",
       "manager_id": "TA",
       "action": "Reduce 31.80%",
       "date": "Q2 2025",
@@ -2543,7 +2543,7 @@
       "company_name": "PBF Energy Inc."
     },
     {
-      "symbol": "PRA",
+      "symbol": "PRA-OLD",
       "manager_id": "TA",
       "action": "Reduce 0.01%",
       "date": "Q3 2024",
@@ -3060,7 +3060,7 @@
       "company_name": "Weyerhaeuser Co."
     },
     {
-      "symbol": "PRA",
+      "symbol": "PRA-OLD",
       "manager_id": "TA",
       "action": "Reduce 8.00%",
       "date": "Q2 2024",
@@ -3159,7 +3159,7 @@
       "company_name": "ELME Communities"
     },
     {
-      "symbol": "PRA",
+      "symbol": "PRA-OLD",
       "manager_id": "TA",
       "action": "Add 38.20%",
       "date": "Q1 2024",
@@ -3918,7 +3918,7 @@
       "company_name": "Encore Capital Group Inc."
     },
     {
-      "symbol": "PRA",
+      "symbol": "PRA-OLD",
       "manager_id": "TA",
       "action": "Add 0.02%",
       "date": "Q3 2023",
@@ -4545,7 +4545,7 @@
       "company_name": "UMB Financial Corp."
     },
     {
-      "symbol": "PRA",
+      "symbol": "PRA-OLD",
       "manager_id": "TA",
       "action": "Reduce 0.13%",
       "date": "Q2 2023",
@@ -4776,7 +4776,7 @@
       "company_name": "Lazard Inc."
     },
     {
-      "symbol": "PRA",
+      "symbol": "PRA-OLD",
       "manager_id": "TA",
       "action": "Add 17.16%",
       "date": "Q1 2023",
@@ -5095,7 +5095,7 @@
       "company_name": "Southside Bancshares Inc."
     },
     {
-      "symbol": "PRA",
+      "symbol": "PRA-OLD",
       "manager_id": "TA",
       "action": "Add 12.46%",
       "date": "Q4 2022",
@@ -5535,7 +5535,7 @@
       "company_name": "Hawaiian Holdings Inc."
     },
     {
-      "symbol": "PRA",
+      "symbol": "PRA-OLD",
       "manager_id": "TA",
       "action": "Add 13.47%",
       "date": "Q3 2022",
@@ -8208,7 +8208,7 @@
       "company_name": "Lazard Inc."
     },
     {
-      "symbol": "PRA",
+      "symbol": "PRA-OLD",
       "manager_id": "TA",
       "action": "Buy",
       "date": "Q4 2020",
@@ -11002,6 +11002,6 @@
       "company_name": "Pursuit Attractions and Hospitality"
     }
   ],
-  "timestamp": "2026-06-01T07:45:16.091571",
-  "scraped_date": "2026-06-01"
+  "timestamp": "2026-07-01T07:32:14.222604",
+  "scraped_date": "2026-07-01"
 }

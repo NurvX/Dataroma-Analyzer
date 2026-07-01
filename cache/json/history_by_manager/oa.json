@@ -123,7 +123,7 @@
       "company_name": "Amazon.com Inc."
     },
     {
-      "symbol": "HSPT",
+      "symbol": "HSPT-OLD",
       "manager_id": "oa",
       "action": "Buy",
       "date": "Q1 2026",
@@ -8192,7 +8192,7 @@
       "date": "Q1 2020",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 792735,
+      "shares": 264245,
       "portfolio_percentage": 2.75,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -8390,7 +8390,7 @@
       "date": "Q4 2019",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 426335,
+      "shares": 142111,
       "portfolio_percentage": 1.48,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -9556,7 +9556,7 @@
       "date": "Q2 2019",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 729600,
+      "shares": 243200,
       "portfolio_percentage": 3.27,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -9765,7 +9765,7 @@
       "date": "Q1 2019",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 160400,
+      "shares": 53466,
       "portfolio_percentage": 0.52,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -10216,7 +10216,7 @@
       "date": "Q4 2018",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 110800,
+      "shares": 36934,
       "portfolio_percentage": 0.58,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -10920,7 +10920,7 @@
       "date": "Q3 2018",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 132600,
+      "shares": 44200,
       "portfolio_percentage": 0.37,
       "company_name": "DuPont de Nemours Inc."
     },
@@ -11002,6 +11002,6 @@
       "company_name": "Micron Technology Inc."
     }
   ],
-  "timestamp": "2026-06-01T07:45:15.916083",
-  "scraped_date": "2026-06-01"
+  "timestamp": "2026-07-01T07:32:14.050042",
+  "scraped_date": "2026-07-01"
 }

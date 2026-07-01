@@ -3819,7 +3819,7 @@
       "company_name": "Murphy Oil"
     },
     {
-      "symbol": "THR",
+      "symbol": "THR-OLD",
       "manager_id": "FE",
       "action": "Reduce 23.75%",
       "date": "Q1 2026",
@@ -4622,7 +4622,7 @@
       "company_name": "Lennox International"
     },
     {
-      "symbol": "MASI",
+      "symbol": "MASI-OLD",
       "manager_id": "FE",
       "action": "Sell 100.00%",
       "date": "Q1 2026",
@@ -6074,7 +6074,7 @@
       "company_name": "Universal Technical Institute"
     },
     {
-      "symbol": "THR",
+      "symbol": "THR-OLD",
       "manager_id": "FE",
       "action": "Add 2.18%",
       "date": "Q4 2025",
@@ -7009,7 +7009,7 @@
       "company_name": "LPL Financial Holdings Inc."
     },
     {
-      "symbol": "MASI",
+      "symbol": "MASI-OLD",
       "manager_id": "FE",
       "action": "Buy",
       "date": "Q4 2025",
@@ -10111,7 +10111,7 @@
       "company_name": "PPG Industries"
     },
     {
-      "symbol": "THR",
+      "symbol": "THR-OLD",
       "manager_id": "FE",
       "action": "Add 12.28%",
       "date": "Q3 2025",
@@ -11002,6 +11002,6 @@
       "company_name": "HealthStream Inc."
     }
   ],
-  "timestamp": "2026-06-01T07:45:16.011013",
-  "scraped_date": "2026-06-01"
+  "timestamp": "2026-07-01T07:32:14.144368",
+  "scraped_date": "2026-07-01"
 }

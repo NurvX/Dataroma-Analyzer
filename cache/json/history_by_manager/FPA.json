@@ -761,7 +761,7 @@
       "company_name": "Kinder Morgan"
     },
     {
-      "symbol": "SATS",
+      "symbol": "ECHO",
       "manager_id": "FPA",
       "action": "Reduce 80.30%",
       "date": "Q1 2026",
@@ -1322,7 +1322,7 @@
       "company_name": "Upwork Inc."
     },
     {
-      "symbol": "SATS",
+      "symbol": "ECHO",
       "manager_id": "FPA",
       "action": "Reduce 50.31%",
       "date": "Q4 2025",
@@ -1828,7 +1828,7 @@
       "company_name": "Laureate Education Inc."
     },
     {
-      "symbol": "SATS",
+      "symbol": "ECHO",
       "manager_id": "FPA",
       "action": "Reduce 66.51%",
       "date": "Q3 2025",
@@ -1916,7 +1916,7 @@
       "company_name": "ICON plc"
     },
     {
-      "symbol": "SATS",
+      "symbol": "ECHO",
       "manager_id": "FPA",
       "action": "Add 36.65%",
       "date": "Q2 2025",
@@ -2664,6 +2664,17 @@
       "company_name": "NCR Atleos Corp."
     },
     {
+      "symbol": "ECHO",
+      "manager_id": "FPA",
+      "action": "Reduce 0.08%",
+      "date": "Q1 2025",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 800,
+      "portfolio_percentage": 0.0,
+      "company_name": "EchoStar Corp."
+    },
+    {
       "symbol": "LPLA",
       "manager_id": "FPA",
       "action": "Reduce 0.08%",
@@ -2673,17 +2684,6 @@
       "shares": 348,
       "portfolio_percentage": 0.0,
       "company_name": "LPL Financial Holdings Inc."
-    },
-    {
-      "symbol": "SATS",
-      "manager_id": "FPA",
-      "action": "Reduce 0.08%",
-      "date": "Q1 2025",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 800,
-      "portfolio_percentage": 0.0,
-      "company_name": "EchoStar Corp."
     },
     {
       "symbol": "ADI",
@@ -3159,6 +3159,17 @@
       "company_name": "Bio-Rad Laboratories Inc."
     },
     {
+      "symbol": "ECHO",
+      "manager_id": "FPA",
+      "action": "Reduce 0.02%",
+      "date": "Q4 2024",
+      "percentage_change": 0.0,
+      "action_type": "Reduce",
+      "shares": 170,
+      "portfolio_percentage": 0.0,
+      "company_name": "EchoStar Corp."
+    },
+    {
       "symbol": "LPLA",
       "manager_id": "FPA",
       "action": "Reduce 0.02%",
@@ -3168,17 +3179,6 @@
       "shares": 73,
       "portfolio_percentage": 0.0,
       "company_name": "LPL Financial Holdings Inc."
-    },
-    {
-      "symbol": "SATS",
-      "manager_id": "FPA",
-      "action": "Reduce 0.02%",
-      "date": "Q4 2024",
-      "percentage_change": 0.0,
-      "action_type": "Reduce",
-      "shares": 170,
-      "portfolio_percentage": 0.0,
-      "company_name": "EchoStar Corp."
     },
     {
       "symbol": "AON",
@@ -3445,7 +3445,7 @@
       "company_name": "Herbalife Nutrition Ltd."
     },
     {
-      "symbol": "IAC",
+      "symbol": "PPLI",
       "manager_id": "FPA",
       "action": "Sell 100.00%",
       "date": "Q4 2024",
@@ -3453,7 +3453,7 @@
       "action_type": "Sell",
       "shares": 48346,
       "portfolio_percentage": 0.04,
-      "company_name": "IAC Inc."
+      "company_name": "People Inc."
     },
     {
       "symbol": "RSVR",
@@ -3522,7 +3522,7 @@
       "company_name": "NCR Voyix Corp."
     },
     {
-      "symbol": "SATS",
+      "symbol": "ECHO",
       "manager_id": "FPA",
       "action": "Buy",
       "date": "Q3 2024",
@@ -4457,6 +4457,6 @@
       "company_name": "Paramount Group Inc."
     }
   ],
-  "timestamp": "2026-06-01T07:45:16.078373",
-  "scraped_date": "2026-06-01"
+  "timestamp": "2026-07-01T07:32:14.209483",
+  "scraped_date": "2026-07-01"
 }

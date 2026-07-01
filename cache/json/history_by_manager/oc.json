@@ -893,7 +893,7 @@
       "company_name": "Indivior Pharmaceuticals Inc."
     },
     {
-      "symbol": "SATS",
+      "symbol": "ECHO",
       "manager_id": "oc",
       "action": "Sell 100.00%",
       "date": "Q4 2025",
@@ -1190,7 +1190,7 @@
       "company_name": "Nu Holdings Ltd"
     },
     {
-      "symbol": "SATS",
+      "symbol": "ECHO",
       "manager_id": "oc",
       "action": "Buy",
       "date": "Q3 2025",
@@ -11002,6 +11002,6 @@
       "company_name": "Alvotech SA  27"
     }
   ],
-  "timestamp": "2026-06-01T07:45:15.729898",
-  "scraped_date": "2026-06-01"
+  "timestamp": "2026-07-01T07:32:13.864301",
+  "scraped_date": "2026-07-01"
 }
