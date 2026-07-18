@@ -53,15 +53,6 @@ jobs:
         python3 dataroma_analysis.py
         echo "✅ Analysis generation completed"
 
-    - name: Upload analysis log
-      if: always()
-      uses: actions/upload-artifact@v4
-      with:
-        name: analysis-log
-        path: analysis.log
-        if-no-files-found: ignore
-        retention-days: 90
-
     - name: Remove Log
       run: |
         rm -f analysis.log
