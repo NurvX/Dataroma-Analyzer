@@ -33,6 +33,8 @@ Transform complex institutional data into actionable investment opportunities:
 | **High Conviction Low Price** | Best value + conviction combination | [📄 CSV](analysis/current/high_conviction_low_price.csv) |
 | **Under Radar Picks** | Hidden gems with manager interest | [📄 CSV](analysis/current/under_radar_picks.csv) |
 | **Contrarian Opportunities** | Against-the-trend institutional plays | [📄 CSV](analysis/current/contrarian_opportunities.csv) |
+| **Hidden Gems** | 5-factor scored under-followed stocks | [📄 CSV](analysis/current/hidden_gems.csv) |
+| **Stock Timelines** | Per-stock accumulation/distribution trend summary | [📄 CSV](analysis/current/stock_timelines.csv) |
 
 ### 📈 **52-Week Extremes Trading**
 | Report | Description | Link |
@@ -121,16 +123,18 @@ Deep dive into manager psychology, performance patterns, and market intelligence
 | **Sector Rotation Patterns** | Institutional sector flow analysis | [📄 CSV](analysis/advanced/sector_rotation_patterns.csv) |
 | **Theme Emergence Detection** | Early identification of investment themes | [📄 CSV](analysis/advanced/theme_emergence_detection.csv) |
 
+> **Sector caveat**: Dataroma does not publish sector classifications, so the two sector-rotation reports approximate sectors from company-name keywords. Treat them as rough heuristics, not real sector data.
+
 ---
 
-## 📈 **Historical Analysis (18-Year Perspective)**
+## 📈 **Historical Analysis (Full-History Perspective)**
 
 ### Long-Term Market Intelligence
 Transform decades of institutional data into strategic insights:
 
 | **Historical Analysis** | **Description** | **Visualization** |
 |------------------------|-----------------|-------------------|
-| **📅 Quarterly Activity Timeline** | 18 years of institutional trading patterns | [📊 Chart](analysis/historical/visuals/quarterly_activity_timeline.png) |
+| **📅 Quarterly Activity Timeline** | Full history of institutional trading patterns | [📊 Chart](analysis/historical/visuals/quarterly_activity_timeline.png) |
 | **🏛️ Crisis Response Analysis** | How managers navigated major market crises | [📊 Chart](analysis/historical/visuals/crisis_response_comparison.png) |
 | **💎 Multi-Decade Conviction** | Stocks held consistently across decades | [📊 Chart](analysis/historical/visuals/multi_decade_conviction.png) |
 | **🔄 Stock Life Cycles** | Complete institutional holding patterns | [📊 Chart](analysis/historical/visuals/stock_life_cycles.png) |
@@ -233,7 +237,7 @@ This tool is designed for **educational and research purposes only**.
 - **Not Investment Advice**: All analysis is for informational purposes
 - **Due Diligence Required**: Always conduct your own research before investing
 - **Risk Awareness**: Past performance does not guarantee future results
-- **Data Limitations**: Analysis based on publicly available 13F filings with inherent delays
+- **Data Limitations**: Analysis based on publicly available 13F filings with inherent delays; Dataroma exposes at most ~1,000 activity records per manager, so very active managers' histories start mid-stream
 
 ---
 
@@ -248,7 +252,7 @@ All institutional holdings data sourced from [Dataroma.com](https://www.dataroma
 ## 🚀 **Next Steps**
 
 1. **Explore Current Analysis**: Start with `analysis/README.md` for latest opportunities
-2. **Check Visualizations**: Review the 6 current opportunity charts for actionable insights  
+2. **Check Visualizations**: Review the current opportunity charts for actionable insights  
 3. **Dive Into Data**: Use CSV reports for detailed stock-by-stock analysis
 4. **Historical Context**: Review `analysis/historical/` for long-term performance trends
 5. **Custom Analysis**: Fork the repo and customize for your research needs
