@@ -58,6 +58,19 @@ class ManagerPerformanceOverview:
         """Create all time-based performance analyses."""
         viz_paths = []
 
+        # These charts were built around annualized_return_pct, which turned
+        # out to be a fabricated metric (a pure function of years_active from
+        # an assumed 10%/yr growth) and has been removed from the analyzer.
+        # Without it there is no honest "performance" to plot, so skip these
+        # charts rather than render fabricated returns.
+        if "annualized_return_pct" not in track_records_df.columns:
+            logger.info(
+                "Skipping 3/5/10-year and comprehensive performance charts: "
+                "no real return data exists in 13F filings (the previous "
+                "annualized_return_pct column was synthetic and was removed)."
+            )
+            return viz_paths
+
         analyses = [
             (3, "3_year_performance"),
             (5, "5_year_performance"),
@@ -708,14 +721,19 @@ class ManagerPerformanceOverview:
                 .round(2)
             )
 
-            # Create box plot
+            # Create box plot — iterate the SAME labels pd.cut produced (the
+            # last label is dynamic, e.g. "2020-2026"; a hardcoded "2020+"
+            # here silently dropped the newest cohort from the chart).
+            cohort_order = ["Pre-2008", "2008-2012", "2012-2016", "2016-2020", f"2020-{current_year}"]
             cohort_data = []
             cohort_labels = []
-            for cohort in ["Pre-2008", "2008-2012", "2012-2016", "2016-2020", "2020+"]:
+            cohort_names_present = []
+            for cohort in cohort_order:
                 data = df[df["cohort"] == cohort]["annualized_return_pct"].dropna()
                 if len(data) > 0:
                     cohort_data.append(data)
                     cohort_labels.append(f"{cohort}\n(n={len(data)})")
+                    cohort_names_present.append(cohort)
 
             if cohort_data:
                 bp = ax.boxplot(cohort_data, patch_artist=True)
@@ -727,7 +745,7 @@ class ManagerPerformanceOverview:
                     patch.set_alpha(0.7)
 
                 # Custom x-axis labels without sample size
-                ax.set_xticklabels(["Pre-2008", "2008-2012", "2012-2016", "2016-2020", "2020+"][: len(cohort_data)])
+                ax.set_xticklabels(cohort_names_present)
 
                 # Add sample sizes inside boxes
                 for i, data in enumerate(cohort_data):

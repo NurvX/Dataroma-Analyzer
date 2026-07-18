@@ -986,8 +986,9 @@ CONTRACT_MANAGER_PERFORMANCE = FileContract(
         "diversification_score": ColumnSpec("diversification_score", "Diversification score", "float", (0, 100)),
         "first_year": ColumnSpec("first_year", "First year tracked", "float"),
         "years_active": ColumnSpec("years_active", "Years of activity", "float", (0, None)),
-        "total_return_pct": ColumnSpec("total_return_pct", "Estimated total return %", "float"),
-        "annualized_return_pct": ColumnSpec("annualized_return_pct", "Estimated annualized return %", "float"),
+        # total_return_pct / annualized_return_pct were removed: they were
+        # synthetic values derived from an assumed 10%/yr growth rate, not
+        # measurable from 13F data.
     }
 )
 
@@ -1019,9 +1020,8 @@ CONTRACT_MANAGER_TRACK_RECORDS = FileContract(
         "total_crisis_actions": ColumnSpec("total_crisis_actions", "Total crisis actions", "int", (0, None)),
         "crisis_buying_ratio": ColumnSpec("crisis_buying_ratio", "Crisis buying ratio", "float", (0, 1)),
         "current_portfolio_value": ColumnSpec("current_portfolio_value", "Current portfolio value", "float", (0, None)),
-        "estimated_initial_value": ColumnSpec("estimated_initial_value", "Estimated initial value", "float", (0, None)),
-        "total_return_pct": ColumnSpec("total_return_pct", "Total return percentage", "float"),
-        "annualized_return_pct": ColumnSpec("annualized_return_pct", "Annualized return percentage", "float"),
+        # estimated_initial_value / total_return_pct / annualized_return_pct
+        # were removed: fabricated from an assumed 10%/yr growth rate.
         "track_record_score": ColumnSpec("track_record_score", "Overall track record score", "float", (0, None)),
     }
 )
@@ -1098,7 +1098,7 @@ CONTRACT_POSITION_FLIP_POINTS = FileContract(
         "quarters_after_flip": ColumnSpec("quarters_after_flip", "Quarters since flip", "int", (0, None)),
         "traceability_status": ColumnSpec(
             "traceability_status", "Data quality status", "str",
-            allowed_values=["matched", "partial", "inferred", "unknown", "delisted"]
+            allowed_values=["matched", "partial", "inferred", "unknown", "delisted", "no_timeline"]
         ),
         "current_shares": ColumnSpec("current_shares", "Current shares held", "float", (0, None)),
         "still_held": ColumnSpec("still_held", "Whether position still exists", "bool"),
@@ -1238,7 +1238,7 @@ CONTRACT_MULTI_DECADE_CONVICTION = FileContract(
         "top_manager_consistency": ColumnSpec("top_manager_consistency", "Top manager consistency %", "str"),
         "conviction_type": ColumnSpec(
             "conviction_type", "Type of conviction", "str",
-            allowed_values=["Consensus Champion", "Single Manager Focus", "Growing Consensus", "Legacy Holding", "Multi-Decade Champion"]
+            allowed_values=["Consensus Champion", "Single Manager Focus", "Growing Consensus", "Legacy Holding", "Multi-Decade Champion", "Decade+ Conviction"]
         ),
     }
 )

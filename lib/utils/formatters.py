@@ -264,15 +264,25 @@ class DataFormatter:
         if col not in df.columns:
             return df
 
-        # Extract action counts to separate columns
+        # Extract action counts to separate columns.
+        # The analyzers may have already stringified the breakdown
+        # (e.g. "Add: 3, Buy: 1"), so handle both dict and string forms
+        # instead of silently writing zeros for strings.
         action_types = ["Buy", "Add", "Reduce", "Sell"]
+
+        def extract_count(value, action):
+            if isinstance(value, dict):
+                return value.get(action, 0)
+            if isinstance(value, str):
+                match = re.search(rf"\b{action}\b\s*:\s*(\d+)", value)
+                if match:
+                    return int(match.group(1))
+            return 0
 
         for action in action_types:
             new_col = f"{action.lower()}_count"
             if new_col not in df.columns:
-                df[new_col] = df[col].apply(
-                    lambda x: x.get(action, 0) if isinstance(x, dict) else 0
-                )
+                df[new_col] = df[col].apply(lambda x, a=action: extract_count(x, a))
 
         # Drop the original JSON column
         df = df.drop(columns=[col])
@@ -337,5 +347,10 @@ class DataFormatter:
         df = cls.remove_duplicate_columns(df)
         df = cls.flatten_json_columns(df)
         df = cls.apply_precision_formatting(df)
+
+        # Drop artifact columns left behind by chained reset_index() calls
+        artifact_cols = [c for c in df.columns if c in ("index", "level_0")]
+        if artifact_cols:
+            df = df.drop(columns=artifact_cols)
 
         return df

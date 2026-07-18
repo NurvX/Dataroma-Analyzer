@@ -1,8 +1,8 @@
 # 📊 Dataroma Investment Analysis Suite
 
-**Comprehensive institutional investment analysis powered by real portfolio data from 81 top managers**
+**Comprehensive institutional investment analysis powered by real portfolio data from 80+ top managers**
 
-This repository provides a complete solution for analyzing institutional investment data from [Dataroma](https://www.dataroma.com), tracking **$1.7+ trillion** in assets under management across **3,311 current holdings** and **57,575 historical activities**.
+This repository provides a complete solution for analyzing institutional investment data from [Dataroma](https://www.dataroma.com). As of the July 2026 refresh it tracks **~$1.07 trillion** in reported holdings across **4,247 current positions** and **54,834 historical activities** (83 managers); exact figures update with each monthly run and are reported in [analysis/README.md](analysis/README.md).
 
 Detailed analysis is in [analysis/](analysis/) folder.
 
@@ -64,16 +64,15 @@ Transform complex institutional data into actionable investment opportunities:
 ### 🆕 **NEW: Position Timeline Tracking**
 **Track how managers build and reduce positions over time!**
 
-| **Timeline Analysis** | **Description** | **Rows** | **Use Case** |
+| **Timeline Analysis** | **Description** | **Rows (Jul 2026)** | **Use Case** |
 |----------------------|-----------------|----------|--------------|
-| **📈 Position Building Timeline** | Quarter-by-quarter position progression for each manager-stock | **45,173** | See EXACTLY how managers accumulated/distributed positions over time |
-| **🔄 Accumulation vs Distribution** | Current phase (building vs reducing) for active positions | **200** | Identify which positions are being built up RIGHT NOW |
-| **🔀 Position Flip Points** | When managers switched from accumulation to distribution | **100** | Spot when smart money started reducing winners |
+| **📈 Position Building Timeline** | Quarter-by-quarter position progression for each manager-stock | **40,713** | See how managers accumulated/distributed positions over time |
+| **🔄 Accumulation vs Distribution** | Net building vs reducing per stock over the last 4 quarters (top 100 most active) | **100** | Identify which stocks are being built up or wound down |
+| **🔀 Position Flip Points** | When managers switched from accumulation to distribution | **96** | Spot when managers started reducing positions |
 
-**Example Insights**:
-- See Robert Olstein accumulate DIS from 10K → 64K shares (Q3 2022 - Q3 2023)
-- Identify when he flipped to distribution mode (Q1 2024)
-- Track current accumulation phase across all holdings
+**Important caveats**:
+- Dataroma publicly exposes at most ~1,000 activities per manager, so very active managers' history starts mid-stream; rows carry a `has_complete_history` flag and cumulative share counts are only reliable when it is true.
+- Row counts refresh monthly; the table above reflects the July 2026 run.
 
 📄 Files: [position_building_timeline.csv](analysis/advanced/position_building_timeline.csv) | [accumulation_vs_distribution.csv](analysis/advanced/accumulation_vs_distribution.csv) | [position_flip_points.csv](analysis/advanced/position_flip_points.csv)
 
@@ -91,13 +90,7 @@ Deep dive into manager psychology, performance patterns, and market intelligence
 | **🤝 Consensus Picks** | Stocks with broad institutional agreement | [📊 Chart](analysis/advanced/visuals/consensus_picks_advanced.png) |
 | **💎 Top Holdings Analysis** | Deep dive into largest institutional positions | [📊 Chart](analysis/advanced/visuals/top_holdings_advanced.png) |
 
-### Multi-Timeframe Performance Analysis
-| **Performance Timeframe** | **Description** | **Visualization** |
-|---------------------------|-----------------|-------------------|
-| **📈 3-Year Performance** | Recent performance across market cycles | [📊 Chart](analysis/advanced/visuals/3_year_performance.png) |
-| **📊 5-Year Performance** | Medium-term track record analysis | [📊 Chart](analysis/advanced/visuals/5_year_performance.png) |
-| **🏛️ 10-Year Performance** | Long-term excellence identification | [📊 Chart](analysis/advanced/visuals/10_year_performance.png) |
-| **🎯 Comprehensive Performance** | All-time performance across all metrics | [📊 Chart](analysis/advanced/visuals/comprehensive_performance.png) |
+> **Note on "performance" metrics**: 13F filings contain no purchase or sale prices, so actual investment returns cannot be computed from this data. Earlier versions displayed an "annualized return" per manager that was derived from an assumed flat 10%/year growth rate (it was a pure function of years tracked); that metric and its charts have been removed. Manager rankings now use the activity-based track record score.
 
 ### 📊 **Advanced Analysis Reports**
 
@@ -145,7 +138,7 @@ Transform decades of institutional data into strategic insights:
 ### 📅 **Historical Data Reports**
 | Report | Description | Link |
 |--------|-------------|------|
-| **Quarterly Activity Timeline** | 73 quarters of market activity trends | [📄 CSV](analysis/historical/quarterly_activity_timeline.csv) |
+| **Quarterly Activity Timeline** | Full-history market activity trends by quarter (77 quarters as of July 2026) | [📄 CSV](analysis/historical/quarterly_activity_timeline.csv) |
 | **Crisis Response Analysis** | Manager behavior during market downturns | [📄 CSV](analysis/historical/crisis_response_analysis.csv) |
 | **Multi-Decade Conviction** | Long-term institutional favorites | [📄 CSV](analysis/historical/multi_decade_conviction.csv) |
 | **Stock Life Cycles** | Complete holding pattern analysis | [📄 CSV](analysis/historical/stock_life_cycles.csv) |
@@ -165,16 +158,16 @@ pip install -r requirements.txt
 # Run scraper for fresh data (force refresh HTML cache)
 python3 dataroma_scrape.py --force-refresh
 
-# Generate comprehensive analysis (39 CSV files + 20 visualizations)
+# Generate comprehensive analysis (41 CSV files + visualizations)
 python3 dataroma_analysis.py
 ```
 
 ### Output Structure
 ```
 analysis/
-├── current/          # 17 CSV files - Recent opportunities (last 3 quarters)
+├── current/          # 19 CSV files - Recent opportunities (last 3 quarters)
 ├── advanced/         # 18 CSV files - Manager intelligence & position timelines
-├── historical/       # 4 CSV files - 18-year trends and patterns
+├── historical/       # 4 CSV files - Full-history trends and patterns
 └── README.md         # Comprehensive documentation of all analyses
 ```
 
@@ -224,7 +217,7 @@ Transform raw institutional data into investment intelligence:
 
 ## 📋 **Analysis Workflow**
 
-1. **Data Collection**: Scraping of 81 manager portfolios from Dataroma
+1. **Data Collection**: Scraping of all listed manager portfolios from Dataroma
 2. **Data Processing**: Clean, normalize, and enrich with historical performance data
 3. **Opportunity Identification**: Multi-factor scoring across momentum, value, and conviction
 4. **Visualization Generation**: Create actionable charts with embedded opportunity tables  

@@ -507,10 +507,12 @@ class CurrentVisualizer:
 
                     # Count unique managers per price range
                     if "managers" in df.columns:
+                        # Manager lists are ", "-joined strings (see
+                        # data_loader.get_manager_list) — split on commas.
                         all_managers = set()
                         for managers in df["managers"].dropna():
                             if isinstance(managers, str):
-                                for mgr in managers.split("\n"):
+                                for mgr in managers.split(","):
                                     mgr = mgr.strip()
                                     if mgr:
                                         all_managers.add(mgr)
@@ -601,10 +603,17 @@ class CurrentVisualizer:
                         fontweight="bold",
                     )
 
-            all_prices = []
-            for df in price_dfs.values():
-                if not df.empty and "current_price" in df.columns:
-                    all_prices.extend(df["current_price"].tolist())
+            # The price tiers are cumulative (a $3 stock appears in all five
+            # "under $X" frames), so deduplicate by ticker before computing
+            # distribution statistics — otherwise cheap stocks are counted up
+            # to 5x and the mean/median are biased downward.
+            pooled = pd.concat(
+                [df for df in price_dfs.values() if not df.empty and "current_price" in df.columns],
+                ignore_index=True,
+            ) if price_dfs else pd.DataFrame()
+            if not pooled.empty and "ticker" in pooled.columns:
+                pooled = pooled.drop_duplicates(subset=["ticker"])
+            all_prices = pooled["current_price"].tolist() if not pooled.empty else []
 
             if all_prices:
                 # Use better bins and add statistics
@@ -625,13 +634,14 @@ class CurrentVisualizer:
                 axes[2].legend()
 
             # Manager concentration in low-price stocks with count labels
+            # (deduplicated across the cumulative tiers, one count per ticker)
             low_price_managers = {}
-            for df in price_dfs.values():
-                if not df.empty and "managers" in df.columns:
-                    for managers in df["managers"]:
-                        if pd.notna(managers):
-                            for mgr in str(managers).split(","):
-                                mgr = mgr.strip()
+            if not pooled.empty and "managers" in pooled.columns:
+                for managers in pooled["managers"]:
+                    if pd.notna(managers):
+                        for mgr in str(managers).split(","):
+                            mgr = mgr.strip()
+                            if mgr:
                                 low_price_managers[mgr] = low_price_managers.get(mgr, 0) + 1
 
             if low_price_managers:
@@ -795,10 +805,22 @@ class CurrentVisualizer:
                     buy_opps = [opp for opp in all_opportunities if opp["action"] == "BUY"]
                     sell_opps = [opp for opp in all_opportunities if opp["action"] == "SELL"]
 
-                    buy_opps.sort(key=lambda x: x["52_week_position_pct"])
-                    sell_opps.sort(
-                        key=lambda x: x["52_week_position_pct"], reverse=True
-                    )  # Highest % first (near highs)
+                    # Sort by the SAME metric the table displays (distance from
+                    # the 52-week low/high) so the printed percentages read as
+                    # ordered. Sorting by range position while displaying
+                    # low-normalized distance made rows look unsorted.
+                    def _distance_from_low(opp):
+                        if opp["current_price"] > 0 and opp["52_week_low"] > 0:
+                            return (opp["current_price"] - opp["52_week_low"]) / opp["52_week_low"] * 100
+                        return float("inf")
+
+                    def _distance_from_high(opp):
+                        if opp["current_price"] > 0 and opp["52_week_high"] > 0:
+                            return (opp["52_week_high"] - opp["current_price"]) / opp["52_week_high"] * 100
+                        return float("inf")
+
+                    buy_opps.sort(key=_distance_from_low)
+                    sell_opps.sort(key=_distance_from_high)
 
                     # Show top 5 buy opportunities
                     for opp in buy_opps[:5]:
@@ -981,7 +1003,16 @@ class CurrentVisualizer:
 
                 # Calculate and prominently display correlation
                 correlation = filtered_df["current_price"].corr(filtered_df["portfolio_percent"])
-                correlation_text = f"Correlation: {correlation:.3f}\n(Practically Zero - No Price/Weight Relationship)"
+                abs_r = abs(correlation) if pd.notna(correlation) else 0.0
+                if abs_r < 0.1:
+                    corr_desc = "Negligible Price/Weight Relationship"
+                elif abs_r < 0.3:
+                    corr_desc = "Weak Price/Weight Relationship"
+                elif abs_r < 0.5:
+                    corr_desc = "Moderate Price/Weight Relationship"
+                else:
+                    corr_desc = "Strong Price/Weight Relationship"
+                correlation_text = f"Correlation: {correlation:.3f}\n({corr_desc})"
                 axes[0].text(
                     0.02,
                     0.98,
@@ -1152,9 +1183,11 @@ class CurrentVisualizer:
         # Create full-sized comprehensive analysis table
         axes[3].axis("off")
         if not df.empty:
-            # Calculate metrics
+            # Calculate metrics. Use the SAME high_conviction_threshold that
+            # was passed in (and drawn on the scatter/bar panels) — a local
+            # reassignment here previously made the summary table disagree
+            # with the other panels in the same figure.
             total_positions = len(df)
-            high_conviction_threshold = 5.0  # More reasonable threshold
             low_price_threshold = 50
 
             # Build comprehensive table data
@@ -1174,15 +1207,15 @@ class CurrentVisualizer:
                     ]
                     table_data.append(
                         [
-                            "High Conviction (>5%)",
+                            f"High Conviction (>{high_conviction_threshold:.1f}%)",
                             f"{high_conviction_count} positions",
                             ", ".join(high_conv_tickers[:3]),
                         ]
                     )
                 else:
-                    table_data.append(["High Conviction (>5%)", "0 positions", "None found"])
+                    table_data.append([f"High Conviction (>{high_conviction_threshold:.1f}%)", "0 positions", "None found"])
             else:
-                table_data.append(["High Conviction (>5%)", "N/A", "Portfolio % data not available"])
+                table_data.append([f"High Conviction (>{high_conviction_threshold:.1f}%)", "N/A", "Portfolio % data not available"])
 
             # Low Price positions (<$50)
             if "current_price" in df.columns:
@@ -1300,7 +1333,12 @@ class CurrentVisualizer:
                         manager_col = col
                         break
 
-                if manager_col:
+                if "manager_count" in low_price_df.columns:
+                    # Prefer the analyzer's own manager_count: recomputing it
+                    # from the joined manager STRING undercounts once the list
+                    # is capped (the loader shows at most 10 names).
+                    pass
+                elif manager_col:
                     if manager_col == "managers":
                         low_price_df["manager_count"] = low_price_df["managers"].str.count(",") + 1
                     else:
@@ -1312,10 +1350,16 @@ class CurrentVisualizer:
                 else:
                     low_price_df["manager_count"] = 1
 
-                # Sort by total accumulation (manager count * portfolio weight)
-                if "portfolio_percent" in low_price_df.columns:
+                # Sort by total accumulation (manager count * portfolio weight).
+                # The price-tier frames carry avg_portfolio_pct (there is no
+                # column literally named portfolio_percent), so check both —
+                # the old check made this branch permanently dead.
+                pct_col = next(
+                    (c for c in ["portfolio_percent", "avg_portfolio_pct"] if c in low_price_df.columns), None
+                )
+                if pct_col:
                     low_price_df["accumulation_score"] = (
-                        low_price_df["manager_count"] * low_price_df["portfolio_percent"]
+                        low_price_df["manager_count"] * low_price_df[pct_col]
                     )
                     sort_col = "accumulation_score"
                     xlabel = "Accumulation Score (Managers × Portfolio %)"
@@ -1360,6 +1404,10 @@ class CurrentVisualizer:
                 # Create heatmap data: Manager × Stock accumulation
                 manager_stock_data = []
 
+                heat_pct_col = next(
+                    (c for c in ["portfolio_percent", "avg_portfolio_pct"] if c in low_price_df.columns), None
+                )
+
                 if manager_col == "managers":
                     # Multiple managers per row
                     for _, row in low_price_df.head(10).iterrows():  # Top 10 stocks
@@ -1370,7 +1418,10 @@ class CurrentVisualizer:
                                     {
                                         "manager": manager[:15],  # Truncate names
                                         "ticker": row["ticker"],
-                                        "value": row.get("portfolio_percent", 1),
+                                        # Real portfolio % (the old hard default
+                                        # of 1 made the heatmap binary while
+                                        # its colorbar claimed "Portfolio %")
+                                        "value": row.get(heat_pct_col, 1) if heat_pct_col else 1,
                                     }
                                 )
                 else:
@@ -1386,7 +1437,7 @@ class CurrentVisualizer:
                                     {
                                         "manager": str(row[manager_col])[:15],
                                         "ticker": ticker,
-                                        "value": row.get("portfolio_percent", 1),
+                                        "value": row.get(heat_pct_col, 1) if heat_pct_col else 1,
                                     }
                                 )
 
@@ -1414,7 +1465,21 @@ class CurrentVisualizer:
                 # Calculate required metrics
                 avg_price = low_price_df[price_col].mean() if price_col in low_price_df.columns else 0
                 total_positions = len(low_price_df)
-                unique_managers = low_price_df[manager_col].nunique() if manager_col else 0
+                # Count distinct individual managers. nunique() on the joined
+                # "managers" STRING counted distinct name-combinations
+                # (~one per ticker), overstating the total.
+                if manager_col == "managers":
+                    _names = set()
+                    for _val in low_price_df[manager_col].dropna():
+                        for _m in str(_val).split(","):
+                            _m = _m.strip()
+                            if _m and not _m.startswith("+"):
+                                _names.add(_m)
+                    unique_managers = len(_names)
+                elif manager_col:
+                    unique_managers = low_price_df[manager_col].nunique()
+                else:
+                    unique_managers = 0
 
                 # Build comprehensive opportunities table data
                 table_data = []
@@ -1523,39 +1588,53 @@ class CurrentVisualizer:
             score_col = "concentration_score" if "concentration_score" in df.columns else "change_pct"
 
             if score_col in df.columns:
-                top_increases = df.nlargest(10, score_col)
+                # concentration_score is an UNSIGNED magnitude; ranking the
+                # whole frame by it and coloring green/red implied direction
+                # it does not have (Reduced positions appeared under
+                # "Highest", new buys under "Lowest"). Split by the actual
+                # change_type so green = building, red = reducing.
+                if "change_type" in df.columns:
+                    increasing = df[df["change_type"].isin(["Increased", "New High Conviction", "Maintained"])]
+                    decreasing = df[df["change_type"].isin(["Reduced", "Partial Exit"])]
+                else:
+                    increasing = df
+                    decreasing = df.iloc[0:0]
+
+                top_increases = increasing.nlargest(10, score_col)
                 _ = axes[0].barh(top_increases["ticker"], top_increases[score_col], color="green", alpha=0.7)
                 axes[0].set_xlabel("Concentration Score", fontweight="bold")
-                axes[0].set_title("Highest Concentration Scores", fontsize=12, fontweight="bold")
+                axes[0].set_title("Top Building/Held Positions (by score)", fontsize=12, fontweight="bold")
                 axes[0].invert_yaxis()
                 axes[0].grid(True, alpha=0.3)
 
-                max_score = top_increases[score_col].max()
-                axes[0].set_xlim(0, max_score * 1.1)  # Add 10% padding
-                for i, (ticker, score) in enumerate(zip(top_increases["ticker"], top_increases[score_col])):
-                    axes[0].text(
-                        score + max_score * 0.02,
-                        i,
-                        f"{score:.1f}",
-                        va="center",
-                        ha="left",
-                        fontsize=9,
-                        fontweight="bold",
-                    )
+                if not top_increases.empty:
+                    max_score = top_increases[score_col].max()
+                    axes[0].set_xlim(0, max_score * 1.1)  # Add 10% padding
+                    for i, (ticker, score) in enumerate(zip(top_increases["ticker"], top_increases[score_col])):
+                        axes[0].text(
+                            score + max_score * 0.02,
+                            i,
+                            f"{score:.1f}",
+                            va="center",
+                            ha="left",
+                            fontsize=9,
+                            fontweight="bold",
+                        )
 
-                top_decreases = df.nsmallest(10, score_col)
+                top_decreases = decreasing.nlargest(10, score_col)
                 _ = axes[1].barh(top_decreases["ticker"], top_decreases[score_col], color="red", alpha=0.7)
                 axes[1].set_xlabel("Concentration Score", fontweight="bold")
-                axes[1].set_title("Lowest Concentration Scores", fontsize=12, fontweight="bold")
+                axes[1].set_title("Top Reducing Positions (by score)", fontsize=12, fontweight="bold")
                 axes[1].invert_yaxis()
                 axes[1].grid(True, alpha=0.3)
 
-                min_score = top_decreases[score_col].min()
-                axes[1].set_xlim(min_score * 1.1, 0)  # Adjust limits for negative values
-                for i, (ticker, score) in enumerate(zip(top_decreases["ticker"], top_decreases[score_col])):
-                    # Position labels correctly for negative values
-                    label_x = score + (abs(min_score) * 0.02 if score < 0 else min_score * 0.02)
-                    axes[1].text(label_x, i, f"{score:.1f}", va="center", ha="left", fontsize=9, fontweight="bold")
+                if not top_decreases.empty:
+                    max_dec = top_decreases[score_col].max()
+                    axes[1].set_xlim(0, max_dec * 1.1)
+                    for i, (ticker, score) in enumerate(zip(top_decreases["ticker"], top_decreases[score_col])):
+                        axes[1].text(
+                            score + max_dec * 0.02, i, f"{score:.1f}", va="center", ha="left", fontsize=9, fontweight="bold"
+                        )
 
                 axes[2].hist(df[score_col], bins=30, color="blue", alpha=0.7, edgecolor="black", linewidth=0.5)
                 axes[2].set_xlabel("Concentration Score", fontweight="bold")

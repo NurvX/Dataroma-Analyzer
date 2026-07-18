@@ -241,8 +241,13 @@ class MomentumAnalyzer(MultiAnalyzer):
                     (new_analysis["value_current"] - new_analysis["value"]) / new_analysis["value"] * 100
                 ).fillna(0)
 
-        # Sort by period (most recent first) and value
-        new_analysis = new_analysis.sort_values(["period", "value"], ascending=[False, False])
+        # Sort by period (most recent first, true chronology) and value.
+        # A plain string sort on "Qn YYYY" would put Q4 2025 ahead of Q1 2026.
+        new_analysis["_year"] = new_analysis["period"].astype(str).str.extract(r"(\d{4})").fillna(0).astype(int)
+        new_analysis["_qtr"] = new_analysis["period"].astype(str).str.extract(r"Q(\d)").fillna(0).astype(int)
+        new_analysis = new_analysis.sort_values(
+            ["_year", "_qtr", "value"], ascending=[False, False, False]
+        ).drop(columns=["_year", "_qtr"])
 
         result = self.format_output(new_analysis).head(100)
         return self.add_metadata_columns(result, window_quarters=3, analysis_type="new_positions")
@@ -283,7 +288,9 @@ class MomentumAnalyzer(MultiAnalyzer):
         )
 
         buy_summary.columns = ["buy_count", "buying_managers", "shares_bought", "periods", "activities"]
-        buy_summary["managers_shown"] = 5  # Matches preview truncation limit
+        buy_summary["managers_shown"] = (
+            buy_summary["buying_managers"].fillna("").str.split(",").str.len().clip(upper=5).astype(int)
+        )
 
         # Get current holdings with 52-week data
         if self.data.holdings_df is not None and not self.data.holdings_df.empty:
@@ -398,7 +405,9 @@ class MomentumAnalyzer(MultiAnalyzer):
         )
 
         sell_summary.columns = ["sell_count", "selling_managers", "shares_sold", "periods", "activities"]
-        sell_summary["managers_shown"] = 5  # Matches preview truncation limit
+        sell_summary["managers_shown"] = (
+            sell_summary["selling_managers"].fillna("").str.split(",").str.len().clip(upper=5).astype(int)
+        )
 
         # Get current holdings with 52-week data
         if self.data.holdings_df is not None and not self.data.holdings_df.empty:
@@ -516,7 +525,7 @@ class MomentumAnalyzer(MultiAnalyzer):
         )
 
         sell_analysis.columns = ["unique_sellers", "selling_managers", "action_breakdown", "periods"]
-        sell_analysis["managers_shown"] = 5  # Matches preview truncation limit
+        sell_analysis["managers_shown"] = sell_analysis["unique_sellers"].clip(upper=5).astype(int)
 
         # Calculate shares sold from Reduce actions (need to parse percentage from action string)
         import re

@@ -311,7 +311,9 @@ class AdvancedVisualizer:
                         ha=ha,
                         bbox=dict(boxstyle="round,pad=0.2", facecolor="yellow", alpha=0.7),
                     )
-                axes[1].invert_yaxis()
+                # NOTE: no invert_yaxis() here — this is a scatter, and
+                # inverting rendered the best crisis-alpha scores at the
+                # BOTTOM of the chart (higher should read as up).
 
             if all(col in df.columns for col in ["buy_during_crisis", "total_crisis_activities"]):
                 df["buy_ratio"] = df["buy_during_crisis"] / df["total_crisis_activities"]
@@ -471,10 +473,13 @@ class AdvancedVisualizer:
                 axes[2].set_ylabel("Style Change Score")
                 axes[2].set_title("Experience vs Style Evolution")
 
-            if all(col in df.columns for col in ["early_buy_ratio", "late_buy_ratio"]):
+            # The analyzer emits early_buy_pct / late_buy_pct — the previous
+            # gate checked *_ratio names that never exist, so this panel
+            # rendered permanently blank.
+            if all(col in df.columns for col in ["early_buy_pct", "late_buy_pct"]):
                 axes[3].scatter(
-                    df["early_buy_ratio"],
-                    df["late_buy_ratio"],
+                    df["early_buy_pct"],
+                    df["late_buy_pct"],
                     s=80,
                     alpha=0.6,
                     color="purple",
@@ -490,12 +495,12 @@ class AdvancedVisualizer:
                 axes[3].grid(True, alpha=0.3)
                 axes[3].legend(loc="upper left", fontsize=10, frameon=True, fancybox=True)
 
-                df["buy_change"] = abs(df["late_buy_ratio"] - df["early_buy_ratio"])
+                df["buy_change"] = abs(df["late_buy_pct"] - df["early_buy_pct"])
                 top_changers = df.nlargest(3, "buy_change")
                 for _, row in top_changers.iterrows():
                     manager_name_col = "manager_name" if "manager_name" in row else "manager"
                     axes[3].annotate(
-                        row[manager_name_col][:10], (row["early_buy_ratio"], row["late_buy_ratio"]), fontsize=8
+                        row[manager_name_col][:10], (row["early_buy_pct"], row["late_buy_pct"]), fontsize=8
                     )
 
             plt.suptitle("Manager Evolution Patterns", fontsize=16, fontweight="bold")
@@ -517,11 +522,17 @@ class AdvancedVisualizer:
             fig, axes = plt.subplots(2, 2, figsize=(14, 10))
             axes = axes.flatten()
 
-            top_consensus = df.head(20)
+            # Rank the top-20 by the metric the bars actually display
+            # (manager_count). Taking df.head(20) inherited the analyzer's
+            # consensus_score ordering, producing visibly non-monotonic bars
+            # under an axis labeled "Number of Managers".
+            top_consensus = (
+                df.nlargest(20, "manager_count") if "manager_count" in df.columns else df.head(20)
+            )
 
             _ = axes[0].barh(top_consensus["ticker"], top_consensus["manager_count"], color="darkblue", alpha=0.7)
             axes[0].set_xlabel("Number of Managers", fontweight="bold")
-            axes[0].set_title("Top 20 Consensus Picks", fontsize=12, fontweight="bold")
+            axes[0].set_title("Top 20 Consensus Picks (by manager count)", fontsize=12, fontweight="bold")
             axes[0].invert_yaxis()
             axes[0].grid(True, alpha=0.3)
 
@@ -556,13 +567,18 @@ class AdvancedVisualizer:
             )
             axes[2].legend(loc="upper right", fontsize=10, frameon=True, fancybox=True)
 
-            if "managers" in df.columns:
+            # The analyzer emits "top_managers" (a truncated preview list);
+            # the previous gate checked a "managers" column that never
+            # exists, so this panel rendered permanently blank.
+            managers_col = next((c for c in ["managers", "top_managers"] if c in df.columns), None)
+            if managers_col:
                 manager_appearances = {}
-                for managers_str in top_consensus["managers"]:
+                for managers_str in top_consensus[managers_col]:
                     if pd.notna(managers_str):
                         for mgr in str(managers_str).split(","):
                             mgr = mgr.strip()
-                            manager_appearances[mgr] = manager_appearances.get(mgr, 0) + 1
+                            if mgr and not mgr.startswith("+"):
+                                manager_appearances[mgr] = manager_appearances.get(mgr, 0) + 1
 
                 top_consensus_mgrs = sorted(manager_appearances.items(), key=lambda x: x[1], reverse=True)[:10]
                 axes[3].bar(

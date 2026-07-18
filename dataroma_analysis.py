@@ -84,6 +84,7 @@ def create_all_visualizations(results: dict, output_dir: str = "analysis"):
                     "high_conviction",
                     "sector_rotation",
                     "long_term_winners",
+                    "accumulation_vs_distribution",
                 ]
             )
             and not df.empty
@@ -167,19 +168,19 @@ def create_visualizations(results: dict, output_dir: str = "analysis"):
         return {}
 
 
-def generate_comprehensive_readme(results: dict, viz_paths: dict, output_dir: str = "analysis"):
+def generate_comprehensive_readme(results: dict, viz_paths: dict, output_dir: str = "analysis", data_loader=None):
     """Generate comprehensive README with embedded visualizations."""
     try:
         from lib.analysis.readme_generator import ReadmeGenerator
 
-        generator = ReadmeGenerator(output_dir)
+        generator = ReadmeGenerator(output_dir, data_loader=data_loader)
         readme_content = generator.generate_readme(results, viz_paths)
         readme_path = generator.save_readme(readme_content)
 
         return readme_path
 
     except Exception as e:
-        logging.error(f"Error generating README: {e}")
+        logging.error(f"Error generating README: {e}", exc_info=True)
         # Fallback to simple summary
         return generate_simple_summary(results, output_dir)
 
@@ -193,16 +194,14 @@ def generate_simple_summary(results: dict, output_dir: str = "analysis"):
         f"\n**Generated**: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}",
         "\n## 📊 Analysis Summary\n",
         f"- **Total Analyses Generated**: {len(results)}",
-        "- **Historical Data Range**: 2007-2025 (18+ years)",
-        "- **Total Activities Analyzed**: 57,643",
-        "- **Total Current Holdings**: 3,311",
+        "- (Headline data statistics are in analysis/README.md, computed from the loaded cache.)",
         "\n## 📁 Generated Files\n",
         "### Current Analysis Reports",
         "- `analysis/current/*.csv` - Last 3 quarters analysis",
         "\n### Advanced Analysis Reports",
         "- `analysis/advanced/*.csv` - Manager performance analysis",
         "\n### Historical Analysis Reports",
-        "- `analysis/historical/*.csv` - Multi-decade analyses (2007-2025)",
+        "- `analysis/historical/*.csv` - Multi-decade analyses",
         "\n### Visualizations",
         "- `analysis/*/visuals/*.png` - Visual analysis for each category",
     ]
@@ -220,7 +219,7 @@ def main():
     setup_logging()
 
     print("🚀 Starting Comprehensive Investment Analysis...")
-    print("   Analyzing 18+ years of data (2007-2025)")
+    print("   Analyzing the full cached Dataroma history")
 
     # Initialize orchestrator
     orchestrator = AnalysisOrchestrator("cache")
@@ -280,7 +279,7 @@ def main():
 
     # Generate comprehensive README
     print("\n📝 Generating comprehensive analysis report...")
-    readme_path = generate_comprehensive_readme(results, viz_paths)
+    readme_path = generate_comprehensive_readme(results, viz_paths, data_loader=orchestrator.data_loader)
     print(f"✅ Analysis report saved to: {readme_path}")
 
     # Final summary

@@ -96,7 +96,7 @@ class HoldingsAnalyzer(MultiAnalyzer):
         grouped["top_managers"] = grouped["manager_ids"].apply(
             lambda ids: ", ".join([self.data.manager_names.get(id, id) for id in ids])
         )
-        grouped["managers_shown"] = 5  # Matches CSVFormatter.format_manager_list max_managers default
+        grouped["managers_shown"] = grouped["manager_ids"].apply(lambda ids: min(len(ids), 5))
         grouped = grouped.drop(columns=["manager_ids"])
 
         # Add stock information if available
@@ -159,7 +159,7 @@ class HoldingsAnalyzer(MultiAnalyzer):
             grouped["top_managers"] = grouped["manager_ids"].apply(
                 lambda ids: ", ".join([self.data.manager_names.get(id, id) for id in ids])
             )
-            grouped["managers_shown"] = 5  # Matches CSVFormatter.format_manager_list max_managers default
+            grouped["managers_shown"] = grouped["manager_ids"].apply(lambda ids: min(len(ids), 5))
             grouped = grouped.drop(columns=["manager_ids"])
 
         # Filter for 5+ managers (consensus picks)
@@ -512,50 +512,25 @@ class HoldingsAnalyzer(MultiAnalyzer):
                 [int(re.search(r"(\d{4})", period).group(1)) for period in all_periods if re.search(r"(\d{4})", period)]
             )
 
-            # Get first year portfolio values for each manager
-            first_year_values = {}
+            # First OBSERVED year per manager, from true quarter chronology.
+            # (A string sort on "Qn YYYY" is lexicographic and can pick the
+            # wrong first period.) NOTE: for the 37/83 managers whose activity
+            # history is truncated at Dataroma's 1,000-row page cap, this is
+            # the first VISIBLE year, not the actual start of their record.
+            #
+            # Earlier versions also fabricated total_return_pct /
+            # annualized_return_pct here from an assumed 10%/yr growth rate.
+            # 13F data contains no transaction prices, so no return can be
+            # computed from it; those columns have been removed.
+            hist = self.data.history_df
+            first_years = (
+                hist["period"].str.extract(r"(\d{4})", expand=False).astype(float).groupby(hist["manager_id"]).min()
+            )
             for manager_id in manager_stats.index:
-                manager_history = self.data.history_df[self.data.history_df["manager_id"] == manager_id].sort_values(
-                    by="period"
-                )
-
-                if not manager_history.empty:
-                    # Get the first year this manager appeared
-                    first_period = manager_history["period"].iloc[0]
-                    # Extract year from period (e.g., "Q1 2010" -> 2010)
-                    year_match = re.search(r"(\d{4})", first_period)
-                    if year_match:
-                        first_year = int(year_match.group(1))
-                        years_active = current_year - first_year
-
-                        # Estimate initial portfolio value (current value / compound growth)
-                        # Assuming average market return of 10% per year
-                        estimated_initial_value = manager_stats.loc[manager_id, "total_value"] / (1.1**years_active)
-                        total_return_pct = (
-                            (
-                                (manager_stats.loc[manager_id, "total_value"] - estimated_initial_value)
-                                / estimated_initial_value
-                                * 100
-                            )
-                            if estimated_initial_value > 0
-                            else 0
-                        )
-                        annualized_return = (total_return_pct / years_active) if years_active > 0 else 0
-
-                        first_year_values[manager_id] = {
-                            "first_year": first_year,
-                            "years_active": years_active,
-                            "total_return_pct": round(total_return_pct, 2),
-                            "annualized_return_pct": round(annualized_return, 2),
-                        }
-
-            # Add return columns
-            for manager_id, return_data in first_year_values.items():
-                if manager_id in manager_stats.index:
-                    manager_stats.loc[manager_id, "first_year"] = return_data["first_year"]
-                    manager_stats.loc[manager_id, "years_active"] = return_data["years_active"]
-                    manager_stats.loc[manager_id, "total_return_pct"] = return_data["total_return_pct"]
-                    manager_stats.loc[manager_id, "annualized_return_pct"] = return_data["annualized_return_pct"]
+                fy = first_years.get(manager_id)
+                if pd.notna(fy):
+                    manager_stats.loc[manager_id, "first_year"] = int(fy)
+                    manager_stats.loc[manager_id, "years_active"] = current_year - int(fy)
 
         # Sort by total value
         manager_stats = manager_stats.sort_values(by="total_value", ascending=False)

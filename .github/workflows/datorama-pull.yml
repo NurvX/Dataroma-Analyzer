@@ -48,11 +48,19 @@ jobs:
         python3 dataroma_scrape.py --force-refresh
 
     - name: Generate comprehensive analysis
-      if: always()
       run: |
         echo "📊 Starting comprehensive investment analysis..."
-        python3 dataroma_analysis.py || echo "⚠️ Analysis completed with warnings"
+        python3 dataroma_analysis.py
         echo "✅ Analysis generation completed"
+
+    - name: Upload analysis log
+      if: always()
+      uses: actions/upload-artifact@v4
+      with:
+        name: analysis-log
+        path: analysis.log
+        if-no-files-found: ignore
+        retention-days: 90
 
     - name: Remove Log
       run: |

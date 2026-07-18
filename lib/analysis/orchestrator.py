@@ -45,11 +45,18 @@ class AnalysisOrchestrator:
     from the original analyze_holdings.py but with clean, modular architecture.
     """
 
-    def __init__(self, cache_dir: str = "cache") -> None:
-        """Initialize orchestrator with data loader and analyzers."""
+    def __init__(self, cache_dir: str = "cache", output_dir: str = "analysis") -> None:
+        """Initialize orchestrator with data loader and analyzers.
+
+        Args:
+            cache_dir: Directory containing the scraped cache.
+            output_dir: Directory to write reports into. Parameterized so
+                tests can redirect output instead of silently overwriting
+                the real committed analysis/ files.
+        """
         self.cache_dir = Path(cache_dir)
-        self.output_dir = Path("analysis")
-        self.output_dir.mkdir(exist_ok=True)
+        self.output_dir = Path(output_dir)
+        self.output_dir.mkdir(parents=True, exist_ok=True)
 
         self.data_loader = DataLoader(cache_dir)
 

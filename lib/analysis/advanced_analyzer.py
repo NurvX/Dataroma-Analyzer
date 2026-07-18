@@ -17,6 +17,7 @@ Source: https://github.com/op7ic/Dataroma-Analyzer
 
 import pandas as pd
 import numpy as np
+import re
 from typing import Dict
 from collections import defaultdict, Counter
 
@@ -30,6 +31,25 @@ class AdvancedHistoricalAnalyzer(MultiAnalyzer):
     def __init__(self, data_loader: DataLoader) -> None:
         """Initialize with data loader."""
         super().__init__(data_loader)
+
+    @staticmethod
+    def _period_sort_key(period: str) -> tuple:
+        """Convert 'Qn YYYY' to a chronologically sortable (year, quarter) tuple."""
+        match = re.match(r"Q(\d)\s+(\d{4})", str(period))
+        if match:
+            return (int(match.group(2)), int(match.group(1)))
+        return (0, 0)
+
+    @classmethod
+    def _sort_chronologically(cls, df: pd.DataFrame, period_col: str = "period") -> pd.DataFrame:
+        """Sort activity rows by true quarter chronology, not string order.
+
+        A plain string sort on "Qn YYYY" groups all Q1s of every year before
+        any Q2 — corrupting any sequence/adjacency logic that follows.
+        """
+        df = df.copy()
+        df["_sort_key"] = df[period_col].apply(cls._period_sort_key)
+        return df.sort_values("_sort_key").drop(columns=["_sort_key"])
 
     def analyze_all(self) -> Dict[str, pd.DataFrame]:
         """Run all advanced historical analyses."""
@@ -464,7 +484,9 @@ class AdvancedHistoricalAnalyzer(MultiAnalyzer):
         )
 
         for ticker in self.data.history_df["ticker"].unique():
-            ticker_data = self.data.history_df[self.data.history_df["ticker"] == ticker].sort_values(by="period")
+            ticker_data = self._sort_chronologically(
+                self.data.history_df[self.data.history_df["ticker"] == ticker]
+            )
 
             if len(ticker_data) < 4:
                 continue
@@ -586,7 +608,7 @@ class AdvancedHistoricalAnalyzer(MultiAnalyzer):
                     mgr_data = manager_sector_analysis[manager_id]
                     mgr_data["sectors_traded"].add(sector)
 
-            periods = sorted(set([p for p, s in sector_activity_by_period.keys()]))
+            periods = sorted(set([p for p, s in sector_activity_by_period.keys()]), key=self._period_sort_key)
             rotation_score = 0
 
             if len(periods) >= 4:
@@ -775,7 +797,7 @@ class AdvancedHistoricalAnalyzer(MultiAnalyzer):
             total_exits = 0
 
             for ticker, ticker_actions in manager_actions.groupby("ticker"):
-                ticker_actions = ticker_actions.sort_values(by="period")
+                ticker_actions = self._sort_chronologically(ticker_actions)
 
                 entry_actions = ticker_actions[ticker_actions["action_type"].isin(["Buy", "Add"])]
                 exit_actions = ticker_actions[ticker_actions["action_type"].isin(["Sell", "Reduce"])]

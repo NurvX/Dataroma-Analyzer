@@ -267,29 +267,30 @@ class ScoringUtils:
         performance_metrics: Optional[dict] = None,
     ) -> float:
         """Calculate manager quality score for weighting (1.0 = average, higher = better)."""
-        # Default scores for well-known high-quality managers
+        # Default scores for well-known high-quality managers, keyed by their
+        # CURRENT Dataroma manager ids (verified against cache/json/managers.json).
+        # Legacy ids kept for backward compatibility with older caches.
         premium_managers = {
+            "BRK": 2.0,  # Warren Buffett
+            "AC": 1.6,  # Chuck Akre
+            "HC": 1.5,  # Li Lu (Himalaya Capital)
+            "psc": 1.4,  # Bill Ackman (Pershing Square)
+            "PI": 1.3,  # Mohnish Pabrai
+            # Legacy ids from the pre-2026 Dataroma id scheme:
             "berkshire": 2.0,
             "bh": 2.0,
             "munger": 1.8,
-            "cm": 1.8,
             "akre": 1.6,
             "value": 1.5,  # Li Lu
             "pershing": 1.4,  # Ackman
             "mohnish": 1.3,
         }
 
-        # Check for exact match first, then partial match for manager IDs
-        base_score = premium_managers.get(manager_id, None)
-        if base_score is None:
-            # Try partial matching for manager IDs (e.g., 'berkshire_hathaway' matches 'berkshire')
-            manager_id_lower = manager_id.lower()
-            for key, value in premium_managers.items():
-                if key in manager_id_lower or manager_id_lower in key:
-                    base_score = value
-                    break
-            if base_score is None:
-                base_score = 1.0
+        # Exact-match only. The previous substring matching handed premium
+        # boosts to unrelated managers (e.g. id "CCM"/"HCM"/"pcm" matched key
+        # "cm", id "VA" matched key "value") while the intended recipients'
+        # real Dataroma ids (e.g. "BRK") matched nothing.
+        base_score = premium_managers.get(manager_id, premium_managers.get(manager_id.lower(), 1.0))
 
         # Adjust based on portfolio size (larger = more credible)
         if total_portfolio_value > 10_000_000_000:  # $10B+

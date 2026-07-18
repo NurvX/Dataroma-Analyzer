@@ -332,9 +332,23 @@ class CrossFileValidator:
             logger.info("No contradictions found - ledger is empty")
         else:
             logger.info(f"Generated contradiction ledger with {len(df)} entries")
-            
+
         return df
-    
+
+    def save_contradiction_ledger(self, output_path: str) -> str:
+        """Write the contradiction ledger to a CSV file.
+
+        Args:
+            output_path: Destination CSV path.
+
+        Returns:
+            The output path, for chaining/logging.
+        """
+        ledger = self.generate_contradiction_ledger()
+        ledger.to_csv(output_path, index=False)
+        logger.info(f"Contradiction ledger saved to {output_path} ({len(ledger)} entries)")
+        return output_path
+
     def get_validation_summary(self) -> Dict[str, Any]:
         """
         Get a summary of the validation results.

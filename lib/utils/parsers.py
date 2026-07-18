@@ -380,9 +380,9 @@ class DataromaParser:
         holdings = []
         soup = BeautifulSoup(html, "html.parser")
 
-        # Extract reporting date from page
+        # Extract reporting date and filing period from page
         reporting_date = self._extract_reporting_date(soup)
-        current_quarter = self._extract_current_quarter()
+        current_quarter = self._extract_reporting_quarter(soup, reporting_date)
 
         # Find the main holdings table
         table = soup.find("table", id="grid")
@@ -415,24 +415,44 @@ class DataromaParser:
         return holdings
 
     def _extract_reporting_date(self, soup) -> str:
-        """Extract reporting date from page."""
-        # Look for date information in various places
-        date_patterns = [
-            r"Updated (\w+ \d+, \d{4})",
-            r"As of (\w+ \d+, \d{4})",
-            r"(\w+ \d+, \d{4})",
-        ]
+        """Extract the portfolio reporting date from the page.
 
-        page_text = soup.text
-        for pattern in date_patterns:
-            match = re.search(pattern, page_text)
-            if match:
-                return match.group(1)
+        Dataroma holdings pages state it as day-first text, e.g.
+        "Portfolio date: 31 Mar 2026". Returns "" when absent rather
+        than guessing from unrelated page text.
+        """
+        match = re.search(r"Portfolio date:\s*(\d{1,2}\s+\w{3,9}\s+\d{4})", soup.text)
+        return match.group(1) if match else ""
+
+    def _extract_reporting_quarter(self, soup, reporting_date: str = "") -> str:
+        """Extract the 13F filing period (e.g. "Q1 2026") from the page.
+
+        Prefers the explicit "Period: Qn YYYY" text on Dataroma holdings
+        pages; falls back to deriving the quarter from the portfolio date.
+        Returns "" when neither is available — never the scrape date.
+        """
+        match = re.search(r"Period:\s*(Q[1-4]\s+\d{4})", soup.text)
+        if match:
+            return match.group(1)
+
+        if reporting_date:
+            from datetime import datetime
+
+            try:
+                parsed = datetime.strptime(reporting_date, "%d %b %Y")
+                return f"Q{(parsed.month - 1) // 3 + 1} {parsed.year}"
+            except ValueError:
+                pass
 
         return ""
 
     def _extract_current_quarter(self) -> str:
-        """Extract current quarter based on date."""
+        """Return the calendar quarter of the scrape date.
+
+        NOTE: this is the quarter the scraper ran in, NOT a filing
+        period. Kept as a utility; holdings parsing uses
+        _extract_reporting_quarter() instead.
+        """
         from datetime import datetime
 
         now = datetime.now()

@@ -104,6 +104,23 @@ class ReadmeGenerator:
         sorted_periods = sorted(periods, key=period_sort_key, reverse=True)
         return list(sorted_periods[:num_quarters])
 
+    def _get_earliest_quarter(self) -> str:
+        """Get the chronologically earliest quarter present in the data ('' if unknown)."""
+        if self.data_loader is None or getattr(self.data_loader, "history_df", None) is None:
+            return ""
+        df = self.data_loader.history_df
+        if df is None or df.empty or "period" not in df.columns:
+            return ""
+        import re
+
+        def period_sort_key(period: str) -> tuple:
+            match = re.match(r"Q(\d)\s+(\d{4})", str(period))
+            if match:
+                return (int(match.group(2)), int(match.group(1)))
+            return (9999, 9)
+
+        return min(df["period"].dropna().unique(), key=period_sort_key, default="")
+
     def generate_readme(self, results: Dict[str, pd.DataFrame], viz_paths: Dict[str, List[str]]) -> str:
         """Generate comprehensive README with all analysis results."""
         # Dynamically determine year range from data
@@ -124,6 +141,20 @@ class ReadmeGenerator:
                 max_year = df["year"].max()
                 years_span = max_year - min_year
 
+        # Quick Stats are computed from the loaded data at generation time.
+        # (They were previously hardcoded literals that silently went stale.)
+        activities_count = holdings_count = managers_count = None
+        if self.data_loader is not None:
+            if getattr(self.data_loader, "activities_df", None) is not None:
+                activities_count = len(self.data_loader.activities_df)
+            if getattr(self.data_loader, "holdings_df", None) is not None:
+                holdings_count = len(self.data_loader.holdings_df)
+            if getattr(self.data_loader, "managers_df", None) is not None:
+                managers_count = len(self.data_loader.managers_df)
+
+        def _fmt_count(value) -> str:
+            return f"{value:,}" if value is not None else "N/A"
+
         content = [
             "# 📊 Dataroma Investment Analysis",
             f"\n*Generated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}*",
@@ -132,9 +163,9 @@ class ReadmeGenerator:
             "providing insights into current opportunities, manager performance patterns, "
             "and long-term investment trends.",
             "\n### 📈 Quick Stats",
-            "- **Total Activities Analyzed**: 57,643",
-            "- **Current Holdings**: 3,311",
-            "- **Managers Tracked**: 81",
+            f"- **Total Activities Analyzed**: {_fmt_count(activities_count)}",
+            f"- **Current Holdings**: {_fmt_count(holdings_count)}",
+            f"- **Managers Tracked**: {_fmt_count(managers_count)}",
             f"- **Time Period**: {min_year}-{max_year}",
             "\n---\n",
         ]
@@ -165,7 +196,7 @@ class ReadmeGenerator:
                 "\nAll data is sourced from [Dataroma](https://www.dataroma.com), tracking "
                 "portfolios of super investors.",
                 "\n---",
-                "\n*Analysis framework powered by modular Python architecture with 100% data accuracy validation*",
+                "\n*Analysis framework powered by modular Python architecture*",
             ]
         )
 
@@ -336,7 +367,8 @@ class ReadmeGenerator:
                             elif pick_type == "Exclusive Pick":
                                 reasons.append("Single manager exclusive")
 
-                            if "Q1 2020" in str(first_established) or "Q2 2024" in str(first_established):
+                            recent_qs = self._get_recent_quarters(3)
+                            if recent_qs and any(q in str(first_established) for q in recent_qs):
                                 reasons.append("Recent discovery")
 
                             if price_per_share < 50:
@@ -419,7 +451,7 @@ class ReadmeGenerator:
             "long_term_winners": ("Sustained institutional interest", "Stocks with long-term institutional backing"),
             "manager_evolution_patterns": ("Strategy adaptation over time", "How managers evolve their approaches"),
             "manager_performance": ("Comprehensive manager evaluation", "Multi-dimensional performance metrics"),
-            "manager_track_records": ("18+ year performance history", "Comprehensive manager scoring with consistency"),
+            "manager_track_records": ("Multi-year activity history", "Comprehensive manager scoring with consistency"),
             "multi_manager_favorites": ("Consensus high-conviction picks", "Stocks held by multiple elite managers"),
             "position_sizing_mastery": ("Optimal allocation patterns", "Advanced portfolio construction analysis"),
             "sector_rotation_excellence": ("Elite sector allocation", "Superior sector rotation strategies"),
@@ -463,36 +495,33 @@ class ReadmeGenerator:
                 min_year = df["first_year"].min() if "first_year" in df.columns else 2007
                 max_year = df["last_year"].max() if "last_year" in df.columns else 2025
 
-                # Sort by annual return first, then by track record score as tiebreaker
+                # Rank by track_record_score. (An earlier version ranked by a
+                # fabricated "annualized return" that was a pure function of
+                # years_active — 13F data cannot produce real returns.)
                 top_managers = df.sort_values(
-                    ["annualized_return_pct", "track_record_score"], ascending=[False, False]
+                    ["track_record_score", "years_active"], ascending=[False, False]
                 ).head(15)
 
                 content.extend(
                     [
-                        f"### 🏆 Top 15 Managers by Annual Return ({int(min_year)}-{int(max_year)})",
-                        "\n| Rank | Manager | Annual Return | Score | Years Active |",
-                        "| ---- | ------- | ------------- | ----- | ------------ |",
+                        f"### 🏆 Top 15 Managers by Track Record Score ({int(min_year)}-{int(max_year)})",
+                        "\n| Rank | Manager | Score | Years Active | Total Actions |",
+                        "| ---- | ------- | ----- | ------------ | ------------- |",
                     ]
                 )
 
                 for rank, (_, mgr) in enumerate(top_managers.iterrows(), 1):
-                    # Use the actual column names from the CSV
-                    # The CSV has duplicate 'manager' columns - first is code, second is full name
-                    if hasattr(mgr, "iloc") and len(mgr) > 1:
-                        manager_name = mgr.iloc[1]  # Second 'manager' column has full name
-                    else:
-                        manager_name = mgr.get("manager", "N/A")
+                    manager_name = mgr.get("manager_name") or mgr.get("manager", "N/A")
 
                     track_score = mgr.get("track_record_score", 0)
                     years = mgr.get("years_active", 0)
-                    annual_return = mgr.get("annualized_return_pct", 0)
+                    total_actions = mgr.get("total_actions", 0)
 
                     content.append(
                         f"| {rank} | **{manager_name}** | "
-                        f"{annual_return:.1f}% | "
                         f"{track_score:.2f} | "
-                        f"{years} |"
+                        f"{years} | "
+                        f"{total_actions} |"
                     )
 
         content.append("\n---\n")
@@ -536,10 +565,18 @@ class ReadmeGenerator:
                     content.append(f"![{viz_name}]({relative_path})")
                     content.append("")
 
+        n_quarters = (
+            len(results["quarterly_activity_timeline"])
+            if "quarterly_activity_timeline" in results and not results["quarterly_activity_timeline"].empty
+            else None
+        )
+        timeline_insight = (
+            f"{n_quarters} quarters of market timing insights" if n_quarters else "Market timing insights by quarter"
+        )
         historical_reports = {
             "crisis_response_analysis": ("2008 vs 2020 comparison", "Crisis behavior patterns across decades"),
             "multi_decade_conviction": ("Stocks held 10+ years", "Ultimate long-term conviction plays"),
-            "quarterly_activity_timeline": ("18-year activity map", "73 quarters of market timing insights"),
+            "quarterly_activity_timeline": ("Full-history activity map", timeline_insight),
             "stock_life_cycles": ("Complete holding patterns", "Entry/exit patterns and optimal holding periods"),
         }
 
@@ -583,13 +620,16 @@ class ReadmeGenerator:
             "- **Momentum Factor** (15%): Multiple recent transactions",
             "- **Manager Quality** (10%): Premium for top-tier managers",
             "\n#### Track Record Score",
-            "- **Win Rate**: Percentage of successful investments",
-            "- **Consistency**: Performance stability over time",
-            "- **Crisis Alpha**: Outperformance during downturns",
-            "- **Longevity**: Years of active management",
+            "Computed as: years_active x 0.3 + consistency_score x 20 + crisis_buying_ratio x 10 "
+            "+ 5 if the manager has current holdings.",
+            "- **Consistency**: Stability of activity across observed years",
+            "- **Crisis Buying**: Share of buy-side actions during the 2008 / 2020 / 2022 crisis windows",
+            "- **Longevity**: Years of observed activity (NOTE: Dataroma caps public history at "
+            "~1,000 activities per manager, so very active managers' first observed year is later "
+            "than their real start)",
             "\n### Data Processing",
-            "- **Temporal Accuracy**: 100% validated quarter extraction",
-            "- **Price Data**: Real-time from Dataroma HTML",
+            "- **Quarters**: Parsed from Dataroma period labels; filing period taken from each page",
+            "- **Price Data**: From Dataroma HTML at scrape time",
             "- **Manager Mapping**: Clean names without timestamps",
             "- **Activity Types**: Buy, Sell, Add, Reduce, Hold",
             "\n### Analysis Periods",
@@ -598,16 +638,18 @@ class ReadmeGenerator:
         # Add dynamic period information
         recent_quarters = self._get_recent_quarters(3)
 
+        earliest = self._get_earliest_quarter()
         if recent_quarters and len(recent_quarters) >= 3:
+            span_note = f"{earliest} - {recent_quarters[0]}" if earliest else f"Through {recent_quarters[0]}"
             content.extend(
                 [
                     f"- **Current**: {recent_quarters[-1]} - {recent_quarters[0]} (last 3 quarters)",
-                    f"- **Historical**: Q1 2007 - {recent_quarters[0]} (18+ years)",
+                    f"- **Historical**: {span_note}",
                     "",
                 ]
             )
         else:
-            content.extend(["- **Current**: Last 3 quarters", "- **Historical**: Q1 2007 - Present (18+ years)", ""])
+            content.extend(["- **Current**: Last 3 quarters", "- **Historical**: Full cached history", ""])
 
         return content
 

@@ -120,31 +120,12 @@ class HistoricalAnalyzer(MultiAnalyzer):
             current_portfolios = self.data.holdings_df.groupby("manager_id")["value"].sum()
             df["current_portfolio_value"] = df["manager_id"].map(current_portfolios).fillna(0)
 
-            df["estimated_initial_value"] = df.apply(
-                lambda row: (
-                    row["current_portfolio_value"] / (1.1 ** row["years_active"])
-                    if row["years_active"] > 0 and row["current_portfolio_value"] > 0
-                    else 0
-                ),
-                axis=1,
-            )
-
-            df["total_return_pct"] = df.apply(
-                lambda row: (
-                    (
-                        (row["current_portfolio_value"] - row["estimated_initial_value"])
-                        / row["estimated_initial_value"]
-                        * 100
-                    )
-                    if row["estimated_initial_value"] > 0
-                    else 0
-                ),
-                axis=1,
-            ).round(2)
-
-            df["annualized_return_pct"] = df.apply(
-                lambda row: (row["total_return_pct"] / row["years_active"]) if row["years_active"] > 0 else 0, axis=1
-            ).round(2)
+            # NOTE: earlier versions fabricated estimated_initial_value /
+            # total_return_pct / annualized_return_pct here by assuming a
+            # constant 10%/yr growth rate. 13F filings contain no purchase or
+            # sale prices, so no actual return can be computed from this data;
+            # the derived numbers were a pure function of years_active and were
+            # presented as measured performance. They have been removed.
 
         # Calculate track_record_score, handling potential NaN values
         df["track_record_score"] = (
@@ -193,9 +174,18 @@ class HistoricalAnalyzer(MultiAnalyzer):
         history = self.data.history_df.copy()
         history["year"] = history["period"].str.extract(r"(\d{4})")
 
+        # Chronological quarter number (year*4 + quarter). A string min/max on
+        # "Qn YYYY" is lexicographic (all Q1s before any Q2) and yields wrong
+        # first/last periods for tickers whose earliest activity is in Q2-Q4.
+        history["_qnum"] = (
+            history["period"].str.extract(r"(\d{4})").astype(int) * 4
+            + history["period"].str.extract(r"Q(\d)").astype(int)
+        )
+
         stock_actions = history.groupby("ticker").agg(
             {
-                "period": ["min", "max", "count"],
+                "period": "count",
+                "_qnum": ["min", "max"],
                 "action_type": lambda x: {
                     k: int(v) for k, v in x.value_counts().to_dict().items()
                 },  # Convert numpy to Python int
@@ -203,11 +193,12 @@ class HistoricalAnalyzer(MultiAnalyzer):
             }
         )
 
-        stock_actions.columns = ["first_action", "last_action", "total_actions", "action_breakdown", "unique_managers"]
+        stock_actions.columns = ["total_actions", "_first_qnum", "_last_qnum", "action_breakdown", "unique_managers"]
 
-        stock_actions["first_year"] = stock_actions["first_action"].str.extract(r"(\d{4})").astype(int)
-        stock_actions["last_year"] = stock_actions["last_action"].str.extract(r"(\d{4})").astype(int)
+        stock_actions["first_year"] = (stock_actions["_first_qnum"] - 1) // 4
+        stock_actions["last_year"] = (stock_actions["_last_qnum"] - 1) // 4
         stock_actions["years_tracked"] = stock_actions["last_year"] - stock_actions["first_year"] + 1
+        stock_actions = stock_actions.drop(columns=["_first_qnum", "_last_qnum"])
 
         current_tickers = set()
         if self.data.holdings_df is not None:
@@ -217,10 +208,18 @@ class HistoricalAnalyzer(MultiAnalyzer):
 
         life_cycles = []
 
+        # Chronologically earliest Buy per ticker (string .min() would be wrong)
+        buys = history[history["action_type"] == "Buy"]
+        first_buy_by_ticker = (
+            buys.loc[buys.groupby("ticker")["_qnum"].idxmin()][["ticker", "period"]].set_index("ticker")["period"]
+            if not buys.empty
+            else pd.Series(dtype=object)
+        )
+
         for ticker, row in stock_actions.iterrows():
             actions = row["action_breakdown"]
 
-            first_buys = history[(history["ticker"] == ticker) & (history["action_type"] == "Buy")]["period"].min()
+            first_buys = first_buy_by_ticker.get(ticker)
 
             complete_exits = history[(history["ticker"] == ticker) & (history["action"] == "Sell 100.00%")]
 
@@ -252,7 +251,20 @@ class HistoricalAnalyzer(MultiAnalyzer):
             company_names = self.data.holdings_df.groupby("ticker")["stock"].first()
             df = df.set_index("ticker").join(company_names.rename("company_name"), how="left").reset_index()
 
-        # Filter out delisted tickers (empty company_name and not currently held)
+        # Fall back to names from the activity history so EXITED stocks keep
+        # their names. Without this fallback, company_name was non-empty iff
+        # currently_held, and the "delisted" filter below deleted every exited
+        # stock — making exit-pattern analysis impossible.
+        if not df.empty and "stock" in history.columns:
+            history_names = history.groupby("ticker")["stock"].first()
+            df["company_name"] = (
+                df.get("company_name", pd.Series(index=df.index, dtype=object))
+                .replace("", pd.NA)
+                .fillna(df["ticker"].map(history_names))
+            )
+
+        # Filter out delisted/unidentifiable tickers (no name from any source
+        # and not currently held)
         if "company_name" in df.columns:
             df = df[
                 ~(
@@ -269,7 +281,14 @@ class HistoricalAnalyzer(MultiAnalyzer):
         )
 
         result = df.sort_values("life_cycle_score", ascending=False)
-        return self.add_metadata_columns(result, window_quarters=72, analysis_type="stock_life_cycles")
+        n_quarters = int(history["period"].nunique())
+        qmin, qmax = history.loc[history["_qnum"].idxmin(), "period"], history.loc[history["_qnum"].idxmax(), "period"]
+        return self.add_metadata_columns(
+            result,
+            window_quarters=n_quarters,
+            periods=[f"{qmin} to {qmax}"],
+            analysis_type="stock_life_cycles",
+        )
 
     def analyze_sector_rotation(self) -> pd.DataFrame:
         """
@@ -539,8 +558,15 @@ class HistoricalAnalyzer(MultiAnalyzer):
         df["year"] = df["period"].str.extract(r"(\d{4})").astype(int)
         df["quarter"] = df["period"].str.extract(r"Q(\d)").astype(int)
 
-        result = df.sort_values(["year", "quarter"])
-        return self.add_metadata_columns(result, window_quarters=72, analysis_type="quarterly_activity_timeline")
+        # Sort chronologically AND reset the index: the groupby above iterated
+        # periods in lexicographic order, so without reset_index(drop=True) the
+        # index labels stay scrambled and any later .index[] lookup (e.g. the
+        # crisis-period shading in historical_visualizer) lands on wrong rows.
+        result = df.sort_values(["year", "quarter"]).reset_index(drop=True)
+        span = [f"{result['period'].iloc[0]} to {result['period'].iloc[-1]}"] if len(result) else []
+        return self.add_metadata_columns(
+            result, window_quarters=len(result), periods=span, analysis_type="quarterly_activity_timeline"
+        )
 
     def analyze_long_term_winners(self) -> pd.DataFrame:
         """

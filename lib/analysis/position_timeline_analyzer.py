@@ -600,4 +600,6 @@ class PositionTimelineAnalyzer(MultiAnalyzer):
 
         # Keep top 200 most active stocks
         result = summary_df.head(200)
-        return self.add_metadata_columns(result, window_quarters=3, analysis_type="stock_timelines")
+        # window_quarters must match the recency window actually used above
+        # (get_recent_quarters(4)); it was previously mislabeled as 3.
+        return self.add_metadata_columns(result, window_quarters=4, analysis_type="stock_timelines")

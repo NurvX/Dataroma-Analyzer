@@ -70,7 +70,10 @@ class HistoricalVisualizer:
         gs = fig.add_gridspec(3, 1, height_ratios=[1.2, 1, 1], hspace=0.25)
         axes = [fig.add_subplot(gs[i]) for i in range(3)]
 
-        df = df.sort_values(["year", "quarter"])
+        # Belt-and-braces: reset the index after sorting. The crisis-period
+        # shading below looks rows up via .index[0]; with stale index labels
+        # from an unsorted source those lookups land on wrong quarters.
+        df = df.sort_values(["year", "quarter"]).reset_index(drop=True)
 
         crisis_periods = {
             "2008 Financial Crisis": ["Q3 2008", "Q4 2008", "Q1 2009", "Q2 2009"],
@@ -375,6 +378,9 @@ class HistoricalVisualizer:
         ax1.set_title("Top 10 Multi-Decade Conviction Plays", fontsize=14, fontweight="bold")
         ax1.grid(True, alpha=0.3, axis="x")
         ax1.set_xlim(0, ax1.get_xlim()[1] * 1.1)  # Add padding for labels
+        # Rank #1 belongs at the TOP (consistent with every other ranked barh
+        # in this codebase); without this, the list rendered upside down.
+        ax1.invert_yaxis()
 
         ax2 = axes[0, 1]
         _scatter = ax2.scatter(  # noqa: F841

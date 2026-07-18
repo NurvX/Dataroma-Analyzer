@@ -183,9 +183,9 @@ class GemsAnalyzer(MultiAnalyzer):
                 buy_scores = recent_buys.groupby("ticker").size() / 10.0  # Normalize
                 buy_scores = buy_scores.clip(0, 1.0)  # Cap at 1.0
 
-                for ticker in hidden_gems.index:
+                for idx, ticker in hidden_gems["ticker"].items():
                     if ticker in buy_scores.index:
-                        hidden_gems.loc[ticker, "recent_activity_score"] = buy_scores[ticker]
+                        hidden_gems.loc[idx, "recent_activity_score"] = buy_scores[ticker]
 
         # Calculate price momentum score using Dataroma price data
         hidden_gems["price_momentum_score"] = 0.5  # Default neutral
@@ -198,7 +198,7 @@ class GemsAnalyzer(MultiAnalyzer):
                 price_data = price_data.join(week_52_data)
 
                 # Calculate momentum based on 52-week position
-                for ticker in hidden_gems.index:
+                for idx, ticker in hidden_gems["ticker"].items():
                     if ticker in price_data.index:
                         row = price_data.loc[ticker]
                         if not pd.isna(row.get("52_week_low")) and not pd.isna(row.get("52_week_high")):
@@ -207,7 +207,7 @@ class GemsAnalyzer(MultiAnalyzer):
                             )
                             # Lower position = better value opportunity (higher score)
                             momentum_score = max(0.1, (100 - week_52_pos) / 100)
-                            hidden_gems.loc[ticker, "price_momentum_score"] = momentum_score
+                            hidden_gems.loc[idx, "price_momentum_score"] = momentum_score
 
         # Calculate manager quality scores
         hidden_gems["manager_quality_score"] = 1.0
@@ -267,7 +267,8 @@ class GemsAnalyzer(MultiAnalyzer):
             )
 
             # Filter hidden_gems to only include recently active stocks
-            hidden_gems = hidden_gems[hidden_gems.index.isin(recent_tickers)]
+            # (filter on the ticker COLUMN — the index is a RangeIndex here)
+            hidden_gems = hidden_gems[hidden_gems["ticker"].isin(recent_tickers)]
 
         # Add first discovery information if available
         if (
@@ -283,7 +284,7 @@ class GemsAnalyzer(MultiAnalyzer):
 
             # Only include stocks that had Buy action in recent quarters
             first_buys = recent_buys.groupby("ticker")["period"].first().rename("first_discovered")
-            hidden_gems = hidden_gems.join(first_buys, how="left")
+            hidden_gems = hidden_gems.join(first_buys, on="ticker", how="left")
 
         # Sort by hidden gem score
         hidden_gems = hidden_gems.sort_values(by="hidden_gem_score", ascending=False)
@@ -588,7 +589,7 @@ class GemsAnalyzer(MultiAnalyzer):
         contrarian_stocks = contrarian_stocks.join([buying_managers, selling_managers])
 
         # Document the preview limit for manager columns
-        contrarian_stocks["managers_shown"] = 5  # Matches preview truncation limit
+        contrarian_stocks["managers_shown"] = contrarian_stocks["active_managers"].clip(upper=5).astype(int)
 
         # Sort by contrarian score
         contrarian_stocks = contrarian_stocks.sort_values(by="contrarian_score", ascending=False)
