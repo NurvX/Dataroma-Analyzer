@@ -824,7 +824,7 @@
       "action_type": "Reduce",
       "shares": 635,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "CTVA",
@@ -2793,7 +2793,7 @@
       "action_type": "Reduce",
       "shares": 1370,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "AEP",
@@ -4872,7 +4872,7 @@
       "action_type": "Reduce",
       "shares": 1753,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "AMGN",
@@ -6500,7 +6500,7 @@
       "action_type": "Reduce",
       "shares": 247,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "CDNS",
@@ -8469,7 +8469,7 @@
       "action_type": "Reduce",
       "shares": 598,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "GILD",
@@ -10592,7 +10592,7 @@
       "action_type": "Reduce",
       "shares": 1225,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "NSC",
@@ -11002,6 +11002,6 @@
       "company_name": "Dell Technologies Inc."
     }
   ],
-  "timestamp": "2026-07-01T07:32:14.178407",
-  "scraped_date": "2026-07-01"
+  "timestamp": "2026-07-20T20:12:10.868953",
+  "scraped_date": "2026-07-20"
 }

@@ -129,7 +129,7 @@
       "date": "Q1 2026",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 10000,
+      "shares": 40000,
       "portfolio_percentage": 0.02,
       "company_name": "CrowdStrike Holdings Inc."
     },
@@ -1465,6 +1465,6 @@
       "company_name": "Zoom Video Communications Inc."
     }
   ],
-  "timestamp": "2026-07-01T07:32:13.873665",
-  "scraped_date": "2026-07-01"
+  "timestamp": "2026-07-20T20:12:10.557290",
+  "scraped_date": "2026-07-20"
 }

@@ -3431,7 +3431,7 @@
       "action_type": "Sell",
       "shares": 2066,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "UNH",
@@ -3992,7 +3992,7 @@
       "action_type": "Buy",
       "shares": 2066,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "EXR",
@@ -11002,6 +11002,6 @@
       "company_name": "Bank of America Corp."
     }
   ],
-  "timestamp": "2026-07-01T07:32:14.285849",
-  "scraped_date": "2026-07-01"
+  "timestamp": "2026-07-20T20:12:10.973968",
+  "scraped_date": "2026-07-20"
 }

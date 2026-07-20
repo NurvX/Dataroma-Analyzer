@@ -442,7 +442,7 @@
       "company_name": "Shift4 Payments Inc. CL A"
     },
     {
-      "symbol": "OLPX",
+      "symbol": "OLPX-OLD",
       "manager_id": "SAM",
       "action": "Sell 100.00%",
       "date": "Q4 2024",
@@ -519,7 +519,7 @@
       "company_name": "Molina Healthcare Inc."
     },
     {
-      "symbol": "OLPX",
+      "symbol": "OLPX-OLD",
       "manager_id": "SAM",
       "action": "Add 0.48%",
       "date": "Q3 2024",
@@ -629,7 +629,7 @@
       "company_name": "Hudson Pacific Properties Inc."
     },
     {
-      "symbol": "OLPX",
+      "symbol": "OLPX-OLD",
       "manager_id": "SAM",
       "action": "Buy",
       "date": "Q2 2024",
@@ -5601,6 +5601,6 @@
       "company_name": "Mohawk Industries"
     }
   ],
-  "timestamp": "2026-07-01T07:32:14.378808",
-  "scraped_date": "2026-07-01"
+  "timestamp": "2026-07-20T20:12:11.054660",
+  "scraped_date": "2026-07-20"
 }

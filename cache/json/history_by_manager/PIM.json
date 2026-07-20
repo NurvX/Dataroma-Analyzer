@@ -1231,7 +1231,7 @@
       "action_type": "Reduce",
       "shares": 43595,
       "portfolio_percentage": 0.02,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "PVH",
@@ -2419,7 +2419,7 @@
       "action_type": "Reduce",
       "shares": 1025,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "LDOS",
@@ -3915,7 +3915,7 @@
       "action_type": "Add",
       "shares": 7678,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "HCA",
@@ -5576,7 +5576,7 @@
       "action_type": "Add",
       "shares": 38663,
       "portfolio_percentage": 0.01,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "HSBC",
@@ -6951,7 +6951,7 @@
       "action_type": "Add",
       "shares": 19034,
       "portfolio_percentage": 0.01,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "JNJ",
@@ -8832,7 +8832,7 @@
       "action_type": "Add",
       "shares": 1673,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "AIG",
@@ -11002,6 +11002,6 @@
       "company_name": "HSBC Holdings plc"
     }
   ],
-  "timestamp": "2026-07-01T07:32:14.343936",
-  "scraped_date": "2026-07-01"
+  "timestamp": "2026-07-20T20:12:11.030312",
+  "scraped_date": "2026-07-20"
 }

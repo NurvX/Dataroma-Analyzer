@@ -3649,7 +3649,7 @@
       "date": "Q3 2023",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 4902192,
+      "shares": 1225548,
       "portfolio_percentage": 0.22,
       "company_name": "Marqeta Inc."
     },
@@ -4133,7 +4133,7 @@
       "date": "Q1 2023",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 11707634,
+      "shares": 2926909,
       "portfolio_percentage": 0.5,
       "company_name": "Marqeta Inc."
     },
@@ -5277,7 +5277,7 @@
       "date": "Q1 2022",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 866969,
+      "shares": 216743,
       "portfolio_percentage": 0.06,
       "company_name": "Marqeta Inc."
     },
@@ -5519,7 +5519,7 @@
       "date": "Q4 2021",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 14855275,
+      "shares": 3713818,
       "portfolio_percentage": 1.05,
       "company_name": "Marqeta Inc."
     },
@@ -6135,7 +6135,7 @@
       "date": "Q3 2021",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 2621520,
+      "shares": 655380,
       "portfolio_percentage": 0.2,
       "company_name": "Marqeta Inc."
     },
@@ -11002,6 +11002,6 @@
       "company_name": "Alibaba Group Holdings"
     }
   ],
-  "timestamp": "2026-07-01T07:32:13.987765",
-  "scraped_date": "2026-07-01"
+  "timestamp": "2026-07-20T20:12:10.674784",
+  "scraped_date": "2026-07-20"
 }

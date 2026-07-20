@@ -145,7 +145,7 @@
       "company_name": "Brookdale Senior Living Inc."
     },
     {
-      "symbol": "CPRX",
+      "symbol": "CPRX-OLD",
       "manager_id": "TA",
       "action": "Buy",
       "date": "Q1 2026",
@@ -1707,7 +1707,7 @@
       "company_name": "CTO Realty Growth Inc."
     },
     {
-      "symbol": "WSR",
+      "symbol": "WSR-OLD",
       "manager_id": "TA",
       "action": "Sell 100.00%",
       "date": "Q2 2025",
@@ -4435,7 +4435,7 @@
       "company_name": "Investors Title Co."
     },
     {
-      "symbol": "WSR",
+      "symbol": "WSR-OLD",
       "manager_id": "TA",
       "action": "Buy",
       "date": "Q2 2023",
@@ -11002,6 +11002,6 @@
       "company_name": "Pursuit Attractions and Hospitality"
     }
   ],
-  "timestamp": "2026-07-01T07:32:14.222604",
-  "scraped_date": "2026-07-01"
+  "timestamp": "2026-07-20T20:12:10.912665",
+  "scraped_date": "2026-07-20"
 }

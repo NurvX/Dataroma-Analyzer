@@ -890,7 +890,7 @@
       "action_type": "Reduce",
       "shares": 6102,
       "portfolio_percentage": 0.24,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "VNT",
@@ -2265,7 +2265,7 @@
       "action_type": "Reduce",
       "shares": 6281,
       "portfolio_percentage": 0.17,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "COP",
@@ -3398,7 +3398,7 @@
       "action_type": "Reduce",
       "shares": 9473,
       "portfolio_percentage": 0.27,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "META",
@@ -4476,7 +4476,7 @@
       "action_type": "Reduce",
       "shares": 5792,
       "portfolio_percentage": 0.18,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "FNDE",
@@ -5488,7 +5488,7 @@
       "action_type": "Reduce",
       "shares": 4856,
       "portfolio_percentage": 0.18,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "AR",
@@ -6379,7 +6379,7 @@
       "action_type": "Reduce",
       "shares": 2000,
       "portfolio_percentage": 0.06,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "CRI",
@@ -7479,7 +7479,7 @@
       "action_type": "Reduce",
       "shares": 24629,
       "portfolio_percentage": 0.84,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "CVX",
@@ -7746,6 +7746,6 @@
       "company_name": "Cencora Inc."
     }
   ],
-  "timestamp": "2026-07-01T07:32:14.059494",
-  "scraped_date": "2026-07-01"
+  "timestamp": "2026-07-20T20:12:10.748047",
+  "scraped_date": "2026-07-20"
 }

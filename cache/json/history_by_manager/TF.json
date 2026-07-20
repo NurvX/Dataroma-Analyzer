@@ -948,7 +948,7 @@
       "company_name": "Invesco Ltd"
     },
     {
-      "symbol": "JHG",
+      "symbol": "JHG-OLD",
       "manager_id": "TF",
       "action": "Add 12.72%",
       "date": "Q1 2022",
@@ -1036,7 +1036,7 @@
       "company_name": "Invesco Ltd"
     },
     {
-      "symbol": "JHG",
+      "symbol": "JHG-OLD",
       "manager_id": "TF",
       "action": "Add 19.28%",
       "date": "Q4 2021",
@@ -1102,7 +1102,7 @@
       "company_name": "Procter & Gamble"
     },
     {
-      "symbol": "JHG",
+      "symbol": "JHG-OLD",
       "manager_id": "TF",
       "action": "Add 11.68%",
       "date": "Q3 2021",
@@ -1190,7 +1190,7 @@
       "company_name": "Sysco Corp."
     },
     {
-      "symbol": "JHG",
+      "symbol": "JHG-OLD",
       "manager_id": "TF",
       "action": "Add 29.67%",
       "date": "Q2 2021",
@@ -1366,7 +1366,7 @@
       "company_name": "Procter & Gamble"
     },
     {
-      "symbol": "JHG",
+      "symbol": "JHG-OLD",
       "manager_id": "TF",
       "action": "Reduce 7.36%",
       "date": "Q4 2020",
@@ -1410,7 +1410,7 @@
       "company_name": "Comcast Corp."
     },
     {
-      "symbol": "JHG",
+      "symbol": "JHG-OLD",
       "manager_id": "TF",
       "action": "Add 97.78%",
       "date": "Q3 2020",
@@ -1531,7 +1531,7 @@
       "company_name": "Invesco Ltd"
     },
     {
-      "symbol": "JHG",
+      "symbol": "JHG-OLD",
       "manager_id": "TF",
       "action": "Buy",
       "date": "Q2 2020",
@@ -3082,6 +3082,6 @@
       "company_name": "Allegion Plc"
     }
   ],
-  "timestamp": "2026-07-01T07:32:13.875913",
-  "scraped_date": "2026-07-01"
+  "timestamp": "2026-07-20T20:12:10.559395",
+  "scraped_date": "2026-07-20"
 }

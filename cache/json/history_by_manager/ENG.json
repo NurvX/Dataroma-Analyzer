@@ -321,7 +321,7 @@
       "company_name": "Portillo's Inc Cl A"
     },
     {
-      "symbol": "GTLS",
+      "symbol": "GTLS-OLD",
       "manager_id": "ENG",
       "action": "Sell 100.00%",
       "date": "Q2 2025",
@@ -354,7 +354,7 @@
       "company_name": "NCR Voyix Corp."
     },
     {
-      "symbol": "GTLS",
+      "symbol": "GTLS-OLD",
       "manager_id": "ENG",
       "action": "Add 64.15%",
       "date": "Q1 2025",
@@ -464,7 +464,7 @@
       "company_name": "Evolent Health Inc."
     },
     {
-      "symbol": "GTLS",
+      "symbol": "GTLS-OLD",
       "manager_id": "ENG",
       "action": "Buy",
       "date": "Q4 2024",
@@ -2191,6 +2191,6 @@
       "company_name": "Del Frisco's Restaurant Group"
     }
   ],
-  "timestamp": "2026-07-01T07:32:14.035394",
-  "scraped_date": "2026-07-01"
+  "timestamp": "2026-07-20T20:12:10.723602",
+  "scraped_date": "2026-07-20"
 }

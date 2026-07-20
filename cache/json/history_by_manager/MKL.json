@@ -32,7 +32,7 @@
       "action_type": "Add",
       "shares": 9000,
       "portfolio_percentage": 0.01,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "CSX",
@@ -582,7 +582,7 @@
       "action_type": "Add",
       "shares": 35000,
       "portfolio_percentage": 0.04,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "ICE",
@@ -1429,7 +1429,7 @@
       "action_type": "Buy",
       "shares": 3000,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "ADM",
@@ -11002,6 +11002,6 @@
       "company_name": "Otis Worldwide Corp."
     }
   ],
-  "timestamp": "2026-07-01T07:32:14.312232",
-  "scraped_date": "2026-07-01"
+  "timestamp": "2026-07-20T20:12:11.002025",
+  "scraped_date": "2026-07-20"
 }

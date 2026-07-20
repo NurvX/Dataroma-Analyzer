@@ -230,7 +230,7 @@
       "action_type": "Reduce",
       "shares": 1962,
       "portfolio_percentage": 0.06,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "BAC",
@@ -549,7 +549,7 @@
       "action_type": "Add",
       "shares": 2274,
       "portfolio_percentage": 0.05,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "VZ",
@@ -1198,7 +1198,7 @@
       "action_type": "Reduce",
       "shares": 1200,
       "portfolio_percentage": 0.03,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "BAC",
@@ -1385,7 +1385,7 @@
       "action_type": "Add",
       "shares": 5325,
       "portfolio_percentage": 0.11,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "DIS",
@@ -2001,7 +2001,7 @@
       "action_type": "Reduce",
       "shares": 156,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "DIS",
@@ -2485,7 +2485,7 @@
       "action_type": "Reduce",
       "shares": 352,
       "portfolio_percentage": 0.01,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "AGO",
@@ -3288,7 +3288,7 @@
       "action_type": "Add",
       "shares": 159,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "OCBI",
@@ -4036,7 +4036,7 @@
       "action_type": "Reduce",
       "shares": 1056,
       "portfolio_percentage": 0.02,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "HOLX-OLD",
@@ -4355,7 +4355,7 @@
       "action_type": "Reduce",
       "shares": 214,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "GSK",
@@ -4608,7 +4608,7 @@
       "action_type": "Add",
       "shares": 1482,
       "portfolio_percentage": 0.03,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "PG",
@@ -5092,7 +5092,7 @@
       "action_type": "Reduce",
       "shares": 300,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "ZDGE",
@@ -5532,7 +5532,7 @@
       "action_type": "Reduce",
       "shares": 606,
       "portfolio_percentage": 0.01,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "VZ",
@@ -5862,7 +5862,7 @@
       "action_type": "Reduce",
       "shares": 48,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "MRK",
@@ -6357,7 +6357,7 @@
       "action_type": "Reduce",
       "shares": 7300,
       "portfolio_percentage": 0.1,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "CWEGF",
@@ -6401,7 +6401,7 @@
       "action_type": "Add",
       "shares": 6945,
       "portfolio_percentage": 0.08,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "PG",
@@ -7017,7 +7017,7 @@
       "action_type": "Reduce",
       "shares": 300,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "MRK",
@@ -8051,7 +8051,7 @@
       "action_type": "Reduce",
       "shares": 606,
       "portfolio_percentage": 0.01,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "RFL",
@@ -8601,7 +8601,7 @@
       "action_type": "Reduce",
       "shares": 1950,
       "portfolio_percentage": 0.01,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "BB",
@@ -9481,7 +9481,7 @@
       "action_type": "Reduce",
       "shares": 1000,
       "portfolio_percentage": 0.01,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "GNE",
@@ -10482,7 +10482,7 @@
       "action_type": "Add",
       "shares": 146,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "PFE",
@@ -11002,6 +11002,6 @@
       "company_name": "Patterson-UTI Energy Inc."
     }
   ],
-  "timestamp": "2026-07-01T07:32:14.257588",
-  "scraped_date": "2026-07-01"
+  "timestamp": "2026-07-20T20:12:10.946486",
+  "scraped_date": "2026-07-20"
 }

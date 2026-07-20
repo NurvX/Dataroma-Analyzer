@@ -1,17 +1,8 @@
 ticker,company_name,manager_count,managers,total_value,avg_portfolio_pct,max_portfolio_pct,total_shares,manager_quality,under_radar_score,first_established,recent_additions,pick_type,_analysis_type,_generated,_periods,_window_quarters
-GPI,Group 1 Automotive,2,"Ruane Cunniff LP, Greg Alexander",250963000,23.84,47.66,759045,1.8,85.788,Q2 2016,3.0,Premium Pick,under_radar_picks,2026-07-01,"Q1 2026, Q4 2025, Q3 2025",3
-GRBK,Green Brick Partners,2,"David Einhorn, Polen Capital Management",611023000,9.57,19.12,9480567,1.8,34.416000000000004,Q4 2025,2.0,Premium Pick,under_radar_picks,2026-07-01,"Q1 2026, Q4 2025, Q3 2025",3
-AN,AutoNation Inc.,1,Glenn Greenberg,302209000,7.48,7.48,1547728,1.8,26.928,Q1 2008,4.0,Premium Pick,under_radar_picks,2026-07-01,"Q1 2026, Q4 2025, Q3 2025",3
-PRI,Primerica Inc.,1,Glenn Greenberg,220253000,5.45,5.45,879323,1.8,19.62,Q1 2020,2.0,Premium Pick,under_radar_picks,2026-07-01,"Q1 2026, Q4 2025, Q3 2025",3
-MNDY,monday.com Ltd.,1,Greg Alexander,27644000,5.28,5.28,400000,1.8,19.008000000000003,Q2 2024,3.0,Premium Pick,under_radar_picks,2026-07-01,"Q1 2026, Q4 2025, Q3 2025",3
-TOST,Toast Inc.,1,ValueAct Capital,341858000,5.98,5.98,12895438,1.5,17.94,Q3 2025,3.0,Growing Interest,under_radar_picks,2026-07-01,"Q1 2026, Q4 2025, Q3 2025",3
-MDB,MongoDB Inc.,1,ValueAct Capital,254022000,4.45,4.45,1037800,1.5,13.35,Q3 2025,3.0,Growing Interest,under_radar_picks,2026-07-01,"Q1 2026, Q4 2025, Q3 2025",3
-FG,F&G Annuities & Life Inc.,1,Glenn Greenberg,135542000,3.35,3.35,5353141,1.8,12.06,Q4 2022,3.0,Premium Pick,under_radar_picks,2026-07-01,"Q1 2026, Q4 2025, Q3 2025",3
-MRP,Millrose Properties,2,"Glenn Greenberg, Bill Miller",243507000,3.61,5.9,8696697,1.8,10.62,Q1 2025,3.0,Premium Pick,under_radar_picks,2026-07-01,"Q1 2026, Q4 2025, Q3 2025",3
-LLYVK,Liberty Media Corp. Series C Live,2,"ValueAct Capital, Warren Buffett",1331501000,3.12,5.87,14148351,1.5,8.805,Q3 2024,1.0,Growing Interest,under_radar_picks,2026-07-01,"Q1 2026, Q4 2025, Q3 2025",3
-ARES,Ares Management LP,2,"Glenn Greenberg, Vulcan Value Partners",185053000,2.45,4.89,1696176,1.8,8.802,Q1 2026,3.0,Premium Pick,under_radar_picks,2026-07-01,"Q1 2026, Q4 2025, Q3 2025",3
-MPLX,MPLX LP,2,"Glenn Greenberg, David Tepper",214354000,2.54,4.6,3755984,1.8,8.28,Q2 2023,3.0,Premium Pick,under_radar_picks,2026-07-01,"Q1 2026, Q4 2025, Q3 2025",3
-DD,DuPont de Nemours Inc.,2,"Hillman Capital Management, Dodge & Cox Funds",6072000,1.88,3.75,44192,1.8,6.75,Q3 2017,1.0,Premium Pick,under_radar_picks,2026-07-01,"Q1 2026, Q4 2025, Q3 2025",3
-SSD,Simpson Manufacturing,2,"ValueAct Capital, John Rogers",255678000,2.19,4.2,1489792,1.5,6.300000000000001,Q2 2025,2.0,Growing Interest,under_radar_picks,2026-07-01,"Q1 2026, Q4 2025, Q3 2025",3
-SDHC,Smith Douglas Homes Corp,2,"Ruane Cunniff LP, Greg Alexander",18532000,1.75,3.5,1447840,1.8,6.3,Q3 2025,7.0,Premium Pick,under_radar_picks,2026-07-01,"Q1 2026, Q4 2025, Q3 2025",3
-SPHR,Sphere Entertainment Co.,2,"John Rogers, Polen Capital Management",294745000,1.64,3.24,2510602,1.8,5.832000000000001,Q2 2020,2.0,Premium Pick,under_radar_picks,2026-07-01,"Q1 2026, Q4 2025, Q3 2025",3
+AMR,Alpha Metallurgical Resources Inc.,1,Mohnish Pabrai,119003000,28.14,28.14,579738,1.3,73.164,Q2 2024,2.0,Growing Interest,under_radar_picks,2026-07-20,"Q2 2026, Q1 2026, Q4 2025",3
+HCC,Warrior Met Coal Inc.,2,"Mohnish Pabrai, Third Avenue Management",202586000,22.7,39.89,2174833,1.3,51.857,Q4 2023,1.0,Growing Interest,under_radar_picks,2026-07-20,"Q2 2026, Q1 2026, Q4 2025",3
+RIG,Transocean Ltd.,2,"Arnold Van Den Berg, Mohnish Pabrai",135387000,16.0,31.97,20420415,1.3,41.561,Q1 2022,1.0,Growing Interest,under_radar_picks,2026-07-20,"Q2 2026, Q1 2026, Q4 2025",3
+EWBC,East West Bancorp,2,"Lee Ainslie, Li Lu",297919000,4.64,9.26,2790554,1.5,13.89,Q1 2026,1.0,Growing Interest,under_radar_picks,2026-07-20,"Q2 2026, Q1 2026, Q4 2025",3
+LLYVK,Liberty Media Corp. Series C Live,2,"ValueAct Capital, Warren Buffett",1331501000,3.12,5.87,14148351,2.0,11.74,Q3 2024,1.0,Premium Pick,under_radar_picks,2026-07-20,"Q2 2026, Q1 2026, Q4 2025",3
+CCC,CCC Intelligent Solutions Hldgs Inc.,2,"Triple Frond Partners, Chuck Akre",221556000,3.23,3.37,36926106,1.6,5.392,Q2 2025,5.0,Growing Interest,under_radar_picks,2026-07-20,"Q2 2026, Q1 2026, Q4 2025",3
+SEG,Seaport Entertainment Group,2,"Bill Ackman, Kahn Brothers Group",127098000,2.09,3.4,5917007,1.4,4.76,Q3 2024,2.0,Growing Interest,under_radar_picks,2026-07-20,"Q2 2026, Q1 2026, Q4 2025",3

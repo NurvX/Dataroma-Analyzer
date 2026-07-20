@@ -868,7 +868,7 @@
       "action_type": "Sell",
       "shares": 17000,
       "portfolio_percentage": 0.01,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "AMT",
@@ -1462,7 +1462,7 @@
       "action_type": "Buy",
       "shares": 17000,
       "portfolio_percentage": 0.01,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "AMT",
@@ -3343,7 +3343,7 @@
       "action_type": "Sell",
       "shares": 8143858,
       "portfolio_percentage": 3.53,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "BRK.B",
@@ -3475,7 +3475,7 @@
       "action_type": "Add",
       "shares": 500000,
       "portfolio_percentage": 0.25,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "CAT",
@@ -4366,7 +4366,7 @@
       "action_type": "Add",
       "shares": 500000,
       "portfolio_percentage": 0.24,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "WM",
@@ -4564,7 +4564,7 @@
       "action_type": "Add",
       "shares": 858858,
       "portfolio_percentage": 0.41,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "KOF",
@@ -4696,7 +4696,7 @@
       "action_type": "Add",
       "shares": 2000000,
       "portfolio_percentage": 1.06,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "TV",
@@ -5763,7 +5763,7 @@
       "action_type": "Add",
       "shares": 500000,
       "portfolio_percentage": 0.44,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "COST",
@@ -6621,7 +6621,7 @@
       "action_type": "Add",
       "shares": 250000,
       "portfolio_percentage": 0.23,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "COST",
@@ -7097,6 +7097,6 @@
       "company_name": "Time Warner Cable Inc."
     }
   ],
-  "timestamp": "2026-07-01T07:32:13.933259",
-  "scraped_date": "2026-07-01"
+  "timestamp": "2026-07-20T20:12:10.617962",
+  "scraped_date": "2026-07-20"
 }

@@ -9052,7 +9052,7 @@
       "action_type": "Sell",
       "shares": 4446,
       "portfolio_percentage": 0.01,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "DISCA-OLD",
@@ -9272,7 +9272,7 @@
       "action_type": "Buy",
       "shares": 4446,
       "portfolio_percentage": 0.01,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "MA",
@@ -11002,6 +11002,6 @@
       "company_name": "Apple Inc."
     }
   ],
-  "timestamp": "2026-07-01T07:32:14.135072",
-  "scraped_date": "2026-07-01"
+  "timestamp": "2026-07-20T20:12:10.825909",
+  "scraped_date": "2026-07-20"
 }

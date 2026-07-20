@@ -1806,7 +1806,7 @@
       "company_name": "Citigroup Inc."
     },
     {
-      "symbol": "BLD",
+      "symbol": "BLD-OLD",
       "manager_id": "VA",
       "action": "Sell 100.00%",
       "date": "Q4 2022",
@@ -1850,7 +1850,7 @@
       "company_name": "New York Times CL A"
     },
     {
-      "symbol": "BLD",
+      "symbol": "BLD-OLD",
       "manager_id": "VA",
       "action": "Add 28.33%",
       "date": "Q3 2022",
@@ -1927,7 +1927,7 @@
       "company_name": "Trinity Industries"
     },
     {
-      "symbol": "BLD",
+      "symbol": "BLD-OLD",
       "manager_id": "VA",
       "action": "Add 462.07%",
       "date": "Q2 2022",
@@ -2092,7 +2092,7 @@
       "company_name": "KKR & Co. L.P."
     },
     {
-      "symbol": "BLD",
+      "symbol": "BLD-OLD",
       "manager_id": "VA",
       "action": "Buy",
       "date": "Q1 2022",
@@ -2367,7 +2367,7 @@
       "company_name": "Citigroup Inc."
     },
     {
-      "symbol": "BLD",
+      "symbol": "BLD-OLD",
       "manager_id": "VA",
       "action": "Sell 100.00%",
       "date": "Q3 2021",
@@ -2400,7 +2400,7 @@
       "company_name": "Insight Enterprises Inc."
     },
     {
-      "symbol": "BLD",
+      "symbol": "BLD-OLD",
       "manager_id": "VA",
       "action": "Add 116.44%",
       "date": "Q2 2021",
@@ -2532,7 +2532,7 @@
       "company_name": "Insight Enterprises Inc."
     },
     {
-      "symbol": "BLD",
+      "symbol": "BLD-OLD",
       "manager_id": "VA",
       "action": "Buy",
       "date": "Q1 2021",
@@ -7141,6 +7141,6 @@
       "company_name": "New York Times CL A"
     }
   ],
-  "timestamp": "2026-07-01T07:32:13.896898",
-  "scraped_date": "2026-07-01"
+  "timestamp": "2026-07-20T20:12:10.581328",
+  "scraped_date": "2026-07-20"
 }

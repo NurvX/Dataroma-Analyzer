@@ -7856,7 +7856,7 @@
       "company_name": "Alphabet Inc."
     },
     {
-      "symbol": "SSSS",
+      "symbol": "NSLR",
       "manager_id": "oa",
       "action": "Sell 100.00%",
       "date": "Q2 2020",
@@ -7864,7 +7864,7 @@
       "action_type": "Sell",
       "shares": 92960,
       "portfolio_percentage": 0.07,
-      "company_name": "Sutter Rock Capital Corp."
+      "company_name": "Neostellar Capital Corp."
     },
     {
       "symbol": "TWO",
@@ -8324,7 +8324,7 @@
       "date": "Q1 2020",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 70000,
+      "shares": 280000,
       "portfolio_percentage": 0.19,
       "company_name": "CrowdStrike Holdings Inc."
     },
@@ -8615,7 +8615,7 @@
       "company_name": "IQVIA Holdings Inc."
     },
     {
-      "symbol": "SSSS",
+      "symbol": "NSLR",
       "manager_id": "oa",
       "action": "Buy",
       "date": "Q4 2019",
@@ -8623,7 +8623,7 @@
       "action_type": "Buy",
       "shares": 92960,
       "portfolio_percentage": 0.03,
-      "company_name": "Sutter Rock Capital Corp."
+      "company_name": "Neostellar Capital Corp."
     },
     {
       "symbol": "SMTS",
@@ -9457,7 +9457,7 @@
       "date": "Q2 2019",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 70000,
+      "shares": 280000,
       "portfolio_percentage": 0.28,
       "company_name": "CrowdStrike Holdings Inc."
     },
@@ -11002,6 +11002,6 @@
       "company_name": "Micron Technology Inc."
     }
   ],
-  "timestamp": "2026-07-01T07:32:14.050042",
-  "scraped_date": "2026-07-01"
+  "timestamp": "2026-07-20T20:12:10.738290",
+  "scraped_date": "2026-07-20"
 }

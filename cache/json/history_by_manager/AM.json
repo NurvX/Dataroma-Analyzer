@@ -6410,7 +6410,7 @@
       "date": "Q1 2022",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 4294795,
+      "shares": 214740,
       "portfolio_percentage": 1.19,
       "company_name": "Alight Inc."
     },
@@ -6729,7 +6729,7 @@
       "date": "Q4 2021",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 3705205,
+      "shares": 185261,
       "portfolio_percentage": 1.03,
       "company_name": "Alight Inc."
     },
@@ -7026,7 +7026,7 @@
       "date": "Q3 2021",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 8000000,
+      "shares": 400000,
       "portfolio_percentage": 2.19,
       "company_name": "Alight Inc."
     },
@@ -11002,6 +11002,6 @@
       "company_name": "Intelsat S.A."
     }
   ],
-  "timestamp": "2026-07-01T07:32:14.016441",
-  "scraped_date": "2026-07-01"
+  "timestamp": "2026-07-20T20:12:10.704426",
+  "scraped_date": "2026-07-20"
 }

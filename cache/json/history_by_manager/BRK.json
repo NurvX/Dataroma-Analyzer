@@ -7842,7 +7842,7 @@
       "action_type": "Sell",
       "shares": 41129643,
       "portfolio_percentage": 3.57,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "COP",
@@ -8469,7 +8469,7 @@
       "action_type": "Add",
       "shares": 1040272,
       "portfolio_percentage": 0.1,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "WMT",
@@ -8612,7 +8612,7 @@
       "action_type": "Add",
       "shares": 8845261,
       "portfolio_percentage": 0.83,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "DVA",
@@ -8799,7 +8799,7 @@
       "action_type": "Buy",
       "shares": 31244110,
       "portfolio_percentage": 3.07,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "SU",
@@ -10086,7 +10086,7 @@
       "action_type": "Sell",
       "shares": 421800,
       "portfolio_percentage": 0.05,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "DG",
@@ -11002,6 +11002,6 @@
       "company_name": "Johnson & Johnson"
     }
   ],
-  "timestamp": "2026-07-01T07:32:13.978417",
-  "scraped_date": "2026-07-01"
+  "timestamp": "2026-07-20T20:12:10.665035",
+  "scraped_date": "2026-07-20"
 }

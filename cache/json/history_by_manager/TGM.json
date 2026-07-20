@@ -976,7 +976,7 @@
       "date": "Q3 2025",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 500000,
+      "shares": 2000000,
       "portfolio_percentage": 0.75,
       "company_name": "CrowdStrike Holdings Inc."
     },
@@ -1317,7 +1317,7 @@
       "date": "Q2 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 400000,
+      "shares": 1600000,
       "portfolio_percentage": 0.6,
       "company_name": "CrowdStrike Holdings Inc."
     },
@@ -5365,7 +5365,7 @@
       "date": "Q3 2022",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 5651404,
+      "shares": 22605616,
       "portfolio_percentage": 8.54,
       "company_name": "CrowdStrike Holdings Inc."
     },
@@ -5805,7 +5805,7 @@
       "date": "Q2 2022",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 2257414,
+      "shares": 9029656,
       "portfolio_percentage": 3.19,
       "company_name": "CrowdStrike Holdings Inc."
     },
@@ -6575,7 +6575,7 @@
       "date": "Q1 2022",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 1271818,
+      "shares": 5087272,
       "portfolio_percentage": 1.08,
       "company_name": "CrowdStrike Holdings Inc."
     },
@@ -7378,7 +7378,7 @@
       "date": "Q1 2022",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 2207000,
+      "shares": 551750,
       "portfolio_percentage": 0.08,
       "company_name": "Marqeta Inc."
     },
@@ -8478,7 +8478,7 @@
       "date": "Q4 2021",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 2207000,
+      "shares": 551750,
       "portfolio_percentage": 0.08,
       "company_name": "Marqeta Inc."
     },
@@ -11002,6 +11002,6 @@
       "company_name": "Snowflake Inc."
     }
   ],
-  "timestamp": "2026-07-01T07:32:14.025943",
-  "scraped_date": "2026-07-01"
+  "timestamp": "2026-07-20T20:12:10.713955",
+  "scraped_date": "2026-07-20"
 }

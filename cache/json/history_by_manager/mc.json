@@ -8390,7 +8390,7 @@
       "date": "Q3 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 631827,
+      "shares": 31592,
       "portfolio_percentage": 0.0,
       "company_name": "Curis Inc."
     },
@@ -9160,7 +9160,7 @@
       "date": "Q3 2025",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 110164,
+      "shares": 5509,
       "portfolio_percentage": 0.01,
       "company_name": "Alight Inc."
     },
@@ -10403,7 +10403,7 @@
       "date": "Q2 2025",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 49554,
+      "shares": 2477,
       "portfolio_percentage": 0.0,
       "company_name": "Curis Inc."
     },
@@ -11002,6 +11002,6 @@
       "company_name": "Shoe Carnival Inc."
     }
   ],
-  "timestamp": "2026-07-01T07:32:13.878592",
-  "scraped_date": "2026-07-01"
+  "timestamp": "2026-07-20T20:12:10.562190",
+  "scraped_date": "2026-07-20"
 }

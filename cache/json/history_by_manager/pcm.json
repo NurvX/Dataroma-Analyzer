@@ -321,7 +321,7 @@
       "company_name": "Green Brick Partners"
     },
     {
-      "symbol": "NUVL",
+      "symbol": "NUVL-OLD",
       "manager_id": "pcm",
       "action": "Add 100.41%",
       "date": "Q1 2026",
@@ -734,7 +734,7 @@
       "date": "Q1 2026",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 49,
+      "shares": 98,
       "portfolio_percentage": 0.0,
       "company_name": "Mueller Industries"
     },
@@ -992,7 +992,7 @@
       "company_name": "Callaway Golf Co."
     },
     {
-      "symbol": "CEPT",
+      "symbol": "CEPT-OLD",
       "manager_id": "pcm",
       "action": "Buy",
       "date": "Q1 2026",
@@ -2763,7 +2763,7 @@
       "company_name": "Eos Energy Enterprises Inc"
     },
     {
-      "symbol": "ESPR",
+      "symbol": "ESPR-OLD",
       "manager_id": "pcm",
       "action": "Sell 100.00%",
       "date": "Q1 2026",
@@ -4017,7 +4017,7 @@
       "company_name": "Denali Therapeutics Inc."
     },
     {
-      "symbol": "ESPR",
+      "symbol": "ESPR-OLD",
       "manager_id": "pcm",
       "action": "Buy",
       "date": "Q4 2025",
@@ -4226,7 +4226,7 @@
       "company_name": "Newamsterdam Pharma Co Nv"
     },
     {
-      "symbol": "NUVL",
+      "symbol": "NUVL-OLD",
       "manager_id": "pcm",
       "action": "Buy",
       "date": "Q4 2025",
@@ -5453,7 +5453,7 @@
       "date": "Q4 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 2257,
+      "shares": 4514,
       "portfolio_percentage": 0.0,
       "company_name": "Mueller Industries"
     },
@@ -7488,7 +7488,7 @@
       "date": "Q3 2025",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 4977,
+      "shares": 9954,
       "portfolio_percentage": 0.0,
       "company_name": "Mueller Industries"
     },
@@ -11002,6 +11002,6 @@
       "company_name": "Peloton Interactive Inc."
     }
   ],
-  "timestamp": "2026-07-01T07:32:14.196853",
-  "scraped_date": "2026-07-01"
+  "timestamp": "2026-07-20T20:12:10.887344",
+  "scraped_date": "2026-07-20"
 }

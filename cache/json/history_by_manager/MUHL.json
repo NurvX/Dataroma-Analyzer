@@ -76,7 +76,7 @@
       "action_type": "Buy",
       "shares": 1640,
       "portfolio_percentage": 0.07,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "URI",
@@ -277,7 +277,7 @@
       "company_name": "MasTec Inc."
     },
     {
-      "symbol": "GTLS",
+      "symbol": "GTLS-OLD",
       "manager_id": "MUHL",
       "action": "Sell 100.00%",
       "date": "Q1 2026",
@@ -783,7 +783,7 @@
       "company_name": "Equinox Gold Corp"
     },
     {
-      "symbol": "GTLS",
+      "symbol": "GTLS-OLD",
       "manager_id": "MUHL",
       "action": "Buy",
       "date": "Q3 2025",
@@ -2697,6 +2697,6 @@
       "company_name": "McKesson Corp."
     }
   ],
-  "timestamp": "2026-07-01T07:32:14.300492",
-  "scraped_date": "2026-07-01"
+  "timestamp": "2026-07-20T20:12:10.988053",
+  "scraped_date": "2026-07-20"
 }

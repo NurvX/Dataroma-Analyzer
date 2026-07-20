@@ -277,7 +277,7 @@
       "company_name": "Weatherford International plc"
     },
     {
-      "symbol": "GTLS",
+      "symbol": "GTLS-OLD",
       "manager_id": "AIM",
       "action": "Sell 100.00%",
       "date": "Q4 2025",
@@ -442,7 +442,7 @@
       "company_name": "Weatherford International plc"
     },
     {
-      "symbol": "GTLS",
+      "symbol": "GTLS-OLD",
       "manager_id": "AIM",
       "action": "Reduce 46.31%",
       "date": "Q3 2025",
@@ -519,7 +519,7 @@
       "company_name": "Ashland Global Holdings Inc."
     },
     {
-      "symbol": "GTLS",
+      "symbol": "GTLS-OLD",
       "manager_id": "AIM",
       "action": "Add 33.74%",
       "date": "Q2 2025",
@@ -662,7 +662,7 @@
       "company_name": "Ashland Global Holdings Inc."
     },
     {
-      "symbol": "GTLS",
+      "symbol": "GTLS-OLD",
       "manager_id": "AIM",
       "action": "Reduce 10.18%",
       "date": "Q1 2025",
@@ -794,7 +794,7 @@
       "company_name": "Goodyear Tire & Rubber"
     },
     {
-      "symbol": "GTLS",
+      "symbol": "GTLS-OLD",
       "manager_id": "AIM",
       "action": "Reduce 46.71%",
       "date": "Q4 2024",
@@ -838,7 +838,7 @@
       "company_name": "Patterson-UTI Energy Inc."
     },
     {
-      "symbol": "GTLS",
+      "symbol": "GTLS-OLD",
       "manager_id": "AIM",
       "action": "Add 512.96%",
       "date": "Q3 2024",
@@ -1003,7 +1003,7 @@
       "company_name": "Aptiv PLC"
     },
     {
-      "symbol": "GTLS",
+      "symbol": "GTLS-OLD",
       "manager_id": "AIM",
       "action": "Buy",
       "date": "Q2 2024",
@@ -10188,6 +10188,6 @@
       "company_name": "GEO Group Inc."
     }
   ],
-  "timestamp": "2026-07-01T07:32:13.997140",
-  "scraped_date": "2026-07-01"
+  "timestamp": "2026-07-20T20:12:10.684570",
+  "scraped_date": "2026-07-20"
 }

@@ -219,7 +219,7 @@
       "action_type": "Add",
       "shares": 917,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "DIS",
@@ -901,7 +901,7 @@
       "action_type": "Add",
       "shares": 1291,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "UNP",
@@ -1451,7 +1451,7 @@
       "action_type": "Add",
       "shares": 1441,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "CABJF",
@@ -2122,7 +2122,7 @@
       "action_type": "Add",
       "shares": 832,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "DROOF",
@@ -2815,7 +2815,7 @@
       "action_type": "Add",
       "shares": 516,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "UNP",
@@ -3596,7 +3596,7 @@
       "action_type": "Add",
       "shares": 720,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "CVX",
@@ -4322,7 +4322,7 @@
       "action_type": "Add",
       "shares": 7703,
       "portfolio_percentage": 0.01,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "UBER",
@@ -5202,7 +5202,7 @@
       "action_type": "Add",
       "shares": 396,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "NSRGY",
@@ -5851,7 +5851,7 @@
       "action_type": "Add",
       "shares": 935,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "CABJF",
@@ -6643,7 +6643,7 @@
       "action_type": "Add",
       "shares": 1019,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "DD",
@@ -7457,7 +7457,7 @@
       "action_type": "Reduce",
       "shares": 229,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "CR",
@@ -8128,7 +8128,7 @@
       "action_type": "Add",
       "shares": 1341,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "UNP",
@@ -8821,7 +8821,7 @@
       "action_type": "Add",
       "shares": 610,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "DVDCF",
@@ -9668,7 +9668,7 @@
       "action_type": "Reduce",
       "shares": 2641,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "HRL",
@@ -10185,7 +10185,7 @@
       "action_type": "Add",
       "shares": 835,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "CVX",
@@ -11002,6 +11002,6 @@
       "company_name": "Compagnie Financiere Richemont WTS 23"
     }
   ],
-  "timestamp": "2026-07-01T07:32:14.240773",
-  "scraped_date": "2026-07-01"
+  "timestamp": "2026-07-20T20:12:10.930151",
+  "scraped_date": "2026-07-20"
 }

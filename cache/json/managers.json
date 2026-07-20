@@ -1,5 +1,32 @@
 [
   {
+    "id": "MAVFX",
+    "name": "David Katz",
+    "firm": "Matrix Asset Advisors Updated 15 Jul 2026",
+    "portfolio_value": 0,
+    "num_holdings": 0,
+    "url": "",
+    "last_updated": null
+  },
+  {
+    "id": "LT",
+    "name": "Lindsell Train Updated 15 Jul 2026",
+    "firm": "",
+    "portfolio_value": 0,
+    "num_holdings": 0,
+    "url": "",
+    "last_updated": null
+  },
+  {
+    "id": "aq",
+    "name": "Guy Spier",
+    "firm": "Aquamarine Capital Updated 10 Jul 2026",
+    "portfolio_value": 0,
+    "num_holdings": 0,
+    "url": "",
+    "last_updated": null
+  },
+  {
     "id": "oc",
     "name": "Howard Marks",
     "firm": "Oaktree Capital Management Updated 20 May 2026",
@@ -657,6 +684,15 @@
     "last_updated": null
   },
   {
+    "id": "CHE",
+    "name": "Steven Check",
+    "firm": "Check Capital Management Updated 04 May 2026",
+    "portfolio_value": 0,
+    "num_holdings": 0,
+    "url": "",
+    "last_updated": null
+  },
+  {
     "id": "MKL",
     "name": "Thomas Gayner",
     "firm": "Markel Group Updated 01 May 2026",
@@ -684,15 +720,6 @@
     "last_updated": null
   },
   {
-    "id": "LT",
-    "name": "Lindsell Train Updated 24 Apr 2026",
-    "firm": "",
-    "portfolio_value": 0,
-    "num_holdings": 0,
-    "url": "",
-    "last_updated": null
-  },
-  {
     "id": "PIM",
     "name": "Richard Pzena",
     "firm": "Pzena Investment Management Updated 24 Apr 2026",
@@ -702,27 +729,9 @@
     "last_updated": null
   },
   {
-    "id": "MAVFX",
-    "name": "David Katz",
-    "firm": "Matrix Asset Advisors Updated 22 Apr 2026",
-    "portfolio_value": 0,
-    "num_holdings": 0,
-    "url": "",
-    "last_updated": null
-  },
-  {
     "id": "OFALX",
     "name": "Robert Olstein",
     "firm": "Olstein Capital Management Updated 21 Apr 2026",
-    "portfolio_value": 0,
-    "num_holdings": 0,
-    "url": "",
-    "last_updated": null
-  },
-  {
-    "id": "aq",
-    "name": "Guy Spier",
-    "firm": "Aquamarine Capital Updated 17 Apr 2026",
     "portfolio_value": 0,
     "num_holdings": 0,
     "url": "",

@@ -1773,7 +1773,7 @@
       "company_name": "Mativ Holdings Inc."
     },
     {
-      "symbol": "WSR",
+      "symbol": "WSR-OLD",
       "manager_id": "FE",
       "action": "Add 4.08%",
       "date": "Q1 2026",
@@ -3739,7 +3739,7 @@
       "action_type": "Reduce",
       "shares": 1516212,
       "portfolio_percentage": 0.44,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "EXEL",
@@ -7240,7 +7240,7 @@
       "company_name": "NMI Holdings"
     },
     {
-      "symbol": "WSR",
+      "symbol": "WSR-OLD",
       "manager_id": "FE",
       "action": "Reduce 0.10%",
       "date": "Q4 2025",
@@ -7468,7 +7468,7 @@
       "action_type": "Reduce",
       "shares": 40551,
       "portfolio_percentage": 0.01,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "ACN",
@@ -9341,7 +9341,7 @@
       "company_name": "Dover Corp."
     },
     {
-      "symbol": "GTLS",
+      "symbol": "GTLS-OLD",
       "manager_id": "FE",
       "action": "Sell 100.00%",
       "date": "Q4 2025",
@@ -11002,6 +11002,6 @@
       "company_name": "HealthStream Inc."
     }
   ],
-  "timestamp": "2026-07-01T07:32:14.144368",
-  "scraped_date": "2026-07-01"
+  "timestamp": "2026-07-20T20:12:10.835536",
+  "scraped_date": "2026-07-20"
 }

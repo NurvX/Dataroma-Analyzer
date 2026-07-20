@@ -659,7 +659,7 @@
       "action_type": "Sell",
       "shares": 3132,
       "portfolio_percentage": 0.24,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "AKAM",
@@ -802,7 +802,7 @@
       "action_type": "Reduce",
       "shares": 8,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "GE",
@@ -1517,7 +1517,7 @@
       "action_type": "Reduce",
       "shares": 13,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "EFX",
@@ -1924,7 +1924,7 @@
       "action_type": "Add",
       "shares": 227,
       "portfolio_percentage": 0.01,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "BLK",
@@ -2474,7 +2474,7 @@
       "action_type": "Add",
       "shares": 254,
       "portfolio_percentage": 0.01,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "TSM",
@@ -3288,7 +3288,7 @@
       "action_type": "Buy",
       "shares": 2672,
       "portfolio_percentage": 0.11,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "MCHP",
@@ -4809,6 +4809,6 @@
       "company_name": "Taiwan Semiconductor S.A."
     }
   ],
-  "timestamp": "2026-07-01T07:32:14.110365",
-  "scraped_date": "2026-07-01"
+  "timestamp": "2026-07-20T20:12:10.800925",
+  "scraped_date": "2026-07-20"
 }

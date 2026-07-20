@@ -1352,7 +1352,7 @@
       "action_type": "Reduce",
       "shares": 500,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "COP",
@@ -5323,7 +5323,7 @@
       "action_type": "Reduce",
       "shares": 5200,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "BLK",
@@ -5785,7 +5785,7 @@
       "action_type": "Add",
       "shares": 1249,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "JPM",
@@ -8271,7 +8271,7 @@
       "action_type": "Buy",
       "shares": 5917,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "KAR",
@@ -11002,6 +11002,6 @@
       "company_name": "Microsoft Corp."
     }
   ],
-  "timestamp": "2026-07-01T07:32:13.924042",
-  "scraped_date": "2026-07-01"
+  "timestamp": "2026-07-20T20:12:10.608656",
+  "scraped_date": "2026-07-20"
 }

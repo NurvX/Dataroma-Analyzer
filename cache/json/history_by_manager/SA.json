@@ -186,7 +186,7 @@
       "action_type": "Reduce",
       "shares": 39,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "AXP",
@@ -527,7 +527,7 @@
       "action_type": "Reduce",
       "shares": 284,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "NXPI",
@@ -714,7 +714,7 @@
       "action_type": "Add",
       "shares": 1007,
       "portfolio_percentage": 0.01,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "BRK.B",
@@ -1099,7 +1099,7 @@
       "action_type": "Add",
       "shares": 561,
       "portfolio_percentage": 0.01,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "DECK",
@@ -1363,7 +1363,7 @@
       "action_type": "Reduce",
       "shares": 159,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "SBUX",
@@ -1913,7 +1913,7 @@
       "action_type": "Add",
       "shares": 167,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "NEM",
@@ -2375,7 +2375,7 @@
       "action_type": "Reduce",
       "shares": 1646,
       "portfolio_percentage": 0.03,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "VLO",
@@ -2529,7 +2529,7 @@
       "action_type": "Add",
       "shares": 1575,
       "portfolio_percentage": 0.03,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "ALK",
@@ -3255,7 +3255,7 @@
       "action_type": "Reduce",
       "shares": 18013,
       "portfolio_percentage": 0.51,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "NXPI",
@@ -3585,7 +3585,7 @@
       "action_type": "Reduce",
       "shares": 15119,
       "portfolio_percentage": 0.38,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "GEHC",
@@ -3860,7 +3860,7 @@
       "action_type": "Reduce",
       "shares": 12778,
       "portfolio_percentage": 0.36,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "COST",
@@ -4179,7 +4179,7 @@
       "action_type": "Reduce",
       "shares": 20108,
       "portfolio_percentage": 0.6,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "Y-OLD",
@@ -4454,7 +4454,7 @@
       "action_type": "Reduce",
       "shares": 37212,
       "portfolio_percentage": 0.98,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "Y-OLD",
@@ -4674,7 +4674,7 @@
       "action_type": "Add",
       "shares": 471,
       "portfolio_percentage": 0.01,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "MCY",
@@ -4982,7 +4982,7 @@
       "action_type": "Reduce",
       "shares": 149,
       "portfolio_percentage": 0.0,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "BRK.B",
@@ -5279,7 +5279,7 @@
       "action_type": "Reduce",
       "shares": 5930,
       "portfolio_percentage": 0.11,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "KO",
@@ -5455,7 +5455,7 @@
       "action_type": "Add",
       "shares": 833,
       "portfolio_percentage": 0.02,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "DLTR",
@@ -5686,7 +5686,7 @@
       "action_type": "Add",
       "shares": 6043,
       "portfolio_percentage": 0.13,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "NEM",
@@ -6060,7 +6060,7 @@
       "action_type": "Add",
       "shares": 267,
       "portfolio_percentage": 0.01,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "MRK",
@@ -6291,7 +6291,7 @@
       "action_type": "Add",
       "shares": 15066,
       "portfolio_percentage": 0.27,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "NEM",
@@ -6610,7 +6610,7 @@
       "action_type": "Reduce",
       "shares": 699,
       "portfolio_percentage": 0.01,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "ALK",
@@ -6885,7 +6885,7 @@
       "action_type": "Reduce",
       "shares": 606,
       "portfolio_percentage": 0.02,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "NKE",
@@ -7061,7 +7061,7 @@
       "action_type": "Add",
       "shares": 29972,
       "portfolio_percentage": 0.72,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "GE",
@@ -7336,7 +7336,7 @@
       "action_type": "Add",
       "shares": 1000,
       "portfolio_percentage": 0.04,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "OLN",
@@ -7545,7 +7545,7 @@
       "action_type": "Add",
       "shares": 3273,
       "portfolio_percentage": 0.13,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "INTC",
@@ -7842,7 +7842,7 @@
       "action_type": "Add",
       "shares": 185,
       "portfolio_percentage": 0.01,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "DIS",
@@ -8051,7 +8051,7 @@
       "action_type": "Reduce",
       "shares": 2150,
       "portfolio_percentage": 0.11,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "NKE",
@@ -8150,7 +8150,7 @@
       "action_type": "Reduce",
       "shares": 2040,
       "portfolio_percentage": 0.09,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "NKE",
@@ -8340,6 +8340,6 @@
       "company_name": "Sanofi Aventis"
     }
   ],
-  "timestamp": "2026-07-01T07:32:13.949710",
-  "scraped_date": "2026-07-01"
+  "timestamp": "2026-07-20T20:12:10.635048",
+  "scraped_date": "2026-07-20"
 }

@@ -343,7 +343,7 @@
       "company_name": "Qualys Inc."
     },
     {
-      "symbol": "CPRX",
+      "symbol": "CPRX-OLD",
       "manager_id": "FS",
       "action": "Reduce 74.88%",
       "date": "Q1 2026",
@@ -772,7 +772,7 @@
       "company_name": "Zoetis Inc."
     },
     {
-      "symbol": "CPRX",
+      "symbol": "CPRX-OLD",
       "manager_id": "FS",
       "action": "Add 24.17%",
       "date": "Q3 2025",
@@ -1036,7 +1036,7 @@
       "company_name": "Intuit Inc."
     },
     {
-      "symbol": "CPRX",
+      "symbol": "CPRX-OLD",
       "manager_id": "FS",
       "action": "Add 25.93%",
       "date": "Q2 2025",
@@ -1465,7 +1465,7 @@
       "company_name": "Intuit Inc."
     },
     {
-      "symbol": "CPRX",
+      "symbol": "CPRX-OLD",
       "manager_id": "FS",
       "action": "Buy",
       "date": "Q1 2025",
@@ -11002,6 +11002,6 @@
       "company_name": "Intuit Inc."
     }
   ],
-  "timestamp": "2026-07-01T07:32:14.091428",
-  "scraped_date": "2026-07-01"
+  "timestamp": "2026-07-20T20:12:10.780240",
+  "scraped_date": "2026-07-20"
 }

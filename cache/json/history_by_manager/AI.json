@@ -1157,7 +1157,7 @@
       "company_name": "Check Point Software Technologies"
     },
     {
-      "symbol": "JHG",
+      "symbol": "JHG-OLD",
       "manager_id": "AI",
       "action": "Sell 100.00%",
       "date": "Q1 2026",
@@ -2367,7 +2367,7 @@
       "company_name": "Kennametal Inc."
     },
     {
-      "symbol": "JHG",
+      "symbol": "JHG-OLD",
       "manager_id": "AI",
       "action": "Reduce 42.81%",
       "date": "Q4 2025",
@@ -2807,7 +2807,7 @@
       "company_name": "Stanley Black & Decker Inc."
     },
     {
-      "symbol": "JHG",
+      "symbol": "JHG-OLD",
       "manager_id": "AI",
       "action": "Add 0.38%",
       "date": "Q3 2025",
@@ -4380,7 +4380,7 @@
       "company_name": "Progressive Corp."
     },
     {
-      "symbol": "JHG",
+      "symbol": "JHG-OLD",
       "manager_id": "AI",
       "action": "Reduce 5.20%",
       "date": "Q2 2025",
@@ -5458,7 +5458,7 @@
       "company_name": "Affiliated Managers Group"
     },
     {
-      "symbol": "JHG",
+      "symbol": "JHG-OLD",
       "manager_id": "AI",
       "action": "Reduce 1.24%",
       "date": "Q1 2025",
@@ -6459,7 +6459,7 @@
       "company_name": "Intercorp Financial Services"
     },
     {
-      "symbol": "JHG",
+      "symbol": "JHG-OLD",
       "manager_id": "AI",
       "action": "Reduce 0.34%",
       "date": "Q4 2024",
@@ -7834,7 +7834,7 @@
       "company_name": "BOK Financial Corp."
     },
     {
-      "symbol": "JHG",
+      "symbol": "JHG-OLD",
       "manager_id": "AI",
       "action": "Reduce 3.25%",
       "date": "Q3 2024",
@@ -8923,7 +8923,7 @@
       "company_name": "Teradata Corp."
     },
     {
-      "symbol": "JHG",
+      "symbol": "JHG-OLD",
       "manager_id": "AI",
       "action": "Add 0.74%",
       "date": "Q2 2024",
@@ -9891,6 +9891,6 @@
       "company_name": "Vanguard FTSE Emerging Marke"
     }
   ],
-  "timestamp": "2026-07-01T07:32:14.122882",
-  "scraped_date": "2026-07-01"
+  "timestamp": "2026-07-20T20:12:10.813276",
+  "scraped_date": "2026-07-20"
 }

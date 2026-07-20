@@ -1465,7 +1465,7 @@
       "company_name": "Membership Collective Grp Inc."
     },
     {
-      "symbol": "GTLS",
+      "symbol": "GTLS-OLD",
       "manager_id": "tp",
       "action": "Sell 100.00%",
       "date": "Q3 2025",
@@ -1784,7 +1784,7 @@
       "company_name": "DocuSign Inc."
     },
     {
-      "symbol": "GTLS",
+      "symbol": "GTLS-OLD",
       "manager_id": "tp",
       "action": "Buy",
       "date": "Q2 2025",
@@ -7290,7 +7290,7 @@
       "date": "Q1 2022",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 8372080,
+      "shares": 418604,
       "portfolio_percentage": 0.63,
       "company_name": "Alight Inc."
     },
@@ -7972,7 +7972,7 @@
       "date": "Q4 2021",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 8627920,
+      "shares": 431396,
       "portfolio_percentage": 0.65,
       "company_name": "Alight Inc."
     },
@@ -8731,7 +8731,7 @@
       "date": "Q3 2021",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 17000000,
+      "shares": 850000,
       "portfolio_percentage": 1.07,
       "company_name": "Alight Inc."
     },
@@ -11002,6 +11002,6 @@
       "company_name": "Levere Holdings Corp. Units"
     }
   ],
-  "timestamp": "2026-07-01T07:32:13.969083",
-  "scraped_date": "2026-07-01"
+  "timestamp": "2026-07-20T20:12:10.655258",
+  "scraped_date": "2026-07-20"
 }

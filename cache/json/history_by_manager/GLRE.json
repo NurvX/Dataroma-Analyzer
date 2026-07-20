@@ -1372,7 +1372,7 @@
       "date": "Q2 2025",
       "percentage_change": 0.0,
       "action_type": "Sell",
-      "shares": 1000000,
+      "shares": 50000,
       "portfolio_percentage": 0.3,
       "company_name": "Alight Inc."
     },
@@ -1636,7 +1636,7 @@
       "date": "Q1 2025",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 2353026,
+      "shares": 117652,
       "portfolio_percentage": 0.71,
       "company_name": "Alight Inc."
     },
@@ -1944,7 +1944,7 @@
       "date": "Q4 2024",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 8493184,
+      "shares": 424660,
       "portfolio_percentage": 3.01,
       "company_name": "Alight Inc."
     },
@@ -2131,7 +2131,7 @@
       "date": "Q3 2024",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 772120,
+      "shares": 38606,
       "portfolio_percentage": 0.24,
       "company_name": "Alight Inc."
     },
@@ -2406,7 +2406,7 @@
       "date": "Q2 2024",
       "percentage_change": 0.0,
       "action_type": "Reduce",
-      "shares": 453840,
+      "shares": 22692,
       "portfolio_percentage": 0.16,
       "company_name": "Alight Inc."
     },
@@ -2593,7 +2593,7 @@
       "date": "Q1 2024",
       "percentage_change": 0.0,
       "action_type": "Add",
-      "shares": 2286260,
+      "shares": 114313,
       "portfolio_percentage": 1.03,
       "company_name": "Alight Inc."
     },
@@ -3187,7 +3187,7 @@
       "date": "Q4 2023",
       "percentage_change": 0.0,
       "action_type": "Buy",
-      "shares": 9241670,
+      "shares": 462083,
       "portfolio_percentage": 3.85,
       "company_name": "Alight Inc."
     },
@@ -5381,7 +5381,7 @@
       "company_name": "Vaneck Oil Services ETF"
     },
     {
-      "symbol": "EVGOW",
+      "symbol": "EVGOW-OLD",
       "manager_id": "GLRE",
       "action": "Sell 100.00%",
       "date": "Q2 2022",
@@ -5755,7 +5755,7 @@
       "company_name": "BlackSky Technology Inc. WTS"
     },
     {
-      "symbol": "EVGOW",
+      "symbol": "EVGOW-OLD",
       "manager_id": "GLRE",
       "action": "Reduce 50.00%",
       "date": "Q1 2022",
@@ -8010,7 +8010,7 @@
       "company_name": "Proterra Inc. WTS"
     },
     {
-      "symbol": "EVGOW",
+      "symbol": "EVGOW-OLD",
       "manager_id": "GLRE",
       "action": "Buy",
       "date": "Q1 2021",
@@ -11002,6 +11002,6 @@
       "company_name": "Adient plc"
     }
   ],
-  "timestamp": "2026-07-01T07:32:13.903530",
-  "scraped_date": "2026-07-01"
+  "timestamp": "2026-07-20T20:12:10.588207",
+  "scraped_date": "2026-07-20"
 }

@@ -3882,7 +3882,7 @@
       "action_type": "Sell",
       "shares": 2375,
       "portfolio_percentage": 0.04,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "T",
@@ -3992,7 +3992,7 @@
       "action_type": "Buy",
       "shares": 2375,
       "portfolio_percentage": 0.04,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "GOOG",
@@ -4663,7 +4663,7 @@
       "action_type": "Sell",
       "shares": 2500,
       "portfolio_percentage": 0.03,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "PYPL",
@@ -5015,7 +5015,7 @@
       "action_type": "Buy",
       "shares": 2500,
       "portfolio_percentage": 0.03,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     },
     {
       "symbol": "BRK.B",
@@ -10999,9 +10999,9 @@
       "action_type": "Sell",
       "shares": 2866,
       "portfolio_percentage": 0.01,
-      "company_name": "Exxon Mobil Corp."
+      "company_name": "ExxonMobil Holdings Corp."
     }
   ],
-  "timestamp": "2026-07-01T07:32:14.007151",
-  "scraped_date": "2026-07-01"
+  "timestamp": "2026-07-20T20:12:10.694849",
+  "scraped_date": "2026-07-20"
 }
